@@ -1,4 +1,4 @@
-import logoUrl from "@/assets/totvs-logo.png";
+import logoUrl from "../assets/Vector.svg";
 
 /*
  * PONTO ÚNICO DE TROCA DA LOGO
