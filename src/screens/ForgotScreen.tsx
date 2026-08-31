@@ -1,43 +1,267 @@
 import { useState } from "react";
 import type { AuthScreen } from "@/navigation";
-import { useLocale } from "@/i18n/useLocale";
-import { MailIcon } from "@/icons";
-import { AuthCard, AuthHeading, AuthLeftPanel, GradientBg } from "@/components/layout/AuthLayout";
-import InputField from "@/components/ui/InputField";
-import InfoBox from "@/components/ui/InfoBox";
-import LinkBtn from "@/components/ui/LinkBtn";
-import PrimaryBtn from "@/components/ui/PrimaryBtn";
+import { MailIcon, InfoIcon } from "@/icons";
 
-export default function ForgotScreen({ onNav }: { onNav: (screen: AuthScreen) => void }) {
-  const { t } = useLocale();
+export default function ForgotScreen({
+  onNav,
+}: {
+  onNav: (screen: AuthScreen) => void;
+}) {
   const [email, setEmail] = useState("");
 
   return (
-    <GradientBg>
-      <AuthCard wide>
-        <AuthLeftPanel subtitle={t("auth.forgotSubtitle")} />
-
-        <div className="flex flex-1 flex-col gap-5 p-5 sm:p-8">
-          <AuthHeading icon={<MailIcon size={28} />} title={t("auth.forgotTitle")} />
-
-          <InputField
-            label={t("auth.email")}
-            type="email"
-            placeholder={t("auth.emailPlaceholder")}
-            value={email}
-            onChange={setEmail}
-            autoComplete="username"
-          />
-
-          <InfoBox>{t("auth.forgotInfo")}</InfoBox>
-
-          <PrimaryBtn onClick={() => onNav("verify-code")}>{t("auth.forgotSubmit")}</PrimaryBtn>
-
-          <div className="text-center">
-            <LinkBtn onClick={() => onNav("login")}>{t("auth.backToLogin")}</LinkBtn>
+    <main
+      className="
+        flex
+        min-h-screen
+        w-full
+        items-center
+        justify-center
+        overflow-hidden
+        bg-[linear-gradient(110deg,#20236f_0%,#183b80_35%,#0878b4_68%,#06aede_100%)]
+        px-6
+      "
+    >
+      <div
+        className="
+          grid
+          h-[72vh]
+          max-h-[570px]
+          min-h-[470px]
+          w-[86vw]
+          max-w-[1120px]
+          grid-cols-[42%_58%]
+          overflow-hidden
+          rounded-[42px]
+          bg-[linear-gradient(120deg,#eef4ff_0%,#d9efff_100%)]
+          shadow-[0_15px_35px_rgba(0,0,0,0.12)]
+        "
+      >
+        {/* LADO ESQUERDO */}
+        <section
+          className="
+            relative
+            flex
+            flex-col
+            items-center
+            justify-center
+            px-[55px]
+          "
+        >
+          {/* Ícone de e-mail */}
+          <div
+            className="
+              mb-[28px]
+              flex
+              h-[110px]
+              w-[110px]
+              items-center
+              justify-center
+              rounded-full
+              border-[2px]
+              border-white
+              text-[#13273e]
+            "
+          >
+            <MailIcon size={65} />
           </div>
-        </div>
-      </AuthCard>
-    </GradientBg>
+
+          {/* Logo */}
+          <div className="mb-[28px] flex items-center justify-center gap-[10px]">
+            <img
+              src="/logo_azul.png"
+              alt=""
+              className="h-[42px] w-[42px] object-contain"
+            />
+
+            <span
+              className="
+                text-[23px]
+                font-bold
+                tracking-[-0.5px]
+                text-[#17283e]
+              "
+            >
+              TOTVS Insight
+            </span>
+          </div>
+
+          {/* Texto */}
+          <p
+            className="
+              max-w-[260px]
+              text-left
+              text-[18px]
+              font-semibold
+              leading-[1.7]
+              text-[#17283e]
+            "
+          >
+            Informe o seu e-mail
+            <br />
+            corporativo para
+            <br />
+            receber um código
+            <br />
+            de verificação
+          </p>
+
+          {/* Linha divisória */}
+          <div
+            className="
+              absolute
+              right-0
+              top-[10%]
+              h-[80%]
+              w-[2px]
+              bg-white/90
+            "
+          />
+        </section>
+
+        {/* LADO DIREITO */}
+        <section
+          className="
+            flex
+            flex-col
+            justify-center
+            px-[68px]
+            py-[45px]
+          "
+        >
+          {/* E-mail */}
+          <div className="mb-[28px]">
+            <label
+              htmlFor="email"
+              className="
+                mb-[12px]
+                block
+                text-[18px]
+                font-semibold
+                text-[#17283e]
+              "
+            >
+              E-mail corporativo
+            </label>
+
+            <input
+              id="email"
+              type="email"
+              placeholder="seu.email@empresa.com"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              autoComplete="username"
+              className="
+                h-[58px]
+                w-full
+                rounded-[7px]
+                border
+                border-[#9caabb]
+                bg-white
+                px-[18px]
+                text-[14px]
+                font-medium
+                text-[#25364b]
+                shadow-[0_2px_5px_rgba(0,0,0,0.15)]
+                outline-none
+                transition
+                placeholder:text-[#25364b]
+                focus:border-[#1452ab]
+              "
+            />
+          </div>
+
+          {/* Receber código */}
+          <button
+            type="button"
+            onClick={() => onNav("verify-code")}
+            className="
+              flex
+              h-[58px]
+              w-full
+              items-center
+              justify-center
+              rounded-[7px]
+              bg-[#064da5]
+              text-[16px]
+              font-semibold
+              text-white
+              shadow-[0_3px_6px_rgba(0,0,0,0.16)]
+              transition
+              hover:bg-[#043f8a]
+              active:translate-y-[1px]
+            "
+          >
+            Receber código
+          </button>
+
+          {/* Voltar */}
+          <div className="mb-[24px] mt-[14px] text-center">
+            <button
+              type="button"
+              onClick={() => onNav("login")}
+              className="
+                text-[13px]
+                font-semibold
+                text-[#064da5]
+                transition
+                hover:underline
+              "
+            >
+              Voltar para login
+            </button>
+          </div>
+
+          {/* Informação */}
+          <div
+            className="
+              flex
+              min-h-[105px]
+              w-full
+              items-center
+              gap-[20px]
+              rounded-[7px]
+              bg-[#064da5]
+              px-[28px]
+              py-[18px]
+              text-white
+              shadow-[0_2px_5px_rgba(0,0,0,0.10)]
+            "
+          >
+            <div
+              className="
+                flex
+                h-[32px]
+                w-[32px]
+                shrink-0
+                items-center
+                justify-center
+                rounded-full
+                border-[2px]
+                border-white
+              "
+            >
+              <InfoIcon size={18} />
+            </div>
+
+            <p
+              className="
+                text-[15px]
+                font-semibold
+                leading-[1.35]
+              "
+            >
+              O código é válido por 60
+              <br />
+              minutos e é enviado para o
+              <br />
+              seu e-mail corporativo
+              <br />
+              cadastrado
+            </p>
+          </div>
+        </section>
+      </div>
+    </main>
   );
 }

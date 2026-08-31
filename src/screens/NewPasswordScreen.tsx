@@ -1,68 +1,439 @@
 import { useState } from "react";
 import type { AuthScreen } from "@/navigation";
-import { useLocale } from "@/i18n/useLocale";
-import { EyeIcon, LockIcon } from "@/icons";
-import { AuthCard, AuthHeading, AuthLeftPanel, GradientBg } from "@/components/layout/AuthLayout";
-import CheckItem from "@/components/ui/CheckItem";
-import InputField from "@/components/ui/InputField";
-import PrimaryBtn from "@/components/ui/PrimaryBtn";
+import { CheckIcon, EyeIcon, LockIcon } from "@/icons";
 
-/** Regras de força de senha, compartilhadas com a validação do formulário. */
+/** Regras de força da senha. */
 export function passwordChecks(password: string) {
   return {
     length: password.length >= 8,
     upper: /[A-Z]/.test(password),
-    special: /[^a-zA-Z0-9]/.test(password) && /[0-9]/.test(password),
+    special:
+      /[^a-zA-Z0-9]/.test(password) &&
+      /[0-9]/.test(password),
   };
 }
 
-export default function NewPasswordScreen({ onNav }: { onNav: (screen: AuthScreen) => void }) {
-  const { t } = useLocale();
+export default function NewPasswordScreen({
+  onNav,
+}: {
+  onNav: (screen: AuthScreen) => void;
+}) {
   const [pass, setPass] = useState("");
   const [confirm, setConfirm] = useState("");
+
   const [showPass, setShowPass] = useState(false);
   const [showConfirm, setShowConfirm] = useState(false);
 
   const checks = passwordChecks(pass);
 
+  const senhasIguais =
+    pass.length > 0 &&
+    confirm.length > 0 &&
+    pass === confirm;
+
+  const podeSalvar =
+    checks.length &&
+    checks.upper &&
+    checks.special &&
+    senhasIguais;
+
+  function salvarSenha(e: React.FormEvent) {
+    e.preventDefault();
+
+    if (!podeSalvar) return;
+
+    onNav("login");
+  }
+
   return (
-    <GradientBg>
-      <AuthCard wide>
-        <AuthLeftPanel subtitle={t("auth.newPassSubtitle")} />
-
-        <div className="flex flex-1 flex-col gap-5 p-5 sm:p-8">
-          <AuthHeading icon={<LockIcon size={26} />} title={t("auth.newPassTitle")} />
-
-          <InputField
-            label={t("auth.newPassField")}
-            type={showPass ? "text" : "password"}
-            placeholder="••••••••••••"
-            value={pass}
-            onChange={setPass}
-            autoComplete="new-password"
-            icon={<EyeIcon open={showPass} />}
-            onIconClick={() => setShowPass((v) => !v)}
-          />
-          <InputField
-            label={t("auth.newPassConfirm")}
-            type={showConfirm ? "text" : "password"}
-            placeholder="••••••••••••"
-            value={confirm}
-            onChange={setConfirm}
-            autoComplete="new-password"
-            icon={<EyeIcon open={showConfirm} />}
-            onIconClick={() => setShowConfirm((v) => !v)}
-          />
-
-          <div className="flex flex-col gap-2">
-            <CheckItem label={t("auth.ruleMin")} ok={checks.length} />
-            <CheckItem label={t("auth.ruleUpper")} ok={checks.upper} />
-            <CheckItem label={t("auth.ruleSpecial")} ok={checks.special} />
+    <main
+      className="
+        flex
+        min-h-screen
+        w-full
+        items-center
+        justify-center
+        overflow-hidden
+        bg-[linear-gradient(110deg,#20236f_0%,#183b80_35%,#0878b4_68%,#06aede_100%)]
+        px-6
+      "
+    >
+      <form
+        onSubmit={salvarSenha}
+        className="
+          grid
+          h-[72vh]
+          max-h-[570px]
+          min-h-[470px]
+          w-[86vw]
+          max-w-[1120px]
+          grid-cols-[42%_58%]
+          overflow-hidden
+          rounded-[42px]
+          bg-[linear-gradient(120deg,#eef4ff_0%,#d9efff_100%)]
+          shadow-[0_15px_35px_rgba(0,0,0,0.12)]
+        "
+      >
+        {/* LADO ESQUERDO */}
+        <section
+          className="
+            relative
+            flex
+            flex-col
+            items-center
+            justify-center
+            px-[55px]
+          "
+        >
+          {/* ÍCONE DE CADEADO */}
+          <div
+            className="
+              mb-[28px]
+              flex
+              h-[110px]
+              w-[110px]
+              items-center
+              justify-center
+              rounded-full
+              border-[2px]
+              border-white
+              text-[#13273e]
+            "
+          >
+            <LockIcon size={64} />
           </div>
 
-          <PrimaryBtn onClick={() => onNav("login")}>{t("auth.newPassSubmit")}</PrimaryBtn>
-        </div>
-      </AuthCard>
-    </GradientBg>
+          {/* LOGO */}
+          <div
+            className="
+              mb-[28px]
+              flex
+              items-center
+              justify-center
+              gap-[10px]
+            "
+          >
+            <img
+              src="/logo_azul.png"
+              alt=""
+              className="
+                h-[42px]
+                w-[42px]
+                object-contain
+              "
+            />
+
+            <span
+              className="
+                text-[23px]
+                font-bold
+                tracking-[-0.5px]
+                text-[#17283e]
+              "
+            >
+              TOTVS Insight
+            </span>
+          </div>
+
+          {/* TEXTO */}
+          <p
+            className="
+              max-w-[280px]
+              text-left
+              text-[18px]
+              font-semibold
+              leading-[1.7]
+              text-[#17283e]
+            "
+          >
+            Crie uma nova senha forte
+            <br />
+            para proteger sua conta.
+          </p>
+
+          {/* DIVISÓRIA */}
+          <div
+            className="
+              absolute
+              right-0
+              top-[10%]
+              h-[80%]
+              w-[2px]
+              bg-white/90
+            "
+          />
+        </section>
+
+        {/* LADO DIREITO */}
+        <section
+          className="
+            flex
+            flex-col
+            justify-center
+            px-[68px]
+            py-[38px]
+          "
+        >
+          {/* NOVA SENHA */}
+          <div className="mb-[18px]">
+            <label
+              htmlFor="new-password"
+              className="
+                mb-[7px]
+                block
+                text-[16px]
+                font-semibold
+                text-[#17283e]
+              "
+            >
+              Nova senha
+            </label>
+
+            <div className="relative">
+              <input
+                id="new-password"
+                type={showPass ? "text" : "password"}
+                value={pass}
+                onChange={(e) => setPass(e.target.value)}
+                autoComplete="new-password"
+                placeholder="••••••••••••"
+                className="
+                  h-[52px]
+                  w-full
+                  rounded-[7px]
+                  border
+                  border-[#9caabb]
+                  bg-white
+                  px-[16px]
+                  pr-[48px]
+                  text-[15px]
+                  text-[#17283e]
+                  shadow-[0_2px_5px_rgba(0,0,0,0.14)]
+                  outline-none
+                  transition
+                  focus:border-[#1452ab]
+                  focus:ring-2
+                  focus:ring-[#1452ab]/20
+                "
+              />
+
+              <button
+                type="button"
+                onClick={() =>
+                  setShowPass((valor) => !valor)
+                }
+                aria-label={
+                  showPass
+                    ? "Ocultar senha"
+                    : "Mostrar senha"
+                }
+                className="
+                  absolute
+                  right-[14px]
+                  top-1/2
+                  -translate-y-1/2
+                  text-[#435269]
+                  transition
+                  hover:text-[#17283e]
+                "
+              >
+                <EyeIcon open={showPass} />
+              </button>
+            </div>
+          </div>
+
+          {/* CONFIRMAR SENHA */}
+          <div className="mb-[22px]">
+            <label
+              htmlFor="confirm-password"
+              className="
+                mb-[7px]
+                block
+                text-[16px]
+                font-semibold
+                text-[#17283e]
+              "
+            >
+              Confirmar nova senha
+            </label>
+
+            <div className="relative">
+              <input
+                id="confirm-password"
+                type={showConfirm ? "text" : "password"}
+                value={confirm}
+                onChange={(e) =>
+                  setConfirm(e.target.value)
+                }
+                autoComplete="new-password"
+                placeholder="••••••••••••"
+                className={`
+                  h-[52px]
+                  w-full
+                  rounded-[7px]
+                  border
+                  bg-white
+                  px-[16px]
+                  pr-[48px]
+                  text-[15px]
+                  text-[#17283e]
+                  shadow-[0_2px_5px_rgba(0,0,0,0.14)]
+                  outline-none
+                  transition
+                  focus:border-[#1452ab]
+                  focus:ring-2
+                  focus:ring-[#1452ab]/20
+
+                  ${confirm.length > 0 &&
+                    pass !== confirm
+                    ? "border-red-400"
+                    : "border-[#9caabb]"
+                  }
+                `}
+              />
+
+              <button
+                type="button"
+                onClick={() =>
+                  setShowConfirm((valor) => !valor)
+                }
+                aria-label={
+                  showConfirm
+                    ? "Ocultar senha"
+                    : "Mostrar senha"
+                }
+                className="
+                  absolute
+                  right-[14px]
+                  top-1/2
+                  -translate-y-1/2
+                  text-[#435269]
+                  transition
+                  hover:text-[#17283e]
+                "
+              >
+                <EyeIcon open={showConfirm} />
+              </button>
+            </div>
+          </div>
+
+          {/* REGRAS */}
+          <div
+            className="
+              mb-[26px]
+              flex
+              flex-col
+              gap-[12px]
+            "
+          >
+            <RuleItem
+              ok={checks.length}
+              label="Mínimo de 8 caracteres"
+            />
+
+            <RuleItem
+              ok={checks.upper}
+              label="Letra maiúscula"
+            />
+
+            <RuleItem
+              ok={checks.special}
+              label="Caracteres especiais e números"
+            />
+          </div>
+          
+
+          {/* BOTÃO */}
+          <button
+            type="submit"
+            disabled={!podeSalvar}
+            className="
+              flex
+              h-[55px]
+              w-full
+              items-center
+              justify-center
+              rounded-[7px]
+              bg-[#064da5]
+              text-[16px]
+              font-semibold
+              text-white
+              shadow-[0_3px_6px_rgba(0,0,0,0.16)]
+              transition
+              hover:bg-[#043f8a]
+              active:translate-y-[1px]
+              disabled:cursor-not-allowed
+              disabled:opacity-50
+            "
+          >
+            Salvar nova senha
+          </button>
+          <div className="mt-[12px] text-center">
+            <button
+              type="button"
+              onClick={() => onNav("verify-code")}
+              className="
+      text-[13px]
+      font-semibold
+      text-[#064da5]
+      transition
+      hover:underline
+    "
+            >
+              Voltar
+            </button>
+          </div>
+        </section>
+      </form>
+    </main>
+  );
+}
+
+/* ITEM DAS REGRAS */
+function RuleItem({
+  ok,
+  label,
+}: {
+  ok: boolean;
+  label: string;
+}) {
+  return (
+    <div
+      className="
+        flex
+        items-center
+        gap-[10px]
+      "
+    >
+      <div
+        className={`
+          flex
+          h-[20px]
+          w-[20px]
+          shrink-0
+          items-center
+          justify-center
+          rounded-full
+          transition
+
+          ${ok
+            ? "bg-[#16c73b] text-white"
+            : "bg-[#aeb8c4] text-white"
+          }
+        `}
+      >
+        <CheckIcon size={12} />
+      </div>
+
+      <span
+        className="
+          text-[14px]
+          font-semibold
+          text-[#17283e]
+        "
+      >
+        {label}
+      </span>
+    </div>
   );
 }
