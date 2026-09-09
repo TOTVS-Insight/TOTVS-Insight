@@ -1,3 +1,4 @@
+import FotoPerfil from "@/components/FotoPerfil";
 import { useState } from "react";
 import { GRADIENT_BRAND } from "@/theme";
 import { useAuth } from "@/auth/AuthContext";
@@ -108,9 +109,7 @@ function PerfilForm({
             className="flex flex-col items-center px-6 py-7 text-center"
             style={{ background: GRADIENT_BRAND }}
           >
-            <div className="flex h-20 w-20 items-center justify-center rounded-full border-2 border-white/30 bg-brand-blue">
-              <span className="font-heading text-2xl font-bold text-white">{iniciais}</span>
-            </div>
+            <FotoPerfil iniciais={iniciais} />
             <p className="font-heading mt-3 text-base font-semibold text-white">
               {form.nome || "—"}
             </p>

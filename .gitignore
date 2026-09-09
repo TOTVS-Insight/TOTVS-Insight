@@ -20,3 +20,8 @@ data-source/
 public/data/transcricoes/
 # Mantém o índice versionável:
 # public/data/meetings-index.json  ← commitar quando a base mudar
+
+# Dados privados e cache da demonstração local
+backend/storage/
+backend/__pycache__/
+backend/.venv/

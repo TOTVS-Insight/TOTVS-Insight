@@ -1,3 +1,4 @@
+import AnalisarTranscricao from "./AnalisarTranscricao";
 import { useCallback, useEffect } from "react";
 import { getTranscricao, transcricoesDisponiveis } from "@/data/repository";
 import { getTextoUpload } from "@/data/sessionUploads";
@@ -134,6 +135,7 @@ export default function TranscricaoDrawer({
 
           {data && (
             <>
+              <AnalisarTranscricao key={reuniao.id + data.texto} id={reuniao.id} texto={data.texto} />
               <p className="font-body mb-3 text-micro text-gray-400">
                 {t("drawer.charsNote", { n: data.texto.length.toLocaleString(locale) })}
               </p>

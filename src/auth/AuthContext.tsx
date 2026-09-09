@@ -1,3 +1,4 @@
+import { lerFotoLocal, salvarFotoLocal } from "./fotoLocal";
 import { createContext, useCallback, useContext, useMemo, useState } from "react";
 import { login as loginService, logout as logoutService } from "./authService";
 import type { Credenciais, Usuario } from "./types";
@@ -10,6 +11,7 @@ interface AuthContextValue {
   sair: () => void;
   /** Atualiza os dados do usuário logado (usado pela página de perfil). */
   atualizarUsuario: (dados: Partial<Usuario>) => void;
+  atualizarFoto: (foto: string | null) => void;
 }
 
 const AuthContext = createContext<AuthContextValue | null>(null);
@@ -20,7 +22,7 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
   const entrar = useCallback(async (credenciais: Credenciais) => {
     const resultado = await loginService(credenciais);
     if (!resultado.ok) return resultado.erro;
-    setUsuario(resultado.usuario);
+    setUsuario({ ...resultado.usuario, foto: lerFotoLocal(resultado.usuario.id) });
     return null;
   }, []);
 
@@ -33,6 +35,12 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     setUsuario((atual) => (atual ? { ...atual, ...dados } : atual));
   }, []);
 
+  const atualizarFoto = useCallback((foto: string | null) => {
+    if (!usuario) return;
+    salvarFotoLocal(usuario.id, foto);
+    setUsuario(atual => atual ? { ...atual, foto } : atual);
+  }, [usuario]);
+
   const value = useMemo(
     () => ({
       usuario,
@@ -40,8 +48,9 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
       entrar,
       sair,
       atualizarUsuario,
+      atualizarFoto,
     }),
-    [usuario, entrar, sair, atualizarUsuario],
+    [usuario, entrar, sair, atualizarUsuario, atualizarFoto],
   );
 
   return <AuthContext.Provider value={value}>{children}</AuthContext.Provider>;

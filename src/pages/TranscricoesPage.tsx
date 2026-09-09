@@ -1,3 +1,4 @@
+import NovaAnalise from "@/components/NovaAnalise";
 import { useCallback, useMemo, useRef, useState } from "react";
 import { getReunioes } from "@/data/repository";
 import { adicionarUpload, getTextoUpload, parseArquivoUpload } from "@/data/sessionUploads";
@@ -119,6 +120,7 @@ export default function TranscricoesPage() {
     <div>
       <PageHeader title={t("transcripts.title")} subtitle={t("transcripts.subtitle")} />
 
+      <NovaAnalise />
       {loading && <LoadingState label={t("transcripts.loading")} />}
       {error && <ErrorState error={error} sugestao={sugestao} />}
 
