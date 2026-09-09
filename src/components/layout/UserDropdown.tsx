@@ -48,7 +48,7 @@ export default function UserDropdown({ onLogout, onNav }: UserDropdownProps) {
         className="flex items-center gap-2 rounded-lg px-2 py-1 transition-colors hover:bg-white/10"
       >
         <div className="flex h-7 w-7 flex-shrink-0 items-center justify-center rounded-full border border-white/30 bg-brand-blue">
-          <span className="font-heading text-micro font-bold text-white">{usuario.iniciais}</span>
+          {usuario.foto ? <img src={usuario.foto} alt="Foto do perfil" className="h-full w-full rounded-full object-cover" /> : <span className="font-heading text-micro font-bold text-white">{usuario.iniciais}</span>}
         </div>
         <div className="hidden flex-col text-left sm:flex">
           <span className="font-heading text-meta leading-tight font-medium text-white">
@@ -83,7 +83,7 @@ export default function UserDropdown({ onLogout, onNav }: UserDropdownProps) {
         <div className="px-4 py-4" style={{ background: GRADIENT_BRAND }}>
           <div className="flex items-center gap-3">
             <div className="flex h-11 w-11 flex-shrink-0 items-center justify-center rounded-full border-2 border-white/30 bg-brand-blue">
-              <span className="font-heading text-sm font-bold text-white">{usuario.iniciais}</span>
+              {usuario.foto ? <img src={usuario.foto} alt="Foto do perfil" className="h-full w-full rounded-full object-cover" /> : <span className="font-heading text-sm font-bold text-white">{usuario.iniciais}</span>}
             </div>
             <div className="min-w-0">
               <p className="font-heading text-sm leading-tight font-semibold text-white">

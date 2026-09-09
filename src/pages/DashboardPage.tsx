@@ -1,3 +1,4 @@
+import HistoricoAnalises from "@/components/HistoricoAnalises";
 import { useCallback, useState } from "react";
 import { getResumoDashboard, type ResumoDashboard } from "@/data/repository";
 import useDataset from "@/data/useDataset";
@@ -361,6 +362,7 @@ export default function DashboardPage() {
 
       {activeTab === "overview" && (
         <>
+          <HistoricoAnalises compacto />
           {loading && <LoadingState label={t("dashboard.loading")} />}
           {error && <ErrorState error={error} sugestao={sugestao} />}
           {data && <VisaoGeral data={data} t={t} />}

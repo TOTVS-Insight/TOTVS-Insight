@@ -101,7 +101,7 @@ export function parseArquivoUpload(nome: string, conteudo: string): UploadLocal 
       throw new Error(translate("transcripts.uploadInvalidJson"));
     }
     const o = json as Record<string, unknown>;
-    const rawTexto = o.texto ?? o.text ?? o.transcricao ?? o.transcript;
+    const rawTexto = o.texto ?? o.text ?? o.transcricao ?? o.transcript ?? o.ANON_TRANSCRICAO;
     if (typeof rawTexto !== "string" || !rawTexto.trim()) {
       throw new Error(translate("transcripts.uploadNoText"));
     }

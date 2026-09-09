@@ -1,3 +1,4 @@
+import HistoricoAnalises from "@/components/HistoricoAnalises";
 import { HISTORICO, type TipoEvento } from "@/data/mockData";
 import { useLocale } from "@/i18n/useLocale";
 import { AlertTriangleIcon, CheckCircleIcon, InfoIcon, XCircleIcon } from "@/icons";
@@ -41,6 +42,8 @@ export default function HistoricoPage() {
     <div>
       <PageHeader title={t("history.title")} subtitle={t("history.subtitle")} />
 
+      <HistoricoAnalises />
+      <p className="mb-3 text-xs text-gray-500">Eventos de demonstração do site</p>
       <Card className="p-6">
         <div className="relative">
           {/* Linha vertical da timeline, alinhada ao centro dos marcadores */}

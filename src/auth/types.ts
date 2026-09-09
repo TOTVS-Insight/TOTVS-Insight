@@ -15,6 +15,7 @@ export interface Usuario {
   localizacao: string;
   /** Iniciais exibidas no avatar, ex.: "RA". */
   iniciais: string;
+  foto?: string | null;
   stats: EstatisticaUsuario[];
 }
 
