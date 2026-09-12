@@ -177,7 +177,7 @@ export default function TranscricoesPage() {
     const mapa = new Map<string, number>();
 
     for (const reuniao of reunioes) {
-      const chave = reuniao.segmento ? capitalizar(reuniao.segmento) : "Não informado";
+      const chave = reuniao.segmento ? capitalizar(reuniao.segmento) : t("transcripts.notInformed");
       mapa.set(chave, (mapa.get(chave) ?? 0) + 1);
     }
 
@@ -227,7 +227,7 @@ export default function TranscricoesPage() {
         <div className="flex flex-col gap-5 xl:flex-row xl:items-start xl:justify-between">
           <div>
             <p className="text-[10px] font-semibold text-[#1b4fc6]">
-              Bem-vindo ao TOTVS Insight
+              {t("dashboard.welcome")}
             </p>
 
             <h1 className="mt-1 text-[30px] font-bold leading-none tracking-[-0.035em] text-[#071d66] dark:text-[#f3f7ff]">
@@ -270,7 +270,7 @@ export default function TranscricoesPage() {
               className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white shadow-[0_5px_12px_rgba(13,87,231,0.16)] transition-colors hover:bg-[#0b4dd0]"
             >
               <span aria-hidden="true">▽</span>
-              Aplicar filtros
+              {t("transcripts.applyFilters")}
             </button>
           </div>
         </div>
@@ -283,44 +283,44 @@ export default function TranscricoesPage() {
             {/* KPIs: todos calculados somente a partir da base já carregada. */}
             <div className="mt-5 grid grid-cols-1 gap-2.5 sm:grid-cols-2 xl:grid-cols-6">
               <MetricCard
-                title="Total de transcrições"
+                title={t("transcripts.total")}
                 value={resumoVisual.total.toLocaleString(locale)}
-                caption="registros na base atual"
+                caption={t("transcripts.totalHelper")}
                 tone="blue"
                 icon="▤"
               />
               <MetricCard
-                title="Com NPS"
+                title={t("transcripts.withNps")}
                 value={resumoVisual.comNps.toLocaleString(locale)}
-                caption="reuniões com avaliação"
+                caption={t("transcripts.withNpsHelper")}
                 tone="cyan"
                 icon="◎"
               />
               <MetricCard
-                title="Promotores"
+                title={t("transcripts.promoters")}
                 value={resumoVisual.promotores.toLocaleString(locale)}
-                caption="NPS igual ou superior a 9"
+                caption={t("transcripts.promotersHelper")}
                 tone="green"
                 icon="✓"
               />
               <MetricCard
-                title="Neutros"
+                title={t("transcripts.neutrals")}
                 value={resumoVisual.neutros.toLocaleString(locale)}
-                caption="NPS entre 7 e 8"
+                caption={t("transcripts.neutralsHelper")}
                 tone="violet"
                 icon="○"
               />
               <MetricCard
-                title="Detratores"
+                title={t("transcripts.detractors")}
                 value={resumoVisual.detratores.toLocaleString(locale)}
-                caption="NPS abaixo de 7"
+                caption={t("transcripts.detractorsHelper")}
                 tone="red"
                 icon="!"
               />
               <MetricCard
-                title="Unidades"
+                title={t("transcripts.units")}
                 value={resumoVisual.unidades.toLocaleString(locale)}
-                caption="unidades identificadas"
+                caption={t("transcripts.unitsHelper")}
                 tone="amber"
                 icon="⌂"
               />
@@ -350,24 +350,24 @@ export default function TranscricoesPage() {
                           type="button"
                           className="rounded-md bg-[#0d57e7] px-3 py-2 text-[9px] font-semibold text-white"
                         >
-                          Todas
+                          {t("common.allF")}
                           <span className="ml-1.5 rounded-full bg-white dark:bg-[#0f1d31]/16 px-1.5 py-0.5">
                             {reunioes.length}
                           </span>
                         </button>
 
                         <span className="rounded-md border border-[#dfe7f2] dark:border-[#223652] bg-white dark:bg-[#0f1d31] px-3 py-2 text-[9px] font-semibold text-[#53658f] dark:text-[#9fb0c9]">
-                          Com NPS
+                          {t("transcripts.withNps")}
                           <span className="ml-1.5 text-[#8290ae] dark:text-[#8396b3]">{resumoVisual.comNps}</span>
                         </span>
 
                         <span className="rounded-md border border-[#dfe7f2] dark:border-[#223652] bg-white dark:bg-[#0f1d31] px-3 py-2 text-[9px] font-semibold text-[#53658f] dark:text-[#9fb0c9]">
-                          Promotores
+                          {t("transcripts.promoters")}
                           <span className="ml-1.5 text-[#8290ae] dark:text-[#8396b3]">{resumoVisual.promotores}</span>
                         </span>
 
                         <span className="rounded-md border border-[#dfe7f2] dark:border-[#223652] bg-white dark:bg-[#0f1d31] px-3 py-2 text-[9px] font-semibold text-[#53658f] dark:text-[#9fb0c9]">
-                          Detratores
+                          {t("transcripts.detractors")}
                           <span className="ml-1.5 text-[#8290ae] dark:text-[#8396b3]">{resumoVisual.detratores}</span>
                         </span>
                       </div>
@@ -552,7 +552,7 @@ export default function TranscricoesPage() {
                 <Card className="rounded-[14px] !border-[#dce5f2] dark:!border-[#20334d] dark:border-[#20334d] !bg-white dark:!bg-[#0f1d31] dark:bg-[#0f1d31] p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:shadow-[0_6px_18px_rgba(0,0,0,0.18)] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
                   <h2 className="text-[13px] font-bold text-[#071d66] dark:text-[#f3f7ff]">Resumo da base</h2>
                   <p className="mt-1 text-[9px] leading-relaxed text-[#7080a5] dark:text-[#91a3be]">
-                    Distribuição dos registros com base no NPS já disponível.
+                    {t("transcripts.npsNote")}
                   </p>
 
                   <div className="mt-4 space-y-3">
@@ -603,7 +603,7 @@ export default function TranscricoesPage() {
                 </Card>
 
                 <Card className="rounded-[14px] !border-[#dce5f2] dark:!border-[#20334d] dark:border-[#20334d] !bg-white dark:!bg-[#0f1d31] dark:bg-[#0f1d31] p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:shadow-[0_6px_18px_rgba(0,0,0,0.18)] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
-                  <h2 className="text-[13px] font-bold text-[#071d66] dark:text-[#f3f7ff]">Ações rápidas</h2>
+                  <h2 className="text-[13px] font-bold text-[#071d66] dark:text-[#f3f7ff]">{t("transcripts.quickActions")}</h2>
 
                   <div className="mt-3 space-y-3">
                     <button
@@ -616,10 +616,10 @@ export default function TranscricoesPage() {
                       </span>
                       <span>
                         <span className="block text-[9px] font-semibold text-[#183b86] dark:text-[#c7d8f3]">
-                          Importar transcrição
+                          {t("transcripts.importTitle")}
                         </span>
                         <span className="mt-0.5 block text-[8px] leading-relaxed text-[#8290ae] dark:text-[#8396b3]">
-                          Adicione TXT ou JSON usando o fluxo já existente.
+                          {t("transcripts.importHelper")}
                         </span>
                       </span>
                     </button>
@@ -630,10 +630,10 @@ export default function TranscricoesPage() {
                       </span>
                       <span>
                         <span className="block text-[9px] font-semibold text-[#183b86] dark:text-[#c7d8f3]">
-                          Filtrar a base
+                          {t("transcripts.filterTitle")}
                         </span>
                         <span className="mt-0.5 block text-[8px] leading-relaxed text-[#8290ae] dark:text-[#8396b3]">
-                          Use busca, segmento e UF na barra acima da tabela.
+                          {t("transcripts.filterHelper")}
                         </span>
                       </span>
                     </div>
@@ -644,10 +644,10 @@ export default function TranscricoesPage() {
                       </span>
                       <span>
                         <span className="block text-[9px] font-semibold text-[#183b86] dark:text-[#c7d8f3]">
-                          Abrir transcrição
+                          {t("transcripts.openTitle")}
                         </span>
                         <span className="mt-0.5 block text-[8px] leading-relaxed text-[#8290ae] dark:text-[#8396b3]">
-                          Clique em qualquer linha para abrir o drawer atual.
+                          {t("transcripts.openHelper")}
                         </span>
                       </span>
                     </div>
@@ -698,28 +698,23 @@ export default function TranscricoesPage() {
                   <div>
                     <p className="text-[10px] font-semibold text-[#164ec8]">Dica</p>
                     <p className="mt-1 text-[9px] leading-relaxed text-[#60729c] dark:text-[#9aaccc]">
-                      Use os filtros existentes para revisar a base antes de abrir uma transcrição.
-                      Nenhuma regra de processamento foi alterada nesta tela.
+                      {t("transcripts.footer1")}
+                      {t("transcripts.footer2")}
                     </p>
                   </div>
                 </div>
               </div>
 
               <div className="rounded-[14px] border border-[#dce5f2] dark:border-[#20334d] bg-white dark:bg-[#0f1d31] px-4 py-4 shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
-                <p className="text-[10px] font-bold text-[#071d66] dark:text-[#f3f7ff]">Fluxo de trabalho</p>
+                <p className="text-[10px] font-bold text-[#071d66] dark:text-[#f3f7ff]">{t("transcripts.workflow.title")}</p>
 
                 <div className="mt-3 grid grid-cols-1 gap-3 sm:grid-cols-4">
-                  {[
-                    ["1", "Importe ou selecione uma transcrição"],
-                    ["2", "Filtre por segmento ou UF"],
-                    ["3", "Abra o registro desejado"],
-                    ["4", "Revise os detalhes no drawer"],
-                  ].map(([number, label]) => (
-                    <div key={number} className="flex items-start gap-2">
+                  {(["s1", "s2", "s3", "s4"] as const).map((passo, indice) => (
+                    <div key={passo} className="flex items-start gap-2">
                       <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-full bg-[#edf3ff] dark:bg-[#14284a] text-[10px] font-bold text-[#1458e5]">
-                        {number}
+                        {indice + 1}
                       </span>
-                      <span className="pt-0.5 text-[8px] leading-relaxed text-[#53658f] dark:text-[#9fb0c9]">{label}</span>
+                      <span className="pt-0.5 text-[8px] leading-relaxed text-[#53658f] dark:text-[#9fb0c9]">{t(`transcripts.workflow.${passo}`)}</span>
                     </div>
                   ))}
                 </div>

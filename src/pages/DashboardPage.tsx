@@ -257,7 +257,7 @@ function PainelDistribuicoes({ data, t }: { data: ResumoDashboard; t: TranslateF
     <Card className="rounded-xl border border-[#E2E8F2] dark:border-[#223652] bg-white dark:bg-[#0F1D31] p-0 shadow-[0_2px_8px_rgba(15,39,80,0.035)] dark:shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
       <div className="border-b border-[#E8EDF5] dark:border-[#223652] px-5 py-4">
         <h3 className="font-heading text-[13px] font-semibold text-[#08266A] dark:text-[#EAF2FF]">
-          Distribuição dos dados
+          {t("dashboard.dataDistribution")}
         </h3>
       </div>
 
@@ -306,7 +306,7 @@ function VisaoGeral({ data, t }: { data: ResumoDashboard; t: TranslateFn }) {
                 {t("dashboard.recentTitle")}
               </h2>
               <p className="mt-0.5 font-body text-[9px] text-[#8795AA] dark:text-[#8396B3]">
-                Informações mais recentes processadas pelo sistema
+                {t("dashboard.recentSubtitle")}
               </p>
             </div>
             <span className="font-body text-[9px] font-semibold text-[#0B66E4] dark:text-[#6EA8FF]">Ver todas</span>
@@ -326,7 +326,7 @@ function VisaoGeral({ data, t }: { data: ResumoDashboard; t: TranslateFn }) {
                 {t("dashboard.volumeTitle")}
               </h2>
               <p className="mt-0.5 font-body text-[9px] text-[#8795AA] dark:text-[#8396B3]">
-                Tendência das reuniões analisadas
+                {t("dashboard.trend")}
               </p>
             </div>
             <span className="rounded-md border border-[#E2E8F2] dark:border-[#223652] px-2.5 py-1.5 font-body text-[9px] text-[#39537D] dark:text-[#AFC2E2]">
@@ -478,12 +478,12 @@ export default function DashboardPage() {
           <div className="flex flex-wrap items-center gap-2">
             <div className="flex h-9 items-center gap-2 rounded-lg border border-[#DCE5F0] dark:border-[#2A3E5D] bg-white dark:bg-[#0F1D31] px-3 font-body text-[10px] font-semibold text-[#173B77] dark:text-[#C7D8F3] shadow-[0_1px_3px_rgba(15,39,80,0.03)] dark:shadow-none">
               <span aria-hidden>▣</span>
-              Últimos 30 dias
+              {t("dashboard.last30")}
               <span className="text-[#71819A] dark:text-[#91A3BE]">⌄</span>
             </div>
             <div className="flex h-9 items-center gap-2 rounded-lg border border-[#DCE5F0] dark:border-[#2A3E5D] bg-white dark:bg-[#0F1D31] px-3 font-body text-[10px] font-semibold text-[#173B77] dark:text-[#C7D8F3] shadow-[0_1px_3px_rgba(15,39,80,0.03)] dark:shadow-none">
               <span aria-hidden>↻</span>
-              Atualizar dados
+              {t("dashboard.refreshData")}
             </div>
           </div>
         </section>

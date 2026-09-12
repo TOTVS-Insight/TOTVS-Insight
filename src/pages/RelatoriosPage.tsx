@@ -30,6 +30,7 @@ function KpiCard({
   tone: Tone;
   icon: string;
 }) {
+  const { t } = useLocale();
   const tones: Record<Tone, string> = {
     blue:
       "border-blue-100 bg-blue-50 text-blue-600 dark:border-blue-900/40 dark:bg-blue-950/30 dark:text-blue-400",
@@ -66,7 +67,7 @@ function KpiCard({
       <div className="mt-3 flex items-center gap-2">
         <span className="text-[9px] font-semibold text-emerald-600 dark:text-emerald-400">↗</span>
         <span className="text-[8px] text-[#8290ae] dark:text-[#8396b3]">
-          vs. período anterior
+          {t("kpi.vsPrevious")}
         </span>
       </div>
     </div>
@@ -118,7 +119,7 @@ export default function RelatoriosPage() {
         <div className="flex flex-col gap-5 xl:flex-row xl:items-start xl:justify-between">
           <div>
             <p className="text-[10px] font-semibold text-[#1b4fc6] dark:text-[#6ea8ff]">
-              Bem-vindo ao TOTVS Insight
+              {t("dashboard.welcome")}
             </p>
 
             <h1 className="mt-1 text-[30px] font-bold leading-none tracking-[-0.035em] text-[#071d66] dark:text-[#f3f7ff]">
@@ -137,7 +138,7 @@ export default function RelatoriosPage() {
               className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
             >
               <span aria-hidden="true">⇩</span>
-              Exportar PDF
+              {t("reports.exportPdf")}
             </button>
 
             <button
@@ -145,7 +146,7 @@ export default function RelatoriosPage() {
               className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
             >
               <span aria-hidden="true">▦</span>
-              Exportar CSV
+              {t("reports.exportCsv")}
             </button>
 
             <button
@@ -153,7 +154,7 @@ export default function RelatoriosPage() {
               className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white shadow-[0_5px_12px_rgba(13,87,231,0.16)] transition-colors hover:bg-[#0b4dd0]"
             >
               <span aria-hidden="true">▥</span>
-              Gerar relatório personalizado
+              {t("reports.customReport")}
             </button>
           </div>
         </div>
@@ -171,7 +172,7 @@ export default function RelatoriosPage() {
           ))}
 
           <KpiCard
-            title="Concluídos"
+            title={t("reports.done")}
             value={concluidos.toLocaleString()}
             tone="green"
             icon="✓"
@@ -180,18 +181,20 @@ export default function RelatoriosPage() {
 
         {/* ABAS VISUAIS */}
         <div className="mt-4 flex flex-wrap gap-1.5">
-          {[
-            "Visão geral",
-            "Evolução",
-            "Produtos",
-            "Clientes",
-            "Concorrentes",
-            "Sentimento",
-            "Oportunidades",
-            "Dores e necessidades",
-          ].map((tab, index) => (
+          {(
+            [
+              "overview",
+              "trend",
+              "products",
+              "clients",
+              "competitors",
+              "sentiment",
+              "opportunities",
+              "pains",
+            ] as const
+          ).map((tab, index) => (
             <span
-              key={tab}
+              key={t(`reports.tabs.${tab}`)}
               className={`rounded-md px-3 py-2 text-[9px] font-semibold ${
                 index === 0
                   ? "bg-[#0d57e7] text-white"
@@ -211,10 +214,10 @@ export default function RelatoriosPage() {
               <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
                 <div className="flex items-center justify-between">
                   <h2 className="text-[13px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                    Evolução dos indicadores
+                    {t("reports.trendTitle")}
                   </h2>
                   <span className="rounded-md border border-[#dbe4f1] px-2 py-1 text-[8px] text-[#53658f] dark:border-[#2a3e5d] dark:text-[#9fb0c9]">
-                    Últimos 6 meses
+                    {t("reports.last6")}
                   </span>
                 </div>
 
@@ -236,10 +239,10 @@ export default function RelatoriosPage() {
               <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
                 <div className="flex items-center justify-between">
                   <h2 className="text-[13px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                    Distribuição dos relatórios
+                    {t("reports.distribution")}
                   </h2>
                   <span className="rounded-md border border-[#dbe4f1] px-2 py-1 text-[8px] text-[#53658f] dark:border-[#2a3e5d] dark:text-[#9fb0c9]">
-                    Base atual
+                    {t("reports.currentBase")}
                   </span>
                 </div>
 
@@ -254,8 +257,8 @@ export default function RelatoriosPage() {
                   </div>
 
                   <div className="space-y-3">
-                    <MiniBar label="Concluídos" value={String(concluidos)} percent={76} tone="green" />
-                    <MiniBar label="Pendentes" value={String(pendentes)} percent={24} tone="orange" />
+                    <MiniBar label={t("reports.done")} value={String(concluidos)} percent={76} tone="green" />
+                    <MiniBar label={t("reports.pendingPlural")} value={String(pendentes)} percent={24} tone="orange" />
                     <MiniBar label="PDF" value="42%" percent={42} tone="blue" />
                     <MiniBar label="CSV" value="31%" percent={31} tone="violet" />
                   </div>
@@ -267,36 +270,36 @@ export default function RelatoriosPage() {
             <div className="grid grid-cols-1 gap-4 xl:grid-cols-3">
               <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31]">
                 <h2 className="text-[12px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                  Relatórios mais gerados
+                  {t("reports.mostGenerated")}
                 </h2>
                 <div className="mt-4 space-y-3">
-                  <MiniBar label="Executivo" value="32" percent={88} tone="green" />
-                  <MiniBar label="Churn" value="24" percent={72} tone="blue" />
-                  <MiniBar label="Produtos" value="18" percent={58} tone="orange" />
-                  <MiniBar label="Sentimento" value="12" percent={42} tone="violet" />
+                  <MiniBar label={t("reports.kind.executive")} value="32" percent={88} tone="green" />
+                  <MiniBar label={t("reports.kind.churn")} value="24" percent={72} tone="blue" />
+                  <MiniBar label={t("reports.kind.products")} value="18" percent={58} tone="orange" />
+                  <MiniBar label={t("reports.kind.sentiment")} value="12" percent={42} tone="violet" />
                 </div>
               </Card>
 
               <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31]">
                 <h2 className="text-[12px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                  Status dos relatórios
+                  {t("reports.statusTitle")}
                 </h2>
                 <div className="mt-4 space-y-3">
-                  <MiniBar label="Concluídos" value={String(concluidos)} percent={80} tone="green" />
-                  <MiniBar label="Pendentes" value={String(pendentes)} percent={20} tone="orange" />
-                  <MiniBar label="Exportados" value="14.7 MB" percent={66} tone="cyan" />
+                  <MiniBar label={t("reports.done")} value={String(concluidos)} percent={80} tone="green" />
+                  <MiniBar label={t("reports.pendingPlural")} value={String(pendentes)} percent={20} tone="orange" />
+                  <MiniBar label={t("reports.exported")} value="14.7 MB" percent={66} tone="cyan" />
                 </div>
               </Card>
 
               <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31]">
                 <h2 className="text-[12px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                  Resumo executivo
+                  {t("reports.summaryTitle")}
                 </h2>
                 <div className="mt-4 space-y-3 text-[9px] leading-relaxed text-[#60729c] dark:text-[#9aaccc]">
-                  <p>• Relatórios concluídos disponíveis para download.</p>
-                  <p>• Histórico preservado conforme os dados já existentes.</p>
-                  <p>• Exportações mantidas sem alterar a lógica da aplicação.</p>
-                  <p>• Visual alinhado ao protótipo TOTVS Insight.</p>
+                  <p>{t("reports.summary1")}</p>
+                  <p>{t("reports.summary2")}</p>
+                  <p>{t("reports.summary3")}</p>
+                  <p>{t("reports.summary4")}</p>
                 </div>
               </Card>
             </div>
@@ -370,34 +373,36 @@ export default function RelatoriosPage() {
             <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31]">
               <div className="flex items-center justify-between">
                 <h2 className="text-[13px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                  Filtros avançados
+                  {t("reports.advancedFilters")}
                 </h2>
                 <span className="text-[8px] font-semibold text-[#1458e5] dark:text-[#6ea8ff]">
-                  Limpar filtros
+                  {t("reports.clearFilters")}
                 </span>
               </div>
 
               <div className="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-2 2xl:grid-cols-1">
-                {[
-                  "Período",
-                  "Cliente",
-                  "Produto TOTVS",
-                  "Vendedor responsável",
-                  "Segmento",
-                  "Prioridade",
-                  "Sentimento",
-                  "Risco de churn",
-                  "Tipo de oportunidade",
-                  "Concorrente",
-                  "Status da análise",
-                  "Tipo de insight",
-                ].map((label) => (
-                  <div key={label}>
+                {(
+                  [
+                    "period",
+                    "client",
+                    "product",
+                    "seller",
+                    "segment",
+                    "priority",
+                    "sentiment",
+                    "churnRisk",
+                    "opportunityType",
+                    "competitor",
+                    "analysisStatus",
+                    "insightType",
+                  ] as const
+                ).map((campo) => (
+                  <div key={campo}>
                     <p className="mb-1.5 text-[8px] font-medium text-[#6b7ca5] dark:text-[#91a3be]">
-                      {label}
+                      {t(`reports.filter.${campo}`)}
                     </p>
                     <div className="flex h-9 items-center justify-between rounded-lg border border-[#dbe4f1] bg-white px-3 text-[9px] text-[#354f85] dark:border-[#2a3e5d] dark:bg-[#111f34] dark:text-[#b7c9e8]">
-                      <span>Todos</span>
+                      <span>{t("common.allM")}</span>
                       <span>⌄</span>
                     </div>
                   </div>
@@ -408,29 +413,24 @@ export default function RelatoriosPage() {
                 type="button"
                 className="mt-4 h-9 w-full rounded-lg bg-[#0d57e7] text-[9px] font-semibold text-white transition-colors hover:bg-[#0b4dd0]"
               >
-                Aplicar filtros
+                {t("reports.applyFilters")}
               </button>
             </Card>
 
             <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31]">
               <h2 className="text-[13px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                Relatórios rápidos
+                {t("reports.quickReports")}
               </h2>
 
               <div className="mt-3 space-y-2">
-                {[
-                  "Visão executiva (PDF)",
-                  "Análise de churn (PDF)",
-                  "Oportunidades por produto (PDF)",
-                  "Sentimento e satisfação (PDF)",
-                ].map((item) => (
+                {(["executive", "churn", "opportunities", "sentiment"] as const).map((item) => (
                   <button
                     key={item}
                     type="button"
                     className="flex w-full items-center gap-3 rounded-lg border border-[#dbe4f1] bg-white px-3 py-3 text-left text-[9px] font-medium text-[#183b86] transition-colors hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#111f34] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
                   >
                     <span className="text-[#1458e5] dark:text-[#6ea8ff]">▧</span>
-                    {item}
+                    {t(`reports.quick.${item}`)}
                   </button>
                 ))}
               </div>

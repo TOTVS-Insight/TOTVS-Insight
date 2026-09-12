@@ -113,7 +113,7 @@ export default function HistoricoPage() {
         <div className="flex flex-col gap-5 xl:flex-row xl:items-start xl:justify-between">
           <div>
             <p className="text-[10px] font-semibold text-[#1b4fc6] dark:text-[#6ea8ff]">
-              Bem-vindo ao TOTVS Insight
+              {t("dashboard.welcome")}
             </p>
 
             <h1 className="mt-1 text-[30px] font-bold leading-none tracking-[-0.035em] text-[#071d66] dark:text-[#f3f7ff]">
@@ -132,7 +132,7 @@ export default function HistoricoPage() {
               className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] shadow-[0_1px_2px_rgba(30,64,120,0.03)] transition-colors hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
             >
               <span aria-hidden="true">⇩</span>
-              Exportar histórico
+              {t("history.exportHistory")}
             </button>
 
             <button
@@ -140,7 +140,7 @@ export default function HistoricoPage() {
               className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white shadow-[0_5px_12px_rgba(13,87,231,0.16)] transition-colors hover:bg-[#0b4dd0]"
             >
               <span aria-hidden="true">▽</span>
-              Filtros
+              {t("history.filters")}
             </button>
           </div>
         </div>
@@ -148,37 +148,37 @@ export default function HistoricoPage() {
         {/* KPIs visuais */}
         <div className="mt-5 grid grid-cols-1 gap-2.5 sm:grid-cols-2 xl:grid-cols-5">
           <MetricCard
-            title="Eventos registrados"
+            title={t("history.eventsRegistered")}
             value={totalEventos.toLocaleString()}
-            caption="total de eventos disponíveis"
+            caption={t("history.eventsRegisteredHelper")}
             tone="blue"
             icon="◎"
           />
           <MetricCard
-            title="Concluídos"
+            title={t("history.done")}
             value={sucessos.toLocaleString()}
-            caption="eventos de sucesso"
+            caption={t("history.doneHelper")}
             tone="green"
             icon="✓"
           />
           <MetricCard
-            title="Informativos"
+            title={t("history.info")}
             value={infos.toLocaleString()}
-            caption="eventos informativos"
+            caption={t("history.infoHelper")}
             tone="violet"
             icon="i"
           />
           <MetricCard
-            title="Alertas"
+            title={t("history.alerts")}
             value={alertas.toLocaleString()}
-            caption="eventos de atenção"
+            caption={t("history.alertsHelper")}
             tone="orange"
             icon="!"
           />
           <MetricCard
-            title="Erros"
+            title={t("history.errors")}
             value={erros.toLocaleString()}
-            caption="eventos com falha"
+            caption={t("history.errorsHelper")}
             tone="red"
             icon="×"
           />
@@ -190,20 +190,24 @@ export default function HistoricoPage() {
             {/* FILTROS VISUAIS */}
             <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
               <div className="grid grid-cols-1 gap-3 md:grid-cols-2 xl:grid-cols-4">
-                {["Cliente", "Reunião", "Responsável", "Status"].map((label) => (
-                  <div key={label}>
+                {(["client", "meeting", "owner", "status"] as const).map((campo) => (
+                  <div key={campo}>
                     <p className="mb-1.5 text-[8px] font-medium text-[#6b7ca5] dark:text-[#91a3be]">
-                      {label}
+                      {t(`history.filter.${campo}`)}
                     </p>
                     <div className="flex h-9 items-center justify-between rounded-lg border border-[#dbe4f1] bg-white px-3 text-[9px] text-[#354f85] dark:border-[#2a3e5d] dark:bg-[#111f34] dark:text-[#b7c9e8]">
                       <span>
-                        {label === "Cliente"
-                          ? "Todos os clientes"
-                          : label === "Reunião"
-                            ? "Todas as reuniões"
-                            : label === "Responsável"
-                              ? "Todos os responsáveis"
-                              : "Todos os status"}
+                        {t(
+                          `history.filter.${
+                            campo === "client"
+                              ? "allClients"
+                              : campo === "meeting"
+                                ? "allMeetings"
+                                : campo === "owner"
+                                  ? "allOwners"
+                                  : "allStatus"
+                          }`,
+                        )}
                       </span>
                       <span>⌄</span>
                     </div>
@@ -224,10 +228,10 @@ export default function HistoricoPage() {
               <div className="flex items-center justify-between">
                 <div>
                   <h2 className="text-[14px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                    Histórico da reunião
+                    {t("history.meetingHistory")}
                   </h2>
                   <p className="mt-1 text-[9px] text-[#7080a5] dark:text-[#91a3be]">
-                    Linha do tempo dos eventos registrados
+                    {t("history.timelineCaption")}
                   </p>
                 </div>
 
@@ -240,7 +244,7 @@ export default function HistoricoPage() {
                 </span>
                 <div>
                   <p className="text-[10px] font-semibold text-[#183b86] dark:text-[#c7d8f3]">
-                    Linha do tempo
+                    {t("history.timeline")}
                   </p>
                   <p className="mt-0.5 text-[8px] text-[#8290ae] dark:text-[#8396b3]">
                     {totalEventos} evento(s)

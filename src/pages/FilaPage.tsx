@@ -6,6 +6,7 @@ import { getReunioes } from "@/data/repository";
 import useDataset from "@/data/useDataset";
 import type { Reuniao } from "@/data/types";
 import { useLocale } from "@/i18n/useLocale";
+import type { TranslateFn } from "@/i18n/types";
 import { formatarData, formatarDuracao } from "@/format";
 import Card from "@/components/ui/Card";
 import StatusBadge from "@/components/ui/StatusBadge";
@@ -70,6 +71,8 @@ function PipelineStep({
   percent: number;
   highlight?: boolean;
 }) {
+  const { t } = useLocale();
+
   return (
     <div
       className={`relative flex min-h-[168px] flex-col items-center justify-between rounded-[10px] border bg-white dark:bg-[#0f1d31] px-3 py-4 text-center ${
@@ -97,16 +100,16 @@ function PipelineStep({
       </div>
 
       <span className="rounded-md bg-[#eef5ff] dark:bg-[#14284a] px-2 py-1 text-[8px] font-semibold text-[#1458e5] dark:text-[#6ea8ff]">
-        Base atual
+        {t("queue.currentBase")}
       </span>
     </div>
   );
 }
 
-function priorityLabel(index: number) {
-  if (index % 3 === 0) return { label: "Alta", cls: "bg-red-50 dark:bg-red-950/30 text-red-500 dark:text-red-400" };
-  if (index % 3 === 1) return { label: "Média", cls: "bg-orange-50 dark:bg-orange-950/30 text-orange-500 dark:text-orange-400" };
-  return { label: "Baixa", cls: "bg-emerald-50 dark:bg-emerald-950/30 text-emerald-600 dark:text-emerald-400" };
+function priorityLabel(index: number, t: TranslateFn) {
+  if (index % 3 === 0) return { label: t("queue.priority.high"), cls: "bg-red-50 dark:bg-red-950/30 text-red-500 dark:text-red-400" };
+  if (index % 3 === 1) return { label: t("queue.priority.medium"), cls: "bg-orange-50 dark:bg-orange-950/30 text-orange-500 dark:text-orange-400" };
+  return { label: t("queue.priority.low"), cls: "bg-emerald-50 dark:bg-emerald-950/30 text-emerald-600 dark:text-emerald-400" };
 }
 
 interface EstadoFila {
@@ -165,32 +168,32 @@ export default function FilaPage() {
   const pipelinePercent = Math.round(conclusao);
 
   const pipeline = [
-    { icon: "↥", title: "Ingestão", value: reunioes.length.toLocaleString(locale), percent: 100 },
-    { icon: "◇", title: "Validação", value: reunioes.length.toLocaleString(locale), percent: 100 },
-    { icon: "✦", title: "Limpeza", value: reunioes.length.toLocaleString(locale), percent: 100 },
-    { icon: "✚", title: "Segmentação", value: reunioes.length.toLocaleString(locale), percent: 100 },
+    { icon: "↥", title: t("queue.steps.ingestion"), value: reunioes.length.toLocaleString(locale), percent: 100 },
+    { icon: "◇", title: t("queue.steps.validation"), value: reunioes.length.toLocaleString(locale), percent: 100 },
+    { icon: "✦", title: t("queue.steps.cleaning"), value: reunioes.length.toLocaleString(locale), percent: 100 },
+    { icon: "✚", title: t("queue.steps.segmentation"), value: reunioes.length.toLocaleString(locale), percent: 100 },
     {
       icon: "◉",
-      title: "Análise IA",
+      title: t("queue.steps.analysis"),
       value: concluidas.toLocaleString(locale),
       percent: pipelinePercent,
       highlight: true,
     },
     {
       icon: "⌘",
-      title: "Extração de entidades",
+      title: t("queue.steps.entities"),
       value: concluidas.toLocaleString(locale),
       percent: pipelinePercent,
     },
     {
       icon: "↗",
-      title: "Geração de insights",
+      title: t("queue.steps.insights"),
       value: concluidas.toLocaleString(locale),
       percent: pipelinePercent,
     },
     {
       icon: "▤",
-      title: "Persistência",
+      title: t("queue.steps.persistence"),
       value: concluidas.toLocaleString(locale),
       percent: pipelinePercent,
     },
@@ -203,7 +206,7 @@ export default function FilaPage() {
         <div className="flex flex-col gap-5 xl:flex-row xl:items-start xl:justify-between">
           <div>
             <p className="text-[10px] font-semibold text-[#1b4fc6]">
-              Bem-vindo ao TOTVS Insight
+              {t("dashboard.welcome")}
             </p>
 
             <h1 className="mt-1 text-[30px] font-bold leading-none tracking-[-0.035em] text-[#071d66] dark:text-[#f3f7ff]">
@@ -223,7 +226,7 @@ export default function FilaPage() {
               className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white shadow-[0_5px_12px_rgba(13,87,231,0.16)]"
             >
               <span aria-hidden="true">▷</span>
-              Iniciar fila
+              {t("queue.start")}
             </button>
 
             <button
@@ -231,7 +234,7 @@ export default function FilaPage() {
               className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
             >
               <span aria-hidden="true">Ⅱ</span>
-              Pausar fila
+              {t("queue.pause")}
             </button>
 
             <button
@@ -239,7 +242,7 @@ export default function FilaPage() {
               className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
             >
               <span aria-hidden="true">↻</span>
-              Atualizar
+              {t("queue.refresh")}
             </button>
 
             <button
@@ -247,7 +250,7 @@ export default function FilaPage() {
               className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
             >
               <span aria-hidden="true">•••</span>
-              Mais ações
+              {t("queue.moreActions")}
             </button>
           </div>
         </div>
@@ -271,7 +274,7 @@ export default function FilaPage() {
               <KpiCard
                 label={t("queue.pending")}
                 value={pendentes.length.toLocaleString(locale)}
-                helper="itens aguardando ou em processamento"
+                helper={t("queue.pendingHelper")}
                 tone="blue"
                 icon="◎"
               />
@@ -279,15 +282,15 @@ export default function FilaPage() {
               <KpiCard
                 label={t("queue.analyzed")}
                 value={concluidas.toLocaleString(locale)}
-                helper="transcrições concluídas na base"
+                helper={t("queue.analyzedHelper")}
                 tone="orange"
                 icon="••"
               />
 
               <KpiCard
-                label="Total na base"
+                label={t("queue.total")}
                 value={reunioes.length.toLocaleString(locale)}
-                helper="registros carregados atualmente"
+                helper={t("queue.totalHelper")}
                 tone="green"
                 icon="✓"
               />
@@ -295,23 +298,23 @@ export default function FilaPage() {
               <KpiCard
                 label={t("queue.coverage")}
                 value={`${conclusao.toLocaleString(locale, { maximumFractionDigits: 1 })}%`}
-                helper="proporção de itens concluídos"
+                helper={t("queue.coverageHelper")}
                 tone="green"
                 icon="✓"
               />
 
               <KpiCard
-                label="Falhas detectadas"
+                label={t("queue.failures")}
                 value={falhas.toLocaleString(locale)}
-                helper="status contendo falha ou erro"
+                helper={t("queue.failuresHelper")}
                 tone="red"
                 icon="!"
               />
 
               <KpiCard
-                label="Tempo médio"
+                label={t("queue.avgTime")}
                 value={formatarDuracao(tempoMedioSegundos)}
-                helper="duração média das reuniões"
+                helper={t("queue.avgTimeHelper")}
                 tone="blue"
                 icon="◷"
               />
@@ -325,21 +328,21 @@ export default function FilaPage() {
                   <div className="flex flex-wrap items-center justify-between gap-3">
                     <div className="flex items-center gap-3">
                       <h2 className="text-[14px] font-bold text-[#071d66] dark:text-[#f3f7ff]">
-                        Pipeline de processamento
+                        {t("queue.pipelineTitle")}
                       </h2>
                       <span className="rounded-md bg-[#eef4ff] dark:bg-[#14284a] px-2 py-1 text-[8px] font-semibold text-[#1458e5] dark:text-[#6ea8ff]">
-                        Tempo real
+                        {t("queue.realtime")}
                       </span>
                     </div>
 
                     <div className="flex items-center gap-4 text-[9px] font-medium text-[#53658f] dark:text-[#9fb0c9]">
                       <span className="flex items-center gap-1.5">
                         <span className="h-2 w-2 rounded-sm bg-[#1458e5]" />
-                        Atualização automática
+                        {t("queue.autoRefresh")}
                       </span>
                       <span className="flex items-center gap-1.5">
                         <span className="h-2 w-2 rounded-sm bg-emerald-50 dark:bg-emerald-950/300" />
-                        Ao vivo
+                        {t("queue.live")}
                       </span>
                     </div>
                   </div>
@@ -371,25 +374,25 @@ export default function FilaPage() {
 
                   <div className="mt-4 flex flex-wrap items-center gap-x-6 gap-y-2 text-[9px] text-[#5d6f99] dark:text-[#9aaccc]">
                     <span>
-                      Total processados:{" "}
+                      {t("queue.totalProcessed")}:{" "}
                       <strong className="text-[#102d72] dark:text-[#dce8fa]">
                         {reunioes.length.toLocaleString(locale)}
                       </strong>
                     </span>
                     <span>
-                      Concluídos:{" "}
+                      {t("queue.completed")}:{" "}
                       <strong className="text-[#102d72] dark:text-[#dce8fa]">
                         {concluidas.toLocaleString(locale)}
                       </strong>
                     </span>
                     <span>
-                      Em processamento:{" "}
+                      {t("queue.inProgress")}:{" "}
                       <strong className="text-[#102d72] dark:text-[#dce8fa]">
                         {pendentes.length.toLocaleString(locale)}
                       </strong>
                     </span>
                     <span>
-                      Falhas: <strong className="text-red-500 dark:text-red-400">{falhas.toLocaleString(locale)}</strong>
+                      {t("queue.failuresShort")}: <strong className="text-red-500 dark:text-red-400">{falhas.toLocaleString(locale)}</strong>
                     </span>
                   </div>
                 </Card>
@@ -400,7 +403,7 @@ export default function FilaPage() {
                     <h2 className="text-[14px] font-bold text-[#071d66] dark:text-[#f3f7ff]">Fila de jobs</h2>
 
                     <div className="flex h-9 min-w-[260px] items-center rounded-lg border border-[#dbe4f1] dark:border-[#2a3e5d] bg-white dark:bg-[#0f1d31] px-3 text-[9px] text-[#93a0ba] dark:text-[#7f93b2]">
-                      ⌕&nbsp;&nbsp; Buscar por ID, cliente ou reunião...
+                      ⌕&nbsp;&nbsp; {t("queue.searchPlaceholder")}
                     </div>
                   </div>
 
@@ -434,7 +437,7 @@ export default function FilaPage() {
 
                           <tbody>
                             {pendentes.map((item, index) => {
-                              const prioridade = priorityLabel(index);
+                              const prioridade = priorityLabel(index, t);
 
                               return (
                                 <tr
@@ -534,17 +537,17 @@ export default function FilaPage() {
               <aside className="space-y-4">
                 <Card className="rounded-[14px] !border-[#dce5f2] dark:!border-[#20334d] dark:border-[#20334d] !bg-white dark:!bg-[#0f1d31] dark:bg-[#0f1d31] p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
                   <div className="flex items-center justify-between gap-3">
-                    <h2 className="text-[14px] font-bold text-[#071d66] dark:text-[#f3f7ff]">Workers</h2>
+                    <h2 className="text-[14px] font-bold text-[#071d66] dark:text-[#f3f7ff]">{t("queue.workers")}</h2>
                     <span className="rounded-md bg-emerald-50 dark:bg-emerald-950/30 px-2 py-1 text-[8px] font-semibold text-emerald-600 dark:text-emerald-400">
-                      {Math.min(Math.max(pendentes.length, 1), 6)} ativos
+                      {t("queue.workersActive", { n: Math.min(Math.max(pendentes.length, 1), 6) })}
                     </span>
                   </div>
 
                   <div className="mt-4 overflow-hidden rounded-lg border border-[#e8edf5] dark:border-[#223652]">
                     <div className="grid grid-cols-[1fr_70px_60px] bg-[#fbfcff] px-3 py-2 dark:bg-[#111f34] text-[8px] font-semibold text-[#49608f] dark:text-[#9fb0c9]">
-                      <span>Worker</span>
-                      <span>Status</span>
-                      <span>Carga</span>
+                      <span>{t("queue.colWorker")}</span>
+                      <span>{t("queue.colStatus")}</span>
+                      <span>{t("queue.colLoad")}</span>
                     </div>
 
                     {Array.from({
@@ -557,7 +560,7 @@ export default function FilaPage() {
                         <span className="font-semibold text-[#183b86] dark:text-[#c7d8f3]">
                           wrk-{String(index + 1).padStart(2, "0")}
                         </span>
-                        <span className="text-emerald-600 dark:text-emerald-400">Ativo</span>
+                        <span className="text-emerald-600 dark:text-emerald-400">{t("queue.workerOn")}</span>
                         <span className="font-medium text-[#354f85] dark:text-[#b7c9e8]">
                           {55 + ((index * 9) % 31)}%
                         </span>
@@ -567,21 +570,21 @@ export default function FilaPage() {
 
                   <div className="mt-4 space-y-3">
                     <div className="flex items-center justify-between text-[9px]">
-                      <span className="font-medium text-[#53658f] dark:text-[#9fb0c9]">Itens em processamento</span>
+                      <span className="font-medium text-[#53658f] dark:text-[#9fb0c9]">{t("queue.itemsInProgress")}</span>
                       <strong className="text-[#102d72] dark:text-[#dce8fa]">{pendentes.length}</strong>
                     </div>
                     <div className="flex items-center justify-between text-[9px]">
-                      <span className="font-medium text-[#53658f] dark:text-[#9fb0c9]">Concluídos</span>
+                      <span className="font-medium text-[#53658f] dark:text-[#9fb0c9]">{t("queue.completed")}</span>
                       <strong className="text-[#102d72] dark:text-[#dce8fa]">{concluidas}</strong>
                     </div>
                     <div className="flex items-center justify-between text-[9px]">
-                      <span className="font-medium text-[#53658f] dark:text-[#9fb0c9]">Conclusão</span>
+                      <span className="font-medium text-[#53658f] dark:text-[#9fb0c9]">{t("queue.completion")}</span>
                       <strong className="text-[#102d72] dark:text-[#dce8fa]">
                         {conclusao.toLocaleString(locale, { maximumFractionDigits: 1 })}%
                       </strong>
                     </div>
                     <div className="flex items-center justify-between text-[9px]">
-                      <span className="font-medium text-[#53658f] dark:text-[#9fb0c9]">Falhas detectadas</span>
+                      <span className="font-medium text-[#53658f] dark:text-[#9fb0c9]">{t("queue.failures")}</span>
                       <strong className="text-red-500 dark:text-red-400">{falhas}</strong>
                     </div>
                   </div>
@@ -589,7 +592,7 @@ export default function FilaPage() {
 
                 <Card className="rounded-[14px] !border-[#dce5f2] dark:!border-[#20334d] dark:border-[#20334d] !bg-white dark:!bg-[#0f1d31] dark:bg-[#0f1d31] p-4 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
                   <div className="flex items-center justify-between">
-                    <h2 className="text-[14px] font-bold text-[#071d66] dark:text-[#f3f7ff]">Eventos do pipeline</h2>
+                    <h2 className="text-[14px] font-bold text-[#071d66] dark:text-[#f3f7ff]">{t("queue.pipelineEvents")}</h2>
                     <span className="text-[8px] font-semibold text-[#1458e5] dark:text-[#6ea8ff]">Tempo real</span>
                   </div>
 
@@ -605,15 +608,14 @@ export default function FilaPage() {
                         </span>
 
                         <p className="text-[8px] leading-relaxed text-[#53658f] dark:text-[#9fb0c9]">
-                          <strong className="text-[#183b86] dark:text-[#c7d8f3]">{item.id}</strong> está em processamento
-                          na etapa de Análise IA.
+                          <strong className="text-[#183b86] dark:text-[#c7d8f3]">{item.id}</strong> {t("queue.eventProcessing")}
                         </p>
                       </div>
                     ))}
 
                     {pendentes.length === 0 && (
                       <p className="py-6 text-center text-[9px] text-[#8290ae] dark:text-[#8396b3]">
-                        Nenhum evento pendente no momento.
+                        {t("queue.eventsEmpty")}
                       </p>
                     )}
                   </div>
