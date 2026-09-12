@@ -8,9 +8,9 @@ horas, 484 clientes e média de 49 minutos por reunião.
 
 ## Stack
 
-React 19, TypeScript, Vite 8 e Tailwind CSS v4. Não usa biblioteca de
-componentes nem de gráficos (as barras são CSS) e não tem gerenciador de estado
-global. Os ícones são SVG do próprio projeto, em `src/icons/`.
+React 19, TypeScript, Vite 8, Tailwind CSS v4 e React Router. Não usa biblioteca
+de componentes nem de gráficos (as barras são CSS) e não tem gerenciador de
+estado global. Os ícones são SVG do próprio projeto, em `src/icons/`.
 
 Node 22 e pnpm 10.34.3, fixados no `.mise.toml`.
 
@@ -24,6 +24,39 @@ pnpm dev
 
 O `data:build` é obrigatório na primeira vez. Sem ele o app abre no estado de
 erro "base não encontrada". O servidor sobe em <http://localhost:8443>.
+
+### Análise de transcrições
+
+A análise roda no servidor Python, que precisa estar de pé na mesma máquina que
+serve o site:
+
+```bash
+python backend/server.py
+```
+
+Ele escuta só em `127.0.0.1`: quem acessa de fora chega até ele pelo proxy do
+`pnpm dev`, nunca direto. Sem esse servidor, as telas de análise mostram
+"serviço de análise indisponível" — o resto do site continua funcionando, porque
+sai dos arquivos em `public/data/`.
+
+### Publicar
+
+O site publicado funciona sem o servidor Python: as transcrições e as análises já
+calculadas vão como arquivos estáticos, versionados em `public/data/`. Veja
+[DEPLOY.md](DEPLOY.md). Para regerar os dados antes de publicar:
+
+```bash
+pnpm data:build
+python backend/exportar_analises.py
+```
+
+### Abrir de outra máquina
+
+Use o IP da máquina que está rodando o `pnpm dev`, na porta 8443 (ex.:
+<http://192.168.0.10:8443>). O proxy reescreve `Host` e `Origin` ao repassar
+para a API, que só aceita origem local. Rode `ipconfig` (ou `ip addr`) para
+descobrir o IP; adaptadores virtuais (WSL, Hyper-V, Docker) aparecem na lista e
+não servem para outras máquinas.
 
 ### Scripts
 
@@ -141,14 +174,17 @@ Os pontos de troca para autenticação de verdade são `login()` em
 
 ## Deploy
 
-O `.github/workflows/pages.yml` publica no GitHub Pages a cada push na `main`.
-Em Settings > Pages, a fonte precisa estar em "GitHub Actions".
+O caminho oficial é a **Vercel**: `git push` publica o site estático com os
+dados versionados em `public/data/`. Passo a passo e checklists em
+[DEPLOY.md](DEPLOY.md).
 
-Publique sempre com `pnpm data:build:publico`, que gera o índice sem os textos.
-As transcrições são conversas reais de clientes: os nomes estão anonimizados,
-mas o teor comercial continua lá, com preços, contratos e insatisfações.
+Enquanto a base for fictícia e o repositório privado, o fluxo usual é
+`pnpm data:build` + `python backend/exportar_analises.py` antes do push. Se a
+base virar real, publique **sem** os textos (`pnpm data:build:publico`) — o
+login do browser não protege `/data/`.
 
-Detalhes em [DEPLOY.md](DEPLOY.md).
+O workflow `.github/workflows/pages.yml` (GitHub Pages) fica no repo como
+legado: só faz sentido se o repositório virar público; detalhes em DEPLOY.md.
 
 ## Cuidados
 
