@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { AuthScreen } from "@/navigation";
+import { useLocale } from "@/i18n/useLocale";
 import { MailIcon, InfoIcon } from "@/icons";
 
 export default function ForgotScreen({
@@ -7,6 +8,7 @@ export default function ForgotScreen({
 }: {
   onNav: (screen: AuthScreen) => void;
 }) {
+  const { t } = useLocale();
   const [email, setEmail] = useState("");
 
   return (
@@ -17,7 +19,7 @@ export default function ForgotScreen({
         w-full
         items-center
         justify-center
-        overflow-hidden
+        py-6
         bg-[linear-gradient(110deg,#20236f_0%,#183b80_35%,#0878b4_68%,#06aede_100%)]
         px-6
       "
@@ -25,14 +27,17 @@ export default function ForgotScreen({
       <div
         className="
           grid
-          h-[72vh]
-          max-h-[570px]
-          min-h-[470px]
-          w-[86vw]
+          w-full
           max-w-[1120px]
-          grid-cols-[42%_58%]
+          grid-cols-1
           overflow-hidden
-          rounded-[42px]
+          rounded-[28px]
+          md:h-[72vh]
+          md:max-h-[570px]
+          md:min-h-[470px]
+          md:w-[86vw]
+          md:grid-cols-[42%_58%]
+          md:rounded-[42px]
           bg-[linear-gradient(120deg,#eef4ff_0%,#d9efff_100%)]
           shadow-[0_15px_35px_rgba(0,0,0,0.12)]
         "
@@ -45,14 +50,18 @@ export default function ForgotScreen({
             flex-col
             items-center
             justify-center
-            px-[55px]
+            px-6
+            pt-8
+            md:px-[55px]
+            md:pt-0
           "
         >
           {/* Ícone de e-mail */}
           <div
             className="
               mb-[28px]
-              flex
+              hidden
+              md:flex
               h-[110px]
               w-[110px]
               items-center
@@ -69,7 +78,7 @@ export default function ForgotScreen({
           {/* Logo */}
           <div className="mb-[28px] flex items-center justify-center gap-[10px]">
             <img
-              src="/logo_azul.png"
+              src="/logo_azul.svg"
               alt=""
               className="h-[42px] w-[42px] object-contain"
             />
@@ -90,20 +99,16 @@ export default function ForgotScreen({
           <p
             className="
               max-w-[260px]
-              text-left
-              text-[18px]
+              text-center
+              text-[15px]
+              md:text-left
+              md:text-[18px]
               font-semibold
               leading-[1.7]
               text-[#17283e]
             "
           >
-            Informe o seu e-mail
-            <br />
-            corporativo para
-            <br />
-            receber um código
-            <br />
-            de verificação
+            {t("auth.forgotSubtitle")}
           </p>
 
           {/* Linha divisória */}
@@ -112,6 +117,8 @@ export default function ForgotScreen({
               absolute
               right-0
               top-[10%]
+              hidden
+              md:block
               h-[80%]
               w-[2px]
               bg-white/90
@@ -125,8 +132,10 @@ export default function ForgotScreen({
             flex
             flex-col
             justify-center
-            px-[68px]
-            py-[45px]
+            px-6
+            py-8
+            md:px-[68px]
+            md:py-[45px]
           "
         >
           {/* E-mail */}
@@ -141,13 +150,13 @@ export default function ForgotScreen({
                 text-[#17283e]
               "
             >
-              E-mail corporativo
+              {t("auth.email")}
             </label>
 
             <input
               id="email"
               type="email"
-              placeholder="seu.email@empresa.com"
+              placeholder={t("auth.emailPlaceholder")}
               value={email}
               onChange={(e) => setEmail(e.target.value)}
               autoComplete="username"
@@ -192,7 +201,7 @@ export default function ForgotScreen({
               active:translate-y-[1px]
             "
           >
-            Receber código
+            {t("auth.forgotSubmit")}
           </button>
 
           {/* Voltar */}
@@ -208,7 +217,7 @@ export default function ForgotScreen({
                 hover:underline
               "
             >
-              Voltar para login
+              {t("auth.backToLogin")}
             </button>
           </div>
 
@@ -222,7 +231,8 @@ export default function ForgotScreen({
               gap-[20px]
               rounded-[7px]
               bg-[#064da5]
-              px-[28px]
+              px-4
+              md:px-[28px]
               py-[18px]
               text-white
               shadow-[0_2px_5px_rgba(0,0,0,0.10)]
@@ -246,18 +256,13 @@ export default function ForgotScreen({
 
             <p
               className="
-                text-[15px]
+                text-[13px]
                 font-semibold
                 leading-[1.35]
+                md:text-[15px]
               "
             >
-              O código é válido por 60
-              <br />
-              minutos e é enviado para o
-              <br />
-              seu e-mail corporativo
-              <br />
-              cadastrado
+              {t("auth.forgotInfo")}
             </p>
           </div>
         </section>

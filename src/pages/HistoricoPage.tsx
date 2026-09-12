@@ -43,7 +43,7 @@ export default function HistoricoPage() {
       <PageHeader title={t("history.title")} subtitle={t("history.subtitle")} />
 
       <HistoricoAnalises />
-      <p className="mb-3 text-xs text-gray-500">Eventos de demonstração do site</p>
+      <p className="mb-3 text-xs text-gray-500">{t("history.demoEvents")}</p>
       <Card className="p-6">
         <div className="relative">
           {/* Linha vertical da timeline, alinhada ao centro dos marcadores */}
@@ -58,12 +58,16 @@ export default function HistoricoPage() {
                   <div className="min-w-0 flex-1">
                     <div className="flex flex-wrap items-center gap-2">
                       <span className={estilo.text}>{estilo.icon}</span>
-                      <p className="font-heading text-xs font-semibold text-brand-text">{h.acao}</p>
+                      <p className="font-heading text-xs font-semibold text-brand-text">
+                        {t(`history.events.${h.chave}.action`)}
+                      </p>
                       <span className="font-body ml-auto text-micro whitespace-nowrap text-gray-400">
                         {h.data}
                       </span>
                     </div>
-                    <p className="font-body mt-1 text-meta text-gray-500">{h.detalhe}</p>
+                    <p className="font-body mt-1 text-meta text-gray-500">
+                      {t(`history.events.${h.chave}.detail`)}
+                    </p>
                   </div>
                 </div>
               );
