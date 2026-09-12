@@ -292,49 +292,6 @@ export default function HistoricoPage() {
           </aside>
         </div>
 
-        {/* EVENTOS DE DEMONSTRAÇÃO */}
-        <div className="mt-4">
-          <p className="mb-3 text-xs text-gray-500 dark:text-gray-400">
-            {t("history.demoEvents")}
-          </p>
-
-          <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-6 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
-            <div className="relative">
-              {/* Linha vertical da timeline, alinhada ao centro dos marcadores */}
-              <div className="absolute bottom-0 left-[5px] top-0 w-px bg-gray-100 dark:bg-[#223652]" />
-
-              <div className="flex flex-col gap-5">
-                {HISTORICO.map((h, i) => {
-                  const estilo = TIPO_ESTILO[h.tipo];
-
-                  return (
-                    <div key={i} className="flex items-start gap-4">
-                      <div className={`z-10 mt-1 h-3 w-3 flex-shrink-0 rounded-full ${estilo.dot}`} />
-
-                      <div className="min-w-0 flex-1">
-                        <div className="flex flex-wrap items-center gap-2">
-                          <span className={estilo.text}>{estilo.icon}</span>
-
-                          <p className="font-heading text-xs font-semibold text-brand-text dark:text-[#f3f7ff]">
-                            {t(`history.events.${h.chave}.action`)}
-                          </p>
-
-                          <span className="ml-auto whitespace-nowrap font-body text-micro text-gray-400 dark:text-[#8396b3]">
-                            {h.data}
-                          </span>
-                        </div>
-
-                        <p className="mt-1 font-body text-meta text-gray-500 dark:text-[#9aaccc]">
-                          {t(`history.events.${h.chave}.detail`)}
-                        </p>
-                      </div>
-                    </div>
-                  );
-                })}
-              </div>
-            </div>
-          </Card>
-        </div>
       </div>
     </div>
   );

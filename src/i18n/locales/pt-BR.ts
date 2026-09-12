@@ -389,7 +389,6 @@ const ptBR: Dict = {
     closeResult: "Fechar resultado",
     loadFail: "Falha ao carregar histórico.",
     openFail: "Falha ao abrir resultado.",
-    demoEvents: "Eventos de demonstração do site",
     events: {
       e0: { action: "Análise concluída", detail: "TRN-002 — Embraer · Sentimento Positivo detectado" },
       e1: { action: "Upload de transcrição", detail: "TRN-008 — Unimed · 1h 22min de áudio" },

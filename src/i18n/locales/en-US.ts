@@ -388,7 +388,6 @@ const enUS: Dict = {
     closeResult: "Close result",
     loadFail: "Could not load history.",
     openFail: "Could not open result.",
-    demoEvents: "Sample site events",
     events: {
       e0: { action: "Analysis completed", detail: "TRN-002 — Embraer · Positive sentiment detected" },
       e1: { action: "Transcript uploaded", detail: "TRN-008 — Unimed · 1h 22min of audio" },

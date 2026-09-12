@@ -389,7 +389,6 @@ const es: Dict = {
     closeResult: "Cerrar resultado",
     loadFail: "Error al cargar el historial.",
     openFail: "Error al abrir el resultado.",
-    demoEvents: "Eventos de demostración del sitio",
     events: {
       e0: { action: "Análisis concluido", detail: "TRN-002 — Embraer · Sentimiento positivo detectado" },
       e1: { action: "Carga de transcripción", detail: "TRN-008 — Unimed · 1h 22min de audio" },
