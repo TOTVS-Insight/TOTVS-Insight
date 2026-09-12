@@ -14,12 +14,13 @@ logs/
 # Dump bruto das reuniões (46 MB) — nunca versionar: é conteúdo de cliente.
 data-source/
 
-# Artefatos gerados por `pnpm data:build`.
-# O índice público PODE ir pro repo (para o CI publicar o Pages).
-# As transcrições NÃO.
-public/data/transcricoes/
-# Mantém o índice versionável:
-# public/data/meetings-index.json  ← commitar quando a base mudar
+# Artefatos gerados por `pnpm data:build` e `backend/exportar_analises.py`.
+# A base é fictícia e o repositório é privado, então os dados vão versionados:
+# é o que permite publicar o site com tudo funcionando, sem servidor.
+#   public/data/meetings-index.json  — índice
+#   public/data/transcricoes/        — textos das reuniões
+#   public/data/analises/            — análises já calculadas
+# Se a base deixar de ser fictícia, volte a ignorar as duas pastas acima.
 
 # Dados privados e cache da demonstração local
 backend/storage/

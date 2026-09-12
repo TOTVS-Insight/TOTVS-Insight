@@ -10,16 +10,17 @@
  *   • HISTORICO   — a base não registra eventos de auditoria.
  *   • RELATORIOS  — não há relatórios gerados na origem.
  *   • ASSISTENTE  — respostas exigiriam um modelo de linguagem sobre os textos.
- *   • INSIGHTS    — sentimento, churn, oportunidades etc. não têm coluna na base.
+ *   • INSIGHTS    — sentimento, oportunidades etc. não têm coluna na base. A aba de
+ *                   churn saiu daqui: usa as análises do backend (`PainelChurn`).
  *
- * Textos de insight e sugestões do assistente vêm de `src/i18n/locales/`.
+ * Textos de insight, eventos do histórico e sugestões do assistente vêm de
+ * `src/i18n/locales/`.
  * Aqui ficam só valores numéricos (e respostas mock do assistente).
  */
 
 /** Abas de insight do dashboard (exceto Visão Geral, que usa a base real). */
 export type InsightTab =
   | "opportunities"
-  | "churn"
   | "products"
   | "competitors"
   | "sentiment"
@@ -33,7 +34,6 @@ export type InsightTab =
 /** Valores dos 4 KPIs de cada aba — rótulos e cópia vêm do dicionário i18n. */
 export const INSIGHTS: Record<InsightTab, { values: [string, string, string, string] }> = {
   opportunities: { values: ["128", "17", "R$ 2,4M", "23%"] },
-  churn: { values: ["12", "3", "8", "41"] },
   products: { values: ["18", "64%", "21%", "37"] },
   competitors: { values: ["89", "7", "14", "6"] },
   sentiment: { values: ["72%", "19%", "9%", "+9 pp"] },
@@ -49,8 +49,8 @@ export type TipoEvento = "sucesso" | "info" | "alerta" | "erro";
 
 export interface EventoHistorico {
   data: string;
-  acao: string;
-  detalhe: string;
+  /** Chave em `history.events` — ação e detalhe vêm do dicionário. */
+  chave: string;
   tipo: TipoEvento;
 }
 
@@ -63,66 +63,16 @@ export interface Relatorio {
 }
 
 export const HISTORICO: EventoHistorico[] = [
-  {
-    data: "05/08/2026",
-    acao: "Análise concluída",
-    detalhe: "TRN-002 — Embraer · Sentimento Positivo detectado",
-    tipo: "sucesso",
-  },
-  {
-    data: "05/08/2026",
-    acao: "Upload de transcrição",
-    detalhe: "TRN-008 — Unimed · 1h 22min de áudio",
-    tipo: "info",
-  },
-  {
-    data: "04/08/2026",
-    acao: "Alerta de churn gerado",
-    detalhe: "TRN-001 — Votorantim · 3ª semana com sentimento negativo",
-    tipo: "alerta",
-  },
-  {
-    data: "04/08/2026",
-    acao: "Relatório exportado",
-    detalhe: "Relatório mensal Julho/2026 exportado em PDF",
-    tipo: "info",
-  },
-  {
-    data: "03/08/2026",
-    acao: "Análise concluída",
-    detalhe: "TRN-004 — Petrobras · Sentimento Neutro",
-    tipo: "sucesso",
-  },
-  {
-    data: "02/08/2026",
-    acao: "Análise concluída",
-    detalhe: "TRN-005 — Vale S.A. · Oportunidade de upsell detectada",
-    tipo: "sucesso",
-  },
-  {
-    data: "01/08/2026",
-    acao: "Erro de processamento",
-    detalhe: "TRN-000 — Arquivo corrompido. Reenvio necessário.",
-    tipo: "erro",
-  },
-  {
-    data: "31/07/2026",
-    acao: "Análise concluída",
-    detalhe: "TRN-007 — Itaú BBA · Sentimento Positivo",
-    tipo: "sucesso",
-  },
-  {
-    data: "30/07/2026",
-    acao: "Novo usuário adicionado",
-    detalhe: "marina.costa@totvs.com.br — Analista Júnior",
-    tipo: "info",
-  },
-  {
-    data: "29/07/2026",
-    acao: "Configuração atualizada",
-    detalhe: "Limite de alertas de churn ajustado para 2 semanas",
-    tipo: "info",
-  },
+  { data: "05/08/2026", chave: "e0", tipo: "sucesso" },
+  { data: "05/08/2026", chave: "e1", tipo: "info" },
+  { data: "04/08/2026", chave: "e2", tipo: "alerta" },
+  { data: "04/08/2026", chave: "e3", tipo: "info" },
+  { data: "03/08/2026", chave: "e4", tipo: "sucesso" },
+  { data: "02/08/2026", chave: "e5", tipo: "sucesso" },
+  { data: "01/08/2026", chave: "e6", tipo: "erro" },
+  { data: "31/07/2026", chave: "e7", tipo: "sucesso" },
+  { data: "30/07/2026", chave: "e8", tipo: "info" },
+  { data: "29/07/2026", chave: "e9", tipo: "info" },
 ];
 
 export const RELATORIOS: Relatorio[] = [

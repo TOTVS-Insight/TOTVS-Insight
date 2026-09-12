@@ -266,12 +266,12 @@ export default function HistoricoPage() {
                             <div className="flex items-center gap-2">
                               <span className={estilo.text}>{estilo.icon}</span>
                               <p className="truncate text-[9px] font-semibold text-[#183b86] dark:text-[#c7d8f3]">
-                                {h.acao}
+                                {t(`history.events.${h.chave}.action`)}
                               </p>
                             </div>
 
                             <p className="mt-1 text-[8px] leading-relaxed text-[#60729c] dark:text-[#9aaccc]">
-                              {h.detalhe}
+                              {t(`history.events.${h.chave}.detail`)}
                             </p>
 
                             <p className="mt-1 text-[8px] text-[#8290ae] dark:text-[#8396b3]">
@@ -291,7 +291,7 @@ export default function HistoricoPage() {
         {/* EVENTOS DE DEMONSTRAÇÃO */}
         <div className="mt-4">
           <p className="mb-3 text-xs text-gray-500 dark:text-gray-400">
-            Eventos de demonstração do site
+            {t("history.demoEvents")}
           </p>
 
           <Card className="rounded-[14px] !border-[#dce5f2] !bg-white p-6 !shadow-[0_4px_16px_rgba(23,58,118,0.035)] dark:!border-[#20334d] dark:!bg-[#0f1d31] dark:!shadow-[0_6px_18px_rgba(0,0,0,0.18)]">
@@ -312,7 +312,7 @@ export default function HistoricoPage() {
                           <span className={estilo.text}>{estilo.icon}</span>
 
                           <p className="font-heading text-xs font-semibold text-brand-text dark:text-[#f3f7ff]">
-                            {h.acao}
+                            {t(`history.events.${h.chave}.action`)}
                           </p>
 
                           <span className="ml-auto whitespace-nowrap font-body text-micro text-gray-400 dark:text-[#8396b3]">
@@ -321,7 +321,7 @@ export default function HistoricoPage() {
                         </div>
 
                         <p className="mt-1 font-body text-meta text-gray-500 dark:text-[#9aaccc]">
-                          {h.detalhe}
+                          {t(`history.events.${h.chave}.detail`)}
                         </p>
                       </div>
                     </div>

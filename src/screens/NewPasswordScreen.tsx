@@ -1,5 +1,6 @@
 import { useState } from "react";
 import type { AuthScreen } from "@/navigation";
+import { useLocale } from "@/i18n/useLocale";
 import { CheckIcon, EyeIcon, LockIcon } from "@/icons";
 import logo from "../assets/logo.svg";
 
@@ -19,6 +20,7 @@ export default function NewPasswordScreen({
 }: {
   onNav: (screen: AuthScreen) => void;
 }) {
+  const { t } = useLocale();
   const [pass, setPass] = useState("");
   const [confirm, setConfirm] = useState("");
 
@@ -54,7 +56,7 @@ export default function NewPasswordScreen({
         w-full
         items-center
         justify-center
-        overflow-hidden
+        py-6
         bg-[linear-gradient(110deg,#20236f_0%,#183b80_35%,#0878b4_68%,#06aede_100%)]
         px-6
       "
@@ -63,14 +65,17 @@ export default function NewPasswordScreen({
         onSubmit={salvarSenha}
         className="
           grid
-          h-[72vh]
-          max-h-[570px]
-          min-h-[470px]
-          w-[86vw]
+          w-full
           max-w-[1120px]
-          grid-cols-[42%_58%]
+          grid-cols-1
           overflow-hidden
-          rounded-[42px]
+          rounded-[28px]
+          md:h-[72vh]
+          md:max-h-[570px]
+          md:min-h-[470px]
+          md:w-[86vw]
+          md:grid-cols-[42%_58%]
+          md:rounded-[42px]
           bg-[linear-gradient(120deg,#eef4ff_0%,#d9efff_100%)]
           shadow-[0_15px_35px_rgba(0,0,0,0.12)]
         "
@@ -83,14 +88,18 @@ export default function NewPasswordScreen({
             flex-col
             items-center
             justify-center
-            px-[55px]
+            px-6
+            pt-8
+            md:px-[55px]
+            md:pt-0
           "
         >
           {/* ÍCONE DE CADEADO */}
           <div
             className="
               mb-[28px]
-              flex
+              hidden
+              md:flex
               h-[110px]
               w-[110px]
               items-center
@@ -140,16 +149,16 @@ export default function NewPasswordScreen({
           <p
             className="
               max-w-[280px]
-              text-left
-              text-[18px]
+              text-center
+              text-[15px]
+              md:text-left
+              md:text-[18px]
               font-semibold
               leading-[1.7]
               text-[#17283e]
             "
           >
-            Crie uma nova senha forte
-            <br />
-            para proteger sua conta.
+            {t("auth.newPassSubtitle")}
           </p>
 
           {/* DIVISÓRIA */}
@@ -158,6 +167,8 @@ export default function NewPasswordScreen({
               absolute
               right-0
               top-[10%]
+              hidden
+              md:block
               h-[80%]
               w-[2px]
               bg-white/90
@@ -171,8 +182,10 @@ export default function NewPasswordScreen({
             flex
             flex-col
             justify-center
-            px-[68px]
-            py-[38px]
+            px-6
+            py-8
+            md:px-[68px]
+            md:py-[38px]
           "
         >
           {/* NOVA SENHA */}
@@ -187,7 +200,7 @@ export default function NewPasswordScreen({
                 text-[#17283e]
               "
             >
-              Nova senha
+              {t("auth.newPassField")}
             </label>
 
             <div className="relative">
@@ -225,8 +238,8 @@ export default function NewPasswordScreen({
                 }
                 aria-label={
                   showPass
-                    ? "Ocultar senha"
-                    : "Mostrar senha"
+                    ? t("auth.hidePassword")
+                    : t("auth.showPassword")
                 }
                 className="
                   absolute
@@ -255,7 +268,7 @@ export default function NewPasswordScreen({
                 text-[#17283e]
               "
             >
-              Confirmar nova senha
+              {t("auth.newPassConfirm")}
             </label>
 
             <div className="relative">
@@ -300,8 +313,8 @@ export default function NewPasswordScreen({
                 }
                 aria-label={
                   showConfirm
-                    ? "Ocultar senha"
-                    : "Mostrar senha"
+                    ? t("auth.hidePassword")
+                    : t("auth.showPassword")
                 }
                 className="
                   absolute
@@ -329,17 +342,17 @@ export default function NewPasswordScreen({
           >
             <RuleItem
               ok={checks.length}
-              label="Mínimo de 8 caracteres"
+              label={t("auth.ruleMin")}
             />
 
             <RuleItem
               ok={checks.upper}
-              label="Letra maiúscula"
+              label={t("auth.ruleUpper")}
             />
 
             <RuleItem
               ok={checks.special}
-              label="Caracteres especiais e números"
+              label={t("auth.ruleSpecial")}
             />
           </div>
           
@@ -367,7 +380,7 @@ export default function NewPasswordScreen({
               disabled:opacity-50
             "
           >
-            Salvar nova senha
+            {t("auth.newPassSubmit")}
           </button>
           <div className="mt-[12px] text-center">
             <button
@@ -381,7 +394,7 @@ export default function NewPasswordScreen({
       hover:underline
     "
             >
-              Voltar
+              {t("auth.back")}
             </button>
           </div>
         </section>

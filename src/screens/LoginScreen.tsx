@@ -84,7 +84,8 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
         w-full
         items-center
         justify-center
-        overflow-hidden
+        px-4
+        py-6
         bg-[linear-gradient(110deg,#20236f_0%,#183b80_35%,#0878b4_68%,#06aede_100%)]
       "
     >
@@ -92,18 +93,28 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
         onSubmit={submeter}
         className="
           flex
-          h-[92vh]
-          max-h-[710px]
-          min-h-[620px]
-          aspect-[0.92]
-          justify-between
+          w-full
+          max-w-[653px]
           flex-col
-          rounded-[42px]
+          justify-between
+          gap-8
+          rounded-[28px]
           bg-[linear-gradient(145deg,#eef5ff_0%,#dceeff_100%)]
-          px-[68px]
-          pb-[42px]
-          pt-[45px]
+          px-6
+          pb-8
+          pt-8
           shadow-[0_15px_35px_rgba(0,0,0,0.12)]
+          md:aspect-[0.92]
+          md:h-[92vh]
+          md:max-h-[710px]
+          md:min-h-[620px]
+          md:w-auto
+          md:max-w-none
+          md:gap-0
+          md:rounded-[42px]
+          md:px-[68px]
+          md:pb-[42px]
+          md:pt-[45px]
         "
       >
         <div>
@@ -112,10 +123,10 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
             <img
               src={logo}
               alt="TOTVS"
-              className="h-[65px] w-[65px] object-contain"
+              className="h-[52px] w-[52px] object-contain md:h-[65px] md:w-[65px]"
             />
 
-            <span className="text-[35px] font-bold tracking-[-0.8px] text-[#17283e]">
+            <span className="text-[28px] font-bold tracking-[-0.8px] text-[#17283e] md:text-[35px]">
               TOTVS Insight
             </span>
           </div>
@@ -123,6 +134,8 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
           {/* SUBTÍTULO */}
           <p
             className="
+      mx-auto
+      max-w-[240px]
       text-center
       text-[15px]
       font-medium
@@ -130,9 +143,7 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
       text-[#314156]
     "
           >
-            Ativos, nível de serviços
-            <br />
-            e inventário inteligentes.
+            {t("auth.tagline")}
           </p>
         </div>
 
@@ -177,7 +188,7 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
               text-[#17283e]
             "
           >
-            E-mail corporativo
+            {t("auth.email")}
           </label>
 
           <input
@@ -237,7 +248,7 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
               text-[#17283e]
             "
           >
-            Senha
+            {t("auth.password")}
           </label>
 
           <div className="relative">
@@ -279,13 +290,11 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
               `}
             />
 
-            </div>
-
             <button
               type="button"
               onClick={() => setShowPass((valorAtual) => !valorAtual)}
               disabled={carregando}
-              aria-label={showPass ? "Ocultar senha" : "Mostrar senha"}
+              aria-label={showPass ? t("auth.hidePassword") : t("auth.showPassword")}
               className="
                 absolute
                 right-[14px]
@@ -302,6 +311,7 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
             >
               <EyeIcon open={showPass} />
             </button>
+            </div>
           </div>
 
           {erros.senha && (
@@ -340,7 +350,7 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
             disabled:opacity-60
           "
         >
-          {carregando ? "Entrando..." : "Entrar"}
+          {carregando ? t("auth.submitting") : t("auth.loginTitle")}
         </button>
 
         {/* ESQUECI MINHA SENHA */}
@@ -359,7 +369,7 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
               disabled:opacity-50
             "
           >
-            Esqueci minha senha
+            {t("auth.forgot")}
           </button>
           </div>
         </div>

@@ -61,7 +61,7 @@ export default function TranscricaoDrawer({
     { label: t("transcripts.col.date"), valor: formatarDataHora(reuniao.data) },
     { label: t("transcripts.col.duration"), valor: formatarDuracao(reuniao.duracaoSegundos) },
     { label: t("transcripts.col.speakers"), valor: String(reuniao.locutores) },
-    { label: "Formato", valor: capitalizar(reuniao.formato) },
+    { label: t("drawer.format"), valor: capitalizar(reuniao.formato) },
     { label: t("transcripts.col.unit"), valor: ouTraco(reuniao.unidade) },
     { label: t("transcripts.col.segment"), valor: capitalizar(reuniao.segmento) },
     { label: t("transcripts.col.uf"), valor: ouTraco(reuniao.uf) },

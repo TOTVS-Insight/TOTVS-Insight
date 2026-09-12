@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
+import { Navigate, useLocation, useNavigate } from "react-router";
 import { SIDEBAR_WIDTH } from "@/theme";
 import type { NavId } from "@/navigation";
+import { DASHBOARD_PATHS, navFromPath, pathForNav } from "@/navigation";
 import { useLocale } from "@/i18n/useLocale";
 import useMediaQuery from "@/hooks/useMediaQuery";
 import { ChevronLeftIcon } from "@/icons";
@@ -14,18 +16,33 @@ const TOGGLE_OVERLAP = 12;
 /** Tailwind `md` — a partir daqui a sidebar volta a ser docked. */
 const DESKTOP_MQ = "(min-width: 768px)";
 
+function isKnownDashboardPath(pathname: string): boolean {
+  const p = pathname.length > 1 && pathname.endsWith("/") ? pathname.slice(0, -1) : pathname;
+  return p === "/" || DASHBOARD_PATHS.includes(p);
+}
+
 export default function DashboardScreen({ onLogout }: { onLogout: () => void }) {
   const { t } = useLocale();
+  const location = useLocation();
+  const navigate = useNavigate();
   const isDesktop = useMediaQuery(DESKTOP_MQ);
-  const [activeNav, setActiveNav] = useState<NavId>("dashboard");
   /** Desktop: sidebar recolhida. */
   const [collapsed, setCollapsed] = useState(false);
   /** Mobile: drawer aberto. */
   const [drawerOpen, setDrawerOpen] = useState(false);
 
+  const activeNav = navFromPath(location.pathname);
+  const onNav = (id: NavId) => {
+    navigate(pathForNav(id));
+  };
+
   useEffect(() => {
     if (isDesktop) setDrawerOpen(false);
   }, [isDesktop]);
+
+  if (!isKnownDashboardPath(location.pathname)) {
+    return <Navigate to="/" replace />;
+  }
 
   const sidebarOpen = isDesktop ? !collapsed : drawerOpen;
   const sidebarMode = isDesktop ? "dock" : "drawer";
@@ -37,7 +54,7 @@ export default function DashboardScreen({ onLogout }: { onLogout: () => void }) 
     <div className="flex min-h-screen bg-brand-surface">
       <Sidebar
         active={activeNav}
-        onNav={setActiveNav}
+        onNav={onNav}
         onLogout={onLogout}
         open={sidebarOpen}
         mode={sidebarMode}
@@ -92,13 +109,13 @@ export default function DashboardScreen({ onLogout }: { onLogout: () => void }) 
       >
         <Header
           onLogout={onLogout}
-          onNav={setActiveNav}
+          onNav={onNav}
           onMenuClick={() => setDrawerOpen((o) => !o)}
           menuOpen={drawerOpen}
         />
         <main className="flex-1 overflow-y-auto p-4 sm:p-6 lg:p-8">
           <div className="mx-auto w-full max-w-[1600px]">
-            <PageRouter activeNav={activeNav} onNav={setActiveNav} />
+            <PageRouter activeNav={activeNav} onNav={onNav} />
           </div>
         </main>
       </div>

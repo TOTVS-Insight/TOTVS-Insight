@@ -15,6 +15,16 @@ from sklearn.metrics import precision_score, recall_score, f1_score, fbeta_score
 
 SEED=2026
 LIMIARES=[.20,.35,.50,.65]
+# Palavras sem conteúdo, sem acento (como o TF-IDF enxerga). Termo formado só por elas
+# não é mostrado como termo do alerta.
+PALAVRAS_VAZIAS=frozenset('''a o as os um uma uns umas de da do das dos em na no nas nos ao aos por para pra pro
+pros com sem e ou mas que se como quando onde porque entao ai la ca aqui ali ja nao sim tambem muito mais menos bem
+so eu ele ela nos eles elas voce voces gente me te lhe meu minha meus minhas seu sua seus suas nosso nossa nossos
+nossas dele dela deles delas isso isto aquilo esse essa esses essas este esta estes estas aquele aquela aqueles
+aquelas ser foi era sao estar estou estava estao ta ter tem tinha tenho vai vou vamos ir fazer faz fez dar ok ne
+tipo coisa coisas assim aham uhum hum viu olha bom certo pessoal algo algum alguma alguns algumas varias varios
+tudo todo toda todos todas nada outro outra outros outras quer pode posso ate entre sobre depois antes agora hoje
+ainda cada qual quais quem'''.split())
 
 def limpar(texto):
     texto=re.sub(r'\[LOCUTOR\s+\d+\]:',' ',texto,flags=re.I)
@@ -202,6 +212,24 @@ def importar_json(path):
         result.append({'id_reuniao':str(r.get('ID_MEETING',i)),'texto':r['ANON_TRANSCRICAO']})
     return result
 
+def termos_do_alerta(model,vector,limite=8):
+    """Termos de palavra que mais empurraram o score para risco (peso do modelo × TF-IDF).
+
+    Indica o que pesou na classificação, sem afirmar causa. N-gramas de caractere não são
+    legíveis e termos só com palavras vazias não informam nada; ambos ficam de fora."""
+    clf=model.named_steps['clf']
+    pesos=clf.coef_[0] if hasattr(clf,'coef_') else clf.feature_log_prob_[1]-clf.feature_log_prob_[0]
+    names=model.named_steps['texto'].get_feature_names_out()
+    termos=[]
+    for contribuicao,j in sorted(((valor*pesos[j],j) for j,valor in zip(vector.indices,vector.data)),reverse=True):
+        if contribuicao<=0 or len(termos)>=limite:break
+        nome=str(names[j])
+        if nome.startswith('caractere__'):continue
+        nome=nome.replace('palavra__','')
+        if all(p in PALAVRAS_VAZIAS for p in nome.split()):continue
+        termos.append(nome)
+    return termos
+
 def analisar_transcricao(texto,bundle,id_reuniao='nova'):
     rows=[]
     for index,(start,end,excerpt) in enumerate(segmentar(texto),1):
@@ -223,10 +251,7 @@ def analisar_transcricao(texto,bundle,id_reuniao='nova'):
                               motivo='Classificação exploratória; score não é probabilidade de churn',
                               recomendacao=('Revisar contexto, identificar fornecedor e responsável pela fala e avaliar contato de Customer Success.' if risk else
                                             'Manter acompanhamento habitual; ausência de alerta não garante ausência de risco.'))
-                # Termos observados com maior peso TF-IDF, sem atribuir causalidade ou afirmar explicação do classificador.
-                names=model.named_steps['texto'].get_feature_names_out()
-                present=sorted(zip(vector.indices,vector.data),key=lambda pair:pair[1],reverse=True)
-                record['termos_presentes']=[str(names[j]).replace('palavra__','') for j,_ in present if not str(names[j]).startswith('caractere__')][:8]
+                record['termos_presentes']=termos_do_alerta(model,vector)
                 record['trecho_ja_anotado']=hashlib.sha256(clean.encode()).hexdigest() in bundle['conhecidos']
         rows.append(record)
     counts=Counter(r['status'] for r in rows)

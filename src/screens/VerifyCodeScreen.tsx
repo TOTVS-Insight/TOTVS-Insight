@@ -1,5 +1,6 @@
 import { useRef, useState, type KeyboardEvent } from "react";
 import type { AuthScreen } from "@/navigation";
+import { useLocale } from "@/i18n/useLocale";
 import { ShieldCheckIcon } from "@/icons";
 import logo from "../assets/logo.svg";
 
@@ -14,6 +15,7 @@ export default function VerifyCodeScreen({
     Array(CODE_LENGTH).fill("")
   );
 
+  const { t } = useLocale();
   const inputs = useRef<(HTMLInputElement | null)[]>([]);
 
   function handleDigit(index: number, value: string) {
@@ -47,7 +49,7 @@ export default function VerifyCodeScreen({
         w-full
         items-center
         justify-center
-        overflow-hidden
+        py-6
         bg-[linear-gradient(110deg,#20236f_0%,#183b80_35%,#0878b4_68%,#06aede_100%)]
         px-6
       "
@@ -55,14 +57,17 @@ export default function VerifyCodeScreen({
       <div
         className="
           grid
-          h-[72vh]
-          max-h-[570px]
-          min-h-[470px]
-          w-[86vw]
+          w-full
           max-w-[1120px]
-          grid-cols-[42%_58%]
+          grid-cols-1
           overflow-hidden
-          rounded-[42px]
+          rounded-[28px]
+          md:h-[72vh]
+          md:max-h-[570px]
+          md:min-h-[470px]
+          md:w-[86vw]
+          md:grid-cols-[42%_58%]
+          md:rounded-[42px]
           bg-[linear-gradient(120deg,#eef4ff_0%,#d9efff_100%)]
           shadow-[0_15px_35px_rgba(0,0,0,0.12)]
         "
@@ -75,14 +80,18 @@ export default function VerifyCodeScreen({
             flex-col
             items-center
             justify-center
-            px-[55px]
+            px-6
+            pt-8
+            md:px-[55px]
+            md:pt-0
           "
         >
           {/* ÍCONE ESCUDO */}
           <div
             className="
               mb-[28px]
-              flex
+              hidden
+              md:flex
               h-[110px]
               w-[110px]
               items-center
@@ -132,18 +141,16 @@ export default function VerifyCodeScreen({
           <p
             className="
               max-w-[280px]
-              text-left
-              text-[18px]
+              text-center
+              text-[15px]
+              md:text-left
+              md:text-[18px]
               font-semibold
               leading-[1.7]
               text-[#17283e]
             "
           >
-            Enviamos um código de 6
-            <br />
-            dígitos para o seu e-mail
-            <br />
-            corporativo.
+            {t("auth.verifySubtitle")}
           </p>
 
           {/* DIVISÓRIA */}
@@ -152,6 +159,8 @@ export default function VerifyCodeScreen({
               absolute
               right-0
               top-[10%]
+              hidden
+              md:block
               h-[80%]
               w-[2px]
               bg-white/90
@@ -165,8 +174,10 @@ export default function VerifyCodeScreen({
             flex
             flex-col
             justify-center
-            px-[68px]
-            py-[45px]
+            px-6
+            py-8
+            md:px-[68px]
+            md:py-[45px]
           "
         >
           {/* TÍTULO */}
@@ -178,7 +189,7 @@ export default function VerifyCodeScreen({
               text-[#17283e]
             "
           >
-            Digite o código recebido
+            {t("auth.verifyTitle")}
           </p>
 
           {/* CAMPOS DO CÓDIGO */}
@@ -187,7 +198,8 @@ export default function VerifyCodeScreen({
               mb-[40px]
               flex
               items-center
-              gap-[14px]
+              gap-2
+              sm:gap-[14px]
             "
           >
             {digits.map((digit, i) => (
@@ -200,7 +212,7 @@ export default function VerifyCodeScreen({
                 inputMode="numeric"
                 maxLength={1}
                 value={digit}
-                aria-label={`Dígito ${i + 1} de ${CODE_LENGTH}`}
+                aria-label={t("auth.verifyDigit", { i: i + 1, n: CODE_LENGTH })}
                 onChange={(e) =>
                   handleDigit(i, e.target.value)
                 }
@@ -208,8 +220,10 @@ export default function VerifyCodeScreen({
                   handleKeyDown(i, e)
                 }
                 className="
-                  h-[58px]
-                  w-[52px]
+                  h-[52px]
+                  w-[40px]
+                  sm:h-[58px]
+                  sm:w-[52px]
                   rounded-[7px]
                   border
                   border-[#9caabb]
@@ -253,7 +267,7 @@ export default function VerifyCodeScreen({
               active:translate-y-[1px]
             "
           >
-            Enviar código
+            {t("auth.verifySubmit")}
           </button>
 
           {/* LINKS */}
@@ -276,7 +290,7 @@ export default function VerifyCodeScreen({
                 hover:underline
               "
             >
-              Reenviar código (60s)
+              {t("auth.verifyResend")}
             </button>
 
             <button
@@ -290,7 +304,7 @@ export default function VerifyCodeScreen({
                 hover:underline
               "
             >
-              Voltar para login
+              {t("auth.backToLogin")}
             </button>
           </div>
         </section>

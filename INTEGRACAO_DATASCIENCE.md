@@ -10,7 +10,7 @@ Na página Transcrições, use **Analisar um texto novo** para colar uma transcr
 
 Os uploads da lista continuam temporários; os resultados, com os trechos analisados, ficam salvos em `backend/storage/analises.sqlite3`. Esse banco é privado, não deve ser versionado ou publicado. Cada nova execução cria uma entrada no histórico; não retreina o modelo. Identificadores de reuniões devem ser distintos para reuniões diferentes.
 
-O upload aceita TXT e JSON com um objeto e campo `texto`, `text`, `transcricao`, `transcript` ou `ANON_TRANSCRICAO`. Um arquivo com várias reuniões precisa ser separado em uma reunião por arquivo nesta versão. O limite é 100 mil caracteres por análise.
+O upload aceita TXT e JSON com um objeto e campo `texto`, `text`, `transcricao`, `transcript` ou `ANON_TRANSCRICAO`. Um arquivo com várias reuniões precisa ser separado em uma reunião por arquivo nesta versão. O limite é 500 mil caracteres por análise.
 
 ## Desenvolvimento
 

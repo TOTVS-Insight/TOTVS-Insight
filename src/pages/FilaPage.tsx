@@ -1,6 +1,7 @@
-import { useCallback, useMemo } from "react";
+import { useMemo } from "react";
 
 import { GRADIENT_PROGRESS } from "@/theme";
+import { listarAnalises } from "@/data/analises";
 import { getReunioes } from "@/data/repository";
 import useDataset from "@/data/useDataset";
 import type { Reuniao } from "@/data/types";
@@ -108,22 +109,38 @@ function priorityLabel(index: number) {
   return { label: "Baixa", cls: "bg-emerald-50 dark:bg-emerald-950/30 text-emerald-600 dark:text-emerald-400" };
 }
 
+interface EstadoFila {
+  reunioes: Reuniao[];
+  /** IDs com análise salva; `null` quando o serviço e os arquivos publicados não responderam. */
+  analisadas: Set<string> | null;
+}
+
+async function carregarFila(): Promise<EstadoFila> {
+  const [reunioes, analises] = await Promise.all([
+    // `getReunioes()` (e não `getIndice()`) para que uploads da sessão contem aqui
+    // como contam na tabela de transcrições e no dashboard.
+    getReunioes(),
+    listarAnalises().catch(() => null),
+  ]);
+  return { reunioes, analisadas: analises && new Set(analises.map((a) => a.id_reuniao)) };
+}
+
 export default function FilaPage() {
   const { t, locale } = useLocale();
 
   // `getReunioes()` (e não `getIndice()`) para que uploads da sessão contem aqui
   // como contam na tabela de transcrições e no dashboard.
-  const { data, loading, error, sugestao } = useDataset<Reuniao[]>(
-    useCallback(() => getReunioes(), []),
-  );
+  const { data, loading, error, sugestao } = useDataset<EstadoFila>(carregarFila);
 
-  const reunioes = data ?? [];
+  const reunioes = data?.reunioes ?? [];
+  const analisadas = data?.analisadas ?? null;
 
-  // Regras originais preservadas.
-  const pendentes = reunioes.filter((r) => r.status !== "COMPLETED");
+  /*
+   * "Processada" aqui é ter análise salva. O `status` da origem (COMPLETED) só diz
+   * que a reunião aconteceu: contá-lo mostrava 100% sem nenhuma análise feita.
+   */
+  const pendentes = analisadas ? reunioes.filter((r) => !analisadas.has(r.id)) : reunioes;
   const concluidas = reunioes.length - pendentes.length;
-
-  // Calculado, não cravado: com algum item pendente o número deixa de ser 100%.
   const conclusao = reunioes.length === 0 ? 0 : (concluidas / reunioes.length) * 100;
 
   /**
@@ -252,7 +269,7 @@ export default function FilaPage() {
             {/* KPIs */}
             <div className="mt-5 grid grid-cols-1 gap-2.5 sm:grid-cols-2 lg:grid-cols-3 2xl:grid-cols-6">
               <KpiCard
-                label={t("queue.processing")}
+                label={t("queue.pending")}
                 value={pendentes.length.toLocaleString(locale)}
                 helper="itens aguardando ou em processamento"
                 tone="blue"
@@ -260,7 +277,7 @@ export default function FilaPage() {
               />
 
               <KpiCard
-                label={t("queue.processed")}
+                label={t("queue.analyzed")}
                 value={concluidas.toLocaleString(locale)}
                 helper="transcrições concluídas na base"
                 tone="orange"
@@ -276,7 +293,7 @@ export default function FilaPage() {
               />
 
               <KpiCard
-                label={t("queue.completion")}
+                label={t("queue.coverage")}
                 value={`${conclusao.toLocaleString(locale, { maximumFractionDigits: 1 })}%`}
                 helper="proporção de itens concluídos"
                 tone="green"

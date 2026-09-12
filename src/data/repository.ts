@@ -13,6 +13,7 @@
 
 import { getActiveLocale } from "@/i18n/types";
 import { translate } from "@/i18n/translate";
+import { listarAnalises } from "./analises";
 import { getTextoUpload, listarUploads } from "./sessionUploads";
 import {
   DadosIndisponiveisError,
@@ -145,9 +146,10 @@ export async function transcricoesDisponiveis(): Promise<boolean> {
 /**
  * Texto completo de uma reunião. Cada transcrição vive num arquivo próprio e é
  * buscada só quando alguém realmente abre a reunião. Uploads da sessão têm
- * prioridade sobre o disco.
+ * prioridade sobre o disco. Devolve `null` quando o arquivo não existe nesta
+ * cópia do projeto.
  */
-export async function getTranscricao(id: string): Promise<TranscricaoCompleta> {
+export async function getTranscricao(id: string): Promise<TranscricaoCompleta | null> {
   const local = getTextoUpload(id);
   if (local !== undefined) return { id, texto: local };
 
@@ -162,7 +164,15 @@ export async function getTranscricao(id: string): Promise<TranscricaoCompleta> {
   }
 
   const tipo = resposta.headers.get("content-type") ?? "";
-  if (!resposta.ok || !tipo.includes("json")) {
+
+  /*
+   * O índice versionado anuncia os textos, mas `transcricoes/` fica fora do git.
+   * Num clone sem `data:build` o arquivo não existe (404, ou o index.html do
+   * fallback de SPA no Vite): mostra "não publicado" em vez de erro.
+   */
+  if (resposta.status === 404 || (resposta.ok && !tipo.includes("json"))) return null;
+
+  if (!resposta.ok) {
     throw new DadosIndisponiveisError(
       translate("errors.transcriptNotFound", { id }),
       translate("errors.transcriptRebuild"),
@@ -192,8 +202,14 @@ function formatarMinutos(segundos: number): string {
  * de origem: derivá-los exigiria análise de linguagem sobre as transcrições.
  */
 export async function getKpis(): Promise<Kpi[]> {
-  const reunioes = await getReunioes();
+  const [reunioes, analises] = await Promise.all([
+    getReunioes(),
+    // Sem o serviço de análise o dashboard continua abrindo; só este KPI fica "—".
+    listarAnalises().catch(() => null),
+  ]);
   const locale = getActiveLocale();
+  const idsAnalisados = analises && new Set(analises.map((a) => a.id_reuniao));
+  const analisadas = idsAnalisados ? reunioes.filter((r) => idsAnalisados.has(r.id)).length : null;
 
   const segundosTotais = reunioes.reduce((s, r) => s + r.duracaoSegundos, 0);
   const clientes = new Set(reunioes.map((r) => r.codt)).size;
@@ -207,8 +223,11 @@ export async function getKpis(): Promise<Kpi[]> {
     {
       id: "reunioes",
       titulo: translate("kpi.meetings"),
-      valor: reunioes.length.toLocaleString(locale),
-      detalhe: `${periodoCoberto(reunioes)}`,
+      valor: analisadas !== null ? analisadas.toLocaleString(locale) : "—",
+      detalhe: translate("kpi.meetingsDetail", {
+        total: reunioes.length.toLocaleString(locale),
+        periodo: periodoCoberto(reunioes),
+      }),
     },
     {
       id: "horas",
