@@ -1,4 +1,5 @@
 import HistoricoAnalises from "@/components/HistoricoAnalises";
+import PainelChurn from "@/components/PainelChurn";
 import { useCallback, useState } from "react";
 import { getResumoDashboard, type ResumoDashboard } from "@/data/repository";
 import useDataset from "@/data/useDataset";
@@ -32,8 +33,9 @@ const TAB_ROW2 = [
 
 type TabId = (typeof TAB_ROW1)[number] | (typeof TAB_ROW2)[number];
 
+/** Visão Geral e Churn usam dados reais; as demais abas ainda são ilustrativas. */
 function isInsightTab(tab: TabId): tab is InsightTab {
-  return tab !== "overview";
+  return tab !== "overview" && tab !== "churn";
 }
 
 /** Estilo de cada KPI, casado pelo `id` que o repositório devolve. */
@@ -368,6 +370,8 @@ export default function DashboardPage() {
           {data && <VisaoGeral data={data} t={t} />}
         </>
       )}
+
+      {activeTab === "churn" && <PainelChurn />}
 
       {isInsightTab(activeTab) && <InsightPanel tab={activeTab} t={t} />}
     </div>
