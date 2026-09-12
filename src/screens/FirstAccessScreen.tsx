@@ -8,6 +8,7 @@ import InfoBox from "@/components/ui/InfoBox";
 import LinkBtn from "@/components/ui/LinkBtn";
 import PrimaryBtn from "@/components/ui/PrimaryBtn";
 
+
 export default function FirstAccessScreen({ onNav }: { onNav: (screen: AuthScreen) => void }) {
   const { t } = useLocale();
   const [email, setEmail] = useState("");

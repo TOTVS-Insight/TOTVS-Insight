@@ -1,6 +1,7 @@
 import { useState } from "react";
 import type { AuthScreen } from "@/navigation";
 import { CheckIcon, EyeIcon, LockIcon } from "@/icons";
+import logo from "../assets/logo.svg";
 
 /** Regras de força da senha. */
 export function passwordChecks(password: string) {
@@ -114,7 +115,7 @@ export default function NewPasswordScreen({
             "
           >
             <img
-              src="/logo_azul.png"
+              src={logo}
               alt=""
               className="
                 h-[42px]
