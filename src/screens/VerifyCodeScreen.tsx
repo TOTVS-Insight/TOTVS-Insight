@@ -2,6 +2,7 @@ import { useRef, useState, type KeyboardEvent } from "react";
 import type { AuthScreen } from "@/navigation";
 import { useLocale } from "@/i18n/useLocale";
 import { ShieldCheckIcon } from "@/icons";
+import logo from "../assets/logo.svg";
 
 const CODE_LENGTH = 6;
 
@@ -115,7 +116,7 @@ export default function VerifyCodeScreen({
             "
           >
             <img
-              src="/logo_azul.svg"
+              src={logo}
               alt=""
               className="
                 h-[42px]

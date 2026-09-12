@@ -2,6 +2,7 @@ import { useState } from "react";
 import type { AuthScreen } from "@/navigation";
 import { useLocale } from "@/i18n/useLocale";
 import { MailIcon, InfoIcon } from "@/icons";
+import logo from "../assets/logo.svg";
 
 export default function ForgotScreen({
   onNav,
@@ -78,7 +79,7 @@ export default function ForgotScreen({
           {/* Logo */}
           <div className="mb-[28px] flex items-center justify-center gap-[10px]">
             <img
-              src="/logo_azul.svg"
+              src={logo}
               alt=""
               className="h-[42px] w-[42px] object-contain"
             />

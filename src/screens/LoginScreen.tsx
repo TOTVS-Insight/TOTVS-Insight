@@ -5,6 +5,7 @@ import { validarCredenciais } from "@/auth/authService";
 import type { ErrosFormulario } from "@/auth/types";
 import { useLocale } from "@/i18n/useLocale";
 import { AlertTriangleIcon, EyeIcon } from "@/icons";
+import logo from "../assets/logo.svg";
 
 export interface LoginScreenProps {
   onNav: (screen: AuthScreen) => void;
@@ -120,7 +121,7 @@ export default function LoginScreen({ onNav }: LoginScreenProps) {
           {/* LOGO */}
           <div className="mb-[10px] flex items-center justify-center gap-[10px]">
             <img
-              src="/logo_azul.svg"
+              src={logo}
               alt="TOTVS"
               className="h-[52px] w-[52px] object-contain md:h-[65px] md:w-[65px]"
             />
