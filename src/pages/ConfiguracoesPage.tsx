@@ -167,19 +167,28 @@ export default function ConfiguracoesPage({ onNav }: { onNav?: (id: NavId) => vo
             {t("settings.securitySection")}
           </p>
           <div className="flex flex-col gap-3">
-            <button className="font-body flex w-full items-center gap-2 rounded-lg border border-gray-200 px-3 py-2.5 text-left text-xs text-brand-text transition-colors hover:bg-gray-50">
+            {/* Trocar senha e 2FA exigem autenticação no servidor, que não existe. */}
+            <button
+              disabled
+              title={t("common.demoOnly")}
+              className="font-body flex w-full items-center gap-2 rounded-lg border border-gray-200 px-3 py-2.5 text-left text-xs text-brand-text opacity-50"
+            >
               <span className="text-brand-blue">
                 <LockIcon size={13} />
               </span>
               {t("settings.changePassword")}
             </button>
-            <button className="font-body flex w-full items-center gap-2 rounded-lg border border-gray-200 px-3 py-2.5 text-left text-xs text-brand-text transition-colors hover:bg-gray-50">
+            <button
+              disabled
+              title={t("common.demoOnly")}
+              className="font-body flex w-full items-center gap-2 rounded-lg border border-gray-200 px-3 py-2.5 text-left text-xs text-brand-text opacity-50"
+            >
               <span className="text-brand-blue">
                 <ShieldIcon size={13} />
               </span>
               {t("settings.mfa")}
-              <span className="ml-auto rounded bg-green-100 px-1.5 py-0.5 text-micro text-green-700">
-                {t("status.Ativo")}
+              <span className="ml-auto rounded bg-gray-100 px-1.5 py-0.5 text-micro text-gray-600">
+                {t("common.unavailable")}
               </span>
             </button>
           </div>

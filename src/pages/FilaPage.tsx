@@ -133,7 +133,7 @@ export default function FilaPage() {
 
   // `getReunioes()` (e não `getIndice()`) para que uploads da sessão contem aqui
   // como contam na tabela de transcrições e no dashboard.
-  const { data, loading, error, sugestao } = useDataset<EstadoFila>(carregarFila);
+  const { data, loading, error, sugestao, recarregar } = useDataset<EstadoFila>(carregarFila);
 
   const reunioes = data?.reunioes ?? [];
   const analisadas = data?.analisadas ?? null;
@@ -216,22 +216,20 @@ export default function FilaPage() {
             <p className="mt-2 text-[11px] text-[#6576a5] dark:text-[#9aaccc]">{t("queue.subtitle")}</p>
           </div>
 
-          {/*
-            Botões somente visuais.
-            Nenhum handler foi inventado para não interferir na lógica existente.
-          */}
+          {/* Iniciar, pausar e mais ações dependem de uma fila real; ficam desabilitados. */}
           <div className="flex flex-wrap items-center gap-2.5">
             <button
               type="button"
-              className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white shadow-[0_5px_12px_rgba(13,87,231,0.16)]"
+              disabled
+              title={t("common.demoOnly")}
+              className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white opacity-50 shadow-[0_5px_12px_rgba(13,87,231,0.16)]"
             >
               <span aria-hidden="true">▷</span>
               {t("queue.start")}
             </button>
 
             <button
-              type="button"
-              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
+              type="button" disabled title={t("common.demoOnly")} className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] opacity-50 dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
             >
               <span aria-hidden="true">Ⅱ</span>
               {t("queue.pause")}
@@ -239,15 +237,15 @@ export default function FilaPage() {
 
             <button
               type="button"
-              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
+              onClick={recarregar}
+              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
             >
               <span aria-hidden="true">↻</span>
               {t("queue.refresh")}
             </button>
 
             <button
-              type="button"
-              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
+              type="button" disabled title={t("common.demoOnly")} className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] opacity-50 dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
             >
               <span aria-hidden="true">•••</span>
               {t("queue.moreActions")}

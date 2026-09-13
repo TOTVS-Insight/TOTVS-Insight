@@ -6,6 +6,7 @@ import {
   type Analise,
   type ResumoAnalise,
 } from "@/data/analises";
+import { getReunioes } from "@/data/repository";
 import { useLocale } from "@/i18n/useLocale";
 import { translate } from "@/i18n/translate";
 import ResultadoAnalise from "./ResultadoAnalise";
@@ -23,6 +24,19 @@ export default function HistoricoAnalises({ compacto = false }: { compacto?: boo
   /** Publicação sem o servidor de análise: avisa, não é erro da tela. */
   const [semServico, setSemServico] = useState(false);
   const [pagina, setPagina] = useState(0);
+  /** IDs das reuniões da base, para separar da contagem os textos avulsos. */
+  const [idsBase, setIdsBase] = useState<Set<string> | null>(null);
+  useEffect(() => {
+    let ativo = true;
+    void getReunioes()
+      .then((reunioes) => {
+        if (ativo) setIdsBase(new Set(reunioes.map((r) => r.id)));
+      })
+      .catch(() => undefined);
+    return () => {
+      ativo = false;
+    };
+  }, []);
   useEffect(() => {
     let active = true;
     async function load() {
@@ -51,6 +65,8 @@ export default function HistoricoAnalises({ compacto = false }: { compacto?: boo
     finally { setOpening(false); }
   }
   const latest = [...new Map([...rows].reverse().map(r => [r.id_reuniao, r])).values()];
+  const daBase = idsBase ? latest.filter(r => idsBase.has(r.id_reuniao)) : latest;
+  const avulsos = latest.length - daBase.length;
   const totalPaginas = Math.max(Math.ceil(rows.length / POR_PAGINA), 1);
   const paginaAtual = Math.min(pagina, totalPaginas - 1);
   const visiveis = rows.slice(paginaAtual * POR_PAGINA, (paginaAtual + 1) * POR_PAGINA);
@@ -60,7 +76,7 @@ export default function HistoricoAnalises({ compacto = false }: { compacto?: boo
     {semServico && <p className="mt-3 text-sm text-gray-500">{t("analysis.errors.offlineNote")}</p>}
     {error && <p role="alert" className="mt-3 text-sm text-red-600">{error}</p>}
     {!loading && !error && !semServico && <>
-      <p className="mt-2 text-sm text-brand-text">{t("history.summary", { meetings: latest.length, risk: latest.filter(r => r.trechos_com_alerta > 0).length })}</p>
+      <p className="mt-2 text-sm text-brand-text">{t("history.summary", { meetings: daBase.length, loose: avulsos, risk: daBase.filter(r => r.trechos_com_alerta > 0).length })}</p>
       <p className="mt-1 text-xs text-gray-500">{t("history.note")}</p>
       {rows.length === 0 && <p className="mt-4 text-sm text-gray-500">{t("history.empty")}</p>}
     </>}

@@ -1,4 +1,8 @@
+import { useState } from "react";
+import { listarAnalises } from "@/data/analises";
+import { baixarCsv } from "@/data/csv";
 import { RELATORIOS } from "@/data/mockData";
+import { getReunioes } from "@/data/repository";
 
 import { useLocale } from "@/i18n/useLocale";
 
@@ -109,6 +113,60 @@ function MiniBar({
 export default function RelatoriosPage() {
   const { t } = useLocale();
 
+  const [exportando, setExportando] = useState(false);
+
+  /*
+   * Exporta o que o site realmente tem: as reuniões da base com a situação da
+   * análise de cada uma. A tabela de relatórios abaixo continua ilustrativa.
+   */
+  async function exportarCsv() {
+    if (exportando) return;
+    setExportando(true);
+    try {
+      const [reunioes, analises] = await Promise.all([
+        getReunioes(),
+        listarAnalises().catch(() => []),
+      ]);
+      const porReuniao = new Map<string, (typeof analises)[number]>();
+      // A lista vem da mais recente para a mais antiga: a primeira de cada reunião vale.
+      for (const analise of analises) {
+        if (!porReuniao.has(analise.id_reuniao)) porReuniao.set(analise.id_reuniao, analise);
+      }
+      baixarCsv(
+        t("reports.exportFile"),
+        [
+          t("reports.colMeeting"),
+          t("reports.colClient"),
+          t("reports.colDate"),
+          t("reports.colDuration"),
+          t("reports.colUnit"),
+          t("reports.colSegment"),
+          t("reports.colState"),
+          t("reports.colNps"),
+          t("reports.colAnalyzed"),
+          t("reports.colAlerts"),
+        ],
+        reunioes.map((r) => {
+          const analise = porReuniao.get(r.id);
+          return [
+            r.id,
+            r.codt,
+            r.data,
+            Math.round(r.duracaoSegundos / 60),
+            r.unidade,
+            r.segmento,
+            r.uf,
+            r.nps,
+            analise ? t("reports.yes") : t("reports.no"),
+            analise ? analise.trechos_com_alerta : "",
+          ];
+        }),
+      );
+    } finally {
+      setExportando(false);
+    }
+  }
+
   const concluidos = RELATORIOS.filter((r) => r.status === "Concluído").length;
   const pendentes = RELATORIOS.length - concluidos;
 
@@ -131,11 +189,13 @@ export default function RelatoriosPage() {
             </p>
           </div>
 
-          {/* Botões apenas visuais. Não foi adicionada lógica nova. */}
+          {/* Só o CSV exporta de verdade; PDF exigiria gerar documento no servidor. */}
           <div className="flex flex-wrap items-center gap-2.5">
             <button
               type="button"
-              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
+              disabled
+              title={t("common.demoOnly")}
+              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] opacity-50 dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3]"
             >
               <span aria-hidden="true">⇩</span>
               {t("reports.exportPdf")}
@@ -143,15 +203,19 @@ export default function RelatoriosPage() {
 
             <button
               type="button"
-              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
+              onClick={exportarCsv}
+              disabled={exportando}
+              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] transition-colors hover:bg-[#f8faff] disabled:opacity-60 dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
             >
               <span aria-hidden="true">▦</span>
-              {t("reports.exportCsv")}
+              {exportando ? t("common.exporting") : t("reports.exportCsv")}
             </button>
 
             <button
               type="button"
-              className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white shadow-[0_5px_12px_rgba(13,87,231,0.16)] transition-colors hover:bg-[#0b4dd0]"
+              disabled
+              title={t("common.demoOnly")}
+              className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white opacity-50 shadow-[0_5px_12px_rgba(13,87,231,0.16)]"
             >
               <span aria-hidden="true">▥</span>
               {t("reports.customReport")}
@@ -354,7 +418,11 @@ export default function RelatoriosPage() {
                         </td>
                         <td className="px-4 py-3">
                           {r.status === "Concluído" && (
-                            <button className="flex items-center gap-1 text-micro text-brand-blue hover:underline dark:text-[#6ea8ff]">
+                            <button
+                              disabled
+                              title={t("common.demoOnly")}
+                              className="flex items-center gap-1 text-micro text-brand-blue opacity-50 dark:text-[#6ea8ff]"
+                            >
                               <DownloadIcon size={11} />
                               {t("reports.download")}
                             </button>
@@ -411,7 +479,9 @@ export default function RelatoriosPage() {
 
               <button
                 type="button"
-                className="mt-4 h-9 w-full rounded-lg bg-[#0d57e7] text-[9px] font-semibold text-white transition-colors hover:bg-[#0b4dd0]"
+                disabled
+                title={t("common.demoOnly")}
+                className="mt-4 h-9 w-full rounded-lg bg-[#0d57e7] text-[9px] font-semibold text-white opacity-50"
               >
                 {t("reports.applyFilters")}
               </button>

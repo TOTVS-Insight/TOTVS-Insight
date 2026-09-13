@@ -444,7 +444,7 @@ export default function DashboardPage() {
    * Não foi alterado o repository, useDataset, locale, tratamento de erro,
    * carregamento, formato dos dados nem seleção das abas.
    */
-  const { data, loading, error, sugestao } = useDataset<ResumoDashboard>(
+  const { data, loading, error, sugestao, recarregar } = useDataset<ResumoDashboard>(
     useCallback(() => getResumoDashboard(), [locale]),
   );
 
@@ -474,17 +474,20 @@ export default function DashboardPage() {
             </p>
           </div>
 
-          {/* Somente visual. Sem onClick e sem qualquer alteração de lógica. */}
           <div className="flex flex-wrap items-center gap-2">
+            {/* O recorte é a base inteira; prometer "últimos 30 dias" seria falso. */}
             <div className="flex h-9 items-center gap-2 rounded-lg border border-[#DCE5F0] dark:border-[#2A3E5D] bg-white dark:bg-[#0F1D31] px-3 font-body text-[10px] font-semibold text-[#173B77] dark:text-[#C7D8F3] shadow-[0_1px_3px_rgba(15,39,80,0.03)] dark:shadow-none">
               <span aria-hidden>▣</span>
-              {t("dashboard.last30")}
-              <span className="text-[#71819A] dark:text-[#91A3BE]">⌄</span>
+              <span className="capitalize">{t("dashboard.fullBase")}</span>
             </div>
-            <div className="flex h-9 items-center gap-2 rounded-lg border border-[#DCE5F0] dark:border-[#2A3E5D] bg-white dark:bg-[#0F1D31] px-3 font-body text-[10px] font-semibold text-[#173B77] dark:text-[#C7D8F3] shadow-[0_1px_3px_rgba(15,39,80,0.03)] dark:shadow-none">
+            <button
+              type="button"
+              onClick={recarregar}
+              className="flex h-9 items-center gap-2 rounded-lg border border-[#DCE5F0] dark:border-[#2A3E5D] bg-white dark:bg-[#0F1D31] px-3 font-body text-[10px] font-semibold text-[#173B77] dark:text-[#C7D8F3] shadow-[0_1px_3px_rgba(15,39,80,0.03)] transition-colors hover:bg-[#F5F8FC] dark:shadow-none dark:hover:bg-[#162640]"
+            >
               <span aria-hidden>↻</span>
               {t("dashboard.refreshData")}
-            </div>
+            </button>
           </div>
         </section>
 

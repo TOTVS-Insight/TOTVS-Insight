@@ -1,4 +1,7 @@
 import HistoricoAnalises from "@/components/HistoricoAnalises";
+import { useState } from "react";
+import { listarAnalises } from "@/data/analises";
+import { baixarCsv, dataParaCsv } from "@/data/csv";
 
 import { HISTORICO, type TipoEvento } from "@/data/mockData";
 
@@ -94,6 +97,36 @@ function MetricCard({
 }
 
 export default function HistoricoPage() {
+  const [exportando, setExportando] = useState(false);
+
+  /** Exporta as análises salvas — o que a tela realmente tem de dado. */
+  async function exportarHistorico() {
+    if (exportando) return;
+    setExportando(true);
+    try {
+      const analises = await listarAnalises();
+      baixarCsv(
+        t("history.exportFile"),
+        [
+          t("history.colMeeting"),
+          t("history.colWhen"),
+          t("history.colSegments"),
+          t("history.colAlerts"),
+          t("history.colScore"),
+        ],
+        analises.map((a) => [
+          a.id_reuniao,
+          dataParaCsv(a.criado_em),
+          a.total_trechos,
+          a.trechos_com_alerta,
+          a.score_max === null ? "" : a.score_max.toFixed(3),
+        ]),
+      );
+    } finally {
+      setExportando(false);
+    }
+  }
+
   const { t } = useLocale();
 
   /*
@@ -129,15 +162,20 @@ export default function HistoricoPage() {
           <div className="flex flex-wrap items-center gap-2.5">
             <button
               type="button"
-              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] shadow-[0_1px_2px_rgba(30,64,120,0.03)] transition-colors hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
+              onClick={exportarHistorico}
+              disabled={exportando}
+              className="flex h-10 items-center gap-2 rounded-lg border border-[#d6e0ef] bg-white px-4 text-[11px] font-semibold text-[#153b94] shadow-[0_1px_2px_rgba(30,64,120,0.03)] transition-colors hover:bg-[#f8faff] disabled:opacity-60 dark:border-[#2a3e5d] dark:bg-[#0f1d31] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
             >
               <span aria-hidden="true">⇩</span>
-              {t("history.exportHistory")}
+              {exportando ? t("common.exporting") : t("history.exportHistory")}
             </button>
 
+            {/* Os filtros abaixo são ilustrativos: os eventos não têm esses campos. */}
             <button
               type="button"
-              className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white shadow-[0_5px_12px_rgba(13,87,231,0.16)] transition-colors hover:bg-[#0b4dd0]"
+              disabled
+              title={t("common.demoOnly")}
+              className="flex h-10 items-center gap-2 rounded-lg bg-[#0d57e7] px-4 text-[11px] font-semibold text-white opacity-50"
             >
               <span aria-hidden="true">▽</span>
               {t("history.filters")}

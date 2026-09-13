@@ -12,6 +12,11 @@ export interface EstadoDados<T> {
   sugestao: string | null;
 }
 
+export interface DadosComRecarga<T> extends EstadoDados<T> {
+  /** Refaz a consulta — é o que os botões de "Atualizar" chamam. */
+  recarregar: () => void;
+}
+
 /**
  * Roda um carregador do `repository` e devolve `{ data, loading, error }`.
  *
@@ -26,7 +31,7 @@ export interface EstadoDados<T> {
  * loading) — no Pages isso fazia o botão/lista sumirem e o drawer parecer
  * quebrado.
  */
-export default function useDataset<T>(carregar: () => Promise<T>): EstadoDados<T> {
+export default function useDataset<T>(carregar: () => Promise<T>): DadosComRecarga<T> {
   const [estado, setEstado] = useState<EstadoDados<T>>({
     data: null,
     loading: true,
@@ -64,5 +69,5 @@ export default function useDataset<T>(carregar: () => Promise<T>): EstadoDados<T
     };
   }, [carregar, tick]);
 
-  return estado;
+  return { ...estado, recarregar: () => setTick((n) => n + 1) };
 }
