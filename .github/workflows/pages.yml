@@ -10,9 +10,10 @@
 
 name: GitHub Pages
 
+# Sem gatilho automático: o repositório é privado, e o GitHub Pages exige
+# repositório público ou plano Pro. Além disso a publicação passou a ser pela
+# Vercel. Rode pela aba Actions se um dia o repositório virar público.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:
