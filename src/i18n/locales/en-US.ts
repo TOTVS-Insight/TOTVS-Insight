@@ -32,6 +32,7 @@ const enUS: Dict = {
     active: "Active",
   },
   nav: {
+    home: "Home",
     dashboard: "Dashboard",
     clients: "Clients",
     transcripts: "Transcripts",

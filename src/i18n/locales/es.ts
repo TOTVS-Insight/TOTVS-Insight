@@ -32,6 +32,7 @@ const es: Dict = {
     active: "Activo",
   },
   nav: {
+    home: "Inicio",
     dashboard: "Dashboard",
     clients: "Clientes",
     transcripts: "Transcripciones",

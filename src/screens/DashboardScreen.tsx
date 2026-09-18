@@ -8,6 +8,7 @@ import useMediaQuery from "@/hooks/useMediaQuery";
 import { ChevronLeftIcon } from "@/icons";
 import Header from "@/components/layout/Header";
 import Sidebar from "@/components/layout/Sidebar";
+import TotvisFloatingButton from "@/components/TotvisFloatingButton";
 import PageRouter from "@/pages/PageRouter";
 
 /** Metade da largura do botão — o que o faz montar sobre a borda da sidebar. */
@@ -116,6 +117,7 @@ export default function DashboardScreen({ onLogout }: { onLogout: () => void }) 
         <main className="flex-1 overflow-y-auto p-4 sm:p-6 lg:p-8">
           <div className="mx-auto w-full max-w-[1600px]">
             <PageRouter activeNav={activeNav} onNav={onNav} />
+            <TotvisFloatingButton />
           </div>
         </main>
       </div>

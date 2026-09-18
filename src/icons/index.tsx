@@ -412,3 +412,54 @@ export function CloseIcon(props: IconProps) {
     </StrokeIcon>
   );
 }
+
+export function HomeIcon(props: IconProps) {
+  return (
+    <StrokeIcon {...props}>
+      <path d="M3 11.5 12 4l9 7.5" />
+      <path d="M5 10.5V20h14v-9.5" />
+      <path d="M9 20v-6h6v6" />
+    </StrokeIcon>
+  );
+}
+
+export function VideoIcon(props: IconProps) {
+  return (
+    <StrokeIcon {...props}>
+      <rect x="3" y="6" width="13" height="12" rx="2" />
+      <path d="m16 10 5-3v10l-5-3z" />
+    </StrokeIcon>
+  );
+}
+
+export function ChevronRightIcon({
+  size = 16,
+  className,
+}: IconProps) {
+  return (
+    <svg
+      width={size}
+      height={size}
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={className}
+      aria-hidden="true"
+    >
+      <polyline points="9 18 15 12 9 6" />
+    </svg>
+  );
+}
+
+export function SparklesIcon(props: IconProps) {
+  return (
+    <StrokeIcon {...props}>
+      <path d="M12 3l1.1 3.1L16 7.2l-2.9 1.1L12 11.5l-1.1-3.2L8 7.2l2.9-1.1L12 3z" />
+      <path d="M18 13l.8 2.2L21 16l-2.2.8L18 19l-.8-2.2L15 16l2.2-.8L18 13z" />
+      <path d="M6 13l.7 1.8 1.8.7-1.8.7L6 18l-.7-1.8-1.8-.7 1.8-.7L6 13z" />
+    </StrokeIcon>
+  );
+}
