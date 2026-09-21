@@ -148,10 +148,10 @@ export async function obterAnalise(id: string): Promise<Analise> {
     return comTextoDosTrechos(estatico);
   }
 }
-export async function analisarReuniao(id_reuniao: string, texto: string): Promise<Analise> {
+export async function analisarReuniao(id_reuniao: string): Promise<Analise> {
   const result = await request<Analise>("/analises", {
     method: "POST", headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ id_reuniao, texto }),
+    body: JSON.stringify({ id_reuniao }),
   });
   window.dispatchEvent(new Event("analises-atualizadas"));
   return result;

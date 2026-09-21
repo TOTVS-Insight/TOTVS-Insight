@@ -5,6 +5,8 @@
  * Ele apenas lê o resultado do pipeline offline/server-side.
  */
 
+const BASE = import.meta.env.BASE_URL;
+
 export type NivelFiltragem = "LEVE" | "MEDIO" | "AGRESSIVO";
 
 export interface TranscricaoProcessada {
@@ -56,7 +58,7 @@ export async function carregarTranscricaoProcessada(
     reuniaoId: string,
 ): Promise<TranscricaoProcessada | null> {
     const response = await fetch(
-        `/data/transcricoes-processadas/${idSeguro(reuniaoId)}.json`,
+        `${BASE}data/transcricoes-processadas/${idSeguro(reuniaoId)}.json`,
         {
             method: "GET",
             cache: "no-store",

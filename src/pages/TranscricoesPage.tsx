@@ -924,10 +924,11 @@ export default function TranscricoesPage() {
             <button
               type="button"
               onClick={abrirPainelFiltros}
-              className={`flex h-11 items-center gap-2 rounded-lg border px-4 text-[12px] font-semibold transition-colors ${filtrosAbertos || quantidadeFiltrosAtivos > 0
+              className={`flex h-11 items-center gap-2 rounded-lg border px-4 text-[12px] font-semibold transition-colors ${
+                filtrosAbertos || quantidadeFiltrosAtivos > 0
                   ? "border-[#0d57e7] bg-[#eef4ff] text-[#0d57e7] dark:bg-[#14284a] dark:text-[#6ea8ff]"
                   : "border-[#d6e0ef] bg-white text-[#153b94] hover:bg-[#f8faff] dark:border-[#2a3e5d] dark:bg-[#111f34] dark:text-[#c7d8f3] dark:hover:bg-[#162640]"
-                }`}
+              }`}
             >
               <span aria-hidden="true">⌄</span>
               {copy.filters}
@@ -1244,8 +1245,8 @@ export default function TranscricoesPage() {
                     </div>
                   ) : (
                     <>
-                      <div className="overflow-x-auto">
-                        <table className="w-full min-w-[1120px] table-auto text-[12px]">
+                      <div className="relative isolate z-0 overflow-x-auto">
+                        <table className="relative z-0 w-full min-w-[1120px] table-auto text-[12px]">
                           <thead>
                             <tr className="border-b border-[#e5ebf4] bg-[#fbfcff] dark:border-[#223652] dark:bg-[#111f34]">
                               {COL_KEYS.map((key) => (
@@ -1257,8 +1258,8 @@ export default function TranscricoesPage() {
                                 </th>
                               ))}
 
-                              {/* Ações sticky: ficam SEMPRE visíveis. */}
-                              <th className="sticky right-0 z-20 min-w-[225px] border-l border-[#e5ebf4] bg-[#fbfcff] px-3.5 py-3.5 text-right text-[11px] font-semibold text-[#49608f] shadow-[-8px_0_18px_rgba(15,39,80,0.04)] dark:border-[#223652] dark:bg-[#111f34] dark:text-[#9fb0c9]">
+                              {/* Ações sticky: ficam visíveis horizontalmente, mas abaixo da topbar. */}
+                              <th className="sticky right-0 z-[2] min-w-[225px] border-l border-[#e5ebf4] bg-[#fbfcff] px-3.5 py-3.5 text-right text-[11px] font-semibold text-[#49608f] shadow-[-8px_0_18px_rgba(15,39,80,0.04)] dark:border-[#223652] dark:bg-[#111f34] dark:text-[#9fb0c9]">
                                 {copy.actions}
                               </th>
                             </tr>
@@ -1331,7 +1332,7 @@ export default function TranscricoesPage() {
                                 </td>
 
                                 <td
-                                  className="sticky right-0 z-10 min-w-[225px] border-l border-[#edf1f7] bg-white px-3.5 py-3.5 shadow-[-8px_0_18px_rgba(15,39,80,0.04)] group-hover:bg-[#f7faff] dark:border-[#20334d] dark:bg-[#0f1d31]"
+                                  className="sticky right-0 z-[1] min-w-[225px] border-l border-[#edf1f7] bg-white px-3.5 py-3.5 shadow-[-8px_0_18px_rgba(15,39,80,0.04)] group-hover:bg-[#f7faff] dark:border-[#20334d] dark:bg-[#0f1d31] dark:group-hover:bg-[#162640]"
                                   onClick={(e) => e.stopPropagation()}
                                 >
                                   <div className="flex justify-end gap-2">
