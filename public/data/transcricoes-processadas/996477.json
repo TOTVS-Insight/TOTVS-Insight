@@ -1,0 +1,193 @@
+{
+  "id_reuniao": "996477",
+  "codt": "T56252",
+  "data_reuniao": "2026-02-05 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 6]: E aí E aí E aí E aí E aí tem a ideia também de colocar no Decófice lá gestantes ativos, né, como eles têm a locação do trabalho. E aí, [PESSOA], beleza?\n[LOCUTOR 7]: Fala, [PESSOA], tá parecendo o \n[LOCUTOR 3]: [PESSOA].\n[LOCUTOR 7]: Olá, amigos da [EMPRESA].\n[LOCUTOR 6]: Esse fone aqui na [LOCAL] tem que usar, né? Ele ajuda a diminuir o doído,\n[LOCUTOR 7]: né? É, ele ajuda. É isso aí, vamos lá ver. Você tá fácil aí com as\n[LOCUTOR 6]: propostas, com as geradas? Tô,\n[LOCUTOR 7]: tô aqui, cara. Tá, então na hora que ele entrar, a gente faz a abertura\n[LOCUTOR 6]: da proposta.\n[LOCUTOR 7]: Vai que eu preciso ir\n[LOCUTOR 6]: embora. Ótimo,\n[LOCUTOR 7]: ótimo.\n[LOCUTOR 6]: [LOCUTOR 1]: está aí, eu segurei a informação até o último minuto. Não está conseguindo abrir, como é que é o momento? Não dá só o link\n[LOCUTOR 7]: ali,\n[LOCUTOR 6]: tá? Seu [LOCAL]? \n[LOCUTOR 5]: quer\n[LOCUTOR 6]: falar? \n[LOCUTOR 2]: vai brincar,\n[LOCUTOR 6]: não vai\n[LOCUTOR 7]: brincar. [LOCAL],\n[LOCUTOR 6]: boa.\n[LOCUTOR 7]: [LOCAL],\n[LOCUTOR 6]: gente. Até amanhã. Ele vai mandar um outro link aí pra gente entrar no [EMPRESA], cara, porque acho que tá dando erro lá no [LOCAL], tá dando erro pra ele lá do Meet lá, não tá conseguindo. Aí ele vai mandar o link aí, então. Assim que eu receber o link aqui, já te mando aí também. Acho que não estou conseguindo entrar por aqui, vou esperar resolver essa bagagem. Combinado. Eu vou sentir melhor com a experiência que você me deu. Você sabe que você me deu ótimo. É uma hora, né? Então, como é que você vai me tirar desse indifícil? Eu vou ficar muito feliz. [PESSOA], o que você acha da sua produção hoje em dia? Eu vou ficar muito feliz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é ele faz. Ele me falou o que é que ele faz. Ele me falou o que é ele faz. Ele me falou o que é ele faz. Ele me falou o que é ele faz. Ele me falou o que é ele faz. Ele me falou o que é ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o O Léo, tenta entrar nesse link aqui que eu te mandei aí no chat\n[LOCUTOR 7]: aqui, ó.\n[LOCUTOR 6]: Tenta entrar nesse link lá, que é pelo Teams. \n[LOCUTOR 4]: bom,\n[LOCUTOR 6]: fica.\n[LOCUTOR 7]: [LOCAL].",
+  "texto_filtrado": "[LOCUTOR 6]: E aí E aí E aí E aí E aí tem a ideia também de colocar no Decófice lá gestantes ativos, né, como eles têm a locação do trabalho. E aí, [PESSOA], beleza?\n[LOCUTOR 7]: Fala, [PESSOA], tá parecendo o\n[LOCUTOR 3]: [PESSOA].\n[LOCUTOR 7]: Olá, amigos da [EMPRESA].\n[LOCUTOR 6]: Esse fone aqui na [LOCAL] tem que usar, né? Ele ajuda a diminuir o doído,\n[LOCUTOR 7]: né? É, ele ajuda. É isso aí, vamos lá ver. Você tá fácil aí com as\n[LOCUTOR 6]: propostas, com as geradas? Tô,\n[LOCUTOR 7]: tô aqui, cara. Tá, então na hora que ele entrar, a gente faz a abertura\n[LOCUTOR 6]: da proposta.\n[LOCUTOR 7]: Vai que eu preciso ir\n[LOCUTOR 6]: embora. Ótimo,\n[LOCUTOR 7]: ótimo.\n[LOCUTOR 6]: [LOCUTOR 1]: está aí, eu segurei a informação até o último minuto. Não está conseguindo abrir, como é que é o momento? Não dá só o link\n[LOCUTOR 6]: tá? Seu [LOCAL]?\n[LOCUTOR 5]: quer\n[LOCUTOR 6]: falar?\n[LOCUTOR 2]: vai brincar,\n[LOCUTOR 7]: brincar. [LOCAL],\n[LOCUTOR 7]: [LOCAL],\n[LOCUTOR 7]: aqui, ó.\n[LOCUTOR 6]: Tenta entrar nesse link lá, que é pelo Teams.\n[LOCUTOR 6]: fica.\n[LOCUTOR 7]: [LOCAL].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:32.167229+00:00",
+    "total_linhas": 28,
+    "linhas_mantidas": 23,
+    "linhas_removidas": 5,
+    "percentual_mantido": 82.14,
+    "confianca_media": 0.4915
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 6]: E aí E aí E aí E aí E aí tem a ideia também de colocar no Decófice lá gestantes ativos, né, como eles têm a locação do trabalho. E aí, [PESSOA], beleza?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Fala, [PESSOA], tá parecendo o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Olá, amigos da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5319,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Esse fone aqui na [LOCAL] tem que usar, né? Ele ajuda a diminuir o doído,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: né? É, ele ajuda. É isso aí, vamos lá ver. Você tá fácil aí com as",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5548,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: propostas, com as geradas? Tô,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tô aqui, cara. Tá, então na hora que ele entrar, a gente faz a abertura",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5298,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: da proposta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Vai que eu preciso ir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: embora. Ótimo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: ótimo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCUTOR 1]: está aí, eu segurei a informação até o último minuto. Não está conseguindo abrir, como é que é o momento? Não dá só o link",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: ali,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: tá? Seu [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: quer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: falar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vai brincar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: não vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: brincar. [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: boa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: gente. Até amanhã. Ele vai mandar um outro link aí pra gente entrar no [EMPRESA], cara, porque acho que tá dando erro lá no [LOCAL], tá dando erro pra ele lá do Meet lá, não tá conseguindo. Aí ele vai mandar o link aí, então. Assim que eu receber o link aqui, já te mando aí também. Acho que não estou conseguindo entrar por aqui, vou esperar resolver essa bagagem. Combinado. Eu vou sentir melhor com a experiência que você me deu. Você sabe que você me deu ótimo. É uma hora, né? Então, como é que você vai me tirar desse indifícil? Eu vou ficar muito feliz. [PESSOA], o que você acha da sua produção hoje em dia? Eu vou ficar muito feliz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é ele faz. Ele me falou o que é que ele faz. Ele me falou o que é ele faz. Ele me falou o que é ele faz. Ele me falou o que é ele faz. Ele me falou o que é ele faz. Ele me falou o que é ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o que é que ele faz. Ele me falou o O Léo, tenta entrar nesse link aqui que eu te mandei aí no chat",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4338,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: aqui, ó.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tenta entrar nesse link lá, que é pelo Teams.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: fica.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

@@ -1,0 +1,2875 @@
+{
+  "id_reuniao": "1037983",
+  "codt": "DBMG02",
+  "data_reuniao": "2026-02-09 17:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 60]: Acho que estamos todos aqui.\n[LOCUTOR 51]: Deixa eu só remover\n[LOCUTOR 60]: um...\n[LOCUTOR 51]: Isso, eu só estou aguardando o [PESSOA] aí, só um minutinho. Ele está em outra agenda lá, ele faz parte. Se ele não entrar, depois a gente pode iniciar, depois ele entra na sequência aí. Só mais, vamos esperar mais uns dois minutinhos. Deixa eu só ver, vou chamar ele aqui e ver se ele vai conseguir entrar na sequência.\n[LOCUTOR 9]: Olá, boa tarde.\n[LOCUTOR 51]: Boa tarde, [PESSOA]. Tudo bem?\n[LOCUTOR 6]: Boa tarde.\n[LOCUTOR 51]: Que bom. Está tudo bem contigo?\n[LOCUTOR 9]: Tudo bem também.\n[LOCUTOR 51]: Obrigado.\n[LOCUTOR 9]: [LOCAL].\n[LOCUTOR 51]: Estamos todos, né, [PESSOA]? Podemos iniciar? Deixa eu ver o do\n[LOCUTOR 9]: [PESSOA].\n[LOCUTOR 51]: [LOCAL]. Não sei se tem mais alguém que vai\n[LOCUTOR 9]: participar.\n[LOCUTOR 51]: [PESSOA],\n[LOCUTOR 60]: [PESSOA]? Não.\n[LOCUTOR 51]: \n[LOCUTOR 59]: aqui. [LOCAL]. [PESSOA], fazendo uma breve apresentação, né? Então, a gente está com a equipe da [LOCAL]. Você já acompanhou, né? O [PESSOA] já te assinou referente ao projeto. A gente está com toda a equipe aqui hoje, a equipe da operação, o [PESSOA], o\n[LOCUTOR 60]: [PESSOA],\n[LOCUTOR 51]: a [PESSOA] faz parte do RH e a\n[LOCUTOR 60]: [LOCUTOR 32]: também cuida toda a parte operacional. E aí, o objetivo é a gente tirar algumas dúvidas, algumas questões. A gente está no processo lá de apresentar o escopo agora para o [EMPRESA] e a proposta de\n[LOCUTOR 9]: investimento.\n[LOCUTOR 51]: E aí,\n[LOCUTOR 60]: tem algumas\n[LOCUTOR 51]: questões pontuais aí que a gente gostaria de tirar algumas dúvidas, principalmente com foco ali. A [EMPRESA] tem um\n[LOCUTOR 60]: foco\n[LOCUTOR 51]: grande ali na parte de transporte internacional e eles têm também um novo mercado agora que eles vão ter na sequência que é o... transporte fracionado. O objetivo é tirar essas dúvidas pontuais e contemplar tudo ali e fazer essa validação, tudo que eles necessitam está no nosso\n[LOCUTOR 9]: escopo\n[LOCUTOR 51]: de atuação.\n[LOCUTOR 9]: Isso,\n[LOCUTOR 51]: né, [PESSOA]? Se vocês querem complementar algo aí, fiquem\n[LOCUTOR 9]: \n[LOCUTOR 27]: vontade. Não, é isso aí. O intuito é a gente validar junto com a nossa operação para ver se nós não estamos perdendo alguma informação ou, de repente, estamos acrescentando algo que\n[LOCUTOR 60]: não é necessário. Então, essa validação, principalmente do [PESSOA], que tem mais propriedade para falar na questão do sistema, é muito importante nesse\n[LOCUTOR 9]: momento.\n[LOCUTOR 51]: [LOCAL].\n[LOCUTOR 60]: Ok.\n[LOCUTOR 9]: Só a minha câmera, que eu não estou... Eu teria que sair e entrar de novo, não sei\n[LOCUTOR 60]: o que aconteceu, mas...\n[LOCUTOR 51]: Não, bem\n[LOCUTOR 9]: tranquilo.\n[LOCUTOR 51]: Boa tarde, [PESSOA]. \n[LOCUTOR 16]: bem? \n[LOCUTOR 14]: bem. Boa tarde. Como vão?\n[LOCUTOR 60]: Tudo bem.\n[LOCUTOR 18]: Bom\n[LOCUTOR 60]: revê-los. Tudo\n[LOCUTOR 51]: bem, tranquilo. [PESSOA] e [PESSOA], fiquem à vontade. Vocês querem nos passar nos pontos, nas principais questões aí que vocês podem ser dessa forma?\n[LOCUTOR 62]: Pode, podem ser sim, [PESSOA]. Pode\n[LOCUTOR 9]: ser sim. Tá.\n[LOCUTOR 62]: É... Vamos lá, vamos começar com o tema dos CRTs. Como que é estruturado o sistema de vocês para a emissão de [LOCAL]?\n[LOCUTOR 9]: Então, você pode digitar, tem uma tela lá no Proteus, onde você digita o número da fatura ou o número da nota fiscal, pode ser, e ele contém os campos obrigatórios para a legislação de transporte municipal, cada campo lá. E aí você gera o [LOCAL], e depois, posteriormente, gera uma viagem para a geração do MICDTA.\n[LOCUTOR 62]: A reunião de hoje não tem como vocês mostrarem para nós as telas, ou é uma reunião de alinhamento inicial somente?\n[LOCUTOR 51]: Isso\n[LOCUTOR 9]: é o objetivo,\n[LOCUTOR 51]: [PESSOA], talvez isso, a gente pode ter na sequência,\n[LOCUTOR 62]: o objetivo\n[LOCUTOR 51]: é a gente validar esses pontos, ver\n[LOCUTOR 62]: os\n[LOCUTOR 51]: pontos, o que nós mapeamos, a gente teve uma agenda ali, se todos os pontos est\n[LOCUTOR 31]: no escopo.\n[LOCUTOR 51]: Na sequência, esse é o principal objetivo, mas depois, se quiseres ver, a gente pode marcar uma agenda contigo\n[LOCUTOR 62]: bem\n[LOCUTOR 9]: tranquilo.\n[LOCUTOR 51]: Mas é isso, só para a gente alinhar\n[LOCUTOR 62]: os pontos\n[LOCUTOR 51]: específicos dessas questões.\n[LOCUTOR 9]: Aqueles campos do [LOCAL], o padrão da legislação do\n[LOCUTOR 51]: [LOCAL],\n[LOCUTOR 9]: então ele vai lá, campo 1, eu não lembro agora, eu tenho que pegar aqui, mas acho que é o remetente da\n[LOCUTOR 62]: carga lá, então\n[LOCUTOR 9]: você já vai colocando lá e depois tem lá metade os incoterms,\n[LOCUTOR 62]: que é\n[LOCUTOR 9]: metade cifra, metade fove, em dólar. Então a tabela de frete no TMS Proteus,\n[LOCUTOR 62]: ela\n[LOCUTOR 9]: trabalha com várias moedas, que é o padrão do Proteus. O Proteus trabalha com até 99\n[LOCUTOR 62]: moedas.\n[LOCUTOR 9]: Então a gente configura lá a moeda 1, que é dólar, você precifica\n[LOCUTOR 62]: em dólar,\n[LOCUTOR 9]: e aí já sai o [LOCAL] em dólar,\n[LOCUTOR 62]: entendeu? Tá, na hora de gerar o mic DTA ali, a gente só digita o número do CNT, ele puxa as informações. Eu não conheço o sistema de vocês, pessoal. Eu só queria saber se é um sistema intuitivo, sabe? A gente não vai ter muita dificuldade de operar ele. Porque hoje, o que a gente precisa na operação? O analista, ele precisa de agilidade. Não vou nem perguntar, mas com certeza é integrado com o SystemX, o sistema de vocês, né? Esse negócio vocês não estariam nem oferecendo para nós. Também emitimos aqui a parte de documentação nacional, que é o [EMPRESA]. Então o sistema também tem que estar integrado com o CFAZ, né? E é basicamente isso. Eu achei que eu ia visualizar as telas aí, mas a\n[LOCUTOR 9]: gente,\n[LOCUTOR 62]: de repente, numa outra ocasião, a gente agenda pra ver essas\n[LOCUTOR 9]: telas\n[LOCUTOR 62]: aí. Nós temos\n[LOCUTOR 9]: também... Então, só uma coisa que você comentou do Cisco Max, Nós temos o Cisco MAX, mas ele não é integrado com o TMS, tá bom? Hoje\n[LOCUTOR 62]: não.\n[LOCUTOR 9]: Então, assim, o TMS ele suporta a legislação do [LOCAL]. Então, pela legislação do [LOCAL], você pode instalar ele em espanhol, né? \n[LOCUTOR 44]: pode ter uma\n[LOCUTOR 9]: base lá em português ou espanhol. Tem a legislação do [LOCAL] no que tange a geração de [LOCAL], MICDTA\n[LOCUTOR 62]: lá com\n[LOCUTOR 9]: a carta de correção, enfim,\n[LOCUTOR 62]: conforme\n[LOCUTOR 9]: a legislação do\n[LOCUTOR 62]: [LOCAL]. Mas\n[LOCUTOR 9]: ele\n[LOCUTOR 62]: transmite... Quando\n[LOCUTOR 9]: você gerar o CTL, transmite para [LOCAL].\n[LOCUTOR 62]: Agora, aí\n[LOCUTOR 9]: precisa\n[LOCUTOR 62]: pegar\n[LOCUTOR 18]: o... O\n[LOCUTOR 9]: MICDTA já está transmitindo lá para um órgão. Hoje ainda, não sei se já está transmitindo. Pelo que eu vi, até um cliente nosso que ia instalar, teria que entrar lá, digitar, e aí o parceiro lá de negócio, que fica lá na\n[LOCUTOR 62]: doana,\n[LOCUTOR 9]: digitável e transmitível. Precisa ver com o produto se a transmissão já está automática, t\n[LOCUTOR 4]: bom? O que a gente precisa hoje? Nós precisamos gerar o [LOCAL], o sistema, e depois de ter feito todos os cadastros de importador, exportador, plata, motorista, rota, enfim, precisamos gerar esse [LOCAL], com\n[LOCUTOR 9]: base\n[LOCUTOR 62]: nesse [LOCAL], gerar o MIC DTA,\n[LOCUTOR 9]: e\n[LOCUTOR 62]: esse MIC DTA ser transmitido para os seus comércios. É isso que a gente precisa hoje. E ser possível, ali dentro do módulo do [LOCAL], fazer a transmissão direta, sem que a gente precise sair do sistema ou baixar algum outro programa para fazer a transmissão. Existem sistemas que não têm essa funcionalidade dentro. Hoje a gente tem um sistema\n[LOCUTOR 9]: que tem. Entendi.\n[LOCUTOR 62]: São\n[LOCUTOR 9]: pequenos\n[LOCUTOR 62]: detalhes.\n[LOCUTOR 9]: Deixa eu só pegar aqui um levantamento que eu fiz,\n[LOCUTOR 18]: só um minutinho,\n[LOCUTOR 9]: do\n[LOCUTOR 18]: órgão\n[LOCUTOR 9]: aqui que tinha que levantar. Só um\n[LOCUTOR 18]: minutinho.\n[LOCUTOR 9]: Ah, é, realmente, era a integração com o CISEMEC para gerar o [EMPRESA] e o [EMPRESA], né? O [EMPRESA] e o\n[LOCUTOR 18]: [EMPRESA], né?\n[LOCUTOR 62]: Tá, essa é a parte de despacho, né? Essa não é o nicho da [LOCAL]. tem que ter a integração com o Syscom X para a geração do mic eletrônico dentro do portal Syscom X. Mas com certeza deve ter o sistema.\n[LOCUTOR 18]: \n[LOCUTOR 33]: sistema deve ter isso.\n[LOCUTOR 62]: Eu só queria\n[LOCUTOR 9]: saber se\n[LOCUTOR 62]: essa integração está dentro do sistema que vocês estão oferecendo, ou a gente tem que baixar algum programa para fazer a transmissão. Vou te dar um exemplo do [LOCAL]. O sistema [LOCAL] não transmite direto, não transmite dentro do [LOCAL]. Entendeu? A gente gera um mic dentro do [LOCAL], baixa um programa lá, e desse programa a gente faz a transmissão para os [EMPRESA]. É muita volta. É isso que a gente não quer, a gente quer\n[LOCUTOR 9]: praticidade,\n[LOCUTOR 62]: a gente quer agilidade na\n[LOCUTOR 60]: operação,\n[LOCUTOR 62]: tá bom?\n[LOCUTOR 9]: Tá bom,\n[LOCUTOR 62]: mas fica,\n[LOCUTOR 9]: viu? \n[LOCUTOR 5]: gente tem que entender bem como é esse desenho, essa arquitetura do processo na transmissão, ter certeza de como é feito, [PESSOA].\n[LOCUTOR 9]: Tá bom, eu vou ver com o time de produto, como eu falei, Essa questão da transmissão não tinha, foi pontuado por um outro cliente há tempos atrás, então provavelmente foi desenvolvido, eu só preciso ver como é que está para dar um retorno para vocês,\n[LOCUTOR 60]: tá bom?\n[LOCUTOR 62]: Esse seria o módulo documental, o módulo operacional. Nós também temos módulos aqui de controle de carga e depósito, não sei se o sistema que vocês oferecem isso. Temos um módulo de controle de frota, Até depois eu queria ver com vocês o que o módulo, se existe esse módulo, o que ele entrega para nós. Hoje a gente está criando, está formatando o controle de trota aqui, e eu preciso de um sistema muito prático. Vou te dar um exemplo. Hoje o controle de pneus nosso, ele é cheio de\n[LOCUTOR 18]: volta,\n[LOCUTOR 62]: entendeu? Ele não é nada usual, você tem que cadastrar uma coisa, essa coisa é ligada a outra, e para fazer um movimento de pneus entre caminhões aqui é muito difícil, é muito\n[LOCUTOR 18]: moroso. N\n[LOCUTOR 31]: estou brincando. A gente precisa de praticidade, de uma coisa intuitiva, uma coisa fácil de mexer, para que a gente consiga passar para um colega rapidamente como funciona, algo que não trave. Enfim, eu acho que vocês têm aí o módulo operacional quase pronto, E eu queria ver com vocês como que é o módulo frota, o controle de caminhões. Se existe esse módulo, como que ele funciona. Para isso a gente precisaria de uma visualização do\n[LOCUTOR 18]: sistema.\n[LOCUTOR 62]: O [PESSOA] levantou a\n[LOCUTOR 18]: mão. Me permite passar um vídeo de dois minutos aqui do módulo frota? Legal? Vamos lá.\n[LOCUTOR 9]: [PESSOA].\n[LOCUTOR 18]: Lá, neste vídeo, vamos acompanhar as principais funcionalidades do sistema [EMPRESA], [LOCAL]. Na gestão de oficina, a rotina de programação de ordem de serviço permite a distribuição da carga de trabalho de acordo com a disponibilidade da equipe. Ainda, a solução é integrada nativamente ao aplicativo Minha Manutenção de Ativos, [LOCAL], proporcionando maior mobilidade na gestão de solicitações e ordens de serviço. Na gestão de pneus, por sua vez, a rotina de calibragem e medição de sulco permite o registro de informações para monitoramento da vida útil de cada pneu. Outro destaque na gestão de pneus é a rotina de esquema de rodados, que possibilita a consulta de cada pneu alocado no veículo, assim como a realização de movimentações e rodígios. Já em abastecimentos, é possível uma gestão completa desde postos internos como externos. além da integração com os principais convênios, como Repon, [EMPRESA], EçoCard, GoodCard, Ticket ou Excel VF. Com o controle de portaria por meio do checklist de entrada e saída, é possível monitorar o tráfego de veículos, buscando impedir que eles trafeguem com manutenções importantes pendentes ou em atraso, documentos vencidos, seja do veículo ou do motorista. Além disso, é possível gerenciar multas, sinistros e documentos de forma integrada ao TOTUS RH [LOCAL] e ao módulo financeiro do TOTUS Back Office, [LOCAL]. Contando ainda com os indicadores gráficos que permitem uma ampla visão gerencial de toda a frota em busca de resultados positivos. Gostou? Acesse o nosso site e saiba mais! Eu vou\n[LOCUTOR 51]: colar\n[LOCUTOR 18]: aqui\n[LOCUTOR 51]: no\n[LOCUTOR 18]: chat\n[LOCUTOR 9]: um\n[LOCUTOR 51]: link\n[LOCUTOR 18]: do nosso portal oficial do m\n[LOCUTOR 26]: de\n[LOCUTOR 18]: gestão de\n[LOCUTOR 51]: frota.\n[LOCUTOR 18]: Ali, além do vídeo, tem informações de rotinas, de vários processos\n[LOCUTOR 9]: que\n[LOCUTOR 18]: possui esse módulo. Peço que vocês copiem antes da gente fechar a reunião, senão depois a gente não consegue mais buscar\n[LOCUTOR 9]: ali.\n[LOCUTOR 18]: [PESSOA], conseguiu ter uma visão do módulo? Sei que é muito pequenininho, né, o videozinho,\n[LOCUTOR 9]: mas\n[LOCUTOR 18]: dá para ter uma\n[LOCUTOR 9]: abrangência, né?\n[LOCUTOR 62]: Sim, sim, sim. Não, deu para ouvir, a gente já precisaria de um treinamento para a gente se aprofundar bem, saber mexer no sistema, usar as ferramentas que o sistema tem, né, [PESSOA], a nosso favor. No começo é meio chato, tem que cadastrar tudo, tem que... aprender a mexer,\n[LOCUTOR 18]: mas depois\n[LOCUTOR 62]: que\n[LOCUTOR 18]: a\n[LOCUTOR 62]: gente enfrenta, fica bem melhor.\n[LOCUTOR 18]: [PESSOA], uma troca de\n[LOCUTOR 9]: sistema,\n[LOCUTOR 18]: ela não é fácil não,\n[LOCUTOR 62]: né?\n[LOCUTOR 18]: Quem disser que é fácil para vocês vai\n[LOCUTOR 62]: estar,\n[LOCUTOR 18]: não digo mentindo, mas omitindo\n[LOCUTOR 62]: a\n[LOCUTOR 18]: verdade. A gente sabe que esse\n[LOCUTOR 62]: momento\n[LOCUTOR 18]: [LOCAL], vocês têm o dia\n[LOCUTOR 62]: a\n[LOCUTOR 18]: dia e toda uma carga de treinamentos. Porém, a [EMPRESA] é uma empresa que tem\n[LOCUTOR 62]: know-how\n[LOCUTOR 18]: suficiente\n[LOCUTOR 62]: para\n[LOCUTOR 18]: dar os treinamentos, mostrar as boas práticas de\n[LOCUTOR 9]: mercado.\n[LOCUTOR 18]: Quando a gente começar o\n[LOCUTOR 9]: projeto,\n[LOCUTOR 18]: junto com vocês, nós vamos montar um cronograma, onde a disponibilidade de vocês que\n[LOCUTOR 62]: vai\n[LOCUTOR 18]: valer no\n[LOCUTOR 62]: cronograma.\n[LOCUTOR 18]: Não adianta a gente dizer, nós vamos trabalhar terça, quarta e\n[LOCUTOR 9]: quinta.\n[LOCUTOR 18]: Vocês têm todo o dia-a-dia ainda que vai precisar de muita dedicação, né? Então, é quatro mãos o cronograma quando a gente for montar.\n[LOCUTOR 62]: Sim, sim. Módulo a módulo a gente vai ter que ir incorporando, né? Mas hoje o que seria o principal mesmo assim seria a parte documental da exportação. Enquanto ainda é em\n[LOCUTOR 18]: outro...\n[LOCUTOR 62]: Aí impõe nos comércios trânsitos, um dia vai mudar para outros comércios. Sim, sim. Uma\n[LOCUTOR 18]: coisa importante, [PESSOA],\n[LOCUTOR 62]: aqui\n[LOCUTOR 18]: nesta reunião nós temos três níveis dentro\n[LOCUTOR 62]: da [EMPRESA].\n[LOCUTOR 18]: O [PESSOA], que representa o time comercial, eu represento o time de engenharia de valores, e o [PESSOA] representa o time de entrega. Então, o time do [PESSOA] que vai fazer as capacitações, vai montar o cronograma, o time dele vai apresentar o coordenador de projetos junto com um coordenador eleito pela TransMass. Toda a equipe da [EMPRESA] está representada aqui hoje.\n[LOCUTOR 62]: Então o [PESSOA] vai meio que desenhar, vai adequar o sistema conforme nossas necessidades aqui,\n[LOCUTOR 9]: é isso? Sim, nós temos uma metodologia de implantação que tem documentos, ela chama [EMPRESA], metodologia de implantação [EMPRESA]. E um dos primeiros documentos, né, a gente faz o kick-off e depois a gente tem a especificação de processos. Aí nós vamos fazer reuniões com vocês, entender o processo, especificar o processo de vocês e dar a solução dentro do sistema. Claro que pra isso a gente já conheceu aí um pouco da tua operação pra poder ofertar um\n[LOCUTOR 62]: escopo,\n[LOCUTOR 9]: né? \n[LOCUTOR 45]: cima\n[LOCUTOR 9]: desse escopo a gente faz o levantamento de processos pra ver se tá tudo direitinho, conforme a... a motivação de implantar o sistema, se não tem mais nada que precise, caso precise, a gente pode pontuar isso, se precisa de algo a mais, a gente pontua isso nessa documentação, para que a gente tenha um escopo revisado do que vai ser implantado. E aí, com base nisso, a gente faz um cronograma de atividades e começa a configurar o sistema, após a configuração, vocês serão capacitados, depois teste unitário, teste\n[LOCUTOR 62]: integrado,\n[LOCUTOR 9]: \n[LOCUTOR 43]: aí, no ano de outubro,\n[LOCUTOR 62]: go\n[LOCUTOR 9]: live.\n[LOCUTOR 62]: Hoje, da minha parte, seria mais o modo frota, armazenagem e a parte documental, tanto internacional... quanto nacional, e aí depois vai ter os outros modos, mas aí é com a [PESSOA] e a \n[LOCUTOR 41]: também.\n[LOCUTOR 62]: Mas da nossa parte seria isso, a gente tem que ver o que a gente vai falar para vocês, o que a gente precisa, e solicitar para vocês um sistema não simples, mas o mais prático possível. No dia a dia a gente tem muita pressão, a gente não quer um sistema que precise dar muita volta, A gente quer algo\n[LOCUTOR 9]: prático,\n[LOCUTOR 62]: que \n[LOCUTOR 29]: algo\n[LOCUTOR 62]: que\n[LOCUTOR 60]: a\n[LOCUTOR 62]: gente consiga fazer com que a operação flua da maneira mais rápida possível. Quer\n[LOCUTOR 9]: falar,\n[LOCUTOR 51]: [LOCAL]? Não,\n[LOCUTOR 60]: na verdade, a gente não quer perder, quer ampliar, né? Só as nossas agilidades e não deixar detê-las, que hoje um movimento que a gente tem é a integração direto com o Syscomax ou com o [EMPRESA]\n[LOCUTOR 51]: e isso\n[LOCUTOR 60]: não pode ficar... \n[LOCUTOR 10]: estou numa tela onde tem um resuminho do scope, o\n[LOCUTOR 60]: macro scope,\n[LOCUTOR 18]: onde nós temos ali o módulo de faturamento, financeiro, estoque, os dashboards, o compras, o TMS e o manutenção de frotas. Na parte inferior, nós temos o TOTUS Transmit. O TOTUS Transmit é uma ferramenta que armazena documentos fiscais recebidos e\n[LOCUTOR 60]: emitidos.\n[LOCUTOR 18]: Uma vez\n[LOCUTOR 60]: que\n[LOCUTOR 18]: bateu o CNPJ de vocês ou de qualquer filial no [LOCAL] ou das prefeituras homologadas, o Transmit faz o download automaticamente da nota de entrada e faz o upload de todas as notas fiscais geradas por vocês, sejam CTEs, notas de serviço, notas de produtos, para dentro do [LOCAL]. Aqui, nós temos um pouquinho\n[LOCUTOR 60]: de\n[LOCUTOR 18]: cada módulo, um resumo de cada módulo. Eu não vou ler todo, senão a gente vai\n[LOCUTOR 60]: levar muito tempo\n[LOCUTOR 18]: aqui, mas a gente, não sei se vocês têm, mas caso não tenha, eu mando o material para\n[LOCUTOR 9]: vocês,\n[LOCUTOR 18]: tá? Fala do módulo\n[LOCUTOR 9]: compras,\n[LOCUTOR 18]: todos os recursos do módulo\n[LOCUTOR 9]: compras,\n[LOCUTOR 18]: o módulo estoque, integração do módulo estoque com o módulo de manutenção para as peças de\n[LOCUTOR 9]: reposição,\n[LOCUTOR 18]: a parte de faturamento, ou seja, é o local onde a gente gera os documentos de saída, O financeiro, muito mais que gerenciar o [LOCAL] e\n[LOCUTOR 9]: apagar,\n[LOCUTOR 18]: aqui a gente est\n[LOCUTOR 38]: falando\n[LOCUTOR 18]: de gestão, fluxo de\n[LOCUTOR 51]: caixa,\n[LOCUTOR 18]: informação para tomada de\n[LOCUTOR 51]: decisão,\n[LOCUTOR 18]: classificação do [LOCAL] e apagar, gestão de frotas, e aí contempla a parte de configuração, configurações básicas. Nós temos os rodados, a oficina, o gerenciamento de suco de pneus, MULTAS! sinistros,\n[LOCUTOR 9]: e\n[LOCUTOR 18]: a parte de gestão de transportes, que o nosso colega [PESSOA] é o nosso especialista aqui.\n[LOCUTOR 51]: [PESSOA], tu tens?\n[LOCUTOR 18]: Antes de passar a palavra, o que o [PESSOA] falou é exatamente essa tela aqui. A metodologia de implantação [EMPRESA], ela tem esses processos que ficam ali na direita. Então, no momento, logo após a assinatura do contrato, nós teremos um momento de planejamento da\n[LOCUTOR 9]: implantação,\n[LOCUTOR 18]: o kick-off, onde as equipes vão se apresentar, quem são os usuários-chave da TransMass e os analistas, o coordenador de projeto da [EMPRESA].\n[LOCUTOR 9]: Nós\n[LOCUTOR 18]: vamos conversar com cada área e criar a [EMPRESA], que é a metodologia de implantação [EMPRESA], ou seja, as entrevistas e cada processo Cada área, trabalho, vai estar documentado na [EMPRESA]. Em seguida, começam os treinamentos, as configura\n[LOCUTOR 7]: iniciais,\n[LOCUTOR 18]: a capacitação de cadastro dos testes e,\n[LOCUTOR 9]: lá no\n[LOCUTOR 18]: final, a preparação da entrada em produção e a operação assistida. Esse material aqui é de vocês. A ideia é que vocês tenham\n[LOCUTOR 9]: ele\n[LOCUTOR 18]: como uma ferramenta de consulta também nessa fase\n[LOCUTOR 9]: comercial.\n[LOCUTOR 18]: Isso. \n[LOCUTOR 20]: vontade\n[LOCUTOR 18]: fazer algum tipo de pergunta.\n[LOCUTOR 62]: [PESSOA], além da integração com o Cisco MEC que você faz, os módulos, os módulos do sistema de vocês, eles se integram entre si, por exemplo, no sistema que a gente trabalha hoje, no módulo financeiro lá, se ela atualizar a quilometragem do caminhão, para mim, no módulo operacional, ela não atualiza, ou seja, precisa de duas pessoas para fazer a atualização de quilometragem do veículo. Lá no financeiro, se ela quiser fazer, um controle através da quilometragem, e no meu módulo operacional, se eu quiser fazer um controle de quilometragem para fazer manutenção. Ela alimenta o módulo dela e eu tenho que alimentar o meu também. Ou seja, tem duas pessoas alimentando a mesma informação\n[LOCUTOR 9]: do\n[LOCUTOR 62]: sistema. Porque os módulos\n[LOCUTOR 18]: n\n[LOCUTOR 31]: se conversam, eles não são integrados entre si. o sistema de vocês, se alguém atualiza a quilometragem do veículo X, vai atualizar para todo o sistema ou somente para o módulo que a pessoa opera\n[LOCUTOR 18]: lá? Esse exemplo é muito típico. A quilometragem vai estar só no módulo manutenção de frotas. E a partir dessa informação, todas as áreas que tiverem a necessidade de acessá-la, vão acessar em um único local. Certo? um sistema de gestão integrado, um ERP, ele só funciona quando tiver fluidez de\n[LOCUTOR 9]: processo.\n[LOCUTOR 18]: Se um ERP não tem essa fluidez, a gente\n[LOCUTOR 51]: está\n[LOCUTOR 18]: perdendo tempo, retrabalhos, buscando informações desencontradas em dois locais. Então, respondendo objetivamente, terá um único local para ser lançado.\n[LOCUTOR 9]: A quilometragem é atualizada por importação de abastecimento, então toda vez que você abastece o veículo e é registrado manualmente pelo frentista, ele atualiza a quilometragem. Integrado com o TMS, você pode habilitar para numa saída de viagem, chegada de viagem, o motorista apontar o odômetro e atualizar o frotas também, né? Então tem alguns checkpoints que atualiza a quilometragem, ou direto no frota por abastecimento, ou quando você lança no TMS, ele também tem a opção de atualizar a quilometragem, caso queira dessa forma, entendeu? Vou abrir uma viagem e eu quero que ele atualize lá. ou, de repente, integrando com alguma tecnologia de rastreamento, onde vem o odômetro por posição GPS, que também tem a opção de atualizar o \n[LOCUTOR 2]: também.\n[LOCUTOR 62]: Eu acho que seria interessante integrar com o [EMPRESA]. Hoje os odômetros da nossa frota estão atualizados no [EMPRESA], e eles vão atualizando, então acho que seria interessante. Porque existem manutenções que eu não consigo controlar por tempo, e sim por\n[LOCUTOR 9]: quilometragem.\n[LOCUTOR 62]: E para que eu programe essa manutenção eu tenho que alimentar o sistema. Beleza, alimentei o sistema para daqui 120 mil quilômetros trocar um filtro. Mas o sistema vai ficar com aquela quilometragem que eu informei e ele não vai ir atualizando. Entende? A cada acerto de viagem É isso que eu me refiro, é isso\n[LOCUTOR 9]: que a gente precisa\n[LOCUTOR 62]: abrir. Não, não.\n[LOCUTOR 9]: Abri uma viagem no TMS e a gente habilita a integração, ele vai atualizar o od\n[LOCUTOR 28]: lá. E aí eu não preciso me preocupar em cuidar a quilometragem no sistema. Uma vez informada, quando chegar próximo da quilometragem para trocar um filtro\n[LOCUTOR 9]: lá,\n[LOCUTOR 62]: o sistema vai me avisar. Ele vai atualizando,\n[LOCUTOR 9]: então. Sim, sim. Você vai ter um plano de manutenção lá no [EMPRESA], que quando atingir aquela quilometragem ele vai disparar uma preventiva lá.\n[LOCUTOR 62]: Então tá, é isso que eu queria saber, se ele vai\n[LOCUTOR 9]: atualizando\n[LOCUTOR 62]: pra mim. Você comigo. Eu vou informar a quilometragem inicial dele\n[LOCUTOR 9]: e\n[LOCUTOR 62]: aí eu vou esperar, vou aliviar minha mente. e vou esperar que o sistema me avise quando estiver\n[LOCUTOR 9]: próximo daquela\n[LOCUTOR 62]: que\n[LOCUTOR 9]: eu n\n[LOCUTOR 31]: achou de volta. Tá\n[LOCUTOR 9]: bom. Só uma coisa, você perguntou lá, gerencialmente carga e armazém, você tem um warehouse aí ou é só cross-dock mesmo?\n[LOCUTOR 62]: Traduza, por favor.\n[LOCUTOR 9]: Você falou assim, é preciso de um controle de carga e armazém,\n[LOCUTOR 62]: né?\n[LOCUTOR 9]: Você vende posição pallet para cliente, você armazena a mercadoria dos seus clientes, e precisa controlar quanto tempo a mercadoria, ou não? É um cross, a mercadoria chega no armazém, ela fica um tempinho e já vai sendo\n[LOCUTOR 62]: entregue. Quase 100%, quase 100% das mercadorias nossas hoje, elas não ficam muito tempo\n[LOCUTOR 9]: em\n[LOCUTOR 62]: piso.\n[LOCUTOR 9]: [LOCUTOR 1]: é cross\n[LOCUTOR 62]: mesmo. O único controle que a gente tem é de boxe. \n[LOCUTOR 8]: no momento que a gente começar a formular a carga fracionada, o pensamento é mantermos Obrigado.\n[LOCUTOR 9]: Mas o fracionado é o. Coletar mercadorias em clientes de vocês trazer para o armazém de vocês consolidar e levar para\n[LOCUTOR 60]: uma\n[LOCUTOR 9]: transferir para uma filial mais próxima do ponto de [LOCAL] e distribuir lá no final \n[LOCUTOR 29]: normal.\n[LOCUTOR 9]: Então tá bom. A gente pode até já que tem isso considerar no escopo. Hoje não está previsto mas se\n[LOCUTOR 60]: quiser a gente\n[LOCUTOR 9]: ent\n[LOCUTOR 24]: Vamos seguir no escopo do jeito que está, até para não encher de informações, e a gente mantém assim, e no futuro, quando tiver o processo desenhado, a gente volta a falar nessa\n[LOCUTOR 9]: questão. É, se no processo de levantamento lá da [EMPRESA] já tiver, a gente pode avaliar e se contempla isso também ou\n[LOCUTOR 60]: não. É que foi algo apontado lá no início, porque hoje o sistema que a gente tem não comporta essa... esse tipo de carga. Então quando até algo que eu relatei na arquitetura, que nós gostaríamos já de implantar o fracionado para ter esse escopo.\n[LOCUTOR 9]: Entendi. Tá bom. Mas o TMS atende tanto o [LOCAL], que é o cargo fracionado, como o FTL, que é o cargo fechado. Ent\n[LOCUTOR 24]: você\n[LOCUTOR 9]: fica com ele em relação a isso. dois modelos de carregamento, fracionado\n[LOCUTOR 60]: e\n[LOCUTOR 9]: lotação,\n[LOCUTOR 60]: tá bom?\n[LOCUTOR 9]: \n[LOCUTOR 15]: teria que redesenhar. É, só ver, no escopo, não sei se a gente colocou lá carga fracionada, né, [PESSOA]? A gente olha lá. Tá mutado o\n[LOCUTOR 18]: teu voadro. Vamos olhar, sim.\n[LOCUTOR 9]: Isso, tá bom. Então, [PESSOA], pelo jeito, então, é melhor já contemplar já, né? [PESSOA] fracionada e durante o levantamento a gente já vê isso. É melhor?\n[LOCUTOR 60]: Isso.\n[LOCUTOR 18]: Tá bom.\n[LOCUTOR 9]: Então, dois pontos. carga fracionada\n[LOCUTOR 18]: no score,\n[LOCUTOR 9]: e a questão da integração com o Cisco MAX. É isso, né?\n[LOCUTOR 62]: Isso, a questão da integração, né, com o Cisco MAX e [LOCAL].\n[LOCUTOR 9]: [LOCAL], ok, né, a gente tem\n[LOCUTOR 62]: vários\n[LOCUTOR 9]: clientes no [LOCAL], então, ok, eu só vou olhar essa questão do Cisco MAX no transporte internacional para o time de produto, t\n[LOCUTOR 4]: bom? Isso, e que a gente consiga fazer dentro do sistema mesmo, durante a emissão do [EMPRESA], a transmissão. A gente não precisa, por exemplo, sair do sistema de vocês para fazer a transmissão através de outro meio.\n[LOCUTOR 9]: Eu sei que\n[LOCUTOR 62]: existem sistemas que, às vezes, não tem como\n[LOCUTOR 9]: fazer.\n[LOCUTOR 62]: Então, fica melhor para nós que seja tudo dentro do sistema. Estamos gerando o micDTA e, a partir de finalizar o micDTA dentro do sistema de vocês, ali a gente consiga fazer a transmissão para o Cisco MAX. Tá bom. E também a parte de carga ali no depósito, a parte de frota ali, que\n[LOCUTOR 9]: seja... A carga que está no depósito, a partir do momento que você registra um documento lá que recebeu essa mercadoria, o TMS já te mostra a mercadoria que está com\n[LOCUTOR 62]: você,\n[LOCUTOR 9]: que você já gerou [LOCAL] ou que você não gerou [LOCAL] ainda, e depois pode já montar uma viagem e consequentemente gerar o mic DTA que o MICDTA, ele faz, eu faço uma analogia com o manifesto nosso, né? [EMPRESA]. [EMPRESA], né? Então, o MICDTA, podemos dizer que é um manifesto internacional e o [EMPRESA], o\n[LOCUTOR 62]: manifesto nacional. Isso, é isso aí. Tá bom? É, é um pouco mais, não é tão simples, mas é isso,\n[LOCUTOR 9]: é isso\n[LOCUTOR 62]: mesmo. Ambos precisam, ambos precisam da nota fiscal. Sim. Para serem\n[LOCUTOR 9]: transmitidos.\n[LOCUTOR 62]: Um nickname em todas as situações, mas aí tem um caso que eu quero perguntar para vocês, eu até hoje não vi nenhum sistema pronto\n[LOCUTOR 9]: para isso,\n[LOCUTOR 62]: que é a manifestação dos dados de embarque por\n[LOCUTOR 18]: \n[LOCUTOR 40]: e não por nota fiscal, ou seja, a manifestação dos dados de embarque eletronicamente, feita dentro de um sistema para o SystemX, utilizando a do e desembaraçada e\n[LOCUTOR 9]: não a\n[LOCUTOR 18]: nota.\n[LOCUTOR 9]: Isso é isso que eu\n[LOCUTOR 62]: coloquei\n[LOCUTOR 9]: lá. pareceu em outro cliente. Então é isso que eu vou checar com o produto pra te dar uma devolução,\n[LOCUTOR 62]: tá bom? Até hoje eu não conheço. Eu já trabalhei com um monte, eu trabalhei numa empresa lá que a gente tinha vários sistemas e nenhum conseguia fazer isso. Nenhum conseguia fazer a transmissão pra esses\n[LOCUTOR 18]: comércios.\n[LOCUTOR 62]: Ele é um manifesto amparado por dúvidas embaraçadas, somente por nota. Mas a gente não tem muitos aqui, é esporádico. Mas seria um diferencial no sistema que vocês... tá\n[LOCUTOR 9]: bom. Então, como é que seria por [EMPRESA] e por\n[LOCUTOR 62]: nota, né? Isso, por [EMPRESA] e por nota. Se não der por [EMPRESA], por nota nos atende também. Porque a transmissão por [EMPRESA] nossa aqui é muito pouca. Mas vocês com certeza terão clientes que têm uma demanda de DTA muito maior. De cargas que nacionalizam no interior do país e vão para\n[LOCUTOR 9]: fora. Tá bom.\n[LOCUTOR 62]: Ok.\n[LOCUTOR 9]: Entendido.\n[LOCUTOR 62]: Bom,\n[LOCUTOR 9]: [PESSOA],\n[LOCUTOR 62]: de minha parte seria isso. Não sei se vocês têm alguma dúvida aí sobre o módulo de vocês, de RH, de...\n[LOCUTOR 60]: Não,\n[LOCUTOR 62]: isso a\n[LOCUTOR 60]: gente já tinha estruturado. Na verdade,\n[LOCUTOR 6]: a d\n[LOCUTOR 50]: era mais de\n[LOCUTOR 62]: operacional. De minha parte, seria isso, Ulisses. É\n[LOCUTOR 6]: isso aí.\n[LOCUTOR 62]: Gostaria de ver o sistema. Gostaria de uma próxima reunião, a gente conseguir visualizar o sistema de vocês.\n[LOCUTOR 9]: \n[LOCUTOR 12]: uma simulação. Tem que agendar uma\n[LOCUTOR 62]: demonstração. Uma simulação de emissão de [LOCAL], de emissão de MIC e de um CTE. Inicialmente, para depois a gente migrar\n[LOCUTOR 6]: para\n[LOCUTOR 62]: armazenar uma carga em depósito. Alguma coisa referente à frota também. Eu sei que a frota é muita coisa, né? É muito detalhe. Então, inicialmente, a gente alinharia a parte operacional documental. Depois a gente migraria para a parte de frota, que é um módulo bem extenso, pelo que\n[LOCUTOR 9]: eu vi\n[LOCUTOR 62]: ali, com bastante detalhezinho. Eu acho que tem mais detalhes até do que a emissão do [EMPRESA]. Mas aí a gente conversaria depois, um treinamento específico para a frota.\n[LOCUTOR 51]: [LOCAL], [PESSOA]. A gente teve umas etapas anteriores e acho que a demonstração de gestão de frotas foi gravada. Vou procurar depois e\n[LOCUTOR 62]: te\n[LOCUTOR 51]: encaminho ali. A gente teve uma agenda específica de gestão de frotas. \n[LOCUTOR 30]: gestão de frotas e o TMS também. Só que daí ainda assim eu ficava\n[LOCUTOR 51]: com\n[LOCUTOR 60]: bastante\n[LOCUTOR 51]: dúvida na\n[LOCUTOR 60]: questão da gravação.\n[LOCUTOR 51]: Não, bem tranquilo. É só mais a mesma gravação da demonstração. Isso, bem\n[LOCUTOR 62]: tranquilo.\n[LOCUTOR 51]: Esse é o nosso objetivo da agenda. Não sei, [PESSOA], do escopo ali, tem mais algum detalhe, algum ponto? A gente vai ajustar agora, depois de encaminhar e de passar essas evolutivas, das outras questões, tranquilo. Questão de frota também, não sei se a gente pode compartilhar também com o [PESSOA] depois,\n[LOCUTOR 60]: compartilha\n[LOCUTOR 51]: ali do\n[LOCUTOR 60]: que\n[LOCUTOR 51]: nós... [LOCAL].\n[LOCUTOR 60]: Essencial essa parte. A gente falou da questão logística ali do armazém, o que influencia a questão da portaria.\n[LOCUTOR 62]: Eu n\n[LOCUTOR 24]: consegui enxergar\n[LOCUTOR 62]: isso.\n[LOCUTOR 60]: De cargas agendadas, que hoje a gente tem\n[LOCUTOR 62]: esse\n[LOCUTOR 60]: escopo na nossa portaria.\n[LOCUTOR 51]: Isso,\n[LOCUTOR 9]: o\n[LOCUTOR 51]: agendamento, a gente deixou, a gente teve as agendas, mas nós tínhamos deixado para uma segunda etapa de projeto.\n[LOCUTOR 62]: Ah,\n[LOCUTOR 60]: tá.\n[LOCUTOR 51]: [LOCAL].\n[LOCUTOR 60]: Mas a gente pode\n[LOCUTOR 51]: botar depois\n[LOCUTOR 60]: ali\n[LOCUTOR 62]: dentro. Isso,\n[LOCUTOR 51]: exato. Mas a gente pode destacar isso também na apresentação, quando a gente for apresentar esse clube, a gente inclui também essa parte ali como segunda etapa e detalha esses\n[LOCUTOR 62]: processos também.\n[LOCUTOR 60]: O\n[LOCUTOR 9]: agendamento, a gente\n[LOCUTOR 62]: tem o\n[LOCUTOR 9]: agendamento e o [EMPRESA],\n[LOCUTOR 62]: que é o controle\n[LOCUTOR 9]: de\n[LOCUTOR 62]: portaria.\n[LOCUTOR 9]: Aí, se precisar colocar, \n[LOCUTOR 3]: com\n[LOCUTOR 9]: o [PESSOA] e com o \n[LOCUTOR 11]: para\n[LOCUTOR 9]: a gente contemplar\n[LOCUTOR 6]: isso\n[LOCUTOR 18]: também. E ainda tem o módulo de\n[LOCUTOR 62]: checklist,\n[LOCUTOR 18]: que quando\n[LOCUTOR 51]: entram,\n[LOCUTOR 18]: um veículo sai, tem que cumprir alguns requisitos e aí tem um checklist mobile.\n[LOCUTOR 60]: Mas aí o checklist seria mais uma\n[LOCUTOR 6]: integração?\n[LOCUTOR 18]: Não, são três recursos dentro da [EMPRESA]\n[LOCUTOR 22]: logística\n[LOCUTOR 18]: e faltam controle de pátios e portarias. Por exemplo,\n[LOCUTOR 9]: eu\n[LOCUTOR 18]: tenho cinco veículos esperando para entrar no meu\n[LOCUTOR 60]: estabelecimento. Não, a gente já faz isso,\n[LOCUTOR 18]: mas\n[LOCUTOR 60]: eu só queria saber se em questão de enxugar e re-arquitetar na questão do investimento mesmo.\n[LOCUTOR 18]: Eu não sei como foi composto, [PESSOA], mas pelo que eu lembro, foi deixado para\n[LOCUTOR 51]: um\n[LOCUTOR 18]: segundo investimento,\n[LOCUTOR 51]: né? Isso, uma segunda etapa.\n[LOCUTOR 9]: Ent\n[LOCUTOR 24]: tá bom, da minha\n[LOCUTOR 62]: parte é isso.\n[LOCUTOR 18]: Fechou.\n[LOCUTOR 51]: Obrigado, pessoal. [LOCAL]. Obrigado, pessoal. A gente verifica aqui e passa esse retorno para vocês aí,\n[LOCUTOR 9]: incluindo o\n[LOCUTOR 51]: escopo. Tem esses itens aí que nós mapeamos.\n[LOCUTOR 62]: Obrigado,\n[LOCUTOR 51]: pessoal.\n[LOCUTOR 62]: [LOCUTOR 47]: a você,\n[LOCUTOR 9]: [PESSOA]. \n[LOCUTOR 42]: tarde.\n[LOCUTOR 51]: Deixa eu só remover aqui.",
+  "texto_filtrado": "[LOCUTOR 60]: Acho que estamos todos aqui.\n[LOCUTOR 9]: [LOCAL].\n[LOCUTOR 51]: Estamos todos, né, [PESSOA]? Podemos iniciar? Deixa eu ver o do\n[LOCUTOR 9]: [PESSOA].\n[LOCUTOR 9]: participar.\n[LOCUTOR 51]: [PESSOA],\n[LOCUTOR 59]: aqui. [LOCAL]. [PESSOA], fazendo uma breve apresentação, né? Então, a gente está com a equipe da [LOCAL]. Você já acompanhou, né? O [PESSOA] já te assinou referente ao projeto. A gente está com toda a equipe aqui hoje, a equipe da operação, o [PESSOA], o\n[LOCUTOR 60]: [PESSOA],\n[LOCUTOR 51]: a [PESSOA] faz parte do RH e a\n[LOCUTOR 60]: [LOCUTOR 32]: também cuida toda a parte operacional. E aí, o objetivo é a gente tirar algumas dúvidas, algumas questões. A gente está no processo lá de apresentar o escopo agora para o [EMPRESA] e a proposta de\n[LOCUTOR 9]: investimento.\n[LOCUTOR 60]: tem algumas\n[LOCUTOR 51]: questões pontuais aí que a gente gostaria de tirar algumas dúvidas, principalmente com foco ali. A [EMPRESA] tem um\n[LOCUTOR 60]: foco\n[LOCUTOR 51]: grande ali na parte de transporte internacional e eles têm também um novo mercado agora que eles vão ter na sequência que é o... transporte fracionado. O objetivo é tirar essas dúvidas pontuais e contemplar tudo ali e fazer essa validação, tudo que eles necessitam está no nosso\n[LOCUTOR 9]: escopo\n[LOCUTOR 51]: de atuação.\n[LOCUTOR 9]: Isso,\n[LOCUTOR 51]: né, [PESSOA]? Se vocês querem complementar algo aí, fiquem\n[LOCUTOR 27]: vontade. Não, é isso aí. O intuito é a gente validar junto com a nossa operação para ver se nós não estamos perdendo alguma informação ou, de repente, estamos acrescentando algo que\n[LOCUTOR 60]: não é necessário. Então, essa validação, principalmente do [PESSOA], que tem mais propriedade para falar na questão do sistema, é muito importante nesse\n[LOCUTOR 9]: momento.\n[LOCUTOR 51]: [LOCAL].\n[LOCUTOR 60]: o que aconteceu, mas...\n[LOCUTOR 9]: tranquilo.\n[LOCUTOR 51]: bem, tranquilo. [PESSOA] e [PESSOA], fiquem à vontade. Vocês querem nos passar nos pontos, nas principais questões aí que vocês podem ser dessa forma?\n[LOCUTOR 62]: Pode, podem ser sim, [PESSOA]. Pode\n[LOCUTOR 62]: É... Vamos lá, vamos começar com o tema dos CRTs. Como que é estruturado o sistema de vocês para a emissão de [LOCAL]?\n[LOCUTOR 9]: Então, você pode digitar, tem uma tela lá no Proteus, onde você digita o número da fatura ou o número da nota fiscal, pode ser, e ele contém os campos obrigatórios para a legislação de transporte municipal, cada campo lá. E aí você gera o [LOCAL], e depois, posteriormente, gera uma viagem para a geração do MICDTA.\n[LOCUTOR 62]: A reunião de hoje não tem como vocês mostrarem para nós as telas, ou é uma reunião de alinhamento inicial somente?\n[LOCUTOR 51]: Isso\n[LOCUTOR 9]: é o objetivo,\n[LOCUTOR 51]: [PESSOA], talvez isso, a gente pode ter na sequência,\n[LOCUTOR 62]: o objetivo\n[LOCUTOR 51]: é a gente validar esses pontos, ver\n[LOCUTOR 51]: pontos, o que nós mapeamos, a gente teve uma agenda ali, se todos os pontos est\n[LOCUTOR 31]: no escopo.\n[LOCUTOR 51]: Na sequência, esse é o principal objetivo, mas depois, se quiseres ver, a gente pode marcar uma agenda contigo\n[LOCUTOR 9]: tranquilo.\n[LOCUTOR 51]: Mas é isso, só para a gente alinhar\n[LOCUTOR 62]: os pontos\n[LOCUTOR 51]: específicos dessas questões.\n[LOCUTOR 9]: Aqueles campos do [LOCAL], o padrão da legislação do\n[LOCUTOR 51]: [LOCAL],\n[LOCUTOR 62]: carga lá, então\n[LOCUTOR 9]: você já vai colocando lá e depois tem lá metade os incoterms,\n[LOCUTOR 62]: que é\n[LOCUTOR 9]: metade cifra, metade fove, em dólar. Então a tabela de frete no TMS Proteus,\n[LOCUTOR 9]: trabalha com várias moedas, que é o padrão do Proteus. O Proteus trabalha com até 99\n[LOCUTOR 62]: moedas.\n[LOCUTOR 9]: Então a gente configura lá a moeda 1, que é dólar, você precifica\n[LOCUTOR 62]: em dólar,\n[LOCUTOR 9]: e aí já sai o [LOCAL] em dólar,\n[LOCUTOR 62]: entendeu? Tá, na hora de gerar o mic DTA ali, a gente só digita o número do CNT, ele puxa as informações. Eu não conheço o sistema de vocês, pessoal. Eu só queria saber se é um sistema intuitivo, sabe? A gente não vai ter muita dificuldade de operar ele. Porque hoje, o que a gente precisa na operação? O analista, ele precisa de agilidade. Não vou nem perguntar, mas com certeza é integrado com o SystemX, o sistema de vocês, né? Esse negócio vocês não estariam nem oferecendo para nós. Também emitimos aqui a parte de documentação nacional, que é o [EMPRESA]. Então o sistema também tem que estar integrado com o CFAZ, né? E é basicamente isso. Eu achei que eu ia visualizar as telas aí, mas a\n[LOCUTOR 9]: gente,\n[LOCUTOR 62]: de repente, numa outra ocasião, a gente agenda pra ver essas\n[LOCUTOR 9]: telas\n[LOCUTOR 62]: aí. Nós temos\n[LOCUTOR 9]: também... Então, só uma coisa que você comentou do Cisco Max, Nós temos o Cisco MAX, mas ele não é integrado com o TMS, tá bom? Hoje\n[LOCUTOR 9]: Então, assim, o TMS ele suporta a legislação do [LOCAL]. Então, pela legislação do [LOCAL], você pode instalar ele em espanhol, né?\n[LOCUTOR 44]: pode ter uma\n[LOCUTOR 9]: base lá em português ou espanhol. Tem a legislação do [LOCAL] no que tange a geração de [LOCAL], MICDTA\n[LOCUTOR 62]: lá com\n[LOCUTOR 9]: a carta de correção, enfim,\n[LOCUTOR 62]: conforme\n[LOCUTOR 9]: a legislação do\n[LOCUTOR 62]: [LOCAL]. Mas\n[LOCUTOR 62]: transmite... Quando\n[LOCUTOR 9]: você gerar o CTL, transmite para [LOCAL].\n[LOCUTOR 62]: Agora, aí\n[LOCUTOR 9]: precisa\n[LOCUTOR 9]: MICDTA já está transmitindo lá para um órgão. Hoje ainda, não sei se já está transmitindo. Pelo que eu vi, até um cliente nosso que ia instalar, teria que entrar lá, digitar, e aí o parceiro lá de negócio, que fica lá na\n[LOCUTOR 62]: doana,\n[LOCUTOR 9]: digitável e transmitível. Precisa ver com o produto se a transmissão já está automática, t\n[LOCUTOR 4]: bom? O que a gente precisa hoje? Nós precisamos gerar o [LOCAL], o sistema, e depois de ter feito todos os cadastros de importador, exportador, plata, motorista, rota, enfim, precisamos gerar esse [LOCAL], com\n[LOCUTOR 9]: base\n[LOCUTOR 62]: nesse [LOCAL], gerar o MIC DTA,\n[LOCUTOR 62]: esse MIC DTA ser transmitido para os seus comércios. É isso que a gente precisa hoje. E ser possível, ali dentro do módulo do [LOCAL], fazer a transmissão direta, sem que a gente precise sair do sistema ou baixar algum outro programa para fazer a transmissão. Existem sistemas que não têm essa funcionalidade dentro. Hoje a gente tem um sistema\n[LOCUTOR 9]: pequenos\n[LOCUTOR 62]: detalhes.\n[LOCUTOR 18]: só um minutinho,\n[LOCUTOR 18]: órgão\n[LOCUTOR 9]: aqui que tinha que levantar. Só um\n[LOCUTOR 18]: minutinho.\n[LOCUTOR 9]: Ah, é, realmente, era a integração com o CISEMEC para gerar o [EMPRESA] e o [EMPRESA], né? O [EMPRESA] e o\n[LOCUTOR 18]: [EMPRESA], né?\n[LOCUTOR 62]: Tá, essa é a parte de despacho, né? Essa não é o nicho da [LOCAL]. tem que ter a integração com o Syscom X para a geração do mic eletrônico dentro do portal Syscom X. Mas com certeza deve ter o sistema.\n[LOCUTOR 33]: sistema deve ter isso.\n[LOCUTOR 9]: saber se\n[LOCUTOR 62]: essa integração está dentro do sistema que vocês estão oferecendo, ou a gente tem que baixar algum programa para fazer a transmissão. Vou te dar um exemplo do [LOCAL]. O sistema [LOCAL] não transmite direto, não transmite dentro do [LOCAL]. Entendeu? A gente gera um mic dentro do [LOCAL], baixa um programa lá, e desse programa a gente faz a transmissão para os [EMPRESA]. É muita volta. É isso que a gente não quer, a gente quer\n[LOCUTOR 9]: praticidade,\n[LOCUTOR 62]: a gente quer agilidade na\n[LOCUTOR 60]: operação,\n[LOCUTOR 62]: mas fica,\n[LOCUTOR 5]: gente tem que entender bem como é esse desenho, essa arquitetura do processo na transmissão, ter certeza de como é feito, [PESSOA].\n[LOCUTOR 9]: Tá bom, eu vou ver com o time de produto, como eu falei, Essa questão da transmissão não tinha, foi pontuado por um outro cliente há tempos atrás, então provavelmente foi desenvolvido, eu só preciso ver como é que está para dar um retorno para vocês,\n[LOCUTOR 62]: Esse seria o módulo documental, o módulo operacional. Nós também temos módulos aqui de controle de carga e depósito, não sei se o sistema que vocês oferecem isso. Temos um módulo de controle de frota, Até depois eu queria ver com vocês o que o módulo, se existe esse módulo, o que ele entrega para nós. Hoje a gente está criando, está formatando o controle de trota aqui, e eu preciso de um sistema muito prático. Vou te dar um exemplo. Hoje o controle de pneus nosso, ele é cheio de\n[LOCUTOR 18]: volta,\n[LOCUTOR 62]: entendeu? Ele não é nada usual, você tem que cadastrar uma coisa, essa coisa é ligada a outra, e para fazer um movimento de pneus entre caminhões aqui é muito difícil, é muito\n[LOCUTOR 18]: moroso. N\n[LOCUTOR 31]: estou brincando. A gente precisa de praticidade, de uma coisa intuitiva, uma coisa fácil de mexer, para que a gente consiga passar para um colega rapidamente como funciona, algo que não trave. Enfim, eu acho que vocês têm aí o módulo operacional quase pronto, E eu queria ver com vocês como que é o módulo frota, o controle de caminhões. Se existe esse módulo, como que ele funciona. Para isso a gente precisaria de uma visualização do\n[LOCUTOR 18]: sistema.\n[LOCUTOR 62]: O [PESSOA] levantou a\n[LOCUTOR 18]: mão. Me permite passar um vídeo de dois minutos aqui do módulo frota? Legal? Vamos lá.\n[LOCUTOR 9]: [PESSOA].\n[LOCUTOR 18]: Lá, neste vídeo, vamos acompanhar as principais funcionalidades do sistema [EMPRESA], [LOCAL]. Na gestão de oficina, a rotina de programação de ordem de serviço permite a distribuição da carga de trabalho de acordo com a disponibilidade da equipe. Ainda, a solução é integrada nativamente ao aplicativo Minha Manutenção de Ativos, [LOCAL], proporcionando maior mobilidade na gestão de solicitações e ordens de serviço. Na gestão de pneus, por sua vez, a rotina de calibragem e medição de sulco permite o registro de informações para monitoramento da vida útil de cada pneu. Outro destaque na gestão de pneus é a rotina de esquema de rodados, que possibilita a consulta de cada pneu alocado no veículo, assim como a realização de movimentações e rodígios. Já em abastecimentos, é possível uma gestão completa desde postos internos como externos. além da integração com os principais convênios, como Repon, [EMPRESA], EçoCard, GoodCard, Ticket ou Excel VF. Com o controle de portaria por meio do checklist de entrada e saída, é possível monitorar o tráfego de veículos, buscando impedir que eles trafeguem com manutenções importantes pendentes ou em atraso, documentos vencidos, seja do veículo ou do motorista. Além disso, é possível gerenciar multas, sinistros e documentos de forma integrada ao TOTUS RH [LOCAL] e ao módulo financeiro do TOTUS Back Office, [LOCAL]. Contando ainda com os indicadores gráficos que permitem uma ampla visão gerencial de toda a frota em busca de resultados positivos. Gostou? Acesse o nosso site e saiba mais! Eu vou\n[LOCUTOR 51]: colar\n[LOCUTOR 18]: aqui\n[LOCUTOR 18]: chat\n[LOCUTOR 51]: link\n[LOCUTOR 18]: do nosso portal oficial do m\n[LOCUTOR 18]: gestão de\n[LOCUTOR 51]: frota.\n[LOCUTOR 18]: Ali, além do vídeo, tem informações de rotinas, de vários processos\n[LOCUTOR 18]: possui esse módulo. Peço que vocês copiem antes da gente fechar a reunião, senão depois a gente não consegue mais buscar\n[LOCUTOR 18]: [PESSOA], conseguiu ter uma visão do módulo? Sei que é muito pequenininho, né, o videozinho,\n[LOCUTOR 18]: dá para ter uma\n[LOCUTOR 9]: abrangência, né?\n[LOCUTOR 62]: Sim, sim, sim. Não, deu para ouvir, a gente já precisaria de um treinamento para a gente se aprofundar bem, saber mexer no sistema, usar as ferramentas que o sistema tem, né, [PESSOA], a nosso favor. No começo é meio chato, tem que cadastrar tudo, tem que... aprender a mexer,\n[LOCUTOR 18]: mas depois\n[LOCUTOR 18]: [PESSOA], uma troca de\n[LOCUTOR 9]: sistema,\n[LOCUTOR 18]: Quem disser que é fácil para vocês vai\n[LOCUTOR 62]: estar,\n[LOCUTOR 18]: verdade. A gente sabe que esse\n[LOCUTOR 62]: momento\n[LOCUTOR 18]: dia e toda uma carga de treinamentos. Porém, a [EMPRESA] é uma empresa que tem\n[LOCUTOR 62]: know-how\n[LOCUTOR 18]: suficiente\n[LOCUTOR 62]: para\n[LOCUTOR 18]: dar os treinamentos, mostrar as boas práticas de\n[LOCUTOR 9]: mercado.\n[LOCUTOR 18]: Quando a gente começar o\n[LOCUTOR 9]: projeto,\n[LOCUTOR 18]: junto com vocês, nós vamos montar um cronograma, onde a disponibilidade de vocês que\n[LOCUTOR 18]: valer no\n[LOCUTOR 62]: cronograma.\n[LOCUTOR 9]: quinta.\n[LOCUTOR 18]: Vocês têm todo o dia-a-dia ainda que vai precisar de muita dedicação, né? Então, é quatro mãos o cronograma quando a gente for montar.\n[LOCUTOR 62]: Sim, sim. Módulo a módulo a gente vai ter que ir incorporando, né? Mas hoje o que seria o principal mesmo assim seria a parte documental da exportação. Enquanto ainda é em\n[LOCUTOR 18]: outro...\n[LOCUTOR 18]: coisa importante, [PESSOA],\n[LOCUTOR 62]: aqui\n[LOCUTOR 18]: nesta reunião nós temos três níveis dentro\n[LOCUTOR 62]: da [EMPRESA].\n[LOCUTOR 18]: O [PESSOA], que representa o time comercial, eu represento o time de engenharia de valores, e o [PESSOA] representa o time de entrega. Então, o time do [PESSOA] que vai fazer as capacitações, vai montar o cronograma, o time dele vai apresentar o coordenador de projetos junto com um coordenador eleito pela TransMass. Toda a equipe da [EMPRESA] está representada aqui hoje.\n[LOCUTOR 62]: Então o [PESSOA] vai meio que desenhar, vai adequar o sistema conforme nossas necessidades aqui,\n[LOCUTOR 9]: é isso? Sim, nós temos uma metodologia de implantação que tem documentos, ela chama [EMPRESA], metodologia de implantação [EMPRESA]. E um dos primeiros documentos, né, a gente faz o kick-off e depois a gente tem a especificação de processos. Aí nós vamos fazer reuniões com vocês, entender o processo, especificar o processo de vocês e dar a solução dentro do sistema. Claro que pra isso a gente já conheceu aí um pouco da tua operação pra poder ofertar um\n[LOCUTOR 62]: escopo,\n[LOCUTOR 45]: cima\n[LOCUTOR 9]: desse escopo a gente faz o levantamento de processos pra ver se tá tudo direitinho, conforme a... a motivação de implantar o sistema, se não tem mais nada que precise, caso precise, a gente pode pontuar isso, se precisa de algo a mais, a gente pontua isso nessa documentação, para que a gente tenha um escopo revisado do que vai ser implantado. E aí, com base nisso, a gente faz um cronograma de atividades e começa a configurar o sistema, após a configuração, vocês serão capacitados, depois teste unitário, teste\n[LOCUTOR 62]: integrado,\n[LOCUTOR 43]: aí, no ano de outubro,\n[LOCUTOR 9]: live.\n[LOCUTOR 62]: Hoje, da minha parte, seria mais o modo frota, armazenagem e a parte documental, tanto internacional... quanto nacional, e aí depois vai ter os outros modos, mas aí é com a [PESSOA] e a\n[LOCUTOR 41]: também.\n[LOCUTOR 62]: Mas da nossa parte seria isso, a gente tem que ver o que a gente vai falar para vocês, o que a gente precisa, e solicitar para vocês um sistema não simples, mas o mais prático possível. No dia a dia a gente tem muita pressão, a gente não quer um sistema que precise dar muita volta, A gente quer algo\n[LOCUTOR 9]: prático,\n[LOCUTOR 29]: algo\n[LOCUTOR 62]: gente consiga fazer com que a operação flua da maneira mais rápida possível. Quer\n[LOCUTOR 9]: falar,\n[LOCUTOR 60]: na verdade, a gente não quer perder, quer ampliar, né? Só as nossas agilidades e não deixar detê-las, que hoje um movimento que a gente tem é a integração direto com o Syscomax ou com o [EMPRESA]\n[LOCUTOR 51]: e isso\n[LOCUTOR 10]: estou numa tela onde tem um resuminho do scope, o\n[LOCUTOR 60]: macro scope,\n[LOCUTOR 18]: onde nós temos ali o módulo de faturamento, financeiro, estoque, os dashboards, o compras, o TMS e o manutenção de frotas. Na parte inferior, nós temos o TOTUS Transmit. O TOTUS Transmit é uma ferramenta que armazena documentos fiscais recebidos e\n[LOCUTOR 60]: emitidos.\n[LOCUTOR 18]: Uma vez\n[LOCUTOR 18]: bateu o CNPJ de vocês ou de qualquer filial no [LOCAL] ou das prefeituras homologadas, o Transmit faz o download automaticamente da nota de entrada e faz o upload de todas as notas fiscais geradas por vocês, sejam CTEs, notas de serviço, notas de produtos, para dentro do [LOCAL]. Aqui, nós temos um pouquinho\n[LOCUTOR 60]: levar muito tempo\n[LOCUTOR 18]: tá? Fala do módulo\n[LOCUTOR 9]: compras,\n[LOCUTOR 18]: todos os recursos do módulo\n[LOCUTOR 9]: compras,\n[LOCUTOR 18]: o módulo estoque, integração do módulo estoque com o módulo de manutenção para as peças de\n[LOCUTOR 9]: reposição,\n[LOCUTOR 18]: a parte de faturamento, ou seja, é o local onde a gente gera os documentos de saída, O financeiro, muito mais que gerenciar o [LOCAL] e\n[LOCUTOR 9]: apagar,\n[LOCUTOR 18]: aqui a gente est\n[LOCUTOR 38]: falando\n[LOCUTOR 18]: de gestão, fluxo de\n[LOCUTOR 51]: caixa,\n[LOCUTOR 18]: informação para tomada de\n[LOCUTOR 51]: decisão,\n[LOCUTOR 18]: classificação do [LOCAL] e apagar, gestão de frotas, e aí contempla a parte de configuração, configurações básicas. Nós temos os rodados, a oficina, o gerenciamento de suco de pneus, MULTAS! sinistros,\n[LOCUTOR 18]: a parte de gestão de transportes, que o nosso colega [PESSOA] é o nosso especialista aqui.\n[LOCUTOR 51]: [PESSOA], tu tens?\n[LOCUTOR 18]: Antes de passar a palavra, o que o [PESSOA] falou é exatamente essa tela aqui. A metodologia de implantação [EMPRESA], ela tem esses processos que ficam ali na direita. Então, no momento, logo após a assinatura do contrato, nós teremos um momento de planejamento da\n[LOCUTOR 9]: implantação,\n[LOCUTOR 18]: o kick-off, onde as equipes vão se apresentar, quem são os usuários-chave da TransMass e os analistas, o coordenador de projeto da [EMPRESA].\n[LOCUTOR 18]: vamos conversar com cada área e criar a [EMPRESA], que é a metodologia de implantação [EMPRESA], ou seja, as entrevistas e cada processo Cada área, trabalho, vai estar documentado na [EMPRESA]. Em seguida, começam os treinamentos, as configura\n[LOCUTOR 7]: iniciais,\n[LOCUTOR 18]: a capacitação de cadastro dos testes e,\n[LOCUTOR 9]: lá no\n[LOCUTOR 18]: final, a preparação da entrada em produção e a operação assistida. Esse material aqui é de vocês. A ideia é que vocês tenham\n[LOCUTOR 18]: como uma ferramenta de consulta também nessa fase\n[LOCUTOR 9]: comercial.\n[LOCUTOR 18]: Isso.\n[LOCUTOR 20]: vontade\n[LOCUTOR 18]: fazer algum tipo de pergunta.\n[LOCUTOR 62]: [PESSOA], além da integração com o Cisco MEC que você faz, os módulos, os módulos do sistema de vocês, eles se integram entre si, por exemplo, no sistema que a gente trabalha hoje, no módulo financeiro lá, se ela atualizar a quilometragem do caminhão, para mim, no módulo operacional, ela não atualiza, ou seja, precisa de duas pessoas para fazer a atualização de quilometragem do veículo. Lá no financeiro, se ela quiser fazer, um controle através da quilometragem, e no meu módulo operacional, se eu quiser fazer um controle de quilometragem para fazer manutenção. Ela alimenta o módulo dela e eu tenho que alimentar o meu também. Ou seja, tem duas pessoas alimentando a mesma informação\n[LOCUTOR 62]: sistema. Porque os módulos\n[LOCUTOR 31]: se conversam, eles não são integrados entre si. o sistema de vocês, se alguém atualiza a quilometragem do veículo X, vai atualizar para todo o sistema ou somente para o módulo que a pessoa opera\n[LOCUTOR 18]: lá? Esse exemplo é muito típico. A quilometragem vai estar só no módulo manutenção de frotas. E a partir dessa informação, todas as áreas que tiverem a necessidade de acessá-la, vão acessar em um único local. Certo? um sistema de gestão integrado, um ERP, ele só funciona quando tiver fluidez de\n[LOCUTOR 9]: processo.\n[LOCUTOR 18]: Se um ERP não tem essa fluidez, a gente\n[LOCUTOR 18]: perdendo tempo, retrabalhos, buscando informações desencontradas em dois locais. Então, respondendo objetivamente, terá um único local para ser lançado.\n[LOCUTOR 9]: A quilometragem é atualizada por importação de abastecimento, então toda vez que você abastece o veículo e é registrado manualmente pelo frentista, ele atualiza a quilometragem. Integrado com o TMS, você pode habilitar para numa saída de viagem, chegada de viagem, o motorista apontar o odômetro e atualizar o frotas também, né? Então tem alguns checkpoints que atualiza a quilometragem, ou direto no frota por abastecimento, ou quando você lança no TMS, ele também tem a opção de atualizar a quilometragem, caso queira dessa forma, entendeu? Vou abrir uma viagem e eu quero que ele atualize lá. ou, de repente, integrando com alguma tecnologia de rastreamento, onde vem o odômetro por posição GPS, que também tem a opção de atualizar o\n[LOCUTOR 2]: também.\n[LOCUTOR 62]: Eu acho que seria interessante integrar com o [EMPRESA]. Hoje os odômetros da nossa frota estão atualizados no [EMPRESA], e eles vão atualizando, então acho que seria interessante. Porque existem manutenções que eu não consigo controlar por tempo, e sim por\n[LOCUTOR 9]: quilometragem.\n[LOCUTOR 62]: E para que eu programe essa manutenção eu tenho que alimentar o sistema. Beleza, alimentei o sistema para daqui 120 mil quilômetros trocar um filtro. Mas o sistema vai ficar com aquela quilometragem que eu informei e ele não vai ir atualizando. Entende? A cada acerto de viagem É isso que eu me refiro, é isso\n[LOCUTOR 9]: que a gente precisa\n[LOCUTOR 9]: Abri uma viagem no TMS e a gente habilita a integração, ele vai atualizar o od\n[LOCUTOR 28]: lá. E aí eu não preciso me preocupar em cuidar a quilometragem no sistema. Uma vez informada, quando chegar próximo da quilometragem para trocar um filtro\n[LOCUTOR 62]: o sistema vai me avisar. Ele vai atualizando,\n[LOCUTOR 9]: então. Sim, sim. Você vai ter um plano de manutenção lá no [EMPRESA], que quando atingir aquela quilometragem ele vai disparar uma preventiva lá.\n[LOCUTOR 62]: Então tá, é isso que eu queria saber, se ele vai\n[LOCUTOR 9]: atualizando\n[LOCUTOR 62]: pra mim. Você comigo. Eu vou informar a quilometragem inicial dele\n[LOCUTOR 9]: próximo daquela\n[LOCUTOR 31]: achou de volta. Tá\n[LOCUTOR 9]: bom. Só uma coisa, você perguntou lá, gerencialmente carga e armazém, você tem um warehouse aí ou é só cross-dock mesmo?\n[LOCUTOR 9]: Você falou assim, é preciso de um controle de carga e armazém,\n[LOCUTOR 9]: Você vende posição pallet para cliente, você armazena a mercadoria dos seus clientes, e precisa controlar quanto tempo a mercadoria, ou não? É um cross, a mercadoria chega no armazém, ela fica um tempinho e já vai sendo\n[LOCUTOR 62]: entregue. Quase 100%, quase 100% das mercadorias nossas hoje, elas não ficam muito tempo\n[LOCUTOR 62]: piso.\n[LOCUTOR 9]: [LOCUTOR 1]: é cross\n[LOCUTOR 62]: mesmo. O único controle que a gente tem é de boxe.\n[LOCUTOR 8]: no momento que a gente começar a formular a carga fracionada, o pensamento é mantermos Obrigado.\n[LOCUTOR 9]: Mas o fracionado é o. Coletar mercadorias em clientes de vocês trazer para o armazém de vocês consolidar e levar para\n[LOCUTOR 9]: transferir para uma filial mais próxima do ponto de [LOCAL] e distribuir lá no final\n[LOCUTOR 29]: normal.\n[LOCUTOR 60]: quiser a gente\n[LOCUTOR 24]: Vamos seguir no escopo do jeito que está, até para não encher de informações, e a gente mantém assim, e no futuro, quando tiver o processo desenhado, a gente volta a falar nessa\n[LOCUTOR 9]: questão. É, se no processo de levantamento lá da [EMPRESA] já tiver, a gente pode avaliar e se contempla isso também ou\n[LOCUTOR 60]: não. É que foi algo apontado lá no início, porque hoje o sistema que a gente tem não comporta essa... esse tipo de carga. Então quando até algo que eu relatei na arquitetura, que nós gostaríamos já de implantar o fracionado para ter esse escopo.\n[LOCUTOR 24]: você\n[LOCUTOR 9]: fica com ele em relação a isso. dois modelos de carregamento, fracionado\n[LOCUTOR 9]: lotação,\n[LOCUTOR 15]: teria que redesenhar. É, só ver, no escopo, não sei se a gente colocou lá carga fracionada, né, [PESSOA]? A gente olha lá. Tá mutado o\n[LOCUTOR 60]: Isso.\n[LOCUTOR 9]: Então, dois pontos. carga fracionada\n[LOCUTOR 18]: no score,\n[LOCUTOR 9]: e a questão da integração com o Cisco MAX. É isso, né?\n[LOCUTOR 62]: Isso, a questão da integração, né, com o Cisco MAX e [LOCAL].\n[LOCUTOR 9]: [LOCAL], ok, né, a gente tem\n[LOCUTOR 62]: vários\n[LOCUTOR 9]: clientes no [LOCAL], então, ok, eu só vou olhar essa questão do Cisco MAX no transporte internacional para o time de produto, t\n[LOCUTOR 4]: bom? Isso, e que a gente consiga fazer dentro do sistema mesmo, durante a emissão do [EMPRESA], a transmissão. A gente não precisa, por exemplo, sair do sistema de vocês para fazer a transmissão através de outro meio.\n[LOCUTOR 9]: Eu sei que\n[LOCUTOR 62]: existem sistemas que, às vezes, não tem como\n[LOCUTOR 9]: fazer.\n[LOCUTOR 62]: Então, fica melhor para nós que seja tudo dentro do sistema. Estamos gerando o micDTA e, a partir de finalizar o micDTA dentro do sistema de vocês, ali a gente consiga fazer a transmissão para o Cisco MAX. Tá bom. E também a parte de carga ali no depósito, a parte de frota ali, que\n[LOCUTOR 9]: seja... A carga que está no depósito, a partir do momento que você registra um documento lá que recebeu essa mercadoria, o TMS já te mostra a mercadoria que está com\n[LOCUTOR 62]: você,\n[LOCUTOR 9]: que você já gerou [LOCAL] ou que você não gerou [LOCAL] ainda, e depois pode já montar uma viagem e consequentemente gerar o mic DTA que o MICDTA, ele faz, eu faço uma analogia com o manifesto nosso, né? [EMPRESA]. [EMPRESA], né? Então, o MICDTA, podemos dizer que é um manifesto internacional e o [EMPRESA], o\n[LOCUTOR 9]: é isso\n[LOCUTOR 62]: mesmo. Ambos precisam, ambos precisam da nota fiscal. Sim. Para serem\n[LOCUTOR 9]: transmitidos.\n[LOCUTOR 62]: Um nickname em todas as situações, mas aí tem um caso que eu quero perguntar para vocês, eu até hoje não vi nenhum sistema pronto\n[LOCUTOR 9]: para isso,\n[LOCUTOR 62]: que é a manifestação dos dados de embarque por\n[LOCUTOR 40]: e não por nota fiscal, ou seja, a manifestação dos dados de embarque eletronicamente, feita dentro de um sistema para o SystemX, utilizando a do e desembaraçada e\n[LOCUTOR 18]: nota.\n[LOCUTOR 9]: Isso é isso que eu\n[LOCUTOR 62]: coloquei\n[LOCUTOR 9]: lá. pareceu em outro cliente. Então é isso que eu vou checar com o produto pra te dar uma devolução,\n[LOCUTOR 18]: comércios.\n[LOCUTOR 62]: Ele é um manifesto amparado por dúvidas embaraçadas, somente por nota. Mas a gente não tem muitos aqui, é esporádico. Mas seria um diferencial no sistema que vocês... tá\n[LOCUTOR 9]: bom. Então, como é que seria por [EMPRESA] e por\n[LOCUTOR 62]: nota, né? Isso, por [EMPRESA] e por nota. Se não der por [EMPRESA], por nota nos atende também. Porque a transmissão por [EMPRESA] nossa aqui é muito pouca. Mas vocês com certeza terão clientes que têm uma demanda de DTA muito maior. De cargas que nacionalizam no interior do país e vão para\n[LOCUTOR 9]: Entendido.\n[LOCUTOR 9]: [PESSOA],\n[LOCUTOR 62]: de minha parte seria isso. Não sei se vocês têm alguma dúvida aí sobre o módulo de vocês, de RH, de...\n[LOCUTOR 62]: isso a\n[LOCUTOR 60]: gente já tinha estruturado. Na verdade,\n[LOCUTOR 50]: era mais de\n[LOCUTOR 62]: operacional. De minha parte, seria isso, Ulisses. É\n[LOCUTOR 6]: isso aí.\n[LOCUTOR 62]: Gostaria de ver o sistema. Gostaria de uma próxima reunião, a gente conseguir visualizar o sistema de vocês.\n[LOCUTOR 12]: uma simulação. Tem que agendar uma\n[LOCUTOR 62]: demonstração. Uma simulação de emissão de [LOCAL], de emissão de MIC e de um CTE. Inicialmente, para depois a gente migrar\n[LOCUTOR 6]: para\n[LOCUTOR 62]: armazenar uma carga em depósito. Alguma coisa referente à frota também. Eu sei que a frota é muita coisa, né? É muito detalhe. Então, inicialmente, a gente alinharia a parte operacional documental. Depois a gente migraria para a parte de frota, que é um módulo bem extenso, pelo que\n[LOCUTOR 62]: ali, com bastante detalhezinho. Eu acho que tem mais detalhes até do que a emissão do [EMPRESA]. Mas aí a gente conversaria depois, um treinamento específico para a frota.\n[LOCUTOR 51]: [LOCAL], [PESSOA]. A gente teve umas etapas anteriores e acho que a demonstração de gestão de frotas foi gravada. Vou procurar depois e\n[LOCUTOR 51]: encaminho ali. A gente teve uma agenda específica de gestão de frotas.\n[LOCUTOR 30]: gestão de frotas e o TMS também. Só que daí ainda assim eu ficava\n[LOCUTOR 60]: bastante\n[LOCUTOR 51]: dúvida na\n[LOCUTOR 60]: questão da gravação.\n[LOCUTOR 51]: Não, bem tranquilo. É só mais a mesma gravação da demonstração. Isso, bem\n[LOCUTOR 62]: tranquilo.\n[LOCUTOR 51]: Esse é o nosso objetivo da agenda. Não sei, [PESSOA], do escopo ali, tem mais algum detalhe, algum ponto? A gente vai ajustar agora, depois de encaminhar e de passar essas evolutivas, das outras questões, tranquilo. Questão de frota também, não sei se a gente pode compartilhar também com o [PESSOA] depois,\n[LOCUTOR 60]: compartilha\n[LOCUTOR 51]: ali do\n[LOCUTOR 51]: nós... [LOCAL].\n[LOCUTOR 60]: Essencial essa parte. A gente falou da questão logística ali do armazém, o que influencia a questão da portaria.\n[LOCUTOR 24]: consegui enxergar\n[LOCUTOR 62]: isso.\n[LOCUTOR 60]: De cargas agendadas, que hoje a gente tem\n[LOCUTOR 62]: esse\n[LOCUTOR 60]: escopo na nossa portaria.\n[LOCUTOR 51]: Isso,\n[LOCUTOR 51]: agendamento, a gente deixou, a gente teve as agendas, mas nós tínhamos deixado para uma segunda etapa de projeto.\n[LOCUTOR 51]: [LOCAL].\n[LOCUTOR 60]: Mas a gente pode\n[LOCUTOR 51]: botar depois\n[LOCUTOR 62]: dentro. Isso,\n[LOCUTOR 51]: exato. Mas a gente pode destacar isso também na apresentação, quando a gente for apresentar esse clube, a gente inclui também essa parte ali como segunda etapa e detalha esses\n[LOCUTOR 62]: processos também.\n[LOCUTOR 9]: agendamento, a gente\n[LOCUTOR 62]: tem o\n[LOCUTOR 9]: agendamento e o [EMPRESA],\n[LOCUTOR 62]: que é o controle\n[LOCUTOR 62]: portaria.\n[LOCUTOR 9]: Aí, se precisar colocar,\n[LOCUTOR 9]: o [PESSOA] e com o\n[LOCUTOR 11]: para\n[LOCUTOR 9]: a gente contemplar\n[LOCUTOR 6]: isso\n[LOCUTOR 18]: também. E ainda tem o módulo de\n[LOCUTOR 62]: checklist,\n[LOCUTOR 18]: que quando\n[LOCUTOR 51]: entram,\n[LOCUTOR 18]: um veículo sai, tem que cumprir alguns requisitos e aí tem um checklist mobile.\n[LOCUTOR 6]: integração?\n[LOCUTOR 18]: Não, são três recursos dentro da [EMPRESA]\n[LOCUTOR 22]: logística\n[LOCUTOR 18]: e faltam controle de pátios e portarias. Por exemplo,\n[LOCUTOR 18]: tenho cinco veículos esperando para entrar no meu\n[LOCUTOR 60]: eu só queria saber se em questão de enxugar e re-arquitetar na questão do investimento mesmo.\n[LOCUTOR 18]: Eu não sei como foi composto, [PESSOA], mas pelo que eu lembro, foi deixado para\n[LOCUTOR 18]: segundo investimento,\n[LOCUTOR 51]: né? Isso, uma segunda etapa.\n[LOCUTOR 24]: tá bom, da minha\n[LOCUTOR 62]: parte é isso.\n[LOCUTOR 18]: Fechou.\n[LOCUTOR 9]: incluindo o\n[LOCUTOR 51]: escopo. Tem esses itens aí que nós mapeamos.\n[LOCUTOR 62]: [LOCUTOR 47]: a você,\n[LOCUTOR 9]: [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:00.930578+00:00",
+    "total_linhas": 475,
+    "linhas_mantidas": 343,
+    "linhas_removidas": 132,
+    "percentual_mantido": 72.21,
+    "confianca_media": 0.4915
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 60]: Acho que estamos todos aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Deixa eu só remover",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: um...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Isso, eu só estou aguardando o [PESSOA] aí, só um minutinho. Ele está em outra agenda lá, ele faz parte. Se ele não entrar, depois a gente pode iniciar, depois ele entra na sequência aí. Só mais, vamos esperar mais uns dois minutinhos. Deixa eu só ver, vou chamar ele aqui e ver se ele vai conseguir entrar na sequência.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4244,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Olá, boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Boa tarde, [PESSOA]. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Que bom. Está tudo bem contigo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4137,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tudo bem também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Estamos todos, né, [PESSOA]? Podemos iniciar? Deixa eu ver o do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [LOCAL]. Não sei se tem mais alguém que vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.436,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: participar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: [PESSOA]? Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 59]: aqui. [LOCAL]. [PESSOA], fazendo uma breve apresentação, né? Então, a gente está com a equipe da [LOCAL]. Você já acompanhou, né? O [PESSOA] já te assinou referente ao projeto. A gente está com toda a equipe aqui hoje, a equipe da operação, o [PESSOA], o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: a [PESSOA] faz parte do RH e a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: [LOCUTOR 32]: também cuida toda a parte operacional. E aí, o objetivo é a gente tirar algumas dúvidas, algumas questões. A gente está no processo lá de apresentar o escopo agora para o [EMPRESA] e a proposta de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: investimento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: E aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: tem algumas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: questões pontuais aí que a gente gostaria de tirar algumas dúvidas, principalmente com foco ali. A [EMPRESA] tem um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5634,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: foco",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: grande ali na parte de transporte internacional e eles têm também um novo mercado agora que eles vão ter na sequência que é o... transporte fracionado. O objetivo é tirar essas dúvidas pontuais e contemplar tudo ali e fazer essa validação, tudo que eles necessitam está no nosso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: escopo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: de atuação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: né, [PESSOA]? Se vocês querem complementar algo aí, fiquem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4788,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 27]: vontade. Não, é isso aí. O intuito é a gente validar junto com a nossa operação para ver se nós não estamos perdendo alguma informação ou, de repente, estamos acrescentando algo que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: não é necessário. Então, essa validação, principalmente do [PESSOA], que tem mais propriedade para falar na questão do sistema, é muito importante nesse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: momento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Só a minha câmera, que eu não estou... Eu teria que sair e entrar de novo, não sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4374,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: o que aconteceu, mas...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Não, bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Boa tarde, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 14]: bem. Boa tarde. Como vão?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4052,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Tudo bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: revê-los. Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: bem, tranquilo. [PESSOA] e [PESSOA], fiquem à vontade. Vocês querem nos passar nos pontos, nas principais questões aí que vocês podem ser dessa forma?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Pode, podem ser sim, [PESSOA]. Pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4793,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ser sim. Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: É... Vamos lá, vamos começar com o tema dos CRTs. Como que é estruturado o sistema de vocês para a emissão de [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5658,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então, você pode digitar, tem uma tela lá no Proteus, onde você digita o número da fatura ou o número da nota fiscal, pode ser, e ele contém os campos obrigatórios para a legislação de transporte municipal, cada campo lá. E aí você gera o [LOCAL], e depois, posteriormente, gera uma viagem para a geração do MICDTA.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: A reunião de hoje não tem como vocês mostrarem para nós as telas, ou é uma reunião de alinhamento inicial somente?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5034,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: é o objetivo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [PESSOA], talvez isso, a gente pode ter na sequência,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5247,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: o objetivo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: é a gente validar esses pontos, ver",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: os",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: pontos, o que nós mapeamos, a gente teve uma agenda ali, se todos os pontos est",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5359,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: no escopo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Na sequência, esse é o principal objetivo, mas depois, se quiseres ver, a gente pode marcar uma agenda contigo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5354,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Mas é isso, só para a gente alinhar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: os pontos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: específicos dessas questões.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Aqueles campos do [LOCAL], o padrão da legislação do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: então ele vai lá, campo 1, eu não lembro agora, eu tenho que pegar aqui, mas acho que é o remetente da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4478,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: carga lá, então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: você já vai colocando lá e depois tem lá metade os incoterms,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: que é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: metade cifra, metade fove, em dólar. Então a tabela de frete no TMS Proteus,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5777,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: ela",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: trabalha com várias moedas, que é o padrão do Proteus. O Proteus trabalha com até 99",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5442,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: moedas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então a gente configura lá a moeda 1, que é dólar, você precifica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: em dólar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e aí já sai o [LOCAL] em dólar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: entendeu? Tá, na hora de gerar o mic DTA ali, a gente só digita o número do CNT, ele puxa as informações. Eu não conheço o sistema de vocês, pessoal. Eu só queria saber se é um sistema intuitivo, sabe? A gente não vai ter muita dificuldade de operar ele. Porque hoje, o que a gente precisa na operação? O analista, ele precisa de agilidade. Não vou nem perguntar, mas com certeza é integrado com o SystemX, o sistema de vocês, né? Esse negócio vocês não estariam nem oferecendo para nós. Também emitimos aqui a parte de documentação nacional, que é o [EMPRESA]. Então o sistema também tem que estar integrado com o CFAZ, né? E é basicamente isso. Eu achei que eu ia visualizar as telas aí, mas a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: gente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: de repente, numa outra ocasião, a gente agenda pra ver essas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: telas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: aí. Nós temos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: também... Então, só uma coisa que você comentou do Cisco Max, Nós temos o Cisco MAX, mas ele não é integrado com o TMS, tá bom? Hoje",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4747,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então, assim, o TMS ele suporta a legislação do [LOCAL]. Então, pela legislação do [LOCAL], você pode instalar ele em espanhol, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: pode ter uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5195,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: base lá em português ou espanhol. Tem a legislação do [LOCAL] no que tange a geração de [LOCAL], MICDTA",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: lá com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a carta de correção, enfim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: conforme",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a legislação do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: [LOCAL]. Mas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: transmite... Quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: você gerar o CTL, transmite para [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Agora, aí",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5387,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: pegar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: o... O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: MICDTA já está transmitindo lá para um órgão. Hoje ainda, não sei se já está transmitindo. Pelo que eu vi, até um cliente nosso que ia instalar, teria que entrar lá, digitar, e aí o parceiro lá de negócio, que fica lá na",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: doana,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: digitável e transmitível. Precisa ver com o produto se a transmissão já está automática, t",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5383,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: bom? O que a gente precisa hoje? Nós precisamos gerar o [LOCAL], o sistema, e depois de ter feito todos os cadastros de importador, exportador, plata, motorista, rota, enfim, precisamos gerar esse [LOCAL], com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: base",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: nesse [LOCAL], gerar o MIC DTA,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: esse MIC DTA ser transmitido para os seus comércios. É isso que a gente precisa hoje. E ser possível, ali dentro do módulo do [LOCAL], fazer a transmissão direta, sem que a gente precise sair do sistema ou baixar algum outro programa para fazer a transmissão. Existem sistemas que não têm essa funcionalidade dentro. Hoje a gente tem um sistema",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5785,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que tem. Entendi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: São",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: pequenos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: detalhes.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Deixa eu só pegar aqui um levantamento que eu fiz,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: só um minutinho,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: órgão",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: aqui que tinha que levantar. Só um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5017,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: minutinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Ah, é, realmente, era a integração com o CISEMEC para gerar o [EMPRESA] e o [EMPRESA], né? O [EMPRESA] e o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [EMPRESA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Tá, essa é a parte de despacho, né? Essa não é o nicho da [LOCAL]. tem que ter a integração com o Syscom X para a geração do mic eletrônico dentro do portal Syscom X. Mas com certeza deve ter o sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 33]: sistema deve ter isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Eu só queria",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: saber se",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: essa integração está dentro do sistema que vocês estão oferecendo, ou a gente tem que baixar algum programa para fazer a transmissão. Vou te dar um exemplo do [LOCAL]. O sistema [LOCAL] não transmite direto, não transmite dentro do [LOCAL]. Entendeu? A gente gera um mic dentro do [LOCAL], baixa um programa lá, e desse programa a gente faz a transmissão para os [EMPRESA]. É muita volta. É isso que a gente não quer, a gente quer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: praticidade,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: a gente quer agilidade na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5418,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: operação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: mas fica,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: viu?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: gente tem que entender bem como é esse desenho, essa arquitetura do processo na transmissão, ter certeza de como é feito, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá bom, eu vou ver com o time de produto, como eu falei, Essa questão da transmissão não tinha, foi pontuado por um outro cliente há tempos atrás, então provavelmente foi desenvolvido, eu só preciso ver como é que está para dar um retorno para vocês,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Esse seria o módulo documental, o módulo operacional. Nós também temos módulos aqui de controle de carga e depósito, não sei se o sistema que vocês oferecem isso. Temos um módulo de controle de frota, Até depois eu queria ver com vocês o que o módulo, se existe esse módulo, o que ele entrega para nós. Hoje a gente está criando, está formatando o controle de trota aqui, e eu preciso de um sistema muito prático. Vou te dar um exemplo. Hoje o controle de pneus nosso, ele é cheio de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: volta,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: entendeu? Ele não é nada usual, você tem que cadastrar uma coisa, essa coisa é ligada a outra, e para fazer um movimento de pneus entre caminhões aqui é muito difícil, é muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5195,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: moroso. N",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: estou brincando. A gente precisa de praticidade, de uma coisa intuitiva, uma coisa fácil de mexer, para que a gente consiga passar para um colega rapidamente como funciona, algo que não trave. Enfim, eu acho que vocês têm aí o módulo operacional quase pronto, E eu queria ver com vocês como que é o módulo frota, o controle de caminhões. Se existe esse módulo, como que ele funciona. Para isso a gente precisaria de uma visualização do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: O [PESSOA] levantou a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: mão. Me permite passar um vídeo de dois minutos aqui do módulo frota? Legal? Vamos lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Lá, neste vídeo, vamos acompanhar as principais funcionalidades do sistema [EMPRESA], [LOCAL]. Na gestão de oficina, a rotina de programação de ordem de serviço permite a distribuição da carga de trabalho de acordo com a disponibilidade da equipe. Ainda, a solução é integrada nativamente ao aplicativo Minha Manutenção de Ativos, [LOCAL], proporcionando maior mobilidade na gestão de solicitações e ordens de serviço. Na gestão de pneus, por sua vez, a rotina de calibragem e medição de sulco permite o registro de informações para monitoramento da vida útil de cada pneu. Outro destaque na gestão de pneus é a rotina de esquema de rodados, que possibilita a consulta de cada pneu alocado no veículo, assim como a realização de movimentações e rodígios. Já em abastecimentos, é possível uma gestão completa desde postos internos como externos. além da integração com os principais convênios, como Repon, [EMPRESA], EçoCard, GoodCard, Ticket ou Excel VF. Com o controle de portaria por meio do checklist de entrada e saída, é possível monitorar o tráfego de veículos, buscando impedir que eles trafeguem com manutenções importantes pendentes ou em atraso, documentos vencidos, seja do veículo ou do motorista. Além disso, é possível gerenciar multas, sinistros e documentos de forma integrada ao TOTUS RH [LOCAL] e ao módulo financeiro do TOTUS Back Office, [LOCAL]. Contando ainda com os indicadores gráficos que permitem uma ampla visão gerencial de toda a frota em busca de resultados positivos. Gostou? Acesse o nosso site e saiba mais! Eu vou",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: colar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 18]: chat",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: link",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: do nosso portal oficial do m",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: gestão de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: frota.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Ali, além do vídeo, tem informações de rotinas, de vários processos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: possui esse módulo. Peço que vocês copiem antes da gente fechar a reunião, senão depois a gente não consegue mais buscar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4612,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ali.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [PESSOA], conseguiu ter uma visão do módulo? Sei que é muito pequenininho, né, o videozinho,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5795,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: dá para ter uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5506,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: abrangência, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Sim, sim, sim. Não, deu para ouvir, a gente já precisaria de um treinamento para a gente se aprofundar bem, saber mexer no sistema, usar as ferramentas que o sistema tem, né, [PESSOA], a nosso favor. No começo é meio chato, tem que cadastrar tudo, tem que... aprender a mexer,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4837,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: mas depois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: gente enfrenta, fica bem melhor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [PESSOA], uma troca de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: sistema,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: ela não é fácil não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Quem disser que é fácil para vocês vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5129,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: estar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: não digo mentindo, mas omitindo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: verdade. A gente sabe que esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: momento",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [LOCAL], vocês têm o dia",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4215,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: dia e toda uma carga de treinamentos. Porém, a [EMPRESA] é uma empresa que tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5289,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: know-how",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: suficiente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: dar os treinamentos, mostrar as boas práticas de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5783,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: mercado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Quando a gente começar o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: projeto,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: junto com vocês, nós vamos montar um cronograma, onde a disponibilidade de vocês que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5112,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: valer no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: cronograma.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Não adianta a gente dizer, nós vamos trabalhar terça, quarta e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: quinta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Vocês têm todo o dia-a-dia ainda que vai precisar de muita dedicação, né? Então, é quatro mãos o cronograma quando a gente for montar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Sim, sim. Módulo a módulo a gente vai ter que ir incorporando, né? Mas hoje o que seria o principal mesmo assim seria a parte documental da exportação. Enquanto ainda é em",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: outro...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Aí impõe nos comércios trânsitos, um dia vai mudar para outros comércios. Sim, sim. Uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4216,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: coisa importante, [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: nesta reunião nós temos três níveis dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5319,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: O [PESSOA], que representa o time comercial, eu represento o time de engenharia de valores, e o [PESSOA] representa o time de entrega. Então, o time do [PESSOA] que vai fazer as capacitações, vai montar o cronograma, o time dele vai apresentar o coordenador de projetos junto com um coordenador eleito pela TransMass. Toda a equipe da [EMPRESA] está representada aqui hoje.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Então o [PESSOA] vai meio que desenhar, vai adequar o sistema conforme nossas necessidades aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: é isso? Sim, nós temos uma metodologia de implantação que tem documentos, ela chama [EMPRESA], metodologia de implantação [EMPRESA]. E um dos primeiros documentos, né, a gente faz o kick-off e depois a gente tem a especificação de processos. Aí nós vamos fazer reuniões com vocês, entender o processo, especificar o processo de vocês e dar a solução dentro do sistema. Claro que pra isso a gente já conheceu aí um pouco da tua operação pra poder ofertar um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: escopo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 45]: cima",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: desse escopo a gente faz o levantamento de processos pra ver se tá tudo direitinho, conforme a... a motivação de implantar o sistema, se não tem mais nada que precise, caso precise, a gente pode pontuar isso, se precisa de algo a mais, a gente pontua isso nessa documentação, para que a gente tenha um escopo revisado do que vai ser implantado. E aí, com base nisso, a gente faz um cronograma de atividades e começa a configurar o sistema, após a configuração, vocês serão capacitados, depois teste unitário, teste",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: integrado,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 43]: aí, no ano de outubro,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5648,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: go",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: live.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Hoje, da minha parte, seria mais o modo frota, armazenagem e a parte documental, tanto internacional... quanto nacional, e aí depois vai ter os outros modos, mas aí é com a [PESSOA] e a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 41]: também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Mas da nossa parte seria isso, a gente tem que ver o que a gente vai falar para vocês, o que a gente precisa, e solicitar para vocês um sistema não simples, mas o mais prático possível. No dia a dia a gente tem muita pressão, a gente não quer um sistema que precise dar muita volta, A gente quer algo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4921,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: prático,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: algo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: gente consiga fazer com que a operação flua da maneira mais rápida possível. Quer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: falar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [LOCAL]? Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: na verdade, a gente não quer perder, quer ampliar, né? Só as nossas agilidades e não deixar detê-las, que hoje um movimento que a gente tem é a integração direto com o Syscomax ou com o [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: e isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: não pode ficar...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: estou numa tela onde tem um resuminho do scope, o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5055,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: macro scope,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: onde nós temos ali o módulo de faturamento, financeiro, estoque, os dashboards, o compras, o TMS e o manutenção de frotas. Na parte inferior, nós temos o TOTUS Transmit. O TOTUS Transmit é uma ferramenta que armazena documentos fiscais recebidos e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: emitidos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Uma vez",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: bateu o CNPJ de vocês ou de qualquer filial no [LOCAL] ou das prefeituras homologadas, o Transmit faz o download automaticamente da nota de entrada e faz o upload de todas as notas fiscais geradas por vocês, sejam CTEs, notas de serviço, notas de produtos, para dentro do [LOCAL]. Aqui, nós temos um pouquinho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5904,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: cada módulo, um resumo de cada módulo. Eu não vou ler todo, senão a gente vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4556,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: levar muito tempo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: aqui, mas a gente, não sei se vocês têm, mas caso não tenha, eu mando o material para",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4277,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: vocês,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: tá? Fala do módulo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5833,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: compras,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: todos os recursos do módulo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5833,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: compras,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: o módulo estoque, integração do módulo estoque com o módulo de manutenção para as peças de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: reposição,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: a parte de faturamento, ou seja, é o local onde a gente gera os documentos de saída, O financeiro, muito mais que gerenciar o [LOCAL] e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: apagar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: aqui a gente est",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: falando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: de gestão, fluxo de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: caixa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: informação para tomada de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: decisão,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: classificação do [LOCAL] e apagar, gestão de frotas, e aí contempla a parte de configuração, configurações básicas. Nós temos os rodados, a oficina, o gerenciamento de suco de pneus, MULTAS! sinistros,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: a parte de gestão de transportes, que o nosso colega [PESSOA] é o nosso especialista aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5743,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [PESSOA], tu tens?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Antes de passar a palavra, o que o [PESSOA] falou é exatamente essa tela aqui. A metodologia de implantação [EMPRESA], ela tem esses processos que ficam ali na direita. Então, no momento, logo após a assinatura do contrato, nós teremos um momento de planejamento da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: implantação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: o kick-off, onde as equipes vão se apresentar, quem são os usuários-chave da TransMass e os analistas, o coordenador de projeto da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Nós",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: vamos conversar com cada área e criar a [EMPRESA], que é a metodologia de implantação [EMPRESA], ou seja, as entrevistas e cada processo Cada área, trabalho, vai estar documentado na [EMPRESA]. Em seguida, começam os treinamentos, as configura",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: iniciais,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: a capacitação de cadastro dos testes e,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: lá no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: final, a preparação da entrada em produção e a operação assistida. Esse material aqui é de vocês. A ideia é que vocês tenham",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: como uma ferramenta de consulta também nessa fase",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5145,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: comercial.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5355,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: vontade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: fazer algum tipo de pergunta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: [PESSOA], além da integração com o Cisco MEC que você faz, os módulos, os módulos do sistema de vocês, eles se integram entre si, por exemplo, no sistema que a gente trabalha hoje, no módulo financeiro lá, se ela atualizar a quilometragem do caminhão, para mim, no módulo operacional, ela não atualiza, ou seja, precisa de duas pessoas para fazer a atualização de quilometragem do veículo. Lá no financeiro, se ela quiser fazer, um controle através da quilometragem, e no meu módulo operacional, se eu quiser fazer um controle de quilometragem para fazer manutenção. Ela alimenta o módulo dela e eu tenho que alimentar o meu também. Ou seja, tem duas pessoas alimentando a mesma informação",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: sistema. Porque os módulos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5417,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: se conversam, eles não são integrados entre si. o sistema de vocês, se alguém atualiza a quilometragem do veículo X, vai atualizar para todo o sistema ou somente para o módulo que a pessoa opera",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5782,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: lá? Esse exemplo é muito típico. A quilometragem vai estar só no módulo manutenção de frotas. E a partir dessa informação, todas as áreas que tiverem a necessidade de acessá-la, vão acessar em um único local. Certo? um sistema de gestão integrado, um ERP, ele só funciona quando tiver fluidez de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: processo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Se um ERP não tem essa fluidez, a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: está",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: perdendo tempo, retrabalhos, buscando informações desencontradas em dois locais. Então, respondendo objetivamente, terá um único local para ser lançado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A quilometragem é atualizada por importação de abastecimento, então toda vez que você abastece o veículo e é registrado manualmente pelo frentista, ele atualiza a quilometragem. Integrado com o TMS, você pode habilitar para numa saída de viagem, chegada de viagem, o motorista apontar o odômetro e atualizar o frotas também, né? Então tem alguns checkpoints que atualiza a quilometragem, ou direto no frota por abastecimento, ou quando você lança no TMS, ele também tem a opção de atualizar a quilometragem, caso queira dessa forma, entendeu? Vou abrir uma viagem e eu quero que ele atualize lá. ou, de repente, integrando com alguma tecnologia de rastreamento, onde vem o odômetro por posição GPS, que também tem a opção de atualizar o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Eu acho que seria interessante integrar com o [EMPRESA]. Hoje os odômetros da nossa frota estão atualizados no [EMPRESA], e eles vão atualizando, então acho que seria interessante. Porque existem manutenções que eu não consigo controlar por tempo, e sim por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: quilometragem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: E para que eu programe essa manutenção eu tenho que alimentar o sistema. Beleza, alimentei o sistema para daqui 120 mil quilômetros trocar um filtro. Mas o sistema vai ficar com aquela quilometragem que eu informei e ele não vai ir atualizando. Entende? A cada acerto de viagem É isso que eu me refiro, é isso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que a gente precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: abrir. Não, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Abri uma viagem no TMS e a gente habilita a integração, ele vai atualizar o od",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: lá. E aí eu não preciso me preocupar em cuidar a quilometragem no sistema. Uma vez informada, quando chegar próximo da quilometragem para trocar um filtro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: lá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: o sistema vai me avisar. Ele vai atualizando,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4743,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: então. Sim, sim. Você vai ter um plano de manutenção lá no [EMPRESA], que quando atingir aquela quilometragem ele vai disparar uma preventiva lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4841,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Então tá, é isso que eu queria saber, se ele vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4962,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: atualizando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: pra mim. Você comigo. Eu vou informar a quilometragem inicial dele",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: aí eu vou esperar, vou aliviar minha mente. e vou esperar que o sistema me avise quando estiver",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4234,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: próximo daquela",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: eu n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: achou de volta. Tá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: bom. Só uma coisa, você perguntou lá, gerencialmente carga e armazém, você tem um warehouse aí ou é só cross-dock mesmo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Traduza, por favor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4444,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Você falou assim, é preciso de um controle de carga e armazém,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Você vende posição pallet para cliente, você armazena a mercadoria dos seus clientes, e precisa controlar quanto tempo a mercadoria, ou não? É um cross, a mercadoria chega no armazém, ela fica um tempinho e já vai sendo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: entregue. Quase 100%, quase 100% das mercadorias nossas hoje, elas não ficam muito tempo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: em",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: piso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCUTOR 1]: é cross",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5085,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: mesmo. O único controle que a gente tem é de boxe.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: no momento que a gente começar a formular a carga fracionada, o pensamento é mantermos Obrigado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Mas o fracionado é o. Coletar mercadorias em clientes de vocês trazer para o armazém de vocês consolidar e levar para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: transferir para uma filial mais próxima do ponto de [LOCAL] e distribuir lá no final",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5812,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: normal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então tá bom. A gente pode até já que tem isso considerar no escopo. Hoje não está previsto mas se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4275,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: quiser a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ent",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Vamos seguir no escopo do jeito que está, até para não encher de informações, e a gente mantém assim, e no futuro, quando tiver o processo desenhado, a gente volta a falar nessa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: questão. É, se no processo de levantamento lá da [EMPRESA] já tiver, a gente pode avaliar e se contempla isso também ou",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: não. É que foi algo apontado lá no início, porque hoje o sistema que a gente tem não comporta essa... esse tipo de carga. Então quando até algo que eu relatei na arquitetura, que nós gostaríamos já de implantar o fracionado para ter esse escopo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5041,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Entendi. Tá bom. Mas o TMS atende tanto o [LOCAL], que é o cargo fracionado, como o FTL, que é o cargo fechado. Ent",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4258,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: fica com ele em relação a isso. dois modelos de carregamento, fracionado",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: lotação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 15]: teria que redesenhar. É, só ver, no escopo, não sei se a gente colocou lá carga fracionada, né, [PESSOA]? A gente olha lá. Tá mutado o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4787,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: teu voadro. Vamos olhar, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Isso, tá bom. Então, [PESSOA], pelo jeito, então, é melhor já contemplar já, né? [PESSOA] fracionada e durante o levantamento a gente já vê isso. É melhor?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então, dois pontos. carga fracionada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: no score,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e a questão da integração com o Cisco MAX. É isso, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Isso, a questão da integração, né, com o Cisco MAX e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL], ok, né, a gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: vários",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: clientes no [LOCAL], então, ok, eu só vou olhar essa questão do Cisco MAX no transporte internacional para o time de produto, t",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: bom? Isso, e que a gente consiga fazer dentro do sistema mesmo, durante a emissão do [EMPRESA], a transmissão. A gente não precisa, por exemplo, sair do sistema de vocês para fazer a transmissão através de outro meio.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5809,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Eu sei que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: existem sistemas que, às vezes, não tem como",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4726,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: fazer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Então, fica melhor para nós que seja tudo dentro do sistema. Estamos gerando o micDTA e, a partir de finalizar o micDTA dentro do sistema de vocês, ali a gente consiga fazer a transmissão para o Cisco MAX. Tá bom. E também a parte de carga ali no depósito, a parte de frota ali, que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5903,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: seja... A carga que está no depósito, a partir do momento que você registra um documento lá que recebeu essa mercadoria, o TMS já te mostra a mercadoria que está com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: você,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que você já gerou [LOCAL] ou que você não gerou [LOCAL] ainda, e depois pode já montar uma viagem e consequentemente gerar o mic DTA que o MICDTA, ele faz, eu faço uma analogia com o manifesto nosso, né? [EMPRESA]. [EMPRESA], né? Então, o MICDTA, podemos dizer que é um manifesto internacional e o [EMPRESA], o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5076,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: manifesto nacional. Isso, é isso aí. Tá bom? É, é um pouco mais, não é tão simples, mas é isso,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3764,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: é isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: mesmo. Ambos precisam, ambos precisam da nota fiscal. Sim. Para serem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: transmitidos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Um nickname em todas as situações, mas aí tem um caso que eu quero perguntar para vocês, eu até hoje não vi nenhum sistema pronto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4601,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: para isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: que é a manifestação dos dados de embarque por",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 40]: e não por nota fiscal, ou seja, a manifestação dos dados de embarque eletronicamente, feita dentro de um sistema para o SystemX, utilizando a do e desembaraçada e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: não a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: nota.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Isso é isso que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: coloquei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: lá. pareceu em outro cliente. Então é isso que eu vou checar com o produto pra te dar uma devolução,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: tá bom? Até hoje eu não conheço. Eu já trabalhei com um monte, eu trabalhei numa empresa lá que a gente tinha vários sistemas e nenhum conseguia fazer isso. Nenhum conseguia fazer a transmissão pra esses",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4325,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: comércios.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Ele é um manifesto amparado por dúvidas embaraçadas, somente por nota. Mas a gente não tem muitos aqui, é esporádico. Mas seria um diferencial no sistema que vocês... tá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4745,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: bom. Então, como é que seria por [EMPRESA] e por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4792,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: nota, né? Isso, por [EMPRESA] e por nota. Se não der por [EMPRESA], por nota nos atende também. Porque a transmissão por [EMPRESA] nossa aqui é muito pouca. Mas vocês com certeza terão clientes que têm uma demanda de DTA muito maior. De cargas que nacionalizam no interior do país e vão para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: fora. Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Entendido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: de minha parte seria isso. Não sei se vocês têm alguma dúvida aí sobre o módulo de vocês, de RH, de...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 62]: isso a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: gente já tinha estruturado. Na verdade,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a d",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 50]: era mais de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: operacional. De minha parte, seria isso, Ulisses. É",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Gostaria de ver o sistema. Gostaria de uma próxima reunião, a gente conseguir visualizar o sistema de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5718,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 12]: uma simulação. Tem que agendar uma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: demonstração. Uma simulação de emissão de [LOCAL], de emissão de MIC e de um CTE. Inicialmente, para depois a gente migrar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: armazenar uma carga em depósito. Alguma coisa referente à frota também. Eu sei que a frota é muita coisa, né? É muito detalhe. Então, inicialmente, a gente alinharia a parte operacional documental. Depois a gente migraria para a parte de frota, que é um módulo bem extenso, pelo que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: eu vi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: ali, com bastante detalhezinho. Eu acho que tem mais detalhes até do que a emissão do [EMPRESA]. Mas aí a gente conversaria depois, um treinamento específico para a frota.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5359,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [LOCAL], [PESSOA]. A gente teve umas etapas anteriores e acho que a demonstração de gestão de frotas foi gravada. Vou procurar depois e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: te",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: encaminho ali. A gente teve uma agenda específica de gestão de frotas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: gestão de frotas e o TMS também. Só que daí ainda assim eu ficava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: bastante",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: dúvida na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: questão da gravação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Não, bem tranquilo. É só mais a mesma gravação da demonstração. Isso, bem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Esse é o nosso objetivo da agenda. Não sei, [PESSOA], do escopo ali, tem mais algum detalhe, algum ponto? A gente vai ajustar agora, depois de encaminhar e de passar essas evolutivas, das outras questões, tranquilo. Questão de frota também, não sei se a gente pode compartilhar também com o [PESSOA] depois,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5136,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: compartilha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: ali do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: nós... [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Essencial essa parte. A gente falou da questão logística ali do armazém, o que influencia a questão da portaria.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Eu n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: consegui enxergar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: De cargas agendadas, que hoje a gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5151,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: escopo na nossa portaria.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: agendamento, a gente deixou, a gente teve as agendas, mas nós tínhamos deixado para uma segunda etapa de projeto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5942,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 60]: tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Mas a gente pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: botar depois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: ali",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: dentro. Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: exato. Mas a gente pode destacar isso também na apresentação, quando a gente for apresentar esse clube, a gente inclui também essa parte ali como segunda etapa e detalha esses",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: processos também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: agendamento, a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: tem o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: agendamento e o [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: que é o controle",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 62]: portaria.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Aí, se precisar colocar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: o [PESSOA] e com o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a gente contemplar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: também. E ainda tem o módulo de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5705,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: checklist,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: que quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: entram,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: um veículo sai, tem que cumprir alguns requisitos e aí tem um checklist mobile.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Mas aí o checklist seria mais uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.454,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: integração?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Não, são três recursos dentro da [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4819,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: logística",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: e faltam controle de pátios e portarias. Por exemplo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5554,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: tenho cinco veículos esperando para entrar no meu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: estabelecimento. Não, a gente já faz isso,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: eu só queria saber se em questão de enxugar e re-arquitetar na questão do investimento mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5815,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Eu não sei como foi composto, [PESSOA], mas pelo que eu lembro, foi deixado para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4627,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: segundo investimento,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: né? Isso, uma segunda etapa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Ent",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: tá bom, da minha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4684,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: parte é isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Fechou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Obrigado, pessoal. [LOCAL]. Obrigado, pessoal. A gente verifica aqui e passa esse retorno para vocês aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3763,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: incluindo o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: escopo. Tem esses itens aí que nós mapeamos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: Obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 51]: pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: [LOCUTOR 47]: a você,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 42]: tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Deixa eu só remover aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    }
+  ]
+}

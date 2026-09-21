@@ -1,0 +1,817 @@
+{
+  "id_reuniao": "1100792",
+  "codt": "271037",
+  "data_reuniao": "2026-02-19 16:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 1]: Como\n[LOCUTOR 6]: é que estamos pessoal? \n[LOCUTOR 3]: certinho?\n[LOCUTOR 1]: 100%.\n[LOCUTOR 16]: Falam\n[LOCUTOR 6]: aí de [LOCAL]?\n[LOCUTOR 1]: [EMPRESA]. \n[LOCUTOR 13]: sou de [LOCAL], mas é isso. Tá do ladinho, né?\n[LOCUTOR 6]: Ah, do lado, do lado, não sou problema. A gente tem os colegas, a gente tem a nossa unidade aí de [LOCAL], né? De vez em quando a gente briga, né? Que brinca, na verdade, que tem o pessoal de [PESSOA] aí da guerra, tem [PESSOA] e [LOCAL].\n[LOCUTOR 1]: Não,\n[LOCUTOR 6]: eu tô tranquilo. Que maravilha, pessoal. Eu fico na unidade de [LOCAL], né? A gente tem um atendimento regionalizado. Não sei se vocês já conhecem a [EMPRESA], já ouviram falar daí, hein?\n[LOCUTOR 16]: Sim,\n[LOCUTOR 6]: sim,\n[LOCUTOR 1]: claro.\n[LOCUTOR 6]: De onde é que vocês conhecem a gente?\n[LOCUTOR 1]: Na verdade,\n[LOCUTOR 16]: não é essa\n[LOCUTOR 1]: a questão. Da região, enfim, das mídias externas, dos clientes que a gente atende, que, enfim, vocês têm uma gama grande aí de clientes que atendem.\n[LOCUTOR 6]: Sim, bastante, né? Pô, que legal, que legal. E eu li um pouco aquilo aqui. [PESSOA], na verdade, tudo que a [PESSOA] mandou aqui, né, de vocês. Eu te confesso que eu tirei algumas dúvidas. Eu fiquei meio... Pô, mas o quê que... Eu quero entender com o pessoal, né? Pelo que eu vi aqui, no que a [PESSOA] escreveu, está escrito possessão manufatura. Mas eu vi que ela botou algumas dúvidas aqui de varejo. Então, assim, deixa eu falar com o cliente. Deixa eu ver o que o pessoal tá buscando aí.\n[LOCUTOR 16]: Acho\n[LOCUTOR 1]: que eu quero\n[LOCUTOR 16]: dar um contexto\n[LOCUTOR 1]: melhor aí.\n[LOCUTOR 6]: É,\n[LOCUTOR 16]: exato, [PESSOA]. Eu vou chegar aí. É que, na verdade, pra eu chegar até você, eu acho que eu passei por umas 5 pessoas. Foi bem desgastante, assim, mas tudo certo. Não,\n[LOCUTOR 6]: fica comigo. Vamos\n[LOCUTOR 16]: lá.\n[LOCUTOR 6]: [LOCUTOR 2]: o início, a minha ideia é assim, a gente tem um parceiro ali que a gente tá querendo fazer um projeto bacana e ele usa hoje o [EMPRESA], tá? O\n[LOCUTOR 16]: que eu queria, basicamente, é se tivesse algum documento ou até um auxílio seu, enfim, na questão de integração, porque eles usam o [EMPRESA] hoje, pelo que ele me passou, só pra enviar boletos pros clientes deles.\n[LOCUTOR 6]: Tá, qual é o\n[LOCUTOR 16]: cliente? É... [LOCAL].\n[LOCUTOR 6]: Não\n[LOCUTOR 16]: me\n[LOCUTOR 6]: peça se é\n[LOCUTOR 16]: do [EMPRESA], eu não sei qual\n[LOCUTOR 6]: que... Não, não, não, é [LOCAL].\n[LOCUTOR 16]: [LOCAL]. [LOCAL].\n[LOCUTOR 6]: Eles são de qual cidade?\n[LOCUTOR 16]: [LOCAL], se não me falhar a memória.\n[LOCUTOR 6]: Ah, tá, não, porque eu falei, bom, não tá na lista\n[LOCUTOR 16]: aqui de\n[LOCUTOR 6]: clientes. Uai, já me assustei já. Não, mas tá aqui.\n[LOCUTOR 16]: Pelo que ele me falou, eles usam só pra prender boletos. E hoje ele faz tudo manual. Daí pra gente\n[LOCUTOR 6]: poder\n[LOCUTOR 16]: fazer o site com integração desses boletos, porque daí vai ter uma parte ali pra encaminhar boletos. A ideia é isso. Só que precisa saber as formas de integração. Só que daí eu trouxe o [PESSOA] aí pra me ajudar, que daí tem um pouco mais de conhecimento técnico pra poder desenvolver melhor essa conversa.\n[LOCUTOR 6]: A música a música o que vocês fazem para me entender o [EMPRESA].\n[LOCUTOR 16]: Na verdade é zoom é só porque daí o registro é música. Mas ao contrário, é EZoom,\n[LOCUTOR 6]: a gente\n[LOCUTOR 16]: desenvolve soluções digitais para os clientes. Sites, aplicativos, soluções com IA, plataformas internas, enfim. \n[LOCUTOR 4]: uma\n[LOCUTOR 16]: variedade de bem grande desenvolvimento aí.\n[LOCUTOR 6]: E aí vocês estão fazendo um projeto para uma empresa que usa o [PESSOA], que é essa do bom, isso?\n[LOCUTOR 16]: Isso, exatamente.\n[LOCUTOR 1]: Cumprimentando o que o [PESSOA] comentou. Enfim, a gente já está aí no mercado faz 25 anos. Enfim, esse caso foi um dos que nos procurou. A gente está orçando e está em processo de orçamentação ainda. E a necessidade do cliente é justamente preciso criar um sistema que integre com o meu e eu consiga visualizar os boletos desse cliente, por exemplo. Enfim, eu sou um dos sócios da [PESSOA] ali. A gente já tem uma noção das possibilidades, mas sempre precisamos confirmar com o parceiro o sistema, por exemplo, se ele tem, de fato, as portas abertas para alguma integração, se é VIPI, se é acesso direto a banco de dados, entender, de fato, o sistema ao qual a gente está pisando e integrando.\n[LOCUTOR 6]: É, o que acontece, assim, eu posso ajudar vocês nesse processo, que é o que eu entendo, vocês querem entender como é que se comporta o entorno para fazer as integrações ali, é isso?\n[LOCUTOR 1]: Exatamente, exatamente, se existe alguma documentação, algum direcionamento inicial, não precisaríamos entrar no detalhe desse cliente, de\n[LOCUTOR 6]: criar\n[LOCUTOR 1]: chaves, tokens, nada disso nesse momento, mas, por exemplo, só um ok da parte de vocês e uma mínima documentação, caso exista.\n[LOCUTOR 6]: Só reforçando aqui para... Na verdade, o que eu vou fazer para ajudar vocês aqui? Como eu sou do comercial, isso não está aí dentro da minha alçada, mas eu conheço o pessoal, então eu vou ajudar vocês aqui. O que a\n[LOCUTOR 1]: gente vai\n[LOCUTOR 6]: fazer? Eu vou falar com o pessoal de produto do Intorq, para ver se eles já têm uma documentação. Só para mim, eu explicando para o pessoal o objetivo. Sei que vocês já falaram, mas eu gostaria de deixar mais claro ainda para eles, caso eles me perguntem. Qual é o objetivo dessa integração? Vamos lá, eu vou escrever aqui. Podem falar novamente?\n[LOCUTOR 16]: O objetivo é integrar esse sistema de boletos que ele tem ao site para poder fazer os envios aos seus clientes de forma mais automatizada,\n[LOCUTOR 6]: direto\n[LOCUTOR 16]: pelo site.\n[LOCUTOR 1]: Eu entendo que não seria o envio em si, mas, por exemplo, a identificação dos clientes, de alguma forma, ele conseguir se logar, se identificar na nossa plataforma e, a partir disso, a gente vê quais e quantos boletos ele tem\n[LOCUTOR 6]: e,\n[LOCUTOR 1]: ao mesmo tempo, visualizar esses boletos.\n[LOCUTOR 6]: É tipo assim, eu compro o dado bom, o cliente dado bom, vocês estão fazendo o site ali, eu vou entrar no site e vou botar o meu CNPJ e vou ter acesso aos meus boletos ali, é basicamente\n[LOCUTOR 1]: isso.\n[LOCUTOR 6]: Você tem que se integrar com o entorpe que o entorpe faz a emissão, obviamente.\n[LOCUTOR 1]: Exatamente.\n[LOCUTOR 6]: A\n[LOCUTOR 1]: gente sabe que agora tem alguns sistemas que geram já o próprio PDF, como os boletos eles são registrados. Enfim, tem diferentes situações aí que a gente tem que entender como é que o sistema funciona hoje e ver a melhor forma de integrar. É basicamente isso.\n[LOCUTOR 6]: Não, não, super tranquilo. Vamos fazer o seguinte. Deixa eu chamar ele aqui. [PESSOA]. Eu acho que o [PESSOA] pode nos ajudar. O [PESSOA] é do time de produto do [LOCAL], tá? Então, eu vou fazer o seguinte, eu vou ligar pra ele. Eu tenho um celular aqui que é o teu, [PESSOA]. Posso falar contigo? Tu quer falar com o\n[LOCUTOR 16]: [PESSOA]?\n[LOCUTOR 6]: Como é que\n[LOCUTOR 16]: vocês preferem?\n[LOCUTOR 6]: Pode,\n[LOCUTOR 16]: pode. Pode falar comigo ali direto, sem problema nenhum.\n[LOCUTOR 6]: Tá, eu\n[LOCUTOR 16]: vou fazer\n[LOCUTOR 6]: o seguinte. Eu vou ligar pro [EMPRESA], vou dizer, ô [EMPRESA], tem uma empresa que é a [PESSOA], eles estão fazendo site pra um cliente nosso chamado do RON, lá de [LOCAL]. Eles são do [LOCAL], por isso que eles entraram em contato comigo. Eles estão fazendo site, eles querem fazer uma integração com o [PESSOA] pra poder, o cliente, quando acessar o site, poder ver se tem boletim aberto, boletos atrasados, etc. Eu vou fazer isso. Mas tranquilo, daí provavelmente o [EMPRESA] vai direcionar ou vai pedir pra falar com vocês, daí eu passo o número dele e o [EMPRESA] é do time de produtos,\n[LOCUTOR 16]: de\n[LOCUTOR 6]: desenvolver\n[LOCUTOR 16]: de\n[LOCUTOR 6]: produtos, né? Então ele vai se direcionar de uma forma mais efetiva.\n[LOCUTOR 1]: Eu mandei meu e-mail aqui também, se você quiser mandar algum material, algum contato por e-mail, aí também fica à disposição.\n[LOCUTOR 6]: Vou mandar aqui pro [PESSOA] pra me salvar, tá?\n[LOCUTOR 16]: Mas,\n[LOCUTOR 6]: assim, no mais é isso. Faço direcionamento, né? E até aproveitando, vocês trabalham exclusivamente com marketing digital. Como é que funciona o posicionamento da EZoom aí em [LOCAL]?\n[LOCUTOR 1]: O principal foco nosso é justamente o desenvolvimento de soluções personalizadas, um handmade, assim, e voltado a soluções web mesmo. Então, sites, aplicativos,\n[LOCUTOR 16]: como o\n[LOCUTOR 1]: [PESSOA] bem comentou aí. sistemas internos que resolvam alguma dor ou integrem alguma outra ferramenta dos clientes. A gente atende aí grandes pontas nacionais que é a PVB, [PESSOA] desde 2011, [PESSOA], [EMPRESA], a gente fez alguns projetos. Enfim, tem clientes locais grandes e os próprios multinacionais também que a gente hoje atende.\n[LOCUTOR 16]: Pô,\n[LOCUTOR 6]: que legal. Você falou que estão muitos anos no mercado, então já traz aí uma retaguarda forte, né? sabem que a [EMPRESA] tem um programa de parcerias, né? Então vocês tendo aí um CNPJ, daqui a pouco a gente poderia pensar nisso? Não sei se você já tem alguma parceria com alguma empresa de [EMPRESA] ou algo assim?\n[LOCUTOR 1]: Pode dizer que não, tá? Se você quiser me mandar mais informações aí por e-mail até pra avaliar, eu te agradeço.\n[LOCUTOR 6]: Pode ser. Hoje vocês ficam em [LOCAL], correto? A sede,\n[LOCUTOR 1]: né? Sim. A gente tá com, na verdade, o trabalho mais remoto mesmo, a gente não... Não tá com uma sede física desde a\n[LOCUTOR 6]: pandemia\n[LOCUTOR 1]: e a gente acabou mudando um pouco o formato.\n[LOCUTOR 6]: Sim. O que que eu ia te dizer? Hoje chega muita empresa pra vocês procurando e-commerce. Procurando pro e-commerce provavelmente sim, né?\n[LOCUTOR 1]: E-commerce sim.\n[LOCUTOR 6]: A gente tem algumas plataformas nossas, né? Vocês chegam a criar o e-commerce ou vocês Não,\n[LOCUTOR 1]: a gente deixou de criar do zero. Normalmente a gente implanta ou bag ou loja integrada, shopify, enfim, essas plataformas de mercado.\n[LOCUTOR 6]: Mas\n[LOCUTOR 1]: não é o nosso forte hoje o e-commerce. Justamente\n[LOCUTOR 6]: por\n[LOCUTOR 1]: experiências negativas no passado que a gente já teve.\n[LOCUTOR 6]: É, a gente hoje tem uma parceria forte com a [EMPRESA], né? Que é o principal e-commerce que a Totos vende. Então, pra nós faz mais sentido ser um parceiro [EMPRESA]. E também a gente tem uma outra solução específica pro segmento de distribuição, que é o [LOCAL], né? Então, ele é um e-commerce voltado pro segmento de distribuição. Então, quando a gente pensa em Totos, assim, a gente acaba... O pessoal\n[LOCUTOR 1]: pensa\n[LOCUTOR 6]: muito em [EMPRESA], o [EMPRESA], a [LOCAL], né? Que é realmente um dos produtos destacados da companhia. Mas a companhia tem mais de 500 produtos.\n[LOCUTOR 1]: Então,\n[LOCUTOR 6]: por exemplo, o [EMPRESA], todo o ecossistema [EMPRESA], desde o [PESSOA] até o CRM, o Mark, é da [EMPRESA] também, né? Então, se vocês quisessem ser parceiros [EMPRESA], vocês poderiam, inclusive, indicar esses produtos e vocês ganhariam um comissionamento em cima também. Então, devem chegar muita empresa procurando [EMPRESA], procurando e-commerce, procurando alguns produtos, né? Vocês poderiam costurar isso aí.\n[LOCUTOR 1]: Com certeza, com certeza. E manda mais informações aí que\n[LOCUTOR 6]: a gente\n[LOCUTOR 1]: troca mais umas segurinhas aí.\n[LOCUTOR 6]: Boa, se o [PESSOA] puder depois compartilhar o teu contato aí, [PESSOA].\n[LOCUTOR 16]: Aí\n[LOCUTOR 6]: a gente depois também alinha isso.\n[LOCUTOR 16]: Daí eu também te\n[LOCUTOR 6]: mando mais informações aí.\n[LOCUTOR 1]: \n[LOCUTOR 3]: bom. Pessoal,\n[LOCUTOR 6]: deixa comigo que eu vou dar um toque no [EMPRESA] ali pra ver se ele dá um apoio pra vocês. Ou se ele manda a documentação pra vocês fazerem a integração, né? \n[LOCUTOR 14]: se ele\n[LOCUTOR 6]: troca uma ideia com vocês e ajuda tudo, tá bom?\n[LOCUTOR 16]: Combinado então, [PESSOA]. Combinado.\n[LOCUTOR 6]: Pessoal,\n[LOCUTOR 1]: dão umas ordens\n[LOCUTOR 6]: aí.\n[LOCUTOR 16]: Fechou então, valeu [PESSOA], até\n[LOCUTOR 6]: mais.",
+  "texto_filtrado": "[LOCUTOR 3]: certinho?\n[LOCUTOR 1]: 100%.\n[LOCUTOR 16]: Falam\n[LOCUTOR 6]: aí de [LOCAL]?\n[LOCUTOR 1]: [EMPRESA].\n[LOCUTOR 13]: sou de [LOCAL], mas é isso. Tá do ladinho, né?\n[LOCUTOR 6]: Ah, do lado, do lado, não sou problema. A gente tem os colegas, a gente tem a nossa unidade aí de [LOCAL], né? De vez em quando a gente briga, né? Que brinca, na verdade, que tem o pessoal de [PESSOA] aí da guerra, tem [PESSOA] e [LOCAL].\n[LOCUTOR 6]: eu tô tranquilo. Que maravilha, pessoal. Eu fico na unidade de [LOCAL], né? A gente tem um atendimento regionalizado. Não sei se vocês já conhecem a [EMPRESA], já ouviram falar daí, hein?\n[LOCUTOR 1]: claro.\n[LOCUTOR 6]: De onde é que vocês conhecem a gente?\n[LOCUTOR 1]: Na verdade,\n[LOCUTOR 1]: a questão. Da região, enfim, das mídias externas, dos clientes que a gente atende, que, enfim, vocês têm uma gama grande aí de clientes que atendem.\n[LOCUTOR 6]: Sim, bastante, né? Pô, que legal, que legal. E eu li um pouco aquilo aqui. [PESSOA], na verdade, tudo que a [PESSOA] mandou aqui, né, de vocês. Eu te confesso que eu tirei algumas dúvidas. Eu fiquei meio... Pô, mas o quê que... Eu quero entender com o pessoal, né? Pelo que eu vi aqui, no que a [PESSOA] escreveu, está escrito possessão manufatura. Mas eu vi que ela botou algumas dúvidas aqui de varejo. Então, assim, deixa eu falar com o cliente. Deixa eu ver o que o pessoal tá buscando aí.\n[LOCUTOR 16]: Acho\n[LOCUTOR 1]: que eu quero\n[LOCUTOR 16]: dar um contexto\n[LOCUTOR 1]: melhor aí.\n[LOCUTOR 6]: fica comigo. Vamos\n[LOCUTOR 6]: [LOCUTOR 2]: o início, a minha ideia é assim, a gente tem um parceiro ali que a gente tá querendo fazer um projeto bacana e ele usa hoje o [EMPRESA], tá? O\n[LOCUTOR 16]: que eu queria, basicamente, é se tivesse algum documento ou até um auxílio seu, enfim, na questão de integração, porque eles usam o [EMPRESA] hoje, pelo que ele me passou, só pra enviar boletos pros clientes deles.\n[LOCUTOR 6]: Tá, qual é o\n[LOCUTOR 16]: cliente? É... [LOCAL].\n[LOCUTOR 6]: peça se é\n[LOCUTOR 16]: do [EMPRESA], eu não sei qual\n[LOCUTOR 16]: [LOCAL]. [LOCAL].\n[LOCUTOR 6]: Eles são de qual cidade?\n[LOCUTOR 16]: aqui de\n[LOCUTOR 6]: clientes. Uai, já me assustei já. Não, mas tá aqui.\n[LOCUTOR 6]: poder\n[LOCUTOR 16]: fazer o site com integração desses boletos, porque daí vai ter uma parte ali pra encaminhar boletos. A ideia é isso. Só que precisa saber as formas de integração. Só que daí eu trouxe o [PESSOA] aí pra me ajudar, que daí tem um pouco mais de conhecimento técnico pra poder desenvolver melhor essa conversa.\n[LOCUTOR 6]: A música a música o que vocês fazem para me entender o [EMPRESA].\n[LOCUTOR 16]: Na verdade é zoom é só porque daí o registro é música. Mas ao contrário, é EZoom,\n[LOCUTOR 6]: a gente\n[LOCUTOR 16]: desenvolve soluções digitais para os clientes. Sites, aplicativos, soluções com IA, plataformas internas, enfim.\n[LOCUTOR 16]: variedade de bem grande desenvolvimento aí.\n[LOCUTOR 6]: E aí vocês estão fazendo um projeto para uma empresa que usa o [PESSOA], que é essa do bom, isso?\n[LOCUTOR 16]: Isso, exatamente.\n[LOCUTOR 1]: Cumprimentando o que o [PESSOA] comentou. Enfim, a gente já está aí no mercado faz 25 anos. Enfim, esse caso foi um dos que nos procurou. A gente está orçando e está em processo de orçamentação ainda. E a necessidade do cliente é justamente preciso criar um sistema que integre com o meu e eu consiga visualizar os boletos desse cliente, por exemplo. Enfim, eu sou um dos sócios da [PESSOA] ali. A gente já tem uma noção das possibilidades, mas sempre precisamos confirmar com o parceiro o sistema, por exemplo, se ele tem, de fato, as portas abertas para alguma integração, se é VIPI, se é acesso direto a banco de dados, entender, de fato, o sistema ao qual a gente está pisando e integrando.\n[LOCUTOR 6]: É, o que acontece, assim, eu posso ajudar vocês nesse processo, que é o que eu entendo, vocês querem entender como é que se comporta o entorno para fazer as integrações ali, é isso?\n[LOCUTOR 1]: Exatamente, exatamente, se existe alguma documentação, algum direcionamento inicial, não precisaríamos entrar no detalhe desse cliente, de\n[LOCUTOR 6]: criar\n[LOCUTOR 1]: chaves, tokens, nada disso nesse momento, mas, por exemplo, só um ok da parte de vocês e uma mínima documentação, caso exista.\n[LOCUTOR 1]: gente vai\n[LOCUTOR 6]: fazer? Eu vou falar com o pessoal de produto do Intorq, para ver se eles já têm uma documentação. Só para mim, eu explicando para o pessoal o objetivo. Sei que vocês já falaram, mas eu gostaria de deixar mais claro ainda para eles, caso eles me perguntem. Qual é o objetivo dessa integração? Vamos lá, eu vou escrever aqui. Podem falar novamente?\n[LOCUTOR 16]: O objetivo é integrar esse sistema de boletos que ele tem ao site para poder fazer os envios aos seus clientes de forma mais automatizada,\n[LOCUTOR 6]: direto\n[LOCUTOR 16]: pelo site.\n[LOCUTOR 1]: Eu entendo que não seria o envio em si, mas, por exemplo, a identificação dos clientes, de alguma forma, ele conseguir se logar, se identificar na nossa plataforma e, a partir disso, a gente vê quais e quantos boletos ele tem\n[LOCUTOR 1]: ao mesmo tempo, visualizar esses boletos.\n[LOCUTOR 6]: É tipo assim, eu compro o dado bom, o cliente dado bom, vocês estão fazendo o site ali, eu vou entrar no site e vou botar o meu CNPJ e vou ter acesso aos meus boletos ali, é basicamente\n[LOCUTOR 1]: isso.\n[LOCUTOR 6]: Você tem que se integrar com o entorpe que o entorpe faz a emissão, obviamente.\n[LOCUTOR 1]: Exatamente.\n[LOCUTOR 1]: gente sabe que agora tem alguns sistemas que geram já o próprio PDF, como os boletos eles são registrados. Enfim, tem diferentes situações aí que a gente tem que entender como é que o sistema funciona hoje e ver a melhor forma de integrar. É basicamente isso.\n[LOCUTOR 6]: Não, não, super tranquilo. Vamos fazer o seguinte. Deixa eu chamar ele aqui. [PESSOA]. Eu acho que o [PESSOA] pode nos ajudar. O [PESSOA] é do time de produto do [LOCAL], tá? Então, eu vou fazer o seguinte, eu vou ligar pra ele. Eu tenho um celular aqui que é o teu, [PESSOA]. Posso falar contigo? Tu quer falar com o\n[LOCUTOR 16]: [PESSOA]?\n[LOCUTOR 6]: Como é que\n[LOCUTOR 6]: Pode,\n[LOCUTOR 16]: pode. Pode falar comigo ali direto, sem problema nenhum.\n[LOCUTOR 6]: o seguinte. Eu vou ligar pro [EMPRESA], vou dizer, ô [EMPRESA], tem uma empresa que é a [PESSOA], eles estão fazendo site pra um cliente nosso chamado do RON, lá de [LOCAL]. Eles são do [LOCAL], por isso que eles entraram em contato comigo. Eles estão fazendo site, eles querem fazer uma integração com o [PESSOA] pra poder, o cliente, quando acessar o site, poder ver se tem boletim aberto, boletos atrasados, etc. Eu vou fazer isso. Mas tranquilo, daí provavelmente o [EMPRESA] vai direcionar ou vai pedir pra falar com vocês, daí eu passo o número dele e o [EMPRESA] é do time de produtos,\n[LOCUTOR 6]: desenvolver\n[LOCUTOR 6]: produtos, né? Então ele vai se direcionar de uma forma mais efetiva.\n[LOCUTOR 1]: Eu mandei meu e-mail aqui também, se você quiser mandar algum material, algum contato por e-mail, aí também fica à disposição.\n[LOCUTOR 6]: assim, no mais é isso. Faço direcionamento, né? E até aproveitando, vocês trabalham exclusivamente com marketing digital. Como é que funciona o posicionamento da EZoom aí em [LOCAL]?\n[LOCUTOR 1]: O principal foco nosso é justamente o desenvolvimento de soluções personalizadas, um handmade, assim, e voltado a soluções web mesmo. Então, sites, aplicativos,\n[LOCUTOR 1]: [PESSOA] bem comentou aí. sistemas internos que resolvam alguma dor ou integrem alguma outra ferramenta dos clientes. A gente atende aí grandes pontas nacionais que é a PVB, [PESSOA] desde 2011, [PESSOA], [EMPRESA], a gente fez alguns projetos. Enfim, tem clientes locais grandes e os próprios multinacionais também que a gente hoje atende.\n[LOCUTOR 6]: que legal. Você falou que estão muitos anos no mercado, então já traz aí uma retaguarda forte, né? sabem que a [EMPRESA] tem um programa de parcerias, né? Então vocês tendo aí um CNPJ, daqui a pouco a gente poderia pensar nisso? Não sei se você já tem alguma parceria com alguma empresa de [EMPRESA] ou algo assim?\n[LOCUTOR 1]: Pode dizer que não, tá? Se você quiser me mandar mais informações aí por e-mail até pra avaliar, eu te agradeço.\n[LOCUTOR 6]: Pode ser. Hoje vocês ficam em [LOCAL], correto? A sede,\n[LOCUTOR 6]: pandemia\n[LOCUTOR 1]: e a gente acabou mudando um pouco o formato.\n[LOCUTOR 6]: A gente tem algumas plataformas nossas, né? Vocês chegam a criar o e-commerce ou vocês Não,\n[LOCUTOR 1]: a gente deixou de criar do zero. Normalmente a gente implanta ou bag ou loja integrada, shopify, enfim, essas plataformas de mercado.\n[LOCUTOR 1]: experiências negativas no passado que a gente já teve.\n[LOCUTOR 6]: É, a gente hoje tem uma parceria forte com a [EMPRESA], né? Que é o principal e-commerce que a Totos vende. Então, pra nós faz mais sentido ser um parceiro [EMPRESA]. E também a gente tem uma outra solução específica pro segmento de distribuição, que é o [LOCAL], né? Então, ele é um e-commerce voltado pro segmento de distribuição. Então, quando a gente pensa em Totos, assim, a gente acaba... O pessoal\n[LOCUTOR 1]: pensa\n[LOCUTOR 6]: muito em [EMPRESA], o [EMPRESA], a [LOCAL], né? Que é realmente um dos produtos destacados da companhia. Mas a companhia tem mais de 500 produtos.\n[LOCUTOR 1]: Então,\n[LOCUTOR 6]: por exemplo, o [EMPRESA], todo o ecossistema [EMPRESA], desde o [PESSOA] até o CRM, o Mark, é da [EMPRESA] também, né? Então, se vocês quisessem ser parceiros [EMPRESA], vocês poderiam, inclusive, indicar esses produtos e vocês ganhariam um comissionamento em cima também. Então, devem chegar muita empresa procurando [EMPRESA], procurando e-commerce, procurando alguns produtos, né? Vocês poderiam costurar isso aí.\n[LOCUTOR 1]: Com certeza, com certeza. E manda mais informações aí que\n[LOCUTOR 6]: a gente\n[LOCUTOR 6]: a gente depois também alinha isso.\n[LOCUTOR 6]: mando mais informações aí.\n[LOCUTOR 6]: deixa comigo que eu vou dar um toque no [EMPRESA] ali pra ver se ele dá um apoio pra vocês. Ou se ele manda a documentação pra vocês fazerem a integração, né?\n[LOCUTOR 14]: se ele\n[LOCUTOR 16]: Combinado então, [PESSOA]. Combinado.\n[LOCUTOR 1]: dão umas ordens",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:14.230843+00:00",
+    "total_linhas": 132,
+    "linhas_mantidas": 87,
+    "linhas_removidas": 45,
+    "percentual_mantido": 65.91,
+    "confianca_media": 0.4765
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: Como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: é que estamos pessoal?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4381,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: certinho?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: 100%.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Falam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: aí de [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: sou de [LOCAL], mas é isso. Tá do ladinho, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6317,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Ah, do lado, do lado, não sou problema. A gente tem os colegas, a gente tem a nossa unidade aí de [LOCAL], né? De vez em quando a gente briga, né? Que brinca, na verdade, que tem o pessoal de [PESSOA] aí da guerra, tem [PESSOA] e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: eu tô tranquilo. Que maravilha, pessoal. Eu fico na unidade de [LOCAL], né? A gente tem um atendimento regionalizado. Não sei se vocês já conhecem a [EMPRESA], já ouviram falar daí, hein?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4701,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: claro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: De onde é que vocês conhecem a gente?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5202,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Na verdade,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: não é essa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: a questão. Da região, enfim, das mídias externas, dos clientes que a gente atende, que, enfim, vocês têm uma gama grande aí de clientes que atendem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Sim, bastante, né? Pô, que legal, que legal. E eu li um pouco aquilo aqui. [PESSOA], na verdade, tudo que a [PESSOA] mandou aqui, né, de vocês. Eu te confesso que eu tirei algumas dúvidas. Eu fiquei meio... Pô, mas o quê que... Eu quero entender com o pessoal, né? Pelo que eu vi aqui, no que a [PESSOA] escreveu, está escrito possessão manufatura. Mas eu vi que ela botou algumas dúvidas aqui de varejo. Então, assim, deixa eu falar com o cliente. Deixa eu ver o que o pessoal tá buscando aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: que eu quero",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: dar um contexto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: melhor aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 16]: exato, [PESSOA]. Eu vou chegar aí. É que, na verdade, pra eu chegar até você, eu acho que eu passei por umas 5 pessoas. Foi bem desgastante, assim, mas tudo certo. Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4018,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: fica comigo. Vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCUTOR 2]: o início, a minha ideia é assim, a gente tem um parceiro ali que a gente tá querendo fazer um projeto bacana e ele usa hoje o [EMPRESA], tá? O",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4838,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: que eu queria, basicamente, é se tivesse algum documento ou até um auxílio seu, enfim, na questão de integração, porque eles usam o [EMPRESA] hoje, pelo que ele me passou, só pra enviar boletos pros clientes deles.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tá, qual é o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: cliente? É... [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 16]: me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: peça se é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: do [EMPRESA], eu não sei qual",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4803,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que... Não, não, não, é [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [LOCAL]. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Eles são de qual cidade?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [LOCAL], se não me falhar a memória.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4099,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Ah, tá, não, porque eu falei, bom, não tá na lista",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: aqui de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: clientes. Uai, já me assustei já. Não, mas tá aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Pelo que ele me falou, eles usam só pra prender boletos. E hoje ele faz tudo manual. Daí pra gente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4274,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: poder",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: fazer o site com integração desses boletos, porque daí vai ter uma parte ali pra encaminhar boletos. A ideia é isso. Só que precisa saber as formas de integração. Só que daí eu trouxe o [PESSOA] aí pra me ajudar, que daí tem um pouco mais de conhecimento técnico pra poder desenvolver melhor essa conversa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: A música a música o que vocês fazem para me entender o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4951,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Na verdade é zoom é só porque daí o registro é música. Mas ao contrário, é EZoom,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: desenvolve soluções digitais para os clientes. Sites, aplicativos, soluções com IA, plataformas internas, enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: variedade de bem grande desenvolvimento aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: E aí vocês estão fazendo um projeto para uma empresa que usa o [PESSOA], que é essa do bom, isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5029,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Isso, exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Cumprimentando o que o [PESSOA] comentou. Enfim, a gente já está aí no mercado faz 25 anos. Enfim, esse caso foi um dos que nos procurou. A gente está orçando e está em processo de orçamentação ainda. E a necessidade do cliente é justamente preciso criar um sistema que integre com o meu e eu consiga visualizar os boletos desse cliente, por exemplo. Enfim, eu sou um dos sócios da [PESSOA] ali. A gente já tem uma noção das possibilidades, mas sempre precisamos confirmar com o parceiro o sistema, por exemplo, se ele tem, de fato, as portas abertas para alguma integração, se é VIPI, se é acesso direto a banco de dados, entender, de fato, o sistema ao qual a gente está pisando e integrando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É, o que acontece, assim, eu posso ajudar vocês nesse processo, que é o que eu entendo, vocês querem entender como é que se comporta o entorno para fazer as integrações ali, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Exatamente, exatamente, se existe alguma documentação, algum direcionamento inicial, não precisaríamos entrar no detalhe desse cliente, de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: criar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: chaves, tokens, nada disso nesse momento, mas, por exemplo, só um ok da parte de vocês e uma mínima documentação, caso exista.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Só reforçando aqui para... Na verdade, o que eu vou fazer para ajudar vocês aqui? Como eu sou do comercial, isso não está aí dentro da minha alçada, mas eu conheço o pessoal, então eu vou ajudar vocês aqui. O que a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4455,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: fazer? Eu vou falar com o pessoal de produto do Intorq, para ver se eles já têm uma documentação. Só para mim, eu explicando para o pessoal o objetivo. Sei que vocês já falaram, mas eu gostaria de deixar mais claro ainda para eles, caso eles me perguntem. Qual é o objetivo dessa integração? Vamos lá, eu vou escrever aqui. Podem falar novamente?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: O objetivo é integrar esse sistema de boletos que ele tem ao site para poder fazer os envios aos seus clientes de forma mais automatizada,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: direto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: pelo site.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu entendo que não seria o envio em si, mas, por exemplo, a identificação dos clientes, de alguma forma, ele conseguir se logar, se identificar na nossa plataforma e, a partir disso, a gente vê quais e quantos boletos ele tem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: e,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ao mesmo tempo, visualizar esses boletos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É tipo assim, eu compro o dado bom, o cliente dado bom, vocês estão fazendo o site ali, eu vou entrar no site e vou botar o meu CNPJ e vou ter acesso aos meus boletos ali, é basicamente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Você tem que se integrar com o entorpe que o entorpe faz a emissão, obviamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5592,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: gente sabe que agora tem alguns sistemas que geram já o próprio PDF, como os boletos eles são registrados. Enfim, tem diferentes situações aí que a gente tem que entender como é que o sistema funciona hoje e ver a melhor forma de integrar. É basicamente isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Não, não, super tranquilo. Vamos fazer o seguinte. Deixa eu chamar ele aqui. [PESSOA]. Eu acho que o [PESSOA] pode nos ajudar. O [PESSOA] é do time de produto do [LOCAL], tá? Então, eu vou fazer o seguinte, eu vou ligar pra ele. Eu tenho um celular aqui que é o teu, [PESSOA]. Posso falar contigo? Tu quer falar com o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4767,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Como é que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: vocês preferem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Pode,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: pode. Pode falar comigo ali direto, sem problema nenhum.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tá, eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: vou fazer",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: o seguinte. Eu vou ligar pro [EMPRESA], vou dizer, ô [EMPRESA], tem uma empresa que é a [PESSOA], eles estão fazendo site pra um cliente nosso chamado do RON, lá de [LOCAL]. Eles são do [LOCAL], por isso que eles entraram em contato comigo. Eles estão fazendo site, eles querem fazer uma integração com o [PESSOA] pra poder, o cliente, quando acessar o site, poder ver se tem boletim aberto, boletos atrasados, etc. Eu vou fazer isso. Mas tranquilo, daí provavelmente o [EMPRESA] vai direcionar ou vai pedir pra falar com vocês, daí eu passo o número dele e o [EMPRESA] é do time de produtos,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: desenvolver",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: produtos, né? Então ele vai se direcionar de uma forma mais efetiva.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu mandei meu e-mail aqui também, se você quiser mandar algum material, algum contato por e-mail, aí também fica à disposição.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4682,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Vou mandar aqui pro [PESSOA] pra me salvar, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3868,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Mas,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: assim, no mais é isso. Faço direcionamento, né? E até aproveitando, vocês trabalham exclusivamente com marketing digital. Como é que funciona o posicionamento da EZoom aí em [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4828,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O principal foco nosso é justamente o desenvolvimento de soluções personalizadas, um handmade, assim, e voltado a soluções web mesmo. Então, sites, aplicativos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: como o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA] bem comentou aí. sistemas internos que resolvam alguma dor ou integrem alguma outra ferramenta dos clientes. A gente atende aí grandes pontas nacionais que é a PVB, [PESSOA] desde 2011, [PESSOA], [EMPRESA], a gente fez alguns projetos. Enfim, tem clientes locais grandes e os próprios multinacionais também que a gente hoje atende.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Pô,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que legal. Você falou que estão muitos anos no mercado, então já traz aí uma retaguarda forte, né? sabem que a [EMPRESA] tem um programa de parcerias, né? Então vocês tendo aí um CNPJ, daqui a pouco a gente poderia pensar nisso? Não sei se você já tem alguma parceria com alguma empresa de [EMPRESA] ou algo assim?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode dizer que não, tá? Se você quiser me mandar mais informações aí por e-mail até pra avaliar, eu te agradeço.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Pode ser. Hoje vocês ficam em [LOCAL], correto? A sede,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4969,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: né? Sim. A gente tá com, na verdade, o trabalho mais remoto mesmo, a gente não... Não tá com uma sede física desde a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4195,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: pandemia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: e a gente acabou mudando um pouco o formato.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Sim. O que que eu ia te dizer? Hoje chega muita empresa pra vocês procurando e-commerce. Procurando pro e-commerce provavelmente sim, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4224,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: E-commerce sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: A gente tem algumas plataformas nossas, né? Vocês chegam a criar o e-commerce ou vocês Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: a gente deixou de criar do zero. Normalmente a gente implanta ou bag ou loja integrada, shopify, enfim, essas plataformas de mercado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: não é o nosso forte hoje o e-commerce. Justamente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3883,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: experiências negativas no passado que a gente já teve.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É, a gente hoje tem uma parceria forte com a [EMPRESA], né? Que é o principal e-commerce que a Totos vende. Então, pra nós faz mais sentido ser um parceiro [EMPRESA]. E também a gente tem uma outra solução específica pro segmento de distribuição, que é o [LOCAL], né? Então, ele é um e-commerce voltado pro segmento de distribuição. Então, quando a gente pensa em Totos, assim, a gente acaba... O pessoal",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5283,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: pensa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: muito em [EMPRESA], o [EMPRESA], a [LOCAL], né? Que é realmente um dos produtos destacados da companhia. Mas a companhia tem mais de 500 produtos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5411,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: por exemplo, o [EMPRESA], todo o ecossistema [EMPRESA], desde o [PESSOA] até o CRM, o Mark, é da [EMPRESA] também, né? Então, se vocês quisessem ser parceiros [EMPRESA], vocês poderiam, inclusive, indicar esses produtos e vocês ganhariam um comissionamento em cima também. Então, devem chegar muita empresa procurando [EMPRESA], procurando e-commerce, procurando alguns produtos, né? Vocês poderiam costurar isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Com certeza, com certeza. E manda mais informações aí que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: troca mais umas segurinhas aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Boa, se o [PESSOA] puder depois compartilhar o teu contato aí, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4555,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a gente depois também alinha isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Daí eu também te",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: mando mais informações aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 3]: bom. Pessoal,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3804,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: deixa comigo que eu vou dar um toque no [EMPRESA] ali pra ver se ele dá um apoio pra vocês. Ou se ele manda a documentação pra vocês fazerem a integração, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: se ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: troca uma ideia com vocês e ajuda tudo, tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4532,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Combinado então, [PESSOA]. Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Pessoal,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: dão umas ordens",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Fechou então, valeu [PESSOA], até",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    }
+  ]
+}

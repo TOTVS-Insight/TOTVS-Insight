@@ -1,0 +1,217 @@
+{
+  "id_reuniao": "1075618",
+  "codt": "DBJR19",
+  "data_reuniao": "2026-02-13 08:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 4]: Bom dia.\n[LOCUTOR 5]: Bom dia, [PESSOA], tudo bem?\n[LOCUTOR 4]: Tudo, e você?\n[LOCUTOR 5]: Tudo jóia. Deixa eu fechar minha janela, o sol dá uma... Fechar a cortina. Dá reflexo. Ontem conversei com o [PESSOA].\n[LOCUTOR 4]: [LOCUTOR 2]: aí ele fez o zapato dele também. Eu imaginei.\n[LOCUTOR 5]: Mas ele entendeu. Eu acho que foi bem transparente assim. Foi necessário, sabe?\n[LOCUTOR 4]: Ele é compreensivo. Às vezes a gente falta um pouquinho. uma boa postura ali diante das meninas, mas ele é\n[LOCUTOR 5]: f\n[LOCUTOR 3]: de trabalhar com ele.\n[LOCUTOR 5]: É fácil, é fácil, acho que agora é só, falta um pouquinho, eu disse pra ele, falta um pouquinho, agora ok, a gente entende\n[LOCUTOR 4]: o\n[LOCUTOR 5]: passado, mas vamos olhar pra frente, né, pra\n[LOCUTOR 4]: ser\n[LOCUTOR 5]: bem...\n[LOCUTOR 4]: Não adianta ficar remoendo, né?\n[LOCUTOR 5]: Não,\n[LOCUTOR 4]: não.\n[LOCUTOR 5]: Aquilo que não tem solução, solucionado está, mas aquilo que a gente pode melhorar, ok, é nisso que a gente vai\n[LOCUTOR 4]: focar. Deixa eu pontuar uma coisa aqui antes que ele\n[LOCUTOR 5]: entre.\n[LOCUTOR 4]: A [PESSOA], que é uma das diretoras lá,\n[LOCUTOR 5]: que\n[LOCUTOR 4]: faz os treinamentos.\n[LOCUTOR 5]: Eu acho que o assistente começou a gravar. Deixa eu ver. Eu não sei como é que eu tiro ele. [LOCAL] esse cara aqui. Deixa eu ver. Não assisti. Não assisti. Eu não assisti a editar o aparelho. Não assisti. Tirei ele? Como é que tira esse [EMPRESA] consultor daqui, gente? Bom\n[LOCUTOR 4]: dia, [PESSOA].\n[LOCUTOR 6]: Bom dia.\n[LOCUTOR 4]: Tudo bem?\n[LOCUTOR 5]: Tudo\n[LOCUTOR 6]: bem?\n[LOCUTOR 5]: Tudo.\n[LOCUTOR 4]: [LOCUTOR 1]: o assistente da [EMPRESA] aqui entrou, eu vou deixar ele por aqui. Ele é novo desse aí pra mim, viu?\n[LOCUTOR 5]: É? Pois é, ele... Pode ver que tem quatro, eu, você e ele.",
+  "texto_filtrado": "[LOCUTOR 5]: Tudo jóia. Deixa eu fechar minha janela, o sol dá uma... Fechar a cortina. Dá reflexo. Ontem conversei com o [PESSOA].\n[LOCUTOR 5]: Mas ele entendeu. Eu acho que foi bem transparente assim. Foi necessário, sabe?\n[LOCUTOR 4]: Ele é compreensivo. Às vezes a gente falta um pouquinho. uma boa postura ali diante das meninas, mas ele é\n[LOCUTOR 3]: de trabalhar com ele.\n[LOCUTOR 5]: É fácil, é fácil, acho que agora é só, falta um pouquinho, eu disse pra ele, falta um pouquinho, agora ok, a gente entende\n[LOCUTOR 5]: passado, mas vamos olhar pra frente, né, pra\n[LOCUTOR 5]: Aquilo que não tem solução, solucionado está, mas aquilo que a gente pode melhorar, ok, é nisso que a gente vai\n[LOCUTOR 5]: entre.\n[LOCUTOR 4]: A [PESSOA], que é uma das diretoras lá,\n[LOCUTOR 4]: faz os treinamentos.\n[LOCUTOR 4]: [LOCUTOR 1]: o assistente da [EMPRESA] aqui entrou, eu vou deixar ele por aqui. Ele é novo desse aí pra mim, viu?\n[LOCUTOR 5]: É? Pois é, ele... Pode ver que tem quatro, eu, você e ele.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:42.009838+00:00",
+    "total_linhas": 32,
+    "linhas_mantidas": 12,
+    "linhas_removidas": 20,
+    "percentual_mantido": 37.5,
+    "confianca_media": 0.461
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 4]: Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Bom dia, [PESSOA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3758,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tudo, e você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tudo jóia. Deixa eu fechar minha janela, o sol dá uma... Fechar a cortina. Dá reflexo. Ontem conversei com o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4771,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCUTOR 2]: aí ele fez o zapato dele também. Eu imaginei.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Mas ele entendeu. Eu acho que foi bem transparente assim. Foi necessário, sabe?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5002,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Ele é compreensivo. Às vezes a gente falta um pouquinho. uma boa postura ali diante das meninas, mas ele é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4914,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: f",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: de trabalhar com ele.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5821,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É fácil, é fácil, acho que agora é só, falta um pouquinho, eu disse pra ele, falta um pouquinho, agora ok, a gente entende",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4723,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: passado, mas vamos olhar pra frente, né, pra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: bem...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Não adianta ficar remoendo, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Aquilo que não tem solução, solucionado está, mas aquilo que a gente pode melhorar, ok, é nisso que a gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4799,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: focar. Deixa eu pontuar uma coisa aqui antes que ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4577,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: entre.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5133,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: A [PESSOA], que é uma das diretoras lá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5156,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: faz os treinamentos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Eu acho que o assistente começou a gravar. Deixa eu ver. Eu não sei como é que eu tiro ele. [LOCAL] esse cara aqui. Deixa eu ver. Não assisti. Não assisti. Eu não assisti a editar o aparelho. Não assisti. Tirei ele? Como é que tira esse [EMPRESA] consultor daqui, gente? Bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3975,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: dia, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tudo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCUTOR 1]: o assistente da [EMPRESA] aqui entrou, eu vou deixar ele por aqui. Ele é novo desse aí pra mim, viu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4728,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É? Pois é, ele... Pode ver que tem quatro, eu, você e ele.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4983,
+      "motivo": "ml"
+    }
+  ]
+}

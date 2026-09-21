@@ -1,0 +1,1591 @@
+{
+  "id_reuniao": "1357076",
+  "codt": "T18912",
+  "data_reuniao": "2026-03-31 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "MG",
+  "texto_original": "[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 32]: Mas ainda tem dúvidas disso, dos talgos que eles têm lá, e da presença que eles têm. \n[LOCUTOR 3]: tranquilo.\n[LOCUTOR 32]: E aí E a\n[LOCUTOR 19]: [EMPRESA]\n[LOCUTOR 32]: fechado. Olá, tudo bem? \n[LOCUTOR 8]: tarde. [EMPRESA], gente. Boa tarde. Olá, gente. Tudo bem?\n[LOCUTOR 26]: Olá, boa\n[LOCUTOR 32]: tarde,\n[LOCUTOR 26]: pessoal. Tudo bem?\n[LOCUTOR 20]: Tudo bem,\n[LOCUTOR 32]: e vocês? Faz um tempinho, né? Que bom que deu tudo certo.\n[LOCUTOR 20]: Obrigada, viu?\n[LOCUTOR 32]: Eu sei que deve estar uma barulheira aqui perto de mim, porque hoje é dia de fechamento, [LOCAL] a pouco toca sino, faz barulho, desenho, é uma doideira aqui, tá? Vamos lá que a gente vai tentar tirar todas as dúvidas de vocês hoje, tá? Eu pedi pra [PESSOA] então participar aqui, ela tem conseguido uma brechinha na agenda dela ali até duas e meia, tá bom? Então, vamos lá, fiquem à vontade pra perguntar o que vocês quiserem, porque eu não sei responder, mas eu trouxe quem sabe. Olá,\n[LOCUTOR 26]: pessoal, tudo bem?\n[LOCUTOR 20]: Tudo certo, tudo\n[LOCUTOR 26]: certo. Queria entender um pouquinho quais são as dúvidas. O [PESSOA] me relatou ali que vocês estavam com algumas dúvidas referentes à integração com o ARM, até a questão dos tablets também, se o aplicativo ia ser compatível com os equipamentos que vocês tinham também. mas eu queria que vocês se abrissem mesmo para que eu conseguisse sonar um pouco dessas dúvidas.\n[LOCUTOR 20]: [PESSOA]. Primeiramente, acho que a maior dúvida seria de como que funciona a integração do agora com o RM.\n[LOCUTOR 26]: A\n[LOCUTOR 20]: gente queria tentar, se for possível, visualizar como que é essa integração. Como que é o comando dentro do RM que faz puxar as marcações do agora, por exemplo.\n[LOCUTOR 26]: Na verdade, esse processo, ele é automático, eu vou até, deixa eu abrir aqui o chat, porque não está aberto aqui, eu vou colocar nesse campo aqui do nosso chat o nosso [EMPRESA] referente à integração com o RM, tá? Para que depois vocês até possam analisar, verificar quais são os campos do RM que integram, quais são as informações de afastamentos, mas até referente à quest\n[LOCUTOR 4]: das\n[LOCUTOR 26]: informações que elas vão, depois do agora para dentro do RM, que são as informações referentes aos resultados da folha. Deixa eu abrir a minha base aqui. A gente tem esse comando automático, uma vez que vocês...\n[LOCUTOR 20]: que\n[LOCUTOR 26]: vocês fecham a competência,\n[LOCUTOR 20]: e\n[LOCUTOR 26]: daí vai automaticamente. Só um minutinho. Dados cadastrais, dados de afastamentos, esses são configurados periodicamente para quatro, cinco vezes ao dia eles irem automaticamente, tá? Então não precisa\n[LOCUTOR 20]: ser\n[LOCUTOR 26]: feito nenhuma alteração, nenhum comando, isso é realmente nativo. Os dados de resultado, como eles são dados que eles só vão e irem quando tiverem sido tratados, Esse, sim, a gente vai precisar dar um comando. E qual que é o comando dentro da plataforma que vai fazer a liberação? É quando a gente olhou todos os relatórios, todas as dashboards, entendeu? Não tem nenhum ajuste mais para fazer dentro do ponto. Eu preciso dessas informações agora lá dentro da folha, para fazer o processamento da folha. Aí a gente vai vir aqui\n[LOCUTOR 20]: e\n[LOCUTOR 26]: vai bloquear\n[LOCUTOR 20]: a\n[LOCUTOR 26]: competência. O bloqueio de competência, ele é o comando para essas informações estarem lá dentro do RM. Então, esse é o comando para realizar a integração, diferente da integração de dados cadastrais e dados de afastamentos, que inicia-se lá dentro da folha, certo? Isso é configurado lá dentro da folha para vir para dentro da solução do agora, três, quatro vezes ao dia, todo dia ali às cinco da manhã, às nove horas da manhã, às duas horas da tarde, às cinco horas da tarde, [EMPRESA].\n[LOCUTOR 20]: [PESSOA], quando você fala dos afastamentos e dados cadastrais, que esses já estão no automático? O comando. Quando você diz afastamento, seria exatamente?\n[LOCUTOR 26]: O atestado, as férias, licença maternidade, paternidade, tudo aquilo que comunica o e-social. Então, tudo aquilo que vocês fazem lá por dentro da folha, todo o afastamento, ele alimenta aqui dentro a nossa solução.\n[LOCUTOR 20]: Hoje voc\n[LOCUTOR 21]: utilizam o meu RH?\n[LOCUTOR 20]: [EMPRESA]?\n[LOCUTOR 26]: vocês utilizam o meu RH para fazer esse tipo de solicitação ou fica na responsabilidade de vocês incluírem?\n[LOCUTOR 20]: A gente que inclui.\n[LOCUTOR 26]: Vocês que incluem. A incluir lá dentro do sistema para a comunicação social, para fazer o afastamento lá dentro da folha, certo?\n[LOCUTOR 20]: Isso. Isso, sim.\n[LOCUTOR 26]: Perfeito. No momento que vocês incluírem lá, automaticamente aqui, essa parte de afastamento, ela é alimentada. Automaticamente, não. Vou corrigir. no período que vocês configurarem. Então, vamos supor que você fez um lançamento às 10 horas da manhã de afastamento lá dentro do RM e você deu um comando lá na implantação que esse afastamento ia acontecer quatro vezes ao dia sem integração, às 9 horas da manhã, ao meio-dia e às 5 horas da tarde. Então, quando chegar ao meio-dia, esse lançamento de afastamento que você fez lá dentro do RM vai vir aqui para dentro da solução do Agora.\n[LOCUTOR 20]: Então, esse processo de colocar o atestado, ele segue normalmente,\n[LOCUTOR 26]: né?\n[LOCUTOR 20]: [LOCUTOR 10]: segue normalmente, porque o sistema de ponta, ele não comunica o ex-social, quem tem essa responsabilidade é a Folha, né? Então, os afastamentos, eles continuam seguindo lá por dentro da Folha, como já é feito. Ô, [PESSOA], uma dúvida aqui. Você falou da questão dos atestados poderem se encontrar, são automáticos, de acordo com os horários que a gente falou. Se tiver alguma alteração no cadastro do funcionário, por exemplo, uma alteração de jornada, isso também é importado automaticamente? Ou eu tenho que fazer um cadastro lá no [EMPRESA] e um cadastro lá do outro?\n[LOCUTOR 26]: Tá, isso, muito importante isso. Os cadastros, tudo que cadastrar lá, que alterar no cadastro do colaborador lá, vai alterar no cadastro [LOCAL]. O que eu não trago do [EMPRESA]? A jornada e a escala dele.\n[LOCUTOR 20]: Mas\n[LOCUTOR 26]: eu posso\n[LOCUTOR 20]: ter\n[LOCUTOR 26]: uma escala aqui, Deixa eu até mostrar para vocês. Aqui em horários,\n[LOCUTOR 20]: na\n[LOCUTOR 26]: parte de escala, quando eu tenho a minha escala, eu vou ter que configurar todas as escalas que você tem lá, aqui também. A gente vai replicar. Quando eu crio uma escala, essa escala tem um código interno dela. Esse código pode ser o mesmo que vocês utilizam lá. Aí sim, quando vocês alterarem lá dentro do cadastro ou do colaborador, altera-se aqui.\n[LOCUTOR 20]: [LOCUTOR 6]: vocês podem alterar automaticamente aqui também. Não tem problema. Tá? Mas a gente\n[LOCUTOR 26]: vai precisar ter\n[LOCUTOR 20]: as duas\n[LOCUTOR 26]: caducadas.\n[LOCUTOR 20]: Enquanto a gente está em plantação, a gente vai fazer essa etapa. Isso,\n[LOCUTOR 26]: exatamente. Na implantação, vocês vão verificar tudo que vocês têm dentro do RM e replicar para cá. É importante que só o código contábil, ou seja, o código interno seja o mesmo para a gente e já essa alteração lá vir junto. Da mesma forma que assim, eu tenho um colaborador lá que ele está vinculado ao centro de custo X, lá dentro do RM. Chegou na metade do ano, ele foi para o centro\n[LOCUTOR 20]: de\n[LOCUTOR 26]: custo Y. Eu alterei lá dentro do RM. Isso automaticamente vai repletir aqui dentro da gestão do ponto também. Então essas alterações também de centro de custo, da pessoa responsável por ele, então altera aqui também. Tudo que for movimentado dentro do cadastro movimenta também aqui.\n[LOCUTOR 20]: [PESSOA]. [PESSOA], o espelho de ponto a gente vai passar a tirar no agora e não mais no RL, certo? Ou vai funcionar\n[LOCUTOR 26]: os dois? Não, vai ser retirado [LOCAL]. O colaborador vai ter acesso ao portal do colaborador dele, que é o aplicativo esse [LOCAL].\n[LOCUTOR 20]: [LOCUTOR 18]: eu apagar\n[LOCUTOR 26]: aqui o da Aurora para vocês visualizarem. \n[LOCUTOR 14]: acesso... \n[LOCUTOR 5]: falar. \n[LOCUTOR 17]: falo a gente como RH como empresa.\n[LOCUTOR 26]: Vocês como RH por aqui. Por aqui\n[LOCUTOR 20]: também. Também.\n[LOCUTOR 26]: e isso pelo Agora também. Vocês conseguem gerar o espelho do ponto aqui, gerenciamento de espelho do ponto, gerar em massa de um departamento, de um setor em massa, ou se vocês quiserem de um colaborador\n[LOCUTOR 20]: específico, porque\n[LOCUTOR 26]: estão fazendo uma demissão, eu quero do último ano desse colaborador. Eu entro aqui no [EMPRESA], venho aqui no joinha dele, e lá embaixo eu consigo gerar o espelho do ponto dele. Aqui está o espelho dele atual, do mês de março. Quando eu vou lá no final, Olha, eu tenho aqui espelhos, múltiplos espelhos de ponto, tá vendo? Aí eu só gero aqui e coloco a data que eu quero, a de um ano, de dois anos, de três anos, e eu gero os espelhos do ponto dele. [PESSOA], você quer complementar com algo?\n[LOCUTOR 20]: Tá\n[LOCUTOR 26]: mutado.\n[LOCUTOR 32]: [EMPRESA]. Pronto. Tá me ouvindo?\n[LOCUTOR 26]: \n[LOCUTOR 29]: pra complementar aqui, aquilo que eu tinha falado com vocês aí, pessoal, assim, o agora, ele que faz toda a tratativa, ele entrega prontinho lá pro RM. Então,\n[LOCUTOR 20]: precisa\n[LOCUTOR 32]: ser feita a tratativa dentro dele. Isso que é importante para vocês não terem que ficar fazendo acordo com cada funcionário. Lembra que isso aqui é um ponto que ele não vai pegar digital, exatamente tirar um papelzinho para ele. Então, por essas questões, o agora inteiro ele é homologado. Então, tudo tem que ser feito dentro do agora. Não dá para sair lá no meu RH e fazer alguma tratativa, senão\n[LOCUTOR 26]: perde\n[LOCUTOR 32]: essa homologação. Por isso, tem que ser tudo aqui dentro, tá bom?\n[LOCUTOR 26]: [PESSOA]. O Agora é uma solução homologada pelo RepP, o Registro Eletrônico de Ponto Via Programa. Toda a documentação, o despele do ponto, o arquivo AFD, o [EMPRESA], ele já é pré-assinalado, ele é válido juridicamente. Quem se responsabiliza por isso? A TOTOS. Então vamos trazer um exemplo. fiscalização, recebi um passivo trabalhista, estão me pedindo o arquivo AFD, estão me pedindo o espelho do ponto homologado do colaborador. Quem que tem que responder para essa documentação? A [EMPRESA]. Então é a nossa responsabilidade, por isso que é tão importante a gente ter um fornecedor com [EMPRESA], se o meu fornecedor não tiver REP-P, eu escolhi um fornecedor que ele é [PESSOA], ou que ele é um outro modelo, aí a gente dá a responsabilidade para vocês. Qual que é a responsabilidade de vocês fazer acordo com o sindicato? Porque, daí, o sindicato puxa a responsabilidade para ele. Aí, eu tenho que me incomodar com acordo sindical, acordo com colaborador, que não é o\n[LOCUTOR 20]: caso\n[LOCUTOR 26]: do Agora. O Agora Happy Pay, então, a gente que se responsabiliza por toda essa documentação. Por isso que centraliza toda a tratativa de ponto dentro dele. Então, o espelho do ponto aqui, o arquivo fiscal fica aqui disponível para você também, o arquivo AFD, o Happy Pay. Então, fica de fácil acesso para que vocês consigam gerar por dentro da solução. Assim como os\n[LOCUTOR 20]: comprovantes\n[LOCUTOR 26]: de marcação de ponto também, que se tornam digitais.\n[LOCUTOR 20]: Então, quando essa situação for correta, a gente pode pensar que o modo de automação de ponto [EMPRESA] vai ser desativado.\n[LOCUTOR 26]: [PESSOA], ele não vai ser desativado. Ele está travando um pouquinho e daí está chegando para a gente um pouquinho mais atrasado,\n[LOCUTOR 20]: mas eu\n[LOCUTOR 26]: consegui te entender. Ele não vai ser desativado. Ele vai estar lá. A gente só não vai utilizar ele. Por que ele não vai ser desativado? Porque vamos que você quer consultar algum dado seu lá do ano passado. Você vai conseguir acessar ali e acessar a qualquer momento. Ele não vai ser desativado. Ele vai estar ali, mas a gente não vai utilizar mais ele. As informações não vão passar por lá.\n[LOCUTOR 20]: Ok.\n[LOCUTOR 26]: A gente vai manter, porque ele não tem um curso à parte, né? Então, a gente vai manter mais para consulta de informações mesmo. Como a gente não vai trazer o histórico para dentro do Agora, ele vai permanecer ali dentro do RM, então vai ficar mais para uma consulta sua interna.\n[LOCUTOR 20]: Tudo bem. Outra dúvida que eu fiquei aqui, não sei se vocês me respondem. Mas algumas tratativas que a gente faz a posterior, vamos supor que o período do banco já fechou, eu já passei o sistema de encontro aqui, a gente passa pelos coordenadores para eles revisarem e verificarem se tem algum ajuste para ser feito. Por exemplo, o colaborador esqueceu de bater o encontro em determinado dia, às vezes a gente identifica só nesse momento, a gente sabe que [PESSOA]. Ele foi formando o coordenado para ensinar a gente a utilizar a linguagem, a gente vai lá e faz as modificações que podem ser necessárias e disponibiliza uma nova portafolha, um novo espelho de ponto para a gente poder abordar as questões fisicamente.\n[LOCUTOR 26]: Desculpa, tá travando um pouquinho, pessoal. Mas eu entendi a tua necessidade. Na questão do espelho do ponto dos esquecimentos de batida, quando o pessoal esquece de bater e vai só depois pro gestor chegar esse espelho do ponto pra ele verificar o que tá acontecendo, né? E daí precisa gerar um novo espelho do ponto pra aprovação, certo?\n[LOCUTOR 20]: Tá,\n[LOCUTOR 26]: perfeito. Eu vou me anteceder pra que isso não aconteça. Como? Primeiramente, o sistema vai disponibilizar para vocês, para o gestor e para o colaborador. [LOCAL] pode ser em diário, semanal ou mensal. De esquecimento de batida, de faltas consecutivas, de horas extras. Então, vou trazer um exemplo. Eu, [PESSOA], esqueci de bater o ponto ontem. Hoje, eu posso receber um e-mail falando, [PESSOA], eu tenho uma inconsistência de batida. Isso já está me sinalizando que eu preciso entrar lá dentro do portal e solicitar um ajuste. O meu gestor, ele também recebe. Olha, a [PESSOA], a [PESSOA] e a [LOCAL] esqueceram de bater o ponto. Ou você ajusta o ponto delas, ou você informa para elas, para que elas solicitem, né? Então, se eu tenho essa automatização rodando, que é aqui o sistema mandando diariamente, semanalmente, ou até mensalmente, eu\n[LOCUTOR 20]: gosto muito\n[LOCUTOR 26]: do diário para o colaborador, para ele se atentar, e para a gestão, para não ser encarregada de vários relatórios semanalmente, né? Então, vamos supor, toda segunda-feira, às 9 horas da manhã, a gestão recebe o relatório das inconsistências de batidas. Por quê? A gente não sobrecarrega o fechamento. A gente vai deixar isso diluído semanalmente. O gestor está sabendo o que está acontecendo durante a semana. E daí, ele vai lá na reunião, ele vai falar, [PESSOA], eu vi lá que você tem dois esquecimentos. Vai lá no teu portal, ajusta para a gente deixar isso redondinho. E daí, o RH aqui,\n[LOCUTOR 20]: quando\n[LOCUTOR 26]: for automatizar, e daí o relatório pode ser do inconsistência de batidas, do Horas Extras Indevidas, das infrações, vocês customizam quais relatórios\n[LOCUTOR 20]: voc\n[LOCUTOR 21]: querem\n[LOCUTOR 20]: que seja\n[LOCUTOR 26]: enviado, tá? E daí, aqui na mensagem, vocês botam para a gestão, segue para a conferência, né? E daí salva. Automaticamente, o sistema, todas as segundas, nove horas, vai\n[LOCUTOR 20]: disparar\n[LOCUTOR 26]: esse fluxo automático. Então, isso já reduz as inconsistências. A gente já ganha um ponto, tá? E, na questão da aprovação do SPL ponto, ele tem dupla aprovação. A gestão, ela aprova\n[LOCUTOR 20]: e\n[LOCUTOR 26]: depois cai para\n[LOCUTOR 20]: o\n[LOCUTOR 26]: colaborador fazer a assinatura. Vamos supor que a gestão olhou, [PESSOA], ainda tem uma inconsistência de batida aqui, deixa eu\n[LOCUTOR 20]: ajustar.\n[LOCUTOR 26]: Eles podem ajustar, automaticamente o espelho do ponto é atualizado e cai para o colaborador fazer a assinatura. Então, não é gerado um do zero, é só corrigir a inconsistência que está ali e ele automaticamente reprocessa a informação. Podem falar.\n[LOCUTOR 20]: Uma dúvida. Por exemplo, eu quero fazer uma hora extra na data de amanhã. Eu consigo solicitar\n[LOCUTOR 26]: autorizaç\n[LOCUTOR 4]: pelo agora para o meu gestor e ele aprovar pelo agora?\n[LOCUTOR 26]: Ok, vamos lá. A hora extra hoje infelizmente não tem como a gente fazer o bloqueio. Então infelizmente não tem como fazer o seguinte. A [PESSOA] não pode fazer hora extra\n[LOCUTOR 20]: mas\n[LOCUTOR 26]: se hoje eu fui contratada para trabalhar até as 5 e eu batei o ponto 6 horas bloqueio o sistema não bloqueia. Ele vai gerar uma hora extra não autorizada. Mas não quer dizer que essa hora extra não tenha que ser paga. Ela tem que ser paga, a gente sabe. Mas quer dizer que eu tenho um relatório de uma hora extra indevida. Se eu dei um pim-barba, [PESSOA], não pode acontecer. E depois ela fez de novo e de novo, [PESSOA], tenho que analisar esse colaborador, entender o que está acontecendo. Porém, dentro do sistema, a gente fez aqui, na parte\n[LOCUTOR 20]: do portal\n[LOCUTOR 26]: do colaborador, aqui essa parte de hora extra, que ele tem como justificar a hora extra feita. Então, ele vai justificar, olha, eu fiz hora extra hoje, mas é porque a gente está em fechamento. Então, eu atendi fulano, ciclano e beltrano e por isso que eu trabalhei até sete, oito horas da noite. Então, ele justifica para vocês. Quando ele chega lá naquela coluna de hora extra indevida, como assim, a [PESSOA] fez uma hora de hora extra indevida? Ah, não, está aqui a justificativa dela. Ela fez porque ela estava atendendo, porque ela estava fazendo tal processamento. Então, sim, respondendo a sua pergunta, tem como justificar, só que eu gosto de abrir um parêntese informando que a hora extra não pode ser bloqueada, legalmente isso não é permitido, mas fica numa coluna separada para que vocês possam ter o controle e o gestor aprovar. Ficou claro?\n[LOCUTOR 20]: Tá. Ok. Ficou, mas eu ainda fiquei com uma dúvida.\n[LOCUTOR 26]: Então,\n[LOCUTOR 20]: eu só consigo pedir uma justificativa de hora de aparência que já aconteceu. O que vai acontecer, eu não consigo pedir autorização.\n[LOCUTOR 26]: Não, você até... Deixa eu até fazer uma simulação com você. Deixa eu pegar aqui o mês de abril. [LOCAL] Eu posso entrar aqui no mês de abril? Deixa eu até fazer um teste, tá?\n[LOCUTOR 20]: Tá.\n[LOCUTOR 26]: Deixa eu ver se eu vou conseguir fazer um horário que não aconteceu ainda. Ó, eu consegui, tá vendo? Eu mandei uma solicitação no dia 1º, aqui. com a mensagem de horas extras das\n[LOCUTOR 20]: 5 \n[LOCUTOR 13]: 6. Como que isso cai para mim? Opa, não é aqui. Aqui. Deixa eu entrar lá na tela inicial, onde que chega essa demanda para mim. Ó, justificativa de batida, incluir batida. Eu entro aqui e ela vai cair, ela vai estar a justificação. Deixa eu ver se ela vai liberar aqui para mim, nesse campo. Ela não vai liberar aqui para mim. mas ela me deixou permitir incluir posteriormente, não tem problema,\n[LOCUTOR 20]: as\n[LOCUTOR 26]: horas extras. Então, ela pode chegar no dia 1º, deixa eu voltar aqui, mês de abril, dia 1º, e ela consegue entrar aqui e justificar no campo de horas extras. Aqui, o informe, a hora inicial e fim das horas extras para aprovação. E daí, automaticamente, cai para aprovação da liderança. Ele não vai bloquear do colaborador vir aqui das 18 horas, até às 18 horas e fazer a solicitação. E daí vai cair para o gestor aprovar. Dia 1º,\n[LOCUTOR 20]: um\n[LOCUTOR 26]: dia que não aconteceu. Eu posso enviar. Ficou pendente, está vendo? Aí vai cair para o fluxo de aprovação. Deixa eu ver se ele vai liberar para mim agora. Ele vai cair direto para a pessoa responsável por esse colaborador. Deixa eu ver só se eu vou ter acesso.\n[LOCUTOR 20]: Selecionar abertas.\n[LOCUTOR 26]: É, mas não vai cair para mim porque eu não tenho acesso a esse colaborador exclusivo. Mas aí cai\n[LOCUTOR 20]: para\n[LOCUTOR 26]: o gestor aprovar. Então vai ficar como? Hora extra não autorizada.\n[LOCUTOR 20]: [LOCUTOR 16]: vai chegar para vocês aprovarem. [LOCUTOR 16]: daí vocês conseguem... Quando o\n[LOCUTOR 26]: gestor aprovar, isso aqui vai sair do amarelo. Vai ficar verde se foi aprovado. E se ele não aprovar, fica em vermelho.\n[LOCUTOR 20]: Ok. [PESSOA], e a gente consegue algum relatório do que ficar verde e do que ficar vermelho?\n[LOCUTOR 26]: Das\n[LOCUTOR 20]: aprovações e da recusa?\n[LOCUTOR 26]: Consegue aqui. A gente tem um relatório de justificativas. Então, aqui eu tenho todas abertas, respondidas e respondidas e editadas. Então, esse é o filtro que eu vou conseguir. Isso a gente consegue também baixar em Excel. Então, eu vou pegar aqui as respondidas. Deixa eu aplicar um filtro aqui. Apareceu todas, está vendo? Status aprovada. Todas as minhas são aprovadas. Eu consigo baixar ela aqui em um Excel e extrair daí e verificar o que foi aprovado ou negado. Vai estar nesse filtro aqui, de status.\n[LOCUTOR 20]: OK.\n[LOCUTOR 26]: Está bem?\n[LOCUTOR 20]: É salvação de nível único. o gestor aprova, fica para lançar.\n[LOCUTOR 26]: Não necessariamente, vocês podem fazer dupla aprovação. Tudo que for lançado aqui dentro do portal do colaborador, ele pode ser dupla aprovação. Então, a solicitação de inclusão de batidas, horas extra, vocês conseguem criar um fluxo de aprovação. Vocês podem falar que o gestor aprova, só que cai depois para o RH aprovar. Pode ter mais de uma sequência, né?\n[LOCUTOR 20]: Tá, a segunda dúvida. A gente tem alguns colaboradores aqui que tem um pouco mais de dificuldade de eles mesmos fazerem a sua gestação. O nosso fluxo hoje funciona da seguinte forma. Foi até acordar o sindicato e eles, o [PESSOA] perguntou sobre essa questão do relatório, porque eles, hoje a gente tem um formulário e que eles pedem pra gente pra ver esse sindicato hoje com a aprovação. e negativas que estão sendo realizadas. Então, é muito importante a gente ter esse dado. Agora, hoje o nosso curso funciona do seguinte modo. O colaborador atrasou e quer compensar aquele horário.\n[LOCUTOR 26]: Então, vai\n[LOCUTOR 20]: mais rápido pra compensar o atraso. E faz uma solicitação ali pro gestor, verbal ou por e-mail. O gestor autoriza ou não, na maior parte dos casos, E aí o gestor preenche esse formulário falando o motivo Se é uma hora extra, se é uma compensação de jornada Se vai ser antes ou depois, ou se foi antes ou depois do horário Quantos minutos, se é até 15, 30, até uma hora\n[LOCUTOR 26]: ou\n[LOCUTOR 20]: até duas horas E aí o gestor que faz essa solicitação direto no formulário E aí o RH recebe essa\n[LOCUTOR 26]: solicitaç\n[LOCUTOR 4]: [PESSOA].\n[LOCUTOR 26]: Aqui, como que seria? Porque hoje a gente trabalha\n[LOCUTOR 20]: com\n[LOCUTOR 26]: três tipos de jornadas. A jornada flexível, que é uma hora autocompensada. A [PESSOA] é contratada para trabalhar das oito horas, mas independente se ela entra às oito, às nove, ela pode compensar dentro do dia. Uma escala rígida, ela precisa entrar às oito e finalizar o expediente às cinco horas.\n[LOCUTOR 20]: E uma\n[LOCUTOR 26]: jornada semi-flexível, onde a entrada e saída é fixa, só que o horário do intervalo, ele é flexível. Ok? Então eu posso ter a mesma jornada das oito às cinco, uma rígida e outra flexível. Como padrão da empresa, eu posso deixar a escala rígida. Só que nesses casos onde ele pede uma solicitação para que ele compense o atraso inicial no final do\n[LOCUTOR 20]: dia,\n[LOCUTOR 26]: ele pode vir aqui, vamos supor que hoje\n[LOCUTOR 20]: foi\n[LOCUTOR 26]: um desses casos que ele chegou atrasado. Então ele pode vir aqui, incluir solicitação e enviar uma mensagem para você,\n[LOCUTOR 20]: para\n[LOCUTOR 26]: a gestão, tá?\n[LOCUTOR 20]: Então\n[LOCUTOR 26]: ele vai colocar aqui, cheguei atrasado, peço priorização para compensar no final do dia, ok?\n[LOCUTOR 20]: [LOCUTOR 10]: vai mandar a mensagem, ele vai enviar. Essa mensagem, ela pode seguir um fluxo de aprovação, onde chega para o gestor, ele aprova e cai para vocês operacionalizar. Como que vocês operacionalizam? Chegou a mensagem para vocês. Vocês vão lá dentro do colaborador, na apuração de batidas dele, então vou entrar no [EMPRESA] aqui também, vou entrar aqui na jornada dele, na apuração de batidas. E vou usar o dia primeiro, tá? Entrei aqui, eu tô com uma escala rígida, tá vendo? Ó, a escala aqui é rígida. Tá escrito aqui, ó. 12 por 36, rígida. Eu vou editar\n[LOCUTOR 26]: essa jornada, porque já foi aprovada pela gestão e eu acho que pode ser autocompensada. E eu vou selecionar por uma aqui que é flexível. E daí eu selecionei, eu informo que a alteração vai acontecer somente para esse dia. E eu salvo essa informação. O que o sistema vai\n[LOCUTOR 20]: fazer?\n[LOCUTOR 26]: Ele vai compensar automaticamente a chegada tardia com o horário que ele fez a mais no final do dia. Ele vai entender que o que ele fez de oito horas se pagou. Não virou nem banco de horas positivo, nem horas extras, nem horas faltas. Ficou elas por elas. O restante do dia continua normal. É uma boa prática, porque daí a gente sai dos formulários O colaborador entra na forma digital e ele sai. Eu sei que\n[LOCUTOR 20]: tem aquela dificuldade pessoal\n[LOCUTOR 26]: que\n[LOCUTOR 20]: não é tão\n[LOCUTOR 26]: intelectual, né?\n[LOCUTOR 20]: Eu\n[LOCUTOR 26]: não estou ouvindo vocês, ficou mudo.\n[LOCUTOR 20]: Está me\n[LOCUTOR 26]: ouvindo?\n[LOCUTOR 20]: Então, para esse sentido, a gente tem que ficar ativo, colaborando, e ele tem que saber o que a gente está fazendo.\n[LOCUTOR 26]: Isso, ele teria que fazer a solicitação por ali para que a gestão tenha ciência.\n[LOCUTOR 20]: [LOCUTOR 15]: que... Se vocês quiserem que ele continue\n[LOCUTOR 26]: preenchendo o formulário, não tem problema, ele vai preencher o formulário, só que o gestor não vai ter a autonomia de fazer a solicitação para vocês. Ele pode ter a autonomia de entrar no sistema e fazer aquela alteração aqui, se vocês derem permissão para ele fazer. Tá.\n[LOCUTOR 20]: O problema do próprio colaborador de pedir autorização para o gestor ou eu preciso de liberar a funcionalidade para o próprio gestor fazer a operação do sistema?\n[LOCUTOR 26]: [PESSOA],\n[LOCUTOR 20]: exatamente.\n[LOCUTOR 26]: O gestor nunca vai poder fazer a solicitação por parte do colaborador, porque essas solicitações são feitas pelo do colaborador, onde só ele que tenha acesso.\n[LOCUTOR 20]: E se for uma hora extra por demanda da instituição? Suponhamos que o gestor aqui precisa do colaborador em determinado horário. Então, é como se ele... \n[LOCUTOR 12]: caso,\n[LOCUTOR 20]: voc\n[LOCUTOR 21]: conseguem... Nesse caso,\n[LOCUTOR 20]: voc\n[LOCUTOR 21]: conseguem deixar uma hora extra já autorizada. Ela n\n[LOCUTOR 4]: vai gerar um\n[LOCUTOR 26]: fluxo de aprovação de hora extra não autorizada. Vai ter uma jornada, que é uma jornada com hora extra autorizada, e vocês conseguem vir aqui dentro do sistema e já pré-definir. Até para um departamento já em massa. Eu consigo vir aqui para um departamento, um exemplo, departamento comercial. Faço um\n[LOCUTOR 20]: filtro do\n[LOCUTOR 26]: departamento comercial, seleciono todo mundo, ação a ser executada, eu aplico essa jornada. Eu falo que essa jornada está autorizada do dia 17 até o dia 25, por exemplo. Somente para esse período. Então, é uma jornada com hora extra já autorizada. O que quer dizer? Que se ele fizer hora extra dentro desse período, não vai gerar o fluxo, a coluna de hora extra não autorizada. Já vai ter autorizada.\n[LOCUTOR 20]: Outra coisa, a gente consegue colocar o limite para a solicitação ser no mesmo dia?\n[LOCUTOR 26]: Para\n[LOCUTOR 20]: solicitar... Por que eu estou te falando isso, assim? Para o colaborador não vir três dias depois falando que ele confessou uma hora, mais de três dias atrás, entendeu?\n[LOCUTOR 26]: E esse limite ele não consegue porque o campo de envio de mensagem ele não é só para essa informação, né? Ele tem para outras informações. o que você consegue é ter uma cultura interna e falar, ah, isso eu não vou aceitar. Porque é mais uma cultura interna em falar, olha, se estiver\n[LOCUTOR 20]: fora\n[LOCUTOR 26]: do prazo, nós não vamos aceitar. Ficou claro, gente. Eu tenho uma próxima reunião. O\n[LOCUTOR 20]: nosso tempo,\n[LOCUTOR 26]: a gente perdeu uma meia horinha. Mas eu queria saber se vocês têm mais alguma dúvida referente a essas demandas de horas extras, da questão de integrações.\n[LOCUTOR 32]: Tá bom, [PESSOA], muito obrigado.\n[LOCUTOR 26]: [LOCAL],\n[LOCUTOR 32]: desculpa\n[LOCUTOR 26]: não poder\n[LOCUTOR 32]: ficar\n[LOCUTOR 26]: mais. mas hoje tá corrido aqui. Mas eu fico \n[LOCUTOR 1]: disposição, tá? O [PESSOA] tem\n[LOCUTOR 26]: meu WhatsApp ali, a gente tá bem próximo, então qualquer dúvida pode pontuar. Ah, esqueci de perguntar isso\n[LOCUTOR 32]: pra\n[LOCUTOR 26]: [PESSOA]. Manda pro [PESSOA], que ele já me manda aqui, eu já consigo também tirar essa dúvida pontual que ficar. Combinado?\n[LOCUTOR 32]: Obrigada, pessoal.\n[LOCUTOR 20]: [LOCAL],\n[LOCUTOR 32]: tchau.\n[LOCUTOR 20]: Obrigada pela sua disponibilidade. Obrigado.\n[LOCUTOR 32]: Qual é uma coisa que você consegue tomar essa decisão e ensinar hoje e o que você precisa mais? Ficou mudo para mim. Não estou ouvindo vocês.\n[LOCUTOR 20]: Acho que a\n[LOCUTOR 32]: internet não está legal. Jogamos uma vez, mas parece que está travando\n[LOCUTOR 20]: aqui. Hoje eu não consigo fazer isso.\n[LOCUTOR 32]: Tá, tá bom. Eu vou ter que gerar ela de novo, né? A partir de amanhã, tá? Você me passa, então, quando que você consegue fazer pra eu poder já deixar ela com o prazo certo, aí eu poder gerar quando tiver amanhã, a partir de amanhã?\n[LOCUTOR 20]: [LOCAL], passa, sim.\n[LOCUTOR 32]: Tá bom, só me passa. [LOCAL] já muda as coisas, mas eu já vou lá e já gero, já deixo prontinho para vocês assinarem, tá bom? Aliás...\n[LOCUTOR 20]: Uma dúvida que\n[LOCUTOR 32]: eu j\n[LOCUTOR 11]: não sei se você vai conseguir esclarecer.\n[LOCUTOR 32]: Quanto\n[LOCUTOR 20]: tempo, geralmente, que demora para fazer a implementação?\n[LOCUTOR 32]: Não vou saber te dizer, me dá uma de cabeça aqui. Não vou saber mesmo.\n[LOCUTOR 20]: Se voc\n[LOCUTOR 2]: conseguir batalha...\n[LOCUTOR 20]: \n[LOCUTOR 24]: vejo que ela não... Tá, tá bom. Depende de... Eu posso ver com ela se tem alguma noção, assim, de quando começa a fazer até quando para. Mas, realmente, agendas, não precisa assinar, eu vou subir aqui, depois gera uma abertura de um processo de projeto aqui dentro, vou pegar as agendas do pessoal para eles começarem a fazer. Tudo isso depende aqui de quando a gente assine disponibilidade. Eu vou pegar com ela. Depois começa a fazer. Qual que é o prazo normalmente? Quanto tempo é?\n[LOCUTOR 32]: Isso...\n[LOCUTOR 20]: Depois que acabam esses trâmites legais, de firmar o contrato e tudo, quanto tempo tem que ir do início da alimentação até o final, até a\n[LOCUTOR 32]: construção? Tá bom, tá bom. Você já tem uma ideia? [LOCAL] já gera para os próximos 15 dias? O que você acha? O que eu faço amanhã?\n[LOCUTOR 20]: um tempo\n[LOCUTOR 32]: que eu\n[LOCUTOR 20]: preciso de poder finalizar e assinar [LOCAL] a alguns dias.\n[LOCUTOR 32]: Então amanhã já gera e mando pra vocês, tá bom? Não é uma questão que eu sempre preciso falar, eu não posso garantir o jeito que ela tá hoje, tá bom? Aí amanhã, do jeito\n[LOCUTOR 20]: que ela\n[LOCUTOR 32]: tiver, eu gero e mando pra vocês,\n[LOCUTOR 20]: t\n[LOCUTOR 31]: bom? \n[LOCUTOR 7]: bom.\n[LOCUTOR 32]: Obrigado.\n[LOCUTOR 20]: Não vi também, [PESSOA]. Lá fala sobre suporte também?\n[LOCUTOR 32]: Sobre suporte?\n[LOCUTOR 20]: É, depois da implantação, se a gente tiver problemas, dúvidas, alguma coisa que não está integralizando com a [EMPRESA], como é que funciona esse suporte?\n[LOCUTOR 32]: Ela é uma empresa da [EMPRESA]. Então, ela é igual ao suporte que você já tem da [EMPRESA], a chamar\n[LOCUTOR 20]: normal. É,\n[LOCUTOR 32]: é normal. Assim, vocês vão ver que a implantação é feita ainda por um time que é um time exclusivo do Agora, tá? Talvez, dependendo do chamado que vocês abrirem, vocês vão abrir chamado normal com ticket normal. Dependendo do que precisar, dos níveis de chamado, aí pode ser uma hora que caia para o time de desenvolvimento do Agora. Então toda empresa dentro da [EMPRESA] tem o seu próprio time de desenvolvimento, mas é tudo concentrado, chamado dentro da [EMPRESA], porque ele é uma empresa [EMPRESA]. Tá bom?\n[LOCUTOR 20]: Tá bom.\n[LOCUTOR 32]: Beleza? Obrigado, pessoal. \n[LOCUTOR 8]: tarde\n[LOCUTOR 32]: para vocês.\n[LOCUTOR 20]: Obrigado, [PESSOA].\n[LOCUTOR 32]: [LOCAL], tchau.",
+  "texto_filtrado": "[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 32]: Mas ainda tem dúvidas disso, dos talgos que eles têm lá, e da presença que eles têm.\n[LOCUTOR 3]: tranquilo.\n[LOCUTOR 32]: E aí E a\n[LOCUTOR 19]: [EMPRESA]\n[LOCUTOR 20]: Obrigada, viu?\n[LOCUTOR 26]: certo. Queria entender um pouquinho quais são as dúvidas. O [PESSOA] me relatou ali que vocês estavam com algumas dúvidas referentes à integração com o ARM, até a questão dos tablets também, se o aplicativo ia ser compatível com os equipamentos que vocês tinham também. mas eu queria que vocês se abrissem mesmo para que eu conseguisse sonar um pouco dessas dúvidas.\n[LOCUTOR 20]: [PESSOA]. Primeiramente, acho que a maior dúvida seria de como que funciona a integração do agora com o RM.\n[LOCUTOR 20]: gente queria tentar, se for possível, visualizar como que é essa integração. Como que é o comando dentro do RM que faz puxar as marcações do agora, por exemplo.\n[LOCUTOR 26]: Na verdade, esse processo, ele é automático, eu vou até, deixa eu abrir aqui o chat, porque não está aberto aqui, eu vou colocar nesse campo aqui do nosso chat o nosso [EMPRESA] referente à integração com o RM, tá? Para que depois vocês até possam analisar, verificar quais são os campos do RM que integram, quais são as informações de afastamentos, mas até referente à quest\n[LOCUTOR 26]: informações que elas vão, depois do agora para dentro do RM, que são as informações referentes aos resultados da folha. Deixa eu abrir a minha base aqui. A gente tem esse comando automático, uma vez que vocês...\n[LOCUTOR 26]: daí vai automaticamente. Só um minutinho. Dados cadastrais, dados de afastamentos, esses são configurados periodicamente para quatro, cinco vezes ao dia eles irem automaticamente, tá? Então não precisa\n[LOCUTOR 26]: feito nenhuma alteração, nenhum comando, isso é realmente nativo. Os dados de resultado, como eles são dados que eles só vão e irem quando tiverem sido tratados, Esse, sim, a gente vai precisar dar um comando. E qual que é o comando dentro da plataforma que vai fazer a liberação? É quando a gente olhou todos os relatórios, todas as dashboards, entendeu? Não tem nenhum ajuste mais para fazer dentro do ponto. Eu preciso dessas informações agora lá dentro da folha, para fazer o processamento da folha. Aí a gente vai vir aqui\n[LOCUTOR 26]: vai bloquear\n[LOCUTOR 26]: competência. O bloqueio de competência, ele é o comando para essas informações estarem lá dentro do RM. Então, esse é o comando para realizar a integração, diferente da integração de dados cadastrais e dados de afastamentos, que inicia-se lá dentro da folha, certo? Isso é configurado lá dentro da folha para vir para dentro da solução do agora, três, quatro vezes ao dia, todo dia ali às cinco da manhã, às nove horas da manhã, às duas horas da tarde, às cinco horas da tarde, [EMPRESA].\n[LOCUTOR 20]: [PESSOA], quando você fala dos afastamentos e dados cadastrais, que esses já estão no automático? O comando. Quando você diz afastamento, seria exatamente?\n[LOCUTOR 26]: O atestado, as férias, licença maternidade, paternidade, tudo aquilo que comunica o e-social. Então, tudo aquilo que vocês fazem lá por dentro da folha, todo o afastamento, ele alimenta aqui dentro a nossa solução.\n[LOCUTOR 21]: utilizam o meu RH?\n[LOCUTOR 20]: [EMPRESA]?\n[LOCUTOR 26]: vocês utilizam o meu RH para fazer esse tipo de solicitação ou fica na responsabilidade de vocês incluírem?\n[LOCUTOR 20]: A gente que inclui.\n[LOCUTOR 26]: Vocês que incluem. A incluir lá dentro do sistema para a comunicação social, para fazer o afastamento lá dentro da folha, certo?\n[LOCUTOR 26]: Perfeito. No momento que vocês incluírem lá, automaticamente aqui, essa parte de afastamento, ela é alimentada. Automaticamente, não. Vou corrigir. no período que vocês configurarem. Então, vamos supor que você fez um lançamento às 10 horas da manhã de afastamento lá dentro do RM e você deu um comando lá na implantação que esse afastamento ia acontecer quatro vezes ao dia sem integração, às 9 horas da manhã, ao meio-dia e às 5 horas da tarde. Então, quando chegar ao meio-dia, esse lançamento de afastamento que você fez lá dentro do RM vai vir aqui para dentro da solução do Agora.\n[LOCUTOR 20]: Então, esse processo de colocar o atestado, ele segue normalmente,\n[LOCUTOR 20]: [LOCUTOR 10]: segue normalmente, porque o sistema de ponta, ele não comunica o ex-social, quem tem essa responsabilidade é a Folha, né? Então, os afastamentos, eles continuam seguindo lá por dentro da Folha, como já é feito. Ô, [PESSOA], uma dúvida aqui. Você falou da questão dos atestados poderem se encontrar, são automáticos, de acordo com os horários que a gente falou. Se tiver alguma alteração no cadastro do funcionário, por exemplo, uma alteração de jornada, isso também é importado automaticamente? Ou eu tenho que fazer um cadastro lá no [EMPRESA] e um cadastro lá do outro?\n[LOCUTOR 26]: Tá, isso, muito importante isso. Os cadastros, tudo que cadastrar lá, que alterar no cadastro do colaborador lá, vai alterar no cadastro [LOCAL]. O que eu não trago do [EMPRESA]? A jornada e a escala dele.\n[LOCUTOR 26]: parte de escala, quando eu tenho a minha escala, eu vou ter que configurar todas as escalas que você tem lá, aqui também. A gente vai replicar. Quando eu crio uma escala, essa escala tem um código interno dela. Esse código pode ser o mesmo que vocês utilizam lá. Aí sim, quando vocês alterarem lá dentro do cadastro ou do colaborador, altera-se aqui.\n[LOCUTOR 20]: [LOCUTOR 6]: vocês podem alterar automaticamente aqui também. Não tem problema. Tá? Mas a gente\n[LOCUTOR 26]: vai precisar ter\n[LOCUTOR 20]: as duas\n[LOCUTOR 26]: caducadas.\n[LOCUTOR 20]: Enquanto a gente está em plantação, a gente vai fazer essa etapa. Isso,\n[LOCUTOR 26]: exatamente. Na implantação, vocês vão verificar tudo que vocês têm dentro do RM e replicar para cá. É importante que só o código contábil, ou seja, o código interno seja o mesmo para a gente e já essa alteração lá vir junto. Da mesma forma que assim, eu tenho um colaborador lá que ele está vinculado ao centro de custo X, lá dentro do RM. Chegou na metade do ano, ele foi para o centro\n[LOCUTOR 26]: custo Y. Eu alterei lá dentro do RM. Isso automaticamente vai repletir aqui dentro da gestão do ponto também. Então essas alterações também de centro de custo, da pessoa responsável por ele, então altera aqui também. Tudo que for movimentado dentro do cadastro movimenta também aqui.\n[LOCUTOR 26]: os dois? Não, vai ser retirado [LOCAL]. O colaborador vai ter acesso ao portal do colaborador dele, que é o aplicativo esse [LOCAL].\n[LOCUTOR 26]: aqui o da Aurora para vocês visualizarem.\n[LOCUTOR 14]: acesso...\n[LOCUTOR 5]: falar.\n[LOCUTOR 17]: falo a gente como RH como empresa.\n[LOCUTOR 26]: Vocês como RH por aqui. Por aqui\n[LOCUTOR 20]: também. Também.\n[LOCUTOR 26]: e isso pelo Agora também. Vocês conseguem gerar o espelho do ponto aqui, gerenciamento de espelho do ponto, gerar em massa de um departamento, de um setor em massa, ou se vocês quiserem de um colaborador\n[LOCUTOR 20]: específico, porque\n[LOCUTOR 26]: estão fazendo uma demissão, eu quero do último ano desse colaborador. Eu entro aqui no [EMPRESA], venho aqui no joinha dele, e lá embaixo eu consigo gerar o espelho do ponto dele. Aqui está o espelho dele atual, do mês de março. Quando eu vou lá no final, Olha, eu tenho aqui espelhos, múltiplos espelhos de ponto, tá vendo? Aí eu só gero aqui e coloco a data que eu quero, a de um ano, de dois anos, de três anos, e eu gero os espelhos do ponto dele. [PESSOA], você quer complementar com algo?\n[LOCUTOR 26]: mutado.\n[LOCUTOR 29]: pra complementar aqui, aquilo que eu tinha falado com vocês aí, pessoal, assim, o agora, ele que faz toda a tratativa, ele entrega prontinho lá pro RM. Então,\n[LOCUTOR 20]: precisa\n[LOCUTOR 32]: ser feita a tratativa dentro dele. Isso que é importante para vocês não terem que ficar fazendo acordo com cada funcionário. Lembra que isso aqui é um ponto que ele não vai pegar digital, exatamente tirar um papelzinho para ele. Então, por essas questões, o agora inteiro ele é homologado. Então, tudo tem que ser feito dentro do agora. Não dá para sair lá no meu RH e fazer alguma tratativa, senão\n[LOCUTOR 26]: perde\n[LOCUTOR 32]: essa homologação. Por isso, tem que ser tudo aqui dentro, tá bom?\n[LOCUTOR 26]: [PESSOA]. O Agora é uma solução homologada pelo RepP, o Registro Eletrônico de Ponto Via Programa. Toda a documentação, o despele do ponto, o arquivo AFD, o [EMPRESA], ele já é pré-assinalado, ele é válido juridicamente. Quem se responsabiliza por isso? A TOTOS. Então vamos trazer um exemplo. fiscalização, recebi um passivo trabalhista, estão me pedindo o arquivo AFD, estão me pedindo o espelho do ponto homologado do colaborador. Quem que tem que responder para essa documentação? A [EMPRESA]. Então é a nossa responsabilidade, por isso que é tão importante a gente ter um fornecedor com [EMPRESA], se o meu fornecedor não tiver REP-P, eu escolhi um fornecedor que ele é [PESSOA], ou que ele é um outro modelo, aí a gente dá a responsabilidade para vocês. Qual que é a responsabilidade de vocês fazer acordo com o sindicato? Porque, daí, o sindicato puxa a responsabilidade para ele. Aí, eu tenho que me incomodar com acordo sindical, acordo com colaborador, que não é o\n[LOCUTOR 20]: caso\n[LOCUTOR 26]: do Agora. O Agora Happy Pay, então, a gente que se responsabiliza por toda essa documentação. Por isso que centraliza toda a tratativa de ponto dentro dele. Então, o espelho do ponto aqui, o arquivo fiscal fica aqui disponível para você também, o arquivo AFD, o Happy Pay. Então, fica de fácil acesso para que vocês consigam gerar por dentro da solução. Assim como os\n[LOCUTOR 20]: comprovantes\n[LOCUTOR 26]: de marcação de ponto também, que se tornam digitais.\n[LOCUTOR 20]: Então, quando essa situação for correta, a gente pode pensar que o modo de automação de ponto [EMPRESA] vai ser desativado.\n[LOCUTOR 26]: consegui te entender. Ele não vai ser desativado. Ele vai estar lá. A gente só não vai utilizar ele. Por que ele não vai ser desativado? Porque vamos que você quer consultar algum dado seu lá do ano passado. Você vai conseguir acessar ali e acessar a qualquer momento. Ele não vai ser desativado. Ele vai estar ali, mas a gente não vai utilizar mais ele. As informações não vão passar por lá.\n[LOCUTOR 26]: A gente vai manter, porque ele não tem um curso à parte, né? Então, a gente vai manter mais para consulta de informações mesmo. Como a gente não vai trazer o histórico para dentro do Agora, ele vai permanecer ali dentro do RM, então vai ficar mais para uma consulta sua interna.\n[LOCUTOR 20]: Tudo bem. Outra dúvida que eu fiquei aqui, não sei se vocês me respondem. Mas algumas tratativas que a gente faz a posterior, vamos supor que o período do banco já fechou, eu já passei o sistema de encontro aqui, a gente passa pelos coordenadores para eles revisarem e verificarem se tem algum ajuste para ser feito. Por exemplo, o colaborador esqueceu de bater o encontro em determinado dia, às vezes a gente identifica só nesse momento, a gente sabe que [PESSOA]. Ele foi formando o coordenado para ensinar a gente a utilizar a linguagem, a gente vai lá e faz as modificações que podem ser necessárias e disponibiliza uma nova portafolha, um novo espelho de ponto para a gente poder abordar as questões fisicamente.\n[LOCUTOR 26]: Desculpa, tá travando um pouquinho, pessoal. Mas eu entendi a tua necessidade. Na questão do espelho do ponto dos esquecimentos de batida, quando o pessoal esquece de bater e vai só depois pro gestor chegar esse espelho do ponto pra ele verificar o que tá acontecendo, né? E daí precisa gerar um novo espelho do ponto pra aprovação, certo?\n[LOCUTOR 26]: perfeito. Eu vou me anteceder pra que isso não aconteça. Como? Primeiramente, o sistema vai disponibilizar para vocês, para o gestor e para o colaborador. [LOCAL] pode ser em diário, semanal ou mensal. De esquecimento de batida, de faltas consecutivas, de horas extras. Então, vou trazer um exemplo. Eu, [PESSOA], esqueci de bater o ponto ontem. Hoje, eu posso receber um e-mail falando, [PESSOA], eu tenho uma inconsistência de batida. Isso já está me sinalizando que eu preciso entrar lá dentro do portal e solicitar um ajuste. O meu gestor, ele também recebe. Olha, a [PESSOA], a [PESSOA] e a [LOCAL] esqueceram de bater o ponto. Ou você ajusta o ponto delas, ou você informa para elas, para que elas solicitem, né? Então, se eu tenho essa automatização rodando, que é aqui o sistema mandando diariamente, semanalmente, ou até mensalmente, eu\n[LOCUTOR 20]: gosto muito\n[LOCUTOR 26]: do diário para o colaborador, para ele se atentar, e para a gestão, para não ser encarregada de vários relatórios semanalmente, né? Então, vamos supor, toda segunda-feira, às 9 horas da manhã, a gestão recebe o relatório das inconsistências de batidas. Por quê? A gente não sobrecarrega o fechamento. A gente vai deixar isso diluído semanalmente. O gestor está sabendo o que está acontecendo durante a semana. E daí, ele vai lá na reunião, ele vai falar, [PESSOA], eu vi lá que você tem dois esquecimentos. Vai lá no teu portal, ajusta para a gente deixar isso redondinho. E daí, o RH aqui,\n[LOCUTOR 20]: quando\n[LOCUTOR 26]: for automatizar, e daí o relatório pode ser do inconsistência de batidas, do Horas Extras Indevidas, das infrações, vocês customizam quais relatórios\n[LOCUTOR 21]: querem\n[LOCUTOR 20]: que seja\n[LOCUTOR 26]: enviado, tá? E daí, aqui na mensagem, vocês botam para a gestão, segue para a conferência, né? E daí salva. Automaticamente, o sistema, todas as segundas, nove horas, vai\n[LOCUTOR 20]: disparar\n[LOCUTOR 26]: esse fluxo automático. Então, isso já reduz as inconsistências. A gente já ganha um ponto, tá? E, na questão da aprovação do SPL ponto, ele tem dupla aprovação. A gestão, ela aprova\n[LOCUTOR 26]: depois cai para\n[LOCUTOR 26]: colaborador fazer a assinatura. Vamos supor que a gestão olhou, [PESSOA], ainda tem uma inconsistência de batida aqui, deixa eu\n[LOCUTOR 20]: ajustar.\n[LOCUTOR 26]: Eles podem ajustar, automaticamente o espelho do ponto é atualizado e cai para o colaborador fazer a assinatura. Então, não é gerado um do zero, é só corrigir a inconsistência que está ali e ele automaticamente reprocessa a informação. Podem falar.\n[LOCUTOR 20]: Uma dúvida. Por exemplo, eu quero fazer uma hora extra na data de amanhã. Eu consigo solicitar\n[LOCUTOR 26]: autorizaç\n[LOCUTOR 4]: pelo agora para o meu gestor e ele aprovar pelo agora?\n[LOCUTOR 26]: se hoje eu fui contratada para trabalhar até as 5 e eu batei o ponto 6 horas bloqueio o sistema não bloqueia. Ele vai gerar uma hora extra não autorizada. Mas não quer dizer que essa hora extra não tenha que ser paga. Ela tem que ser paga, a gente sabe. Mas quer dizer que eu tenho um relatório de uma hora extra indevida. Se eu dei um pim-barba, [PESSOA], não pode acontecer. E depois ela fez de novo e de novo, [PESSOA], tenho que analisar esse colaborador, entender o que está acontecendo. Porém, dentro do sistema, a gente fez aqui, na parte\n[LOCUTOR 20]: do portal\n[LOCUTOR 26]: do colaborador, aqui essa parte de hora extra, que ele tem como justificar a hora extra feita. Então, ele vai justificar, olha, eu fiz hora extra hoje, mas é porque a gente está em fechamento. Então, eu atendi fulano, ciclano e beltrano e por isso que eu trabalhei até sete, oito horas da noite. Então, ele justifica para vocês. Quando ele chega lá naquela coluna de hora extra indevida, como assim, a [PESSOA] fez uma hora de hora extra indevida? Ah, não, está aqui a justificativa dela. Ela fez porque ela estava atendendo, porque ela estava fazendo tal processamento. Então, sim, respondendo a sua pergunta, tem como justificar, só que eu gosto de abrir um parêntese informando que a hora extra não pode ser bloqueada, legalmente isso não é permitido, mas fica numa coluna separada para que vocês possam ter o controle e o gestor aprovar. Ficou claro?\n[LOCUTOR 20]: Tá. Ok. Ficou, mas eu ainda fiquei com uma dúvida.\n[LOCUTOR 26]: Então,\n[LOCUTOR 20]: eu só consigo pedir uma justificativa de hora de aparência que já aconteceu. O que vai acontecer, eu não consigo pedir autorização.\n[LOCUTOR 26]: Não, você até... Deixa eu até fazer uma simulação com você. Deixa eu pegar aqui o mês de abril. [LOCAL] Eu posso entrar aqui no mês de abril? Deixa eu até fazer um teste, tá?\n[LOCUTOR 26]: Deixa eu ver se eu vou conseguir fazer um horário que não aconteceu ainda. Ó, eu consegui, tá vendo? Eu mandei uma solicitação no dia 1º, aqui. com a mensagem de horas extras das\n[LOCUTOR 13]: 6. Como que isso cai para mim? Opa, não é aqui. Aqui. Deixa eu entrar lá na tela inicial, onde que chega essa demanda para mim. Ó, justificativa de batida, incluir batida. Eu entro aqui e ela vai cair, ela vai estar a justificação. Deixa eu ver se ela vai liberar aqui para mim, nesse campo. Ela não vai liberar aqui para mim. mas ela me deixou permitir incluir posteriormente, não tem problema,\n[LOCUTOR 26]: horas extras. Então, ela pode chegar no dia 1º, deixa eu voltar aqui, mês de abril, dia 1º, e ela consegue entrar aqui e justificar no campo de horas extras. Aqui, o informe, a hora inicial e fim das horas extras para aprovação. E daí, automaticamente, cai para aprovação da liderança. Ele não vai bloquear do colaborador vir aqui das 18 horas, até às 18 horas e fazer a solicitação. E daí vai cair para o gestor aprovar. Dia 1º,\n[LOCUTOR 26]: dia que não aconteceu. Eu posso enviar. Ficou pendente, está vendo? Aí vai cair para o fluxo de aprovação. Deixa eu ver se ele vai liberar para mim agora. Ele vai cair direto para a pessoa responsável por esse colaborador. Deixa eu ver só se eu vou ter acesso.\n[LOCUTOR 20]: Selecionar abertas.\n[LOCUTOR 26]: É, mas não vai cair para mim porque eu não tenho acesso a esse colaborador exclusivo. Mas aí cai\n[LOCUTOR 20]: para\n[LOCUTOR 20]: [LOCUTOR 16]: vai chegar para vocês aprovarem. [LOCUTOR 16]: daí vocês conseguem... Quando o\n[LOCUTOR 26]: gestor aprovar, isso aqui vai sair do amarelo. Vai ficar verde se foi aprovado. E se ele não aprovar, fica em vermelho.\n[LOCUTOR 20]: Ok. [PESSOA], e a gente consegue algum relatório do que ficar verde e do que ficar vermelho?\n[LOCUTOR 20]: aprovações e da recusa?\n[LOCUTOR 26]: Consegue aqui. A gente tem um relatório de justificativas. Então, aqui eu tenho todas abertas, respondidas e respondidas e editadas. Então, esse é o filtro que eu vou conseguir. Isso a gente consegue também baixar em Excel. Então, eu vou pegar aqui as respondidas. Deixa eu aplicar um filtro aqui. Apareceu todas, está vendo? Status aprovada. Todas as minhas são aprovadas. Eu consigo baixar ela aqui em um Excel e extrair daí e verificar o que foi aprovado ou negado. Vai estar nesse filtro aqui, de status.\n[LOCUTOR 20]: É salvação de nível único. o gestor aprova, fica para lançar.\n[LOCUTOR 26]: Não necessariamente, vocês podem fazer dupla aprovação. Tudo que for lançado aqui dentro do portal do colaborador, ele pode ser dupla aprovação. Então, a solicitação de inclusão de batidas, horas extra, vocês conseguem criar um fluxo de aprovação. Vocês podem falar que o gestor aprova, só que cai depois para o RH aprovar. Pode ter mais de uma sequência, né?\n[LOCUTOR 20]: Tá, a segunda dúvida. A gente tem alguns colaboradores aqui que tem um pouco mais de dificuldade de eles mesmos fazerem a sua gestação. O nosso fluxo hoje funciona da seguinte forma. Foi até acordar o sindicato e eles, o [PESSOA] perguntou sobre essa questão do relatório, porque eles, hoje a gente tem um formulário e que eles pedem pra gente pra ver esse sindicato hoje com a aprovação. e negativas que estão sendo realizadas. Então, é muito importante a gente ter esse dado. Agora, hoje o nosso curso funciona do seguinte modo. O colaborador atrasou e quer compensar aquele horário.\n[LOCUTOR 26]: Então, vai\n[LOCUTOR 20]: mais rápido pra compensar o atraso. E faz uma solicitação ali pro gestor, verbal ou por e-mail. O gestor autoriza ou não, na maior parte dos casos, E aí o gestor preenche esse formulário falando o motivo Se é uma hora extra, se é uma compensação de jornada Se vai ser antes ou depois, ou se foi antes ou depois do horário Quantos minutos, se é até 15, 30, até uma hora\n[LOCUTOR 20]: até duas horas E aí o gestor que faz essa solicitação direto no formulário E aí o RH recebe essa\n[LOCUTOR 26]: solicitaç\n[LOCUTOR 4]: [PESSOA].\n[LOCUTOR 26]: três tipos de jornadas. A jornada flexível, que é uma hora autocompensada. A [PESSOA] é contratada para trabalhar das oito horas, mas independente se ela entra às oito, às nove, ela pode compensar dentro do dia. Uma escala rígida, ela precisa entrar às oito e finalizar o expediente às cinco horas.\n[LOCUTOR 20]: E uma\n[LOCUTOR 26]: jornada semi-flexível, onde a entrada e saída é fixa, só que o horário do intervalo, ele é flexível. Ok? Então eu posso ter a mesma jornada das oito às cinco, uma rígida e outra flexível. Como padrão da empresa, eu posso deixar a escala rígida. Só que nesses casos onde ele pede uma solicitação para que ele compense o atraso inicial no final do\n[LOCUTOR 26]: ele pode vir aqui, vamos supor que hoje\n[LOCUTOR 26]: um desses casos que ele chegou atrasado. Então ele pode vir aqui, incluir solicitação e enviar uma mensagem para você,\n[LOCUTOR 20]: para\n[LOCUTOR 26]: a gestão, tá?\n[LOCUTOR 20]: Então\n[LOCUTOR 26]: ele vai colocar aqui, cheguei atrasado, peço priorização para compensar no final do dia, ok?\n[LOCUTOR 20]: [LOCUTOR 10]: vai mandar a mensagem, ele vai enviar. Essa mensagem, ela pode seguir um fluxo de aprovação, onde chega para o gestor, ele aprova e cai para vocês operacionalizar. Como que vocês operacionalizam? Chegou a mensagem para vocês. Vocês vão lá dentro do colaborador, na apuração de batidas dele, então vou entrar no [EMPRESA] aqui também, vou entrar aqui na jornada dele, na apuração de batidas. E vou usar o dia primeiro, tá? Entrei aqui, eu tô com uma escala rígida, tá vendo? Ó, a escala aqui é rígida. Tá escrito aqui, ó. 12 por 36, rígida. Eu vou editar\n[LOCUTOR 26]: essa jornada, porque já foi aprovada pela gestão e eu acho que pode ser autocompensada. E eu vou selecionar por uma aqui que é flexível. E daí eu selecionei, eu informo que a alteração vai acontecer somente para esse dia. E eu salvo essa informação. O que o sistema vai\n[LOCUTOR 20]: fazer?\n[LOCUTOR 26]: Ele vai compensar automaticamente a chegada tardia com o horário que ele fez a mais no final do dia. Ele vai entender que o que ele fez de oito horas se pagou. Não virou nem banco de horas positivo, nem horas extras, nem horas faltas. Ficou elas por elas. O restante do dia continua normal. É uma boa prática, porque daí a gente sai dos formulários O colaborador entra na forma digital e ele sai. Eu sei que\n[LOCUTOR 26]: intelectual, né?\n[LOCUTOR 20]: Então, para esse sentido, a gente tem que ficar ativo, colaborando, e ele tem que saber o que a gente está fazendo.\n[LOCUTOR 26]: Isso, ele teria que fazer a solicitação por ali para que a gestão tenha ciência.\n[LOCUTOR 20]: [LOCUTOR 15]: que... Se vocês quiserem que ele continue\n[LOCUTOR 26]: preenchendo o formulário, não tem problema, ele vai preencher o formulário, só que o gestor não vai ter a autonomia de fazer a solicitação para vocês. Ele pode ter a autonomia de entrar no sistema e fazer aquela alteração aqui, se vocês derem permissão para ele fazer. Tá.\n[LOCUTOR 20]: O problema do próprio colaborador de pedir autorização para o gestor ou eu preciso de liberar a funcionalidade para o próprio gestor fazer a operação do sistema?\n[LOCUTOR 26]: [PESSOA],\n[LOCUTOR 20]: exatamente.\n[LOCUTOR 26]: O gestor nunca vai poder fazer a solicitação por parte do colaborador, porque essas solicitações são feitas pelo do colaborador, onde só ele que tenha acesso.\n[LOCUTOR 20]: E se for uma hora extra por demanda da instituição? Suponhamos que o gestor aqui precisa do colaborador em determinado horário. Então, é como se ele...\n[LOCUTOR 12]: caso,\n[LOCUTOR 21]: conseguem... Nesse caso,\n[LOCUTOR 21]: conseguem deixar uma hora extra já autorizada. Ela n\n[LOCUTOR 4]: vai gerar um\n[LOCUTOR 26]: fluxo de aprovação de hora extra não autorizada. Vai ter uma jornada, que é uma jornada com hora extra autorizada, e vocês conseguem vir aqui dentro do sistema e já pré-definir. Até para um departamento já em massa. Eu consigo vir aqui para um departamento, um exemplo, departamento comercial. Faço um\n[LOCUTOR 20]: filtro do\n[LOCUTOR 26]: departamento comercial, seleciono todo mundo, ação a ser executada, eu aplico essa jornada. Eu falo que essa jornada está autorizada do dia 17 até o dia 25, por exemplo. Somente para esse período. Então, é uma jornada com hora extra já autorizada. O que quer dizer? Que se ele fizer hora extra dentro desse período, não vai gerar o fluxo, a coluna de hora extra não autorizada. Já vai ter autorizada.\n[LOCUTOR 20]: Outra coisa, a gente consegue colocar o limite para a solicitação ser no mesmo dia?\n[LOCUTOR 26]: Para\n[LOCUTOR 20]: solicitar... Por que eu estou te falando isso, assim? Para o colaborador não vir três dias depois falando que ele confessou uma hora, mais de três dias atrás, entendeu?\n[LOCUTOR 26]: E esse limite ele não consegue porque o campo de envio de mensagem ele não é só para essa informação, né? Ele tem para outras informações. o que você consegue é ter uma cultura interna e falar, ah, isso eu não vou aceitar. Porque é mais uma cultura interna em falar, olha, se estiver\n[LOCUTOR 20]: fora\n[LOCUTOR 26]: do prazo, nós não vamos aceitar. Ficou claro, gente. Eu tenho uma próxima reunião. O\n[LOCUTOR 20]: nosso tempo,\n[LOCUTOR 26]: a gente perdeu uma meia horinha. Mas eu queria saber se vocês têm mais alguma dúvida referente a essas demandas de horas extras, da questão de integrações.\n[LOCUTOR 26]: [LOCAL],\n[LOCUTOR 32]: ficar\n[LOCUTOR 1]: disposição, tá? O [PESSOA] tem\n[LOCUTOR 26]: meu WhatsApp ali, a gente tá bem próximo, então qualquer dúvida pode pontuar. Ah, esqueci de perguntar isso\n[LOCUTOR 26]: [PESSOA]. Manda pro [PESSOA], que ele já me manda aqui, eu já consigo também tirar essa dúvida pontual que ficar. Combinado?\n[LOCUTOR 20]: [LOCAL],\n[LOCUTOR 32]: Qual é uma coisa que você consegue tomar essa decisão e ensinar hoje e o que você precisa mais? Ficou mudo para mim. Não estou ouvindo vocês.\n[LOCUTOR 20]: Acho que a\n[LOCUTOR 32]: Tá, tá bom. Eu vou ter que gerar ela de novo, né? A partir de amanhã, tá? Você me passa, então, quando que você consegue fazer pra eu poder já deixar ela com o prazo certo, aí eu poder gerar quando tiver amanhã, a partir de amanhã?\n[LOCUTOR 20]: Uma dúvida que\n[LOCUTOR 32]: Quanto\n[LOCUTOR 20]: tempo, geralmente, que demora para fazer a implementação?\n[LOCUTOR 20]: Se voc\n[LOCUTOR 2]: conseguir batalha...\n[LOCUTOR 24]: vejo que ela não... Tá, tá bom. Depende de... Eu posso ver com ela se tem alguma noção, assim, de quando começa a fazer até quando para. Mas, realmente, agendas, não precisa assinar, eu vou subir aqui, depois gera uma abertura de um processo de projeto aqui dentro, vou pegar as agendas do pessoal para eles começarem a fazer. Tudo isso depende aqui de quando a gente assine disponibilidade. Eu vou pegar com ela. Depois começa a fazer. Qual que é o prazo normalmente? Quanto tempo é?\n[LOCUTOR 32]: Isso...\n[LOCUTOR 20]: Depois que acabam esses trâmites legais, de firmar o contrato e tudo, quanto tempo tem que ir do início da alimentação até o final, até a\n[LOCUTOR 32]: construção? Tá bom, tá bom. Você já tem uma ideia? [LOCAL] já gera para os próximos 15 dias? O que você acha? O que eu faço amanhã?\n[LOCUTOR 20]: um tempo\n[LOCUTOR 32]: que eu\n[LOCUTOR 20]: preciso de poder finalizar e assinar [LOCAL] a alguns dias.\n[LOCUTOR 20]: que ela\n[LOCUTOR 32]: Sobre suporte?\n[LOCUTOR 20]: É, depois da implantação, se a gente tiver problemas, dúvidas, alguma coisa que não está integralizando com a [EMPRESA], como é que funciona esse suporte?\n[LOCUTOR 32]: Ela é uma empresa da [EMPRESA]. Então, ela é igual ao suporte que você já tem da [EMPRESA], a chamar\n[LOCUTOR 20]: normal. É,\n[LOCUTOR 32]: é normal. Assim, vocês vão ver que a implantação é feita ainda por um time que é um time exclusivo do Agora, tá? Talvez, dependendo do chamado que vocês abrirem, vocês vão abrir chamado normal com ticket normal. Dependendo do que precisar, dos níveis de chamado, aí pode ser uma hora que caia para o time de desenvolvimento do Agora. Então toda empresa dentro da [EMPRESA] tem o seu próprio time de desenvolvimento, mas é tudo concentrado, chamado dentro da [EMPRESA], porque ele é uma empresa [EMPRESA]. Tá bom?\n[LOCUTOR 32]: para vocês.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:15.748560+00:00",
+    "total_linhas": 261,
+    "linhas_mantidas": 170,
+    "linhas_removidas": 91,
+    "percentual_mantido": 65.13,
+    "confianca_media": 0.4726
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Mas ainda tem dúvidas disso, dos talgos que eles têm lá, e da presença que eles têm.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.523,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: E aí E a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: fechado. Olá, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tarde. [EMPRESA], gente. Boa tarde. Olá, gente. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Olá, boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: pessoal. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3861,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tudo bem,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: e vocês? Faz um tempinho, né? Que bom que deu tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4168,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Obrigada, viu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Eu sei que deve estar uma barulheira aqui perto de mim, porque hoje é dia de fechamento, [LOCAL] a pouco toca sino, faz barulho, desenho, é uma doideira aqui, tá? Vamos lá que a gente vai tentar tirar todas as dúvidas de vocês hoje, tá? Eu pedi pra [PESSOA] então participar aqui, ela tem conseguido uma brechinha na agenda dela ali até duas e meia, tá bom? Então, vamos lá, fiquem à vontade pra perguntar o que vocês quiserem, porque eu não sei responder, mas eu trouxe quem sabe. Olá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4493,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: pessoal, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3861,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tudo certo, tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4065,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: certo. Queria entender um pouquinho quais são as dúvidas. O [PESSOA] me relatou ali que vocês estavam com algumas dúvidas referentes à integração com o ARM, até a questão dos tablets também, se o aplicativo ia ser compatível com os equipamentos que vocês tinham também. mas eu queria que vocês se abrissem mesmo para que eu conseguisse sonar um pouco dessas dúvidas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [PESSOA]. Primeiramente, acho que a maior dúvida seria de como que funciona a integração do agora com o RM.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: gente queria tentar, se for possível, visualizar como que é essa integração. Como que é o comando dentro do RM que faz puxar as marcações do agora, por exemplo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Na verdade, esse processo, ele é automático, eu vou até, deixa eu abrir aqui o chat, porque não está aberto aqui, eu vou colocar nesse campo aqui do nosso chat o nosso [EMPRESA] referente à integração com o RM, tá? Para que depois vocês até possam analisar, verificar quais são os campos do RM que integram, quais são as informações de afastamentos, mas até referente à quest",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: das",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: informações que elas vão, depois do agora para dentro do RM, que são as informações referentes aos resultados da folha. Deixa eu abrir a minha base aqui. A gente tem esse comando automático, uma vez que vocês...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vocês fecham a competência,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: daí vai automaticamente. Só um minutinho. Dados cadastrais, dados de afastamentos, esses são configurados periodicamente para quatro, cinco vezes ao dia eles irem automaticamente, tá? Então não precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: feito nenhuma alteração, nenhum comando, isso é realmente nativo. Os dados de resultado, como eles são dados que eles só vão e irem quando tiverem sido tratados, Esse, sim, a gente vai precisar dar um comando. E qual que é o comando dentro da plataforma que vai fazer a liberação? É quando a gente olhou todos os relatórios, todas as dashboards, entendeu? Não tem nenhum ajuste mais para fazer dentro do ponto. Eu preciso dessas informações agora lá dentro da folha, para fazer o processamento da folha. Aí a gente vai vir aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vai bloquear",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: competência. O bloqueio de competência, ele é o comando para essas informações estarem lá dentro do RM. Então, esse é o comando para realizar a integração, diferente da integração de dados cadastrais e dados de afastamentos, que inicia-se lá dentro da folha, certo? Isso é configurado lá dentro da folha para vir para dentro da solução do agora, três, quatro vezes ao dia, todo dia ali às cinco da manhã, às nove horas da manhã, às duas horas da tarde, às cinco horas da tarde, [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [PESSOA], quando você fala dos afastamentos e dados cadastrais, que esses já estão no automático? O comando. Quando você diz afastamento, seria exatamente?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.497,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: O atestado, as férias, licença maternidade, paternidade, tudo aquilo que comunica o e-social. Então, tudo aquilo que vocês fazem lá por dentro da folha, todo o afastamento, ele alimenta aqui dentro a nossa solução.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Hoje voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: utilizam o meu RH?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vocês utilizam o meu RH para fazer esse tipo de solicitação ou fica na responsabilidade de vocês incluírem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: A gente que inclui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Vocês que incluem. A incluir lá dentro do sistema para a comunicação social, para fazer o afastamento lá dentro da folha, certo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Isso. Isso, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Perfeito. No momento que vocês incluírem lá, automaticamente aqui, essa parte de afastamento, ela é alimentada. Automaticamente, não. Vou corrigir. no período que vocês configurarem. Então, vamos supor que você fez um lançamento às 10 horas da manhã de afastamento lá dentro do RM e você deu um comando lá na implantação que esse afastamento ia acontecer quatro vezes ao dia sem integração, às 9 horas da manhã, ao meio-dia e às 5 horas da tarde. Então, quando chegar ao meio-dia, esse lançamento de afastamento que você fez lá dentro do RM vai vir aqui para dentro da solução do Agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Então, esse processo de colocar o atestado, ele segue normalmente,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCUTOR 10]: segue normalmente, porque o sistema de ponta, ele não comunica o ex-social, quem tem essa responsabilidade é a Folha, né? Então, os afastamentos, eles continuam seguindo lá por dentro da Folha, como já é feito. Ô, [PESSOA], uma dúvida aqui. Você falou da questão dos atestados poderem se encontrar, são automáticos, de acordo com os horários que a gente falou. Se tiver alguma alteração no cadastro do funcionário, por exemplo, uma alteração de jornada, isso também é importado automaticamente? Ou eu tenho que fazer um cadastro lá no [EMPRESA] e um cadastro lá do outro?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá, isso, muito importante isso. Os cadastros, tudo que cadastrar lá, que alterar no cadastro do colaborador lá, vai alterar no cadastro [LOCAL]. O que eu não trago do [EMPRESA]? A jornada e a escala dele.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: eu posso",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: ter",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: uma escala aqui, Deixa eu até mostrar para vocês. Aqui em horários,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4569,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: parte de escala, quando eu tenho a minha escala, eu vou ter que configurar todas as escalas que você tem lá, aqui também. A gente vai replicar. Quando eu crio uma escala, essa escala tem um código interno dela. Esse código pode ser o mesmo que vocês utilizam lá. Aí sim, quando vocês alterarem lá dentro do cadastro ou do colaborador, altera-se aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCUTOR 6]: vocês podem alterar automaticamente aqui também. Não tem problema. Tá? Mas a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vai precisar ter",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: as duas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: caducadas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Enquanto a gente está em plantação, a gente vai fazer essa etapa. Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: exatamente. Na implantação, vocês vão verificar tudo que vocês têm dentro do RM e replicar para cá. É importante que só o código contábil, ou seja, o código interno seja o mesmo para a gente e já essa alteração lá vir junto. Da mesma forma que assim, eu tenho um colaborador lá que ele está vinculado ao centro de custo X, lá dentro do RM. Chegou na metade do ano, ele foi para o centro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: custo Y. Eu alterei lá dentro do RM. Isso automaticamente vai repletir aqui dentro da gestão do ponto também. Então essas alterações também de centro de custo, da pessoa responsável por ele, então altera aqui também. Tudo que for movimentado dentro do cadastro movimenta também aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [PESSOA]. [PESSOA], o espelho de ponto a gente vai passar a tirar no agora e não mais no RL, certo? Ou vai funcionar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4342,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: os dois? Não, vai ser retirado [LOCAL]. O colaborador vai ter acesso ao portal do colaborador dele, que é o aplicativo esse [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCUTOR 18]: eu apagar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aqui o da Aurora para vocês visualizarem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5166,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: acesso...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: falo a gente como RH como empresa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Vocês como RH por aqui. Por aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: também. Também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: e isso pelo Agora também. Vocês conseguem gerar o espelho do ponto aqui, gerenciamento de espelho do ponto, gerar em massa de um departamento, de um setor em massa, ou se vocês quiserem de um colaborador",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: específico, porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: estão fazendo uma demissão, eu quero do último ano desse colaborador. Eu entro aqui no [EMPRESA], venho aqui no joinha dele, e lá embaixo eu consigo gerar o espelho do ponto dele. Aqui está o espelho dele atual, do mês de março. Quando eu vou lá no final, Olha, eu tenho aqui espelhos, múltiplos espelhos de ponto, tá vendo? Aí eu só gero aqui e coloco a data que eu quero, a de um ano, de dois anos, de três anos, e eu gero os espelhos do ponto dele. [PESSOA], você quer complementar com algo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: mutado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: [EMPRESA]. Pronto. Tá me ouvindo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4364,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 29]: pra complementar aqui, aquilo que eu tinha falado com vocês aí, pessoal, assim, o agora, ele que faz toda a tratativa, ele entrega prontinho lá pro RM. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5387,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: ser feita a tratativa dentro dele. Isso que é importante para vocês não terem que ficar fazendo acordo com cada funcionário. Lembra que isso aqui é um ponto que ele não vai pegar digital, exatamente tirar um papelzinho para ele. Então, por essas questões, o agora inteiro ele é homologado. Então, tudo tem que ser feito dentro do agora. Não dá para sair lá no meu RH e fazer alguma tratativa, senão",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: perde",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: essa homologação. Por isso, tem que ser tudo aqui dentro, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA]. O Agora é uma solução homologada pelo RepP, o Registro Eletrônico de Ponto Via Programa. Toda a documentação, o despele do ponto, o arquivo AFD, o [EMPRESA], ele já é pré-assinalado, ele é válido juridicamente. Quem se responsabiliza por isso? A TOTOS. Então vamos trazer um exemplo. fiscalização, recebi um passivo trabalhista, estão me pedindo o arquivo AFD, estão me pedindo o espelho do ponto homologado do colaborador. Quem que tem que responder para essa documentação? A [EMPRESA]. Então é a nossa responsabilidade, por isso que é tão importante a gente ter um fornecedor com [EMPRESA], se o meu fornecedor não tiver REP-P, eu escolhi um fornecedor que ele é [PESSOA], ou que ele é um outro modelo, aí a gente dá a responsabilidade para vocês. Qual que é a responsabilidade de vocês fazer acordo com o sindicato? Porque, daí, o sindicato puxa a responsabilidade para ele. Aí, eu tenho que me incomodar com acordo sindical, acordo com colaborador, que não é o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: caso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: do Agora. O Agora Happy Pay, então, a gente que se responsabiliza por toda essa documentação. Por isso que centraliza toda a tratativa de ponto dentro dele. Então, o espelho do ponto aqui, o arquivo fiscal fica aqui disponível para você também, o arquivo AFD, o Happy Pay. Então, fica de fácil acesso para que vocês consigam gerar por dentro da solução. Assim como os",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: comprovantes",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: de marcação de ponto também, que se tornam digitais.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Então, quando essa situação for correta, a gente pode pensar que o modo de automação de ponto [EMPRESA] vai ser desativado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA], ele não vai ser desativado. Ele está travando um pouquinho e daí está chegando para a gente um pouquinho mais atrasado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4359,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: mas eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: consegui te entender. Ele não vai ser desativado. Ele vai estar lá. A gente só não vai utilizar ele. Por que ele não vai ser desativado? Porque vamos que você quer consultar algum dado seu lá do ano passado. Você vai conseguir acessar ali e acessar a qualquer momento. Ele não vai ser desativado. Ele vai estar ali, mas a gente não vai utilizar mais ele. As informações não vão passar por lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A gente vai manter, porque ele não tem um curso à parte, né? Então, a gente vai manter mais para consulta de informações mesmo. Como a gente não vai trazer o histórico para dentro do Agora, ele vai permanecer ali dentro do RM, então vai ficar mais para uma consulta sua interna.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tudo bem. Outra dúvida que eu fiquei aqui, não sei se vocês me respondem. Mas algumas tratativas que a gente faz a posterior, vamos supor que o período do banco já fechou, eu já passei o sistema de encontro aqui, a gente passa pelos coordenadores para eles revisarem e verificarem se tem algum ajuste para ser feito. Por exemplo, o colaborador esqueceu de bater o encontro em determinado dia, às vezes a gente identifica só nesse momento, a gente sabe que [PESSOA]. Ele foi formando o coordenado para ensinar a gente a utilizar a linguagem, a gente vai lá e faz as modificações que podem ser necessárias e disponibiliza uma nova portafolha, um novo espelho de ponto para a gente poder abordar as questões fisicamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Desculpa, tá travando um pouquinho, pessoal. Mas eu entendi a tua necessidade. Na questão do espelho do ponto dos esquecimentos de batida, quando o pessoal esquece de bater e vai só depois pro gestor chegar esse espelho do ponto pra ele verificar o que tá acontecendo, né? E daí precisa gerar um novo espelho do ponto pra aprovação, certo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: perfeito. Eu vou me anteceder pra que isso não aconteça. Como? Primeiramente, o sistema vai disponibilizar para vocês, para o gestor e para o colaborador. [LOCAL] pode ser em diário, semanal ou mensal. De esquecimento de batida, de faltas consecutivas, de horas extras. Então, vou trazer um exemplo. Eu, [PESSOA], esqueci de bater o ponto ontem. Hoje, eu posso receber um e-mail falando, [PESSOA], eu tenho uma inconsistência de batida. Isso já está me sinalizando que eu preciso entrar lá dentro do portal e solicitar um ajuste. O meu gestor, ele também recebe. Olha, a [PESSOA], a [PESSOA] e a [LOCAL] esqueceram de bater o ponto. Ou você ajusta o ponto delas, ou você informa para elas, para que elas solicitem, né? Então, se eu tenho essa automatização rodando, que é aqui o sistema mandando diariamente, semanalmente, ou até mensalmente, eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: gosto muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: do diário para o colaborador, para ele se atentar, e para a gestão, para não ser encarregada de vários relatórios semanalmente, né? Então, vamos supor, toda segunda-feira, às 9 horas da manhã, a gestão recebe o relatório das inconsistências de batidas. Por quê? A gente não sobrecarrega o fechamento. A gente vai deixar isso diluído semanalmente. O gestor está sabendo o que está acontecendo durante a semana. E daí, ele vai lá na reunião, ele vai falar, [PESSOA], eu vi lá que você tem dois esquecimentos. Vai lá no teu portal, ajusta para a gente deixar isso redondinho. E daí, o RH aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: for automatizar, e daí o relatório pode ser do inconsistência de batidas, do Horas Extras Indevidas, das infrações, vocês customizam quais relatórios",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5922,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: querem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: que seja",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: enviado, tá? E daí, aqui na mensagem, vocês botam para a gestão, segue para a conferência, né? E daí salva. Automaticamente, o sistema, todas as segundas, nove horas, vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5579,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: disparar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: esse fluxo automático. Então, isso já reduz as inconsistências. A gente já ganha um ponto, tá? E, na questão da aprovação do SPL ponto, ele tem dupla aprovação. A gestão, ela aprova",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: depois cai para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: colaborador fazer a assinatura. Vamos supor que a gestão olhou, [PESSOA], ainda tem uma inconsistência de batida aqui, deixa eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: ajustar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eles podem ajustar, automaticamente o espelho do ponto é atualizado e cai para o colaborador fazer a assinatura. Então, não é gerado um do zero, é só corrigir a inconsistência que está ali e ele automaticamente reprocessa a informação. Podem falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Uma dúvida. Por exemplo, eu quero fazer uma hora extra na data de amanhã. Eu consigo solicitar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5113,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: autorizaç",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: pelo agora para o meu gestor e ele aprovar pelo agora?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5001,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Ok, vamos lá. A hora extra hoje infelizmente não tem como a gente fazer o bloqueio. Então infelizmente não tem como fazer o seguinte. A [PESSOA] não pode fazer hora extra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3958,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: se hoje eu fui contratada para trabalhar até as 5 e eu batei o ponto 6 horas bloqueio o sistema não bloqueia. Ele vai gerar uma hora extra não autorizada. Mas não quer dizer que essa hora extra não tenha que ser paga. Ela tem que ser paga, a gente sabe. Mas quer dizer que eu tenho um relatório de uma hora extra indevida. Se eu dei um pim-barba, [PESSOA], não pode acontecer. E depois ela fez de novo e de novo, [PESSOA], tenho que analisar esse colaborador, entender o que está acontecendo. Porém, dentro do sistema, a gente fez aqui, na parte",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: do portal",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: do colaborador, aqui essa parte de hora extra, que ele tem como justificar a hora extra feita. Então, ele vai justificar, olha, eu fiz hora extra hoje, mas é porque a gente está em fechamento. Então, eu atendi fulano, ciclano e beltrano e por isso que eu trabalhei até sete, oito horas da noite. Então, ele justifica para vocês. Quando ele chega lá naquela coluna de hora extra indevida, como assim, a [PESSOA] fez uma hora de hora extra indevida? Ah, não, está aqui a justificativa dela. Ela fez porque ela estava atendendo, porque ela estava fazendo tal processamento. Então, sim, respondendo a sua pergunta, tem como justificar, só que eu gosto de abrir um parêntese informando que a hora extra não pode ser bloqueada, legalmente isso não é permitido, mas fica numa coluna separada para que vocês possam ter o controle e o gestor aprovar. Ficou claro?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tá. Ok. Ficou, mas eu ainda fiquei com uma dúvida.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: eu só consigo pedir uma justificativa de hora de aparência que já aconteceu. O que vai acontecer, eu não consigo pedir autorização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Não, você até... Deixa eu até fazer uma simulação com você. Deixa eu pegar aqui o mês de abril. [LOCAL] Eu posso entrar aqui no mês de abril? Deixa eu até fazer um teste, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Deixa eu ver se eu vou conseguir fazer um horário que não aconteceu ainda. Ó, eu consegui, tá vendo? Eu mandei uma solicitação no dia 1º, aqui. com a mensagem de horas extras das",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: 5",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: 6. Como que isso cai para mim? Opa, não é aqui. Aqui. Deixa eu entrar lá na tela inicial, onde que chega essa demanda para mim. Ó, justificativa de batida, incluir batida. Eu entro aqui e ela vai cair, ela vai estar a justificação. Deixa eu ver se ela vai liberar aqui para mim, nesse campo. Ela não vai liberar aqui para mim. mas ela me deixou permitir incluir posteriormente, não tem problema,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: as",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: horas extras. Então, ela pode chegar no dia 1º, deixa eu voltar aqui, mês de abril, dia 1º, e ela consegue entrar aqui e justificar no campo de horas extras. Aqui, o informe, a hora inicial e fim das horas extras para aprovação. E daí, automaticamente, cai para aprovação da liderança. Ele não vai bloquear do colaborador vir aqui das 18 horas, até às 18 horas e fazer a solicitação. E daí vai cair para o gestor aprovar. Dia 1º,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: dia que não aconteceu. Eu posso enviar. Ficou pendente, está vendo? Aí vai cair para o fluxo de aprovação. Deixa eu ver se ele vai liberar para mim agora. Ele vai cair direto para a pessoa responsável por esse colaborador. Deixa eu ver só se eu vou ter acesso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Selecionar abertas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É, mas não vai cair para mim porque eu não tenho acesso a esse colaborador exclusivo. Mas aí cai",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: o gestor aprovar. Então vai ficar como? Hora extra não autorizada.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3932,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCUTOR 16]: vai chegar para vocês aprovarem. [LOCUTOR 16]: daí vocês conseguem... Quando o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4828,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: gestor aprovar, isso aqui vai sair do amarelo. Vai ficar verde se foi aprovado. E se ele não aprovar, fica em vermelho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Ok. [PESSOA], e a gente consegue algum relatório do que ficar verde e do que ficar vermelho?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Das",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: aprovações e da recusa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Consegue aqui. A gente tem um relatório de justificativas. Então, aqui eu tenho todas abertas, respondidas e respondidas e editadas. Então, esse é o filtro que eu vou conseguir. Isso a gente consegue também baixar em Excel. Então, eu vou pegar aqui as respondidas. Deixa eu aplicar um filtro aqui. Apareceu todas, está vendo? Status aprovada. Todas as minhas são aprovadas. Eu consigo baixar ela aqui em um Excel e extrair daí e verificar o que foi aprovado ou negado. Vai estar nesse filtro aqui, de status.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4825,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: OK.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Está bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4318,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: É salvação de nível único. o gestor aprova, fica para lançar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Não necessariamente, vocês podem fazer dupla aprovação. Tudo que for lançado aqui dentro do portal do colaborador, ele pode ser dupla aprovação. Então, a solicitação de inclusão de batidas, horas extra, vocês conseguem criar um fluxo de aprovação. Vocês podem falar que o gestor aprova, só que cai depois para o RH aprovar. Pode ter mais de uma sequência, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tá, a segunda dúvida. A gente tem alguns colaboradores aqui que tem um pouco mais de dificuldade de eles mesmos fazerem a sua gestação. O nosso fluxo hoje funciona da seguinte forma. Foi até acordar o sindicato e eles, o [PESSOA] perguntou sobre essa questão do relatório, porque eles, hoje a gente tem um formulário e que eles pedem pra gente pra ver esse sindicato hoje com a aprovação. e negativas que estão sendo realizadas. Então, é muito importante a gente ter esse dado. Agora, hoje o nosso curso funciona do seguinte modo. O colaborador atrasou e quer compensar aquele horário.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Então, vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: mais rápido pra compensar o atraso. E faz uma solicitação ali pro gestor, verbal ou por e-mail. O gestor autoriza ou não, na maior parte dos casos, E aí o gestor preenche esse formulário falando o motivo Se é uma hora extra, se é uma compensação de jornada Se vai ser antes ou depois, ou se foi antes ou depois do horário Quantos minutos, se é até 15, 30, até uma hora",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: até duas horas E aí o gestor que faz essa solicitação direto no formulário E aí o RH recebe essa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: solicitaç",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aqui, como que seria? Porque hoje a gente trabalha",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4533,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: três tipos de jornadas. A jornada flexível, que é uma hora autocompensada. A [PESSOA] é contratada para trabalhar das oito horas, mas independente se ela entra às oito, às nove, ela pode compensar dentro do dia. Uma escala rígida, ela precisa entrar às oito e finalizar o expediente às cinco horas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5972,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: E uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: jornada semi-flexível, onde a entrada e saída é fixa, só que o horário do intervalo, ele é flexível. Ok? Então eu posso ter a mesma jornada das oito às cinco, uma rígida e outra flexível. Como padrão da empresa, eu posso deixar a escala rígida. Só que nesses casos onde ele pede uma solicitação para que ele compense o atraso inicial no final do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: dia,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ele pode vir aqui, vamos supor que hoje",
+      "mantida": true,
+      "probabilidade_relevancia": 0.492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: um desses casos que ele chegou atrasado. Então ele pode vir aqui, incluir solicitação e enviar uma mensagem para você,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: a gestão, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ele vai colocar aqui, cheguei atrasado, peço priorização para compensar no final do dia, ok?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCUTOR 10]: vai mandar a mensagem, ele vai enviar. Essa mensagem, ela pode seguir um fluxo de aprovação, onde chega para o gestor, ele aprova e cai para vocês operacionalizar. Como que vocês operacionalizam? Chegou a mensagem para vocês. Vocês vão lá dentro do colaborador, na apuração de batidas dele, então vou entrar no [EMPRESA] aqui também, vou entrar aqui na jornada dele, na apuração de batidas. E vou usar o dia primeiro, tá? Entrei aqui, eu tô com uma escala rígida, tá vendo? Ó, a escala aqui é rígida. Tá escrito aqui, ó. 12 por 36, rígida. Eu vou editar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: essa jornada, porque já foi aprovada pela gestão e eu acho que pode ser autocompensada. E eu vou selecionar por uma aqui que é flexível. E daí eu selecionei, eu informo que a alteração vai acontecer somente para esse dia. E eu salvo essa informação. O que o sistema vai",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: fazer?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Ele vai compensar automaticamente a chegada tardia com o horário que ele fez a mais no final do dia. Ele vai entender que o que ele fez de oito horas se pagou. Não virou nem banco de horas positivo, nem horas extras, nem horas faltas. Ficou elas por elas. O restante do dia continua normal. É uma boa prática, porque daí a gente sai dos formulários O colaborador entra na forma digital e ele sai. Eu sei que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: tem aquela dificuldade pessoal",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4422,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: não é tão",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: intelectual, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: não estou ouvindo vocês, ficou mudo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4148,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Está me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4107,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ouvindo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Então, para esse sentido, a gente tem que ficar ativo, colaborando, e ele tem que saber o que a gente está fazendo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Isso, ele teria que fazer a solicitação por ali para que a gestão tenha ciência.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCUTOR 15]: que... Se vocês quiserem que ele continue",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5005,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: preenchendo o formulário, não tem problema, ele vai preencher o formulário, só que o gestor não vai ter a autonomia de fazer a solicitação para vocês. Ele pode ter a autonomia de entrar no sistema e fazer aquela alteração aqui, se vocês derem permissão para ele fazer. Tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: O problema do próprio colaborador de pedir autorização para o gestor ou eu preciso de liberar a funcionalidade para o próprio gestor fazer a operação do sistema?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: O gestor nunca vai poder fazer a solicitação por parte do colaborador, porque essas solicitações são feitas pelo do colaborador, onde só ele que tenha acesso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: E se for uma hora extra por demanda da instituição? Suponhamos que o gestor aqui precisa do colaborador em determinado horário. Então, é como se ele...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: caso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: conseguem... Nesse caso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: conseguem deixar uma hora extra já autorizada. Ela n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: vai gerar um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: fluxo de aprovação de hora extra não autorizada. Vai ter uma jornada, que é uma jornada com hora extra autorizada, e vocês conseguem vir aqui dentro do sistema e já pré-definir. Até para um departamento já em massa. Eu consigo vir aqui para um departamento, um exemplo, departamento comercial. Faço um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: filtro do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: departamento comercial, seleciono todo mundo, ação a ser executada, eu aplico essa jornada. Eu falo que essa jornada está autorizada do dia 17 até o dia 25, por exemplo. Somente para esse período. Então, é uma jornada com hora extra já autorizada. O que quer dizer? Que se ele fizer hora extra dentro desse período, não vai gerar o fluxo, a coluna de hora extra não autorizada. Já vai ter autorizada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Outra coisa, a gente consegue colocar o limite para a solicitação ser no mesmo dia?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: solicitar... Por que eu estou te falando isso, assim? Para o colaborador não vir três dias depois falando que ele confessou uma hora, mais de três dias atrás, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E esse limite ele não consegue porque o campo de envio de mensagem ele não é só para essa informação, né? Ele tem para outras informações. o que você consegue é ter uma cultura interna e falar, ah, isso eu não vou aceitar. Porque é mais uma cultura interna em falar, olha, se estiver",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: fora",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: do prazo, nós não vamos aceitar. Ficou claro, gente. Eu tenho uma próxima reunião. O",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: nosso tempo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: a gente perdeu uma meia horinha. Mas eu queria saber se vocês têm mais alguma dúvida referente a essas demandas de horas extras, da questão de integrações.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5074,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Tá bom, [PESSOA], muito obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: desculpa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: não poder",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: ficar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: mais. mas hoje tá corrido aqui. Mas eu fico",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4098,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: disposição, tá? O [PESSOA] tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: meu WhatsApp ali, a gente tá bem próximo, então qualquer dúvida pode pontuar. Ah, esqueci de perguntar isso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: pra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA]. Manda pro [PESSOA], que ele já me manda aqui, eu já consigo também tirar essa dúvida pontual que ficar. Combinado?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4625,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Obrigada, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Obrigada pela sua disponibilidade. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4382,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Qual é uma coisa que você consegue tomar essa decisão e ensinar hoje e o que você precisa mais? Ficou mudo para mim. Não estou ouvindo vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Acho que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: internet não está legal. Jogamos uma vez, mas parece que está travando",
+      "mantida": false,
+      "probabilidade_relevancia": 0.433,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: aqui. Hoje eu não consigo fazer isso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3874,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Tá, tá bom. Eu vou ter que gerar ela de novo, né? A partir de amanhã, tá? Você me passa, então, quando que você consegue fazer pra eu poder já deixar ela com o prazo certo, aí eu poder gerar quando tiver amanhã, a partir de amanhã?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCAL], passa, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Tá bom, só me passa. [LOCAL] já muda as coisas, mas eu já vou lá e já gero, já deixo prontinho para vocês assinarem, tá bom? Aliás...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4186,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Uma dúvida que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5156,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: eu j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: não sei se você vai conseguir esclarecer.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Quanto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: tempo, geralmente, que demora para fazer a implementação?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Não vou saber te dizer, me dá uma de cabeça aqui. Não vou saber mesmo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4066,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Se voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: conseguir batalha...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 24]: vejo que ela não... Tá, tá bom. Depende de... Eu posso ver com ela se tem alguma noção, assim, de quando começa a fazer até quando para. Mas, realmente, agendas, não precisa assinar, eu vou subir aqui, depois gera uma abertura de um processo de projeto aqui dentro, vou pegar as agendas do pessoal para eles começarem a fazer. Tudo isso depende aqui de quando a gente assine disponibilidade. Eu vou pegar com ela. Depois começa a fazer. Qual que é o prazo normalmente? Quanto tempo é?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Isso...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Depois que acabam esses trâmites legais, de firmar o contrato e tudo, quanto tempo tem que ir do início da alimentação até o final, até a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: construção? Tá bom, tá bom. Você já tem uma ideia? [LOCAL] já gera para os próximos 15 dias? O que você acha? O que eu faço amanhã?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4773,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: um tempo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: preciso de poder finalizar e assinar [LOCAL] a alguns dias.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5041,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Então amanhã já gera e mando pra vocês, tá bom? Não é uma questão que eu sempre preciso falar, eu não posso garantir o jeito que ela tá hoje, tá bom? Aí amanhã, do jeito",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4207,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: que ela",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: tiver, eu gero e mando pra vocês,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4368,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: t",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Não vi também, [PESSOA]. Lá fala sobre suporte também?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.437,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Sobre suporte?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: É, depois da implantação, se a gente tiver problemas, dúvidas, alguma coisa que não está integralizando com a [EMPRESA], como é que funciona esse suporte?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Ela é uma empresa da [EMPRESA]. Então, ela é igual ao suporte que você já tem da [EMPRESA], a chamar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.546,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: normal. É,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: é normal. Assim, vocês vão ver que a implantação é feita ainda por um time que é um time exclusivo do Agora, tá? Talvez, dependendo do chamado que vocês abrirem, vocês vão abrir chamado normal com ticket normal. Dependendo do que precisar, dos níveis de chamado, aí pode ser uma hora que caia para o time de desenvolvimento do Agora. Então toda empresa dentro da [EMPRESA] tem o seu próprio time de desenvolvimento, mas é tudo concentrado, chamado dentro da [EMPRESA], porque ele é uma empresa [EMPRESA]. Tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Beleza? Obrigado, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3255,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tarde",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5007,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Obrigado, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

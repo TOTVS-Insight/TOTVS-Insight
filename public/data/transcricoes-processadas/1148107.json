@@ -1,0 +1,1531 @@
+{
+  "id_reuniao": "1148107",
+  "codt": "TAAHUX",
+  "data_reuniao": "2026-03-05 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 21]: Vamos aguardar só uns minutinhos.\n[LOCUTOR 33]: E\n[LOCUTOR 21]: aí, [PESSOA], como estão as coisas por aí?\n[LOCUTOR 33]: Estão boas. Correndo bastante e com alguns projetos bem legais.\n[LOCUTOR 21]: A gente está com aquele assessment que a gente acabou não fazendo lá na fábrica. Se quiser retomar ele, me avisa,\n[LOCUTOR 39]: e a\n[LOCUTOR 21]: gente faz isso.\n[LOCUTOR 39]: Ok.\n[LOCUTOR 33]: Seria legal. Eu também não vi o tema. que o [PESSOA] [PESSOA] começou lá há algum tempo atrás, sobre WMS.\n[LOCUTOR 21]: [LOCUTOR 7]: estou na fábrica, vou procurá-lo. Estava de férias quando foi feita a apresentação. E também temos aquele tema que o \n[LOCUTOR 34]: está\n[LOCUTOR 33]: tocando contigo agora.\n[LOCUTOR 21]: Tecnologia lá, já estou\n[LOCUTOR 33]: fazendo,\n[LOCUTOR 21]: inclusive. Em seguida deve ter a estimativa de valores aí. Mas, bom, vamos ao objetivo da agenda.\n[LOCUTOR 39]: A\n[LOCUTOR 21]: [PESSOA], que é a nossa especialista de prospecção, fez esse convite para a [LOCAL] estar\n[LOCUTOR 39]: conosco,\n[LOCUTOR 21]: falando com a gente um pouco. O [PESSOA] é o nosso especialista. [PESSOA], o Grupo [LOCAL], é composto por, digamos, três unidades. O Grupo [LOCAL],\n[LOCUTOR 39]: a\n[LOCUTOR 21]: FibraPlaque e a Isdralit. E também tem uma série de hotelaria, que é o Grupo Master Hotéis, Mas esse é tratado com a unidade de hotelaria.\n[LOCUTOR 39]: Eu\n[LOCUTOR 21]: não sei como é que seria esse movimento da migração, mas essa agenda é para a gente estar conversando e entendendo um\n[LOCUTOR 39]: pouco\n[LOCUTOR 21]: mais sobre os movimentos. E eu brinco que é para fazer fofoca, porque tem uma fofoca de\n[LOCUTOR 33]: agentes\n[LOCUTOR 21]: de ar\n[LOCUTOR 39]: que\n[LOCUTOR 21]: não está oficialmente liberado aí,\n[LOCUTOR 23]: mas \n[LOCUTOR 11]: muito legal. A \n[LOCUTOR 5]: continua. Boa.\n[LOCUTOR 39]: E aí,\n[LOCUTOR 23]: [PESSOA]. Prazer te conhecer, cara.\n[LOCUTOR 39]: Cara,\n[LOCUTOR 23]: eu acho que eu te conheço de algum lugar.\n[LOCUTOR 33]: Ah é? Tu fica onde, [PESSOA]?\n[LOCUTOR 23]: Eu moro em [LOCAL], fico na [EMPRESA], trabalhei antes na [PESSOA], trabalhei com o [PESSOA], talvez você conheça ele, trabalhou muito tempo na [PESSOA] também.\n[LOCUTOR 33]: De nome sim, mas eu não cheguei a passar\n[LOCUTOR 23]: Talvez a gente já tenha se visto por aí em algum evento, a gente já se viu. Eu sou sempre enxerido de estar em evento, né, cara?\n[LOCUTOR 33]: Não, pode ser.\n[LOCUTOR 23]: Boa. Você vai vir no [EMPRESA] agora, que vai ter dia 18?\n[LOCUTOR 33]: Não.\n[LOCUTOR 21]: Ah,\n[LOCUTOR 23]: legal. A gente vai ter a inauguração da unidade nova aqui da [LOCAL] [LOCAL] no dia 18 também, né? No mesmo, sei lá, na mesma semana que vai ter o [EMPRESA], né? Por isso que eu perguntei se você fosse estar por aqui. Cara, eu sou especialista em nuvem aqui na Tots, tá? Estou há mais ou menos um ano aqui dentro da companhia, venho de mercado, enfim, trabalhando um tempo com a AWS, com Oracle, com o Eijo. E a gente, a ideia do papo aqui é te falar um pouquinho a respeito do que a gente tem hoje de cloud e DIA, porque as duas coisas andam juntas aqui dentro da TOS, tá? E ver se faz sentido para a realidade de vocês, tá?\n[LOCUTOR 33]: [LOCUTOR 4]: tenho um material para apresentar, que é um PPT, tá? Mas eu gosto sempre de perguntar antes, que às vezes faz mais sentido a gente fazer um bate-papo e a gente vai puxando os pontos\n[LOCUTOR 23]: conforme o andar da carruagem, do que eu ficar fazendo uma apresentação monóloga. Pode ser o modelo bate-papo para você? Funciona melhor?\n[LOCUTOR 33]: O que voc\n[LOCUTOR 10]: prefere?\n[LOCUTOR 33]: Sim, claro. Vamos lá.\n[LOCUTOR 23]: Vamos embora. A [LOCAL] tem uma nuvem privada, [PESSOA]. Acho que nem todo mundo do mercado sabe, mas nós temos a maior nuvem brasileira. A gente tem quase 100 mil servidores virtuais rodando na nossa nuvem. É um complexo realmente muito grande. A gente tem mais de 10 mil containers. Um ambiente muito robusto. E a gente vem já, essa nossa nuvem privada já tem mais de 10 anos, mas a gente vem muito recente numa pegada acelerada de migração, porque a gente tem uma estratégia de [LOCAL] da companhia, que roda exclusivamente na nuvem da [LOCAL], onde a gente disponibiliza agentes de [LOCAL] para os clientes contratarem,\n[LOCUTOR 33]: que\n[LOCUTOR 23]: nada mais é do que a [LOCAL] fazendo a tarefa do que um colaborador da sua empresa faria, como uma supervisão de folha no RH,\n[LOCUTOR 33]: uma\n[LOCUTOR 23]: auditoria de compras e por aí vai. Queria entender um pouquinho da realidade de vocês, cara. Hoje vocês estão rodando aonde? Vocês rodam tudo local?\n[LOCUTOR 33]: Tudo local, tá? Nós temos um parceiro de data center. Nós temos nossa hospedagem lá. É meio um...\n[LOCUTOR 23]: Location?\n[LOCUTOR 33]: Location, tá. Hoje nós temos quatro bases separadas. E aí... Isso, duas de indústrias, uma de hotelaria e uma das outras empresas do grupo que são empresas menores. [PESSOA],\n[LOCUTOR 23]: é Proteus que vocês usam ou Dota Su?\n[LOCUTOR 33]: Proteus.\n[LOCUTOR 23]: Proteus, vocês usam com Oracle ou com SQL?\n[LOCUTOR 33]: Pois é, hoje com Oracle.\n[LOCUTOR 23]: Pretende mudar para SQL?\n[LOCUTOR 33]: Para PostgreSQL.\n[LOCUTOR 23]: Para PostgreSQL, legal. Você sabe que a TOTUS homologou recentemente, na virada do ano, o PostgreSQL? mas é um [PESSOA] exclusivo. A gente fez uma parceria com a [PESSOA] e a gente construiu uma arquitetura do banco específica para o Proteus. Eu não lembro o nome, tá? Mas acho que é TOTUS Database ou TDB, o nome do produto, tá? Que é como se fosse um [PESSOA], só que a TOTUS trabalhando com features exclusivas, enfim. E, em princípio, isso está sendo um projeto bem legal. Acho que em breve a gente vai começar a ofertar as migrações para a nuvem vindo para esse modelo, tá? A gente deve gastar horrores de licença com o SQL, né? Vocês estão no Enterprise já ou não?\n[LOCUTOR 33]: Não, está andando.\n[LOCUTOR 23]: Está andando.\n[LOCUTOR 33]: [LOCUTOR 12]: nuvem da Tots como que funciona, tá? A gente tem um modelo que a gente chama de PaaS, que é o Plataforma das Assuntos. Então ele não é nem um SaaS, porque você... O SaaS você bota o login sem sair usando, e não é nesse nível. Você ainda escolhe a versão que você vai rodar, escolhe quando você quer atualizar o sistema. Você tem acesso ao banco de dados para fazer consulta, para conectar um\n[LOCUTOR 23]: Power BI, fazer uma replicação. E você ainda pode criar os customizados no ADV PL. Então, por isso que não é um SaaS. Mas também não é um IaaS, porque a TOTOS não vai te comercializar VM. A TOTOS vai te comercializar isso no serviço.\n[LOCUTOR 33]: E\n[LOCUTOR 23]: é. o nosso modelo de paz, tá? Então a gente fica responsável por tudo do Proteus. Desde a parte de banco, de sustentação, segurança, firewall, [LOCAL], [LOCAL], tudo que você tiver relacionado à infraestrutura, a gente cuida pra você. A única preocupação que ficaria com você seria com relação aos customizados, que a Totus não bota a mão nos customizados. Com relação à parte de versões, a Totus atualiza pra vocês. A única preocupação de vocês é quando vocês vão atualizar. Essa janela é definida por vocês. A TOTUS fataliza automaticamente aquilo que é legal. Tem uma determinação legal de atualização tributária. A gente vai lá e faz. Mas as atualizações de release, vocês escolhem quando vai acontecer e o time realiza para vocês.\n[LOCUTOR 33]: Esse\n[LOCUTOR 23]: é o nosso modelo de cloud hoje. Obviamente a gente entrega toda uma suíte completa de serviço, alta disponibilidade. Então a gente\n[LOCUTOR 33]: tem\n[LOCUTOR 23]: o [PESSOA] no primário, no secundário. Você pode opcionalmente ter uma replicação num plano de DR para um outro datacenter. Enfim, tem todo um aparato ao redor da oferta que faz a gente ter uma oferta muito robusta. Mas a principal vantagem é que você vindo para o governo da TOTUS, além de você terceirizar essas responsabilidades, você passa a ter acesso aos agentes de ar. Eles não estão inclusos, tá, [PESSOA]? Você tem que contratá-los. Mas você tem a possibilidade de contratar agentes prontos, feitos pela TOTUS. A gente já tem alguns prontos, tá?\n[LOCUTOR 33]: [LOCUTOR 20]: é o caso do Supervisor de Folha, [EMPRESA], [PESSOA]. Vários desses agentes a gente já tem prontos. Outros a gente está lançando ao longo do ano, enfim. E também você pode ter agentes customizados, que é onde você faz o seu próprio agente do zero. E\n[LOCUTOR 21]: até complementando a parte que eu falei que teria novidades aí de bastidores, os valores estão muito atrativos. A gente foi apresentado ontem, assim, eu chamo de um colaborador virtual, né? Então,\n[LOCUTOR 33]: tá\n[LOCUTOR 21]: muito bom mesmo. Então, assim, é o futuro, né? Não tem como a gente fugir, né? ou seja, num curto prazo ou num longo prazo, todo mundo vai estar na nuvem, todo mundo vai ter esses agentes, né? E a TOTUS aí, como sempre, lançando isso em primeira mão. Você também não falou do [EMPRESA]. O [EMPRESA] eu achei muito interessante, a gente tem que contar isso para ele também. Pode contar tudo, acho que o [PESSOA] não vai... Isso,\n[LOCUTOR 33]: mas como é esse agente de consultor? Isso vai ser um... um módulo que eu vou ficar fazendo perguntas para ele, com a medida que eu for trabalhando, ele já vai me dizendo, olha, cara, isso aqui é melhor aqui, isso assim, como é que\n[LOCUTOR 21]: funciona.\n[LOCUTOR 23]: [PESSOA]. Eles são autônomos, tá? Porque a grande diferença do agente para o assistente de AI é que no assistente você pergunta e ele te responde.\n[LOCUTOR 33]: Ele\n[LOCUTOR 23]: te dá uma assistência. O agente de AI é totalmente autônomo, tá? Então, por exemplo, o supervisor de folha. Tem um supervisor de folha do Proteus. Folha de pagamento, né? O que ele vai fazer? Vai ter o RH, subir a folha de pagamento lá. Em vez de ele ficar revisando as coisas, a gente já revisa pra ele e vai dar os alertas. Fala, cara, esse código aqui não está no histórico das folhas desse colaborador. Você nunca coloca esse lançamento. O que dessa vez tem? Ó, o fulano tem horas extras lançadas aqui, mas lá no espelho ponto dele não tem hora extra. Por que ele tem hora extra aqui? Então, essa avaliação de supervisão que o teu gerente de RH, o analista, faria manualmente, e geralmente eles fazem por amostragem, principalmente quando tem muita gente, o supervisor de RH, o supervisor de folha, vai fazer isso de forma automática. Então, essa é a diferença. Ele vai estar atuando no dia a dia. [LOCAL], você pode customizar muita coisa. Eu tenho um aqui que eu quero ativar por botão. Eu aperto num botão que é supervisionar e ele vai rodar por trás e vai me devolver. Também pode ser. Tem várias formas de você utilizar, mas ele é autônomo, então não precisa ficar chamando ele para ele rodar. E a gente tem a LEM. O que é a LEM? É o modelo de A da [EMPRESA]. A [EMPRESA] não está utilizando uma API para o GPT, para o Gemini, para qualquer outra LLM de mercado. A [EMPRESA] criou a sua própria LLM de A. Por que isso? Porque a gente tem uma preocupação muito grande com segurança, principalmente que a gente tem muitos clientes, enfim. E como que a gente organiza isso, tá?\n[LOCUTOR 33]: [LOCUTOR 12]: gente mantém tudo isso dentro do nosso data center. Uma das premissas do cliente estar em nuvem para poder ter os agentes de AI é justamente isso, é a gente ter o controle da informação, ter o controle do processo como um todo\n[LOCUTOR 21]: e\n[LOCUTOR 23]: garantir que os dados vão ficar somente em lugares que a gente possa controlar. A gente tem uma política forte de segurança sobre isso, tá? Ponto importante sobre a questão dos agentes de ar é, a gente vem lançando agentes de ar a todo tempo, tá, [PESSOA]?\n[LOCUTOR 21]: E\n[LOCUTOR 23]: os clientes nos ajudam a construir isso. Então,\n[LOCUTOR 33]: por\n[LOCUTOR 23]: que a gente tem o agente supervisor de folha do Proteus? Porque dois ou três clientes\n[LOCUTOR 21]: fazem\n[LOCUTOR 23]: parte de um projeto onde esses clientes vão dizer para a [EMPRESA], olha, eu tenho dificuldade com isso aqui. A [EMPRESA] vai lá e desenvolve em cima da ideia deles, eles vão monologar, enfim, e vocês podem eventualmente fazer parte desse programa também, tá? Então, um negócio bem legal aí que a gente vem construindo, tá? Hoje vocês já tem alguma coisa de A rodando aí ou não?\n[LOCUTOR 33]: Não.\n[LOCUTOR 21]: É, e até complementando, né, [PESSOA]? E A é muito... muito mais do que no chat GPT, pedir uma pergunta, pedir para escrever o texto melhor, né? Principalmente a segurança da informação, né? Que quando a gente vai para essas ferramentas aí de domínio público, a gente está alimentando elas muito mais do que consumindo, né? Então, tá lá a [PESSOA] colocando um monte de informação da dentro de uma plataforma que a gente não sabe qual vai ser o futuro dela.\n[LOCUTOR 23]: Então\n[LOCUTOR 21]: na TOTUS inclusive a gente é proibido de utilizar ferramentas de mercado. Exatamente por isso que a gente estaria colocando as nossas informações e as informações dos clientes para um domínio público. E essa é uma das grandes vantagens de você estar trabalhando com TOTUS. A TOTUS desenvolveu ali um player aí digamos assim de de inteligência artificial dentro de casa com especialização em ERP. Então a gente vai ter as informações do ERP centralizadas e para os clientes estarem utilizando sem risco nenhum disso daqui a pouco eu estar aqui no [EMPRESA] perguntar alguma coisa e vir uma resposta dentro da ISDRA porque o diretor da ISDRA tem um salário de tanto Então, assim, é uma das coisas que a gente preza muito é segurança de informação e isso é o que está levando a gente a levar nossos clientes para a nuvem e oferecendo os agentes somente para quem estará na\n[LOCUTOR 23]: nuvem. Isso aí. E hoje, no Jornada de Migração para a [LOCAL], [PESSOA], a gente dá todo um apoio para o cliente, a gente faz um estudo prévio, justamente para estruturar isso, para não ser uma migração que você vai se incomodar depois, enfim. Mas eu queria ouvir mais de ti, cara. Hoje, você falou que vocês estão rodando já com SQL Server, a licença estándar, enfim. Mas como é que está a parte de servidores de vocês hoje? Hoje, a parte do [EMPRESA], a compra de servidores é de vocês?\n[LOCUTOR 33]: Vamos lá, são Oracle, né? Então, os nossos servidores de banco gerados, sim. Nós rodamos em um appliance da Oracle, os ODAs, tá? E os servidores de Hyper-V, eles são do nosso desenvolvedor da [LOCAL]. Então, dentro do nosso contrato, eles são servidores e virtualizações, licenciamentos, tudo coisas.\n[LOCUTOR 23]: [PESSOA]. Vocês usam [EMPRESA] ou Hyper-V? Hyper-V?\n[LOCUTOR 33]: [LOCUTOR 16]: entendi, cortou, desculpa. Hyper-V.\n[LOCUTOR 23]: Hyper-V, legal. Hoje a Totos utiliza [EMPRESA], tá? Estamos aí entre os... Nós somos hoje o segundo maior comprador da [LOCAL] Latina de tecnologia. A gente compra tudo em grande quantidade. A gente tem uma parceria que eu vejo muito legal e a gente vai ficar uns bons anos ainda com essa tecnologia. Quando a gente fala de você vir para a Tóxica, você terceiriza toda a responsabilidade não só de compra dessas coisas, mas de gestão. A Tóxica vai gerenciar tudo isso para você. Aí você fala assim, ah, mas eu tenho outros servidores que não são da Tóxica. Eu tenho um AD, um file server. Daqui a pouco você tem um metadados, um server. Enfim, pode trazer isso junto? A resposta é sim. A gente tem um modelo de oferta\n[LOCUTOR 33]: junto\n[LOCUTOR 23]: com o dos sistemas da [LOCAL]. A gente chama de IAS, que é onde eu comercializo a VM. Obviamente isso não se aplica para o produto da [LOCAL], é para outros produtos. E aí nessa VM você tem acesso ao sistema operacional para você instalar o que você quiser, inclusive outros sistemas. e justamente para a oferta ficar com busto ela ficar completa. Mas eu vou migrar o meu sistema da TOTOS mas aí eu tenho um outro aqui que uso o banco igual. Eu vou continuar tendo custo de rádio custo de licença de banco. Então a gente tem uma oferta completa para vender tudo isso. Na visão de vocês eu acho que isso estaria no roadmap de avaliar isso esse ano ainda.\n[LOCUTOR 33]: Para TOTOS exclusivo para TOTOS a gente pode abrir uma conversa assim. Mas vamos lá, subiu meu servidor de aplicação e meu banco de dados para não venda todos.\n[LOCUTOR 23]: \n[LOCUTOR 25]: não tenho acesso, não existe um servidor de aplicação. Eu recebi uma URL para acessar. É mais ou menos por aí. O que muda no meu dia a dia? [PESSOA] hoje no modelo quando migra para 90 top você tem os servidores no servidor dedicado de banco de aplicação. Aí tem dois ambientes de produção e aí tem mais dois para a parte de homologação. Você não tem acesso ao sistema operacional. O acesso é feito através da console do [PESSOA]. Então tem uma console de gerenciamento, onde você consegue mexer nos arquivos, pausar e iniciar serviço, rodar comandos dentro do servidor, enfim, mexer nos customizados. Tudo o que você faria no servidor local, acessando\n[LOCUTOR 33]: o\n[LOCUTOR 23]: Windows Server lá pelo [EMPRESA], você vai fazer através da consola do [PESSOA].\n[LOCUTOR 33]: [LOCUTOR 19]: o acesso direto ao servidor não tem. Então, quais são as limitações que mudam no teu dia a dia? [LOCUTOR 8]: relação ao banco de dados, tem algumas limitações. No acesso ao banco de dados, você vai ter um acesso de leitura, de escrita, enfim, você vai ter um CRUD. Aquilo que é mexer na estrutura do banco aí fica a cargo da [LOCAL], você pode obviamente abrir um chamado, a [LOCAL] alterar, mas esse acesso você não tem. Quando a gente fala com relação aos arquivos, a gente libera um acesso a [LOCAL], que você pode mexer em todos os arquivos, acessar os arquivos do servidor, enfim, através dali. E\n[LOCUTOR 23]: uma limitação, obviamente, de instalação de executáveis. No modelo da oferta, como ele é um\n[LOCUTOR 33]: PaaS,\n[LOCUTOR 23]: somente os executáveis da TOTOS que rodam lá dentro. Os outros executáveis, se você tiver\n[LOCUTOR 33]: um\n[LOCUTOR 23]: software complementar, teria que rodar numa VM apartada do IaaS, que aí sim você está comprando a VM e você pode instalar o que você quiser.\n[LOCUTOR 33]: Preciso de um usuário novo para acessar o banco de dados. Abre um chamado.\n[LOCUTOR 23]: Isso aí, abre um chamado, a gente cria o usuário para você e te passa uma senha provisória.\n[LOCUTOR 33]: Performance de banco, performance de servidor, é tudo com a [LOCAL].\n[LOCUTOR 23]: É tudo com a [LOCAL]. Nosso modelo, a gente, no PaaS, que é o modelo do Proteus, a gente não vende servidores, a gente vende serviço. Então, você vai terceirizar o teu Proteus e você vai pagar por conexão de usuário, por conexão de API e por volume de dados. Essas são as únicas métricas. Você vai falar,\n[LOCUTOR 33]: cara,\n[LOCUTOR 23]: eu tenho 15 APIs conectadas, eu vou ter 30 usuários conectados\n[LOCUTOR 33]: e\n[LOCUTOR 23]: meu banco tem 100 GB. [LOCAL]. Se os seus usuários começarem a utilizar demais, todo mundo botar para baixar um relatório dos últimos 50 anos da empresa e precisar de mais memória,\n[LOCUTOR 33]: mais\n[LOCUTOR 23]: processamento, a TOTUS vai aumentar a carga de processamento, aumentar o shape da VM e isso não vai refletir custos para vocês. Esse modelo \n[LOCUTOR 3]: simplificado\n[LOCUTOR 23]: justamente para você não ter surpresa, não ter que se preocupar com o sizing do servidor.\n[LOCUTOR 33]: Vamos lá. Então eu vou te pagar por conexão de usuários e por conexões de API.\n[LOCUTOR 23]: Isso aí. E por volume do banco, né? Volume de dados no banco.\n[LOCUTOR 33]: Muito bem. Tá. Agora saiu uma atualização regulatória nova. Isto é disponibilizado em uma base de homologação. Eu testo e depois vai para a produção ou isso já vai direto para a produção?\n[LOCUTOR 23]: Sempre homologação primeiro. A [LOCAL] não faz nada a não ser que seja homologação primeiro mesmo que seja algo regulatório. Quando sai uma regulação alguma coisa geralmente não é de imediato. Tem 30 dias para implementar. Então a [LOCAL] vai te acionar e ela vai falar eu preciso de janelas sugeridas para colocar homologação e produção. Se você não definir a janela, ao término disso, quando passar aquela nova legislação, aquela nova lei, a [LOCAL] vai fazer obrigatoriamente em produção, tá?\n[LOCUTOR 33]: Sim. \n[LOCUTOR 12]: [LOCAL] vai respeitar outra lei. Mas antes, pra organizar a janela e tudo mais.\n[LOCUTOR 33]: [LOCAL] acordadas.\n[LOCUTOR 23]: Isso aí,\n[LOCUTOR 33]: janelas\n[LOCUTOR 23]: acordadas.\n[LOCUTOR 33]: Atualizações de release.\n[LOCUTOR 23]: Atualizações de release é você que demanda, a [PESSOA] ela não demanda para você, tá?\n[LOCUTOR 33]: Não precisa\n[LOCUTOR 23]: falar.\n[LOCUTOR 33]: Nós começamos a mexer com a 2510, tá? Paramos uma base, agora na semana que vem vamos fazer a instalação de homologação. Eu vou ficar aí umas duas, três semanas homologando e aí faremos a... Hoje eu tenho um contrato de um [LOCAL] que faz isso para mim. o mercado continua existindo? dentro desse contrato de nuvem?\n[LOCUTOR 23]: Esse contrato continua existindo.\n[LOCUTOR 21]: Tem\n[LOCUTOR 23]: clientes que preferem reorganizar o contrato.\n[LOCUTOR 33]: Às\n[LOCUTOR 23]: vezes você tem horas desse contrato que você utiliza para infraestrutura. Isso tudo vai ficar com a [LOCAL]. Tem horas do contrato que você utiliza para atualizar o sistema. Como isso já vai ser feito pelo serviço de cloud, você pode reorganizar o seu contrato. Mas, [PESSOA], se você não mexer no [LOCAL], uma coisa não tem nada a ver com a outra, mas quem vai fazer é o time de cloud. Você fala assim, ah, mas o cara do meu [LOCAL] quer fazer atualização. Ele não vai fazer. É o time de cloud que vai fazer atualização pra você. A responsabilidade de vocês vai ser escolher a janela de quando vai atualizar e sinalizar, ó, no dia tal, autoriza homologação. Agora no dia tal, autoriza produção. Tá.\n[LOCUTOR 33]: Muito bem. Vou pegar um exemplo. prático aqui. Tem um novo módulo de compras, que agora eu preciso abrir uma porta para o mundo, para que, então, os meus fornecedores coloquem as suas cotações.\n[LOCUTOR 23]: Então,\n[LOCUTOR 33]: teve um movimento da minha infraestrutura em preparar um\n[LOCUTOR 23]: servidor\n[LOCUTOR 33]: intermediário aqui, e o meu [LOCAL] fez a configuração agora, a\n[LOCUTOR 23]: aplica\n[LOCUTOR 2]: a versão, a configuração e deixou tudo funcionando.\n[LOCUTOR 23]: [LOCUTOR 6]: exemplo, quem faria tudo seria o time de Cloud. É que a gente tem uma arquitetura um pouco diferente, tá? Imagina que você tem esse servidor intermediário configurado pra ser tipo um proxy, pra que você não precisa\n[LOCUTOR 33]: abrir\n[LOCUTOR 23]: todo o teu Proteus pro mundo, né? No caso do [PESSOA], a gente A gente trabalha com o WAF da Cloudflare. Então, a gente tem toda uma proteção de borda da Cloudflare e a gente pode criar uma rota exclusiva no WAF, que essa rota vai te dar acesso somente a esse serviço. Tem que você precisa ter esse servidor intermediário de proxy com toda a proteção de WAF. Então,\n[LOCUTOR 33]: muda\n[LOCUTOR 23]: um pouquinho a arquitetura. Mas vamos lá, vamos dizer que você fale assim, eu quero manter dessa forma, ter um servidor de proxy e levar.\n[LOCUTOR 33]: Tudo bem, mudou, perfeito. Desculpa, [PESSOA]. A gente cortando, mas...\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 33]: Seguindo, estou na cloud da TOTOS.\n[LOCUTOR 23]: [LOCUTOR 9]: vamos botar lá, TOTOS, você que me diga qual a sua arquitetura para isso. Quem vai efetivamente colocar o pacote a rodar, fazer as parametrizações dele e deixar ele funcionando? É só o time de cloud ou eu ainda vou precisar chamar o meu cara de PCs para fazer alguma coisa? [PESSOA], você ainda vai precisar do cara do [LOCAL]. O time de cloud vai cuidar da parte de infra instalação do produto. Então o time de cloud vai subir a instância. Onde é que você precisa de uma instância adicional para isso? O time de cloud vai subir a instância, vai instalar lança o Proteus e vai passar o acesso de administrador. Ah, tem que criar um parâmetro no Proteus, fazer uma configuração. A gente não faz. O time de cloud se limita só a parte de... até o serviço estar online. O serviço estar online entra o produto para fazer a configuração dele. Que aí seria o teu [LOCAL], né?\n[LOCUTOR 33]: Tudo bem.\n[LOCUTOR 23]: Tudo bem. \n[LOCUTOR 22]: de perguntas, só tenho até aí.\n[LOCUTOR 23]: Boa. A gente tem, aqui dentro do time de cloud, a gente tem três modelos de oferta, tá, [PESSOA]? A gente tem um modelo que é compartilhado, divide o servidor com outros clientes, que a gente nem oferta isso para você, mas é para você saber, tem para cliente pequeno, o cara tem quatro, cinco usuários, A gente tem o modelo dedicado, que é onde você tem servidores dedicados para você, mas ainda assim\n[LOCUTOR 33]: voc\n[LOCUTOR 10]: tem servidores standalone, então você não tem redundância e tudo mais. E a gente tem a modalidade [PESSOA], que é a modalidade que eu recomendo para vocês, que é onde vocês têm alta disponibilidade, então é tudo replicado em nó primário e nó secundário. Essa replicação ocorre na camada do virtualizador. E aí a gente tem o DNS da [LOCAL], que faz o failover do nó primário para o nó secundário, caso preciso. E na modalidade [PESSOA], o atendimento não é mais via portal de chamado. O atendimento é através do engenheiro [PESSOA]. O que isso muda na prática? Quando você abre um chamado, você abre o chamado, vai cair na fila, conforme o SLA da criticidade daquele chamado, alguém vai atender. Esse cara é um [LOCAL]. Se ele descobrir que não sabe resolver o problema, ele vai se calar lá para o [LOCAL], depois escalar para o [LOCAL], por aí vai. Como deve ser assim nos chamados da sua TI. No modalidade [PESSOA], você tem o telefone de um engenheiro [PESSOA], que é um líder do time de suporte, e você fala sempre com o mesmo cara no\n[LOCUTOR 33]: WhatsApp,\n[LOCUTOR 23]: não precisa abrir chamada.\n[LOCUTOR 33]: Então\n[LOCUTOR 23]: isso traz velocidade para o atendimento, é sempre o mesmo cara que te atende, você fala direto no WhatsApp com ele, e ele já aloca alguém do time dele na hora, que está de plantão, para poder te atender naquele momento. Isso ajuda muito no troubleshooting também, porque se ele é um líder, ele já é um cara mais sênior. E ele sempre fala... Vocês sempre falam com a mesma pessoa. Então, se é um problema recorrente, ele já conhece o perfil,\n[LOCUTOR 33]: j\n[LOCUTOR 17]: sabe o que tem no ambiente de vocês, o que não tem. Então, na modalidade [PESSOA], isso faz muito sentido no dia a dia. Evita de você perder um tempo enorme quando você vai ver o chamado na fila padrão, até alguém resolver. Isso é o que a gente recomenda pra vocês, tá, [PESSOA]? \n[LOCUTOR 32]: vou nem considerar os outros. Tá, e aí? Quanto é que custa essa brincadeira? Quanto eu vou reduzir da minha fatura atual da TOTUS indo pra [EMPRESA]?\n[LOCUTOR 23]: [PESSOA]. Qual que é a modalidade de vocês hoje? Vocês estão no tradicional, corporativo ou inteira? Modalidade de licença?\n[LOCUTOR 33]: Sei.\n[LOCUTOR 23]: Se tem em mãos aí qual que é a modalidade deles.\n[LOCUTOR 21]: Modalidade da [LOCAL] é tradicional tradicional\n[LOCUTOR 23]: legal. A gente a gente tem hoje um passo que a gente chama de acesso a [PESSOA]. O que é o assessing? É uma agenda de uma hora que a gente marca. Vai entrar um especialista meu de banco de dados, um especialista meu de aplicação. A gente vai pedir para você rodar alguns scripts no banco, que é mais de volumetria de dados, volume de transação no banco, enfim, e volume de conexões. Com esses dados, a gente monta um escopo técnico. Esse escopo técnico já é prevendo um crescimento.\n[LOCUTOR 21]: É\n[LOCUTOR 23]: assim, você tem 30, obviamente é bem mais, mas vamos lá, tem 30 usuários, mas você está utilizando 30, não adianta eu te vender 30, daqui 6 meses você contrata 5 pessoas, tem que ter 35, tem que ir lá, pedir pra aumentar o contrato. Então a gente já faz esse assessment pra ver qual que é a curva de crescimento e tudo mais, pra te trazer um escopo técnico que não vai precisar você mexer nos próximos anos aí nesse\n[LOCUTOR 21]: foco.\n[LOCUTOR 23]: E aí com isso tem os valores, eu e a [PESSOA] a gente monta uma proposição comercial e te apresenta.\n[LOCUTOR 33]: Esse\n[LOCUTOR 23]: é o passo que a gente vem fazendo, tá? Podemos marcar essa agenda de assessment com você mesmo? Você tem esses acertos ou entra mais alguém do teu time daí?\n[LOCUTOR 33]: Não, eu envolveria meu cara de sistemas e de infraestrutura junto.\n[LOCUTOR 23]: Show. [LOCAL]. A gente pode marcar essa agenda para semana que vem?\n[LOCUTOR 33]: Não, cara, impossível.\n[LOCUTOR 23]: [LOCUTOR 1]: mês agora estamos... mês de feira, semana que vem Então tá todo mundo enlouquecido. Podemos marcar na semana do dia 23. [LOCAL]. \n[LOCUTOR 13]: eu falar que\n[LOCUTOR 23]: somos dois, cara. Essa semana tá uma loucura. Eu ainda tenho mais, depois dessa reunião, mais quatro hoje ainda.\n[LOCUTOR 33]: [LOCUTOR 14]: começou o ano, né? Acabou o carnaval, o ano começou, então tá uma loucura.\n[LOCUTOR 21]: Olha, um ano não tinha nem\n[LOCUTOR 33]: parado,\n[LOCUTOR 21]: gente.\n[LOCUTOR 33]: 24, 25 ali está relativamente...\n[LOCUTOR 23]: Me corrija, vocês estão rodando com Oracle ou com um SQL Server?\n[LOCUTOR 33]: Oracle.\n[LOCUTOR 23]: Oracle, legal. Ah, e migrando para a nuvem, a gente coloca a licença Enterprise da Oracle, tá? A gente tem um grande contrato com a Oracle, já vai licença Enterprise, tem várias features da Enterprise. Pode ser no dia 24 às 14 horas?\n[LOCUTOR 33]: Sim.\n[LOCUTOR 23]: Sim? Show. Eu vou encaminhar um invite. Você quer me passar o e-mail de quem é do seu time ou eu mando pra você e você encaminha? Como é que fica melhor?\n[LOCUTOR 33]: [LOCAL]\n[LOCUTOR 21]: e\n[LOCUTOR 33]: [[PESSOA].\n[LOCUTOR 23]: [LOCAL] ou com Z no final?\n[LOCUTOR 33]: S.\n[LOCUTOR 23]: É o domini.com.br?\n[LOCUTOR 33]: O sobrenome é o mesmo, para todo mundo.\n[LOCUTOR 23]: [LOCAL] e o outro é?\n[LOCUTOR 33]: [[PESSOA].\n[LOCUTOR 23]: [LOCAL]. Você, obviamente. A [PESSOA] também não vai ter que acompanhar. Já mando para vocês, então, esse invite. Se tiver qualquer percalças a remarcar, enfim,\n[LOCUTOR 33]: me avisa.\n[LOCUTOR 23]: A gente é superflexível aqui. E aí, depois do assessment, dois ou três dias depois, a gente já tem isso na mão e a [PESSOA], a gente marca de te apresentar com calma, até pra você revisar o escopo com a gente, enfim. E aí, se fizer sentido, a gente estrutura isso aí pra vocês, tá bom?\n[LOCUTOR 33]: Tá bom. [LOCAL].\n[LOCUTOR 23]: Beleza, mestre.\n[LOCUTOR 33]: Pessoal, muito obrigado. Então\n[LOCUTOR 21]: tá. \n[LOCUTOR 18]: a\n[LOCUTOR 21]: você,\n[LOCUTOR 39]: [PESSOA].\n[LOCUTOR 21]: [LOCAL].\n[LOCUTOR 23]: [LOCAL],\n[LOCUTOR 21]: pessoal.\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 39]: [LOCAL].\n[LOCUTOR 21]: E na casa\n[LOCUTOR 39]: nova.\n[LOCUTOR 21]: [LOCUTOR 15]: eu só fico\n[LOCUTOR 23]: esperando lá,\n[LOCUTOR 33]: acho que vou\n[LOCUTOR 21]: ali assim. Toma um cafézinho com a gente, tem cappuccininho, tem um\n[LOCUTOR 33]: monte de\n[LOCUTOR 21]: coisinha aqui\n[LOCUTOR 33]: na\n[LOCUTOR 21]: casa.\n[LOCUTOR 39]: A\n[LOCUTOR 21]: gente descobriu\n[LOCUTOR 23]: hoje que tem\n[LOCUTOR 21]: uma\n[LOCUTOR 23]: lojinha da [LOCAL] aqui\n[LOCUTOR 33]: no shopping\n[LOCUTOR 23]: embaixo. A\n[LOCUTOR 21]: loucura dos nossos clientes, tá, Unidade?\n[LOCUTOR 39]: Então\n[LOCUTOR 21]: tá,\n[LOCUTOR 23]: obrigado.\n[LOCUTOR 39]: [LOCAL], [PESSOA].\n[LOCUTOR 33]: [LOCAL],\n[LOCUTOR 39]: tchau.",
+  "texto_filtrado": "[LOCUTOR 21]: Vamos aguardar só uns minutinhos.\n[LOCUTOR 21]: aí, [PESSOA], como estão as coisas por aí?\n[LOCUTOR 33]: Estão boas. Correndo bastante e com alguns projetos bem legais.\n[LOCUTOR 21]: gente faz isso.\n[LOCUTOR 21]: [LOCUTOR 7]: estou na fábrica, vou procurá-lo. Estava de férias quando foi feita a apresentação. E também temos aquele tema que o\n[LOCUTOR 33]: tocando contigo agora.\n[LOCUTOR 21]: Tecnologia lá, já estou\n[LOCUTOR 33]: fazendo,\n[LOCUTOR 21]: inclusive. Em seguida deve ter a estimativa de valores aí. Mas, bom, vamos ao objetivo da agenda.\n[LOCUTOR 21]: [PESSOA], que é a nossa especialista de prospecção, fez esse convite para a [LOCAL] estar\n[LOCUTOR 39]: conosco,\n[LOCUTOR 21]: falando com a gente um pouco. O [PESSOA] é o nosso especialista. [PESSOA], o Grupo [LOCAL], é composto por, digamos, três unidades. O Grupo [LOCAL],\n[LOCUTOR 21]: FibraPlaque e a Isdralit. E também tem uma série de hotelaria, que é o Grupo Master Hotéis, Mas esse é tratado com a unidade de hotelaria.\n[LOCUTOR 21]: não sei como é que seria esse movimento da migração, mas essa agenda é para a gente estar conversando e entendendo um\n[LOCUTOR 39]: pouco\n[LOCUTOR 21]: mais sobre os movimentos. E eu brinco que é para fazer fofoca, porque tem uma fofoca de\n[LOCUTOR 33]: agentes\n[LOCUTOR 21]: de ar\n[LOCUTOR 11]: muito legal. A\n[LOCUTOR 23]: [PESSOA]. Prazer te conhecer, cara.\n[LOCUTOR 39]: Cara,\n[LOCUTOR 23]: eu acho que eu te conheço de algum lugar.\n[LOCUTOR 33]: Ah é? Tu fica onde, [PESSOA]?\n[LOCUTOR 23]: Eu moro em [LOCAL], fico na [EMPRESA], trabalhei antes na [PESSOA], trabalhei com o [PESSOA], talvez você conheça ele, trabalhou muito tempo na [PESSOA] também.\n[LOCUTOR 23]: Talvez a gente já tenha se visto por aí em algum evento, a gente já se viu. Eu sou sempre enxerido de estar em evento, né, cara?\n[LOCUTOR 33]: Não, pode ser.\n[LOCUTOR 23]: Boa. Você vai vir no [EMPRESA] agora, que vai ter dia 18?\n[LOCUTOR 23]: legal. A gente vai ter a inauguração da unidade nova aqui da [LOCAL] [LOCAL] no dia 18 também, né? No mesmo, sei lá, na mesma semana que vai ter o [EMPRESA], né? Por isso que eu perguntei se você fosse estar por aqui. Cara, eu sou especialista em nuvem aqui na Tots, tá? Estou há mais ou menos um ano aqui dentro da companhia, venho de mercado, enfim, trabalhando um tempo com a AWS, com Oracle, com o Eijo. E a gente, a ideia do papo aqui é te falar um pouquinho a respeito do que a gente tem hoje de cloud e DIA, porque as duas coisas andam juntas aqui dentro da TOS, tá? E ver se faz sentido para a realidade de vocês, tá?\n[LOCUTOR 33]: [LOCUTOR 4]: tenho um material para apresentar, que é um PPT, tá? Mas eu gosto sempre de perguntar antes, que às vezes faz mais sentido a gente fazer um bate-papo e a gente vai puxando os pontos\n[LOCUTOR 23]: conforme o andar da carruagem, do que eu ficar fazendo uma apresentação monóloga. Pode ser o modelo bate-papo para você? Funciona melhor?\n[LOCUTOR 33]: O que voc\n[LOCUTOR 10]: prefere?\n[LOCUTOR 23]: Vamos embora. A [LOCAL] tem uma nuvem privada, [PESSOA]. Acho que nem todo mundo do mercado sabe, mas nós temos a maior nuvem brasileira. A gente tem quase 100 mil servidores virtuais rodando na nossa nuvem. É um complexo realmente muito grande. A gente tem mais de 10 mil containers. Um ambiente muito robusto. E a gente vem já, essa nossa nuvem privada já tem mais de 10 anos, mas a gente vem muito recente numa pegada acelerada de migração, porque a gente tem uma estratégia de [LOCAL] da companhia, que roda exclusivamente na nuvem da [LOCAL], onde a gente disponibiliza agentes de [LOCAL] para os clientes contratarem,\n[LOCUTOR 23]: nada mais é do que a [LOCAL] fazendo a tarefa do que um colaborador da sua empresa faria, como uma supervisão de folha no RH,\n[LOCUTOR 23]: auditoria de compras e por aí vai. Queria entender um pouquinho da realidade de vocês, cara. Hoje vocês estão rodando aonde? Vocês rodam tudo local?\n[LOCUTOR 33]: Tudo local, tá? Nós temos um parceiro de data center. Nós temos nossa hospedagem lá. É meio um...\n[LOCUTOR 23]: Location?\n[LOCUTOR 33]: Location, tá. Hoje nós temos quatro bases separadas. E aí... Isso, duas de indústrias, uma de hotelaria e uma das outras empresas do grupo que são empresas menores. [PESSOA],\n[LOCUTOR 23]: é Proteus que vocês usam ou Dota Su?\n[LOCUTOR 33]: Proteus.\n[LOCUTOR 23]: Proteus, vocês usam com Oracle ou com SQL?\n[LOCUTOR 33]: Pois é, hoje com Oracle.\n[LOCUTOR 23]: Pretende mudar para SQL?\n[LOCUTOR 33]: Para PostgreSQL.\n[LOCUTOR 23]: Para PostgreSQL, legal. Você sabe que a TOTUS homologou recentemente, na virada do ano, o PostgreSQL? mas é um [PESSOA] exclusivo. A gente fez uma parceria com a [PESSOA] e a gente construiu uma arquitetura do banco específica para o Proteus. Eu não lembro o nome, tá? Mas acho que é TOTUS Database ou TDB, o nome do produto, tá? Que é como se fosse um [PESSOA], só que a TOTUS trabalhando com features exclusivas, enfim. E, em princípio, isso está sendo um projeto bem legal. Acho que em breve a gente vai começar a ofertar as migrações para a nuvem vindo para esse modelo, tá? A gente deve gastar horrores de licença com o SQL, né? Vocês estão no Enterprise já ou não?\n[LOCUTOR 33]: [LOCUTOR 12]: nuvem da Tots como que funciona, tá? A gente tem um modelo que a gente chama de PaaS, que é o Plataforma das Assuntos. Então ele não é nem um SaaS, porque você... O SaaS você bota o login sem sair usando, e não é nesse nível. Você ainda escolhe a versão que você vai rodar, escolhe quando você quer atualizar o sistema. Você tem acesso ao banco de dados para fazer consulta, para conectar um\n[LOCUTOR 23]: Power BI, fazer uma replicação. E você ainda pode criar os customizados no ADV PL. Então, por isso que não é um SaaS. Mas também não é um IaaS, porque a TOTOS não vai te comercializar VM. A TOTOS vai te comercializar isso no serviço.\n[LOCUTOR 23]: é. o nosso modelo de paz, tá? Então a gente fica responsável por tudo do Proteus. Desde a parte de banco, de sustentação, segurança, firewall, [LOCAL], [LOCAL], tudo que você tiver relacionado à infraestrutura, a gente cuida pra você. A única preocupação que ficaria com você seria com relação aos customizados, que a Totus não bota a mão nos customizados. Com relação à parte de versões, a Totus atualiza pra vocês. A única preocupação de vocês é quando vocês vão atualizar. Essa janela é definida por vocês. A TOTUS fataliza automaticamente aquilo que é legal. Tem uma determinação legal de atualização tributária. A gente vai lá e faz. Mas as atualizações de release, vocês escolhem quando vai acontecer e o time realiza para vocês.\n[LOCUTOR 33]: Esse\n[LOCUTOR 23]: é o nosso modelo de cloud hoje. Obviamente a gente entrega toda uma suíte completa de serviço, alta disponibilidade. Então a gente\n[LOCUTOR 23]: o [PESSOA] no primário, no secundário. Você pode opcionalmente ter uma replicação num plano de DR para um outro datacenter. Enfim, tem todo um aparato ao redor da oferta que faz a gente ter uma oferta muito robusta. Mas a principal vantagem é que você vindo para o governo da TOTUS, além de você terceirizar essas responsabilidades, você passa a ter acesso aos agentes de ar. Eles não estão inclusos, tá, [PESSOA]? Você tem que contratá-los. Mas você tem a possibilidade de contratar agentes prontos, feitos pela TOTUS. A gente já tem alguns prontos, tá?\n[LOCUTOR 33]: [LOCUTOR 20]: é o caso do Supervisor de Folha, [EMPRESA], [PESSOA]. Vários desses agentes a gente já tem prontos. Outros a gente está lançando ao longo do ano, enfim. E também você pode ter agentes customizados, que é onde você faz o seu próprio agente do zero. E\n[LOCUTOR 21]: até complementando a parte que eu falei que teria novidades aí de bastidores, os valores estão muito atrativos. A gente foi apresentado ontem, assim, eu chamo de um colaborador virtual, né? Então,\n[LOCUTOR 21]: muito bom mesmo. Então, assim, é o futuro, né? Não tem como a gente fugir, né? ou seja, num curto prazo ou num longo prazo, todo mundo vai estar na nuvem, todo mundo vai ter esses agentes, né? E a TOTUS aí, como sempre, lançando isso em primeira mão. Você também não falou do [EMPRESA]. O [EMPRESA] eu achei muito interessante, a gente tem que contar isso para ele também. Pode contar tudo, acho que o [PESSOA] não vai... Isso,\n[LOCUTOR 33]: mas como é esse agente de consultor? Isso vai ser um... um módulo que eu vou ficar fazendo perguntas para ele, com a medida que eu for trabalhando, ele já vai me dizendo, olha, cara, isso aqui é melhor aqui, isso assim, como é que\n[LOCUTOR 21]: funciona.\n[LOCUTOR 23]: [PESSOA]. Eles são autônomos, tá? Porque a grande diferença do agente para o assistente de AI é que no assistente você pergunta e ele te responde.\n[LOCUTOR 23]: te dá uma assistência. O agente de AI é totalmente autônomo, tá? Então, por exemplo, o supervisor de folha. Tem um supervisor de folha do Proteus. Folha de pagamento, né? O que ele vai fazer? Vai ter o RH, subir a folha de pagamento lá. Em vez de ele ficar revisando as coisas, a gente já revisa pra ele e vai dar os alertas. Fala, cara, esse código aqui não está no histórico das folhas desse colaborador. Você nunca coloca esse lançamento. O que dessa vez tem? Ó, o fulano tem horas extras lançadas aqui, mas lá no espelho ponto dele não tem hora extra. Por que ele tem hora extra aqui? Então, essa avaliação de supervisão que o teu gerente de RH, o analista, faria manualmente, e geralmente eles fazem por amostragem, principalmente quando tem muita gente, o supervisor de RH, o supervisor de folha, vai fazer isso de forma automática. Então, essa é a diferença. Ele vai estar atuando no dia a dia. [LOCAL], você pode customizar muita coisa. Eu tenho um aqui que eu quero ativar por botão. Eu aperto num botão que é supervisionar e ele vai rodar por trás e vai me devolver. Também pode ser. Tem várias formas de você utilizar, mas ele é autônomo, então não precisa ficar chamando ele para ele rodar. E a gente tem a LEM. O que é a LEM? É o modelo de A da [EMPRESA]. A [EMPRESA] não está utilizando uma API para o GPT, para o Gemini, para qualquer outra LLM de mercado. A [EMPRESA] criou a sua própria LLM de A. Por que isso? Porque a gente tem uma preocupação muito grande com segurança, principalmente que a gente tem muitos clientes, enfim. E como que a gente organiza isso, tá?\n[LOCUTOR 33]: [LOCUTOR 12]: gente mantém tudo isso dentro do nosso data center. Uma das premissas do cliente estar em nuvem para poder ter os agentes de AI é justamente isso, é a gente ter o controle da informação, ter o controle do processo como um todo\n[LOCUTOR 23]: garantir que os dados vão ficar somente em lugares que a gente possa controlar. A gente tem uma política forte de segurança sobre isso, tá? Ponto importante sobre a questão dos agentes de ar é, a gente vem lançando agentes de ar a todo tempo, tá, [PESSOA]?\n[LOCUTOR 23]: os clientes nos ajudam a construir isso. Então,\n[LOCUTOR 23]: que a gente tem o agente supervisor de folha do Proteus? Porque dois ou três clientes\n[LOCUTOR 21]: fazem\n[LOCUTOR 23]: parte de um projeto onde esses clientes vão dizer para a [EMPRESA], olha, eu tenho dificuldade com isso aqui. A [EMPRESA] vai lá e desenvolve em cima da ideia deles, eles vão monologar, enfim, e vocês podem eventualmente fazer parte desse programa também, tá? Então, um negócio bem legal aí que a gente vem construindo, tá? Hoje vocês já tem alguma coisa de A rodando aí ou não?\n[LOCUTOR 21]: É, e até complementando, né, [PESSOA]? E A é muito... muito mais do que no chat GPT, pedir uma pergunta, pedir para escrever o texto melhor, né? Principalmente a segurança da informação, né? Que quando a gente vai para essas ferramentas aí de domínio público, a gente está alimentando elas muito mais do que consumindo, né? Então, tá lá a [PESSOA] colocando um monte de informação da dentro de uma plataforma que a gente não sabe qual vai ser o futuro dela.\n[LOCUTOR 23]: Então\n[LOCUTOR 21]: na TOTUS inclusive a gente é proibido de utilizar ferramentas de mercado. Exatamente por isso que a gente estaria colocando as nossas informações e as informações dos clientes para um domínio público. E essa é uma das grandes vantagens de você estar trabalhando com TOTUS. A TOTUS desenvolveu ali um player aí digamos assim de de inteligência artificial dentro de casa com especialização em ERP. Então a gente vai ter as informações do ERP centralizadas e para os clientes estarem utilizando sem risco nenhum disso daqui a pouco eu estar aqui no [EMPRESA] perguntar alguma coisa e vir uma resposta dentro da ISDRA porque o diretor da ISDRA tem um salário de tanto Então, assim, é uma das coisas que a gente preza muito é segurança de informação e isso é o que está levando a gente a levar nossos clientes para a nuvem e oferecendo os agentes somente para quem estará na\n[LOCUTOR 23]: nuvem. Isso aí. E hoje, no Jornada de Migração para a [LOCAL], [PESSOA], a gente dá todo um apoio para o cliente, a gente faz um estudo prévio, justamente para estruturar isso, para não ser uma migração que você vai se incomodar depois, enfim. Mas eu queria ouvir mais de ti, cara. Hoje, você falou que vocês estão rodando já com SQL Server, a licença estándar, enfim. Mas como é que está a parte de servidores de vocês hoje? Hoje, a parte do [EMPRESA], a compra de servidores é de vocês?\n[LOCUTOR 33]: Vamos lá, são Oracle, né? Então, os nossos servidores de banco gerados, sim. Nós rodamos em um appliance da Oracle, os ODAs, tá? E os servidores de Hyper-V, eles são do nosso desenvolvedor da [LOCAL]. Então, dentro do nosso contrato, eles são servidores e virtualizações, licenciamentos, tudo coisas.\n[LOCUTOR 23]: [PESSOA]. Vocês usam [EMPRESA] ou Hyper-V? Hyper-V?\n[LOCUTOR 23]: Hyper-V, legal. Hoje a Totos utiliza [EMPRESA], tá? Estamos aí entre os... Nós somos hoje o segundo maior comprador da [LOCAL] Latina de tecnologia. A gente compra tudo em grande quantidade. A gente tem uma parceria que eu vejo muito legal e a gente vai ficar uns bons anos ainda com essa tecnologia. Quando a gente fala de você vir para a Tóxica, você terceiriza toda a responsabilidade não só de compra dessas coisas, mas de gestão. A Tóxica vai gerenciar tudo isso para você. Aí você fala assim, ah, mas eu tenho outros servidores que não são da Tóxica. Eu tenho um AD, um file server. Daqui a pouco você tem um metadados, um server. Enfim, pode trazer isso junto? A resposta é sim. A gente tem um modelo de oferta\n[LOCUTOR 33]: junto\n[LOCUTOR 23]: com o dos sistemas da [LOCAL]. A gente chama de IAS, que é onde eu comercializo a VM. Obviamente isso não se aplica para o produto da [LOCAL], é para outros produtos. E aí nessa VM você tem acesso ao sistema operacional para você instalar o que você quiser, inclusive outros sistemas. e justamente para a oferta ficar com busto ela ficar completa. Mas eu vou migrar o meu sistema da TOTOS mas aí eu tenho um outro aqui que uso o banco igual. Eu vou continuar tendo custo de rádio custo de licença de banco. Então a gente tem uma oferta completa para vender tudo isso. Na visão de vocês eu acho que isso estaria no roadmap de avaliar isso esse ano ainda.\n[LOCUTOR 33]: Para TOTOS exclusivo para TOTOS a gente pode abrir uma conversa assim. Mas vamos lá, subiu meu servidor de aplicação e meu banco de dados para não venda todos.\n[LOCUTOR 25]: não tenho acesso, não existe um servidor de aplicação. Eu recebi uma URL para acessar. É mais ou menos por aí. O que muda no meu dia a dia? [PESSOA] hoje no modelo quando migra para 90 top você tem os servidores no servidor dedicado de banco de aplicação. Aí tem dois ambientes de produção e aí tem mais dois para a parte de homologação. Você não tem acesso ao sistema operacional. O acesso é feito através da console do [PESSOA]. Então tem uma console de gerenciamento, onde você consegue mexer nos arquivos, pausar e iniciar serviço, rodar comandos dentro do servidor, enfim, mexer nos customizados. Tudo o que você faria no servidor local, acessando\n[LOCUTOR 23]: Windows Server lá pelo [EMPRESA], você vai fazer através da consola do [PESSOA].\n[LOCUTOR 33]: [LOCUTOR 19]: o acesso direto ao servidor não tem. Então, quais são as limitações que mudam no teu dia a dia? [LOCUTOR 8]: relação ao banco de dados, tem algumas limitações. No acesso ao banco de dados, você vai ter um acesso de leitura, de escrita, enfim, você vai ter um CRUD. Aquilo que é mexer na estrutura do banco aí fica a cargo da [LOCAL], você pode obviamente abrir um chamado, a [LOCAL] alterar, mas esse acesso você não tem. Quando a gente fala com relação aos arquivos, a gente libera um acesso a [LOCAL], que você pode mexer em todos os arquivos, acessar os arquivos do servidor, enfim, através dali. E\n[LOCUTOR 23]: uma limitação, obviamente, de instalação de executáveis. No modelo da oferta, como ele é um\n[LOCUTOR 33]: PaaS,\n[LOCUTOR 23]: somente os executáveis da TOTOS que rodam lá dentro. Os outros executáveis, se você tiver\n[LOCUTOR 23]: software complementar, teria que rodar numa VM apartada do IaaS, que aí sim você está comprando a VM e você pode instalar o que você quiser.\n[LOCUTOR 33]: Preciso de um usuário novo para acessar o banco de dados. Abre um chamado.\n[LOCUTOR 23]: Isso aí, abre um chamado, a gente cria o usuário para você e te passa uma senha provisória.\n[LOCUTOR 33]: Performance de banco, performance de servidor, é tudo com a [LOCAL].\n[LOCUTOR 23]: É tudo com a [LOCAL]. Nosso modelo, a gente, no PaaS, que é o modelo do Proteus, a gente não vende servidores, a gente vende serviço. Então, você vai terceirizar o teu Proteus e você vai pagar por conexão de usuário, por conexão de API e por volume de dados. Essas são as únicas métricas. Você vai falar,\n[LOCUTOR 33]: cara,\n[LOCUTOR 23]: meu banco tem 100 GB. [LOCAL]. Se os seus usuários começarem a utilizar demais, todo mundo botar para baixar um relatório dos últimos 50 anos da empresa e precisar de mais memória,\n[LOCUTOR 23]: processamento, a TOTUS vai aumentar a carga de processamento, aumentar o shape da VM e isso não vai refletir custos para vocês. Esse modelo\n[LOCUTOR 3]: simplificado\n[LOCUTOR 23]: justamente para você não ter surpresa, não ter que se preocupar com o sizing do servidor.\n[LOCUTOR 33]: Vamos lá. Então eu vou te pagar por conexão de usuários e por conexões de API.\n[LOCUTOR 23]: Isso aí. E por volume do banco, né? Volume de dados no banco.\n[LOCUTOR 33]: Muito bem. Tá. Agora saiu uma atualização regulatória nova. Isto é disponibilizado em uma base de homologação. Eu testo e depois vai para a produção ou isso já vai direto para a produção?\n[LOCUTOR 23]: Sempre homologação primeiro. A [LOCAL] não faz nada a não ser que seja homologação primeiro mesmo que seja algo regulatório. Quando sai uma regulação alguma coisa geralmente não é de imediato. Tem 30 dias para implementar. Então a [LOCAL] vai te acionar e ela vai falar eu preciso de janelas sugeridas para colocar homologação e produção. Se você não definir a janela, ao término disso, quando passar aquela nova legislação, aquela nova lei, a [LOCAL] vai fazer obrigatoriamente em produção, tá?\n[LOCUTOR 33]: [LOCAL] acordadas.\n[LOCUTOR 23]: Isso aí,\n[LOCUTOR 33]: janelas\n[LOCUTOR 23]: acordadas.\n[LOCUTOR 33]: Atualizações de release.\n[LOCUTOR 23]: Atualizações de release é você que demanda, a [PESSOA] ela não demanda para você, tá?\n[LOCUTOR 23]: falar.\n[LOCUTOR 33]: Nós começamos a mexer com a 2510, tá? Paramos uma base, agora na semana que vem vamos fazer a instalação de homologação. Eu vou ficar aí umas duas, três semanas homologando e aí faremos a... Hoje eu tenho um contrato de um [LOCAL] que faz isso para mim. o mercado continua existindo? dentro desse contrato de nuvem?\n[LOCUTOR 23]: Esse contrato continua existindo.\n[LOCUTOR 23]: clientes que preferem reorganizar o contrato.\n[LOCUTOR 23]: vezes você tem horas desse contrato que você utiliza para infraestrutura. Isso tudo vai ficar com a [LOCAL]. Tem horas do contrato que você utiliza para atualizar o sistema. Como isso já vai ser feito pelo serviço de cloud, você pode reorganizar o seu contrato. Mas, [PESSOA], se você não mexer no [LOCAL], uma coisa não tem nada a ver com a outra, mas quem vai fazer é o time de cloud. Você fala assim, ah, mas o cara do meu [LOCAL] quer fazer atualização. Ele não vai fazer. É o time de cloud que vai fazer atualização pra você. A responsabilidade de vocês vai ser escolher a janela de quando vai atualizar e sinalizar, ó, no dia tal, autoriza homologação. Agora no dia tal, autoriza produção. Tá.\n[LOCUTOR 33]: Muito bem. Vou pegar um exemplo. prático aqui. Tem um novo módulo de compras, que agora eu preciso abrir uma porta para o mundo, para que, então, os meus fornecedores coloquem as suas cotações.\n[LOCUTOR 23]: Então,\n[LOCUTOR 33]: teve um movimento da minha infraestrutura em preparar um\n[LOCUTOR 23]: servidor\n[LOCUTOR 33]: intermediário aqui, e o meu [LOCAL] fez a configuração agora, a\n[LOCUTOR 23]: aplica\n[LOCUTOR 2]: a versão, a configuração e deixou tudo funcionando.\n[LOCUTOR 23]: [LOCUTOR 6]: exemplo, quem faria tudo seria o time de Cloud. É que a gente tem uma arquitetura um pouco diferente, tá? Imagina que você tem esse servidor intermediário configurado pra ser tipo um proxy, pra que você não precisa\n[LOCUTOR 33]: abrir\n[LOCUTOR 23]: todo o teu Proteus pro mundo, né? No caso do [PESSOA], a gente A gente trabalha com o WAF da Cloudflare. Então, a gente tem toda uma proteção de borda da Cloudflare e a gente pode criar uma rota exclusiva no WAF, que essa rota vai te dar acesso somente a esse serviço. Tem que você precisa ter esse servidor intermediário de proxy com toda a proteção de WAF. Então,\n[LOCUTOR 33]: muda\n[LOCUTOR 23]: um pouquinho a arquitetura. Mas vamos lá, vamos dizer que você fale assim, eu quero manter dessa forma, ter um servidor de proxy e levar.\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 33]: Seguindo, estou na cloud da TOTOS.\n[LOCUTOR 23]: [LOCUTOR 9]: vamos botar lá, TOTOS, você que me diga qual a sua arquitetura para isso. Quem vai efetivamente colocar o pacote a rodar, fazer as parametrizações dele e deixar ele funcionando? É só o time de cloud ou eu ainda vou precisar chamar o meu cara de PCs para fazer alguma coisa? [PESSOA], você ainda vai precisar do cara do [LOCAL]. O time de cloud vai cuidar da parte de infra instalação do produto. Então o time de cloud vai subir a instância. Onde é que você precisa de uma instância adicional para isso? O time de cloud vai subir a instância, vai instalar lança o Proteus e vai passar o acesso de administrador. Ah, tem que criar um parâmetro no Proteus, fazer uma configuração. A gente não faz. O time de cloud se limita só a parte de... até o serviço estar online. O serviço estar online entra o produto para fazer a configuração dele. Que aí seria o teu [LOCAL], né?\n[LOCUTOR 22]: de perguntas, só tenho até aí.\n[LOCUTOR 23]: Boa. A gente tem, aqui dentro do time de cloud, a gente tem três modelos de oferta, tá, [PESSOA]? A gente tem um modelo que é compartilhado, divide o servidor com outros clientes, que a gente nem oferta isso para você, mas é para você saber, tem para cliente pequeno, o cara tem quatro, cinco usuários, A gente tem o modelo dedicado, que é onde você tem servidores dedicados para você, mas ainda assim\n[LOCUTOR 10]: tem servidores standalone, então você não tem redundância e tudo mais. E a gente tem a modalidade [PESSOA], que é a modalidade que eu recomendo para vocês, que é onde vocês têm alta disponibilidade, então é tudo replicado em nó primário e nó secundário. Essa replicação ocorre na camada do virtualizador. E aí a gente tem o DNS da [LOCAL], que faz o failover do nó primário para o nó secundário, caso preciso. E na modalidade [PESSOA], o atendimento não é mais via portal de chamado. O atendimento é através do engenheiro [PESSOA]. O que isso muda na prática? Quando você abre um chamado, você abre o chamado, vai cair na fila, conforme o SLA da criticidade daquele chamado, alguém vai atender. Esse cara é um [LOCAL]. Se ele descobrir que não sabe resolver o problema, ele vai se calar lá para o [LOCAL], depois escalar para o [LOCAL], por aí vai. Como deve ser assim nos chamados da sua TI. No modalidade [PESSOA], você tem o telefone de um engenheiro [PESSOA], que é um líder do time de suporte, e você fala sempre com o mesmo cara no\n[LOCUTOR 33]: WhatsApp,\n[LOCUTOR 33]: Então\n[LOCUTOR 23]: isso traz velocidade para o atendimento, é sempre o mesmo cara que te atende, você fala direto no WhatsApp com ele, e ele já aloca alguém do time dele na hora, que está de plantão, para poder te atender naquele momento. Isso ajuda muito no troubleshooting também, porque se ele é um líder, ele já é um cara mais sênior. E ele sempre fala... Vocês sempre falam com a mesma pessoa. Então, se é um problema recorrente, ele já conhece o perfil,\n[LOCUTOR 17]: sabe o que tem no ambiente de vocês, o que não tem. Então, na modalidade [PESSOA], isso faz muito sentido no dia a dia. Evita de você perder um tempo enorme quando você vai ver o chamado na fila padrão, até alguém resolver. Isso é o que a gente recomenda pra vocês, tá, [PESSOA]?\n[LOCUTOR 32]: vou nem considerar os outros. Tá, e aí? Quanto é que custa essa brincadeira? Quanto eu vou reduzir da minha fatura atual da TOTUS indo pra [EMPRESA]?\n[LOCUTOR 23]: [PESSOA]. Qual que é a modalidade de vocês hoje? Vocês estão no tradicional, corporativo ou inteira? Modalidade de licença?\n[LOCUTOR 23]: Se tem em mãos aí qual que é a modalidade deles.\n[LOCUTOR 21]: Modalidade da [LOCAL] é tradicional tradicional\n[LOCUTOR 23]: legal. A gente a gente tem hoje um passo que a gente chama de acesso a [PESSOA]. O que é o assessing? É uma agenda de uma hora que a gente marca. Vai entrar um especialista meu de banco de dados, um especialista meu de aplicação. A gente vai pedir para você rodar alguns scripts no banco, que é mais de volumetria de dados, volume de transação no banco, enfim, e volume de conexões. Com esses dados, a gente monta um escopo técnico. Esse escopo técnico já é prevendo um crescimento.\n[LOCUTOR 23]: assim, você tem 30, obviamente é bem mais, mas vamos lá, tem 30 usuários, mas você está utilizando 30, não adianta eu te vender 30, daqui 6 meses você contrata 5 pessoas, tem que ter 35, tem que ir lá, pedir pra aumentar o contrato. Então a gente já faz esse assessment pra ver qual que é a curva de crescimento e tudo mais, pra te trazer um escopo técnico que não vai precisar você mexer nos próximos anos aí nesse\n[LOCUTOR 21]: foco.\n[LOCUTOR 23]: E aí com isso tem os valores, eu e a [PESSOA] a gente monta uma proposição comercial e te apresenta.\n[LOCUTOR 33]: Esse\n[LOCUTOR 23]: é o passo que a gente vem fazendo, tá? Podemos marcar essa agenda de assessment com você mesmo? Você tem esses acertos ou entra mais alguém do teu time daí?\n[LOCUTOR 33]: Não, eu envolveria meu cara de sistemas e de infraestrutura junto.\n[LOCUTOR 23]: Show. [LOCAL]. A gente pode marcar essa agenda para semana que vem?\n[LOCUTOR 23]: [LOCUTOR 1]: mês agora estamos... mês de feira, semana que vem Então tá todo mundo enlouquecido. Podemos marcar na semana do dia 23. [LOCAL].\n[LOCUTOR 13]: eu falar que\n[LOCUTOR 33]: [LOCUTOR 14]: começou o ano, né? Acabou o carnaval, o ano começou, então tá uma loucura.\n[LOCUTOR 33]: parado,\n[LOCUTOR 21]: gente.\n[LOCUTOR 23]: Me corrija, vocês estão rodando com Oracle ou com um SQL Server?\n[LOCUTOR 33]: Oracle.\n[LOCUTOR 23]: Oracle, legal. Ah, e migrando para a nuvem, a gente coloca a licença Enterprise da Oracle, tá? A gente tem um grande contrato com a Oracle, já vai licença Enterprise, tem várias features da Enterprise. Pode ser no dia 24 às 14 horas?\n[LOCUTOR 33]: [LOCAL]\n[LOCUTOR 33]: [[PESSOA].\n[LOCUTOR 23]: [LOCAL] ou com Z no final?\n[LOCUTOR 23]: É o domini.com.br?\n[LOCUTOR 33]: O sobrenome é o mesmo, para todo mundo.\n[LOCUTOR 23]: [LOCAL] e o outro é?\n[LOCUTOR 33]: [[PESSOA].\n[LOCUTOR 23]: [LOCAL]. Você, obviamente. A [PESSOA] também não vai ter que acompanhar. Já mando para vocês, então, esse invite. Se tiver qualquer percalças a remarcar, enfim,\n[LOCUTOR 23]: A gente é superflexível aqui. E aí, depois do assessment, dois ou três dias depois, a gente já tem isso na mão e a [PESSOA], a gente marca de te apresentar com calma, até pra você revisar o escopo com a gente, enfim. E aí, se fizer sentido, a gente estrutura isso aí pra vocês, tá bom?\n[LOCUTOR 21]: você,\n[LOCUTOR 39]: [PESSOA].\n[LOCUTOR 21]: [LOCAL].\n[LOCUTOR 23]: [LOCAL],\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 39]: [LOCAL].\n[LOCUTOR 21]: E na casa\n[LOCUTOR 39]: nova.\n[LOCUTOR 23]: esperando lá,\n[LOCUTOR 21]: ali assim. Toma um cafézinho com a gente, tem cappuccininho, tem um\n[LOCUTOR 33]: monte de\n[LOCUTOR 21]: coisinha aqui\n[LOCUTOR 21]: casa.\n[LOCUTOR 21]: gente descobriu\n[LOCUTOR 23]: hoje que tem\n[LOCUTOR 23]: lojinha da [LOCAL] aqui\n[LOCUTOR 33]: no shopping\n[LOCUTOR 23]: embaixo. A\n[LOCUTOR 21]: loucura dos nossos clientes, tá, Unidade?\n[LOCUTOR 39]: Então\n[LOCUTOR 39]: [LOCAL], [PESSOA].\n[LOCUTOR 33]: [LOCAL],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:39.287324+00:00",
+    "total_linhas": 251,
+    "linhas_mantidas": 178,
+    "linhas_removidas": 73,
+    "percentual_mantido": 70.92,
+    "confianca_media": 0.4881
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 21]: Vamos aguardar só uns minutinhos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: aí, [PESSOA], como estão as coisas por aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4757,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Estão boas. Correndo bastante e com alguns projetos bem legais.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4691,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: A gente está com aquele assessment que a gente acabou não fazendo lá na fábrica. Se quiser retomar ele, me avisa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4586,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: e a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: gente faz isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Seria legal. Eu também não vi o tema. que o [PESSOA] [PESSOA] começou lá há algum tempo atrás, sobre WMS.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4469,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: [LOCUTOR 7]: estou na fábrica, vou procurá-lo. Estava de férias quando foi feita a apresentação. E também temos aquele tema que o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: está",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: tocando contigo agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Tecnologia lá, já estou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: fazendo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: inclusive. Em seguida deve ter a estimativa de valores aí. Mas, bom, vamos ao objetivo da agenda.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: [PESSOA], que é a nossa especialista de prospecção, fez esse convite para a [LOCAL] estar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5843,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: conosco,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: falando com a gente um pouco. O [PESSOA] é o nosso especialista. [PESSOA], o Grupo [LOCAL], é composto por, digamos, três unidades. O Grupo [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5244,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: FibraPlaque e a Isdralit. E também tem uma série de hotelaria, que é o Grupo Master Hotéis, Mas esse é tratado com a unidade de hotelaria.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5841,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: não sei como é que seria esse movimento da migração, mas essa agenda é para a gente estar conversando e entendendo um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: pouco",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: mais sobre os movimentos. E eu brinco que é para fazer fofoca, porque tem uma fofoca de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5281,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: agentes",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: de ar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: não está oficialmente liberado aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3876,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: muito legal. A",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: continua. Boa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: E aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [PESSOA]. Prazer te conhecer, cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Cara,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: eu acho que eu te conheço de algum lugar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.502,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Ah é? Tu fica onde, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Eu moro em [LOCAL], fico na [EMPRESA], trabalhei antes na [PESSOA], trabalhei com o [PESSOA], talvez você conheça ele, trabalhou muito tempo na [PESSOA] também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: De nome sim, mas eu não cheguei a passar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4009,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Talvez a gente já tenha se visto por aí em algum evento, a gente já se viu. Eu sou sempre enxerido de estar em evento, né, cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.545,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não, pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4655,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Boa. Você vai vir no [EMPRESA] agora, que vai ter dia 18?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4849,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: legal. A gente vai ter a inauguração da unidade nova aqui da [LOCAL] [LOCAL] no dia 18 também, né? No mesmo, sei lá, na mesma semana que vai ter o [EMPRESA], né? Por isso que eu perguntei se você fosse estar por aqui. Cara, eu sou especialista em nuvem aqui na Tots, tá? Estou há mais ou menos um ano aqui dentro da companhia, venho de mercado, enfim, trabalhando um tempo com a AWS, com Oracle, com o Eijo. E a gente, a ideia do papo aqui é te falar um pouquinho a respeito do que a gente tem hoje de cloud e DIA, porque as duas coisas andam juntas aqui dentro da TOS, tá? E ver se faz sentido para a realidade de vocês, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 4]: tenho um material para apresentar, que é um PPT, tá? Mas eu gosto sempre de perguntar antes, que às vezes faz mais sentido a gente fazer um bate-papo e a gente vai puxando os pontos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5229,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: conforme o andar da carruagem, do que eu ficar fazendo uma apresentação monóloga. Pode ser o modelo bate-papo para você? Funciona melhor?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: O que voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: prefere?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Sim, claro. Vamos lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Vamos embora. A [LOCAL] tem uma nuvem privada, [PESSOA]. Acho que nem todo mundo do mercado sabe, mas nós temos a maior nuvem brasileira. A gente tem quase 100 mil servidores virtuais rodando na nossa nuvem. É um complexo realmente muito grande. A gente tem mais de 10 mil containers. Um ambiente muito robusto. E a gente vem já, essa nossa nuvem privada já tem mais de 10 anos, mas a gente vem muito recente numa pegada acelerada de migração, porque a gente tem uma estratégia de [LOCAL] da companhia, que roda exclusivamente na nuvem da [LOCAL], onde a gente disponibiliza agentes de [LOCAL] para os clientes contratarem,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: nada mais é do que a [LOCAL] fazendo a tarefa do que um colaborador da sua empresa faria, como uma supervisão de folha no RH,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: auditoria de compras e por aí vai. Queria entender um pouquinho da realidade de vocês, cara. Hoje vocês estão rodando aonde? Vocês rodam tudo local?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Tudo local, tá? Nós temos um parceiro de data center. Nós temos nossa hospedagem lá. É meio um...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4905,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Location?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Location, tá. Hoje nós temos quatro bases separadas. E aí... Isso, duas de indústrias, uma de hotelaria e uma das outras empresas do grupo que são empresas menores. [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5678,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: é Proteus que vocês usam ou Dota Su?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Proteus, vocês usam com Oracle ou com SQL?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Pois é, hoje com Oracle.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Pretende mudar para SQL?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Para PostgreSQL.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Para PostgreSQL, legal. Você sabe que a TOTUS homologou recentemente, na virada do ano, o PostgreSQL? mas é um [PESSOA] exclusivo. A gente fez uma parceria com a [PESSOA] e a gente construiu uma arquitetura do banco específica para o Proteus. Eu não lembro o nome, tá? Mas acho que é TOTUS Database ou TDB, o nome do produto, tá? Que é como se fosse um [PESSOA], só que a TOTUS trabalhando com features exclusivas, enfim. E, em princípio, isso está sendo um projeto bem legal. Acho que em breve a gente vai começar a ofertar as migrações para a nuvem vindo para esse modelo, tá? A gente deve gastar horrores de licença com o SQL, né? Vocês estão no Enterprise já ou não?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não, está andando.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3876,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Está andando.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 12]: nuvem da Tots como que funciona, tá? A gente tem um modelo que a gente chama de PaaS, que é o Plataforma das Assuntos. Então ele não é nem um SaaS, porque você... O SaaS você bota o login sem sair usando, e não é nesse nível. Você ainda escolhe a versão que você vai rodar, escolhe quando você quer atualizar o sistema. Você tem acesso ao banco de dados para fazer consulta, para conectar um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Power BI, fazer uma replicação. E você ainda pode criar os customizados no ADV PL. Então, por isso que não é um SaaS. Mas também não é um IaaS, porque a TOTOS não vai te comercializar VM. A TOTOS vai te comercializar isso no serviço.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: é. o nosso modelo de paz, tá? Então a gente fica responsável por tudo do Proteus. Desde a parte de banco, de sustentação, segurança, firewall, [LOCAL], [LOCAL], tudo que você tiver relacionado à infraestrutura, a gente cuida pra você. A única preocupação que ficaria com você seria com relação aos customizados, que a Totus não bota a mão nos customizados. Com relação à parte de versões, a Totus atualiza pra vocês. A única preocupação de vocês é quando vocês vão atualizar. Essa janela é definida por vocês. A TOTUS fataliza automaticamente aquilo que é legal. Tem uma determinação legal de atualização tributária. A gente vai lá e faz. Mas as atualizações de release, vocês escolhem quando vai acontecer e o time realiza para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: é o nosso modelo de cloud hoje. Obviamente a gente entrega toda uma suíte completa de serviço, alta disponibilidade. Então a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.532,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: o [PESSOA] no primário, no secundário. Você pode opcionalmente ter uma replicação num plano de DR para um outro datacenter. Enfim, tem todo um aparato ao redor da oferta que faz a gente ter uma oferta muito robusta. Mas a principal vantagem é que você vindo para o governo da TOTUS, além de você terceirizar essas responsabilidades, você passa a ter acesso aos agentes de ar. Eles não estão inclusos, tá, [PESSOA]? Você tem que contratá-los. Mas você tem a possibilidade de contratar agentes prontos, feitos pela TOTUS. A gente já tem alguns prontos, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 20]: é o caso do Supervisor de Folha, [EMPRESA], [PESSOA]. Vários desses agentes a gente já tem prontos. Outros a gente está lançando ao longo do ano, enfim. E também você pode ter agentes customizados, que é onde você faz o seu próprio agente do zero. E",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: até complementando a parte que eu falei que teria novidades aí de bastidores, os valores estão muito atrativos. A gente foi apresentado ontem, assim, eu chamo de um colaborador virtual, né? Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 21]: muito bom mesmo. Então, assim, é o futuro, né? Não tem como a gente fugir, né? ou seja, num curto prazo ou num longo prazo, todo mundo vai estar na nuvem, todo mundo vai ter esses agentes, né? E a TOTUS aí, como sempre, lançando isso em primeira mão. Você também não falou do [EMPRESA]. O [EMPRESA] eu achei muito interessante, a gente tem que contar isso para ele também. Pode contar tudo, acho que o [PESSOA] não vai... Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: mas como é esse agente de consultor? Isso vai ser um... um módulo que eu vou ficar fazendo perguntas para ele, com a medida que eu for trabalhando, ele já vai me dizendo, olha, cara, isso aqui é melhor aqui, isso assim, como é que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.491,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: funciona.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [PESSOA]. Eles são autônomos, tá? Porque a grande diferença do agente para o assistente de AI é que no assistente você pergunta e ele te responde.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6191,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: te dá uma assistência. O agente de AI é totalmente autônomo, tá? Então, por exemplo, o supervisor de folha. Tem um supervisor de folha do Proteus. Folha de pagamento, né? O que ele vai fazer? Vai ter o RH, subir a folha de pagamento lá. Em vez de ele ficar revisando as coisas, a gente já revisa pra ele e vai dar os alertas. Fala, cara, esse código aqui não está no histórico das folhas desse colaborador. Você nunca coloca esse lançamento. O que dessa vez tem? Ó, o fulano tem horas extras lançadas aqui, mas lá no espelho ponto dele não tem hora extra. Por que ele tem hora extra aqui? Então, essa avaliação de supervisão que o teu gerente de RH, o analista, faria manualmente, e geralmente eles fazem por amostragem, principalmente quando tem muita gente, o supervisor de RH, o supervisor de folha, vai fazer isso de forma automática. Então, essa é a diferença. Ele vai estar atuando no dia a dia. [LOCAL], você pode customizar muita coisa. Eu tenho um aqui que eu quero ativar por botão. Eu aperto num botão que é supervisionar e ele vai rodar por trás e vai me devolver. Também pode ser. Tem várias formas de você utilizar, mas ele é autônomo, então não precisa ficar chamando ele para ele rodar. E a gente tem a LEM. O que é a LEM? É o modelo de A da [EMPRESA]. A [EMPRESA] não está utilizando uma API para o GPT, para o Gemini, para qualquer outra LLM de mercado. A [EMPRESA] criou a sua própria LLM de A. Por que isso? Porque a gente tem uma preocupação muito grande com segurança, principalmente que a gente tem muitos clientes, enfim. E como que a gente organiza isso, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 12]: gente mantém tudo isso dentro do nosso data center. Uma das premissas do cliente estar em nuvem para poder ter os agentes de AI é justamente isso, é a gente ter o controle da informação, ter o controle do processo como um todo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: garantir que os dados vão ficar somente em lugares que a gente possa controlar. A gente tem uma política forte de segurança sobre isso, tá? Ponto importante sobre a questão dos agentes de ar é, a gente vem lançando agentes de ar a todo tempo, tá, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5893,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: os clientes nos ajudam a construir isso. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: que a gente tem o agente supervisor de folha do Proteus? Porque dois ou três clientes",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: fazem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: parte de um projeto onde esses clientes vão dizer para a [EMPRESA], olha, eu tenho dificuldade com isso aqui. A [EMPRESA] vai lá e desenvolve em cima da ideia deles, eles vão monologar, enfim, e vocês podem eventualmente fazer parte desse programa também, tá? Então, um negócio bem legal aí que a gente vem construindo, tá? Hoje vocês já tem alguma coisa de A rodando aí ou não?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 21]: É, e até complementando, né, [PESSOA]? E A é muito... muito mais do que no chat GPT, pedir uma pergunta, pedir para escrever o texto melhor, né? Principalmente a segurança da informação, né? Que quando a gente vai para essas ferramentas aí de domínio público, a gente está alimentando elas muito mais do que consumindo, né? Então, tá lá a [PESSOA] colocando um monte de informação da dentro de uma plataforma que a gente não sabe qual vai ser o futuro dela.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: na TOTUS inclusive a gente é proibido de utilizar ferramentas de mercado. Exatamente por isso que a gente estaria colocando as nossas informações e as informações dos clientes para um domínio público. E essa é uma das grandes vantagens de você estar trabalhando com TOTUS. A TOTUS desenvolveu ali um player aí digamos assim de de inteligência artificial dentro de casa com especialização em ERP. Então a gente vai ter as informações do ERP centralizadas e para os clientes estarem utilizando sem risco nenhum disso daqui a pouco eu estar aqui no [EMPRESA] perguntar alguma coisa e vir uma resposta dentro da ISDRA porque o diretor da ISDRA tem um salário de tanto Então, assim, é uma das coisas que a gente preza muito é segurança de informação e isso é o que está levando a gente a levar nossos clientes para a nuvem e oferecendo os agentes somente para quem estará na",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: nuvem. Isso aí. E hoje, no Jornada de Migração para a [LOCAL], [PESSOA], a gente dá todo um apoio para o cliente, a gente faz um estudo prévio, justamente para estruturar isso, para não ser uma migração que você vai se incomodar depois, enfim. Mas eu queria ouvir mais de ti, cara. Hoje, você falou que vocês estão rodando já com SQL Server, a licença estándar, enfim. Mas como é que está a parte de servidores de vocês hoje? Hoje, a parte do [EMPRESA], a compra de servidores é de vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Vamos lá, são Oracle, né? Então, os nossos servidores de banco gerados, sim. Nós rodamos em um appliance da Oracle, os ODAs, tá? E os servidores de Hyper-V, eles são do nosso desenvolvedor da [LOCAL]. Então, dentro do nosso contrato, eles são servidores e virtualizações, licenciamentos, tudo coisas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [PESSOA]. Vocês usam [EMPRESA] ou Hyper-V? Hyper-V?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4844,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 16]: entendi, cortou, desculpa. Hyper-V.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3788,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Hyper-V, legal. Hoje a Totos utiliza [EMPRESA], tá? Estamos aí entre os... Nós somos hoje o segundo maior comprador da [LOCAL] Latina de tecnologia. A gente compra tudo em grande quantidade. A gente tem uma parceria que eu vejo muito legal e a gente vai ficar uns bons anos ainda com essa tecnologia. Quando a gente fala de você vir para a Tóxica, você terceiriza toda a responsabilidade não só de compra dessas coisas, mas de gestão. A Tóxica vai gerenciar tudo isso para você. Aí você fala assim, ah, mas eu tenho outros servidores que não são da Tóxica. Eu tenho um AD, um file server. Daqui a pouco você tem um metadados, um server. Enfim, pode trazer isso junto? A resposta é sim. A gente tem um modelo de oferta",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: junto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: com o dos sistemas da [LOCAL]. A gente chama de IAS, que é onde eu comercializo a VM. Obviamente isso não se aplica para o produto da [LOCAL], é para outros produtos. E aí nessa VM você tem acesso ao sistema operacional para você instalar o que você quiser, inclusive outros sistemas. e justamente para a oferta ficar com busto ela ficar completa. Mas eu vou migrar o meu sistema da TOTOS mas aí eu tenho um outro aqui que uso o banco igual. Eu vou continuar tendo custo de rádio custo de licença de banco. Então a gente tem uma oferta completa para vender tudo isso. Na visão de vocês eu acho que isso estaria no roadmap de avaliar isso esse ano ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.54,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Para TOTOS exclusivo para TOTOS a gente pode abrir uma conversa assim. Mas vamos lá, subiu meu servidor de aplicação e meu banco de dados para não venda todos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 25]: não tenho acesso, não existe um servidor de aplicação. Eu recebi uma URL para acessar. É mais ou menos por aí. O que muda no meu dia a dia? [PESSOA] hoje no modelo quando migra para 90 top você tem os servidores no servidor dedicado de banco de aplicação. Aí tem dois ambientes de produção e aí tem mais dois para a parte de homologação. Você não tem acesso ao sistema operacional. O acesso é feito através da console do [PESSOA]. Então tem uma console de gerenciamento, onde você consegue mexer nos arquivos, pausar e iniciar serviço, rodar comandos dentro do servidor, enfim, mexer nos customizados. Tudo o que você faria no servidor local, acessando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Windows Server lá pelo [EMPRESA], você vai fazer através da consola do [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5791,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 19]: o acesso direto ao servidor não tem. Então, quais são as limitações que mudam no teu dia a dia? [LOCUTOR 8]: relação ao banco de dados, tem algumas limitações. No acesso ao banco de dados, você vai ter um acesso de leitura, de escrita, enfim, você vai ter um CRUD. Aquilo que é mexer na estrutura do banco aí fica a cargo da [LOCAL], você pode obviamente abrir um chamado, a [LOCAL] alterar, mas esse acesso você não tem. Quando a gente fala com relação aos arquivos, a gente libera um acesso a [LOCAL], que você pode mexer em todos os arquivos, acessar os arquivos do servidor, enfim, através dali. E",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: uma limitação, obviamente, de instalação de executáveis. No modelo da oferta, como ele é um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: PaaS,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: somente os executáveis da TOTOS que rodam lá dentro. Os outros executáveis, se você tiver",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5414,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: software complementar, teria que rodar numa VM apartada do IaaS, que aí sim você está comprando a VM e você pode instalar o que você quiser.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Preciso de um usuário novo para acessar o banco de dados. Abre um chamado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5558,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Isso aí, abre um chamado, a gente cria o usuário para você e te passa uma senha provisória.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5248,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Performance de banco, performance de servidor, é tudo com a [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: É tudo com a [LOCAL]. Nosso modelo, a gente, no PaaS, que é o modelo do Proteus, a gente não vende servidores, a gente vende serviço. Então, você vai terceirizar o teu Proteus e você vai pagar por conexão de usuário, por conexão de API e por volume de dados. Essas são as únicas métricas. Você vai falar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: cara,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: eu tenho 15 APIs conectadas, eu vou ter 30 usuários conectados",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4205,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: meu banco tem 100 GB. [LOCAL]. Se os seus usuários começarem a utilizar demais, todo mundo botar para baixar um relatório dos últimos 50 anos da empresa e precisar de mais memória,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5354,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: processamento, a TOTUS vai aumentar a carga de processamento, aumentar o shape da VM e isso não vai refletir custos para vocês. Esse modelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4955,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: simplificado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: justamente para você não ter surpresa, não ter que se preocupar com o sizing do servidor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Vamos lá. Então eu vou te pagar por conexão de usuários e por conexões de API.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4965,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Isso aí. E por volume do banco, né? Volume de dados no banco.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6002,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Muito bem. Tá. Agora saiu uma atualização regulatória nova. Isto é disponibilizado em uma base de homologação. Eu testo e depois vai para a produção ou isso já vai direto para a produção?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Sempre homologação primeiro. A [LOCAL] não faz nada a não ser que seja homologação primeiro mesmo que seja algo regulatório. Quando sai uma regulação alguma coisa geralmente não é de imediato. Tem 30 dias para implementar. Então a [LOCAL] vai te acionar e ela vai falar eu preciso de janelas sugeridas para colocar homologação e produção. Se você não definir a janela, ao término disso, quando passar aquela nova legislação, aquela nova lei, a [LOCAL] vai fazer obrigatoriamente em produção, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL] vai respeitar outra lei. Mas antes, pra organizar a janela e tudo mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCAL] acordadas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Isso aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: janelas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: acordadas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Atualizações de release.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Atualizações de release é você que demanda, a [PESSOA] ela não demanda para você, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5139,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não precisa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4503,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Nós começamos a mexer com a 2510, tá? Paramos uma base, agora na semana que vem vamos fazer a instalação de homologação. Eu vou ficar aí umas duas, três semanas homologando e aí faremos a... Hoje eu tenho um contrato de um [LOCAL] que faz isso para mim. o mercado continua existindo? dentro desse contrato de nuvem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Esse contrato continua existindo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: clientes que preferem reorganizar o contrato.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Às",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: vezes você tem horas desse contrato que você utiliza para infraestrutura. Isso tudo vai ficar com a [LOCAL]. Tem horas do contrato que você utiliza para atualizar o sistema. Como isso já vai ser feito pelo serviço de cloud, você pode reorganizar o seu contrato. Mas, [PESSOA], se você não mexer no [LOCAL], uma coisa não tem nada a ver com a outra, mas quem vai fazer é o time de cloud. Você fala assim, ah, mas o cara do meu [LOCAL] quer fazer atualização. Ele não vai fazer. É o time de cloud que vai fazer atualização pra você. A responsabilidade de vocês vai ser escolher a janela de quando vai atualizar e sinalizar, ó, no dia tal, autoriza homologação. Agora no dia tal, autoriza produção. Tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Muito bem. Vou pegar um exemplo. prático aqui. Tem um novo módulo de compras, que agora eu preciso abrir uma porta para o mundo, para que, então, os meus fornecedores coloquem as suas cotações.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: teve um movimento da minha infraestrutura em preparar um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5128,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: servidor",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: intermediário aqui, e o meu [LOCAL] fez a configuração agora, a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: aplica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: a versão, a configuração e deixou tudo funcionando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCUTOR 6]: exemplo, quem faria tudo seria o time de Cloud. É que a gente tem uma arquitetura um pouco diferente, tá? Imagina que você tem esse servidor intermediário configurado pra ser tipo um proxy, pra que você não precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: abrir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: todo o teu Proteus pro mundo, né? No caso do [PESSOA], a gente A gente trabalha com o WAF da Cloudflare. Então, a gente tem toda uma proteção de borda da Cloudflare e a gente pode criar uma rota exclusiva no WAF, que essa rota vai te dar acesso somente a esse serviço. Tem que você precisa ter esse servidor intermediário de proxy com toda a proteção de WAF. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: muda",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: um pouquinho a arquitetura. Mas vamos lá, vamos dizer que você fale assim, eu quero manter dessa forma, ter um servidor de proxy e levar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Tudo bem, mudou, perfeito. Desculpa, [PESSOA]. A gente cortando, mas...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4031,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Seguindo, estou na cloud da TOTOS.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCUTOR 9]: vamos botar lá, TOTOS, você que me diga qual a sua arquitetura para isso. Quem vai efetivamente colocar o pacote a rodar, fazer as parametrizações dele e deixar ele funcionando? É só o time de cloud ou eu ainda vou precisar chamar o meu cara de PCs para fazer alguma coisa? [PESSOA], você ainda vai precisar do cara do [LOCAL]. O time de cloud vai cuidar da parte de infra instalação do produto. Então o time de cloud vai subir a instância. Onde é que você precisa de uma instância adicional para isso? O time de cloud vai subir a instância, vai instalar lança o Proteus e vai passar o acesso de administrador. Ah, tem que criar um parâmetro no Proteus, fazer uma configuração. A gente não faz. O time de cloud se limita só a parte de... até o serviço estar online. O serviço estar online entra o produto para fazer a configuração dele. Que aí seria o teu [LOCAL], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Tudo bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Tudo bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: de perguntas, só tenho até aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Boa. A gente tem, aqui dentro do time de cloud, a gente tem três modelos de oferta, tá, [PESSOA]? A gente tem um modelo que é compartilhado, divide o servidor com outros clientes, que a gente nem oferta isso para você, mas é para você saber, tem para cliente pequeno, o cara tem quatro, cinco usuários, A gente tem o modelo dedicado, que é onde você tem servidores dedicados para você, mas ainda assim",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tem servidores standalone, então você não tem redundância e tudo mais. E a gente tem a modalidade [PESSOA], que é a modalidade que eu recomendo para vocês, que é onde vocês têm alta disponibilidade, então é tudo replicado em nó primário e nó secundário. Essa replicação ocorre na camada do virtualizador. E aí a gente tem o DNS da [LOCAL], que faz o failover do nó primário para o nó secundário, caso preciso. E na modalidade [PESSOA], o atendimento não é mais via portal de chamado. O atendimento é através do engenheiro [PESSOA]. O que isso muda na prática? Quando você abre um chamado, você abre o chamado, vai cair na fila, conforme o SLA da criticidade daquele chamado, alguém vai atender. Esse cara é um [LOCAL]. Se ele descobrir que não sabe resolver o problema, ele vai se calar lá para o [LOCAL], depois escalar para o [LOCAL], por aí vai. Como deve ser assim nos chamados da sua TI. No modalidade [PESSOA], você tem o telefone de um engenheiro [PESSOA], que é um líder do time de suporte, e você fala sempre com o mesmo cara no",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: WhatsApp,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: não precisa abrir chamada.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4503,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: isso traz velocidade para o atendimento, é sempre o mesmo cara que te atende, você fala direto no WhatsApp com ele, e ele já aloca alguém do time dele na hora, que está de plantão, para poder te atender naquele momento. Isso ajuda muito no troubleshooting também, porque se ele é um líder, ele já é um cara mais sênior. E ele sempre fala... Vocês sempre falam com a mesma pessoa. Então, se é um problema recorrente, ele já conhece o perfil,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 17]: sabe o que tem no ambiente de vocês, o que não tem. Então, na modalidade [PESSOA], isso faz muito sentido no dia a dia. Evita de você perder um tempo enorme quando você vai ver o chamado na fila padrão, até alguém resolver. Isso é o que a gente recomenda pra vocês, tá, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: vou nem considerar os outros. Tá, e aí? Quanto é que custa essa brincadeira? Quanto eu vou reduzir da minha fatura atual da TOTUS indo pra [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4917,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [PESSOA]. Qual que é a modalidade de vocês hoje? Vocês estão no tradicional, corporativo ou inteira? Modalidade de licença?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.482,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Sei.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Se tem em mãos aí qual que é a modalidade deles.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5424,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Modalidade da [LOCAL] é tradicional tradicional",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: legal. A gente a gente tem hoje um passo que a gente chama de acesso a [PESSOA]. O que é o assessing? É uma agenda de uma hora que a gente marca. Vai entrar um especialista meu de banco de dados, um especialista meu de aplicação. A gente vai pedir para você rodar alguns scripts no banco, que é mais de volumetria de dados, volume de transação no banco, enfim, e volume de conexões. Com esses dados, a gente monta um escopo técnico. Esse escopo técnico já é prevendo um crescimento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: assim, você tem 30, obviamente é bem mais, mas vamos lá, tem 30 usuários, mas você está utilizando 30, não adianta eu te vender 30, daqui 6 meses você contrata 5 pessoas, tem que ter 35, tem que ir lá, pedir pra aumentar o contrato. Então a gente já faz esse assessment pra ver qual que é a curva de crescimento e tudo mais, pra te trazer um escopo técnico que não vai precisar você mexer nos próximos anos aí nesse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: foco.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: E aí com isso tem os valores, eu e a [PESSOA] a gente monta uma proposição comercial e te apresenta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: é o passo que a gente vem fazendo, tá? Podemos marcar essa agenda de assessment com você mesmo? Você tem esses acertos ou entra mais alguém do teu time daí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5713,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não, eu envolveria meu cara de sistemas e de infraestrutura junto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4767,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Show. [LOCAL]. A gente pode marcar essa agenda para semana que vem?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5242,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não, cara, impossível.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCUTOR 1]: mês agora estamos... mês de feira, semana que vem Então tá todo mundo enlouquecido. Podemos marcar na semana do dia 23. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5238,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: eu falar que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: somos dois, cara. Essa semana tá uma loucura. Eu ainda tenho mais, depois dessa reunião, mais quatro hoje ainda.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 14]: começou o ano, né? Acabou o carnaval, o ano começou, então tá uma loucura.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Olha, um ano não tinha nem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: parado,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: 24, 25 ali está relativamente...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Me corrija, vocês estão rodando com Oracle ou com um SQL Server?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Oracle.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Oracle, legal. Ah, e migrando para a nuvem, a gente coloca a licença Enterprise da Oracle, tá? A gente tem um grande contrato com a Oracle, já vai licença Enterprise, tem várias features da Enterprise. Pode ser no dia 24 às 14 horas?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Sim? Show. Eu vou encaminhar um invite. Você quer me passar o e-mail de quem é do seu time ou eu mando pra você e você encaminha? Como é que fica melhor?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4532,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [[PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL] ou com Z no final?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5414,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: S.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: É o domini.com.br?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: O sobrenome é o mesmo, para todo mundo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL] e o outro é?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [[PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL]. Você, obviamente. A [PESSOA] também não vai ter que acompanhar. Já mando para vocês, então, esse invite. Se tiver qualquer percalças a remarcar, enfim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4742,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: me avisa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: A gente é superflexível aqui. E aí, depois do assessment, dois ou três dias depois, a gente já tem isso na mão e a [PESSOA], a gente marca de te apresentar com calma, até pra você revisar o escopo com a gente, enfim. E aí, se fizer sentido, a gente estrutura isso aí pra vocês, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5142,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Tá bom. [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Beleza, mestre.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Pessoal, muito obrigado. Então",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 18]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: você,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: E na casa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: nova.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5169,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: [LOCUTOR 15]: eu só fico",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: esperando lá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: acho que vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: ali assim. Toma um cafézinho com a gente, tem cappuccininho, tem um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4997,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: monte de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: coisinha aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: casa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 21]: gente descobriu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: hoje que tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4721,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: lojinha da [LOCAL] aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: no shopping",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: embaixo. A",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: loucura dos nossos clientes, tá, Unidade?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [LOCAL], [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

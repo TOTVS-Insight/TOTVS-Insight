@@ -1,0 +1,31 @@
+{
+  "id_reuniao": "1353794",
+  "codt": "T18912",
+  "data_reuniao": "2026-03-31 13:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "MG",
+  "texto_original": "[LOCUTOR 1]: Você [LOCAL] proporcional, por exemplo, agora, daquele lado, você tem que trocar, porque você tá é um barulho do lugar. em um planejamento que não existe. Então, com a mesma freio, não vai existir. Eu acho que a gente não pode... Se os pedidos que a gente faz na empresa, se a gente não cadastrou, Não, eu não sabia disso. E como eu não fazia a sua dúvida inteira, a gente fazia a dúvida inteira. A gente fazia a A dúvida gente inteira. fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira.",
+  "texto_filtrado": "[LOCUTOR 1]: Você [LOCAL] proporcional, por exemplo, agora, daquele lado, você tem que trocar, porque você tá é um barulho do lugar. em um planejamento que não existe. Então, com a mesma freio, não vai existir. Eu acho que a gente não pode... Se os pedidos que a gente faz na empresa, se a gente não cadastrou, Não, eu não sabia disso. E como eu não fazia a sua dúvida inteira, a gente fazia a dúvida inteira. A gente fazia a A dúvida gente inteira. fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:15.717985+00:00",
+    "total_linhas": 1,
+    "linhas_mantidas": 1,
+    "linhas_removidas": 0,
+    "percentual_mantido": 100.0,
+    "confianca_media": 0.4903
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: Você [LOCAL] proporcional, por exemplo, agora, daquele lado, você tem que trocar, porque você tá é um barulho do lugar. em um planejamento que não existe. Então, com a mesma freio, não vai existir. Eu acho que a gente não pode... Se os pedidos que a gente faz na empresa, se a gente não cadastrou, Não, eu não sabia disso. E como eu não fazia a sua dúvida inteira, a gente fazia a dúvida inteira. A gente fazia a A dúvida gente inteira. fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira. A gente fazia a dúvida inteira.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4903,
+      "motivo": "ml"
+    }
+  ]
+}

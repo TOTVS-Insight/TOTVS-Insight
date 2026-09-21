@@ -1,0 +1,1171 @@
+{
+  "id_reuniao": "1031616",
+  "codt": "T75560",
+  "data_reuniao": "2026-02-10 09:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 13]: Olá,\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 13]: Olá, [PESSOA]. Bom dia.\n[LOCUTOR 5]: \n[LOCUTOR 14]: dia. O [LOCAL] é a [PESSOA]? Sim.\n[LOCUTOR 26]: Olá, [PESSOA]. [LOCAL] em conhecer-te.\n[LOCUTOR 5]: [LOCAL].\n[LOCUTOR 13]: \n[LOCUTOR 14]: dia, [PESSOA]. Bom dia, [PESSOA]. Ontem eu\n[LOCUTOR 31]: estava na\n[LOCUTOR 13]: [LOCAL] pessoalmente. Vim com um pacotinho de proteína de soja. Vou fazer hoje,\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 5]: É isso aí. Muito\n[LOCUTOR 26]: bem.\n[LOCUTOR 13]: Eu vou dar uma caprichada\n[LOCUTOR 26]: para\n[LOCUTOR 13]: ficar mais [LOCAL]. Porque eu sou um terror.\n[LOCUTOR 5]: Vou guardar o teu post então.\n[LOCUTOR 13]: Bom gente eu convidei o [PESSOA] para essa conversa. A [PESSOA] ela trabalha na [PESSOA] é a nossa gestora financeira e convidou o time dela para a gente estar fazendo um bate papo. Eles atualizam, eles utilizam os APIs, né? Então a ideia desse bate-papo, o que que vai mudar, como é que vai ser aí. E daí o [PESSOA] queda até que fim, vai conversar com vocês e vai poder tirar dúvidas, que aliás ontem eu já [PESSOA] soube responder, [PESSOA]. Eu disse, [PESSOA], é tudo com o [PESSOA] amanhã.\n[LOCUTOR 26]: Fizeste muito bem, fizeste muito bem, [LOCAL].\n[LOCUTOR 13]: Ou, às vezes, piada interna. Vai ser com português e [LOCAL].\n[LOCUTOR 5]: \n[LOCUTOR 25]: é,\n[LOCUTOR 13]: eu\n[LOCUTOR 5]: tava\n[LOCUTOR 31]: percebendo\n[LOCUTOR 5]: isso\n[LOCUTOR 31]: aí já.\n[LOCUTOR 26]: Que bom, se o meu sotaque atrapalhar avisem, tá? Que eu repito. Mas, assim, só pra quebrar o gelo aqui também, sempre que eu conheço alguém novo, eu faço sempre essa introdução, né? Que podem ficar tranquilos, que eu já sei o que é [EMPRESA], já sei o que é [LOCAL], que eu já moro aqui há alguns anos, tá? Então, já fui pro [LOCAL] muitas vezes, [LOCAL], eu já passei um outubro a festa em igrejinha, olha\n[LOCUTOR 13]: só.\n[LOCUTOR 5]: Ah [PESSOA], já tá bem\n[LOCUTOR 26]: brasileiro.\n[LOCUTOR 13]: Ele disse que [PESSOA] tem mais nem sotaque.\n[LOCUTOR 26]: [LOCAL], as pessoas [PESSOA] falam como eu falo. Eu já falo meio educado e ainda bem que\n[LOCUTOR 5]: eu\n[LOCUTOR 26]: gosto muito. Quando falam que eu já sou brasileiro, eu considero um grande ilogio, na verdade. Que a vossa forma de viver é muito gostosa, é muito pra cima. Antes de começar, tá? [PESSOA], eu já deixei por e-mail, vou falar mais por aqui porque a gente já trocou uns e-mails, mas a [PESSOA] deveria ter sido impactada, barra comunicada, sobre a descontinuação da API desde junho do ano passado. Teve vários movimentos de comunicação, tá? Pulo essa lista de clientes que seriam impactados pela descontinuação da API e vocês seriam Vocês deveriam ter sido comunicados junto com os outros 1.072 clientes que nós temos que vão ser impactados, tá? Então, eu reforço aqui, pedir desculpas aqui de [PESSOA] terem sido avisados, tá? Foi uma comunicação em junho, depois foi uma em setembro, depois foi uma em outubro, uma em novembro, enfim. E hoje estamos aqui em 10 de fevereiro, tá bom? Existe. Então, só para tirar isso da frente também.\n[LOCUTOR 5]: Sim, [PESSOA], tranquilo. Sendo uma coisa tranquila, a gente faz agora e [PESSOA] tem problema.\n[LOCUTOR 26]: Tá bom, obrigado. Então tá, antes de continuar aqui, tá turma, tá claro para vocês que a [LOCAL], ela é da [EMPRESA] e que eu sou da [PESSOA] e o que é que isso implica, os conceitos, o que é que isso realmente significa? Eu quero saber em que página é que vocês estão para ser mais objetiva aqui, tá? e\n[LOCUTOR 5]: otimizar o\n[LOCUTOR 26]: vosso tempo também.\n[LOCUTOR 5]: Eu acho que, como é que é o nosso cenário hoje, a gente utiliza o API, né? Eu sou a coordenadora, então, do administrativo financeiro,\n[LOCUTOR 26]: e\n[LOCUTOR 5]: quem realmente utiliza e faz a emissão dos boletos e as baixas, depois tudo já pelos arquivos, né? É a [PESSOA] e a [PESSOA]. Então,\n[LOCUTOR 26]: por isso que\n[LOCUTOR 5]: elas estão aqui, porque elas que vão efetivamente trabalhar nessa parte. E a gente já tinha ouvido falar\n[LOCUTOR 26]: da\n[LOCUTOR 5]: [EMPRESA] em algumas palestras e\n[LOCUTOR 26]: treinamentos\n[LOCUTOR 5]: que a gente foi, mas acho que se tu quiser explicar melhor como que funciona, porque até então, para a gente ali é tudo [EMPRESA], então [PESSOA] sei se vai mudar alguma\n[LOCUTOR 26]: coisa em\n[LOCUTOR 5]: questão de layout e como\n[LOCUTOR 26]: que\n[LOCUTOR 5]: vai ficar isso. Então pode fazer essa introdução, sim.\n[LOCUTOR 26]: Tá bom, super claro. Última perguntinha. Vocês preferem que eu converse com vocês ou preferem eu apresento um material visual. São mais visuais ou mais de conversa? Como é que vocês gostariam? Porque eu adapto-me a vocês, tá?\n[LOCUTOR 5]: Acho que pode ser visual, se tu tem\n[LOCUTOR 26]: alguma\n[LOCUTOR 5]: coisa. \n[LOCUTOR 6]: alguns slides muito objetivos, tá? Um pouco blá blá blá, mais objetividade. Nós do financeiro somos mais objetivos mesmo,\n[LOCUTOR 5]: né?\n[LOCUTOR 26]: Sim,\n[LOCUTOR 5]: mas é isso aí. Assim tem que ser mesmo, que tempo é dinheiro,\n[LOCUTOR 26]: né? Tempo é dinheiro, muito bem, [PESSOA]. Vamos lá, turma. Eu gosto de pensar que eu falo meio por blocos de mensagem, então se tiver demasiado objetivo vocês me avisam e eu ando para trás um pouquinho, tá bom? Primeiro, deixa eu consultar já com esse primeiro slide, tá? Eu trabalho na [LOCAL] ERP Finance, ou ERP Banking, tá bom? No Instrumentos Solar eu gosto sempre de explicar primeiros os conceitos que eu vou voltar a eles durante a conversa umas duas ou três vezes, tá? Eu trabalho aqui até que fim, tá? que tem um CNPJ específico, um modelo de negócio específico. A [LOCAL] trabalha na Totus, que é outro CNPJ, outro modelo de negócio, empresa de tecnologia, cloud, novamente ERPs, inteligência artificial, CRM de comerciais, enfim, de gestão de funil, e onde o trabalho é muito mais próximo de um banco. A gente está a montar um banco, inclusive, totalmente embarcado dentro dos ERPs da Totus. São dois [EMPRESA] diferentes, dois modelos do negócio, enfim, do [LOCAL], diferentes. Esse conceito e essas duas ideias que eu acabei de apresentar, eu vou botar elas várias vezes ao longo da conversa, tá bom? \n[LOCUTOR 10]: complementando, [PESSOA], a TOTOS, a TECFIN [PESSOA] é da TOTOS, a\n[LOCUTOR 26]: TOTOS\n[LOCUTOR 13]: é uma padeira\n[LOCUTOR 26]: de\n[LOCUTOR 13]: venta de saúde.\n[LOCUTOR 26]: Era o próximo slide. Da\n[LOCUTOR 13]: família.\n[LOCUTOR 26]: Era\n[LOCUTOR 13]: o [EMPRESA]\n[LOCUTOR 3]: slide. Era o próximo slide aqui, [PESSOA], mas obrigado. Como é que esses dois [EMPRESA] independentes, onde é que eles se juntam? Pela [LOCAL], tá? Porque a Totus tem 50% da [LOCAL] e os outros 50% é o [EMPRESA]. Por isso que eu estava a dizer, a gente é muito mais próximo do banco, porque essa é a tese por trás da [EMPRESA], mas a gente se junta, a gente se conecta com a Totus de forma umbilical, através de a [LOCAL] e outros clientes como vocês. Está claro até agora, turma? Eu vou continuar, se vocês [PESSOA] falarem nada eu vou seguindo, tá?\n[LOCUTOR 5]: Sim,\n[LOCUTOR 26]: tudo certo. Tá bom? Então, pronto. Daí o [LOCAL] aqui, [EMPRESA], tá bom? Então, quem eu sou, a [LOCAL] você já conhece quem eu sou, onde eu trabalho e o que eu faço. Trazer produtos e serviços bancários e financeiros, como falei mais cedo, num banco totalmente embarcado dentro do ERP da TOC. E um desses produtos, vou fazer aqui já um parênteses rápido, um desses produtos, a razão de que estamos a falar aqui hoje, será o boleto híbrido, Código de Barras e QR Code. Então, e já endereçando aqui o elefante na sala, turma, a descontinuação da API nativa de emissão de boletos, com back-office do Proteus, que a TOG está a fazer, no final do dia, é uma rearrumação de um produto e de um serviço, e está a colocar dentro do grupo econômico todos, [PESSOA] é [PESSOA], porque aqui todo mundo veio de banco. Eu vim de banco, a minha turma de tecnologia veio de banco e meios de pagamento. Enfim, o maior conhecimento, a maior experiência em montar produtos, enfim, como é a emissão do boleto [LOCAL] ou do boleto de API com os bancos, esse maior conhecimento está aqui. Então, no final do dia, é isso que está aqui a acontecer, tá? Mas eu vou continuar e a gente fala mais no final, tá? Sobre o boleto híbrido. Aqui eu já falei aqui um pouquinho no slide, [PESSOA] vou me repetir, tá? E aqui eu já entro aqui nos produtos que nós temos aqui disponíveis, tá? Este aqui do lado esquerdo, recebe mais conciliado, recebe mais programado, recebe mais multibank e recebe mais boleto livre, são produtos de cobrança, né? De recebimento, tá? E estes 4 produtinhos aqui à direita são produtos de crédito, tá? E eu já vou entrar também aqui um pouquinho nesses, tá? Aqui são os recebimentos, tá? Porque, embora o assunto seja o bullet review, aqui embaixo acho que é interessante passar rapidamente aqui por estes primeiros 4, tá? Enfim, estes nomes aqui são nomes de marketing, né? Digamos assim, mas no final do dia são PICs, são modalidades de PICs, tá? Os que são mais conciliados é, obviamente, um PICs, um QR code ou um copia e cola é devidamente conciliado e baixado dentro do Proteus. Então, [PESSOA] precisa de fazer aquele famoso alt tab de sai da tela do banco, vai para a tela do ERP para dar a baixa e depois fazer esse movimento da fase para frente. [PESSOA] precisa mais fazer isso, porque no momento do faturamento, sabendo que no ponto de faturamento está ligado ao novo gestor financeiro, ele já vai abaixo automaticamente no que diz respeito, neste caso aqui ao PIX. Este é o PIX instantâneo, então, validade de uma hora, expira em uma hora e tudo mais. Até mais programado é o PIX cobrança, é aquele que pode fazer a cobrança parcelado e expira, pode ser 3 meses, pode ser 60 dias, pode ser, enfim, é de longo prazo esse PIX. Também temos devidamente conciliado com o [LOCAL] bancário via API com os bancos, tá? E o recebo mais podido por conta de banco é um PIX [PESSOA] conciliado. A gente tem este produto para quem tem baixo volume e quer pagar menos pelo PIX e também para quem tem ticket médio baixo. Também a gente tem esse produto também e ele funciona, tá bom? E aqui embaixo é o tal boleto híbrido, que é a razão de [PESSOA] estarmos aqui a falar hoje, tá? Comunicação bancária via API, tanto para remessa como para retorno, tá? no fim, dos pagamentos e das baixas, tá? Devidamente conciliado e baixado dentro do Proteus no novo sistema financeiro, tá? Uma pergunta que temos feito muito, [PESSOA] e turma. Ah, [PESSOA], também dá baixa no contábil? Se tiver parametrizado dentro do Proteus a comunicação automática online com o vosso modo contábil, sim, ele vai dar a baixa contábil também, ok? Algumas dúvidas até agora. rapidinho na batida, mas se tiver alguma dúvida, querem fazer alguma perguntinha agora? [PESSOA],\n[LOCUTOR 5]: acho que é isso aí, até o momento tudo certo.\n[LOCUTOR 26]: [PESSOA], uma pergunta que eu acho que já deve estar aí a atormentar vocês, tá? Poxa, [PESSOA], mas se vocês são [LOCAL], só fazem com o [EMPRESA]? [PESSOA], nós somos agnósticos de banco, tá? Eu vou entrar aqui à frente, vai ter aqui um slide onde a gente mostra todos os bancos com os quais já temos conexão API, tá? Número 1. Número 2. Só tirar aqui isso aqui. Número 2, tá? Acho que aqui é importante fazer o de paraíso. O que é que vocês vão deixar de ter e o que é que vocês vão passar a ter? As partes boas, obviamente, e são muitas, tá? Hoje, lá com a [LOCAL], qual é o banco liquidante que vocês têm lá hoje, lá no API?\n[LOCUTOR 5]: O [EMPRESA]?\n[LOCUTOR 26]: O [EMPRESA]. Imagina que vocês hoje, sem um do [EMPRESA], que o [EMPRESA], ou, enfim, faz uma super proposta para vocês e vocês dizem para a [LOCAL], [LOCAL], eu preciso parametrizar o [EMPRESA]. A [LOCAL] vai dizer o quê? [LOCAL], vamos embora, 5 mil, estou a inventar, [LOCAL], 5 mil reais de implementação, de projeto, mais 3 mil reais de consultoria e tudo mais. Aqui, na [LOCAL], lembra do primeiro slide, modelos de negócio diferentes, a gente [PESSOA] cobra nada disso, [PESSOA] cobra projeto, implementação, atendimento, treinamento, chamada. É o outro modelo do negócio. A gente só cobra no retorno da liquidação da API. A gente cobra o consumo da API. A gente cobra pelo boleto liquidado. Isso é a primeira diferença do que sair da maior empresa de tecnologia da [LOCAL] para um banco que a gente está aqui a construir. Está claro? Existe um de para aqui.\n[LOCUTOR 5]: Sim, na verdade. É que hoje eu [PESSOA] pago nada.\n[LOCUTOR 26]: [LOCUTOR 1]: como assim? Eu estava me tirando um serviço me botando num parceiro e querendo me cobrar. [PESSOA] que era de gra\n[LOCUTOR 16]: isso aí. [PESSOA], o que é de graça é a implementação de tudo isso. Isso é de graça, n\n[LOCUTOR 2]: paga nada. Eu nem queria essa implementação aí.\n[LOCUTOR 26]: Então mas o ponto é esse e tem toda a resposta. Você pode imaginar que eu já tive essa conversa 400 vezes com clientes iguais na mesma situação.\n[LOCUTOR 5]: Sim\n[LOCUTOR 26]: é todos a todos e as APIs que estão lá junto dos bancos. Sim eles [PESSOA] vão focar mais nisso. Eles [PESSOA] vão desenvolver melhorar a API e tudo mais. Nós vamos sempre melhorar as APIs e trazer mais funcionalidade para vocês que vão acompanhar a mudança dos tempos a evolução da tecnologia e por aí fora. E a melhorar a vossa experiência como usuários. Isso\n[LOCUTOR 5]: eu acho bem bom mesmo, mas eu [PESSOA] pedi isso aí, né?\n[LOCUTOR 26]: Eu\n[LOCUTOR 5]: sei, eu sei.\n[LOCUTOR 26]: [PESSOA], mas eu sei isso. Estou a ter essa conversa desconfortável. Eu sei que é super desconfortável. Minha lista é de três clientes. Já fiz com uns duzentos. Então, eu sei que é uma conversa desconfortável, mas a intenção é realmente trazer o melhor serviço, a melhor tecnologia, uma evolução constante para vocês. Que a [EMPRESA] [PESSOA] vai focar nisso, tá? E é por isso que eles estão descontinuando, tá? Bom? E em produtos de crédito, a gente também tem produtos de crédito aqui que poderíamos eventualmente também conversar com vocês. O nosso foco aqui é o capital de giro, mas também temos a antecipação de recebíveis perfumados, tudo habilitado para o Proteus. Vocês fazem alguma operação de crédito hoje, [PESSOA]? Vocês pegam crédito no mercado?\n[LOCUTOR 5]: [PESSOA].\n[LOCUTOR 26]: [PESSOA]? Tá. Vou só escrever aqui na minha lata aqui. Perfeito, tá? Aqui são alguns dos nossos clientes, aqui, só para ter alguma, enfim, só uma referência, depois eu posso circular isso com vocês, tá? Aqui é uma pequena provocação do que é que nós estamos a construir, tá? Esse é o futuro, tá? No final desse ano vocês vão ter disponível para contratar dentro do Proteus um banco. Esse aqui é um exemplo da carinha que o banco vai ter, tá? Vocês vão ter conta digital, vão ter pagamentos, recebimentos, investimentos, seguros, enfim, esse é o princípio de ter opção de terem um banco, se vocês quiserem, dentro do Proteus, tá? E que vai integrar e conciliar todas as suas atividades, tanto contas a pagar, contas a receber, mais uma vez investimentos, folha e por aí fora, tá? Isso aqui é só um teaser para vocês, tá? É uma provocação e aqui é parte mais do boleto livre para o Proteus. O que eu queria mostrar para vocês é isso aqui, que é basicamente todas as funcionalidades que vocês vão ter disponíveis por 0 reais e aqui nesse slide dizem, eu costumo entrar nesse tema aqui. Eu [PESSOA] podia ir para a descontinuação da API, na [LOCAL] eu [PESSOA] cobrava pelo consumo da API. [LOCAL] que [PESSOA], é outro meu negócio. Aqui eu vou ter que pagar esses centavos por boleto liquidado, [PESSOA] são reais, são centavos por boleto liquidado. E eu costumo, neste slide aqui, eu costumo sugerir aos meus clientes que estão nessa situação, eu costumo sugerir o seguinte, que dá para ligar lá no [EMPRESA] e dizer assim, [EMPRESA], tudo bom? Eu agora [PESSOA] tenho mais custo, nem fricção para trocar de banco liquidante dos meus boletos. [PESSOA] é trocar de domicílio bancário, é trocar de conta que recebe o valor dos boletos. Então, olha, até que fim está me a cobrar centavos por boleto liquidado, eu preciso tombar e sair esses centavos, senão eu vou mudar de banco. Normalmente, os meus clientes capturam grande parte dos centavos que eu vou cobrar por boleto liquidado, conseguem capturar nos bancos. usando esse modelo de barganha, tá bom? Posso seguir aqui, [PESSOA]?\n[LOCUTOR 5]: Pode.\n[LOCUTOR 26]: Aqui era o que eu estava a falar, portanto, vocês vindo aqui para a [LOCAL], automaticamente têm estes sete bancos e daqui a alguns meses vão ter o [LOCAL] também, que vai estar disponível, todos prontos para nós parametrizarmos para vocês por zero reais. Por isso que eu estava falando no outro slide [PESSOA] tem fricção nem custo para barganhar por exemplo com o [EMPRESA] para baixar o seu custo do registro online e liquidação. Quando\n[LOCUTOR 5]: voc\n[LOCUTOR 23]: pagam\n[LOCUTOR 5]: eu posso eu posso deixar mas porque hoje a gente basicamente só usa o [EMPRESA] mas a gente tem também o [EMPRESA] e o [LOCAL] aí eu posso eu poderia já deixar os tr\n[LOCUTOR 23]: tipo\n[LOCUTOR 5]: pré pronta assim.\n[LOCUTOR 26]: Sim por 0 reais\n[LOCUTOR 5]: 0.\n[LOCUTOR 26]: E aí pode começar a barganhar, tá? Os outros clientes fazem isso, tá? Se crerem em você, eu vou inventar. Um real. E o [EMPRESA] cobra dois. Nessa diferença aí, já recuperaste os centavos que eu vou cobrar. Eu vou\n[LOCUTOR 5]: te cobrar\n[LOCUTOR 26]: centavos, tá bom? De novo, [PESSOA], eu sei que é uma conversa desconfortável. Eu já ouvi de tudo. Português ladrão. Português volta pra tua terra.\n[LOCUTOR 5]: Eu já ouvi\n[LOCUTOR 26]: de tudo, tá? Ent\n[LOCUTOR 2]: vocês estão sendo\n[LOCUTOR 26]: muito\n[LOCUTOR 5]: simpáticas comigo. Uma voz é tão ruim\n[LOCUTOR 26]: assim,\n[LOCUTOR 5]: n\n[LOCUTOR 4]: se preocupe. Vocês estão sendo muito agradáveis comigo,\n[LOCUTOR 5]: mas eu j\n[LOCUTOR 9]: ouvi de tudo, tá? E é verdade, isso [PESSOA] é nem brincadeira. Então, eu sei que é uma conversa desconfortável, tento fazer\n[LOCUTOR 13]: da forma\n[LOCUTOR 26]: mais leve.\n[LOCUTOR 13]: Eu vou ter que fazer essa piada. Mas olha [LOCAL] de novo aqui no\n[LOCUTOR 26]: [LOCAL].\n[LOCUTOR 5]: É,\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 5]: Sempre explorando.\n[LOCUTOR 26]: Exatamente.\n[LOCUTOR 13]: \n[LOCUTOR 24]: vocês sabem uma coisa?\n[LOCUTOR 26]: Vocês sabem qual foi a coisa mais valiosa que os portugueses roubaram? para o [LOCAL], da madeira. Era o mais valioso na época e nós roubámos muito mais do que ouro, mas enfim. A aula de história também temos aqui,\n[LOCUTOR 5]: tá? \n[LOCUTOR 11]: aqui, turma, o mais importante desse slide aqui é que é a parte do retorno do Código de Barras. Aqui a palavra importante é o até duas horas, mas o até foi os bancos que nos pediram para colocar o até. Mas o tempo médio de retorno para quem paga no Código de Barras é ali cinco minutos. Então é informação que hoje fica muito assíncrona entre a informação e a realidade. cliente que pagou o código de barras e vocês só recebem dois dias depois a informação, um dia depois a informação que foi pago e logo a seguir é liquidado, agora vocês vão ter essa informação com um delta muito mais aberto, entre receber a informação do pago do cliente e a liquidação e permite em negócios como o vosso, que é um negócio mais nervoso, de [PESSOA] perder mais venda por limite de crédito. Um cliente que pagar para vocês na quarta-feira, às oito da noite, e na quinta é friado e sexta é friadão. Mesmo que eu pague no colete de barras, enfim, em minutos vocês vão ter abaixo no proteus e podem fazer outra venda. Já tem limite de crédito aberto de novo. Essa é a grande vantagem aqui também do nosso boleto livre. Lembrando que no [LOCAL] é só colete de barras, aqui é colete de barras e PIX, que eu contado várias vezes no boleto livre. Turma, Aqui é um slide mais para mostrar que tudo isto aqui está pronto para a gente parametrizar para vocês na emissão e a alteração após emissão dentro do Proteus a gente está terminando e tudo isto vai estar disponível dentro do Proteus. Portanto, na emissão a gente vai parametrizar para vocês e depois quando a gente está a emitir e vocês querem dar um desconto, Ou vocês querem mudar o vencimento de um boleto de um cliente. Mudar o vencimento já está pronto, na verdade, dentro do [LOCAL]. Mas imagina que vocês querem dar desconto de juros e multa para um cliente. Vocês podem fazer isso dentro do [LOCAL], sem precisar dar no banco. Ou isso precisa\n[LOCUTOR 5]: ir no banco.\n[LOCUTOR 26]: Sim. Mas em breve a gente vai ter isso disponível para vocês, [PESSOA]. E adivinha quanto vai custar essa nova versão da API?\n[LOCUTOR 5]: \n[LOCUTOR 8]: reais! [PESSOA] reais! Boa, [PESSOA]!\n[LOCUTOR 26]: Legal! Muito bom, [PESSOA]. Enfim, aqui à frente tem algumas telas, tá? Mas eu acho que mais... Eu vou passar rápido, tá? [PESSOA] e turma, tá? [PESSOA] vai alterar nenhuma rotina vossa no faturamento, tá? Nós entramos da porta para fora da [LOCAL], tá? Então, as vossas rotinas no Proteus, tanto no faturamento como no stock, no série, elas [PESSOA] mudam, tá? Aí, a minha customização [PESSOA] muda. [PESSOA] tem nenhum custo para vocês adicional, tá? Além de centavos por boleto liquidado, ok? Assim em 30 minutinhos, para também [PESSOA] ser chato, é isso, tá? Reparem que aqui as telas são todas do Proteus, tá? É tudo telas do Proteus, [PESSOA] é um site ou uma plataforma terceira, tá? É tudo dentro do Proteus, tá bom? Certo. Um terceiro objetivo e leva aqui, passar mensagens gerais. Sim, gostaria de dar uma proposta para vocês, [PESSOA], para fazer Eu preciso saber quantos boletos vocês liquidam por mês. [PESSOA], cancelamento e tudo mais [PESSOA] fazem diferença para mim. É só a mesma liquidação. Tá. Quanto vocês liquidam por mês de boletos mensalmente?\n[LOCUTOR 5]: Peraí, vamos ter que dar uma\n[LOCUTOR 26]: olhadinha. [PESSOA], pode mandar depois se quiser, [PESSOA] precisa ser\n[LOCUTOR 5]: agora. Ah, tá.\n[LOCUTOR 26]: [PESSOA], [PESSOA], eu te faço a proposta bonitinha, te mando já à noite, se puderes mandar lá na nossa rede, nossa sequência de e-mails, tá? Eu te faço já à noite e a gente tenta avançar aqui, tá? Mas, de novo, [PESSOA], eu acho que se entra em uma conversa desconfortável, de novo, faz 50\n[LOCUTOR 13]: vezes,\n[LOCUTOR 26]: eu acho que a gente vai entregar muita coisa tópica para vocês, tá? Que vai melhorar o vosso dia-a-dia, da [PESSOA] e da [PESSOA], vai melhorar a vossa dia a dia, a gente vai estar sempre a melhorar a API, sempre a trazer coisas novas e [PESSOA] vai cobrar projetos, [PESSOA] vai cobrar consultoria, [PESSOA] vai cobrar treinamento, [PESSOA] vai cobrar chamados, que é um modelo do negócio da [EMPRESA], é vida [PESSOA], mas o nosso é outro modelo do negócio.\n[LOCUTOR 5]: E aí quanto tempo isso demora? Porque na verdade eu nem\n[LOCUTOR 26]: sei\n[LOCUTOR 5]: quando que é que vai descontinuar, quando que termina?\n[LOCUTOR 26]: Boa pergunta. A data para todos desligar, porque eles [PESSOA] vão dar mais manutenção nas APIs bancárias, [PESSOA] vão. A decisão já está tomada. É dia 31 de março. Agora eu sei que está atormentado. 31 de março, mas é 10 de fevereiro e vai ter 800 clientes a ligar para o [PESSOA] para fazer o tombamento. Dois conceitos importantes. Um, a gente só cobra esse pacotinho de boleto liquidado o primeiro boleto emitido e liquidado. A gente começa a cobrar a partir dessa data. E se vocês tiverem, enfim, a contratação assinada por conosco e nós [PESSOA] tivermos implementado, a [EMPRESA] [PESSOA] desliga a API. Então a vida continua,\n[LOCUTOR 5]: tá bom? Ah, entendi. Sim, se vocês [PESSOA] tiverem\n[LOCUTOR 26]: o\n[LOCUTOR 5]: tempo viável daí vai continuar ainda até\n[LOCUTOR 26]: viradas. É isso mesmo, já sacaste o que eu te passei. E a última coisa que eu queria comentar, tá? Lembrando, porque está relacionada com os [EMPRESA] diferentes, empresas diferentes. Imagina que tu contratas o nosso boleto [EMPRESA]. E por alguma razão diz assim, ah [PESSOA], [PESSOA] quero mais isso, [PESSOA] me adaptei, [PESSOA] gostei, [PESSOA] vale o preço que eu estou pagando. Quer rescindir o contrato. Nós [PESSOA] temos pré-aviso, nós [PESSOA] temos multa, enfim, a gente tira o produto, cancela e nada muda, é outro modelo do negócio, tá? só para trazer algum conforto dentro do processo. possível para vocês,\n[LOCUTOR 5]: tá? [PESSOA], eu acho que é uma baita ferramenta, assim, a gente já tinha,\n[LOCUTOR 26]: a gente foi ano\n[LOCUTOR 5]: passado no universo TOTOS e daí já foi falado bastante disso, mas, né, tava assim, o que o nosso boleto tá nos atendendo, então também a Então n\n[LOCUTOR 4]: foi\n[LOCUTOR 5]: muito atrás disso.\n[LOCUTOR 26]: Mas\n[LOCUTOR 5]: mas eu acho que é uma coisa muito boa sim. A gente [PESSOA] tem uma movimentação muito grande de boletos. Mas [PESSOA] sei também n\n[LOCUTOR 4]: sei\n[LOCUTOR 5]: quem para mim [PESSOA] é muito mais depende com quem a gente vai comparar. \n[LOCUTOR 24]: a gente\n[LOCUTOR 5]: vai te\n[LOCUTOR 26]: passar. Quando tu achas que existe. Quando tu achas que é só por curiosidade só pode fazer uma provocação amigável.\n[LOCUTOR 5]: Eu acho que deve ser menos de 100 liquidações, [PESSOA] sei\n[LOCUTOR 26]: se chega\n[LOCUTOR 5]: a tudo isso\n[LOCUTOR 26]: no mês. Eu vou te dizer, [PESSOA], se for menos de 100 liquidações, eu nem faço pacote contigo, eu faço por unitário. Sabes quanto é que é o preço? Por\n[LOCUTOR 5]: boleto? Quanto?\n[LOCUTOR 26]: 40 centavos. Então se tu fizeres 100, vão ser 40 reais por mês.\n[LOCUTOR 5]: Sim,\n[LOCUTOR 26]: sim. [PESSOA] é o fim do mundo.\n[LOCUTOR 5]: \n[LOCUTOR 19]: vale a\n[LOCUTOR 26]: pena. É [PESSOA] é o\n[LOCUTOR 5]: fim do\n[LOCUTOR 26]: mundo também.\n[LOCUTOR 5]: \n[LOCUTOR 11]: tu vai entrar aqui na nossa família até que fim e vai trazer tanta coisa legal e eu acho que vai ser top. Sim.\n[LOCUTOR 13]: Fazendo uma analogia boba [PESSOA]. Funciona mais ou menos como um pedágio daquela estrada que tu entra\n[LOCUTOR 26]: assim para\n[LOCUTOR 13]: dirigir.\n[LOCUTOR 26]: Isso é uma maninha. Eu vou trazer tanta novidade e vai custar quanto. R$40,00 por mês. R$40,00. [PESSOA] é\n[LOCUTOR 5]: R$5,00\n[LOCUTOR 26]: por boleto, [PESSOA] é R$10,00 por boleto. Eu faço isso por R$0,40. R$0,40 vezes R$100,00, R$40,00. É isso. Olha a quantidade de coisas que eu vou trazer. Tá? [LOCAL], muito obrigado. [PESSOA], eu tenho que sair. Tenho outra reunião de boleto e a mesma situação agora às 21h30. Outro cliente, vou apanhar também lá. Enfim, e vida que\n[LOCUTOR 5]: segue.\n[LOCUTOR 26]: Vocês enviam para mim as\n[LOCUTOR 13]: quantidades e eu\n[LOCUTOR 26]: faço a proposta.\n[LOCUTOR 13]: Chegaram, informou-se a\n[LOCUTOR 26]: proposta.\n[LOCUTOR 13]: Encaminha que daí eu faço aqui o circuito para te mandar essa proposta.\n[LOCUTOR 26]: Obrigado,\n[LOCUTOR 13]: meninas.\n[LOCUTOR 26]: [LOCAL], [PESSOA]. [PESSOA] sei se eu falei muito rápido, se o sotaque atrapalhou, mas enfim. [PESSOA],\n[LOCUTOR 5]: tudo certo. Vamos unsolando,\n[LOCUTOR 26]: então. Então, obrigada.\n[LOCUTOR 13]: Tchau, tchau.",
+  "texto_filtrado": "[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 26]: Olá, [PESSOA]. [LOCAL] em conhecer-te.\n[LOCUTOR 5]: [LOCAL].\n[LOCUTOR 31]: estava na\n[LOCUTOR 13]: [LOCAL] pessoalmente. Vim com um pacotinho de proteína de soja. Vou fazer hoje,\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 5]: É isso aí. Muito\n[LOCUTOR 26]: para\n[LOCUTOR 13]: Bom gente eu convidei o [PESSOA] para essa conversa. A [PESSOA] ela trabalha na [PESSOA] é a nossa gestora financeira e convidou o time dela para a gente estar fazendo um bate papo. Eles atualizam, eles utilizam os APIs, né? Então a ideia desse bate-papo, o que que vai mudar, como é que vai ser aí. E daí o [PESSOA] queda até que fim, vai conversar com vocês e vai poder tirar dúvidas, que aliás ontem eu já [PESSOA] soube responder, [PESSOA]. Eu disse, [PESSOA], é tudo com o [PESSOA] amanhã.\n[LOCUTOR 13]: Ou, às vezes, piada interna. Vai ser com português e [LOCAL].\n[LOCUTOR 5]: tava\n[LOCUTOR 31]: percebendo\n[LOCUTOR 5]: isso\n[LOCUTOR 31]: aí já.\n[LOCUTOR 26]: Que bom, se o meu sotaque atrapalhar avisem, tá? Que eu repito. Mas, assim, só pra quebrar o gelo aqui também, sempre que eu conheço alguém novo, eu faço sempre essa introdução, né? Que podem ficar tranquilos, que eu já sei o que é [EMPRESA], já sei o que é [LOCAL], que eu já moro aqui há alguns anos, tá? Então, já fui pro [LOCAL] muitas vezes, [LOCAL], eu já passei um outubro a festa em igrejinha, olha\n[LOCUTOR 26]: brasileiro.\n[LOCUTOR 13]: Ele disse que [PESSOA] tem mais nem sotaque.\n[LOCUTOR 26]: [LOCAL], as pessoas [PESSOA] falam como eu falo. Eu já falo meio educado e ainda bem que\n[LOCUTOR 26]: gosto muito. Quando falam que eu já sou brasileiro, eu considero um grande ilogio, na verdade. Que a vossa forma de viver é muito gostosa, é muito pra cima. Antes de começar, tá? [PESSOA], eu já deixei por e-mail, vou falar mais por aqui porque a gente já trocou uns e-mails, mas a [PESSOA] deveria ter sido impactada, barra comunicada, sobre a descontinuação da API desde junho do ano passado. Teve vários movimentos de comunicação, tá? Pulo essa lista de clientes que seriam impactados pela descontinuação da API e vocês seriam Vocês deveriam ter sido comunicados junto com os outros 1.072 clientes que nós temos que vão ser impactados, tá? Então, eu reforço aqui, pedir desculpas aqui de [PESSOA] terem sido avisados, tá? Foi uma comunicação em junho, depois foi uma em setembro, depois foi uma em outubro, uma em novembro, enfim. E hoje estamos aqui em 10 de fevereiro, tá bom? Existe. Então, só para tirar isso da frente também.\n[LOCUTOR 5]: Sim, [PESSOA], tranquilo. Sendo uma coisa tranquila, a gente faz agora e [PESSOA] tem problema.\n[LOCUTOR 26]: Tá bom, obrigado. Então tá, antes de continuar aqui, tá turma, tá claro para vocês que a [LOCAL], ela é da [EMPRESA] e que eu sou da [PESSOA] e o que é que isso implica, os conceitos, o que é que isso realmente significa? Eu quero saber em que página é que vocês estão para ser mais objetiva aqui, tá? e\n[LOCUTOR 5]: otimizar o\n[LOCUTOR 26]: vosso tempo também.\n[LOCUTOR 5]: Eu acho que, como é que é o nosso cenário hoje, a gente utiliza o API, né? Eu sou a coordenadora, então, do administrativo financeiro,\n[LOCUTOR 5]: quem realmente utiliza e faz a emissão dos boletos e as baixas, depois tudo já pelos arquivos, né? É a [PESSOA] e a [PESSOA]. Então,\n[LOCUTOR 26]: por isso que\n[LOCUTOR 5]: elas estão aqui, porque elas que vão efetivamente trabalhar nessa parte. E a gente já tinha ouvido falar\n[LOCUTOR 5]: [EMPRESA] em algumas palestras e\n[LOCUTOR 26]: treinamentos\n[LOCUTOR 5]: que a gente foi, mas acho que se tu quiser explicar melhor como que funciona, porque até então, para a gente ali é tudo [EMPRESA], então [PESSOA] sei se vai mudar alguma\n[LOCUTOR 26]: coisa em\n[LOCUTOR 5]: questão de layout e como\n[LOCUTOR 5]: Acho que pode ser visual, se tu tem\n[LOCUTOR 26]: alguma\n[LOCUTOR 5]: coisa.\n[LOCUTOR 6]: alguns slides muito objetivos, tá? Um pouco blá blá blá, mais objetividade. Nós do financeiro somos mais objetivos mesmo,\n[LOCUTOR 5]: mas é isso aí. Assim tem que ser mesmo, que tempo é dinheiro,\n[LOCUTOR 26]: né? Tempo é dinheiro, muito bem, [PESSOA]. Vamos lá, turma. Eu gosto de pensar que eu falo meio por blocos de mensagem, então se tiver demasiado objetivo vocês me avisam e eu ando para trás um pouquinho, tá bom? Primeiro, deixa eu consultar já com esse primeiro slide, tá? Eu trabalho na [LOCAL] ERP Finance, ou ERP Banking, tá bom? No Instrumentos Solar eu gosto sempre de explicar primeiros os conceitos que eu vou voltar a eles durante a conversa umas duas ou três vezes, tá? Eu trabalho aqui até que fim, tá? que tem um CNPJ específico, um modelo de negócio específico. A [LOCAL] trabalha na Totus, que é outro CNPJ, outro modelo de negócio, empresa de tecnologia, cloud, novamente ERPs, inteligência artificial, CRM de comerciais, enfim, de gestão de funil, e onde o trabalho é muito mais próximo de um banco. A gente está a montar um banco, inclusive, totalmente embarcado dentro dos ERPs da Totus. São dois [EMPRESA] diferentes, dois modelos do negócio, enfim, do [LOCAL], diferentes. Esse conceito e essas duas ideias que eu acabei de apresentar, eu vou botar elas várias vezes ao longo da conversa, tá bom?\n[LOCUTOR 10]: complementando, [PESSOA], a TOTOS, a TECFIN [PESSOA] é da TOTOS, a\n[LOCUTOR 26]: TOTOS\n[LOCUTOR 13]: é uma padeira\n[LOCUTOR 13]: venta de saúde.\n[LOCUTOR 26]: Era o próximo slide. Da\n[LOCUTOR 13]: família.\n[LOCUTOR 13]: o [EMPRESA]\n[LOCUTOR 3]: slide. Era o próximo slide aqui, [PESSOA], mas obrigado. Como é que esses dois [EMPRESA] independentes, onde é que eles se juntam? Pela [LOCAL], tá? Porque a Totus tem 50% da [LOCAL] e os outros 50% é o [EMPRESA]. Por isso que eu estava a dizer, a gente é muito mais próximo do banco, porque essa é a tese por trás da [EMPRESA], mas a gente se junta, a gente se conecta com a Totus de forma umbilical, através de a [LOCAL] e outros clientes como vocês. Está claro até agora, turma? Eu vou continuar, se vocês [PESSOA] falarem nada eu vou seguindo, tá?\n[LOCUTOR 26]: tudo certo. Tá bom? Então, pronto. Daí o [LOCAL] aqui, [EMPRESA], tá bom? Então, quem eu sou, a [LOCAL] você já conhece quem eu sou, onde eu trabalho e o que eu faço. Trazer produtos e serviços bancários e financeiros, como falei mais cedo, num banco totalmente embarcado dentro do ERP da TOC. E um desses produtos, vou fazer aqui já um parênteses rápido, um desses produtos, a razão de que estamos a falar aqui hoje, será o boleto híbrido, Código de Barras e QR Code. Então, e já endereçando aqui o elefante na sala, turma, a descontinuação da API nativa de emissão de boletos, com back-office do Proteus, que a TOG está a fazer, no final do dia, é uma rearrumação de um produto e de um serviço, e está a colocar dentro do grupo econômico todos, [PESSOA] é [PESSOA], porque aqui todo mundo veio de banco. Eu vim de banco, a minha turma de tecnologia veio de banco e meios de pagamento. Enfim, o maior conhecimento, a maior experiência em montar produtos, enfim, como é a emissão do boleto [LOCAL] ou do boleto de API com os bancos, esse maior conhecimento está aqui. Então, no final do dia, é isso que está aqui a acontecer, tá? Mas eu vou continuar e a gente fala mais no final, tá? Sobre o boleto híbrido. Aqui eu já falei aqui um pouquinho no slide, [PESSOA] vou me repetir, tá? E aqui eu já entro aqui nos produtos que nós temos aqui disponíveis, tá? Este aqui do lado esquerdo, recebe mais conciliado, recebe mais programado, recebe mais multibank e recebe mais boleto livre, são produtos de cobrança, né? De recebimento, tá? E estes 4 produtinhos aqui à direita são produtos de crédito, tá? E eu já vou entrar também aqui um pouquinho nesses, tá? Aqui são os recebimentos, tá? Porque, embora o assunto seja o bullet review, aqui embaixo acho que é interessante passar rapidamente aqui por estes primeiros 4, tá? Enfim, estes nomes aqui são nomes de marketing, né? Digamos assim, mas no final do dia são PICs, são modalidades de PICs, tá? Os que são mais conciliados é, obviamente, um PICs, um QR code ou um copia e cola é devidamente conciliado e baixado dentro do Proteus. Então, [PESSOA] precisa de fazer aquele famoso alt tab de sai da tela do banco, vai para a tela do ERP para dar a baixa e depois fazer esse movimento da fase para frente. [PESSOA] precisa mais fazer isso, porque no momento do faturamento, sabendo que no ponto de faturamento está ligado ao novo gestor financeiro, ele já vai abaixo automaticamente no que diz respeito, neste caso aqui ao PIX. Este é o PIX instantâneo, então, validade de uma hora, expira em uma hora e tudo mais. Até mais programado é o PIX cobrança, é aquele que pode fazer a cobrança parcelado e expira, pode ser 3 meses, pode ser 60 dias, pode ser, enfim, é de longo prazo esse PIX. Também temos devidamente conciliado com o [LOCAL] bancário via API com os bancos, tá? E o recebo mais podido por conta de banco é um PIX [PESSOA] conciliado. A gente tem este produto para quem tem baixo volume e quer pagar menos pelo PIX e também para quem tem ticket médio baixo. Também a gente tem esse produto também e ele funciona, tá bom? E aqui embaixo é o tal boleto híbrido, que é a razão de [PESSOA] estarmos aqui a falar hoje, tá? Comunicação bancária via API, tanto para remessa como para retorno, tá? no fim, dos pagamentos e das baixas, tá? Devidamente conciliado e baixado dentro do Proteus no novo sistema financeiro, tá? Uma pergunta que temos feito muito, [PESSOA] e turma. Ah, [PESSOA], também dá baixa no contábil? Se tiver parametrizado dentro do Proteus a comunicação automática online com o vosso modo contábil, sim, ele vai dar a baixa contábil também, ok? Algumas dúvidas até agora. rapidinho na batida, mas se tiver alguma dúvida, querem fazer alguma perguntinha agora? [PESSOA],\n[LOCUTOR 26]: [PESSOA], uma pergunta que eu acho que já deve estar aí a atormentar vocês, tá? Poxa, [PESSOA], mas se vocês são [LOCAL], só fazem com o [EMPRESA]? [PESSOA], nós somos agnósticos de banco, tá? Eu vou entrar aqui à frente, vai ter aqui um slide onde a gente mostra todos os bancos com os quais já temos conexão API, tá? Número 1. Número 2. Só tirar aqui isso aqui. Número 2, tá? Acho que aqui é importante fazer o de paraíso. O que é que vocês vão deixar de ter e o que é que vocês vão passar a ter? As partes boas, obviamente, e são muitas, tá? Hoje, lá com a [LOCAL], qual é o banco liquidante que vocês têm lá hoje, lá no API?\n[LOCUTOR 5]: O [EMPRESA]?\n[LOCUTOR 26]: O [EMPRESA]. Imagina que vocês hoje, sem um do [EMPRESA], que o [EMPRESA], ou, enfim, faz uma super proposta para vocês e vocês dizem para a [LOCAL], [LOCAL], eu preciso parametrizar o [EMPRESA]. A [LOCAL] vai dizer o quê? [LOCAL], vamos embora, 5 mil, estou a inventar, [LOCAL], 5 mil reais de implementação, de projeto, mais 3 mil reais de consultoria e tudo mais. Aqui, na [LOCAL], lembra do primeiro slide, modelos de negócio diferentes, a gente [PESSOA] cobra nada disso, [PESSOA] cobra projeto, implementação, atendimento, treinamento, chamada. É o outro modelo do negócio. A gente só cobra no retorno da liquidação da API. A gente cobra o consumo da API. A gente cobra pelo boleto liquidado. Isso é a primeira diferença do que sair da maior empresa de tecnologia da [LOCAL] para um banco que a gente está aqui a construir. Está claro? Existe um de para aqui.\n[LOCUTOR 16]: isso aí. [PESSOA], o que é de graça é a implementação de tudo isso. Isso é de graça, n\n[LOCUTOR 2]: paga nada. Eu nem queria essa implementação aí.\n[LOCUTOR 26]: Então mas o ponto é esse e tem toda a resposta. Você pode imaginar que eu já tive essa conversa 400 vezes com clientes iguais na mesma situação.\n[LOCUTOR 26]: [PESSOA], mas eu sei isso. Estou a ter essa conversa desconfortável. Eu sei que é super desconfortável. Minha lista é de três clientes. Já fiz com uns duzentos. Então, eu sei que é uma conversa desconfortável, mas a intenção é realmente trazer o melhor serviço, a melhor tecnologia, uma evolução constante para vocês. Que a [EMPRESA] [PESSOA] vai focar nisso, tá? E é por isso que eles estão descontinuando, tá? Bom? E em produtos de crédito, a gente também tem produtos de crédito aqui que poderíamos eventualmente também conversar com vocês. O nosso foco aqui é o capital de giro, mas também temos a antecipação de recebíveis perfumados, tudo habilitado para o Proteus. Vocês fazem alguma operação de crédito hoje, [PESSOA]? Vocês pegam crédito no mercado?\n[LOCUTOR 5]: [PESSOA].\n[LOCUTOR 26]: [PESSOA]? Tá. Vou só escrever aqui na minha lata aqui. Perfeito, tá? Aqui são alguns dos nossos clientes, aqui, só para ter alguma, enfim, só uma referência, depois eu posso circular isso com vocês, tá? Aqui é uma pequena provocação do que é que nós estamos a construir, tá? Esse é o futuro, tá? No final desse ano vocês vão ter disponível para contratar dentro do Proteus um banco. Esse aqui é um exemplo da carinha que o banco vai ter, tá? Vocês vão ter conta digital, vão ter pagamentos, recebimentos, investimentos, seguros, enfim, esse é o princípio de ter opção de terem um banco, se vocês quiserem, dentro do Proteus, tá? E que vai integrar e conciliar todas as suas atividades, tanto contas a pagar, contas a receber, mais uma vez investimentos, folha e por aí fora, tá? Isso aqui é só um teaser para vocês, tá? É uma provocação e aqui é parte mais do boleto livre para o Proteus. O que eu queria mostrar para vocês é isso aqui, que é basicamente todas as funcionalidades que vocês vão ter disponíveis por 0 reais e aqui nesse slide dizem, eu costumo entrar nesse tema aqui. Eu [PESSOA] podia ir para a descontinuação da API, na [LOCAL] eu [PESSOA] cobrava pelo consumo da API. [LOCAL] que [PESSOA], é outro meu negócio. Aqui eu vou ter que pagar esses centavos por boleto liquidado, [PESSOA] são reais, são centavos por boleto liquidado. E eu costumo, neste slide aqui, eu costumo sugerir aos meus clientes que estão nessa situação, eu costumo sugerir o seguinte, que dá para ligar lá no [EMPRESA] e dizer assim, [EMPRESA], tudo bom? Eu agora [PESSOA] tenho mais custo, nem fricção para trocar de banco liquidante dos meus boletos. [PESSOA] é trocar de domicílio bancário, é trocar de conta que recebe o valor dos boletos. Então, olha, até que fim está me a cobrar centavos por boleto liquidado, eu preciso tombar e sair esses centavos, senão eu vou mudar de banco. Normalmente, os meus clientes capturam grande parte dos centavos que eu vou cobrar por boleto liquidado, conseguem capturar nos bancos. usando esse modelo de barganha, tá bom? Posso seguir aqui, [PESSOA]?\n[LOCUTOR 5]: Pode.\n[LOCUTOR 26]: Aqui era o que eu estava a falar, portanto, vocês vindo aqui para a [LOCAL], automaticamente têm estes sete bancos e daqui a alguns meses vão ter o [LOCAL] também, que vai estar disponível, todos prontos para nós parametrizarmos para vocês por zero reais. Por isso que eu estava falando no outro slide [PESSOA] tem fricção nem custo para barganhar por exemplo com o [EMPRESA] para baixar o seu custo do registro online e liquidação. Quando\n[LOCUTOR 23]: pagam\n[LOCUTOR 5]: eu posso eu posso deixar mas porque hoje a gente basicamente só usa o [EMPRESA] mas a gente tem também o [EMPRESA] e o [LOCAL] aí eu posso eu poderia já deixar os tr\n[LOCUTOR 5]: pré pronta assim.\n[LOCUTOR 26]: E aí pode começar a barganhar, tá? Os outros clientes fazem isso, tá? Se crerem em você, eu vou inventar. Um real. E o [EMPRESA] cobra dois. Nessa diferença aí, já recuperaste os centavos que eu vou cobrar. Eu vou\n[LOCUTOR 5]: te cobrar\n[LOCUTOR 26]: centavos, tá bom? De novo, [PESSOA], eu sei que é uma conversa desconfortável. Eu já ouvi de tudo. Português ladrão. Português volta pra tua terra.\n[LOCUTOR 26]: de tudo, tá? Ent\n[LOCUTOR 26]: muito\n[LOCUTOR 5]: simpáticas comigo. Uma voz é tão ruim\n[LOCUTOR 9]: ouvi de tudo, tá? E é verdade, isso [PESSOA] é nem brincadeira. Então, eu sei que é uma conversa desconfortável, tento fazer\n[LOCUTOR 13]: da forma\n[LOCUTOR 13]: Eu vou ter que fazer essa piada. Mas olha [LOCAL] de novo aqui no\n[LOCUTOR 26]: [LOCAL].\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 5]: Sempre explorando.\n[LOCUTOR 26]: Exatamente.\n[LOCUTOR 24]: vocês sabem uma coisa?\n[LOCUTOR 26]: Vocês sabem qual foi a coisa mais valiosa que os portugueses roubaram? para o [LOCAL], da madeira. Era o mais valioso na época e nós roubámos muito mais do que ouro, mas enfim. A aula de história também temos aqui,\n[LOCUTOR 11]: aqui, turma, o mais importante desse slide aqui é que é a parte do retorno do Código de Barras. Aqui a palavra importante é o até duas horas, mas o até foi os bancos que nos pediram para colocar o até. Mas o tempo médio de retorno para quem paga no Código de Barras é ali cinco minutos. Então é informação que hoje fica muito assíncrona entre a informação e a realidade. cliente que pagou o código de barras e vocês só recebem dois dias depois a informação, um dia depois a informação que foi pago e logo a seguir é liquidado, agora vocês vão ter essa informação com um delta muito mais aberto, entre receber a informação do pago do cliente e a liquidação e permite em negócios como o vosso, que é um negócio mais nervoso, de [PESSOA] perder mais venda por limite de crédito. Um cliente que pagar para vocês na quarta-feira, às oito da noite, e na quinta é friado e sexta é friadão. Mesmo que eu pague no colete de barras, enfim, em minutos vocês vão ter abaixo no proteus e podem fazer outra venda. Já tem limite de crédito aberto de novo. Essa é a grande vantagem aqui também do nosso boleto livre. Lembrando que no [LOCAL] é só colete de barras, aqui é colete de barras e PIX, que eu contado várias vezes no boleto livre. Turma, Aqui é um slide mais para mostrar que tudo isto aqui está pronto para a gente parametrizar para vocês na emissão e a alteração após emissão dentro do Proteus a gente está terminando e tudo isto vai estar disponível dentro do Proteus. Portanto, na emissão a gente vai parametrizar para vocês e depois quando a gente está a emitir e vocês querem dar um desconto, Ou vocês querem mudar o vencimento de um boleto de um cliente. Mudar o vencimento já está pronto, na verdade, dentro do [LOCAL]. Mas imagina que vocês querem dar desconto de juros e multa para um cliente. Vocês podem fazer isso dentro do [LOCAL], sem precisar dar no banco. Ou isso precisa\n[LOCUTOR 5]: ir no banco.\n[LOCUTOR 26]: Sim. Mas em breve a gente vai ter isso disponível para vocês, [PESSOA]. E adivinha quanto vai custar essa nova versão da API?\n[LOCUTOR 26]: Legal! Muito bom, [PESSOA]. Enfim, aqui à frente tem algumas telas, tá? Mas eu acho que mais... Eu vou passar rápido, tá? [PESSOA] e turma, tá? [PESSOA] vai alterar nenhuma rotina vossa no faturamento, tá? Nós entramos da porta para fora da [LOCAL], tá? Então, as vossas rotinas no Proteus, tanto no faturamento como no stock, no série, elas [PESSOA] mudam, tá? Aí, a minha customização [PESSOA] muda. [PESSOA] tem nenhum custo para vocês adicional, tá? Além de centavos por boleto liquidado, ok? Assim em 30 minutinhos, para também [PESSOA] ser chato, é isso, tá? Reparem que aqui as telas são todas do Proteus, tá? É tudo telas do Proteus, [PESSOA] é um site ou uma plataforma terceira, tá? É tudo dentro do Proteus, tá bom? Certo. Um terceiro objetivo e leva aqui, passar mensagens gerais. Sim, gostaria de dar uma proposta para vocês, [PESSOA], para fazer Eu preciso saber quantos boletos vocês liquidam por mês. [PESSOA], cancelamento e tudo mais [PESSOA] fazem diferença para mim. É só a mesma liquidação. Tá. Quanto vocês liquidam por mês de boletos mensalmente?\n[LOCUTOR 5]: Peraí, vamos ter que dar uma\n[LOCUTOR 26]: olhadinha. [PESSOA], pode mandar depois se quiser, [PESSOA] precisa ser\n[LOCUTOR 5]: agora. Ah, tá.\n[LOCUTOR 26]: [PESSOA], [PESSOA], eu te faço a proposta bonitinha, te mando já à noite, se puderes mandar lá na nossa rede, nossa sequência de e-mails, tá? Eu te faço já à noite e a gente tenta avançar aqui, tá? Mas, de novo, [PESSOA], eu acho que se entra em uma conversa desconfortável, de novo, faz 50\n[LOCUTOR 13]: vezes,\n[LOCUTOR 26]: eu acho que a gente vai entregar muita coisa tópica para vocês, tá? Que vai melhorar o vosso dia-a-dia, da [PESSOA] e da [PESSOA], vai melhorar a vossa dia a dia, a gente vai estar sempre a melhorar a API, sempre a trazer coisas novas e [PESSOA] vai cobrar projetos, [PESSOA] vai cobrar consultoria, [PESSOA] vai cobrar treinamento, [PESSOA] vai cobrar chamados, que é um modelo do negócio da [EMPRESA], é vida [PESSOA], mas o nosso é outro modelo do negócio.\n[LOCUTOR 5]: E aí quanto tempo isso demora? Porque na verdade eu nem\n[LOCUTOR 5]: quando que é que vai descontinuar, quando que termina?\n[LOCUTOR 26]: Boa pergunta. A data para todos desligar, porque eles [PESSOA] vão dar mais manutenção nas APIs bancárias, [PESSOA] vão. A decisão já está tomada. É dia 31 de março. Agora eu sei que está atormentado. 31 de março, mas é 10 de fevereiro e vai ter 800 clientes a ligar para o [PESSOA] para fazer o tombamento. Dois conceitos importantes. Um, a gente só cobra esse pacotinho de boleto liquidado o primeiro boleto emitido e liquidado. A gente começa a cobrar a partir dessa data. E se vocês tiverem, enfim, a contratação assinada por conosco e nós [PESSOA] tivermos implementado, a [EMPRESA] [PESSOA] desliga a API. Então a vida continua,\n[LOCUTOR 26]: viradas. É isso mesmo, já sacaste o que eu te passei. E a última coisa que eu queria comentar, tá? Lembrando, porque está relacionada com os [EMPRESA] diferentes, empresas diferentes. Imagina que tu contratas o nosso boleto [EMPRESA]. E por alguma razão diz assim, ah [PESSOA], [PESSOA] quero mais isso, [PESSOA] me adaptei, [PESSOA] gostei, [PESSOA] vale o preço que eu estou pagando. Quer rescindir o contrato. Nós [PESSOA] temos pré-aviso, nós [PESSOA] temos multa, enfim, a gente tira o produto, cancela e nada muda, é outro modelo do negócio, tá? só para trazer algum conforto dentro do processo. possível para vocês,\n[LOCUTOR 5]: tá? [PESSOA], eu acho que é uma baita ferramenta, assim, a gente já tinha,\n[LOCUTOR 26]: a gente foi ano\n[LOCUTOR 5]: passado no universo TOTOS e daí já foi falado bastante disso, mas, né, tava assim, o que o nosso boleto tá nos atendendo, então também a Então n\n[LOCUTOR 5]: muito atrás disso.\n[LOCUTOR 5]: mas eu acho que é uma coisa muito boa sim. A gente [PESSOA] tem uma movimentação muito grande de boletos. Mas [PESSOA] sei também n\n[LOCUTOR 5]: quem para mim [PESSOA] é muito mais depende com quem a gente vai comparar.\n[LOCUTOR 24]: a gente\n[LOCUTOR 5]: vai te\n[LOCUTOR 26]: passar. Quando tu achas que existe. Quando tu achas que é só por curiosidade só pode fazer uma provocação amigável.\n[LOCUTOR 5]: Eu acho que deve ser menos de 100 liquidações, [PESSOA] sei\n[LOCUTOR 26]: se chega\n[LOCUTOR 26]: no mês. Eu vou te dizer, [PESSOA], se for menos de 100 liquidações, eu nem faço pacote contigo, eu faço por unitário. Sabes quanto é que é o preço? Por\n[LOCUTOR 5]: boleto? Quanto?\n[LOCUTOR 26]: 40 centavos. Então se tu fizeres 100, vão ser 40 reais por mês.\n[LOCUTOR 19]: vale a\n[LOCUTOR 26]: pena. É [PESSOA] é o\n[LOCUTOR 5]: fim do\n[LOCUTOR 26]: mundo também.\n[LOCUTOR 26]: assim para\n[LOCUTOR 13]: dirigir.\n[LOCUTOR 26]: Isso é uma maninha. Eu vou trazer tanta novidade e vai custar quanto. R$40,00 por mês. R$40,00. [PESSOA] é\n[LOCUTOR 5]: R$5,00\n[LOCUTOR 26]: por boleto, [PESSOA] é R$10,00 por boleto. Eu faço isso por R$0,40. R$0,40 vezes R$100,00, R$40,00. É isso. Olha a quantidade de coisas que eu vou trazer. Tá? [LOCAL], muito obrigado. [PESSOA], eu tenho que sair. Tenho outra reunião de boleto e a mesma situação agora às 21h30. Outro cliente, vou apanhar também lá. Enfim, e vida que\n[LOCUTOR 5]: segue.\n[LOCUTOR 26]: Vocês enviam para mim as\n[LOCUTOR 26]: faço a proposta.\n[LOCUTOR 13]: Chegaram, informou-se a\n[LOCUTOR 26]: proposta.\n[LOCUTOR 13]: Encaminha que daí eu faço aqui o circuito para te mandar essa proposta.\n[LOCUTOR 13]: meninas.\n[LOCUTOR 26]: [LOCAL], [PESSOA]. [PESSOA] sei se eu falei muito rápido, se o sotaque atrapalhou, mas enfim. [PESSOA],\n[LOCUTOR 26]: então. Então, obrigada.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:40.033883+00:00",
+    "total_linhas": 191,
+    "linhas_mantidas": 122,
+    "linhas_removidas": 69,
+    "percentual_mantido": 63.87,
+    "confianca_media": 0.4826
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 13]: Olá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Olá, [PESSOA]. Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 14]: dia. O [LOCAL] é a [PESSOA]? Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Olá, [PESSOA]. [LOCAL] em conhecer-te.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 14]: dia, [PESSOA]. Bom dia, [PESSOA]. Ontem eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3891,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: estava na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCAL] pessoalmente. Vim com um pacotinho de proteína de soja. Vou fazer hoje,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4993,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É isso aí. Muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Eu vou dar uma caprichada",
+      "mantida": false,
+      "probabilidade_relevancia": 0.43,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ficar mais [LOCAL]. Porque eu sou um terror.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4264,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Vou guardar o teu post então.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Bom gente eu convidei o [PESSOA] para essa conversa. A [PESSOA] ela trabalha na [PESSOA] é a nossa gestora financeira e convidou o time dela para a gente estar fazendo um bate papo. Eles atualizam, eles utilizam os APIs, né? Então a ideia desse bate-papo, o que que vai mudar, como é que vai ser aí. E daí o [PESSOA] queda até que fim, vai conversar com vocês e vai poder tirar dúvidas, que aliás ontem eu já [PESSOA] soube responder, [PESSOA]. Eu disse, [PESSOA], é tudo com o [PESSOA] amanhã.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4825,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Fizeste muito bem, fizeste muito bem, [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Ou, às vezes, piada interna. Vai ser com português e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 25]: é,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 13]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: percebendo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: aí já.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Que bom, se o meu sotaque atrapalhar avisem, tá? Que eu repito. Mas, assim, só pra quebrar o gelo aqui também, sempre que eu conheço alguém novo, eu faço sempre essa introdução, né? Que podem ficar tranquilos, que eu já sei o que é [EMPRESA], já sei o que é [LOCAL], que eu já moro aqui há alguns anos, tá? Então, já fui pro [LOCAL] muitas vezes, [LOCAL], eu já passei um outubro a festa em igrejinha, olha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: só.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Ah [PESSOA], já tá bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: brasileiro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Ele disse que [PESSOA] tem mais nem sotaque.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL], as pessoas [PESSOA] falam como eu falo. Eu já falo meio educado e ainda bem que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4624,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: gosto muito. Quando falam que eu já sou brasileiro, eu considero um grande ilogio, na verdade. Que a vossa forma de viver é muito gostosa, é muito pra cima. Antes de começar, tá? [PESSOA], eu já deixei por e-mail, vou falar mais por aqui porque a gente já trocou uns e-mails, mas a [PESSOA] deveria ter sido impactada, barra comunicada, sobre a descontinuação da API desde junho do ano passado. Teve vários movimentos de comunicação, tá? Pulo essa lista de clientes que seriam impactados pela descontinuação da API e vocês seriam Vocês deveriam ter sido comunicados junto com os outros 1.072 clientes que nós temos que vão ser impactados, tá? Então, eu reforço aqui, pedir desculpas aqui de [PESSOA] terem sido avisados, tá? Foi uma comunicação em junho, depois foi uma em setembro, depois foi uma em outubro, uma em novembro, enfim. E hoje estamos aqui em 10 de fevereiro, tá bom? Existe. Então, só para tirar isso da frente também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sim, [PESSOA], tranquilo. Sendo uma coisa tranquila, a gente faz agora e [PESSOA] tem problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá bom, obrigado. Então tá, antes de continuar aqui, tá turma, tá claro para vocês que a [LOCAL], ela é da [EMPRESA] e que eu sou da [PESSOA] e o que é que isso implica, os conceitos, o que é que isso realmente significa? Eu quero saber em que página é que vocês estão para ser mais objetiva aqui, tá? e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: otimizar o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vosso tempo também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Eu acho que, como é que é o nosso cenário hoje, a gente utiliza o API, né? Eu sou a coordenadora, então, do administrativo financeiro,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: quem realmente utiliza e faz a emissão dos boletos e as baixas, depois tudo já pelos arquivos, né? É a [PESSOA] e a [PESSOA]. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5095,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: por isso que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: elas estão aqui, porque elas que vão efetivamente trabalhar nessa parte. E a gente já tinha ouvido falar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [EMPRESA] em algumas palestras e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5436,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: treinamentos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: que a gente foi, mas acho que se tu quiser explicar melhor como que funciona, porque até então, para a gente ali é tudo [EMPRESA], então [PESSOA] sei se vai mudar alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.515,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: coisa em",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: questão de layout e como",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5091,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: vai ficar isso. Então pode fazer essa introdução, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá bom, super claro. Última perguntinha. Vocês preferem que eu converse com vocês ou preferem eu apresento um material visual. São mais visuais ou mais de conversa? Como é que vocês gostariam? Porque eu adapto-me a vocês, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4289,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Acho que pode ser visual, se tu tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5419,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: coisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: alguns slides muito objetivos, tá? Um pouco blá blá blá, mais objetividade. Nós do financeiro somos mais objetivos mesmo,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: mas é isso aí. Assim tem que ser mesmo, que tempo é dinheiro,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5229,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né? Tempo é dinheiro, muito bem, [PESSOA]. Vamos lá, turma. Eu gosto de pensar que eu falo meio por blocos de mensagem, então se tiver demasiado objetivo vocês me avisam e eu ando para trás um pouquinho, tá bom? Primeiro, deixa eu consultar já com esse primeiro slide, tá? Eu trabalho na [LOCAL] ERP Finance, ou ERP Banking, tá bom? No Instrumentos Solar eu gosto sempre de explicar primeiros os conceitos que eu vou voltar a eles durante a conversa umas duas ou três vezes, tá? Eu trabalho aqui até que fim, tá? que tem um CNPJ específico, um modelo de negócio específico. A [LOCAL] trabalha na Totus, que é outro CNPJ, outro modelo de negócio, empresa de tecnologia, cloud, novamente ERPs, inteligência artificial, CRM de comerciais, enfim, de gestão de funil, e onde o trabalho é muito mais próximo de um banco. A gente está a montar um banco, inclusive, totalmente embarcado dentro dos ERPs da Totus. São dois [EMPRESA] diferentes, dois modelos do negócio, enfim, do [LOCAL], diferentes. Esse conceito e essas duas ideias que eu acabei de apresentar, eu vou botar elas várias vezes ao longo da conversa, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: complementando, [PESSOA], a TOTOS, a TECFIN [PESSOA] é da TOTOS, a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: TOTOS",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: é uma padeira",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: venta de saúde.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Era o próximo slide. Da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: família.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Era",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: o [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: slide. Era o próximo slide aqui, [PESSOA], mas obrigado. Como é que esses dois [EMPRESA] independentes, onde é que eles se juntam? Pela [LOCAL], tá? Porque a Totus tem 50% da [LOCAL] e os outros 50% é o [EMPRESA]. Por isso que eu estava a dizer, a gente é muito mais próximo do banco, porque essa é a tese por trás da [EMPRESA], mas a gente se junta, a gente se conecta com a Totus de forma umbilical, através de a [LOCAL] e outros clientes como vocês. Está claro até agora, turma? Eu vou continuar, se vocês [PESSOA] falarem nada eu vou seguindo, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tudo certo. Tá bom? Então, pronto. Daí o [LOCAL] aqui, [EMPRESA], tá bom? Então, quem eu sou, a [LOCAL] você já conhece quem eu sou, onde eu trabalho e o que eu faço. Trazer produtos e serviços bancários e financeiros, como falei mais cedo, num banco totalmente embarcado dentro do ERP da TOC. E um desses produtos, vou fazer aqui já um parênteses rápido, um desses produtos, a razão de que estamos a falar aqui hoje, será o boleto híbrido, Código de Barras e QR Code. Então, e já endereçando aqui o elefante na sala, turma, a descontinuação da API nativa de emissão de boletos, com back-office do Proteus, que a TOG está a fazer, no final do dia, é uma rearrumação de um produto e de um serviço, e está a colocar dentro do grupo econômico todos, [PESSOA] é [PESSOA], porque aqui todo mundo veio de banco. Eu vim de banco, a minha turma de tecnologia veio de banco e meios de pagamento. Enfim, o maior conhecimento, a maior experiência em montar produtos, enfim, como é a emissão do boleto [LOCAL] ou do boleto de API com os bancos, esse maior conhecimento está aqui. Então, no final do dia, é isso que está aqui a acontecer, tá? Mas eu vou continuar e a gente fala mais no final, tá? Sobre o boleto híbrido. Aqui eu já falei aqui um pouquinho no slide, [PESSOA] vou me repetir, tá? E aqui eu já entro aqui nos produtos que nós temos aqui disponíveis, tá? Este aqui do lado esquerdo, recebe mais conciliado, recebe mais programado, recebe mais multibank e recebe mais boleto livre, são produtos de cobrança, né? De recebimento, tá? E estes 4 produtinhos aqui à direita são produtos de crédito, tá? E eu já vou entrar também aqui um pouquinho nesses, tá? Aqui são os recebimentos, tá? Porque, embora o assunto seja o bullet review, aqui embaixo acho que é interessante passar rapidamente aqui por estes primeiros 4, tá? Enfim, estes nomes aqui são nomes de marketing, né? Digamos assim, mas no final do dia são PICs, são modalidades de PICs, tá? Os que são mais conciliados é, obviamente, um PICs, um QR code ou um copia e cola é devidamente conciliado e baixado dentro do Proteus. Então, [PESSOA] precisa de fazer aquele famoso alt tab de sai da tela do banco, vai para a tela do ERP para dar a baixa e depois fazer esse movimento da fase para frente. [PESSOA] precisa mais fazer isso, porque no momento do faturamento, sabendo que no ponto de faturamento está ligado ao novo gestor financeiro, ele já vai abaixo automaticamente no que diz respeito, neste caso aqui ao PIX. Este é o PIX instantâneo, então, validade de uma hora, expira em uma hora e tudo mais. Até mais programado é o PIX cobrança, é aquele que pode fazer a cobrança parcelado e expira, pode ser 3 meses, pode ser 60 dias, pode ser, enfim, é de longo prazo esse PIX. Também temos devidamente conciliado com o [LOCAL] bancário via API com os bancos, tá? E o recebo mais podido por conta de banco é um PIX [PESSOA] conciliado. A gente tem este produto para quem tem baixo volume e quer pagar menos pelo PIX e também para quem tem ticket médio baixo. Também a gente tem esse produto também e ele funciona, tá bom? E aqui embaixo é o tal boleto híbrido, que é a razão de [PESSOA] estarmos aqui a falar hoje, tá? Comunicação bancária via API, tanto para remessa como para retorno, tá? no fim, dos pagamentos e das baixas, tá? Devidamente conciliado e baixado dentro do Proteus no novo sistema financeiro, tá? Uma pergunta que temos feito muito, [PESSOA] e turma. Ah, [PESSOA], também dá baixa no contábil? Se tiver parametrizado dentro do Proteus a comunicação automática online com o vosso modo contábil, sim, ele vai dar a baixa contábil também, ok? Algumas dúvidas até agora. rapidinho na batida, mas se tiver alguma dúvida, querem fazer alguma perguntinha agora? [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: acho que é isso aí, até o momento tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4053,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA], uma pergunta que eu acho que já deve estar aí a atormentar vocês, tá? Poxa, [PESSOA], mas se vocês são [LOCAL], só fazem com o [EMPRESA]? [PESSOA], nós somos agnósticos de banco, tá? Eu vou entrar aqui à frente, vai ter aqui um slide onde a gente mostra todos os bancos com os quais já temos conexão API, tá? Número 1. Número 2. Só tirar aqui isso aqui. Número 2, tá? Acho que aqui é importante fazer o de paraíso. O que é que vocês vão deixar de ter e o que é que vocês vão passar a ter? As partes boas, obviamente, e são muitas, tá? Hoje, lá com a [LOCAL], qual é o banco liquidante que vocês têm lá hoje, lá no API?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: O [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: O [EMPRESA]. Imagina que vocês hoje, sem um do [EMPRESA], que o [EMPRESA], ou, enfim, faz uma super proposta para vocês e vocês dizem para a [LOCAL], [LOCAL], eu preciso parametrizar o [EMPRESA]. A [LOCAL] vai dizer o quê? [LOCAL], vamos embora, 5 mil, estou a inventar, [LOCAL], 5 mil reais de implementação, de projeto, mais 3 mil reais de consultoria e tudo mais. Aqui, na [LOCAL], lembra do primeiro slide, modelos de negócio diferentes, a gente [PESSOA] cobra nada disso, [PESSOA] cobra projeto, implementação, atendimento, treinamento, chamada. É o outro modelo do negócio. A gente só cobra no retorno da liquidação da API. A gente cobra o consumo da API. A gente cobra pelo boleto liquidado. Isso é a primeira diferença do que sair da maior empresa de tecnologia da [LOCAL] para um banco que a gente está aqui a construir. Está claro? Existe um de para aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sim, na verdade. É que hoje eu [PESSOA] pago nada.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4309,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCUTOR 1]: como assim? Eu estava me tirando um serviço me botando num parceiro e querendo me cobrar. [PESSOA] que era de gra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4447,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: isso aí. [PESSOA], o que é de graça é a implementação de tudo isso. Isso é de graça, n",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: paga nada. Eu nem queria essa implementação aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Então mas o ponto é esse e tem toda a resposta. Você pode imaginar que eu já tive essa conversa 400 vezes com clientes iguais na mesma situação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sim",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: é todos a todos e as APIs que estão lá junto dos bancos. Sim eles [PESSOA] vão focar mais nisso. Eles [PESSOA] vão desenvolver melhorar a API e tudo mais. Nós vamos sempre melhorar as APIs e trazer mais funcionalidade para vocês que vão acompanhar a mudança dos tempos a evolução da tecnologia e por aí fora. E a melhorar a vossa experiência como usuários. Isso",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4511,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: eu acho bem bom mesmo, mas eu [PESSOA] pedi isso aí, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4191,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: sei, eu sei.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA], mas eu sei isso. Estou a ter essa conversa desconfortável. Eu sei que é super desconfortável. Minha lista é de três clientes. Já fiz com uns duzentos. Então, eu sei que é uma conversa desconfortável, mas a intenção é realmente trazer o melhor serviço, a melhor tecnologia, uma evolução constante para vocês. Que a [EMPRESA] [PESSOA] vai focar nisso, tá? E é por isso que eles estão descontinuando, tá? Bom? E em produtos de crédito, a gente também tem produtos de crédito aqui que poderíamos eventualmente também conversar com vocês. O nosso foco aqui é o capital de giro, mas também temos a antecipação de recebíveis perfumados, tudo habilitado para o Proteus. Vocês fazem alguma operação de crédito hoje, [PESSOA]? Vocês pegam crédito no mercado?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA]? Tá. Vou só escrever aqui na minha lata aqui. Perfeito, tá? Aqui são alguns dos nossos clientes, aqui, só para ter alguma, enfim, só uma referência, depois eu posso circular isso com vocês, tá? Aqui é uma pequena provocação do que é que nós estamos a construir, tá? Esse é o futuro, tá? No final desse ano vocês vão ter disponível para contratar dentro do Proteus um banco. Esse aqui é um exemplo da carinha que o banco vai ter, tá? Vocês vão ter conta digital, vão ter pagamentos, recebimentos, investimentos, seguros, enfim, esse é o princípio de ter opção de terem um banco, se vocês quiserem, dentro do Proteus, tá? E que vai integrar e conciliar todas as suas atividades, tanto contas a pagar, contas a receber, mais uma vez investimentos, folha e por aí fora, tá? Isso aqui é só um teaser para vocês, tá? É uma provocação e aqui é parte mais do boleto livre para o Proteus. O que eu queria mostrar para vocês é isso aqui, que é basicamente todas as funcionalidades que vocês vão ter disponíveis por 0 reais e aqui nesse slide dizem, eu costumo entrar nesse tema aqui. Eu [PESSOA] podia ir para a descontinuação da API, na [LOCAL] eu [PESSOA] cobrava pelo consumo da API. [LOCAL] que [PESSOA], é outro meu negócio. Aqui eu vou ter que pagar esses centavos por boleto liquidado, [PESSOA] são reais, são centavos por boleto liquidado. E eu costumo, neste slide aqui, eu costumo sugerir aos meus clientes que estão nessa situação, eu costumo sugerir o seguinte, que dá para ligar lá no [EMPRESA] e dizer assim, [EMPRESA], tudo bom? Eu agora [PESSOA] tenho mais custo, nem fricção para trocar de banco liquidante dos meus boletos. [PESSOA] é trocar de domicílio bancário, é trocar de conta que recebe o valor dos boletos. Então, olha, até que fim está me a cobrar centavos por boleto liquidado, eu preciso tombar e sair esses centavos, senão eu vou mudar de banco. Normalmente, os meus clientes capturam grande parte dos centavos que eu vou cobrar por boleto liquidado, conseguem capturar nos bancos. usando esse modelo de barganha, tá bom? Posso seguir aqui, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Pode.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aqui era o que eu estava a falar, portanto, vocês vindo aqui para a [LOCAL], automaticamente têm estes sete bancos e daqui a alguns meses vão ter o [LOCAL] também, que vai estar disponível, todos prontos para nós parametrizarmos para vocês por zero reais. Por isso que eu estava falando no outro slide [PESSOA] tem fricção nem custo para barganhar por exemplo com o [EMPRESA] para baixar o seu custo do registro online e liquidação. Quando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: pagam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: eu posso eu posso deixar mas porque hoje a gente basicamente só usa o [EMPRESA] mas a gente tem também o [EMPRESA] e o [LOCAL] aí eu posso eu poderia já deixar os tr",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4751,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: tipo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: pré pronta assim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim por 0 reais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4204,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: 0.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E aí pode começar a barganhar, tá? Os outros clientes fazem isso, tá? Se crerem em você, eu vou inventar. Um real. E o [EMPRESA] cobra dois. Nessa diferença aí, já recuperaste os centavos que eu vou cobrar. Eu vou",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: te cobrar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: centavos, tá bom? De novo, [PESSOA], eu sei que é uma conversa desconfortável. Eu já ouvi de tudo. Português ladrão. Português volta pra tua terra.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4862,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Eu já ouvi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: de tudo, tá? Ent",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vocês estão sendo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4236,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: simpáticas comigo. Uma voz é tão ruim",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: assim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: se preocupe. Vocês estão sendo muito agradáveis comigo,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4449,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: mas eu j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ouvi de tudo, tá? E é verdade, isso [PESSOA] é nem brincadeira. Então, eu sei que é uma conversa desconfortável, tento fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5027,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: da forma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: mais leve.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Eu vou ter que fazer essa piada. Mas olha [LOCAL] de novo aqui no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4943,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sempre explorando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 24]: vocês sabem uma coisa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4688,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Vocês sabem qual foi a coisa mais valiosa que os portugueses roubaram? para o [LOCAL], da madeira. Era o mais valioso na época e nós roubámos muito mais do que ouro, mas enfim. A aula de história também temos aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5475,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aqui, turma, o mais importante desse slide aqui é que é a parte do retorno do Código de Barras. Aqui a palavra importante é o até duas horas, mas o até foi os bancos que nos pediram para colocar o até. Mas o tempo médio de retorno para quem paga no Código de Barras é ali cinco minutos. Então é informação que hoje fica muito assíncrona entre a informação e a realidade. cliente que pagou o código de barras e vocês só recebem dois dias depois a informação, um dia depois a informação que foi pago e logo a seguir é liquidado, agora vocês vão ter essa informação com um delta muito mais aberto, entre receber a informação do pago do cliente e a liquidação e permite em negócios como o vosso, que é um negócio mais nervoso, de [PESSOA] perder mais venda por limite de crédito. Um cliente que pagar para vocês na quarta-feira, às oito da noite, e na quinta é friado e sexta é friadão. Mesmo que eu pague no colete de barras, enfim, em minutos vocês vão ter abaixo no proteus e podem fazer outra venda. Já tem limite de crédito aberto de novo. Essa é a grande vantagem aqui também do nosso boleto livre. Lembrando que no [LOCAL] é só colete de barras, aqui é colete de barras e PIX, que eu contado várias vezes no boleto livre. Turma, Aqui é um slide mais para mostrar que tudo isto aqui está pronto para a gente parametrizar para vocês na emissão e a alteração após emissão dentro do Proteus a gente está terminando e tudo isto vai estar disponível dentro do Proteus. Portanto, na emissão a gente vai parametrizar para vocês e depois quando a gente está a emitir e vocês querem dar um desconto, Ou vocês querem mudar o vencimento de um boleto de um cliente. Mudar o vencimento já está pronto, na verdade, dentro do [LOCAL]. Mas imagina que vocês querem dar desconto de juros e multa para um cliente. Vocês podem fazer isso dentro do [LOCAL], sem precisar dar no banco. Ou isso precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: ir no banco.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim. Mas em breve a gente vai ter isso disponível para vocês, [PESSOA]. E adivinha quanto vai custar essa nova versão da API?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4984,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 8]: reais! [PESSOA] reais! Boa, [PESSOA]!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Legal! Muito bom, [PESSOA]. Enfim, aqui à frente tem algumas telas, tá? Mas eu acho que mais... Eu vou passar rápido, tá? [PESSOA] e turma, tá? [PESSOA] vai alterar nenhuma rotina vossa no faturamento, tá? Nós entramos da porta para fora da [LOCAL], tá? Então, as vossas rotinas no Proteus, tanto no faturamento como no stock, no série, elas [PESSOA] mudam, tá? Aí, a minha customização [PESSOA] muda. [PESSOA] tem nenhum custo para vocês adicional, tá? Além de centavos por boleto liquidado, ok? Assim em 30 minutinhos, para também [PESSOA] ser chato, é isso, tá? Reparem que aqui as telas são todas do Proteus, tá? É tudo telas do Proteus, [PESSOA] é um site ou uma plataforma terceira, tá? É tudo dentro do Proteus, tá bom? Certo. Um terceiro objetivo e leva aqui, passar mensagens gerais. Sim, gostaria de dar uma proposta para vocês, [PESSOA], para fazer Eu preciso saber quantos boletos vocês liquidam por mês. [PESSOA], cancelamento e tudo mais [PESSOA] fazem diferença para mim. É só a mesma liquidação. Tá. Quanto vocês liquidam por mês de boletos mensalmente?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Peraí, vamos ter que dar uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5156,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: olhadinha. [PESSOA], pode mandar depois se quiser, [PESSOA] precisa ser",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5613,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: agora. Ah, tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA], [PESSOA], eu te faço a proposta bonitinha, te mando já à noite, se puderes mandar lá na nossa rede, nossa sequência de e-mails, tá? Eu te faço já à noite e a gente tenta avançar aqui, tá? Mas, de novo, [PESSOA], eu acho que se entra em uma conversa desconfortável, de novo, faz 50",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: vezes,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: eu acho que a gente vai entregar muita coisa tópica para vocês, tá? Que vai melhorar o vosso dia-a-dia, da [PESSOA] e da [PESSOA], vai melhorar a vossa dia a dia, a gente vai estar sempre a melhorar a API, sempre a trazer coisas novas e [PESSOA] vai cobrar projetos, [PESSOA] vai cobrar consultoria, [PESSOA] vai cobrar treinamento, [PESSOA] vai cobrar chamados, que é um modelo do negócio da [EMPRESA], é vida [PESSOA], mas o nosso é outro modelo do negócio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: E aí quanto tempo isso demora? Porque na verdade eu nem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: quando que é que vai descontinuar, quando que termina?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Boa pergunta. A data para todos desligar, porque eles [PESSOA] vão dar mais manutenção nas APIs bancárias, [PESSOA] vão. A decisão já está tomada. É dia 31 de março. Agora eu sei que está atormentado. 31 de março, mas é 10 de fevereiro e vai ter 800 clientes a ligar para o [PESSOA] para fazer o tombamento. Dois conceitos importantes. Um, a gente só cobra esse pacotinho de boleto liquidado o primeiro boleto emitido e liquidado. A gente começa a cobrar a partir dessa data. E se vocês tiverem, enfim, a contratação assinada por conosco e nós [PESSOA] tivermos implementado, a [EMPRESA] [PESSOA] desliga a API. Então a vida continua,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tá bom? Ah, entendi. Sim, se vocês [PESSOA] tiverem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3734,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tempo viável daí vai continuar ainda até",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: viradas. É isso mesmo, já sacaste o que eu te passei. E a última coisa que eu queria comentar, tá? Lembrando, porque está relacionada com os [EMPRESA] diferentes, empresas diferentes. Imagina que tu contratas o nosso boleto [EMPRESA]. E por alguma razão diz assim, ah [PESSOA], [PESSOA] quero mais isso, [PESSOA] me adaptei, [PESSOA] gostei, [PESSOA] vale o preço que eu estou pagando. Quer rescindir o contrato. Nós [PESSOA] temos pré-aviso, nós [PESSOA] temos multa, enfim, a gente tira o produto, cancela e nada muda, é outro modelo do negócio, tá? só para trazer algum conforto dentro do processo. possível para vocês,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tá? [PESSOA], eu acho que é uma baita ferramenta, assim, a gente já tinha,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4892,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: a gente foi ano",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: passado no universo TOTOS e daí já foi falado bastante disso, mas, né, tava assim, o que o nosso boleto tá nos atendendo, então também a Então n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5484,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: muito atrás disso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: mas eu acho que é uma coisa muito boa sim. A gente [PESSOA] tem uma movimentação muito grande de boletos. Mas [PESSOA] sei também n",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: quem para mim [PESSOA] é muito mais depende com quem a gente vai comparar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5139,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: vai te",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: passar. Quando tu achas que existe. Quando tu achas que é só por curiosidade só pode fazer uma provocação amigável.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Eu acho que deve ser menos de 100 liquidações, [PESSOA] sei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5329,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: se chega",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: a tudo isso",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: no mês. Eu vou te dizer, [PESSOA], se for menos de 100 liquidações, eu nem faço pacote contigo, eu faço por unitário. Sabes quanto é que é o preço? Por",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: boleto? Quanto?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: 40 centavos. Então se tu fizeres 100, vão ser 40 reais por mês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5267,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: sim. [PESSOA] é o fim do mundo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4555,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 19]: vale a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: pena. É [PESSOA] é o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: fim do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5239,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: mundo também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tu vai entrar aqui na nossa família até que fim e vai trazer tanta coisa legal e eu acho que vai ser top. Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4444,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Fazendo uma analogia boba [PESSOA]. Funciona mais ou menos como um pedágio daquela estrada que tu entra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4553,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: assim para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: dirigir.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Isso é uma maninha. Eu vou trazer tanta novidade e vai custar quanto. R$40,00 por mês. R$40,00. [PESSOA] é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: R$5,00",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: por boleto, [PESSOA] é R$10,00 por boleto. Eu faço isso por R$0,40. R$0,40 vezes R$100,00, R$40,00. É isso. Olha a quantidade de coisas que eu vou trazer. Tá? [LOCAL], muito obrigado. [PESSOA], eu tenho que sair. Tenho outra reunião de boleto e a mesma situação agora às 21h30. Outro cliente, vou apanhar também lá. Enfim, e vida que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: segue.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Vocês enviam para mim as",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: quantidades e eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: faço a proposta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Chegaram, informou-se a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: proposta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Encaminha que daí eu faço aqui o circuito para te mandar essa proposta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 13]: meninas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL], [PESSOA]. [PESSOA] sei se eu falei muito rápido, se o sotaque atrapalhou, mas enfim. [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4915,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tudo certo. Vamos unsolando,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: então. Então, obrigada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tchau, tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

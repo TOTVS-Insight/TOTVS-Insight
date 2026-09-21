@@ -1,0 +1,79 @@
+{
+  "id_reuniao": "1004495",
+  "codt": "118588",
+  "data_reuniao": "2026-02-03 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 4]: Fala, [PESSOA],\n[LOCUTOR 2]: tudo bom? Fala, [PESSOA], como está, irmão? Tudo na paz?\n[LOCUTOR 4]: Tudo ótimo. Aqui é só a inteligência da minha Finder, estou negando aqui. Ele acabou de mandar mensagem, o [PESSOA] do [EMPRESA], se a gente pode começar das duas e meia. Tem algum problema para você?\n[LOCUTOR 2]: Não, cara. Eu tenho um compromisso às três, mas acredito que essa conversa vai ser r\n[LOCUTOR 3]: com ele. Vai. Então aí a gente volta às duas e meia.\n[LOCUTOR 2]: Tá combinado\n[LOCUTOR 4]: então. Ele acabou de mandar uma mensagem faz um minuto. \n[LOCUTOR 1]: bom\n[LOCUTOR 4]: valeu obrigado.",
+  "texto_filtrado": "[LOCUTOR 4]: Fala, [PESSOA],\n[LOCUTOR 2]: tudo bom? Fala, [PESSOA], como está, irmão? Tudo na paz?\n[LOCUTOR 4]: Tudo ótimo. Aqui é só a inteligência da minha Finder, estou negando aqui. Ele acabou de mandar mensagem, o [PESSOA] do [EMPRESA], se a gente pode começar das duas e meia. Tem algum problema para você?\n[LOCUTOR 2]: Não, cara. Eu tenho um compromisso às três, mas acredito que essa conversa vai ser r\n[LOCUTOR 3]: com ele. Vai. Então aí a gente volta às duas e meia.\n[LOCUTOR 2]: Tá combinado\n[LOCUTOR 4]: então. Ele acabou de mandar uma mensagem faz um minuto.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:02.201485+00:00",
+    "total_linhas": 9,
+    "linhas_mantidas": 7,
+    "linhas_removidas": 2,
+    "percentual_mantido": 77.78,
+    "confianca_media": 0.4777
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 4]: Fala, [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tudo bom? Fala, [PESSOA], como está, irmão? Tudo na paz?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tudo ótimo. Aqui é só a inteligência da minha Finder, estou negando aqui. Ele acabou de mandar mensagem, o [PESSOA] do [EMPRESA], se a gente pode começar das duas e meia. Tem algum problema para você?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, cara. Eu tenho um compromisso às três, mas acredito que essa conversa vai ser r",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4686,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: com ele. Vai. Então aí a gente volta às duas e meia.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5548,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá combinado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: então. Ele acabou de mandar uma mensagem faz um minuto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4806,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: valeu obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id_reuniao": "747146",
+  "codt": "TEVS96",
+  "data_reuniao": "2025-11-25 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "GO",
+  "texto_original": "A:  Aquele dia ali, a gente tinha mandado pra ele, acho que foi final do mês passado, aí ele comentou que ia dar uma olhada e tal, né? Aí no fim dessa semana ele mandou pra mim, cara, do jeito que tá, não dá. Consegue dar uma melhorada? Aí eu falei com o time lá, o time achou uma forma interessante de compor ali números e tal, e aí a gente, foi o que eu consegui fazer ali, né, pra passar pra ele, passar pro teste mesmo.",
+  "texto_filtrado": "A:  Aquele dia ali, a gente tinha mandado pra ele, acho que foi final do mês passado, aí ele comentou que ia dar uma olhada e tal, né? Aí no fim dessa semana ele mandou pra mim, cara, do jeito que tá, não dá. Consegue dar uma melhorada? Aí eu falei com o time lá, o time achou uma forma interessante de compor ali números e tal, e aí a gente, foi o que eu consegui fazer ali, né, pra passar pra ele, passar pro teste mesmo.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:07.852914+00:00",
+    "total_linhas": 1,
+    "linhas_mantidas": 1,
+    "linhas_removidas": 0,
+    "percentual_mantido": 100.0,
+    "confianca_media": 1.0
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "A:  Aquele dia ali, a gente tinha mandado pra ele, acho que foi final do mês passado, aí ele comentou que ia dar uma olhada e tal, né? Aí no fim dessa semana ele mandou pra mim, cara, do jeito que tá, não dá. Consegue dar uma melhorada? Aí eu falei com o time lá, o time achou uma forma interessante de compor ali números e tal, e aí a gente, foi o que eu consegui fazer ali, né, pra passar pra ele, passar pro teste mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    }
+  ]
+}

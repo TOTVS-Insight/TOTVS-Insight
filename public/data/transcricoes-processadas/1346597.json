@@ -1,0 +1,31 @@
+{
+  "id_reuniao": "1346597",
+  "codt": "T76120",
+  "data_reuniao": "2026-04-06 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "DISTRIBUICAO",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 1]: Tem outra forma de consultar para poder fazer um encontro de renda Tem um... Eu vou te mandar o link que fica mais fácil, tá? Mas é o site eCafio, daí tu entra no teu blog E aí tu vai lá e informe de contos pagadoras Lá vai estar todo o valor que tu recebeu das filhas Pode ficar, pode ficar",
+  "texto_filtrado": "[LOCUTOR 1]: Tem outra forma de consultar para poder fazer um encontro de renda Tem um... Eu vou te mandar o link que fica mais fácil, tá? Mas é o site eCafio, daí tu entra no teu blog E aí tu vai lá e informe de contos pagadoras Lá vai estar todo o valor que tu recebeu das filhas Pode ficar, pode ficar",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:07:59.620251+00:00",
+    "total_linhas": 1,
+    "linhas_mantidas": 1,
+    "linhas_removidas": 0,
+    "percentual_mantido": 100.0,
+    "confianca_media": 1.0
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: Tem outra forma de consultar para poder fazer um encontro de renda Tem um... Eu vou te mandar o link que fica mais fácil, tá? Mas é o site eCafio, daí tu entra no teu blog E aí tu vai lá e informe de contos pagadoras Lá vai estar todo o valor que tu recebeu das filhas Pode ficar, pode ficar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    }
+  ]
+}

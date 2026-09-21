@@ -1,0 +1,385 @@
+{
+  "id_reuniao": "1226988",
+  "codt": "CXD649",
+  "data_reuniao": "2026-03-17 16:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 4]: Consegue permitir tu lá todos?[PESSOA] de \n[LOCUTOR 8]: Tá, já dividido. Boa\n[LOCUTOR 9]: tarde, [PESSOA], tudo bem?\n[LOCUTOR 4]: [LOCUTOR 2]: tarde, senhores, tudo bem? Boa tarde,[PESSOA] de \n[LOCUTOR 8]: [PESSOA]. Tudo\n[LOCUTOR 4]: tranquilo. Mais alguém, não? Tu convidou mais alguém, [PESSOA]?\n[LOCUTOR 5]: Sim, eu convidei a [LOCAL], deve estar conectando aí.\n[LOCUTOR 4]: Vai chovendo aí em [LOCAL] ou não?\n[LOCUTOR 5]: [LOCAL], leve, mas chovendo.\n[LOCUTOR 4]: peguei uma chuva de... olha lá, de [PESSOA], mais ou menos, até aqui em [LOCAL]. Um trecho aqui não tinha, mas não se enxergava cinco metros na frente. Todo mundo com alerta ligado, alerta ligado e não tinha como andar. Eu pensei, vou chegar atrasado para terminar o... Bom,\n[LOCUTOR 5]: o [PESSOA] conectou aí. [PESSOA] está sem câmera, eu acho, então. Vamos. Vai lá. [LOCAL],\n[LOCUTOR 4]: então. Primeiro, estou apresentando, não tinha apresentado ainda [LOCAL], o [PESSOA] e o [PESSOA]. O [PESSOA] já é um conhecido da [EMPRESA] e também da [LOCAL], né? Trabalhava numa outra empresa antes. O [PESSOA] está junto com o [PESSOA] na parte de engenharia de valor. Então, os dois estão trabalhando junto da parte do projeto e toda a questão de análise e projeto como um todo. Os dois trabalham em parceria. E do outro lado, o [PESSOA], a gente vai trabalhar na parte comercial também juntos. Eu já tinha comentado com [LOCAL], também em função do conhecimento do próprio [PESSOA]. E o [PESSOA] também reside em [LOCAL]. Não é argentinense, mas mora em [LOCAL] há muitos anos. Beleza,\n[LOCUTOR 9]: pessoal. Prazer em conhecer. Prazer em conhecê-los, meus pais moram aí na região, eu vou com muita frequência em [LOCAL], eles moram aí bem próximo, 40 quilômetros de [LOCAL], moram em [LOCAL], então passo aí com frequência todo mês em [LOCAL].\n[LOCUTOR 4]: Bom,[PESSOA] de \n[LOCUTOR 8]: a\n[LOCUTOR 4]: ideia então, o [PESSOA] já está se apresentando logo, o [PESSOA] vai fazer a apresentação do projeto como um todo, e a ideia nossa é é mostrar aquilo que a gente levantou na conversa aquele dia e um bate-papo, tá? Então assim, o [PESSOA] conhece muito desse sistema, muito de TOTOS e também muito de projetos. Ele ajudou a implantar há muitos anos, trabalhou também na área comercial, então ele tem 20 anos aí da história da TOTOS e conhece os produtos de ponta a ponta. [PESSOA], quer ir assumindo aí?[PESSOA] de \n[LOCUTOR 8]: Não,\n[LOCUTOR 4]: nãoGermano Haan de \n[LOCUTOR 8]: preciso me apresentar, tu já me apresentou.\n[LOCUTOR 4]: EuGermano Haan de \n[LOCUTOR 8]: vou compartilhar, então, [PESSOA], aqui. Então, qual que é o objetivo hoje? Então, o meu colega, o [PESSOA], ele esteve aí com [LOCAL], ele fez o entendimento de toda da necessidade do ecossistema da [EMPRESA], do que está envolvido com as unidades, as empresas, os segmentos que cada empresa atua, para a gente fazer a arquitetura do projeto. Então, aqui é uma sugestão que a gente montou, que a gente quer validar, vai compartilhar com [LOCAL], para [LOCAL] fazerem as análises e a gente... O intuito final é a gente fechar o escopo. fechar o escopo, definir quais são as unidades que a gente vai contemplar no projeto TOTOS, para a gente poder iniciar essa jornada de consolidação da operação toda com solução TOTOS, e até que nível a gente vai desse controle. Então, eu criei aqui um organograma baseado na estrutura organizacional do grupo, E aqui eu mencionei qual produto TOTUS vai atender o core de cada unidade, o core de cada segmento, sempre com a visão de consolidação do grupo, tanto no nível horizontal como no vertical. Eu queria fazer uma análise unidade a unidade vou conseguir, E se eu quiser ter visões consolidadas entre grupos econômicos ou até mesmo grupo global, a gente vai consolidar. Eu criei aqui um organograma, então eu parto aqui, eu vou validar, então é baseado nos levantamentos que o [PESSOA], meu colega, fez. Então a gente colocou aqui, tá? Então tem a [EMPRESA] [EMPRESA] SA, que ela vai utilizar o [PESSOA]. Ela vai ter como back-office administrativo e consolidador o [PESSOA] como back-office. O que é o back-office? É compras, estoque financeiro, faturamento, obrigações fiscais, a contabilidade fiscal e gerencial e ativo patrimonial. Mesmo na figura de holding, ela tem o seu back-office. e as suas operações. Abaixo dela, a gente vai entrar, dar um zoom aqui. Então, a gente tem a [LOCAL], que hoje ela usa o [EMPRESA], mas, contrapartida, a [EMPRESA] [EMPRESA] consolida a operação da [LOCAL]. Então, qual é a ideia? Manter o [EMPRESA] lá e a gente vai consolidar o fechamento contábil da [EMPRESA] com aqui, a contabilidade dentro da HODE para a [LOCAL]. Então, dentro da HODE vai ter todas as suas empresas abaixo dela, do grupo econômico. Então, a gente vai fazer isso quando a gente fala de [LOCAL]. Quando a gente fala da escola, ela vai ter o back-office para o [LOCAL], compras, estoque, faturamento, mesmo o back-office da [PESSOA], mais o RM que hoje ela já tem lá, que é o RM na gestão educacional. Então, o RM, o [EMPRESA], já é integrado nativamente com a retaguarda do Proteus. Essa integração, por serem produtos dos fotos, ela já é nativa, ela já existe. Então, a gente vai colocar o back-office do Proteus e vai plugar o educacional refletindo no back-office do Proteus. Fechando aqui a escola, consolidando na road. Então, eu vou ter tanta visão aqui na vertical como na horizontal. Quando a gente fala aqui do aeroporto [LOCAL] e [LOCAL], também mesma coisa, vai ter becofice, proteus, e vai ter o [EMPRESA] para tratamento do tosse, construção e gestão, a parte de contatos de aluguel e os condomínios. Então o [EMPRESA] atende esse core, esse segmento. Então ele tem lá os módulos desse core que vão ser integrados com a retaguarda de cada a back-office de cada aeroporto e, consequentemente, consolidar na road. A fazenda, a gente vai trazer aqui os [EMPRESA], todos que estão envolvidos ali nas fazendas, se vai ser um, dois ou três [EMPRESA] ali, vai ter o back-office para [PESSOA]. O nível do back-office, porque a gente sabe que o produtor rural tem obrigações pertinentes ao produtor rural, livro-caixa do produtor rural, que estão dentro do financeiro e tudo mais, isso tudo atendido pelo back-office do Proteus. Daí aqui o fiscal, contabilidade e ativo patrimonial dos [EMPRESA], a gente daí vai precisar validar, se vai ser preciso, vai precisar só do compro-histórico-fatoramento financeiro e o fiscal. Contabilidade e patrimônio a gente pode validar. Então essa estrutura da [EMPRESA], ela vai ter a [EMPRESA], que é a [EMPRESA], e todo o grupo econômico abaixo dela. Cada um com a sua operação individual consolidando na [EMPRESA]. Mesma coisa quando a gente vai dessa equipe horizontal para os outros negócios. Todos esses negócios vou consolidar na [EMPRESA], aqui na [EMPRESA], todas elas vão consolidar aqui. Só que a gente sabe que são CNPJs raízes independentes, mas eu consolido Então aqui a gente tem, quando a gente fala de... Deixa eu vir aqui. Quando a gente fala da... 108 e as SPs 1 até 6, a gente tem ali dois cenários. Hoje se usa o [EMPRESA] na operação. Então aqui eu tenho dois pontos de decisão. Se a gente substituir o [EMPRESA], todo esse grupo aqui ele pode rodar no RM. 100% no RM e 100% consolidar na road, a consolidação porque já tem integração. Vamos manter o seguinte, obrigatoriamente vai ter que ter o Proteus com o back-office, que é aquele mesmo back-office, mais o RM para fazer a gestão da obra, a gestão de venda de imóveis e o portal de venda de imóveis, que é o que o core do RM também atende. A gente tem aqui duas situações, um ponto de decisão. substituir [EMPRESA], toda a estrutura fica dentro do RM, mantendo o [EMPRESA], a gente vai substituir o [LOCAL] pelo [LOCAL] e lá na parte do CORE o RM. E daí a parte da gestão da obra, toda aquela parte que hoje se roda na construtora, na parte do [EMPRESA], mantendo o [EMPRESA]. Depois a gente vem para essa outra estrutura aqui, que é a parte da [EMPRESA] mineradora, então aqui é 100% proteus, desde o becoffice a contabilidade, eu botei aqui como controle da produção como um segundo momento, está de vermelho de propósito, porque hoje não tem a manufatura nessa operação, mas futuramente pode ter. Então o Proteus já tem também a manufatura, é só uma questão de implantar o módulo quando necessário for. O foco é back-office, contaladoria, contabilidade para consolidar na road e o [EMPRESA] entrar no momento que a empresa definir. A outra que é receber resíduos, também 100% Proteus e o [EMPRESA] entrando quando necessário for, tudo isso também consolidando lá na road. Depois a gente vem para [EMPRESA]. A [EMPRESA] a gente tem aqui, então, também o Back Office Proteus, o Back Office Centralizador, e aqui dentro do grupo econômico, aqui a gente tem os estacionamentos que vão usar Back Office Proteus. A papelaria vai entrar também Back Office Proteus com a parte de varejo do Proteus, que é a venda [LOCAL], é o... é o PDV, é a parte de nota fiscal consumidora eletrônica, é fazer abertura e fechamento de caixa. fazer toda a parte de um varejo. É um módulo que o Proteus tem dentro do back-office que atende o varejo mesmo, a papelaria, vestuário, linha branca, linha marrom, ele atende todos os segmentos do varejo, toda a parte de loja que ele atende junto com o back-office. E a parte da restaurante aqui, a [LOCAL] tem uma solução especialista para a parte de food, que a gente chama aqui. [PESSOA] atende o segmento de food, que é restaurantes, cafeterias, toda essa parte que ele tem todo um back office independente dele, compra, estoque, financeiro, faturamento, a parte fiscal, a parte de caixa, comanda, a gestão da cozinha, a ficha técnica dos pratos para fazer consumo e atualização do estoque. Ele já tem toda essa expertise dentro dele. E essa expertise já tem integração também com o back office aqui do [EMPRESA], do Proteus. Então, ele já fecha lá e tanto traz as vendas, ele traz toda a movimentação de estoque, ele tem todo o sincronismo de cadastro de produto, a parte de clientes, a parte de fechamento de caixa, toda essa parte com a retaguarda do Proteus. Então, aqui na parte do restaurante entraria a nossa situação vertical, especialista para o segmento do food, que é restaurante, cafeteria, lanchonetes, tudo que está ali dentro, que uma operação de restaurante e cozinha exige. Então, essa seria a estrutura macro-global, falando de produtos totes, qual produto vai fazer toda a gestão da retaguarda, qual que é a solução que vai entrar na ponta e qual que vai ser a consolidação. Então, se todas essas unidades aqui, mais essas, vão ser consolidadas aqui na [EMPRESA], tranquilo, todos elas, esse grupo econômico a gente configura, E se depois eu quiser criar um nível ainda acima da road aqui, com uma road consolidadora geral, eu também consigo configurar. Isso é parametrização do sistema. Então, eu queria primeiro perguntar se ficou visual o entendimento, se o que eu montei na estrutura está de acordo com o grupo econômico. E se a nossa sugestão, que faz sentido para a gente poder seguir uma orçamentação, qual seria a ideia? entender todo esse ecossistema, definir a que nível vamos descer para a gente poder compor um projeto, precificar, estimar os investimentos necessários para a gente compor o projeto como um todo.\n[LOCUTOR 3]: Eu tenho uma dúvida. Ali, por exemplo, no [LOCAL], que tem três sistemas, tipo, três linhas diferentes ali, né? TOTUS-Chefe, TOTUS...[PESSOA] de \n[LOCUTOR 8]: Aqui é uma linha só, aqui sim, nessa estrutura aqui tem que ser o chefe,\n[LOCUTOR 3]: tá? Tá, e aí nessas três, hipóteses ali de três atividades diferentes, vai cada uma trabalhar com a sua atividade e, no fim, ele consolida láGermano Haan de \n[LOCUTOR 8]: em\n[LOCUTOR 3]: cima, como ia varejo com o [EMPRESA], né, no total.[PESSOA] de \n[LOCUTOR 8]: Exatamente. Então, é que nem eu falei, olhando aqui no mais, dando um zoom, né? Então, o Proteus, essa estrutura que a gente tá compondo aqui, eu consigo ter a visão operacional na vertical, por unidade de negócio, por estabelecimento, por [EMPRESA], e na horizontal. Então, cada uma vai ter a sua identidade aqui com a sua operação, fazendo os seus fechamentos, usando o seu back-office, mas a visão consolidada vai ser consolidada depois aqui, numa visão consolidada. Então, a gente vai ter um depara, um consolidador, uma consolidação a nível gerencial contábil do grupo como um todo. Então, tanto individual na vertical como na horizontal. Essa ideia é configurável, a gente configura, faz toda... Aqui a gente sempre traz as melhores práticas, a gente sabe que cada unidade de negócio possui o seu plano de contas e seu plano de centro de custos independentes, Mas quando a gente trabalha no cenário de [EMPRESA] consolidador, a gente faz os planos de contas referenciais para fazer o depar e consolidar na [EMPRESA]. Ela vai absorver, vamos dizer que todos os planos de contas aqui fossem diferentes. Então a gente vai fazer o plano de contas referencial para receber o depar e eu chegar como consolidado. Eu ter essa visibilidade consolidada. E se eu quiser ver individual, consigo ver individual também. Então a gente faz essa estruturação a nível da contabilidade, a nível fiscal, porque pode ter regimes tributários diferentes dentro do grupo econômico, com obrigações fiscais diferentes. Então a gente preserva toda a estrutura fiscal e contábil de cada estabelecimento mais consolida aqui na Road ou no grupo, na empresa que a gente definiu que é a mantenedora, a consolidadora do grupo. Mais ou menos isso? Não sei se eu consegui responder.\n[LOCUTOR 3]: Então,[PESSOA] de \n[LOCUTOR 8]: o que a gente vai fazer? O que precisaria. A gente vai compartilhar, os guris ali, o [PESSOA] e o [PESSOA], eles vão compartilhar esse documento com [LOCAL], tá? O que que a gente gostaria que [LOCAL] nos ajudassem aqui a construir junto, tá? É os módulos aqui do back-office, né? Se a gente vai manter todos esses módulos... Não, nessa aqui na road, sim, preciso ter todo o back-office, compra, histórico e faturamento, mais a controladoria fiscal e o patrimônio, Aqui no ambiente, vai ter que trazer o ativo patrimonial também, vou consolidar o ativo patrimonial, daí a gente vai adicionar uma caixinha aqui do ativo, para poder subir o ativo patrimonial também lá do [EMPRESA]. Aqui quando entra na escola, provavelmente sim, compra, estoque, faturamento financeiro, uma operação da escola, ela faz essas operações junto com a controladoria dela, mas a parte do cordo do gestão educacional, ela faz tudo isso, e depois a gente consolida lá. Aqui no aeroporto, de repente vai ser só compra, estoque, faturamento. A controladoria, não. Precisa só que [LOCAL] podem riscar, fazer ali, riscar a caneta depois em cima, bater uma foto e nos mandar, porque ela vai ser a base da gente precificar o projeto, definir qual é o esforço de... da consultoria de implantação para a gente, do serviço de implantação, para a gente também ter a base de qual vai ser o cronograma de entrega desse projeto, se a gente vai fazer no modelo [LOCAL], vai ser para o roll-out, primeiro a gente vai fazer ambiente, depois a gente vai fazer, primeiro vamos fazer esse grupo econômico aqui, depois a gente vai partir para esse, a gente criar essa arquitetura do projeto, da entrega, do prazo, investimento, para a gente dar e apresentar para [LOCAL], e a gente partir para os próximos passos. Acho que mais seria isso. Aqui não, vamos manter hoje o seguinte, então essa opção cai fora, a gente vai manter essa aqui. É mais fazer esse xizinho ou esse [PESSOA] aqui dentro de cada caixinha, para a gente poder precificar, para a gente poder montar o escopo detalhado e a gente poder orçar, precificar, passar o plano de prazo de entrega, de valores e como é que vai ser essa nossa jornada. Mas seria isso. Mais alguma dúvida?\n[LOCUTOR 5]: Não, está ótimo. A dúvida que eu tinha era justamente o que tu comentaste agora depois da pergunta da Liciele, que era a questão de quais seriam os próximos passos. Porque eu não vejo nós fazendo isso como [LOCAL].[PESSOA] de \n[LOCUTOR 8]: [LOCUTOR 1]: operações estão em níveis de maturidade bastante diferentes. A operação aí, por exemplo, você pega da mineração, é uma operação embrionária. O aeroporto é uma realidade que vai acelerar muito agora nos próximos dias e assim por diante. A [LOCAL] já é uma operação consolidada. Então, sim, a gente tem que sinalizar para [LOCAL] o nosso melhor planejamento em termos de rollout para [LOCAL] entenderem o esforço aí.[PESSOA] de  Tá\n[LOCUTOR 5]: entendido.[PESSOA] de \n[LOCUTOR 8]: É, e bem tranquilo, a gente pode fazer essa jornada gradual, fazer roll-outs distintos, estruturas distintas. A gente precisa mais é ter o crivo de [LOCAL], o norte de [LOCAL], para a gente poder planejar. Tipo, mineradora e a resíduos fica para depois, faz um X ali. A gente pode fazer isso gradual, porque a gente sabe que são empresas diferentes, como você falaste, maturidades diferentes, times diferentes, Então é uma coisa que também tem que ter, a gente tem que dar velocidade em resultado e fazer gradual, sem sombra de dúvidas, é o ideal. A gente tem que ter o foco lá no resultado final de onde a gente quer chegar. Porque a road, na figura da road, ela quer consolidar e a gente sempre parte de como é que a road quer enxergar para a gente descer os níveis e estruturar as unidades. para a gente poder ter o resultado que a [EMPRESA] precisa do nível gerencial e corporativo do grupo.\n[LOCUTOR 5]: Ok. Muito bom.[PESSOA] de \n[LOCUTOR 8]: Tá bom. Então, [PESSOA], [LOCAL] têm essa última versão, né? Então, [LOCAL] podem compartilhar com eles. Daí, a gente pode... Fiquem à vontade, podem marcar, pontuar ali tudo, devolvam. Daí, em cima do que [LOCAL] devolviam, eu vou criar uma versão nova do processo de validação final e daí, sobre isso, a gente vai orçar.\n[LOCUTOR 4]: Vou estar mandando ainda hoje pra ti, tá, [LOCAL]? Tá\n[LOCUTOR 5]: bem.\n[LOCUTOR 4]: E, tendo qualquer dúvida, não hesite em nos chamar. Eu até vou passar o próprio número do [PESSOA], qualquer coisa, né, do [PESSOA] também, pra você ter todos nós aqui.[PESSOA] de \n[LOCUTOR 8]: Pode me chamar no Whats, tá, [LOCAL]?\n[LOCUTOR 4]: Bem tranquilo. BemGermano Haan de \n[LOCUTOR 8]: tranquilo, a [EMPRESA] também fica à vontade, tá?\n[LOCUTOR 4]: Eu já compartilho contigo os contatos e a gente vai conversando aí pra tentar tirar todas as dúvidas possíveis aí.[PESSOA] de \n[LOCUTOR 8]: dúvida, a gente cria um grupo nosso do [EMPRESA] momentâneo, temporário, para a gente tirar as dúvidas e depois vamos seguindo.\n[LOCUTOR 4]: [LOCAL], pode ser.\n[LOCUTOR 5]: Pelo que eu vi, está bastante claro, o entendimento está claro, a\n[LOCUTOR 4]: estrutura\n[LOCUTOR 5]: das empresas e dos processos, quais que engajariam agora e, de novo, se a gente tiver alguma dificuldade, eu entro em contato ali, eu [PESSOA] \n[LOCUTOR 8]: o [PESSOA].\n[LOCUTOR 5]: Combinado.\n[LOCUTOR 4]: Beleza. Muito\n[LOCUTOR 5]: obrigado,\n[LOCUTOR 4]: [PESSOA], obrigado, [PESSOA], obrigado, [PESSOA], obrigado, [PESSOA].[PESSOA] de \n[LOCUTOR 8]: Obrigado,\n[LOCUTOR 3]: obrigado,\n[LOCUTOR 9]: obrigadoGermano Haan de \n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 9]: BoaGermano Haan de \n[LOCUTOR 8]: semana, bons negócios e vamos falando.\n[LOCUTOR 5]: Valeu, obrigado. Tchau,\n[LOCUTOR 9]: tchau.",
+  "texto_filtrado": "[LOCUTOR 4]: Consegue permitir tu lá todos?[PESSOA] de\n[LOCUTOR 5]: [LOCAL], leve, mas chovendo.\n[LOCUTOR 4]: peguei uma chuva de... olha lá, de [PESSOA], mais ou menos, até aqui em [LOCAL]. Um trecho aqui não tinha, mas não se enxergava cinco metros na frente. Todo mundo com alerta ligado, alerta ligado e não tinha como andar. Eu pensei, vou chegar atrasado para terminar o... Bom,\n[LOCUTOR 4]: então. Primeiro, estou apresentando, não tinha apresentado ainda [LOCAL], o [PESSOA] e o [PESSOA]. O [PESSOA] já é um conhecido da [EMPRESA] e também da [LOCAL], né? Trabalhava numa outra empresa antes. O [PESSOA] está junto com o [PESSOA] na parte de engenharia de valor. Então, os dois estão trabalhando junto da parte do projeto e toda a questão de análise e projeto como um todo. Os dois trabalham em parceria. E do outro lado, o [PESSOA], a gente vai trabalhar na parte comercial também juntos. Eu já tinha comentado com [LOCAL], também em função do conhecimento do próprio [PESSOA]. E o [PESSOA] também reside em [LOCAL]. Não é argentinense, mas mora em [LOCAL] há muitos anos. Beleza,\n[LOCUTOR 9]: pessoal. Prazer em conhecer. Prazer em conhecê-los, meus pais moram aí na região, eu vou com muita frequência em [LOCAL], eles moram aí bem próximo, 40 quilômetros de [LOCAL], moram em [LOCAL], então passo aí com frequência todo mês em [LOCAL].\n[LOCUTOR 4]: Bom,[PESSOA] de\n[LOCUTOR 4]: ideia então, o [PESSOA] já está se apresentando logo, o [PESSOA] vai fazer a apresentação do projeto como um todo, e a ideia nossa é é mostrar aquilo que a gente levantou na conversa aquele dia e um bate-papo, tá? Então assim, o [PESSOA] conhece muito desse sistema, muito de TOTOS e também muito de projetos. Ele ajudou a implantar há muitos anos, trabalhou também na área comercial, então ele tem 20 anos aí da história da TOTOS e conhece os produtos de ponta a ponta. [PESSOA], quer ir assumindo aí?[PESSOA] de\n[LOCUTOR 4]: nãoGermano Haan de\n[LOCUTOR 4]: EuGermano Haan de\n[LOCUTOR 8]: vou compartilhar, então, [PESSOA], aqui. Então, qual que é o objetivo hoje? Então, o meu colega, o [PESSOA], ele esteve aí com [LOCAL], ele fez o entendimento de toda da necessidade do ecossistema da [EMPRESA], do que está envolvido com as unidades, as empresas, os segmentos que cada empresa atua, para a gente fazer a arquitetura do projeto. Então, aqui é uma sugestão que a gente montou, que a gente quer validar, vai compartilhar com [LOCAL], para [LOCAL] fazerem as análises e a gente... O intuito final é a gente fechar o escopo. fechar o escopo, definir quais são as unidades que a gente vai contemplar no projeto TOTOS, para a gente poder iniciar essa jornada de consolidação da operação toda com solução TOTOS, e até que nível a gente vai desse controle. Então, eu criei aqui um organograma baseado na estrutura organizacional do grupo, E aqui eu mencionei qual produto TOTUS vai atender o core de cada unidade, o core de cada segmento, sempre com a visão de consolidação do grupo, tanto no nível horizontal como no vertical. Eu queria fazer uma análise unidade a unidade vou conseguir, E se eu quiser ter visões consolidadas entre grupos econômicos ou até mesmo grupo global, a gente vai consolidar. Eu criei aqui um organograma, então eu parto aqui, eu vou validar, então é baseado nos levantamentos que o [PESSOA], meu colega, fez. Então a gente colocou aqui, tá? Então tem a [EMPRESA] [EMPRESA] SA, que ela vai utilizar o [PESSOA]. Ela vai ter como back-office administrativo e consolidador o [PESSOA] como back-office. O que é o back-office? É compras, estoque financeiro, faturamento, obrigações fiscais, a contabilidade fiscal e gerencial e ativo patrimonial. Mesmo na figura de holding, ela tem o seu back-office. e as suas operações. Abaixo dela, a gente vai entrar, dar um zoom aqui. Então, a gente tem a [LOCAL], que hoje ela usa o [EMPRESA], mas, contrapartida, a [EMPRESA] [EMPRESA] consolida a operação da [LOCAL]. Então, qual é a ideia? Manter o [EMPRESA] lá e a gente vai consolidar o fechamento contábil da [EMPRESA] com aqui, a contabilidade dentro da HODE para a [LOCAL]. Então, dentro da HODE vai ter todas as suas empresas abaixo dela, do grupo econômico. Então, a gente vai fazer isso quando a gente fala de [LOCAL]. Quando a gente fala da escola, ela vai ter o back-office para o [LOCAL], compras, estoque, faturamento, mesmo o back-office da [PESSOA], mais o RM que hoje ela já tem lá, que é o RM na gestão educacional. Então, o RM, o [EMPRESA], já é integrado nativamente com a retaguarda do Proteus. Essa integração, por serem produtos dos fotos, ela já é nativa, ela já existe. Então, a gente vai colocar o back-office do Proteus e vai plugar o educacional refletindo no back-office do Proteus. Fechando aqui a escola, consolidando na road. Então, eu vou ter tanta visão aqui na vertical como na horizontal. Quando a gente fala aqui do aeroporto [LOCAL] e [LOCAL], também mesma coisa, vai ter becofice, proteus, e vai ter o [EMPRESA] para tratamento do tosse, construção e gestão, a parte de contatos de aluguel e os condomínios. Então o [EMPRESA] atende esse core, esse segmento. Então ele tem lá os módulos desse core que vão ser integrados com a retaguarda de cada a back-office de cada aeroporto e, consequentemente, consolidar na road. A fazenda, a gente vai trazer aqui os [EMPRESA], todos que estão envolvidos ali nas fazendas, se vai ser um, dois ou três [EMPRESA] ali, vai ter o back-office para [PESSOA]. O nível do back-office, porque a gente sabe que o produtor rural tem obrigações pertinentes ao produtor rural, livro-caixa do produtor rural, que estão dentro do financeiro e tudo mais, isso tudo atendido pelo back-office do Proteus. Daí aqui o fiscal, contabilidade e ativo patrimonial dos [EMPRESA], a gente daí vai precisar validar, se vai ser preciso, vai precisar só do compro-histórico-fatoramento financeiro e o fiscal. Contabilidade e patrimônio a gente pode validar. Então essa estrutura da [EMPRESA], ela vai ter a [EMPRESA], que é a [EMPRESA], e todo o grupo econômico abaixo dela. Cada um com a sua operação individual consolidando na [EMPRESA]. Mesma coisa quando a gente vai dessa equipe horizontal para os outros negócios. Todos esses negócios vou consolidar na [EMPRESA], aqui na [EMPRESA], todas elas vão consolidar aqui. Só que a gente sabe que são CNPJs raízes independentes, mas eu consolido Então aqui a gente tem, quando a gente fala de... Deixa eu vir aqui. Quando a gente fala da... 108 e as SPs 1 até 6, a gente tem ali dois cenários. Hoje se usa o [EMPRESA] na operação. Então aqui eu tenho dois pontos de decisão. Se a gente substituir o [EMPRESA], todo esse grupo aqui ele pode rodar no RM. 100% no RM e 100% consolidar na road, a consolidação porque já tem integração. Vamos manter o seguinte, obrigatoriamente vai ter que ter o Proteus com o back-office, que é aquele mesmo back-office, mais o RM para fazer a gestão da obra, a gestão de venda de imóveis e o portal de venda de imóveis, que é o que o core do RM também atende. A gente tem aqui duas situações, um ponto de decisão. substituir [EMPRESA], toda a estrutura fica dentro do RM, mantendo o [EMPRESA], a gente vai substituir o [LOCAL] pelo [LOCAL] e lá na parte do CORE o RM. E daí a parte da gestão da obra, toda aquela parte que hoje se roda na construtora, na parte do [EMPRESA], mantendo o [EMPRESA]. Depois a gente vem para essa outra estrutura aqui, que é a parte da [EMPRESA] mineradora, então aqui é 100% proteus, desde o becoffice a contabilidade, eu botei aqui como controle da produção como um segundo momento, está de vermelho de propósito, porque hoje não tem a manufatura nessa operação, mas futuramente pode ter. Então o Proteus já tem também a manufatura, é só uma questão de implantar o módulo quando necessário for. O foco é back-office, contaladoria, contabilidade para consolidar na road e o [EMPRESA] entrar no momento que a empresa definir. A outra que é receber resíduos, também 100% Proteus e o [EMPRESA] entrando quando necessário for, tudo isso também consolidando lá na road. Depois a gente vem para [EMPRESA]. A [EMPRESA] a gente tem aqui, então, também o Back Office Proteus, o Back Office Centralizador, e aqui dentro do grupo econômico, aqui a gente tem os estacionamentos que vão usar Back Office Proteus. A papelaria vai entrar também Back Office Proteus com a parte de varejo do Proteus, que é a venda [LOCAL], é o... é o PDV, é a parte de nota fiscal consumidora eletrônica, é fazer abertura e fechamento de caixa. fazer toda a parte de um varejo. É um módulo que o Proteus tem dentro do back-office que atende o varejo mesmo, a papelaria, vestuário, linha branca, linha marrom, ele atende todos os segmentos do varejo, toda a parte de loja que ele atende junto com o back-office. E a parte da restaurante aqui, a [LOCAL] tem uma solução especialista para a parte de food, que a gente chama aqui. [PESSOA] atende o segmento de food, que é restaurantes, cafeterias, toda essa parte que ele tem todo um back office independente dele, compra, estoque, financeiro, faturamento, a parte fiscal, a parte de caixa, comanda, a gestão da cozinha, a ficha técnica dos pratos para fazer consumo e atualização do estoque. Ele já tem toda essa expertise dentro dele. E essa expertise já tem integração também com o back office aqui do [EMPRESA], do Proteus. Então, ele já fecha lá e tanto traz as vendas, ele traz toda a movimentação de estoque, ele tem todo o sincronismo de cadastro de produto, a parte de clientes, a parte de fechamento de caixa, toda essa parte com a retaguarda do Proteus. Então, aqui na parte do restaurante entraria a nossa situação vertical, especialista para o segmento do food, que é restaurante, cafeteria, lanchonetes, tudo que está ali dentro, que uma operação de restaurante e cozinha exige. Então, essa seria a estrutura macro-global, falando de produtos totes, qual produto vai fazer toda a gestão da retaguarda, qual que é a solução que vai entrar na ponta e qual que vai ser a consolidação. Então, se todas essas unidades aqui, mais essas, vão ser consolidadas aqui na [EMPRESA], tranquilo, todos elas, esse grupo econômico a gente configura, E se depois eu quiser criar um nível ainda acima da road aqui, com uma road consolidadora geral, eu também consigo configurar. Isso é parametrização do sistema. Então, eu queria primeiro perguntar se ficou visual o entendimento, se o que eu montei na estrutura está de acordo com o grupo econômico. E se a nossa sugestão, que faz sentido para a gente poder seguir uma orçamentação, qual seria a ideia? entender todo esse ecossistema, definir a que nível vamos descer para a gente poder compor um projeto, precificar, estimar os investimentos necessários para a gente compor o projeto como um todo.\n[LOCUTOR 3]: Eu tenho uma dúvida. Ali, por exemplo, no [LOCAL], que tem três sistemas, tipo, três linhas diferentes ali, né? TOTUS-Chefe, TOTUS...[PESSOA] de\n[LOCUTOR 8]: Aqui é uma linha só, aqui sim, nessa estrutura aqui tem que ser o chefe,\n[LOCUTOR 3]: tá? Tá, e aí nessas três, hipóteses ali de três atividades diferentes, vai cada uma trabalhar com a sua atividade e, no fim, ele consolida láGermano Haan de\n[LOCUTOR 3]: cima, como ia varejo com o [EMPRESA], né, no total.[PESSOA] de\n[LOCUTOR 8]: Exatamente. Então, é que nem eu falei, olhando aqui no mais, dando um zoom, né? Então, o Proteus, essa estrutura que a gente tá compondo aqui, eu consigo ter a visão operacional na vertical, por unidade de negócio, por estabelecimento, por [EMPRESA], e na horizontal. Então, cada uma vai ter a sua identidade aqui com a sua operação, fazendo os seus fechamentos, usando o seu back-office, mas a visão consolidada vai ser consolidada depois aqui, numa visão consolidada. Então, a gente vai ter um depara, um consolidador, uma consolidação a nível gerencial contábil do grupo como um todo. Então, tanto individual na vertical como na horizontal. Essa ideia é configurável, a gente configura, faz toda... Aqui a gente sempre traz as melhores práticas, a gente sabe que cada unidade de negócio possui o seu plano de contas e seu plano de centro de custos independentes, Mas quando a gente trabalha no cenário de [EMPRESA] consolidador, a gente faz os planos de contas referenciais para fazer o depar e consolidar na [EMPRESA]. Ela vai absorver, vamos dizer que todos os planos de contas aqui fossem diferentes. Então a gente vai fazer o plano de contas referencial para receber o depar e eu chegar como consolidado. Eu ter essa visibilidade consolidada. E se eu quiser ver individual, consigo ver individual também. Então a gente faz essa estruturação a nível da contabilidade, a nível fiscal, porque pode ter regimes tributários diferentes dentro do grupo econômico, com obrigações fiscais diferentes. Então a gente preserva toda a estrutura fiscal e contábil de cada estabelecimento mais consolida aqui na Road ou no grupo, na empresa que a gente definiu que é a mantenedora, a consolidadora do grupo. Mais ou menos isso? Não sei se eu consegui responder.\n[LOCUTOR 3]: Então,[PESSOA] de\n[LOCUTOR 8]: o que a gente vai fazer? O que precisaria. A gente vai compartilhar, os guris ali, o [PESSOA] e o [PESSOA], eles vão compartilhar esse documento com [LOCAL], tá? O que que a gente gostaria que [LOCAL] nos ajudassem aqui a construir junto, tá? É os módulos aqui do back-office, né? Se a gente vai manter todos esses módulos... Não, nessa aqui na road, sim, preciso ter todo o back-office, compra, histórico e faturamento, mais a controladoria fiscal e o patrimônio, Aqui no ambiente, vai ter que trazer o ativo patrimonial também, vou consolidar o ativo patrimonial, daí a gente vai adicionar uma caixinha aqui do ativo, para poder subir o ativo patrimonial também lá do [EMPRESA]. Aqui quando entra na escola, provavelmente sim, compra, estoque, faturamento financeiro, uma operação da escola, ela faz essas operações junto com a controladoria dela, mas a parte do cordo do gestão educacional, ela faz tudo isso, e depois a gente consolida lá. Aqui no aeroporto, de repente vai ser só compra, estoque, faturamento. A controladoria, não. Precisa só que [LOCAL] podem riscar, fazer ali, riscar a caneta depois em cima, bater uma foto e nos mandar, porque ela vai ser a base da gente precificar o projeto, definir qual é o esforço de... da consultoria de implantação para a gente, do serviço de implantação, para a gente também ter a base de qual vai ser o cronograma de entrega desse projeto, se a gente vai fazer no modelo [LOCAL], vai ser para o roll-out, primeiro a gente vai fazer ambiente, depois a gente vai fazer, primeiro vamos fazer esse grupo econômico aqui, depois a gente vai partir para esse, a gente criar essa arquitetura do projeto, da entrega, do prazo, investimento, para a gente dar e apresentar para [LOCAL], e a gente partir para os próximos passos. Acho que mais seria isso. Aqui não, vamos manter hoje o seguinte, então essa opção cai fora, a gente vai manter essa aqui. É mais fazer esse xizinho ou esse [PESSOA] aqui dentro de cada caixinha, para a gente poder precificar, para a gente poder montar o escopo detalhado e a gente poder orçar, precificar, passar o plano de prazo de entrega, de valores e como é que vai ser essa nossa jornada. Mas seria isso. Mais alguma dúvida?\n[LOCUTOR 5]: Não, está ótimo. A dúvida que eu tinha era justamente o que tu comentaste agora depois da pergunta da Liciele, que era a questão de quais seriam os próximos passos. Porque eu não vejo nós fazendo isso como [LOCAL].[PESSOA] de\n[LOCUTOR 8]: [LOCUTOR 1]: operações estão em níveis de maturidade bastante diferentes. A operação aí, por exemplo, você pega da mineração, é uma operação embrionária. O aeroporto é uma realidade que vai acelerar muito agora nos próximos dias e assim por diante. A [LOCAL] já é uma operação consolidada. Então, sim, a gente tem que sinalizar para [LOCAL] o nosso melhor planejamento em termos de rollout para [LOCAL] entenderem o esforço aí.[PESSOA] de  Tá\n[LOCUTOR 5]: entendido.[PESSOA] de\n[LOCUTOR 8]: É, e bem tranquilo, a gente pode fazer essa jornada gradual, fazer roll-outs distintos, estruturas distintas. A gente precisa mais é ter o crivo de [LOCAL], o norte de [LOCAL], para a gente poder planejar. Tipo, mineradora e a resíduos fica para depois, faz um X ali. A gente pode fazer isso gradual, porque a gente sabe que são empresas diferentes, como você falaste, maturidades diferentes, times diferentes, Então é uma coisa que também tem que ter, a gente tem que dar velocidade em resultado e fazer gradual, sem sombra de dúvidas, é o ideal. A gente tem que ter o foco lá no resultado final de onde a gente quer chegar. Porque a road, na figura da road, ela quer consolidar e a gente sempre parte de como é que a road quer enxergar para a gente descer os níveis e estruturar as unidades. para a gente poder ter o resultado que a [EMPRESA] precisa do nível gerencial e corporativo do grupo.\n[LOCUTOR 5]: Ok. Muito bom.[PESSOA] de\n[LOCUTOR 8]: Tá bom. Então, [PESSOA], [LOCAL] têm essa última versão, né? Então, [LOCAL] podem compartilhar com eles. Daí, a gente pode... Fiquem à vontade, podem marcar, pontuar ali tudo, devolvam. Daí, em cima do que [LOCAL] devolviam, eu vou criar uma versão nova do processo de validação final e daí, sobre isso, a gente vai orçar.\n[LOCUTOR 4]: E, tendo qualquer dúvida, não hesite em nos chamar. Eu até vou passar o próprio número do [PESSOA], qualquer coisa, né, do [PESSOA] também, pra você ter todos nós aqui.[PESSOA] de\n[LOCUTOR 8]: Pode me chamar no Whats, tá, [LOCAL]?\n[LOCUTOR 4]: Bem tranquilo. BemGermano Haan de\n[LOCUTOR 8]: tranquilo, a [EMPRESA] também fica à vontade, tá?\n[LOCUTOR 4]: Eu já compartilho contigo os contatos e a gente vai conversando aí pra tentar tirar todas as dúvidas possíveis aí.[PESSOA] de\n[LOCUTOR 8]: dúvida, a gente cria um grupo nosso do [EMPRESA] momentâneo, temporário, para a gente tirar as dúvidas e depois vamos seguindo.\n[LOCUTOR 4]: [LOCAL], pode ser.\n[LOCUTOR 4]: estrutura\n[LOCUTOR 5]: das empresas e dos processos, quais que engajariam agora e, de novo, se a gente tiver alguma dificuldade, eu entro em contato ali, eu [PESSOA]\n[LOCUTOR 8]: o [PESSOA].\n[LOCUTOR 5]: Combinado.\n[LOCUTOR 9]: obrigadoGermano Haan de\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 9]: BoaGermano Haan de\n[LOCUTOR 8]: semana, bons negócios e vamos falando.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:13.700752+00:00",
+    "total_linhas": 60,
+    "linhas_mantidas": 38,
+    "linhas_removidas": 22,
+    "percentual_mantido": 63.33,
+    "confianca_media": 0.4739
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 4]: Consegue permitir tu lá todos?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá, já dividido. Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tarde, [PESSOA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4138,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCUTOR 2]: tarde, senhores, tudo bem? Boa tarde,[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4246,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]. Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: tranquilo. Mais alguém, não? Tu convidou mais alguém, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3907,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sim, eu convidei a [LOCAL], deve estar conectando aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Vai chovendo aí em [LOCAL] ou não?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4471,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCAL], leve, mas chovendo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: peguei uma chuva de... olha lá, de [PESSOA], mais ou menos, até aqui em [LOCAL]. Um trecho aqui não tinha, mas não se enxergava cinco metros na frente. Todo mundo com alerta ligado, alerta ligado e não tinha como andar. Eu pensei, vou chegar atrasado para terminar o... Bom,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: o [PESSOA] conectou aí. [PESSOA] está sem câmera, eu acho, então. Vamos. Vai lá. [LOCAL],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4192,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: então. Primeiro, estou apresentando, não tinha apresentado ainda [LOCAL], o [PESSOA] e o [PESSOA]. O [PESSOA] já é um conhecido da [EMPRESA] e também da [LOCAL], né? Trabalhava numa outra empresa antes. O [PESSOA] está junto com o [PESSOA] na parte de engenharia de valor. Então, os dois estão trabalhando junto da parte do projeto e toda a questão de análise e projeto como um todo. Os dois trabalham em parceria. E do outro lado, o [PESSOA], a gente vai trabalhar na parte comercial também juntos. Eu já tinha comentado com [LOCAL], também em função do conhecimento do próprio [PESSOA]. E o [PESSOA] também reside em [LOCAL]. Não é argentinense, mas mora em [LOCAL] há muitos anos. Beleza,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: pessoal. Prazer em conhecer. Prazer em conhecê-los, meus pais moram aí na região, eu vou com muita frequência em [LOCAL], eles moram aí bem próximo, 40 quilômetros de [LOCAL], moram em [LOCAL], então passo aí com frequência todo mês em [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5119,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Bom,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: ideia então, o [PESSOA] já está se apresentando logo, o [PESSOA] vai fazer a apresentação do projeto como um todo, e a ideia nossa é é mostrar aquilo que a gente levantou na conversa aquele dia e um bate-papo, tá? Então assim, o [PESSOA] conhece muito desse sistema, muito de TOTOS e também muito de projetos. Ele ajudou a implantar há muitos anos, trabalhou também na área comercial, então ele tem 20 anos aí da história da TOTOS e conhece os produtos de ponta a ponta. [PESSOA], quer ir assumindo aí?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: nãoGermano Haan de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: preciso me apresentar, tu já me apresentou.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: EuGermano Haan de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: vou compartilhar, então, [PESSOA], aqui. Então, qual que é o objetivo hoje? Então, o meu colega, o [PESSOA], ele esteve aí com [LOCAL], ele fez o entendimento de toda da necessidade do ecossistema da [EMPRESA], do que está envolvido com as unidades, as empresas, os segmentos que cada empresa atua, para a gente fazer a arquitetura do projeto. Então, aqui é uma sugestão que a gente montou, que a gente quer validar, vai compartilhar com [LOCAL], para [LOCAL] fazerem as análises e a gente... O intuito final é a gente fechar o escopo. fechar o escopo, definir quais são as unidades que a gente vai contemplar no projeto TOTOS, para a gente poder iniciar essa jornada de consolidação da operação toda com solução TOTOS, e até que nível a gente vai desse controle. Então, eu criei aqui um organograma baseado na estrutura organizacional do grupo, E aqui eu mencionei qual produto TOTUS vai atender o core de cada unidade, o core de cada segmento, sempre com a visão de consolidação do grupo, tanto no nível horizontal como no vertical. Eu queria fazer uma análise unidade a unidade vou conseguir, E se eu quiser ter visões consolidadas entre grupos econômicos ou até mesmo grupo global, a gente vai consolidar. Eu criei aqui um organograma, então eu parto aqui, eu vou validar, então é baseado nos levantamentos que o [PESSOA], meu colega, fez. Então a gente colocou aqui, tá? Então tem a [EMPRESA] [EMPRESA] SA, que ela vai utilizar o [PESSOA]. Ela vai ter como back-office administrativo e consolidador o [PESSOA] como back-office. O que é o back-office? É compras, estoque financeiro, faturamento, obrigações fiscais, a contabilidade fiscal e gerencial e ativo patrimonial. Mesmo na figura de holding, ela tem o seu back-office. e as suas operações. Abaixo dela, a gente vai entrar, dar um zoom aqui. Então, a gente tem a [LOCAL], que hoje ela usa o [EMPRESA], mas, contrapartida, a [EMPRESA] [EMPRESA] consolida a operação da [LOCAL]. Então, qual é a ideia? Manter o [EMPRESA] lá e a gente vai consolidar o fechamento contábil da [EMPRESA] com aqui, a contabilidade dentro da HODE para a [LOCAL]. Então, dentro da HODE vai ter todas as suas empresas abaixo dela, do grupo econômico. Então, a gente vai fazer isso quando a gente fala de [LOCAL]. Quando a gente fala da escola, ela vai ter o back-office para o [LOCAL], compras, estoque, faturamento, mesmo o back-office da [PESSOA], mais o RM que hoje ela já tem lá, que é o RM na gestão educacional. Então, o RM, o [EMPRESA], já é integrado nativamente com a retaguarda do Proteus. Essa integração, por serem produtos dos fotos, ela já é nativa, ela já existe. Então, a gente vai colocar o back-office do Proteus e vai plugar o educacional refletindo no back-office do Proteus. Fechando aqui a escola, consolidando na road. Então, eu vou ter tanta visão aqui na vertical como na horizontal. Quando a gente fala aqui do aeroporto [LOCAL] e [LOCAL], também mesma coisa, vai ter becofice, proteus, e vai ter o [EMPRESA] para tratamento do tosse, construção e gestão, a parte de contatos de aluguel e os condomínios. Então o [EMPRESA] atende esse core, esse segmento. Então ele tem lá os módulos desse core que vão ser integrados com a retaguarda de cada a back-office de cada aeroporto e, consequentemente, consolidar na road. A fazenda, a gente vai trazer aqui os [EMPRESA], todos que estão envolvidos ali nas fazendas, se vai ser um, dois ou três [EMPRESA] ali, vai ter o back-office para [PESSOA]. O nível do back-office, porque a gente sabe que o produtor rural tem obrigações pertinentes ao produtor rural, livro-caixa do produtor rural, que estão dentro do financeiro e tudo mais, isso tudo atendido pelo back-office do Proteus. Daí aqui o fiscal, contabilidade e ativo patrimonial dos [EMPRESA], a gente daí vai precisar validar, se vai ser preciso, vai precisar só do compro-histórico-fatoramento financeiro e o fiscal. Contabilidade e patrimônio a gente pode validar. Então essa estrutura da [EMPRESA], ela vai ter a [EMPRESA], que é a [EMPRESA], e todo o grupo econômico abaixo dela. Cada um com a sua operação individual consolidando na [EMPRESA]. Mesma coisa quando a gente vai dessa equipe horizontal para os outros negócios. Todos esses negócios vou consolidar na [EMPRESA], aqui na [EMPRESA], todas elas vão consolidar aqui. Só que a gente sabe que são CNPJs raízes independentes, mas eu consolido Então aqui a gente tem, quando a gente fala de... Deixa eu vir aqui. Quando a gente fala da... 108 e as SPs 1 até 6, a gente tem ali dois cenários. Hoje se usa o [EMPRESA] na operação. Então aqui eu tenho dois pontos de decisão. Se a gente substituir o [EMPRESA], todo esse grupo aqui ele pode rodar no RM. 100% no RM e 100% consolidar na road, a consolidação porque já tem integração. Vamos manter o seguinte, obrigatoriamente vai ter que ter o Proteus com o back-office, que é aquele mesmo back-office, mais o RM para fazer a gestão da obra, a gestão de venda de imóveis e o portal de venda de imóveis, que é o que o core do RM também atende. A gente tem aqui duas situações, um ponto de decisão. substituir [EMPRESA], toda a estrutura fica dentro do RM, mantendo o [EMPRESA], a gente vai substituir o [LOCAL] pelo [LOCAL] e lá na parte do CORE o RM. E daí a parte da gestão da obra, toda aquela parte que hoje se roda na construtora, na parte do [EMPRESA], mantendo o [EMPRESA]. Depois a gente vem para essa outra estrutura aqui, que é a parte da [EMPRESA] mineradora, então aqui é 100% proteus, desde o becoffice a contabilidade, eu botei aqui como controle da produção como um segundo momento, está de vermelho de propósito, porque hoje não tem a manufatura nessa operação, mas futuramente pode ter. Então o Proteus já tem também a manufatura, é só uma questão de implantar o módulo quando necessário for. O foco é back-office, contaladoria, contabilidade para consolidar na road e o [EMPRESA] entrar no momento que a empresa definir. A outra que é receber resíduos, também 100% Proteus e o [EMPRESA] entrando quando necessário for, tudo isso também consolidando lá na road. Depois a gente vem para [EMPRESA]. A [EMPRESA] a gente tem aqui, então, também o Back Office Proteus, o Back Office Centralizador, e aqui dentro do grupo econômico, aqui a gente tem os estacionamentos que vão usar Back Office Proteus. A papelaria vai entrar também Back Office Proteus com a parte de varejo do Proteus, que é a venda [LOCAL], é o... é o PDV, é a parte de nota fiscal consumidora eletrônica, é fazer abertura e fechamento de caixa. fazer toda a parte de um varejo. É um módulo que o Proteus tem dentro do back-office que atende o varejo mesmo, a papelaria, vestuário, linha branca, linha marrom, ele atende todos os segmentos do varejo, toda a parte de loja que ele atende junto com o back-office. E a parte da restaurante aqui, a [LOCAL] tem uma solução especialista para a parte de food, que a gente chama aqui. [PESSOA] atende o segmento de food, que é restaurantes, cafeterias, toda essa parte que ele tem todo um back office independente dele, compra, estoque, financeiro, faturamento, a parte fiscal, a parte de caixa, comanda, a gestão da cozinha, a ficha técnica dos pratos para fazer consumo e atualização do estoque. Ele já tem toda essa expertise dentro dele. E essa expertise já tem integração também com o back office aqui do [EMPRESA], do Proteus. Então, ele já fecha lá e tanto traz as vendas, ele traz toda a movimentação de estoque, ele tem todo o sincronismo de cadastro de produto, a parte de clientes, a parte de fechamento de caixa, toda essa parte com a retaguarda do Proteus. Então, aqui na parte do restaurante entraria a nossa situação vertical, especialista para o segmento do food, que é restaurante, cafeteria, lanchonetes, tudo que está ali dentro, que uma operação de restaurante e cozinha exige. Então, essa seria a estrutura macro-global, falando de produtos totes, qual produto vai fazer toda a gestão da retaguarda, qual que é a solução que vai entrar na ponta e qual que vai ser a consolidação. Então, se todas essas unidades aqui, mais essas, vão ser consolidadas aqui na [EMPRESA], tranquilo, todos elas, esse grupo econômico a gente configura, E se depois eu quiser criar um nível ainda acima da road aqui, com uma road consolidadora geral, eu também consigo configurar. Isso é parametrização do sistema. Então, eu queria primeiro perguntar se ficou visual o entendimento, se o que eu montei na estrutura está de acordo com o grupo econômico. E se a nossa sugestão, que faz sentido para a gente poder seguir uma orçamentação, qual seria a ideia? entender todo esse ecossistema, definir a que nível vamos descer para a gente poder compor um projeto, precificar, estimar os investimentos necessários para a gente compor o projeto como um todo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Eu tenho uma dúvida. Ali, por exemplo, no [LOCAL], que tem três sistemas, tipo, três linhas diferentes ali, né? TOTUS-Chefe, TOTUS...[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5462,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Aqui é uma linha só, aqui sim, nessa estrutura aqui tem que ser o chefe,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4722,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tá? Tá, e aí nessas três, hipóteses ali de três atividades diferentes, vai cada uma trabalhar com a sua atividade e, no fim, ele consolida láGermano Haan de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: em",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: cima, como ia varejo com o [EMPRESA], né, no total.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5523,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Exatamente. Então, é que nem eu falei, olhando aqui no mais, dando um zoom, né? Então, o Proteus, essa estrutura que a gente tá compondo aqui, eu consigo ter a visão operacional na vertical, por unidade de negócio, por estabelecimento, por [EMPRESA], e na horizontal. Então, cada uma vai ter a sua identidade aqui com a sua operação, fazendo os seus fechamentos, usando o seu back-office, mas a visão consolidada vai ser consolidada depois aqui, numa visão consolidada. Então, a gente vai ter um depara, um consolidador, uma consolidação a nível gerencial contábil do grupo como um todo. Então, tanto individual na vertical como na horizontal. Essa ideia é configurável, a gente configura, faz toda... Aqui a gente sempre traz as melhores práticas, a gente sabe que cada unidade de negócio possui o seu plano de contas e seu plano de centro de custos independentes, Mas quando a gente trabalha no cenário de [EMPRESA] consolidador, a gente faz os planos de contas referenciais para fazer o depar e consolidar na [EMPRESA]. Ela vai absorver, vamos dizer que todos os planos de contas aqui fossem diferentes. Então a gente vai fazer o plano de contas referencial para receber o depar e eu chegar como consolidado. Eu ter essa visibilidade consolidada. E se eu quiser ver individual, consigo ver individual também. Então a gente faz essa estruturação a nível da contabilidade, a nível fiscal, porque pode ter regimes tributários diferentes dentro do grupo econômico, com obrigações fiscais diferentes. Então a gente preserva toda a estrutura fiscal e contábil de cada estabelecimento mais consolida aqui na Road ou no grupo, na empresa que a gente definiu que é a mantenedora, a consolidadora do grupo. Mais ou menos isso? Não sei se eu consegui responder.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: o que a gente vai fazer? O que precisaria. A gente vai compartilhar, os guris ali, o [PESSOA] e o [PESSOA], eles vão compartilhar esse documento com [LOCAL], tá? O que que a gente gostaria que [LOCAL] nos ajudassem aqui a construir junto, tá? É os módulos aqui do back-office, né? Se a gente vai manter todos esses módulos... Não, nessa aqui na road, sim, preciso ter todo o back-office, compra, histórico e faturamento, mais a controladoria fiscal e o patrimônio, Aqui no ambiente, vai ter que trazer o ativo patrimonial também, vou consolidar o ativo patrimonial, daí a gente vai adicionar uma caixinha aqui do ativo, para poder subir o ativo patrimonial também lá do [EMPRESA]. Aqui quando entra na escola, provavelmente sim, compra, estoque, faturamento financeiro, uma operação da escola, ela faz essas operações junto com a controladoria dela, mas a parte do cordo do gestão educacional, ela faz tudo isso, e depois a gente consolida lá. Aqui no aeroporto, de repente vai ser só compra, estoque, faturamento. A controladoria, não. Precisa só que [LOCAL] podem riscar, fazer ali, riscar a caneta depois em cima, bater uma foto e nos mandar, porque ela vai ser a base da gente precificar o projeto, definir qual é o esforço de... da consultoria de implantação para a gente, do serviço de implantação, para a gente também ter a base de qual vai ser o cronograma de entrega desse projeto, se a gente vai fazer no modelo [LOCAL], vai ser para o roll-out, primeiro a gente vai fazer ambiente, depois a gente vai fazer, primeiro vamos fazer esse grupo econômico aqui, depois a gente vai partir para esse, a gente criar essa arquitetura do projeto, da entrega, do prazo, investimento, para a gente dar e apresentar para [LOCAL], e a gente partir para os próximos passos. Acho que mais seria isso. Aqui não, vamos manter hoje o seguinte, então essa opção cai fora, a gente vai manter essa aqui. É mais fazer esse xizinho ou esse [PESSOA] aqui dentro de cada caixinha, para a gente poder precificar, para a gente poder montar o escopo detalhado e a gente poder orçar, precificar, passar o plano de prazo de entrega, de valores e como é que vai ser essa nossa jornada. Mas seria isso. Mais alguma dúvida?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Não, está ótimo. A dúvida que eu tinha era justamente o que tu comentaste agora depois da pergunta da Liciele, que era a questão de quais seriam os próximos passos. Porque eu não vejo nós fazendo isso como [LOCAL].[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4752,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 1]: operações estão em níveis de maturidade bastante diferentes. A operação aí, por exemplo, você pega da mineração, é uma operação embrionária. O aeroporto é uma realidade que vai acelerar muito agora nos próximos dias e assim por diante. A [LOCAL] já é uma operação consolidada. Então, sim, a gente tem que sinalizar para [LOCAL] o nosso melhor planejamento em termos de rollout para [LOCAL] entenderem o esforço aí.[PESSOA] de  Tá",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: entendido.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É, e bem tranquilo, a gente pode fazer essa jornada gradual, fazer roll-outs distintos, estruturas distintas. A gente precisa mais é ter o crivo de [LOCAL], o norte de [LOCAL], para a gente poder planejar. Tipo, mineradora e a resíduos fica para depois, faz um X ali. A gente pode fazer isso gradual, porque a gente sabe que são empresas diferentes, como você falaste, maturidades diferentes, times diferentes, Então é uma coisa que também tem que ter, a gente tem que dar velocidade em resultado e fazer gradual, sem sombra de dúvidas, é o ideal. A gente tem que ter o foco lá no resultado final de onde a gente quer chegar. Porque a road, na figura da road, ela quer consolidar e a gente sempre parte de como é que a road quer enxergar para a gente descer os níveis e estruturar as unidades. para a gente poder ter o resultado que a [EMPRESA] precisa do nível gerencial e corporativo do grupo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Ok. Muito bom.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá bom. Então, [PESSOA], [LOCAL] têm essa última versão, né? Então, [LOCAL] podem compartilhar com eles. Daí, a gente pode... Fiquem à vontade, podem marcar, pontuar ali tudo, devolvam. Daí, em cima do que [LOCAL] devolviam, eu vou criar uma versão nova do processo de validação final e daí, sobre isso, a gente vai orçar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Vou estar mandando ainda hoje pra ti, tá, [LOCAL]? Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4023,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: E, tendo qualquer dúvida, não hesite em nos chamar. Eu até vou passar o próprio número do [PESSOA], qualquer coisa, né, do [PESSOA] também, pra você ter todos nós aqui.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Pode me chamar no Whats, tá, [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4866,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Bem tranquilo. BemGermano Haan de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tranquilo, a [EMPRESA] também fica à vontade, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Eu já compartilho contigo os contatos e a gente vai conversando aí pra tentar tirar todas as dúvidas possíveis aí.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5449,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: dúvida, a gente cria um grupo nosso do [EMPRESA] momentâneo, temporário, para a gente tirar as dúvidas e depois vamos seguindo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.59,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCAL], pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Pelo que eu vi, está bastante claro, o entendimento está claro, a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4526,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: estrutura",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: das empresas e dos processos, quais que engajariam agora e, de novo, se a gente tiver alguma dificuldade, eu entro em contato ali, eu [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Beleza. Muito",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA], obrigado, [PESSOA], obrigado, [PESSOA], obrigado, [PESSOA].[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4244,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: obrigadoGermano Haan de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: BoaGermano Haan de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: semana, bons negócios e vamos falando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Valeu, obrigado. Tchau,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3813,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

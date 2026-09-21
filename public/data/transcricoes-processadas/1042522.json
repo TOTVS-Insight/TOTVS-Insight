@@ -1,0 +1,1309 @@
+{
+  "id_reuniao": "1042522",
+  "codt": "118588",
+  "data_reuniao": "2026-02-09 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 1]: Boa tarde, pessoal.\n[LOCUTOR 26]: [EMPRESA], [PESSOA]. Tudo bom?\n[LOCUTOR 1]: Tudo joia e você?\n[LOCUTOR 26]: Tudo na paz. Deixa eu ver aqui, cadê as meninas?\n[LOCUTOR 4]: Boa tarde.\n[LOCUTOR 1]: Boa tarde.\n[LOCUTOR 29]: Bom dia, pessoal. Boa tarde.\n[LOCUTOR 1]: Boa tarde, [PESSOA]. E aí E a\n[LOCUTOR 20]: O [PESSOA] me dá dois minutinhos que o Mario está entrando tá.\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 26]: [EMPRESA], [PESSOA]. Você está no mudo, [PESSOA]. A [LOCAL] chegou também.\n[LOCUTOR 13]: [LOCUTOR 8]: tarde. Boa tarde. Boa\n[LOCUTOR 1]: tarde. Boa tarde, pessoal.\n[LOCUTOR 26]: [LOCAL], [PESSOA], podemos começar.\n[LOCUTOR 1]: Vou compartilhar minha tela aqui. Estão visualizando a minha tela?\n[LOCUTOR 26]: Estamos.\n[LOCUTOR 1]: Bom, vamos lá. Só para dar uma breve introdução de como que a gente chegou ali, tudo que a gente vai ver ali dentro do portal. Eu, a [PESSOA], as meninas, a gente fez um trabalho durante esse tempo de realizar os cadastros. Então, a gente fez todo o cadastro, parametrização, de alunos, professores, dos cursos, disciplinas, né, toda a estrutura curricular, toda a estrutura de oferta também, né, que a gente fez o cadastro ali dos períodos letivos, das turmas, e chegamos ao cadastro das turmas-disciplinas, né. Quando eu falo cadastro da turma-disciplina, é como se fosse um vínculo de tudo relacionado àquela turma, né, então, a gente E, junto à disciplina, a gente vincula também o professor, né, que é o responsável por aquela disciplina, as etapas, né, o R1, R2, a gente faz a geração do plano de aula também, né, então, peguei como exemplo aqui o curso de enfermagem, e quando eu entro aqui, olha, eu tenho a disciplina, né, eu tenho a turma aqui de é, quando eu crio a turma e disciplina, né, eu informo lá qual que é o período letivo que a gente tá criando essa turma, né, a gente informa qual que é o curso, o turno, né, que o, que é ofertada essa disciplina, a gente vincula disciplina lá na turma, a gente informa data inicial, data final, quantidade máxima de alunos que é permitido. Dentro dessa turma e disciplina, a gente informa os horários de aula, né, que serão dadas dessas disciplinas. A gente tem um cadastro dos professores, que essa parte a gente ainda não realizou, mas a gente tem disponível aqui, né, a gente vincular o professor responsável. A gente tem as etapas, né, igual igual eu falei para vocês, que é o R1 e R2, e a gente tem as etapas de notas e faltas, né? Então, a gente tem a etapa de nota, que a gente faz o lançamento ali das avaliações, das notas, e as etapas de faltas, que é onde a gente realiza a frequência dos alunos. Dentro da etapa de notas, a gente deixou cadastrado também as avaliações de cada etapa, E a gente fez toda a parametrização do valor da avaliação, qual que é a média, né, para o aluno ser aprovado, né, data de avaliação, qual que é a carga horária. Então, a gente já deixou toda essa parte já toda estruturada, já toda cadastrada. E aí, o funcionamento, né, ele é o seguinte, O aluno, né, a gente vai fazer a inscrição do aluno aqui dentro do sistema, essa inscrição pro aluno, ele vai ser disponibilizada lá no portal do aluno, né, e aí nesse portal o aluno ele vai acessar, ele vai fazer a matrícula online dele, e junto com a matrícula ele vai informar quais são os documentos obrigatórios, né, que ele precisa enviar ali, que é uma premissa para ele conseguir realizar a matrícula, e ele vai ali efetivar a inscrição dele, né, e depois que ele efetivar a inscrição dele, a gente vai fazer a validação desses documentos aqui dentro do sistema e vai aprovar, né, vamos dizer assim, aquela inscrição do aluno, e a partir daí ele vai ter toda a vida acadêmica dele lá disponível no portal. Então, o processo, né, pra gente realizar essa inscrição, ela é bem simples, né? A gente vai, tem o cadastro do aluno, né? Eu criei um aluno teste aqui, aqui eu tô dentro do ambiente de desenvolvimento, né, de homologação, então eu criei um aluno teste portal aqui, dentro do cadastro desse aluno, né, ele tem todas as informações, né, a parte de documentação, a parte de endereço, o telefone dele, né, os documentos, A gente criou aqui os campos complementares também, que é para informar dentro do cadastro, tanto do aluno quanto do professor, que é o número da carteira SUS e o número do registro no conselho de classe profissional. E aqui, quando a gente gera, quando a gente cria o cadastro do aluno, é gerado para ele também o usuário. Esse usuário, a gente definiu que ele é o mesmo usuário, é o registro acadêmico dele. pode ver que o mesmo registro acadêmico dele é gerado o usuário. E esse usuário, com esse registro acadêmico do aluno, ele vai conseguir acessar o portal. as meninas definiram uma senha padrão, né, para a criação desse usuário, mas a gente também consegue, aqui dentro do cadastro dele, olha, aqui nesse [PESSOA] aqui de [LOCAL], a gente consegue formar uma nova senha para ele, a gente consegue resetar a senha dele. Bom, então o cadastro aqui, né, desse aluno, eu já deixei ele pronto para a gente utilizar como teste, né, e o primeiro passo que a gente faz, é incluir aqui para o aluno o curso que ele vai cursar, o curso habilitação. Então, a gente vem aqui para inserir. Vou informar aqui que esse aluno vai fazer, por exemplo, enfermagem. a gente vai colocar a situação de matrícula dele como pré-inscrito, né, porque a gente tem a premissa ali dos documentos obrigatórios, né, e eu vou salvar. [LOCAL] que eu fiz isso, né, que eu vinculei aqui o curso, né, ao cadastro do eu vou executar o processo de matricular o aluno no período letivo, né, então é um processo que ele vai, ele vai aplicar esse curso de enfermagem que a gente tem formando aqui, né, junto ao período letivo que a gente vai selecionar aqui também. Então aqui a gente informa o período letivo que ele vai cursar. ele já traz lá pra gente, olha, a matriz aplicada, né, enfermagem, habilitação, a matriz curricular, ele já traz aqui como pré-inscrito também, a data da matrícula, né, caso não seja hoje, a gente consegue alterar a data também, fazer uma data retroativa, e ele traz os documentos obrigatórios também, né, que o aluno vai precisar enviar para o pessoal da A gente vem aqui em avançar. A gente vai adicionar as disciplinas, né, desse curso aqui pro aluno. Eu\n[LOCUTOR 26]: tenho que fazer isso aluno por aluno.\n[LOCUTOR 1]: e o salão para aluno.\n[LOCUTOR 26]: aí ele tá puxando as disciplinas que a gente cadastrou dentro dessa matriz.\n[LOCUTOR 1]: Isso, exato. Deu uma travadinha aqui. Aqui. Aí ele já traz pra gente, né, as disciplinas. Olha, eu vou selecionar as relacionadas ao curso de enfermagem. Ele já traz aqui pra gente todos como pré-inscrito, né? Ele traz para a gente também os horários, né, das disciplinas\n[LOCUTOR 26]: para o\n[LOCUTOR 1]: aluno, né? Já traz aqui o quadro de horário para ele. E a gente vem aqui e executa. E ele vai fazer a inscrição do aluno. Então, agora, quando eu entro aqui, por exemplo, a linha Nexus, matrícula do período letivo, ele já cria aqui pra gente, olha. Então, ele informa lá, o aluno, ele tá matriculado, né, o RA60, ele traz o período letivo, qual que é o curso que o aluno tá matriculado, várias outras informações aqui relacionadas à inscrição. período letivo, a data de matrícula, né? Qual usuário que efetuou, que fez a inscrição também, ele traz aqui pra gente.\n[LOCUTOR 26]: E\n[LOCUTOR 1]: junto também, olha, ele já traz aqui as disciplinas que o aluno vai cursar, matrícula e disciplinas. Bom, feito isso, aí agora a gente, esse processo que a gente fez agora, a gente fez a inscrição do aluno, né, a pré-inscrição dele, e aí o aluno ele vai executar lá dentro do portal, vai fazer a matrícula online dele. Só um porém, aqui em parametrizações por curso, a gente definiu aqui quais são os documentos exigidos do aluno ali no momento da matrícula, né, os documentos obrigatórios. E a gente tem aqui 11 documentos, né, desde o diploma, CPF, carteira do conselho, né, carteira do SUS. Como teste aqui agora, eu deixei só dois aqui para facilitar o CPF, o [PESSOA] ou o PASEP, mas lá em produção todos os cursos estão configurados com esses 11 documentos. isso\n[LOCUTOR 26]: para todos os cursos?\n[LOCUTOR 1]: Para todos os cursos.\n[LOCUTOR 26]: Aí, meninas, quando for cadastrar um internato, por exemplo, essa parte de [PESSOA], [PESSOA], a gente não precisa pedir isso, por\n[LOCUTOR 13]: exemplo.\n[LOCUTOR 1]: É, aqui a gente cadastrou como obrigatório.\n[LOCUTOR 26]: É, mas, por exemplo, os alunos de medicina,\n[LOCUTOR 1]: eles\n[LOCUTOR 26]: ainda talvez nem tenham carteira. da\n[LOCUTOR 1]: residência,\n[LOCUTOR 26]: a gente pode pedir, mas os estudantes...\n[LOCUTOR 1]: [EMPRESA].\n[LOCUTOR 9]: É, porque o que a gente levou em consideração foi o da residência mesmo, porque esses são obrigatórios, mas no internato, e a gente pode\n[LOCUTOR 1]: reduzir. Aí, aqui, ó, esse é o portal do\n[LOCUTOR 26]: aluno. Enfim. Eu tô há oito meses querendo ver isso.\n[LOCUTOR 1]: Eu vou passar para vocês aqui o link, né? A gente tem dois portais, tanto de produção quanto de homologação. Vou passar aqui no chat.\n[LOCUTOR 26]: Essa já é a visão que o aluno vai ter?\n[LOCUTOR 1]: Isso, essa é a visão do aluno.\n[LOCUTOR 26]: É qual, homologação ou produção?\n[LOCUTOR 1]: É homologação, que eu estou aqui.\n[LOCUTOR 26]: Aí, isso aí que a gente pode personalizar com a identidade visual do [LOCAL] também, é isso? Logo essa capa?\n[LOCUTOR 1]: Isso, isso. Essa é a página principal aqui. A gente precisa abrir um chamado ali junto com o pessoal do Cloud.\n[LOCUTOR 26]: Enviar\n[LOCUTOR 1]: para\n[LOCUTOR 26]: eles a... Fala gente, é muita gente. Quem é? Eu, o meu TI ou vocês?\n[LOCUTOR 1]: Vocês aí. O pessoal de TI consegue. O pessoal de marketing, não sei se está com o usuário aqui dentro também. Já faz\n[LOCUTOR 26]: tempo que você me ajuda com isso. O [PESSOA] tá aqui na reunião? Tá, não tá?\n[LOCUTOR 4]: A gente consegue abrir o\n[LOCUTOR 26]: chamado lá.\n[LOCUTOR 1]: Pronto. Massa. Ok.\n[LOCUTOR 4]: É\n[LOCUTOR 1]: na Cloud,\n[LOCUTOR 4]: né? Foi\n[LOCUTOR 1]: pra mim a pergunta?\n[LOCUTOR 4]: É na Cloud, né? Na DCloud lá, o chamado.\n[LOCUTOR 1]: Isso, isso, na Cloud.\n[LOCUTOR 4]: Pronto, beleza.\n[LOCUTOR 1]: a gente consegue fazer essa alteração aqui,\n[LOCUTOR 26]: né?\n[LOCUTOR 1]: Então, o aluno, ele vai ter ali o registro acadêmico dele, o usuário, né? Ele vai ter a senha dele, ele vai vir aqui, ele vai acessar o portal. Como é o primeiro acesso, ele pede para o aluno criar uma nova senha para ele.\n[LOCUTOR 26]: [LOCAL].\n[LOCUTOR 1]: a gente informa uma senha padrão, e aí quando ele acessa pela primeira vez, ele coloca uma da escolha dele. Essa é a página principal aqui do portal. Aqui na página principal, ela é bem customizável, né? A gente tem aqui o ícone de vocês, né? A logomarca de vocês, né? O nome do [LOCAL]. A gente tem aqui esses banners, né? A gente consegue incluir banners. Eu tirei print ali do site de vocês, só para usar como Mas a gente consegue fazer, incluir banners aqui, com propagandas, com alguns informativos. A gente consegue criar links também com esses banners. Então, por exemplo, aqui nessa imagem. Se o aluno clicar aqui, por exemplo, ele é redirecionado para a página que a gente configura lá dentro do banner. Então, a gente consegue fazer várias ações de marketing, de propaganda aqui dentro. E essas configurações, elas são feitas aqui dentro do sistema também. Então aqui, por exemplo, aqui dentro de auxiliares, né, eu tenho aqui portais banner. Então aqui é bem simples, né, a gente vem aqui no cadastro do banner, a a gente pode incluir um título para aparecer lá em cima da imagem, a gente pode colocar o link, né, que vai ser direcionado, a gente vem aqui em incluir a imagem, né, a data inicial e a data final, se tiver, né, ah, eu quero que fique só até amanhã, a gente consegue configurar também, a ordem que vai aparecer lá no portal, né, qual que aparece, a imagem que aparece primeiro, enfim, aí vai pela Isso é para aparecer no portal do aluno, no portal do professor, se está ativo ou não ativo. Uma configuração bem, bem simples, que é só anexar a imagem mesmo.\n[LOCUTOR 26]: Sei.\n[LOCUTOR 1]: Aqui dentro também, olha, em [LOCAL], [LOCAL], Educacional. A gente tem aqui, olha, várias configurações, né, parametrizações referentes ao portal do aluno. Muito obrigado. só esperar ele carregar aqui, mas essas parametrizações, né, a gente fez algumas configurações ali, mas tem N opções ali, e depois seria interessante vocês darem uma olhadinha ali, um por um, ver o que\n[LOCUTOR 26]: que\n[LOCUTOR 1]: serve para vocês, o que atende às demandas aí de vocês, vocês conseguem fazer toda uma configuração aqui dentro, relacionado\n[LOCUTOR 26]: [PESSOA], eu tenho um manual, que assim que esse aluno chega... [EMPRESA], tá me ouvindo, [PESSOA]?\n[LOCUTOR 1]: \n[LOCUTOR 15]: sim. Tenho uma travada. Eu tenho um manual, que é em PDF, que assim que esse aluno chega, é importante que\n[LOCUTOR 26]: ele acesse, e se eu tivesse uma ferramenta de comprovar, no [LOCAL] e tal. Quando você ficou falando na semana passada do contrato, eu fiquei pensando se hoje a gente não poderia substituir nessa área do contrato esse manual, do aluno, né, tanto do residente eu tenho o manual, quanto do interno eu tenho esse\n[LOCUTOR 1]: manual,\n[LOCUTOR 26]: e ficar disponível aí no portal, tem como?\n[LOCUTOR 1]: Tem, tem como sim, e a gente consegue colocar daquela forma, sabe quando você acessa lá, que você clica no iconizinho, é, confirma, que\n[LOCUTOR 26]: lê,\n[LOCUTOR 1]: aquela confirma\n[LOCUTOR 6]: de\n[LOCUTOR 1]: leitura,\n[LOCUTOR 26]: sabe?\n[LOCUTOR 1]: [LOCAL]. E, ali, nessa confirmação de leitura, ele traz ali a data, se não me engano, a data, o horário que o aluno fez essa\n[LOCUTOR 26]: confirmação.\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 26]: A gente\n[LOCUTOR 1]: consegue sim.\n[LOCUTOR 26]: Aí, [PESSOA], já resolve o seu problema de você ficar mandando isso nos grupos, já vai estar no portal.\n[LOCUTOR 1]: Aí, aqui, olha, eu não vou passar um por um, não, porque é bastante coisa. mas a gente tem desde aqui, por exemplo, de receber o telefone do aluno lá no portal, né, os dados dele, como e-mail, é... Tem algumas configurações referentes a notas e faltas, tenho configurações referentes à matrícula, né? Várias opções aqui também, olha, eu tenho opções aqui, por exemplo, de customização, né, a gente consegue alterar a cor do menu do portal, a cor da fonte. A gente tem essas três opções aqui, olha, que são hotlinks, né? Eu deixei como exemplo aqui o calendário, a grade curricular e o quadro de horários, né? Mas a gente tem outras opções aqui também, mural,\n[LOCUTOR 26]: né? Porque a gente não usa muito essas... Isso,\n[LOCUTOR 1]: é. E aí são ícones que ficam Aqui na página principal, sabe? Ele fica de forma mais prática aqui, né? Mais fácil de acessar. A gente consegue fazer essa configuração. Então, a gente tem ali, desde a parte de relatórios também, né, são disponibilizados para outros alunos, a gente pode disponibilizar aqui também esse manual, a gente pode, enfim, a gente pode, vários tipos de relatórios aqui, a gente pode incluir para o aluno.\n[LOCUTOR 26]: Então, assim, são... [LOCAL] vai gerar uma senha para eu poder, assim, a gente entrar, entender um pouquinho quais são essas visualizações para propor essas alterações, e aí você vai fazer essas alterações junto com a gente, ou a gente se\n[LOCUTOR 1]: vira? Não, eu posso fazer junto com você, sim, sem problema nenhum. \n[LOCUTOR 3]: fazer, sim. Como a gente não sabe todas as funções, eu vou precisar brincar um pouquinho no site para poder entender, olhar esse layout.\n[LOCUTOR 1]: Não, beleza, perfeito. Mas aí são várias configurações aqui, aí depois no... a gente pode sentar e fazer esses ajustes.\n[LOCUTOR 26]: Aí,\n[LOCUTOR 1]: lá no portal, né, ele já traz aqui, né, qual que é o curso do aluno, né, que a gente cadastrou lá.\n[LOCUTOR 26]: E\n[LOCUTOR 1]: o nome\n[LOCUTOR 26]: do aluno?\n[LOCUTOR 1]: Isso, aqui aluno teste, né, coloquei aluno teste E aqui ele consegue ver o cadastro dele também, então aqui tem todas as informações, informações de contato, de endereço, dados profissionais, qual que é o responsável financeiro,\n[LOCUTOR 26]: né? E ele pode editar coisas aí?\n[LOCUTOR 1]: Tem a opção de deixar ele editar. Aqui no momento aqui ele não tá editável não, mas a gente consegue deixar sim ele alterar, inclusive ali no momento da matrícula também.\n[LOCUTOR 26]: aqueles dois documentos que você falou que eram obrigatórios, que você deixou, aí ele tem que vir aí?\n[LOCUTOR 1]: Aí vai ser aqui,\n[LOCUTOR 26]: olha,\n[LOCUTOR 1]: ele vai entrar aqui, e vai ter aqui, olha, matrícula online. A gente tem essa parte de apresentação, que a gente pode configurar lá, né, a gente colocar alguma imagem, alguma alguma descrição aqui referente à matrícula, né, orientação, alguma orientação, a gente personalizar para aparecer aqui como a capa, né, vamos dizer assim, da matrícula. O aluno, ele vai para a próxima aqui, ele vai selecionar qual que é o período letivo que ele tá se matriculando. Ele vai adiantar e vai ser solicitado aqui os documentos obrigatórios, Se ele tentar passar, ele não vai deixar. Olha, para avançar é necessário completar todos os itens exigidos, né? Ele até traz aqui que ele é obrigatório essa documentação. O aluno, ele vai clicar aqui para anexar, né? Nesse ciclinho aqui. Vai selecionar lá o documento. depois que eu anexei, né, ele vai ser apresentado para ele aqui, o quadro de horários para ele, né, então é que ele consegue ver tudo também, olha, disciplinas, quais são as disciplinas do Rodízio R1, quais são disciplinas do Rodízio R2, né, se ele, se ele clica em cima aqui da disciplina, é mostrado aqui para ele os horários, né, com as datas das aulas, é informado algumas outras informações também, curso, quantidade de várias, né? Ele tem todas as informações aqui das disciplinas. Ele consegue remover disciplina da graça também, isso também é configurado também, tá? Aqui, no caso aqui, ele tá podendo retirar a disciplina, mas a gente consegue também deixar fixo. Ele vai avançar. E aqui no final, olha, por enquanto tá aquele contrato, né, que a gente havia colocado, né, mas aí agora a gente vai, a gente pode incluir o manual, a gente pode incluir o informativo, né, para\n[LOCUTOR 26]: ele, que\n[LOCUTOR 1]: ele t\n[LOCUTOR 19]: inscrito. O manual vai inscrever o problema.\n[LOCUTOR 1]: Isso. Aí aqui, olha,\n[LOCUTOR 26]: ele tem\n[LOCUTOR 1]: a opção de [PESSOA] e aceita os termos.\n[LOCUTOR 26]: E a gente pode alterar também, ao invés de contrato, colocar manual, né?\n[LOCUTOR 1]: Essa opção aqui do termo de contrato, eu vou ter que verificar, viu Danube? Eu acredito que essa parte aqui, ele vem como contrato, mas eu vou verificar e te dou um retorno. Esse aqui, ele é ajustável.\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 1]: Ele vai marcar aqui que leu e aceitou os termos, vai finalizar a\n[LOCUTOR 26]: matrícula. E aí, para cada curso, eu posso ter uma configuração de documento diferente, né?\n[LOCUTOR 1]: Porque, por\n[LOCUTOR 26]: exemplo, a residência é um manual, o internato é outro manual, e os cursos vão ser os contratos.\n[LOCUTOR 1]: Isso, aqui dentro, olha, a parametrização, ela é por curso. Então, a gente informa lá qual que é, né, o período letivo, a matriz e o curso. E aí, de acordo com esse curso e período letivo, a gente consegue parametrizar de forma independente um do outro. Bom, aí feito isso, o aluno foi lá agora, ele se inscreveu, e lá no cadastro dele a gente tem os documentos foram solicitados. Então, já aparece aqui, olha,\n[LOCUTOR 26]: os\n[LOCUTOR 1]: dois documentos, exato. Então, quando a gente entra aqui, né, as meninas aí, elas vão entrar para fazer a validação dessa documentação, olha, pode ver que a situação aqui do documento, ela tá como entregue em validação, né, e traz aqui a data da entrega, né, qual que é o documento, para o período letivo, aqui ele traz o arquivo que o aluno incluiu lá dentro do portal. Então, a gente tem a opção aqui de visualizar. \n[LOCUTOR 11]: que eu cadastrar esses alunos todos aí, [PESSOA], eu vou conseguir, por exemplo, extrair uma base desses alunos com nome, e-mail, se eu quiser disparar um e-mail?\n[LOCUTOR 1]: Sim, se você consegue. a gente consegue montar relatórios, né, aqui dentro. Se tiver a informação cadastrada dentro do sistema, a gente consegue puxar todas essas informações e montar um relatório. A gente consegue, sim. Então, lá, aí ele já abre aqui, né, o documento lá. Aqui, no caso, aqui eu peguei um documento de vocês no plano de mas a gente consegue visualizar, né, o documento que o aluno inseriu lá no momento da matrícula. E aí, quando a gente vê, viu lá, né, ah, o documento tá correto mesmo, é esse documento, a gente vem aqui e valida aquele documento. A gente deixa ele como validado.\n[LOCUTOR 26]: E\n[LOCUTOR 1]: isso daí a gente faz para cada documentação entregue, para cada documento entregue. Então, a gente vem aqui e valida, validado os documentos, né, a gente vai lá na matrícula dele. Porque, olha, se a gente observar, ainda continua como pré-inscrito, né. Por quê? Porque a gente tem a obrigatoriedade das documentações que eles decidiram enviar, né. E essas documentações, elas precisam ser validadas, se realmente está correto aquele documento que o aluno mandou,\n[LOCUTOR 26]: né, que\n[LOCUTOR 1]: é esse\n[LOCUTOR 26]: processo\n[LOCUTOR 1]: que a gente\n[LOCUTOR 26]: fez aqui agora. Eu posso, [PESSOA]?\n[LOCUTOR 1]: Pode, pode sim.\n[LOCUTOR 26]: É porque, por exemplo,\n[LOCUTOR 1]: vou\n[LOCUTOR 26]: dar um exemplo, né, dia 2 vai ter a matrícula dos residentes médicos, né? Aí a [PESSOA] vai pra lá, passa o dia todo na [LOCAL], pra fazer a matrícula, no sistema da [LOCAL], que é onde\n[LOCUTOR 1]: eles\n[LOCUTOR 26]: realmente vão botar os documentos. Aí, entendi, aí eu posso ou botar a obrigação para eles botarem no nosso sistema ou não. É uma configuração que eu... não tem autonomia de fazer.\n[LOCUTOR 1]: Isso,\n[LOCUTOR 26]: isso.\n[LOCUTOR 1]: Aqui dentro, olha, do cadastro do documento, a gente tem essa [LOCAL] aqui, que ela indica se o documento é obrigatório ou não. A gente consegue também incluir documentos, se tiver algum por sexo, né, por exemplo, se for alguma, algum título de reservista, né, que é só masculino, né, se tiver alguma obrigatoriedade só por sexo, a gente consegue definir aqui E aqui a gente tem o tipo de documento a gente marcou como ingresso, né, que ele é solicitado no momento do ingresso ali do aluno. Mas a gente pode deixar também como período letivo, ele não fica, ele não entra ali naquela parte da matrícula ali para o aluno enviar a documentação. A gente consegue fazer essas modificações também. Bom, aí voltando lá na matrícula,\n[LOCUTOR 26]: né,\n[LOCUTOR 1]: igual eu falei, como tem essa obrigatoriedade dos documentos, a gente deixou para passar o aluno como inscrito, né, como de fato ali que ele tá matriculado, após a validação dos documentos que a gente fez, né. Então a gente entra lá na matrícula dele e vem aqui, olha, no processo de alterar a situação de que aí a gente vai\n[LOCUTOR 26]: passar\n[LOCUTOR 1]: ele de pré-inscrito para inscrito. E quando a gente faz aqui, ele pede também o motivo da alteração, o motivo por que a gente está alterando. A gente criou aqui o motivo documentos obrigatórios validados, mas esse aqui também, ele é customizado também, a gente pode incluir vários motivos de alteração aqui que fica mais adequado. A gente vai selecionar aqui, documentos obrigatórios validados. Eu vou avançar, vou executar. E aí aquilo já passa, olha. pré-inscrito, tá vendo? Ele já muda aqui para inscrito, e se eu for lá nas matrículas das disciplinas também,\n[LOCUTOR 26]: ele\n[LOCUTOR 1]: já traz lá o aluno como inscrito em todas as disciplinas, né?\n[LOCUTOR 26]: E\n[LOCUTOR 1]: aí tudo isso é refletido lá no portal. Então aqui, olha, aqui do lado esquerdo, né, a gente tem um menu aqui, Ele traz aqui pra gente a primeira opção, ele traz... o calendário aqui para o aluno. Nesse calendário, a gente consegue incluir algumas opções, lá naquelas configurações que eu mostrei para vocês, né, que tem várias opções, a gente consegue incluir algumas opções para aparecer aqui no calendário, né, como, por exemplo, a aula que o aluno vai ter aquele dia, né, alguma avaliação, né, se já tiver configurado lá a data de avaliação. Então, tudo isso, ele é apresentado aqui dentro do calendário para o aluno, no calend\n[LOCUTOR 18]: Essas opções que você listou aí no menu, nesse ícone\n[LOCUTOR 1]: azul,\n[LOCUTOR 26]: eu posso alterar também?\n[LOCUTOR 1]: Pode, pode alterar sim. Lá dentro das configurações aqui que eu mostrei para vocês, do portal, lá dentro tem algumas opções que a gente pode incluir para aparecer aqui no calendário. Esse aqui é editado também.\n[LOCUTOR 26]: E\n[LOCUTOR 1]: aqui, se ele clicar, se ele clicar aqui, abre para ele, né, qual é a aula no dia 2 do 2, qual que é a disciplina, se é aula prática, se é aula teórica, qual que é o horário de início e término. Ele consegue ir lá para a disciplina, né, ele é linkado para a disciplina, ele traz aqui as informações das disciplinas, né, os horários das aulas, alguma informação, se for cadastrado lá na ele traz as faltas, ele traz as notas de avaliação, né, olha lá, ele já puxa aqui, olha, que essa disciplina, ela é uma disciplina do, da etapa do R2, né, que ela vale 10 pontos, então ele já traz aqui as informações referentes àquela disciplina, né, e a mesma coisa da avaliação,\n[LOCUTOR 26]: né,\n[LOCUTOR 1]: ele traz lá qual que é a disciplina, né, a data, qual que é a média, qual que é o [LOCAL], aqui, a gente tem a grade curricular do aluno. Então, ele traz aqui pra gente os números de disciplinas obrigatórias, quais disciplinas que estão pendentes do aluno fazer, né? Ele traz aqui,\n[LOCUTOR 26]: olha,\n[LOCUTOR 1]: as etapas já criadas, né, o [EMPRESA], [LOCAL]. Dentro, ele traz todas as disciplinas, ele já traz lá qual que é o período letivo, a disciplina, né, se o aluno tá inscrito ou não, né, se ele já tem alguma nota, alguma nota, falta, ele já traz aqui também, dentro da grade curricular, ele traz a carga horária daquela disciplina,\n[LOCUTOR 26]: né,\n[LOCUTOR 1]: dentro da matriz. Então, ele já tem todas as informações. Aqui também, quando ele clica, ele é redirecionado para o cadastro lá das disciplinas, né, porque tem todas as informações só aquela disciplina que eu mostrei agora para vocês. E aqui, olha, aqui do lado a gente tem aqui, olha, esse numerozinho 3, tá vendo? Essa bolinha amarela. Quando o aluno, ele já concluiu aquela disciplina, aqui para ele vai aparecer como uma bolinha cinzinha, né? O número 1, que é de concluída. Quando ele ainda não concluiu, né, ele ainda fica como três, né? Se ele tá realizando aquela disciplina, né, e ainda não concluiu, ela fica como pendente aqui. Então, ele tem essa, o status, né, da disciplina que ele tá realizando, através desses [LOCAL] aqui. E aqui é separado, né, para mostrar em todos, quais que estão em curso, que estão pendentes, as que estão concluídas, ele faz esse filtro aqui também. A grade curricular, depois da grade curricular, a gente tem aqui o quadro de horários. Então, ele traz para o aluno aqui as disciplinas, né, que ele vai cursar naquela data, e qual o período também que ele vai cursar. Então, por exemplo, unidade de treinamento para deshospitalização, ele vai cursar na segunda, na terça, na quarta, do dia 1 do 2 ao dia 28 do 2, né? A gente clica aqui, ele traz informações daquela aula daquele dia, né? As informações do horário, qual que é a data do horário. E lá em mais informações, ele traz também o horário todo aqui para o aluno, os horários que ele vai ter as aulas aqui. Ele tem a matrícula online, né, que é o que a gente viu. Aqui dentro também é gerado um gráfico, né, vai gerando para ele ali, sobre o desempenho de notas dele, né, então traz aqui as disciplinas, né, que ele está cursando naquele momento, as notas que ele teve, a média em relação à turma, a média em relação ao curso também. Então, ele vai gerando aqui para o aluno um gráfico de desempenho baseado nessas faltas e notas que são distribuídos ali para o aluno. [LOCAL] disso, a gente tem as notas e as faltas. Hoje eu vou mostrar para vocês aqui o lançamento por dentro aqui do sistema, porque a gente tem a opção também, pelo portal do professor, do professor fazer o lançamento diretamente lá pelo portal. Hoje a gente não tem os professores cadastrados. Então, a princípio, as meninas vão fazer esse cadastro. e via sistema, né? Então, aqui, olha, dentro de matrícula e avaliação, a gente tem algumas opções, né? A gente consegue tanto lançar as notas e faltas da etapa, né, como um todo, ou a nota de avaliação e de falta específico, né? Então, por exemplo, eu tenho aqui, por exemplo, olha, notas e faltas de etapas. Então, a gente vem aqui, olha, a gente seleciona qual que é o período letivo, a turma, qual que é a disciplina, né, que a gente vai fazer esse lançamento das notas. Vou pegar uma aqui, olha, pegar essa [LOCAL]. A gente vai selecionar qual que é a etapa, etapa de notas, R2 notas aqui, a gente vai selecionar também a etapa de faltas. E a gente vai vir aqui, vai buscar os alunos. Então, aqui no caso, olha, o que a gente está vendo agora é esse daqui, olha, o aluno teste portal. Então, aqui a gente consegue lançar, por exemplo, o aluno tirou oito, ele teve três faltas. Qual o número de aulas, né, que ele teve? A gente consegue fazer essa configuração aqui e fazer esse lançamento para o aluno. Olha lá, e ele aparece aqui, anota para o aluno, né? Aqui ele faz da turma toda, né? Todos os alunos que estão matripulados nessa turma Eles são listados aqui, né? E aí a gente consegue fazer esse lançamento para todos, né? Para todos de uma vez. Ou a gente consegue também... É, pera aí. Ou a gente consegue também fazer a digitação diretamente ali para o cadastro do aluno. A gente vem aqui, seleciona o aluno que a gente quer. seleciona o período letivo, né, vem aqui em buscar.\n[LOCUTOR 26]: E\n[LOCUTOR 1]: aqui ele traz todas as disciplinas, né, que o aluno tá cursando, olha. Como eu já cadastrei lá, né, ele já traz aqui também, que o aluno, né, tirou nota 8, de 10 pontos, e que ele teve três faltas, né. É, aqui ele tá trazendo, né, porque eu acabei de cadastrar aqui, né, quando eu relacionei os alunos lá, mas em outra disciplina aqui, que a gente não fez, a gente consegue também vir cadastrar aqui direto. A data final... Aqui, aqui ele não tá deixando, olha, porque aqui tem uma coisa também, Aqui dentro da... do cadastro aqui da turma disciplina, a gente tem as etapas criadas, né? E dentro das etapas criadas, a gente tem algumas configurações. Então, por exemplo, do cadastro da etapa de notas, a\n[LOCUTOR 26]: gente\n[LOCUTOR 1]: definiu aqui a data de início de digitação e a data limite de digitação, né? aqui nesse caso que eu tentei alterar lá agora, ele tá aqui como data de digitação 1 do 3 de 2026, né? Então, por isso que eu não consigo digitar nessa disciplina lá dentro do portal, porque aqui dentro da etapa, né, do R1 de notas, ele tá amarrado aqui, né? Ele só consigo lançar a partir do dia 1 do 3. Já a outra, a gente conseguiu Porque a outra aqui, ela tá como um dos dois. Então, a gente consegue fazer essa amarração também, tá? De quando que a gente consegue fazer o lançamento ali pro aluno. Aqui também eu tenho a opção de fazer frequência diárias, né? Então, aqui é a mesma coisa. Aqui são tipos de opções, eu tô passando bem rápido, assim, a gente já até fez essa parte com as meninas ali, durante os treinamentos ali, mas só para mostrar para vocês aqui, que a gente consegue lançar tanto para uma turma inteira, né? Quanto para alunos em específicos, né? Mas aí o esquema é a mesma coisa, a gente vem aqui, a gente faz o filtro aqui, né? um período letivo, a disciplina, qualquer etapa, né? A gente vem aqui em buscar alunos,\n[LOCUTOR 26]: e\n[LOCUTOR 1]: ele vai trazer aqui, olha, as datas das aulas, né? E a gente consegue fazer o lançamento aqui da frequência, né? Então, para o aluno, quando ele acessa quando ele acessa aqui dentro do cadastro lá da disciplina, né, a opção de faltas aqui, quando a gente lança para ele as faltas lá, as frequências diárias, né, é apresentado para ele aqui também as faltas dele, a frequência dele, né. Então, ele traz a data que foi registrado a falta. E aí a gente tem também as notas de avaliação, que a gente consegue incluir a nota diretamente na avaliação. Então, aqui dentro do sistema, a gente tem duas opções, né, ou a gente digitar diretamente na etapa, então vamos supor que, dentro ali da etapa, a gente tem cadastrado, um exemplo, tem cadastrado ali duas avaliações para o aluno. E o aluno tirou 8 e 8. Ao invés de eu lançar a nota por avaliação, em cada avaliação eu ir lá e lançar 8, eu consigo lançar diretamente na etapa esse valor de 16. Então a gente consegue fazer dessa forma também, ou a gente fazer ali tudo discriminado certinho, né, a nota da avaliação, e aí já puxa lá a nota da etapa também, a gente consegue fazer essa diferenciação aqui dentro. E aqui a gente consegue fazer as notas de avaliação por avaliação, né, então a gente vai lá, seleciona o período letivo, a disciplina, qual que é a etapa, né, essa disciplina aqui ela faz parte da, do rodízio R2, Ele já traz aqui a avaliação que a gente deixou cadastrada para o aluno. A gente vem aqui, olha, buscar alunos. Olha lá. O aluno que a gente estava falando, né, o aluno que a gente está configurando, né, que é o aluno teste portal. Ele já tem a nota da etapa aqui, mas eu posso vir aqui também e lançar a nota da avaliação. Vem aqui e salvo. E aí, quando eu venho aqui, olha... Eu vim rapidão aqui, mas aqui no menu do lado esquerdo, né? Eu tenho aqui nota e falta unificada, ele já traz aqui pra gente a disciplina, né? Qual que é a nota que o aluno teve naquela disciplina, quantidade de faltas, né? Se ele clica lá, né, ele vê as pautas, né, igual eu falei, ele vê a avaliação também, olha, ele traz aqui a data da avaliação, qual que é o valor, a nota, se o aluno ele vê em detalhes, é exibido para ele, né, qual que é a data, a média, a nota que ele tirou, resultado acima da média, é trazido para ele aqui as informações relacionadas àquela avaliação. E aqui, igual eu falei, né, a gente tem várias opções aqui, tanto por etapa quanto direto aqui de avaliações, né, do aluno. [LOCAL], meninas, até se vocês tiverem dúvidas, a gente pode sentar novamente para a gente dar uma repassada nessa digitação de notas e faltas, né, para a gente deixar tudo certinho. Mas aí o funcionamento é bem simples, né, a gente vem aqui, a gente faz o lançamento, e ele automaticamente, ele já é reproduzido para o aluno lá no portal.\n[LOCUTOR 13]: Quando\n[LOCUTOR 1]: ele vem aqui na grade curricular aqui também, desculpa, aqui do lado esquerdo também, ele consegue visualizar somente as faltas que ele teve, traz lá todas as disciplinas, e traz aqui a quantidade de faltas, né? A gente, na falta lá, a gente não lançou a falta, a frequência diária, né? A gente lançou por etapa, mas a gente lançar diária, ele aparece todas ali também. Mas ele já traz aqui pra gente todas as disciplinas do aluno e as faltas, né? E ele traz as faltas também pela etapa, né? Pelo rodízio, ele faz essa diferenciação. ele tem a opção de ver só as notas também. Lá ele traz a disciplina, né, qual que é a nota e qual aluno teve, se o aluno clicar aqui em avaliações, vai aparecer lá para ele também as informações referentes à avaliação, o valor, a nota. E aqui tudo é interligado, né, então tudo que ele vai, que ele vai acessando, vai mostrando as opções referentes àquele cadastro, né? Então, dessa avaliação, ele consegue ir lá pra disciplina, e lá na disciplina ele consegue ter todas as informações, né? Desde o horário de aula até as faltas, as avaliações, se teve alguma ocorrência, né? A gente tem a opção aqui também do plano de aula, que o aluno ele consegue visualizar o plano de Esse plano de aula, ele é cadastrado aqui dentro também, lá na turma disciplina, quando a gente cria os horários das aulas para os alunos, né? Quando a gente faz todos os vínculos aqui, a gente gera também os planos de aulas, né? E aí é gerado um plano de aula para cada dia de aula. Então, ele é gerado para todas as aulas, que a gente criou os horários, né? E aqui dentro do plano de aula a gente consegue incluir todas as informações. aparece aqui de identificação, né, o conteúdo previsto, o conteúdo realizado, a data que foi realizado aquele conteúdo, se tem alguma lição de casa, falta de reposição, né, se precisar fazer alguma substituição, alguma reposição de professor, a gente consegue fazer essa configuração aqui também. Se tem algumas... alguma observação referente ao plano de E se tem algum arquivo, também, que é disponibilizado para o aluno, né? Então, a gente consegue incluir aqui dentro também. E todas essas informações, o aluno, ele consegue visualizar aqui dentro também. Então, lá, é o plano de aula, né? Traz qual que é o conteúdo previsto, qual conteúdo foi realizado, a lição e os arquivos, né? Caso tenha algum arquivo, algum PDF, alguma coisa que queira disponibilizar para o aluno, a gente consegue disponibilizar também. Aqui na parte de secretaria, a gente tem aqui a opção de requerimentos, né? No momento aqui, a gente não tem nenhum cadastrado, mas a gente consegue incluir aqui também, né? Então, se tem algum requerimento que os alunos deles fazem a vocês, algum relatório, alguma coisa, a gente consegue incluir aqui também, então ele consegue já vir direto e baixar esse requerimento, né, fazer essa solicitação do requerimento. Ele consegue fazer através do portal também. A parte do financeiro aqui, a gente não vai ter, né, essa parte do financeiro aqui. E a gente vai ter ali os arquivos, né, se foi disponibilizado alguns arquivos, alguns arquivos ali pela Prima Disciplina, igual falei agora. a gente consegue disponibilizar, o aluno ele vai acessar aqui, vai estar o arquivo disponível aqui também, os materiais, né, da disciplina, eu quero um PDF, né, um tutorial, alguma videoaula, alguma coisa, a gente consegue incluir esses arquivos, o aluno consegue filtrar aqui também por disciplina. E aqui também tem a parte de relatórios, hoje, no momento aqui, está disponível aquele contrato educacional, né? Mas a gente consegue incluir vários tipos de relatórios, né? Igual eu falei, relacionados ao relatório, tudo que a gente tem cadastrado no sistema, desde os dados dos alunos até as notas, as disciplinas, a matriz curricular, toda a informação que a gente tem cadastrado ali, a gente consegue juntar e fazer, montar um relatório, né? Então, se quiser algum relatório de notas, algum relatório de faltas, qualquer tipo de relatório a gente consegue... disponibilizar aqui também para o aluno, para ele fazer a emissão desse relatório, né. Então, por exemplo, aqui hoje está aquele contrato que a gente havia feito, né. Se o aluno clicar aqui, ele consegue visualizar aquele relatório, consegue emitir aquele relatório, ele consegue fazer a emissão daquele relatório, né, fazer o download, né, baixar lá o arquivo para ele, a gente consegue disponibilizar também para ele. Pessoal, em relação ao portal, acho que eu passei por todas as ferramentas aqui, é, ficou, tem alguma dúvida, alguma coisa que eu deixei passar?\n[LOCUTOR 26]: Não, [PESSOA], acho que deu para entender, não sei as meninas, [PESSOA] que é esse trabalho, assim, você dar uma senha meio que beta desse usuário, pra gente olhar, porque, assim, como pra gente não é uma instituição de\n[LOCUTOR 13]: ensino,\n[LOCUTOR 26]: tem algumas coisas que a gente não vai operacionalizar com eles. Então, é\n[LOCUTOR 1]: deixar\n[LOCUTOR 26]: oculto e deixar só os botões daquilo que a gente vai mais operacionalizar. Mas é que é um trabalho mais nosso interno de customizar mesmo, de olhar e entender o que é que fica e o que é que sai.\n[LOCUTOR 1]: [LOCAL],\n[LOCUTOR 26]: perfeito.\n[LOCUTOR 1]: [PESSOA] que é isso. E aí, assim, é o que vocês precisarem de ajuda ali nas configurações, nas parametrizações, eu tô dispon\n[LOCUTOR 25]: aqui,\n[LOCUTOR 1]: eu entro\n[LOCUTOR 26]: lá\n[LOCUTOR 1]: com vocês, eu ajudo. Eu\n[LOCUTOR 13]: tava\n[LOCUTOR 26]: mexendo\n[LOCUTOR 13]: a\n[LOCUTOR 20]: no cinema e eu tava já tonta.\n[LOCUTOR 1]: Eu não\n[LOCUTOR 26]: dou\n[LOCUTOR 1]: conta. É bastante coisinha, né? Mas eu\n[LOCUTOR 13]: vou...\n[LOCUTOR 26]: [EMPRESA]?\n[LOCUTOR 13]: Tá falando, o [PESSOA] não tá despertado ainda não, ainda vamos usar ele. E aí, [PESSOA], eu\n[LOCUTOR 26]: acho que é um cuidado que vocês precisam ter quando vocês forem cadastrar o internato. Porque, assim, não adianta ficar cadastrando um bocado de disciplina, porque o internato da gente já é uma disciplina da faculdade. Então tem que ver com o [PESSOA] aí como é que a gente faz uma dinâmica para não ficar tão subdividido, porque senão gera muito trabalho para uma coisa que, para a gente, é como se fosse uma disciplina. Eu\n[LOCUTOR 13]: só pedi atria e algumas subespecialidades, mas a subespecialidade é só no caso de um\n[LOCUTOR 26]: extra, de um\n[LOCUTOR 13]: atletismo.\n[LOCUTOR 26]: A gente não pode cadastrar isso no sistema, entendeu?\n[LOCUTOR 13]: Porque\n[LOCUTOR 1]: senão,\n[LOCUTOR 26]: vai ficar pra todo mundo. É que nem aí, você tem que fazer uma autoriação também aí no que vocês estão chamando, no sistema de pediatria. Porque ficou todo mundo cadastrado como residência multi, residência multi. E ficou só a pediatria. Na verdade, a residência médica, a pediatria. Mas eu vou anotar essas coisinhas, passar pra vocês, pra vocês alinharem com o [PESSOA].\n[LOCUTOR 1]: [LOCAL]. E aí, [LOCAL], eu vou passar, eu vou passar para a [PESSOA] ali, um cadastro, esse cadastro de aluno aqui, para vocês acessarem, mexerem aí. E aí vou passar o usuário, o seu usuário também,\n[LOCUTOR 26]: eu mando\n[LOCUTOR 1]: para você lá o seu usuário, porque o nosso usuário, né, de enquanto gerência aqui do sistema, a gente acessa aqui o sistema, né? E eu vou mandar o usuário de aluno, que toda alteração que a gente fizer, a gente consegue visualizar como o aluno tá visualizando aqui. Se a gente acessar com o nosso usuário aqui, a gente não tem o perfil de aluno, né? A gente não tem ali essa movimentação acadêmica, né? Então, no portal a gente acessa com um, mas no sistema aqui a gente acessa com o nosso mesmo. Mas aí eu vou deixar esse usuário pronto, E aí eu mando para... pode ser para a [PESSOA] ali?\n[LOCUTOR 26]: Eu peço para a [PESSOA]\n[LOCUTOR 1]: compartilhar\n[LOCUTOR 26]: com vocês?\n[LOCUTOR 1]: Pode ser. [LOCAL]. [LOCAL]. E aí eu já disponibilizo para vocês.\n[LOCUTOR 26]: Combinado.\n[LOCUTOR 1]: Pessoal, acho que é isso. Se tiver alguma dúvida, alguma coisa, estou à disposição. Se vocês precisarem também.\n[LOCUTOR 26]: Só\n[LOCUTOR 1]: me chamar.\n[LOCUTOR 9]: Combinado. Obrigada, [PESSOA]. Obrigada, pessoal.\n[LOCUTOR 29]: Obrigado, pessoal.\n[LOCUTOR 1]: [LOCAL], gente. Bom trabalho para\n[LOCUTOR 13]: vocês.",
+  "texto_filtrado": "[LOCUTOR 20]: O [PESSOA] me dá dois minutinhos que o Mario está entrando tá.\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 26]: [EMPRESA], [PESSOA]. Você está no mudo, [PESSOA]. A [LOCAL] chegou também.\n[LOCUTOR 26]: [LOCAL], [PESSOA], podemos começar.\n[LOCUTOR 26]: Estamos.\n[LOCUTOR 1]: Bom, vamos lá. Só para dar uma breve introdução de como que a gente chegou ali, tudo que a gente vai ver ali dentro do portal. Eu, a [PESSOA], as meninas, a gente fez um trabalho durante esse tempo de realizar os cadastros. Então, a gente fez todo o cadastro, parametrização, de alunos, professores, dos cursos, disciplinas, né, toda a estrutura curricular, toda a estrutura de oferta também, né, que a gente fez o cadastro ali dos períodos letivos, das turmas, e chegamos ao cadastro das turmas-disciplinas, né. Quando eu falo cadastro da turma-disciplina, é como se fosse um vínculo de tudo relacionado àquela turma, né, então, a gente E, junto à disciplina, a gente vincula também o professor, né, que é o responsável por aquela disciplina, as etapas, né, o R1, R2, a gente faz a geração do plano de aula também, né, então, peguei como exemplo aqui o curso de enfermagem, e quando eu entro aqui, olha, eu tenho a disciplina, né, eu tenho a turma aqui de é, quando eu crio a turma e disciplina, né, eu informo lá qual que é o período letivo que a gente tá criando essa turma, né, a gente informa qual que é o curso, o turno, né, que o, que é ofertada essa disciplina, a gente vincula disciplina lá na turma, a gente informa data inicial, data final, quantidade máxima de alunos que é permitido. Dentro dessa turma e disciplina, a gente informa os horários de aula, né, que serão dadas dessas disciplinas. A gente tem um cadastro dos professores, que essa parte a gente ainda não realizou, mas a gente tem disponível aqui, né, a gente vincular o professor responsável. A gente tem as etapas, né, igual igual eu falei para vocês, que é o R1 e R2, e a gente tem as etapas de notas e faltas, né? Então, a gente tem a etapa de nota, que a gente faz o lançamento ali das avaliações, das notas, e as etapas de faltas, que é onde a gente realiza a frequência dos alunos. Dentro da etapa de notas, a gente deixou cadastrado também as avaliações de cada etapa, E a gente fez toda a parametrização do valor da avaliação, qual que é a média, né, para o aluno ser aprovado, né, data de avaliação, qual que é a carga horária. Então, a gente já deixou toda essa parte já toda estruturada, já toda cadastrada. E aí, o funcionamento, né, ele é o seguinte, O aluno, né, a gente vai fazer a inscrição do aluno aqui dentro do sistema, essa inscrição pro aluno, ele vai ser disponibilizada lá no portal do aluno, né, e aí nesse portal o aluno ele vai acessar, ele vai fazer a matrícula online dele, e junto com a matrícula ele vai informar quais são os documentos obrigatórios, né, que ele precisa enviar ali, que é uma premissa para ele conseguir realizar a matrícula, e ele vai ali efetivar a inscrição dele, né, e depois que ele efetivar a inscrição dele, a gente vai fazer a validação desses documentos aqui dentro do sistema e vai aprovar, né, vamos dizer assim, aquela inscrição do aluno, e a partir daí ele vai ter toda a vida acadêmica dele lá disponível no portal. Então, o processo, né, pra gente realizar essa inscrição, ela é bem simples, né? A gente vai, tem o cadastro do aluno, né? Eu criei um aluno teste aqui, aqui eu tô dentro do ambiente de desenvolvimento, né, de homologação, então eu criei um aluno teste portal aqui, dentro do cadastro desse aluno, né, ele tem todas as informações, né, a parte de documentação, a parte de endereço, o telefone dele, né, os documentos, A gente criou aqui os campos complementares também, que é para informar dentro do cadastro, tanto do aluno quanto do professor, que é o número da carteira SUS e o número do registro no conselho de classe profissional. E aqui, quando a gente gera, quando a gente cria o cadastro do aluno, é gerado para ele também o usuário. Esse usuário, a gente definiu que ele é o mesmo usuário, é o registro acadêmico dele. pode ver que o mesmo registro acadêmico dele é gerado o usuário. E esse usuário, com esse registro acadêmico do aluno, ele vai conseguir acessar o portal. as meninas definiram uma senha padrão, né, para a criação desse usuário, mas a gente também consegue, aqui dentro do cadastro dele, olha, aqui nesse [PESSOA] aqui de [LOCAL], a gente consegue formar uma nova senha para ele, a gente consegue resetar a senha dele. Bom, então o cadastro aqui, né, desse aluno, eu já deixei ele pronto para a gente utilizar como teste, né, e o primeiro passo que a gente faz, é incluir aqui para o aluno o curso que ele vai cursar, o curso habilitação. Então, a gente vem aqui para inserir. Vou informar aqui que esse aluno vai fazer, por exemplo, enfermagem. a gente vai colocar a situação de matrícula dele como pré-inscrito, né, porque a gente tem a premissa ali dos documentos obrigatórios, né, e eu vou salvar. [LOCAL] que eu fiz isso, né, que eu vinculei aqui o curso, né, ao cadastro do eu vou executar o processo de matricular o aluno no período letivo, né, então é um processo que ele vai, ele vai aplicar esse curso de enfermagem que a gente tem formando aqui, né, junto ao período letivo que a gente vai selecionar aqui também. Então aqui a gente informa o período letivo que ele vai cursar. ele já traz lá pra gente, olha, a matriz aplicada, né, enfermagem, habilitação, a matriz curricular, ele já traz aqui como pré-inscrito também, a data da matrícula, né, caso não seja hoje, a gente consegue alterar a data também, fazer uma data retroativa, e ele traz os documentos obrigatórios também, né, que o aluno vai precisar enviar para o pessoal da A gente vem aqui em avançar. A gente vai adicionar as disciplinas, né, desse curso aqui pro aluno. Eu\n[LOCUTOR 26]: tenho que fazer isso aluno por aluno.\n[LOCUTOR 1]: e o salão para aluno.\n[LOCUTOR 26]: aí ele tá puxando as disciplinas que a gente cadastrou dentro dessa matriz.\n[LOCUTOR 1]: Isso, exato. Deu uma travadinha aqui. Aqui. Aí ele já traz pra gente, né, as disciplinas. Olha, eu vou selecionar as relacionadas ao curso de enfermagem. Ele já traz aqui pra gente todos como pré-inscrito, né? Ele traz para a gente também os horários, né, das disciplinas\n[LOCUTOR 26]: para o\n[LOCUTOR 1]: aluno, né? Já traz aqui o quadro de horário para ele. E a gente vem aqui e executa. E ele vai fazer a inscrição do aluno. Então, agora, quando eu entro aqui, por exemplo, a linha Nexus, matrícula do período letivo, ele já cria aqui pra gente, olha. Então, ele informa lá, o aluno, ele tá matriculado, né, o RA60, ele traz o período letivo, qual que é o curso que o aluno tá matriculado, várias outras informações aqui relacionadas à inscrição. período letivo, a data de matrícula, né? Qual usuário que efetuou, que fez a inscrição também, ele traz aqui pra gente.\n[LOCUTOR 1]: junto também, olha, ele já traz aqui as disciplinas que o aluno vai cursar, matrícula e disciplinas. Bom, feito isso, aí agora a gente, esse processo que a gente fez agora, a gente fez a inscrição do aluno, né, a pré-inscrição dele, e aí o aluno ele vai executar lá dentro do portal, vai fazer a matrícula online dele. Só um porém, aqui em parametrizações por curso, a gente definiu aqui quais são os documentos exigidos do aluno ali no momento da matrícula, né, os documentos obrigatórios. E a gente tem aqui 11 documentos, né, desde o diploma, CPF, carteira do conselho, né, carteira do SUS. Como teste aqui agora, eu deixei só dois aqui para facilitar o CPF, o [PESSOA] ou o PASEP, mas lá em produção todos os cursos estão configurados com esses 11 documentos. isso\n[LOCUTOR 26]: para todos os cursos?\n[LOCUTOR 1]: Para todos os cursos.\n[LOCUTOR 26]: Aí, meninas, quando for cadastrar um internato, por exemplo, essa parte de [PESSOA], [PESSOA], a gente não precisa pedir isso, por\n[LOCUTOR 13]: exemplo.\n[LOCUTOR 26]: É, mas, por exemplo, os alunos de medicina,\n[LOCUTOR 1]: eles\n[LOCUTOR 26]: ainda talvez nem tenham carteira. da\n[LOCUTOR 1]: residência,\n[LOCUTOR 26]: a gente pode pedir, mas os estudantes...\n[LOCUTOR 1]: [EMPRESA].\n[LOCUTOR 9]: É, porque o que a gente levou em consideração foi o da residência mesmo, porque esses são obrigatórios, mas no internato, e a gente pode\n[LOCUTOR 1]: reduzir. Aí, aqui, ó, esse é o portal do\n[LOCUTOR 26]: aluno. Enfim. Eu tô há oito meses querendo ver isso.\n[LOCUTOR 1]: Eu vou passar para vocês aqui o link, né? A gente tem dois portais, tanto de produção quanto de homologação. Vou passar aqui no chat.\n[LOCUTOR 26]: Essa já é a visão que o aluno vai ter?\n[LOCUTOR 1]: Isso, essa é a visão do aluno.\n[LOCUTOR 26]: É qual, homologação ou produção?\n[LOCUTOR 1]: É homologação, que eu estou aqui.\n[LOCUTOR 26]: Aí, isso aí que a gente pode personalizar com a identidade visual do [LOCAL] também, é isso? Logo essa capa?\n[LOCUTOR 1]: Isso, isso. Essa é a página principal aqui. A gente precisa abrir um chamado ali junto com o pessoal do Cloud.\n[LOCUTOR 26]: Enviar\n[LOCUTOR 1]: para\n[LOCUTOR 26]: tempo que você me ajuda com isso. O [PESSOA] tá aqui na reunião? Tá, não tá?\n[LOCUTOR 4]: A gente consegue abrir o\n[LOCUTOR 26]: chamado lá.\n[LOCUTOR 1]: Pronto. Massa. Ok.\n[LOCUTOR 1]: na Cloud,\n[LOCUTOR 4]: né? Foi\n[LOCUTOR 1]: pra mim a pergunta?\n[LOCUTOR 4]: É na Cloud, né? Na DCloud lá, o chamado.\n[LOCUTOR 1]: Isso, isso, na Cloud.\n[LOCUTOR 1]: a gente consegue fazer essa alteração aqui,\n[LOCUTOR 1]: Então, o aluno, ele vai ter ali o registro acadêmico dele, o usuário, né? Ele vai ter a senha dele, ele vai vir aqui, ele vai acessar o portal. Como é o primeiro acesso, ele pede para o aluno criar uma nova senha para ele.\n[LOCUTOR 26]: [LOCAL].\n[LOCUTOR 1]: a gente informa uma senha padrão, e aí quando ele acessa pela primeira vez, ele coloca uma da escolha dele. Essa é a página principal aqui do portal. Aqui na página principal, ela é bem customizável, né? A gente tem aqui o ícone de vocês, né? A logomarca de vocês, né? O nome do [LOCAL]. A gente tem aqui esses banners, né? A gente consegue incluir banners. Eu tirei print ali do site de vocês, só para usar como Mas a gente consegue fazer, incluir banners aqui, com propagandas, com alguns informativos. A gente consegue criar links também com esses banners. Então, por exemplo, aqui nessa imagem. Se o aluno clicar aqui, por exemplo, ele é redirecionado para a página que a gente configura lá dentro do banner. Então, a gente consegue fazer várias ações de marketing, de propaganda aqui dentro. E essas configurações, elas são feitas aqui dentro do sistema também. Então aqui, por exemplo, aqui dentro de auxiliares, né, eu tenho aqui portais banner. Então aqui é bem simples, né, a gente vem aqui no cadastro do banner, a a gente pode incluir um título para aparecer lá em cima da imagem, a gente pode colocar o link, né, que vai ser direcionado, a gente vem aqui em incluir a imagem, né, a data inicial e a data final, se tiver, né, ah, eu quero que fique só até amanhã, a gente consegue configurar também, a ordem que vai aparecer lá no portal, né, qual que aparece, a imagem que aparece primeiro, enfim, aí vai pela Isso é para aparecer no portal do aluno, no portal do professor, se está ativo ou não ativo. Uma configuração bem, bem simples, que é só anexar a imagem mesmo.\n[LOCUTOR 1]: Aqui dentro também, olha, em [LOCAL], [LOCAL], Educacional. A gente tem aqui, olha, várias configurações, né, parametrizações referentes ao portal do aluno. Muito obrigado. só esperar ele carregar aqui, mas essas parametrizações, né, a gente fez algumas configurações ali, mas tem N opções ali, e depois seria interessante vocês darem uma olhadinha ali, um por um, ver o que\n[LOCUTOR 1]: serve para vocês, o que atende às demandas aí de vocês, vocês conseguem fazer toda uma configuração aqui dentro, relacionado\n[LOCUTOR 15]: sim. Tenho uma travada. Eu tenho um manual, que é em PDF, que assim que esse aluno chega, é importante que\n[LOCUTOR 26]: ele acesse, e se eu tivesse uma ferramenta de comprovar, no [LOCAL] e tal. Quando você ficou falando na semana passada do contrato, eu fiquei pensando se hoje a gente não poderia substituir nessa área do contrato esse manual, do aluno, né, tanto do residente eu tenho o manual, quanto do interno eu tenho esse\n[LOCUTOR 1]: manual,\n[LOCUTOR 26]: e ficar disponível aí no portal, tem como?\n[LOCUTOR 1]: Tem, tem como sim, e a gente consegue colocar daquela forma, sabe quando você acessa lá, que você clica no iconizinho, é, confirma, que\n[LOCUTOR 1]: aquela confirma\n[LOCUTOR 1]: leitura,\n[LOCUTOR 26]: sabe?\n[LOCUTOR 1]: [LOCAL]. E, ali, nessa confirmação de leitura, ele traz ali a data, se não me engano, a data, o horário que o aluno fez essa\n[LOCUTOR 26]: confirmação.\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 26]: A gente\n[LOCUTOR 26]: Aí, [PESSOA], já resolve o seu problema de você ficar mandando isso nos grupos, já vai estar no portal.\n[LOCUTOR 1]: Aí, aqui, olha, eu não vou passar um por um, não, porque é bastante coisa. mas a gente tem desde aqui, por exemplo, de receber o telefone do aluno lá no portal, né, os dados dele, como e-mail, é... Tem algumas configurações referentes a notas e faltas, tenho configurações referentes à matrícula, né? Várias opções aqui também, olha, eu tenho opções aqui, por exemplo, de customização, né, a gente consegue alterar a cor do menu do portal, a cor da fonte. A gente tem essas três opções aqui, olha, que são hotlinks, né? Eu deixei como exemplo aqui o calendário, a grade curricular e o quadro de horários, né? Mas a gente tem outras opções aqui também, mural,\n[LOCUTOR 1]: é. E aí são ícones que ficam Aqui na página principal, sabe? Ele fica de forma mais prática aqui, né? Mais fácil de acessar. A gente consegue fazer essa configuração. Então, a gente tem ali, desde a parte de relatórios também, né, são disponibilizados para outros alunos, a gente pode disponibilizar aqui também esse manual, a gente pode, enfim, a gente pode, vários tipos de relatórios aqui, a gente pode incluir para o aluno.\n[LOCUTOR 26]: Então, assim, são... [LOCAL] vai gerar uma senha para eu poder, assim, a gente entrar, entender um pouquinho quais são essas visualizações para propor essas alterações, e aí você vai fazer essas alterações junto com a gente, ou a gente se\n[LOCUTOR 1]: vira? Não, eu posso fazer junto com você, sim, sem problema nenhum.\n[LOCUTOR 1]: lá no portal, né, ele já traz aqui, né, qual que é o curso do aluno, né, que a gente cadastrou lá.\n[LOCUTOR 1]: o nome\n[LOCUTOR 26]: do aluno?\n[LOCUTOR 1]: Isso, aqui aluno teste, né, coloquei aluno teste E aqui ele consegue ver o cadastro dele também, então aqui tem todas as informações, informações de contato, de endereço, dados profissionais, qual que é o responsável financeiro,\n[LOCUTOR 26]: né? E ele pode editar coisas aí?\n[LOCUTOR 26]: aqueles dois documentos que você falou que eram obrigatórios, que você deixou, aí ele tem que vir aí?\n[LOCUTOR 1]: Aí vai ser aqui,\n[LOCUTOR 26]: olha,\n[LOCUTOR 1]: ele vai entrar aqui, e vai ter aqui, olha, matrícula online. A gente tem essa parte de apresentação, que a gente pode configurar lá, né, a gente colocar alguma imagem, alguma alguma descrição aqui referente à matrícula, né, orientação, alguma orientação, a gente personalizar para aparecer aqui como a capa, né, vamos dizer assim, da matrícula. O aluno, ele vai para a próxima aqui, ele vai selecionar qual que é o período letivo que ele tá se matriculando. Ele vai adiantar e vai ser solicitado aqui os documentos obrigatórios, Se ele tentar passar, ele não vai deixar. Olha, para avançar é necessário completar todos os itens exigidos, né? Ele até traz aqui que ele é obrigatório essa documentação. O aluno, ele vai clicar aqui para anexar, né? Nesse ciclinho aqui. Vai selecionar lá o documento. depois que eu anexei, né, ele vai ser apresentado para ele aqui, o quadro de horários para ele, né, então é que ele consegue ver tudo também, olha, disciplinas, quais são as disciplinas do Rodízio R1, quais são disciplinas do Rodízio R2, né, se ele, se ele clica em cima aqui da disciplina, é mostrado aqui para ele os horários, né, com as datas das aulas, é informado algumas outras informações também, curso, quantidade de várias, né? Ele tem todas as informações aqui das disciplinas. Ele consegue remover disciplina da graça também, isso também é configurado também, tá? Aqui, no caso aqui, ele tá podendo retirar a disciplina, mas a gente consegue também deixar fixo. Ele vai avançar. E aqui no final, olha, por enquanto tá aquele contrato, né, que a gente havia colocado, né, mas aí agora a gente vai, a gente pode incluir o manual, a gente pode incluir o informativo, né, para\n[LOCUTOR 26]: ele, que\n[LOCUTOR 1]: ele t\n[LOCUTOR 19]: inscrito. O manual vai inscrever o problema.\n[LOCUTOR 1]: Isso. Aí aqui, olha,\n[LOCUTOR 26]: ele tem\n[LOCUTOR 1]: a opção de [PESSOA] e aceita os termos.\n[LOCUTOR 26]: E a gente pode alterar também, ao invés de contrato, colocar manual, né?\n[LOCUTOR 1]: Essa opção aqui do termo de contrato, eu vou ter que verificar, viu Danube? Eu acredito que essa parte aqui, ele vem como contrato, mas eu vou verificar e te dou um retorno. Esse aqui, ele é ajustável.\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 1]: Ele vai marcar aqui que leu e aceitou os termos, vai finalizar a\n[LOCUTOR 26]: matrícula. E aí, para cada curso, eu posso ter uma configuração de documento diferente, né?\n[LOCUTOR 1]: Porque, por\n[LOCUTOR 26]: exemplo, a residência é um manual, o internato é outro manual, e os cursos vão ser os contratos.\n[LOCUTOR 1]: Isso, aqui dentro, olha, a parametrização, ela é por curso. Então, a gente informa lá qual que é, né, o período letivo, a matriz e o curso. E aí, de acordo com esse curso e período letivo, a gente consegue parametrizar de forma independente um do outro. Bom, aí feito isso, o aluno foi lá agora, ele se inscreveu, e lá no cadastro dele a gente tem os documentos foram solicitados. Então, já aparece aqui, olha,\n[LOCUTOR 1]: dois documentos, exato. Então, quando a gente entra aqui, né, as meninas aí, elas vão entrar para fazer a validação dessa documentação, olha, pode ver que a situação aqui do documento, ela tá como entregue em validação, né, e traz aqui a data da entrega, né, qual que é o documento, para o período letivo, aqui ele traz o arquivo que o aluno incluiu lá dentro do portal. Então, a gente tem a opção aqui de visualizar.\n[LOCUTOR 11]: que eu cadastrar esses alunos todos aí, [PESSOA], eu vou conseguir, por exemplo, extrair uma base desses alunos com nome, e-mail, se eu quiser disparar um e-mail?\n[LOCUTOR 1]: Sim, se você consegue. a gente consegue montar relatórios, né, aqui dentro. Se tiver a informação cadastrada dentro do sistema, a gente consegue puxar todas essas informações e montar um relatório. A gente consegue, sim. Então, lá, aí ele já abre aqui, né, o documento lá. Aqui, no caso, aqui eu peguei um documento de vocês no plano de mas a gente consegue visualizar, né, o documento que o aluno inseriu lá no momento da matrícula. E aí, quando a gente vê, viu lá, né, ah, o documento tá correto mesmo, é esse documento, a gente vem aqui e valida aquele documento. A gente deixa ele como validado.\n[LOCUTOR 1]: isso daí a gente faz para cada documentação entregue, para cada documento entregue. Então, a gente vem aqui e valida, validado os documentos, né, a gente vai lá na matrícula dele. Porque, olha, se a gente observar, ainda continua como pré-inscrito, né. Por quê? Porque a gente tem a obrigatoriedade das documentações que eles decidiram enviar, né. E essas documentações, elas precisam ser validadas, se realmente está correto aquele documento que o aluno mandou,\n[LOCUTOR 26]: né, que\n[LOCUTOR 1]: é esse\n[LOCUTOR 26]: processo\n[LOCUTOR 1]: que a gente\n[LOCUTOR 1]: Pode, pode sim.\n[LOCUTOR 26]: É porque, por exemplo,\n[LOCUTOR 26]: dar um exemplo, né, dia 2 vai ter a matrícula dos residentes médicos, né? Aí a [PESSOA] vai pra lá, passa o dia todo na [LOCAL], pra fazer a matrícula, no sistema da [LOCAL], que é onde\n[LOCUTOR 1]: eles\n[LOCUTOR 26]: realmente vão botar os documentos. Aí, entendi, aí eu posso ou botar a obrigação para eles botarem no nosso sistema ou não. É uma configuração que eu... não tem autonomia de fazer.\n[LOCUTOR 1]: Isso,\n[LOCUTOR 26]: isso.\n[LOCUTOR 1]: Aqui dentro, olha, do cadastro do documento, a gente tem essa [LOCAL] aqui, que ela indica se o documento é obrigatório ou não. A gente consegue também incluir documentos, se tiver algum por sexo, né, por exemplo, se for alguma, algum título de reservista, né, que é só masculino, né, se tiver alguma obrigatoriedade só por sexo, a gente consegue definir aqui E aqui a gente tem o tipo de documento a gente marcou como ingresso, né, que ele é solicitado no momento do ingresso ali do aluno. Mas a gente pode deixar também como período letivo, ele não fica, ele não entra ali naquela parte da matrícula ali para o aluno enviar a documentação. A gente consegue fazer essas modificações também. Bom, aí voltando lá na matrícula,\n[LOCUTOR 1]: igual eu falei, como tem essa obrigatoriedade dos documentos, a gente deixou para passar o aluno como inscrito, né, como de fato ali que ele tá matriculado, após a validação dos documentos que a gente fez, né. Então a gente entra lá na matrícula dele e vem aqui, olha, no processo de alterar a situação de que aí a gente vai\n[LOCUTOR 26]: passar\n[LOCUTOR 1]: ele de pré-inscrito para inscrito. E quando a gente faz aqui, ele pede também o motivo da alteração, o motivo por que a gente está alterando. A gente criou aqui o motivo documentos obrigatórios validados, mas esse aqui também, ele é customizado também, a gente pode incluir vários motivos de alteração aqui que fica mais adequado. A gente vai selecionar aqui, documentos obrigatórios validados. Eu vou avançar, vou executar. E aí aquilo já passa, olha. pré-inscrito, tá vendo? Ele já muda aqui para inscrito, e se eu for lá nas matrículas das disciplinas também,\n[LOCUTOR 1]: já traz lá o aluno como inscrito em todas as disciplinas, né?\n[LOCUTOR 1]: aí tudo isso é refletido lá no portal. Então aqui, olha, aqui do lado esquerdo, né, a gente tem um menu aqui, Ele traz aqui pra gente a primeira opção, ele traz... o calendário aqui para o aluno. Nesse calendário, a gente consegue incluir algumas opções, lá naquelas configurações que eu mostrei para vocês, né, que tem várias opções, a gente consegue incluir algumas opções para aparecer aqui no calendário, né, como, por exemplo, a aula que o aluno vai ter aquele dia, né, alguma avaliação, né, se já tiver configurado lá a data de avaliação. Então, tudo isso, ele é apresentado aqui dentro do calendário para o aluno, no calend\n[LOCUTOR 18]: Essas opções que você listou aí no menu, nesse ícone\n[LOCUTOR 1]: azul,\n[LOCUTOR 1]: Pode, pode alterar sim. Lá dentro das configurações aqui que eu mostrei para vocês, do portal, lá dentro tem algumas opções que a gente pode incluir para aparecer aqui no calendário. Esse aqui é editado também.\n[LOCUTOR 1]: aqui, se ele clicar, se ele clicar aqui, abre para ele, né, qual é a aula no dia 2 do 2, qual que é a disciplina, se é aula prática, se é aula teórica, qual que é o horário de início e término. Ele consegue ir lá para a disciplina, né, ele é linkado para a disciplina, ele traz aqui as informações das disciplinas, né, os horários das aulas, alguma informação, se for cadastrado lá na ele traz as faltas, ele traz as notas de avaliação, né, olha lá, ele já puxa aqui, olha, que essa disciplina, ela é uma disciplina do, da etapa do R2, né, que ela vale 10 pontos, então ele já traz aqui as informações referentes àquela disciplina, né, e a mesma coisa da avaliação,\n[LOCUTOR 1]: ele traz lá qual que é a disciplina, né, a data, qual que é a média, qual que é o [LOCAL], aqui, a gente tem a grade curricular do aluno. Então, ele traz aqui pra gente os números de disciplinas obrigatórias, quais disciplinas que estão pendentes do aluno fazer, né? Ele traz aqui,\n[LOCUTOR 26]: olha,\n[LOCUTOR 1]: as etapas já criadas, né, o [EMPRESA], [LOCAL]. Dentro, ele traz todas as disciplinas, ele já traz lá qual que é o período letivo, a disciplina, né, se o aluno tá inscrito ou não, né, se ele já tem alguma nota, alguma nota, falta, ele já traz aqui também, dentro da grade curricular, ele traz a carga horária daquela disciplina,\n[LOCUTOR 1]: dentro da matriz. Então, ele já tem todas as informações. Aqui também, quando ele clica, ele é redirecionado para o cadastro lá das disciplinas, né, porque tem todas as informações só aquela disciplina que eu mostrei agora para vocês. E aqui, olha, aqui do lado a gente tem aqui, olha, esse numerozinho 3, tá vendo? Essa bolinha amarela. Quando o aluno, ele já concluiu aquela disciplina, aqui para ele vai aparecer como uma bolinha cinzinha, né? O número 1, que é de concluída. Quando ele ainda não concluiu, né, ele ainda fica como três, né? Se ele tá realizando aquela disciplina, né, e ainda não concluiu, ela fica como pendente aqui. Então, ele tem essa, o status, né, da disciplina que ele tá realizando, através desses [LOCAL] aqui. E aqui é separado, né, para mostrar em todos, quais que estão em curso, que estão pendentes, as que estão concluídas, ele faz esse filtro aqui também. A grade curricular, depois da grade curricular, a gente tem aqui o quadro de horários. Então, ele traz para o aluno aqui as disciplinas, né, que ele vai cursar naquela data, e qual o período também que ele vai cursar. Então, por exemplo, unidade de treinamento para deshospitalização, ele vai cursar na segunda, na terça, na quarta, do dia 1 do 2 ao dia 28 do 2, né? A gente clica aqui, ele traz informações daquela aula daquele dia, né? As informações do horário, qual que é a data do horário. E lá em mais informações, ele traz também o horário todo aqui para o aluno, os horários que ele vai ter as aulas aqui. Ele tem a matrícula online, né, que é o que a gente viu. Aqui dentro também é gerado um gráfico, né, vai gerando para ele ali, sobre o desempenho de notas dele, né, então traz aqui as disciplinas, né, que ele está cursando naquele momento, as notas que ele teve, a média em relação à turma, a média em relação ao curso também. Então, ele vai gerando aqui para o aluno um gráfico de desempenho baseado nessas faltas e notas que são distribuídos ali para o aluno. [LOCAL] disso, a gente tem as notas e as faltas. Hoje eu vou mostrar para vocês aqui o lançamento por dentro aqui do sistema, porque a gente tem a opção também, pelo portal do professor, do professor fazer o lançamento diretamente lá pelo portal. Hoje a gente não tem os professores cadastrados. Então, a princípio, as meninas vão fazer esse cadastro. e via sistema, né? Então, aqui, olha, dentro de matrícula e avaliação, a gente tem algumas opções, né? A gente consegue tanto lançar as notas e faltas da etapa, né, como um todo, ou a nota de avaliação e de falta específico, né? Então, por exemplo, eu tenho aqui, por exemplo, olha, notas e faltas de etapas. Então, a gente vem aqui, olha, a gente seleciona qual que é o período letivo, a turma, qual que é a disciplina, né, que a gente vai fazer esse lançamento das notas. Vou pegar uma aqui, olha, pegar essa [LOCAL]. A gente vai selecionar qual que é a etapa, etapa de notas, R2 notas aqui, a gente vai selecionar também a etapa de faltas. E a gente vai vir aqui, vai buscar os alunos. Então, aqui no caso, olha, o que a gente está vendo agora é esse daqui, olha, o aluno teste portal. Então, aqui a gente consegue lançar, por exemplo, o aluno tirou oito, ele teve três faltas. Qual o número de aulas, né, que ele teve? A gente consegue fazer essa configuração aqui e fazer esse lançamento para o aluno. Olha lá, e ele aparece aqui, anota para o aluno, né? Aqui ele faz da turma toda, né? Todos os alunos que estão matripulados nessa turma Eles são listados aqui, né? E aí a gente consegue fazer esse lançamento para todos, né? Para todos de uma vez. Ou a gente consegue também... É, pera aí. Ou a gente consegue também fazer a digitação diretamente ali para o cadastro do aluno. A gente vem aqui, seleciona o aluno que a gente quer. seleciona o período letivo, né, vem aqui em buscar.\n[LOCUTOR 1]: aqui ele traz todas as disciplinas, né, que o aluno tá cursando, olha. Como eu já cadastrei lá, né, ele já traz aqui também, que o aluno, né, tirou nota 8, de 10 pontos, e que ele teve três faltas, né. É, aqui ele tá trazendo, né, porque eu acabei de cadastrar aqui, né, quando eu relacionei os alunos lá, mas em outra disciplina aqui, que a gente não fez, a gente consegue também vir cadastrar aqui direto. A data final... Aqui, aqui ele não tá deixando, olha, porque aqui tem uma coisa também, Aqui dentro da... do cadastro aqui da turma disciplina, a gente tem as etapas criadas, né? E dentro das etapas criadas, a gente tem algumas configurações. Então, por exemplo, do cadastro da etapa de notas, a\n[LOCUTOR 26]: gente\n[LOCUTOR 1]: definiu aqui a data de início de digitação e a data limite de digitação, né? aqui nesse caso que eu tentei alterar lá agora, ele tá aqui como data de digitação 1 do 3 de 2026, né? Então, por isso que eu não consigo digitar nessa disciplina lá dentro do portal, porque aqui dentro da etapa, né, do R1 de notas, ele tá amarrado aqui, né? Ele só consigo lançar a partir do dia 1 do 3. Já a outra, a gente conseguiu Porque a outra aqui, ela tá como um dos dois. Então, a gente consegue fazer essa amarração também, tá? De quando que a gente consegue fazer o lançamento ali pro aluno. Aqui também eu tenho a opção de fazer frequência diárias, né? Então, aqui é a mesma coisa. Aqui são tipos de opções, eu tô passando bem rápido, assim, a gente já até fez essa parte com as meninas ali, durante os treinamentos ali, mas só para mostrar para vocês aqui, que a gente consegue lançar tanto para uma turma inteira, né? Quanto para alunos em específicos, né? Mas aí o esquema é a mesma coisa, a gente vem aqui, a gente faz o filtro aqui, né? um período letivo, a disciplina, qualquer etapa, né? A gente vem aqui em buscar alunos,\n[LOCUTOR 1]: ele vai trazer aqui, olha, as datas das aulas, né? E a gente consegue fazer o lançamento aqui da frequência, né? Então, para o aluno, quando ele acessa quando ele acessa aqui dentro do cadastro lá da disciplina, né, a opção de faltas aqui, quando a gente lança para ele as faltas lá, as frequências diárias, né, é apresentado para ele aqui também as faltas dele, a frequência dele, né. Então, ele traz a data que foi registrado a falta. E aí a gente tem também as notas de avaliação, que a gente consegue incluir a nota diretamente na avaliação. Então, aqui dentro do sistema, a gente tem duas opções, né, ou a gente digitar diretamente na etapa, então vamos supor que, dentro ali da etapa, a gente tem cadastrado, um exemplo, tem cadastrado ali duas avaliações para o aluno. E o aluno tirou 8 e 8. Ao invés de eu lançar a nota por avaliação, em cada avaliação eu ir lá e lançar 8, eu consigo lançar diretamente na etapa esse valor de 16. Então a gente consegue fazer dessa forma também, ou a gente fazer ali tudo discriminado certinho, né, a nota da avaliação, e aí já puxa lá a nota da etapa também, a gente consegue fazer essa diferenciação aqui dentro. E aqui a gente consegue fazer as notas de avaliação por avaliação, né, então a gente vai lá, seleciona o período letivo, a disciplina, qual que é a etapa, né, essa disciplina aqui ela faz parte da, do rodízio R2, Ele já traz aqui a avaliação que a gente deixou cadastrada para o aluno. A gente vem aqui, olha, buscar alunos. Olha lá. O aluno que a gente estava falando, né, o aluno que a gente está configurando, né, que é o aluno teste portal. Ele já tem a nota da etapa aqui, mas eu posso vir aqui também e lançar a nota da avaliação. Vem aqui e salvo. E aí, quando eu venho aqui, olha... Eu vim rapidão aqui, mas aqui no menu do lado esquerdo, né? Eu tenho aqui nota e falta unificada, ele já traz aqui pra gente a disciplina, né? Qual que é a nota que o aluno teve naquela disciplina, quantidade de faltas, né? Se ele clica lá, né, ele vê as pautas, né, igual eu falei, ele vê a avaliação também, olha, ele traz aqui a data da avaliação, qual que é o valor, a nota, se o aluno ele vê em detalhes, é exibido para ele, né, qual que é a data, a média, a nota que ele tirou, resultado acima da média, é trazido para ele aqui as informações relacionadas àquela avaliação. E aqui, igual eu falei, né, a gente tem várias opções aqui, tanto por etapa quanto direto aqui de avaliações, né, do aluno. [LOCAL], meninas, até se vocês tiverem dúvidas, a gente pode sentar novamente para a gente dar uma repassada nessa digitação de notas e faltas, né, para a gente deixar tudo certinho. Mas aí o funcionamento é bem simples, né, a gente vem aqui, a gente faz o lançamento, e ele automaticamente, ele já é reproduzido para o aluno lá no portal.\n[LOCUTOR 13]: Quando\n[LOCUTOR 1]: ele vem aqui na grade curricular aqui também, desculpa, aqui do lado esquerdo também, ele consegue visualizar somente as faltas que ele teve, traz lá todas as disciplinas, e traz aqui a quantidade de faltas, né? A gente, na falta lá, a gente não lançou a falta, a frequência diária, né? A gente lançou por etapa, mas a gente lançar diária, ele aparece todas ali também. Mas ele já traz aqui pra gente todas as disciplinas do aluno e as faltas, né? E ele traz as faltas também pela etapa, né? Pelo rodízio, ele faz essa diferenciação. ele tem a opção de ver só as notas também. Lá ele traz a disciplina, né, qual que é a nota e qual aluno teve, se o aluno clicar aqui em avaliações, vai aparecer lá para ele também as informações referentes à avaliação, o valor, a nota. E aqui tudo é interligado, né, então tudo que ele vai, que ele vai acessando, vai mostrando as opções referentes àquele cadastro, né? Então, dessa avaliação, ele consegue ir lá pra disciplina, e lá na disciplina ele consegue ter todas as informações, né? Desde o horário de aula até as faltas, as avaliações, se teve alguma ocorrência, né? A gente tem a opção aqui também do plano de aula, que o aluno ele consegue visualizar o plano de Esse plano de aula, ele é cadastrado aqui dentro também, lá na turma disciplina, quando a gente cria os horários das aulas para os alunos, né? Quando a gente faz todos os vínculos aqui, a gente gera também os planos de aulas, né? E aí é gerado um plano de aula para cada dia de aula. Então, ele é gerado para todas as aulas, que a gente criou os horários, né? E aqui dentro do plano de aula a gente consegue incluir todas as informações. aparece aqui de identificação, né, o conteúdo previsto, o conteúdo realizado, a data que foi realizado aquele conteúdo, se tem alguma lição de casa, falta de reposição, né, se precisar fazer alguma substituição, alguma reposição de professor, a gente consegue fazer essa configuração aqui também. Se tem algumas... alguma observação referente ao plano de E se tem algum arquivo, também, que é disponibilizado para o aluno, né? Então, a gente consegue incluir aqui dentro também. E todas essas informações, o aluno, ele consegue visualizar aqui dentro também. Então, lá, é o plano de aula, né? Traz qual que é o conteúdo previsto, qual conteúdo foi realizado, a lição e os arquivos, né? Caso tenha algum arquivo, algum PDF, alguma coisa que queira disponibilizar para o aluno, a gente consegue disponibilizar também. Aqui na parte de secretaria, a gente tem aqui a opção de requerimentos, né? No momento aqui, a gente não tem nenhum cadastrado, mas a gente consegue incluir aqui também, né? Então, se tem algum requerimento que os alunos deles fazem a vocês, algum relatório, alguma coisa, a gente consegue incluir aqui também, então ele consegue já vir direto e baixar esse requerimento, né, fazer essa solicitação do requerimento. Ele consegue fazer através do portal também. A parte do financeiro aqui, a gente não vai ter, né, essa parte do financeiro aqui. E a gente vai ter ali os arquivos, né, se foi disponibilizado alguns arquivos, alguns arquivos ali pela Prima Disciplina, igual falei agora. a gente consegue disponibilizar, o aluno ele vai acessar aqui, vai estar o arquivo disponível aqui também, os materiais, né, da disciplina, eu quero um PDF, né, um tutorial, alguma videoaula, alguma coisa, a gente consegue incluir esses arquivos, o aluno consegue filtrar aqui também por disciplina. E aqui também tem a parte de relatórios, hoje, no momento aqui, está disponível aquele contrato educacional, né? Mas a gente consegue incluir vários tipos de relatórios, né? Igual eu falei, relacionados ao relatório, tudo que a gente tem cadastrado no sistema, desde os dados dos alunos até as notas, as disciplinas, a matriz curricular, toda a informação que a gente tem cadastrado ali, a gente consegue juntar e fazer, montar um relatório, né? Então, se quiser algum relatório de notas, algum relatório de faltas, qualquer tipo de relatório a gente consegue... disponibilizar aqui também para o aluno, para ele fazer a emissão desse relatório, né. Então, por exemplo, aqui hoje está aquele contrato que a gente havia feito, né. Se o aluno clicar aqui, ele consegue visualizar aquele relatório, consegue emitir aquele relatório, ele consegue fazer a emissão daquele relatório, né, fazer o download, né, baixar lá o arquivo para ele, a gente consegue disponibilizar também para ele. Pessoal, em relação ao portal, acho que eu passei por todas as ferramentas aqui, é, ficou, tem alguma dúvida, alguma coisa que eu deixei passar?\n[LOCUTOR 26]: Não, [PESSOA], acho que deu para entender, não sei as meninas, [PESSOA] que é esse trabalho, assim, você dar uma senha meio que beta desse usuário, pra gente olhar, porque, assim, como pra gente não é uma instituição de\n[LOCUTOR 13]: ensino,\n[LOCUTOR 26]: tem algumas coisas que a gente não vai operacionalizar com eles. Então, é\n[LOCUTOR 1]: deixar\n[LOCUTOR 26]: oculto e deixar só os botões daquilo que a gente vai mais operacionalizar. Mas é que é um trabalho mais nosso interno de customizar mesmo, de olhar e entender o que é que fica e o que é que sai.\n[LOCUTOR 1]: [LOCAL],\n[LOCUTOR 26]: perfeito.\n[LOCUTOR 1]: [PESSOA] que é isso. E aí, assim, é o que vocês precisarem de ajuda ali nas configurações, nas parametrizações, eu tô dispon\n[LOCUTOR 25]: aqui,\n[LOCUTOR 1]: com vocês, eu ajudo. Eu\n[LOCUTOR 13]: tava\n[LOCUTOR 26]: mexendo\n[LOCUTOR 20]: no cinema e eu tava já tonta.\n[LOCUTOR 26]: [EMPRESA]?\n[LOCUTOR 26]: acho que é um cuidado que vocês precisam ter quando vocês forem cadastrar o internato. Porque, assim, não adianta ficar cadastrando um bocado de disciplina, porque o internato da gente já é uma disciplina da faculdade. Então tem que ver com o [PESSOA] aí como é que a gente faz uma dinâmica para não ficar tão subdividido, porque senão gera muito trabalho para uma coisa que, para a gente, é como se fosse uma disciplina. Eu\n[LOCUTOR 13]: só pedi atria e algumas subespecialidades, mas a subespecialidade é só no caso de um\n[LOCUTOR 26]: extra, de um\n[LOCUTOR 13]: atletismo.\n[LOCUTOR 26]: A gente não pode cadastrar isso no sistema, entendeu?\n[LOCUTOR 13]: Porque\n[LOCUTOR 1]: senão,\n[LOCUTOR 26]: vai ficar pra todo mundo. É que nem aí, você tem que fazer uma autoriação também aí no que vocês estão chamando, no sistema de pediatria. Porque ficou todo mundo cadastrado como residência multi, residência multi. E ficou só a pediatria. Na verdade, a residência médica, a pediatria. Mas eu vou anotar essas coisinhas, passar pra vocês, pra vocês alinharem com o [PESSOA].\n[LOCUTOR 1]: para você lá o seu usuário, porque o nosso usuário, né, de enquanto gerência aqui do sistema, a gente acessa aqui o sistema, né? E eu vou mandar o usuário de aluno, que toda alteração que a gente fizer, a gente consegue visualizar como o aluno tá visualizando aqui. Se a gente acessar com o nosso usuário aqui, a gente não tem o perfil de aluno, né? A gente não tem ali essa movimentação acadêmica, né? Então, no portal a gente acessa com um, mas no sistema aqui a gente acessa com o nosso mesmo. Mas aí eu vou deixar esse usuário pronto, E aí eu mando para... pode ser para a [PESSOA] ali?\n[LOCUTOR 26]: Eu peço para a [PESSOA]\n[LOCUTOR 26]: com vocês?\n[LOCUTOR 1]: Pode ser. [LOCAL]. [LOCAL]. E aí eu já disponibilizo para vocês.\n[LOCUTOR 26]: Combinado.\n[LOCUTOR 1]: Pessoal, acho que é isso. Se tiver alguma dúvida, alguma coisa, estou à disposição. Se vocês precisarem também.\n[LOCUTOR 1]: [LOCAL], gente. Bom trabalho para",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:01.711618+00:00",
+    "total_linhas": 214,
+    "linhas_mantidas": 154,
+    "linhas_removidas": 60,
+    "percentual_mantido": 71.96,
+    "confianca_media": 0.4845
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: Boa tarde, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3861,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [EMPRESA], [PESSOA]. Tudo bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4526,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tudo joia e você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tudo na paz. Deixa eu ver aqui, cadê as meninas?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.458,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Bom dia, pessoal. Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3506,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Boa tarde, [PESSOA]. E aí E a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: O [PESSOA] me dá dois minutinhos que o Mario está entrando tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4657,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [EMPRESA], [PESSOA]. Você está no mudo, [PESSOA]. A [LOCAL] chegou também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5043,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCUTOR 8]: tarde. Boa tarde. Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4247,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: tarde. Boa tarde, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3934,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL], [PESSOA], podemos começar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Vou compartilhar minha tela aqui. Estão visualizando a minha tela?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3858,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Estamos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Bom, vamos lá. Só para dar uma breve introdução de como que a gente chegou ali, tudo que a gente vai ver ali dentro do portal. Eu, a [PESSOA], as meninas, a gente fez um trabalho durante esse tempo de realizar os cadastros. Então, a gente fez todo o cadastro, parametrização, de alunos, professores, dos cursos, disciplinas, né, toda a estrutura curricular, toda a estrutura de oferta também, né, que a gente fez o cadastro ali dos períodos letivos, das turmas, e chegamos ao cadastro das turmas-disciplinas, né. Quando eu falo cadastro da turma-disciplina, é como se fosse um vínculo de tudo relacionado àquela turma, né, então, a gente E, junto à disciplina, a gente vincula também o professor, né, que é o responsável por aquela disciplina, as etapas, né, o R1, R2, a gente faz a geração do plano de aula também, né, então, peguei como exemplo aqui o curso de enfermagem, e quando eu entro aqui, olha, eu tenho a disciplina, né, eu tenho a turma aqui de é, quando eu crio a turma e disciplina, né, eu informo lá qual que é o período letivo que a gente tá criando essa turma, né, a gente informa qual que é o curso, o turno, né, que o, que é ofertada essa disciplina, a gente vincula disciplina lá na turma, a gente informa data inicial, data final, quantidade máxima de alunos que é permitido. Dentro dessa turma e disciplina, a gente informa os horários de aula, né, que serão dadas dessas disciplinas. A gente tem um cadastro dos professores, que essa parte a gente ainda não realizou, mas a gente tem disponível aqui, né, a gente vincular o professor responsável. A gente tem as etapas, né, igual igual eu falei para vocês, que é o R1 e R2, e a gente tem as etapas de notas e faltas, né? Então, a gente tem a etapa de nota, que a gente faz o lançamento ali das avaliações, das notas, e as etapas de faltas, que é onde a gente realiza a frequência dos alunos. Dentro da etapa de notas, a gente deixou cadastrado também as avaliações de cada etapa, E a gente fez toda a parametrização do valor da avaliação, qual que é a média, né, para o aluno ser aprovado, né, data de avaliação, qual que é a carga horária. Então, a gente já deixou toda essa parte já toda estruturada, já toda cadastrada. E aí, o funcionamento, né, ele é o seguinte, O aluno, né, a gente vai fazer a inscrição do aluno aqui dentro do sistema, essa inscrição pro aluno, ele vai ser disponibilizada lá no portal do aluno, né, e aí nesse portal o aluno ele vai acessar, ele vai fazer a matrícula online dele, e junto com a matrícula ele vai informar quais são os documentos obrigatórios, né, que ele precisa enviar ali, que é uma premissa para ele conseguir realizar a matrícula, e ele vai ali efetivar a inscrição dele, né, e depois que ele efetivar a inscrição dele, a gente vai fazer a validação desses documentos aqui dentro do sistema e vai aprovar, né, vamos dizer assim, aquela inscrição do aluno, e a partir daí ele vai ter toda a vida acadêmica dele lá disponível no portal. Então, o processo, né, pra gente realizar essa inscrição, ela é bem simples, né? A gente vai, tem o cadastro do aluno, né? Eu criei um aluno teste aqui, aqui eu tô dentro do ambiente de desenvolvimento, né, de homologação, então eu criei um aluno teste portal aqui, dentro do cadastro desse aluno, né, ele tem todas as informações, né, a parte de documentação, a parte de endereço, o telefone dele, né, os documentos, A gente criou aqui os campos complementares também, que é para informar dentro do cadastro, tanto do aluno quanto do professor, que é o número da carteira SUS e o número do registro no conselho de classe profissional. E aqui, quando a gente gera, quando a gente cria o cadastro do aluno, é gerado para ele também o usuário. Esse usuário, a gente definiu que ele é o mesmo usuário, é o registro acadêmico dele. pode ver que o mesmo registro acadêmico dele é gerado o usuário. E esse usuário, com esse registro acadêmico do aluno, ele vai conseguir acessar o portal. as meninas definiram uma senha padrão, né, para a criação desse usuário, mas a gente também consegue, aqui dentro do cadastro dele, olha, aqui nesse [PESSOA] aqui de [LOCAL], a gente consegue formar uma nova senha para ele, a gente consegue resetar a senha dele. Bom, então o cadastro aqui, né, desse aluno, eu já deixei ele pronto para a gente utilizar como teste, né, e o primeiro passo que a gente faz, é incluir aqui para o aluno o curso que ele vai cursar, o curso habilitação. Então, a gente vem aqui para inserir. Vou informar aqui que esse aluno vai fazer, por exemplo, enfermagem. a gente vai colocar a situação de matrícula dele como pré-inscrito, né, porque a gente tem a premissa ali dos documentos obrigatórios, né, e eu vou salvar. [LOCAL] que eu fiz isso, né, que eu vinculei aqui o curso, né, ao cadastro do eu vou executar o processo de matricular o aluno no período letivo, né, então é um processo que ele vai, ele vai aplicar esse curso de enfermagem que a gente tem formando aqui, né, junto ao período letivo que a gente vai selecionar aqui também. Então aqui a gente informa o período letivo que ele vai cursar. ele já traz lá pra gente, olha, a matriz aplicada, né, enfermagem, habilitação, a matriz curricular, ele já traz aqui como pré-inscrito também, a data da matrícula, né, caso não seja hoje, a gente consegue alterar a data também, fazer uma data retroativa, e ele traz os documentos obrigatórios também, né, que o aluno vai precisar enviar para o pessoal da A gente vem aqui em avançar. A gente vai adicionar as disciplinas, né, desse curso aqui pro aluno. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tenho que fazer isso aluno por aluno.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: e o salão para aluno.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aí ele tá puxando as disciplinas que a gente cadastrou dentro dessa matriz.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.537,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso, exato. Deu uma travadinha aqui. Aqui. Aí ele já traz pra gente, né, as disciplinas. Olha, eu vou selecionar as relacionadas ao curso de enfermagem. Ele já traz aqui pra gente todos como pré-inscrito, né? Ele traz para a gente também os horários, né, das disciplinas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: para o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: aluno, né? Já traz aqui o quadro de horário para ele. E a gente vem aqui e executa. E ele vai fazer a inscrição do aluno. Então, agora, quando eu entro aqui, por exemplo, a linha Nexus, matrícula do período letivo, ele já cria aqui pra gente, olha. Então, ele informa lá, o aluno, ele tá matriculado, né, o RA60, ele traz o período letivo, qual que é o curso que o aluno tá matriculado, várias outras informações aqui relacionadas à inscrição. período letivo, a data de matrícula, né? Qual usuário que efetuou, que fez a inscrição também, ele traz aqui pra gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: junto também, olha, ele já traz aqui as disciplinas que o aluno vai cursar, matrícula e disciplinas. Bom, feito isso, aí agora a gente, esse processo que a gente fez agora, a gente fez a inscrição do aluno, né, a pré-inscrição dele, e aí o aluno ele vai executar lá dentro do portal, vai fazer a matrícula online dele. Só um porém, aqui em parametrizações por curso, a gente definiu aqui quais são os documentos exigidos do aluno ali no momento da matrícula, né, os documentos obrigatórios. E a gente tem aqui 11 documentos, né, desde o diploma, CPF, carteira do conselho, né, carteira do SUS. Como teste aqui agora, eu deixei só dois aqui para facilitar o CPF, o [PESSOA] ou o PASEP, mas lá em produção todos os cursos estão configurados com esses 11 documentos. isso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: para todos os cursos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Para todos os cursos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aí, meninas, quando for cadastrar um internato, por exemplo, essa parte de [PESSOA], [PESSOA], a gente não precisa pedir isso, por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4959,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: exemplo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É, aqui a gente cadastrou como obrigatório.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É, mas, por exemplo, os alunos de medicina,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5579,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: eles",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ainda talvez nem tenham carteira. da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: residência,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: a gente pode pedir, mas os estudantes...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5289,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: É, porque o que a gente levou em consideração foi o da residência mesmo, porque esses são obrigatórios, mas no internato, e a gente pode",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: reduzir. Aí, aqui, ó, esse é o portal do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aluno. Enfim. Eu tô há oito meses querendo ver isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.497,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu vou passar para vocês aqui o link, né? A gente tem dois portais, tanto de produção quanto de homologação. Vou passar aqui no chat.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Essa já é a visão que o aluno vai ter?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso, essa é a visão do aluno.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É qual, homologação ou produção?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É homologação, que eu estou aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aí, isso aí que a gente pode personalizar com a identidade visual do [LOCAL] também, é isso? Logo essa capa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5853,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso, isso. Essa é a página principal aqui. A gente precisa abrir um chamado ali junto com o pessoal do Cloud.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5247,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Enviar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: eles a... Fala gente, é muita gente. Quem é? Eu, o meu TI ou vocês?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4248,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Vocês aí. O pessoal de TI consegue. O pessoal de marketing, não sei se está com o usuário aqui dentro também. Já faz",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4383,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tempo que você me ajuda com isso. O [PESSOA] tá aqui na reunião? Tá, não tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4715,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: A gente consegue abrir o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: chamado lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pronto. Massa. Ok.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: na Cloud,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: né? Foi",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: pra mim a pergunta?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É na Cloud, né? Na DCloud lá, o chamado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso, isso, na Cloud.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Pronto, beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: a gente consegue fazer essa alteração aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então, o aluno, ele vai ter ali o registro acadêmico dele, o usuário, né? Ele vai ter a senha dele, ele vai vir aqui, ele vai acessar o portal. Como é o primeiro acesso, ele pede para o aluno criar uma nova senha para ele.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.533,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: a gente informa uma senha padrão, e aí quando ele acessa pela primeira vez, ele coloca uma da escolha dele. Essa é a página principal aqui do portal. Aqui na página principal, ela é bem customizável, né? A gente tem aqui o ícone de vocês, né? A logomarca de vocês, né? O nome do [LOCAL]. A gente tem aqui esses banners, né? A gente consegue incluir banners. Eu tirei print ali do site de vocês, só para usar como Mas a gente consegue fazer, incluir banners aqui, com propagandas, com alguns informativos. A gente consegue criar links também com esses banners. Então, por exemplo, aqui nessa imagem. Se o aluno clicar aqui, por exemplo, ele é redirecionado para a página que a gente configura lá dentro do banner. Então, a gente consegue fazer várias ações de marketing, de propaganda aqui dentro. E essas configurações, elas são feitas aqui dentro do sistema também. Então aqui, por exemplo, aqui dentro de auxiliares, né, eu tenho aqui portais banner. Então aqui é bem simples, né, a gente vem aqui no cadastro do banner, a a gente pode incluir um título para aparecer lá em cima da imagem, a gente pode colocar o link, né, que vai ser direcionado, a gente vem aqui em incluir a imagem, né, a data inicial e a data final, se tiver, né, ah, eu quero que fique só até amanhã, a gente consegue configurar também, a ordem que vai aparecer lá no portal, né, qual que aparece, a imagem que aparece primeiro, enfim, aí vai pela Isso é para aparecer no portal do aluno, no portal do professor, se está ativo ou não ativo. Uma configuração bem, bem simples, que é só anexar a imagem mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sei.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aqui dentro também, olha, em [LOCAL], [LOCAL], Educacional. A gente tem aqui, olha, várias configurações, né, parametrizações referentes ao portal do aluno. Muito obrigado. só esperar ele carregar aqui, mas essas parametrizações, né, a gente fez algumas configurações ali, mas tem N opções ali, e depois seria interessante vocês darem uma olhadinha ali, um por um, ver o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: serve para vocês, o que atende às demandas aí de vocês, vocês conseguem fazer toda uma configuração aqui dentro, relacionado",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA], eu tenho um manual, que assim que esse aluno chega... [EMPRESA], tá me ouvindo, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4517,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 15]: sim. Tenho uma travada. Eu tenho um manual, que é em PDF, que assim que esse aluno chega, é importante que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ele acesse, e se eu tivesse uma ferramenta de comprovar, no [LOCAL] e tal. Quando você ficou falando na semana passada do contrato, eu fiquei pensando se hoje a gente não poderia substituir nessa área do contrato esse manual, do aluno, né, tanto do residente eu tenho o manual, quanto do interno eu tenho esse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: manual,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: e ficar disponível aí no portal, tem como?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4812,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tem, tem como sim, e a gente consegue colocar daquela forma, sabe quando você acessa lá, que você clica no iconizinho, é, confirma, que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: lê,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: aquela confirma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: leitura,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: sabe?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL]. E, ali, nessa confirmação de leitura, ele traz ali a data, se não me engano, a data, o horário que o aluno fez essa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: confirmação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: consegue sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aí, [PESSOA], já resolve o seu problema de você ficar mandando isso nos grupos, já vai estar no portal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aí, aqui, olha, eu não vou passar um por um, não, porque é bastante coisa. mas a gente tem desde aqui, por exemplo, de receber o telefone do aluno lá no portal, né, os dados dele, como e-mail, é... Tem algumas configurações referentes a notas e faltas, tenho configurações referentes à matrícula, né? Várias opções aqui também, olha, eu tenho opções aqui, por exemplo, de customização, né, a gente consegue alterar a cor do menu do portal, a cor da fonte. A gente tem essas três opções aqui, olha, que são hotlinks, né? Eu deixei como exemplo aqui o calendário, a grade curricular e o quadro de horários, né? Mas a gente tem outras opções aqui também, mural,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né? Porque a gente não usa muito essas... Isso,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: é. E aí são ícones que ficam Aqui na página principal, sabe? Ele fica de forma mais prática aqui, né? Mais fácil de acessar. A gente consegue fazer essa configuração. Então, a gente tem ali, desde a parte de relatórios também, né, são disponibilizados para outros alunos, a gente pode disponibilizar aqui também esse manual, a gente pode, enfim, a gente pode, vários tipos de relatórios aqui, a gente pode incluir para o aluno.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Então, assim, são... [LOCAL] vai gerar uma senha para eu poder, assim, a gente entrar, entender um pouquinho quais são essas visualizações para propor essas alterações, e aí você vai fazer essas alterações junto com a gente, ou a gente se",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5391,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: vira? Não, eu posso fazer junto com você, sim, sem problema nenhum.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: fazer, sim. Como a gente não sabe todas as funções, eu vou precisar brincar um pouquinho no site para poder entender, olhar esse layout.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não, beleza, perfeito. Mas aí são várias configurações aqui, aí depois no... a gente pode sentar e fazer esses ajustes.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4207,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: lá no portal, né, ele já traz aqui, né, qual que é o curso do aluno, né, que a gente cadastrou lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5604,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: o nome",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: do aluno?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso, aqui aluno teste, né, coloquei aluno teste E aqui ele consegue ver o cadastro dele também, então aqui tem todas as informações, informações de contato, de endereço, dados profissionais, qual que é o responsável financeiro,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né? E ele pode editar coisas aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tem a opção de deixar ele editar. Aqui no momento aqui ele não tá editável não, mas a gente consegue deixar sim ele alterar, inclusive ali no momento da matrícula também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4473,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aqueles dois documentos que você falou que eram obrigatórios, que você deixou, aí ele tem que vir aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aí vai ser aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: olha,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ele vai entrar aqui, e vai ter aqui, olha, matrícula online. A gente tem essa parte de apresentação, que a gente pode configurar lá, né, a gente colocar alguma imagem, alguma alguma descrição aqui referente à matrícula, né, orientação, alguma orientação, a gente personalizar para aparecer aqui como a capa, né, vamos dizer assim, da matrícula. O aluno, ele vai para a próxima aqui, ele vai selecionar qual que é o período letivo que ele tá se matriculando. Ele vai adiantar e vai ser solicitado aqui os documentos obrigatórios, Se ele tentar passar, ele não vai deixar. Olha, para avançar é necessário completar todos os itens exigidos, né? Ele até traz aqui que ele é obrigatório essa documentação. O aluno, ele vai clicar aqui para anexar, né? Nesse ciclinho aqui. Vai selecionar lá o documento. depois que eu anexei, né, ele vai ser apresentado para ele aqui, o quadro de horários para ele, né, então é que ele consegue ver tudo também, olha, disciplinas, quais são as disciplinas do Rodízio R1, quais são disciplinas do Rodízio R2, né, se ele, se ele clica em cima aqui da disciplina, é mostrado aqui para ele os horários, né, com as datas das aulas, é informado algumas outras informações também, curso, quantidade de várias, né? Ele tem todas as informações aqui das disciplinas. Ele consegue remover disciplina da graça também, isso também é configurado também, tá? Aqui, no caso aqui, ele tá podendo retirar a disciplina, mas a gente consegue também deixar fixo. Ele vai avançar. E aqui no final, olha, por enquanto tá aquele contrato, né, que a gente havia colocado, né, mas aí agora a gente vai, a gente pode incluir o manual, a gente pode incluir o informativo, né, para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ele, que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ele t",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: inscrito. O manual vai inscrever o problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso. Aí aqui, olha,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ele tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: a opção de [PESSOA] e aceita os termos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E a gente pode alterar também, ao invés de contrato, colocar manual, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Essa opção aqui do termo de contrato, eu vou ter que verificar, viu Danube? Eu acredito que essa parte aqui, ele vem como contrato, mas eu vou verificar e te dou um retorno. Esse aqui, ele é ajustável.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ele vai marcar aqui que leu e aceitou os termos, vai finalizar a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: matrícula. E aí, para cada curso, eu posso ter uma configuração de documento diferente, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Porque, por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: exemplo, a residência é um manual, o internato é outro manual, e os cursos vão ser os contratos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso, aqui dentro, olha, a parametrização, ela é por curso. Então, a gente informa lá qual que é, né, o período letivo, a matriz e o curso. E aí, de acordo com esse curso e período letivo, a gente consegue parametrizar de forma independente um do outro. Bom, aí feito isso, o aluno foi lá agora, ele se inscreveu, e lá no cadastro dele a gente tem os documentos foram solicitados. Então, já aparece aqui, olha,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: os",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: dois documentos, exato. Então, quando a gente entra aqui, né, as meninas aí, elas vão entrar para fazer a validação dessa documentação, olha, pode ver que a situação aqui do documento, ela tá como entregue em validação, né, e traz aqui a data da entrega, né, qual que é o documento, para o período letivo, aqui ele traz o arquivo que o aluno incluiu lá dentro do portal. Então, a gente tem a opção aqui de visualizar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que eu cadastrar esses alunos todos aí, [PESSOA], eu vou conseguir, por exemplo, extrair uma base desses alunos com nome, e-mail, se eu quiser disparar um e-mail?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4761,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, se você consegue. a gente consegue montar relatórios, né, aqui dentro. Se tiver a informação cadastrada dentro do sistema, a gente consegue puxar todas essas informações e montar um relatório. A gente consegue, sim. Então, lá, aí ele já abre aqui, né, o documento lá. Aqui, no caso, aqui eu peguei um documento de vocês no plano de mas a gente consegue visualizar, né, o documento que o aluno inseriu lá no momento da matrícula. E aí, quando a gente vê, viu lá, né, ah, o documento tá correto mesmo, é esse documento, a gente vem aqui e valida aquele documento. A gente deixa ele como validado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: isso daí a gente faz para cada documentação entregue, para cada documento entregue. Então, a gente vem aqui e valida, validado os documentos, né, a gente vai lá na matrícula dele. Porque, olha, se a gente observar, ainda continua como pré-inscrito, né. Por quê? Porque a gente tem a obrigatoriedade das documentações que eles decidiram enviar, né. E essas documentações, elas precisam ser validadas, se realmente está correto aquele documento que o aluno mandou,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né, que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: é esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: processo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: fez aqui agora. Eu posso, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode, pode sim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4628,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É porque, por exemplo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: dar um exemplo, né, dia 2 vai ter a matrícula dos residentes médicos, né? Aí a [PESSOA] vai pra lá, passa o dia todo na [LOCAL], pra fazer a matrícula, no sistema da [LOCAL], que é onde",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5032,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: eles",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: realmente vão botar os documentos. Aí, entendi, aí eu posso ou botar a obrigação para eles botarem no nosso sistema ou não. É uma configuração que eu... não tem autonomia de fazer.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aqui dentro, olha, do cadastro do documento, a gente tem essa [LOCAL] aqui, que ela indica se o documento é obrigatório ou não. A gente consegue também incluir documentos, se tiver algum por sexo, né, por exemplo, se for alguma, algum título de reservista, né, que é só masculino, né, se tiver alguma obrigatoriedade só por sexo, a gente consegue definir aqui E aqui a gente tem o tipo de documento a gente marcou como ingresso, né, que ele é solicitado no momento do ingresso ali do aluno. Mas a gente pode deixar também como período letivo, ele não fica, ele não entra ali naquela parte da matrícula ali para o aluno enviar a documentação. A gente consegue fazer essas modificações também. Bom, aí voltando lá na matrícula,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: igual eu falei, como tem essa obrigatoriedade dos documentos, a gente deixou para passar o aluno como inscrito, né, como de fato ali que ele tá matriculado, após a validação dos documentos que a gente fez, né. Então a gente entra lá na matrícula dele e vem aqui, olha, no processo de alterar a situação de que aí a gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: passar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ele de pré-inscrito para inscrito. E quando a gente faz aqui, ele pede também o motivo da alteração, o motivo por que a gente está alterando. A gente criou aqui o motivo documentos obrigatórios validados, mas esse aqui também, ele é customizado também, a gente pode incluir vários motivos de alteração aqui que fica mais adequado. A gente vai selecionar aqui, documentos obrigatórios validados. Eu vou avançar, vou executar. E aí aquilo já passa, olha. pré-inscrito, tá vendo? Ele já muda aqui para inscrito, e se eu for lá nas matrículas das disciplinas também,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: já traz lá o aluno como inscrito em todas as disciplinas, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5172,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: aí tudo isso é refletido lá no portal. Então aqui, olha, aqui do lado esquerdo, né, a gente tem um menu aqui, Ele traz aqui pra gente a primeira opção, ele traz... o calendário aqui para o aluno. Nesse calendário, a gente consegue incluir algumas opções, lá naquelas configurações que eu mostrei para vocês, né, que tem várias opções, a gente consegue incluir algumas opções para aparecer aqui no calendário, né, como, por exemplo, a aula que o aluno vai ter aquele dia, né, alguma avaliação, né, se já tiver configurado lá a data de avaliação. Então, tudo isso, ele é apresentado aqui dentro do calendário para o aluno, no calend",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Essas opções que você listou aí no menu, nesse ícone",
+      "mantida": true,
+      "probabilidade_relevancia": 0.525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: azul,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: eu posso alterar também?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode, pode alterar sim. Lá dentro das configurações aqui que eu mostrei para vocês, do portal, lá dentro tem algumas opções que a gente pode incluir para aparecer aqui no calendário. Esse aqui é editado também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5261,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: aqui, se ele clicar, se ele clicar aqui, abre para ele, né, qual é a aula no dia 2 do 2, qual que é a disciplina, se é aula prática, se é aula teórica, qual que é o horário de início e término. Ele consegue ir lá para a disciplina, né, ele é linkado para a disciplina, ele traz aqui as informações das disciplinas, né, os horários das aulas, alguma informação, se for cadastrado lá na ele traz as faltas, ele traz as notas de avaliação, né, olha lá, ele já puxa aqui, olha, que essa disciplina, ela é uma disciplina do, da etapa do R2, né, que ela vale 10 pontos, então ele já traz aqui as informações referentes àquela disciplina, né, e a mesma coisa da avaliação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ele traz lá qual que é a disciplina, né, a data, qual que é a média, qual que é o [LOCAL], aqui, a gente tem a grade curricular do aluno. Então, ele traz aqui pra gente os números de disciplinas obrigatórias, quais disciplinas que estão pendentes do aluno fazer, né? Ele traz aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5697,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: olha,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: as etapas já criadas, né, o [EMPRESA], [LOCAL]. Dentro, ele traz todas as disciplinas, ele já traz lá qual que é o período letivo, a disciplina, né, se o aluno tá inscrito ou não, né, se ele já tem alguma nota, alguma nota, falta, ele já traz aqui também, dentro da grade curricular, ele traz a carga horária daquela disciplina,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5234,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: dentro da matriz. Então, ele já tem todas as informações. Aqui também, quando ele clica, ele é redirecionado para o cadastro lá das disciplinas, né, porque tem todas as informações só aquela disciplina que eu mostrei agora para vocês. E aqui, olha, aqui do lado a gente tem aqui, olha, esse numerozinho 3, tá vendo? Essa bolinha amarela. Quando o aluno, ele já concluiu aquela disciplina, aqui para ele vai aparecer como uma bolinha cinzinha, né? O número 1, que é de concluída. Quando ele ainda não concluiu, né, ele ainda fica como três, né? Se ele tá realizando aquela disciplina, né, e ainda não concluiu, ela fica como pendente aqui. Então, ele tem essa, o status, né, da disciplina que ele tá realizando, através desses [LOCAL] aqui. E aqui é separado, né, para mostrar em todos, quais que estão em curso, que estão pendentes, as que estão concluídas, ele faz esse filtro aqui também. A grade curricular, depois da grade curricular, a gente tem aqui o quadro de horários. Então, ele traz para o aluno aqui as disciplinas, né, que ele vai cursar naquela data, e qual o período também que ele vai cursar. Então, por exemplo, unidade de treinamento para deshospitalização, ele vai cursar na segunda, na terça, na quarta, do dia 1 do 2 ao dia 28 do 2, né? A gente clica aqui, ele traz informações daquela aula daquele dia, né? As informações do horário, qual que é a data do horário. E lá em mais informações, ele traz também o horário todo aqui para o aluno, os horários que ele vai ter as aulas aqui. Ele tem a matrícula online, né, que é o que a gente viu. Aqui dentro também é gerado um gráfico, né, vai gerando para ele ali, sobre o desempenho de notas dele, né, então traz aqui as disciplinas, né, que ele está cursando naquele momento, as notas que ele teve, a média em relação à turma, a média em relação ao curso também. Então, ele vai gerando aqui para o aluno um gráfico de desempenho baseado nessas faltas e notas que são distribuídos ali para o aluno. [LOCAL] disso, a gente tem as notas e as faltas. Hoje eu vou mostrar para vocês aqui o lançamento por dentro aqui do sistema, porque a gente tem a opção também, pelo portal do professor, do professor fazer o lançamento diretamente lá pelo portal. Hoje a gente não tem os professores cadastrados. Então, a princípio, as meninas vão fazer esse cadastro. e via sistema, né? Então, aqui, olha, dentro de matrícula e avaliação, a gente tem algumas opções, né? A gente consegue tanto lançar as notas e faltas da etapa, né, como um todo, ou a nota de avaliação e de falta específico, né? Então, por exemplo, eu tenho aqui, por exemplo, olha, notas e faltas de etapas. Então, a gente vem aqui, olha, a gente seleciona qual que é o período letivo, a turma, qual que é a disciplina, né, que a gente vai fazer esse lançamento das notas. Vou pegar uma aqui, olha, pegar essa [LOCAL]. A gente vai selecionar qual que é a etapa, etapa de notas, R2 notas aqui, a gente vai selecionar também a etapa de faltas. E a gente vai vir aqui, vai buscar os alunos. Então, aqui no caso, olha, o que a gente está vendo agora é esse daqui, olha, o aluno teste portal. Então, aqui a gente consegue lançar, por exemplo, o aluno tirou oito, ele teve três faltas. Qual o número de aulas, né, que ele teve? A gente consegue fazer essa configuração aqui e fazer esse lançamento para o aluno. Olha lá, e ele aparece aqui, anota para o aluno, né? Aqui ele faz da turma toda, né? Todos os alunos que estão matripulados nessa turma Eles são listados aqui, né? E aí a gente consegue fazer esse lançamento para todos, né? Para todos de uma vez. Ou a gente consegue também... É, pera aí. Ou a gente consegue também fazer a digitação diretamente ali para o cadastro do aluno. A gente vem aqui, seleciona o aluno que a gente quer. seleciona o período letivo, né, vem aqui em buscar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: aqui ele traz todas as disciplinas, né, que o aluno tá cursando, olha. Como eu já cadastrei lá, né, ele já traz aqui também, que o aluno, né, tirou nota 8, de 10 pontos, e que ele teve três faltas, né. É, aqui ele tá trazendo, né, porque eu acabei de cadastrar aqui, né, quando eu relacionei os alunos lá, mas em outra disciplina aqui, que a gente não fez, a gente consegue também vir cadastrar aqui direto. A data final... Aqui, aqui ele não tá deixando, olha, porque aqui tem uma coisa também, Aqui dentro da... do cadastro aqui da turma disciplina, a gente tem as etapas criadas, né? E dentro das etapas criadas, a gente tem algumas configurações. Então, por exemplo, do cadastro da etapa de notas, a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: definiu aqui a data de início de digitação e a data limite de digitação, né? aqui nesse caso que eu tentei alterar lá agora, ele tá aqui como data de digitação 1 do 3 de 2026, né? Então, por isso que eu não consigo digitar nessa disciplina lá dentro do portal, porque aqui dentro da etapa, né, do R1 de notas, ele tá amarrado aqui, né? Ele só consigo lançar a partir do dia 1 do 3. Já a outra, a gente conseguiu Porque a outra aqui, ela tá como um dos dois. Então, a gente consegue fazer essa amarração também, tá? De quando que a gente consegue fazer o lançamento ali pro aluno. Aqui também eu tenho a opção de fazer frequência diárias, né? Então, aqui é a mesma coisa. Aqui são tipos de opções, eu tô passando bem rápido, assim, a gente já até fez essa parte com as meninas ali, durante os treinamentos ali, mas só para mostrar para vocês aqui, que a gente consegue lançar tanto para uma turma inteira, né? Quanto para alunos em específicos, né? Mas aí o esquema é a mesma coisa, a gente vem aqui, a gente faz o filtro aqui, né? um período letivo, a disciplina, qualquer etapa, né? A gente vem aqui em buscar alunos,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ele vai trazer aqui, olha, as datas das aulas, né? E a gente consegue fazer o lançamento aqui da frequência, né? Então, para o aluno, quando ele acessa quando ele acessa aqui dentro do cadastro lá da disciplina, né, a opção de faltas aqui, quando a gente lança para ele as faltas lá, as frequências diárias, né, é apresentado para ele aqui também as faltas dele, a frequência dele, né. Então, ele traz a data que foi registrado a falta. E aí a gente tem também as notas de avaliação, que a gente consegue incluir a nota diretamente na avaliação. Então, aqui dentro do sistema, a gente tem duas opções, né, ou a gente digitar diretamente na etapa, então vamos supor que, dentro ali da etapa, a gente tem cadastrado, um exemplo, tem cadastrado ali duas avaliações para o aluno. E o aluno tirou 8 e 8. Ao invés de eu lançar a nota por avaliação, em cada avaliação eu ir lá e lançar 8, eu consigo lançar diretamente na etapa esse valor de 16. Então a gente consegue fazer dessa forma também, ou a gente fazer ali tudo discriminado certinho, né, a nota da avaliação, e aí já puxa lá a nota da etapa também, a gente consegue fazer essa diferenciação aqui dentro. E aqui a gente consegue fazer as notas de avaliação por avaliação, né, então a gente vai lá, seleciona o período letivo, a disciplina, qual que é a etapa, né, essa disciplina aqui ela faz parte da, do rodízio R2, Ele já traz aqui a avaliação que a gente deixou cadastrada para o aluno. A gente vem aqui, olha, buscar alunos. Olha lá. O aluno que a gente estava falando, né, o aluno que a gente está configurando, né, que é o aluno teste portal. Ele já tem a nota da etapa aqui, mas eu posso vir aqui também e lançar a nota da avaliação. Vem aqui e salvo. E aí, quando eu venho aqui, olha... Eu vim rapidão aqui, mas aqui no menu do lado esquerdo, né? Eu tenho aqui nota e falta unificada, ele já traz aqui pra gente a disciplina, né? Qual que é a nota que o aluno teve naquela disciplina, quantidade de faltas, né? Se ele clica lá, né, ele vê as pautas, né, igual eu falei, ele vê a avaliação também, olha, ele traz aqui a data da avaliação, qual que é o valor, a nota, se o aluno ele vê em detalhes, é exibido para ele, né, qual que é a data, a média, a nota que ele tirou, resultado acima da média, é trazido para ele aqui as informações relacionadas àquela avaliação. E aqui, igual eu falei, né, a gente tem várias opções aqui, tanto por etapa quanto direto aqui de avaliações, né, do aluno. [LOCAL], meninas, até se vocês tiverem dúvidas, a gente pode sentar novamente para a gente dar uma repassada nessa digitação de notas e faltas, né, para a gente deixar tudo certinho. Mas aí o funcionamento é bem simples, né, a gente vem aqui, a gente faz o lançamento, e ele automaticamente, ele já é reproduzido para o aluno lá no portal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ele vem aqui na grade curricular aqui também, desculpa, aqui do lado esquerdo também, ele consegue visualizar somente as faltas que ele teve, traz lá todas as disciplinas, e traz aqui a quantidade de faltas, né? A gente, na falta lá, a gente não lançou a falta, a frequência diária, né? A gente lançou por etapa, mas a gente lançar diária, ele aparece todas ali também. Mas ele já traz aqui pra gente todas as disciplinas do aluno e as faltas, né? E ele traz as faltas também pela etapa, né? Pelo rodízio, ele faz essa diferenciação. ele tem a opção de ver só as notas também. Lá ele traz a disciplina, né, qual que é a nota e qual aluno teve, se o aluno clicar aqui em avaliações, vai aparecer lá para ele também as informações referentes à avaliação, o valor, a nota. E aqui tudo é interligado, né, então tudo que ele vai, que ele vai acessando, vai mostrando as opções referentes àquele cadastro, né? Então, dessa avaliação, ele consegue ir lá pra disciplina, e lá na disciplina ele consegue ter todas as informações, né? Desde o horário de aula até as faltas, as avaliações, se teve alguma ocorrência, né? A gente tem a opção aqui também do plano de aula, que o aluno ele consegue visualizar o plano de Esse plano de aula, ele é cadastrado aqui dentro também, lá na turma disciplina, quando a gente cria os horários das aulas para os alunos, né? Quando a gente faz todos os vínculos aqui, a gente gera também os planos de aulas, né? E aí é gerado um plano de aula para cada dia de aula. Então, ele é gerado para todas as aulas, que a gente criou os horários, né? E aqui dentro do plano de aula a gente consegue incluir todas as informações. aparece aqui de identificação, né, o conteúdo previsto, o conteúdo realizado, a data que foi realizado aquele conteúdo, se tem alguma lição de casa, falta de reposição, né, se precisar fazer alguma substituição, alguma reposição de professor, a gente consegue fazer essa configuração aqui também. Se tem algumas... alguma observação referente ao plano de E se tem algum arquivo, também, que é disponibilizado para o aluno, né? Então, a gente consegue incluir aqui dentro também. E todas essas informações, o aluno, ele consegue visualizar aqui dentro também. Então, lá, é o plano de aula, né? Traz qual que é o conteúdo previsto, qual conteúdo foi realizado, a lição e os arquivos, né? Caso tenha algum arquivo, algum PDF, alguma coisa que queira disponibilizar para o aluno, a gente consegue disponibilizar também. Aqui na parte de secretaria, a gente tem aqui a opção de requerimentos, né? No momento aqui, a gente não tem nenhum cadastrado, mas a gente consegue incluir aqui também, né? Então, se tem algum requerimento que os alunos deles fazem a vocês, algum relatório, alguma coisa, a gente consegue incluir aqui também, então ele consegue já vir direto e baixar esse requerimento, né, fazer essa solicitação do requerimento. Ele consegue fazer através do portal também. A parte do financeiro aqui, a gente não vai ter, né, essa parte do financeiro aqui. E a gente vai ter ali os arquivos, né, se foi disponibilizado alguns arquivos, alguns arquivos ali pela Prima Disciplina, igual falei agora. a gente consegue disponibilizar, o aluno ele vai acessar aqui, vai estar o arquivo disponível aqui também, os materiais, né, da disciplina, eu quero um PDF, né, um tutorial, alguma videoaula, alguma coisa, a gente consegue incluir esses arquivos, o aluno consegue filtrar aqui também por disciplina. E aqui também tem a parte de relatórios, hoje, no momento aqui, está disponível aquele contrato educacional, né? Mas a gente consegue incluir vários tipos de relatórios, né? Igual eu falei, relacionados ao relatório, tudo que a gente tem cadastrado no sistema, desde os dados dos alunos até as notas, as disciplinas, a matriz curricular, toda a informação que a gente tem cadastrado ali, a gente consegue juntar e fazer, montar um relatório, né? Então, se quiser algum relatório de notas, algum relatório de faltas, qualquer tipo de relatório a gente consegue... disponibilizar aqui também para o aluno, para ele fazer a emissão desse relatório, né. Então, por exemplo, aqui hoje está aquele contrato que a gente havia feito, né. Se o aluno clicar aqui, ele consegue visualizar aquele relatório, consegue emitir aquele relatório, ele consegue fazer a emissão daquele relatório, né, fazer o download, né, baixar lá o arquivo para ele, a gente consegue disponibilizar também para ele. Pessoal, em relação ao portal, acho que eu passei por todas as ferramentas aqui, é, ficou, tem alguma dúvida, alguma coisa que eu deixei passar?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Não, [PESSOA], acho que deu para entender, não sei as meninas, [PESSOA] que é esse trabalho, assim, você dar uma senha meio que beta desse usuário, pra gente olhar, porque, assim, como pra gente não é uma instituição de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4866,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ensino,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tem algumas coisas que a gente não vai operacionalizar com eles. Então, é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4699,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: deixar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: oculto e deixar só os botões daquilo que a gente vai mais operacionalizar. Mas é que é um trabalho mais nosso interno de customizar mesmo, de olhar e entender o que é que fica e o que é que sai.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5142,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: perfeito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA] que é isso. E aí, assim, é o que vocês precisarem de ajuda ali nas configurações, nas parametrizações, eu tô dispon",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5115,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: eu entro",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: lá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: com vocês, eu ajudo. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4636,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: mexendo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: no cinema e eu tava já tonta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4838,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: dou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: conta. É bastante coisinha, né? Mas eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: vou...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá falando, o [PESSOA] não tá despertado ainda não, ainda vamos usar ele. E aí, [PESSOA], eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: acho que é um cuidado que vocês precisam ter quando vocês forem cadastrar o internato. Porque, assim, não adianta ficar cadastrando um bocado de disciplina, porque o internato da gente já é uma disciplina da faculdade. Então tem que ver com o [PESSOA] aí como é que a gente faz uma dinâmica para não ficar tão subdividido, porque senão gera muito trabalho para uma coisa que, para a gente, é como se fosse uma disciplina. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: só pedi atria e algumas subespecialidades, mas a subespecialidade é só no caso de um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: extra, de um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: atletismo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A gente não pode cadastrar isso no sistema, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4905,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: senão,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vai ficar pra todo mundo. É que nem aí, você tem que fazer uma autoriação também aí no que vocês estão chamando, no sistema de pediatria. Porque ficou todo mundo cadastrado como residência multi, residência multi. E ficou só a pediatria. Na verdade, a residência médica, a pediatria. Mas eu vou anotar essas coisinhas, passar pra vocês, pra vocês alinharem com o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL]. E aí, [LOCAL], eu vou passar, eu vou passar para a [PESSOA] ali, um cadastro, esse cadastro de aluno aqui, para vocês acessarem, mexerem aí. E aí vou passar o usuário, o seu usuário também,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4581,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: eu mando",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: para você lá o seu usuário, porque o nosso usuário, né, de enquanto gerência aqui do sistema, a gente acessa aqui o sistema, né? E eu vou mandar o usuário de aluno, que toda alteração que a gente fizer, a gente consegue visualizar como o aluno tá visualizando aqui. Se a gente acessar com o nosso usuário aqui, a gente não tem o perfil de aluno, né? A gente não tem ali essa movimentação acadêmica, né? Então, no portal a gente acessa com um, mas no sistema aqui a gente acessa com o nosso mesmo. Mas aí eu vou deixar esse usuário pronto, E aí eu mando para... pode ser para a [PESSOA] ali?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eu peço para a [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5029,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: compartilhar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4432,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: com vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4919,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode ser. [LOCAL]. [LOCAL]. E aí eu já disponibilizo para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5076,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pessoal, acho que é isso. Se tiver alguma dúvida, alguma coisa, estou à disposição. Se vocês precisarem também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4623,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: me chamar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Combinado. Obrigada, [PESSOA]. Obrigada, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Obrigado, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], gente. Bom trabalho para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4859,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: vocês.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    }
+  ]
+}

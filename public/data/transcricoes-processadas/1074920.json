@@ -1,0 +1,649 @@
+{
+  "id_reuniao": "1074920",
+  "codt": "T03706",
+  "data_reuniao": "2026-02-13 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "[LOCAL] ([LOCAL]Boa tarde, tudo bem, pessoal?\n[LOCUTOR 8]: Tudo bem. Peraí, deixa eu\n[LOCUTOR 3]: ver\n[LOCUTOR 8]: aqui que minha câmera não tá...\n[LOCUTOR 3]: Vocês estão conseguindo\n[LOCUTOR 8]: me\n[LOCUTOR 3]: ouvir bem? Porque tem um barulho aqui na ópera do prédio.[LOCAL] ([LOCAL] Pra mim tá escutecedor, mas eu não sei se vocês estão me ouvindo.\n[LOCUTOR 8]: Tô escutando.[LOCAL] ([LOCAL] A gente não tá ouvindo nada. É,\n[LOCUTOR 3]: nossa, tá deIMPLANTAÇÃO ([LOCAL] merda.\n[LOCUTOR 8]: Deve ter abafado o ruído. É. Só deixa eu falar aqui com a [PESSOA] que ela falou que ia participar.\n[LOCUTOR 4]: Boa tarde, gente.[LOCAL] ([LOCAL] Boa tarde.\n[LOCUTOR 8]: Boa tarde.\n[LOCUTOR 4]: Tudo bem?\n[LOCUTOR 3]: Tudo.\n[LOCUTOR 8]: Então,\n[LOCUTOR 4]: tá bom.\n[LOCUTOR 8]: [LOCAL], acredito que essa reunião, infelizmente o [PESSOA] não pode participar, ele tinha conversado comigo ontem, ele só tinha disponibilidade ontem, porque... ele avisou que hoje ele estaria trabalhando na parte da madrugada, então não conseguiria participar conosco, né? Mas acredito que, como a [PESSOA] conversou comigo, ela tá tentando entender, né, o que que ainda necessita aí da parte da Ferolab pra gente conseguir concluir essa implantação.\n[LOCUTOR 3]: É, na verdade, qual que é o ponto, tá, gente? Eu fiz até o registro do chamado, desde que a [PESSOA] me trouxe ali essa necessidade, de acordo com as informações que me trouxeram, né? Quais eram os dados que eu precisava de login e senha, usuário e tudo mais. Só que só essa informação macro não é o suficiente para que o suporte entenda o que a gente está precisando. E aí, eu escalei até porque a [PESSOA] pediu que a gente desse uma celeridade com relação a esse projeto. E aí, o que o pessoal me trouxe? Hoje vocês usam o Cloud Todos? ou é servidor local?\n[LOCUTOR 4]: Servidor local.\n[LOCUTOR 3]: Isso. E aí, quando é servidor local, o que eles me trouxeram como ponto que a TI do cliente fornece essas informações, no caso de [PESSOA], para que a gente seguisse. O que eu entendo é que talvez vocês não estejam identificando esses pontos. E aí ontem eu acionei uma outra pessoa aqui interna, que é [PESSOA] também, por coincidência, e aí ela ia verificar algumas orientações internas. Então, agora, nesse momento, com os detalhes que o [PESSOA] me pediu, eu não consigo evoluir. a não ser que a gente consiga orientar de qual parte dentro do proteus estão essas informações que vocês precisam, porque o suporte me pede essa orientação, essa informação. Da forma que a gente colocou, fica muito macro, tá? E eu dependo do retorno da [EMPRESA] com relação a isso, porque talvez a gente não tenha feito um processo ali interno inicial de on-board, etc., colocando as responsabilidades. Responsabilidades que eu digo, por exemplo, do Thalela, só para fazer um comparativo, Quando a gente fechou o ponto, a gente fez uma reunião, lembra? De alinhamento com o aeroscopo, apresentando o [PESSOA] ali na app e tudo mais. Então, isso é uma reunião de on-board, onde a gente coloca as responsabilidades. E aí, então, até por isso que seria muito importante que o juiz tivesse, porque eu não sei se ele tem acesso a essas informações, que realmente a gente precisa, porque acaba vindo por parte da TI do cliente algumas informações, tá? Aí eu não sei, [PESSOA], se você quer complementar algo, também não sei se a [PESSOA] chegou a te acionar diretamente, porque eu sei que a [PESSOA] estava tratando contigo também, né, que era quem estava apoiando aquele ticket que eu registrei.[LOCAL] ([LOCAL] Sim, [PESSOA]. Foi essa mesma resposta que eles me deram, né? Perguntando se o cliente usava a Cloud ou [LOCAL] local e que se fosse local, o próprio cliente deveria fornecer essas informações e eu sinalizei para o pessoal que talvez fosse esse o ponto, a dificuldade do cliente encontrar essas informações. Ou a orientação emIMPLANTAÇÃO ([LOCAL] si, né?[LOCAL] ([LOCAL] A orientação, é. Eu vou reforçar essa parte, gente, e aí só para confirmar,\n[LOCUTOR 4]: tem\n[LOCUTOR 3]: que\n[LOCUTOR 4]: ser\n[LOCUTOR 3]: com o [PESSOA], certo?\n[LOCUTOR 4]: Deixa eu só falar,\n[LOCUTOR 3]: pergunto aqui\n[LOCUTOR 4]: o negócio.\n[LOCUTOR 3]: Então,\n[LOCUTOR 4]: o que o [PESSOA] liberou a porta que foi pedido, o [PESSOA] conseguiu liberar? Tem um API,\n[LOCUTOR 8]: alguma\n[LOCUTOR 4]: coisa, API, né? que ele já foi liberado, eles não conseguiram identificar. A gente fez, [PESSOA], questão assim, uma reunião sim, no início, né, com a\n[LOCUTOR 3]: Jéssica. Com a Ferolab direto também.\n[LOCUTOR 4]: Isso, e com a [PESSOA], né.\n[LOCUTOR 8]: A\n[LOCUTOR 4]: gente, tudo o que eles pediram, a gente conseguiu fazer. Eles não estão encontrando um API Service, acho que é isso.\n[LOCUTOR 8]: É, porque\n[LOCUTOR 4]: o\n[LOCUTOR 8]: [PESSOA] falou No caso, tem vários. Ele falou assim, tem mais de 100, mas eu preciso saber qual é o API correto.\n[LOCUTOR 3]: [LOCUTOR 1]: falou que não sabe qual é esse API correto de vocês. Então,\n[LOCUTOR 4]: o que a\n[LOCUTOR 3]: gente\n[LOCUTOR 4]: precisava... É diferente do [PESSOA], né? Porque o [PESSOA], a gente criou uma...\n[LOCUTOR 3]: A gente\n[LOCUTOR 4]: criou uma cesta de tendência.\n[LOCUTOR 3]: O [PESSOA] trazer. Eu tenho...\n[LOCUTOR 8]: Acho que já... [PESSOA], atravou o que você está\n[LOCUTOR 3]: falando.\n[LOCUTOR 8]: [LOCUTOR 2]: indo? Vocês estão me ouvindo agora? Agora sim.\n[LOCUTOR 3]: Desculpa, deve ser a obra que está contaminando, desculpa. O que eu estava falando é que talvez, [PESSOA], o caminho seja ele evidenciar essa informação que você está me trazendo, que ele identificou várias possíveis APIs, porque aí eu tenho um dado, eu tenho uma informação para que eu traga ali todos, é isso aqui que o cliente precisa saber, qual desses que é o que ele tem que apresentar para o ferro lá para funcionar. Da forma que eu registrei ali só macro, é login usuário sem API, eles não sabem de que parte que eu estou falando, eu não tenho algo mais preciso. Então, se o [PESSOA] puder passar essa informação, acho que, infelizmente, como ele não está na reunião, mas teria que ter essa conexão maior entre o nosso suporte com o [PESSOA], que eu acho que é ele que vai conseguir intermediar essas informações. Aí, se você conseguir pedir para ele, ele encolhe essa evidência, acho que a gente vai conseguir ser mais efetivo.\n[LOCUTOR 4]: Com\n[LOCUTOR 3]: o nosso\n[LOCUTOR 4]: suporte,\n[LOCUTOR 3]: tá?\n[LOCUTOR 4]: Esse suporte seu, como é que ele entra em contato com o suporte da [EMPRESA]? Então,\n[LOCUTOR 3]: teve um que tentou entrar em contato contigo direto, passei seu telefone e e-mail, só que aí depois a gente retornou pedindo que fizesse o contato direto com o [PESSOA] inicialmente. E depois eu adicionei o telefone. Lembra que eu até te acionei durante suas férias pedindo o contato ali do [PESSOA]?\n[LOCUTOR 4]: Sim.\n[LOCUTOR 3]: Então eles entram em contato, tá? Então eu\n[LOCUTOR 4]: passei\n[LOCUTOR 3]: todos os dados.\n[LOCUTOR 4]: [PESSOA], você tem esses dados do contato? Como eu ainda tô de férias, tá? Deixa eu só explicar aqui.[LOCAL] ([LOCAL] E provavelmente a TI entre hoje até o dia 19, eles não vão conseguir dar nenhum suporte na questão de...\n[LOCUTOR 3]: É,\n[LOCUTOR 4]: se ele\n[LOCUTOR 3]: conseguir adiantar só a evidência, eu acho que a gente já ganha pelo menos um tempo de evidenciar qual é o nosso real problema aqui, tá? Hoje vocês conseguem identificar mais de 100 APIs e dentro delas a gente precisa responder qual que seria a porta correta ali para conectar com a ferrolada. Aí disso, né, porque infelizmente a gente tem ali o agravante feriado, enfim, a gente acaba perdendo um certo tempo, mas a gente já tenta acelerar isso a partir de quinto, que aí coincide com esse período que você tá me dizendo, que até aí vai conseguir dar um retorno, né? Uma tensão melhor, vamos dizer assim. Tudo\n[LOCUTOR 8]: bem.\n[LOCUTOR 3]: Se você conseguir essa informação, até naquela mesma thread do e-mail, você conseguir me evidenciar, que eu já anexo dentro do Tiktok.\n[LOCUTOR 8]: Eu\n[LOCUTOR 3]: acho que você, eu não tinha colocado no chamado, acho que só está a [PESSOA]. Aí, se você quiser, eu te adiciono para você\n[LOCUTOR 8]: receber\n[LOCUTOR 3]: essas interações também.\n[LOCUTOR 8]: Por favor. Eu vou conversar com o [PESSOA], vou pedir para ele evidenciar para vocês, para que vocês possam apontar qual é a API correta.\n[LOCUTOR 3]: Tá bom. [PESSOA],\n[LOCUTOR 8]: temIMPLANTAÇÃO ([LOCAL] mais algum ponto\n[LOCUTOR 3]: do seu lado que você acha que é importante a gente trazer aqui?[LOCAL] ([LOCAL] [PESSOA], o [PESSOA] ele retorna quando?\n[LOCUTOR 8]: [EMPRESA] ([LOCAL] verdade, quando é que ele teria disponibilidade para a gente ter uma agenda com ele, que eu acho que é ponto fundamental para a gente resolver esse... Tá, eu posso verificar com ele, né? Ele não me informou, ele só falou que hoje ele não conseguiria. Ontem eu conversei com ele, ele até me deu uns horários que ontem ele poderia participar de [LOCAL], todoIMPLANTAÇÃO ([LOCAL] mundo junto. Só que aí, né, como ficou tudo muito tarde e também já tinha passado do horário que ele poderia participar e eu acho que ele vai embora umas quatro horas, ele entra mais cedo. Então, aí eu não consegui mais conversar com ele, mas eu vou mandar mensagem para ele para verificar uma agenda, quando que ele pode participar, vou pedir também para ele evidenciar para ele que a gente possa já ir adiantando e na próxima call que a gente fizer já esteja aí com mais informações.[LOCAL] ([LOCAL] Tá bom, e aí eu envolvo alguém da minha parte técnica aqui, a gente vai para essa call mais com mais reforços para a gente tentar resolver durante a reunião mesmo. Tudo bem.\n[LOCUTOR 3]: Então a gente fica alinhado dessa forma. [PESSOA], você já voltou de férias ou\n[LOCUTOR 8]: você só\n[LOCUTOR 3]: conectouIMPLANTAÇÃO ([LOCAL] sem\n[LOCUTOR 8]: voltar?\n[LOCUTOR 3]: O que acontece? Às vezes é só para eu\n[LOCUTOR 8]: saber.\n[LOCUTOR 3]: Não te incomodava.\n[LOCUTOR 4]: Não, não voltei.\n[LOCUTOR 3]: Tá bom. Mas\n[LOCUTOR 4]: jáIMPLANTAÇÃO ([LOCAL] 23 eu tô aí. Mas pode\n[LOCUTOR 8]: ir\n[LOCUTOR 3]: precisando\n[LOCUTOR 4]: só. Tá\n[LOCUTOR 8]: trabalhando na série.\n[LOCUTOR 3]: Eu imaginei, mas a gente\n[LOCUTOR 4]: vai\n[LOCUTOR 3]: tentar\n[LOCUTOR 4]: fazer\n[LOCUTOR 3]: sem ter que te acionar, tá bom?[LOCAL] ([LOCAL] Tá\n[LOCUTOR 4]: bom, mas\n[LOCUTOR 3]: tá\n[LOCUTOR 4]: bom toda a disposição.\n[LOCUTOR 3]: Combinado. [LOCAL] então, tá gente? Vou guardar essas\n[LOCUTOR 4]: informações\n[LOCUTOR 3]: e cole, que eu já interajo aqui no [LOCAL] com o pessoal, tá bom?\n[LOCUTOR 8]: Tá bom então.\n[LOCUTOR 3]: [LOCAL],[LOCAL] ([LOCAL] pessoal.\n[LOCUTOR 8]: [EMPRESA] ([LOCAL] carnaval. Tchau, tchau. [LOCAL],\n[LOCUTOR 4]: você\n[LOCUTOR 8]: também.",
+  "texto_filtrado": "[LOCUTOR 3]: ouvir bem? Porque tem um barulho aqui na ópera do prédio.[LOCAL] ([LOCAL] Pra mim tá escutecedor, mas eu não sei se vocês estão me ouvindo.\n[LOCUTOR 3]: nossa, tá deIMPLANTAÇÃO ([LOCAL] merda.\n[LOCUTOR 8]: Deve ter abafado o ruído. É. Só deixa eu falar aqui com a [PESSOA] que ela falou que ia participar.\n[LOCUTOR 8]: Então,\n[LOCUTOR 8]: [LOCAL], acredito que essa reunião, infelizmente o [PESSOA] não pode participar, ele tinha conversado comigo ontem, ele só tinha disponibilidade ontem, porque... ele avisou que hoje ele estaria trabalhando na parte da madrugada, então não conseguiria participar conosco, né? Mas acredito que, como a [PESSOA] conversou comigo, ela tá tentando entender, né, o que que ainda necessita aí da parte da Ferolab pra gente conseguir concluir essa implantação.\n[LOCUTOR 3]: É, na verdade, qual que é o ponto, tá, gente? Eu fiz até o registro do chamado, desde que a [PESSOA] me trouxe ali essa necessidade, de acordo com as informações que me trouxeram, né? Quais eram os dados que eu precisava de login e senha, usuário e tudo mais. Só que só essa informação macro não é o suficiente para que o suporte entenda o que a gente está precisando. E aí, eu escalei até porque a [PESSOA] pediu que a gente desse uma celeridade com relação a esse projeto. E aí, o que o pessoal me trouxe? Hoje vocês usam o Cloud Todos? ou é servidor local?\n[LOCUTOR 4]: Servidor local.\n[LOCUTOR 3]: Isso. E aí, quando é servidor local, o que eles me trouxeram como ponto que a TI do cliente fornece essas informações, no caso de [PESSOA], para que a gente seguisse. O que eu entendo é que talvez vocês não estejam identificando esses pontos. E aí ontem eu acionei uma outra pessoa aqui interna, que é [PESSOA] também, por coincidência, e aí ela ia verificar algumas orientações internas. Então, agora, nesse momento, com os detalhes que o [PESSOA] me pediu, eu não consigo evoluir. a não ser que a gente consiga orientar de qual parte dentro do proteus estão essas informações que vocês precisam, porque o suporte me pede essa orientação, essa informação. Da forma que a gente colocou, fica muito macro, tá? E eu dependo do retorno da [EMPRESA] com relação a isso, porque talvez a gente não tenha feito um processo ali interno inicial de on-board, etc., colocando as responsabilidades. Responsabilidades que eu digo, por exemplo, do Thalela, só para fazer um comparativo, Quando a gente fechou o ponto, a gente fez uma reunião, lembra? De alinhamento com o aeroscopo, apresentando o [PESSOA] ali na app e tudo mais. Então, isso é uma reunião de on-board, onde a gente coloca as responsabilidades. E aí, então, até por isso que seria muito importante que o juiz tivesse, porque eu não sei se ele tem acesso a essas informações, que realmente a gente precisa, porque acaba vindo por parte da TI do cliente algumas informações, tá? Aí eu não sei, [PESSOA], se você quer complementar algo, também não sei se a [PESSOA] chegou a te acionar diretamente, porque eu sei que a [PESSOA] estava tratando contigo também, né, que era quem estava apoiando aquele ticket que eu registrei.[LOCAL] ([LOCAL] Sim, [PESSOA]. Foi essa mesma resposta que eles me deram, né? Perguntando se o cliente usava a Cloud ou [LOCAL] local e que se fosse local, o próprio cliente deveria fornecer essas informações e eu sinalizei para o pessoal que talvez fosse esse o ponto, a dificuldade do cliente encontrar essas informações. Ou a orientação emIMPLANTAÇÃO ([LOCAL] si, né?[LOCAL] ([LOCAL] A orientação, é. Eu vou reforçar essa parte, gente, e aí só para confirmar,\n[LOCUTOR 3]: pergunto aqui\n[LOCUTOR 4]: o negócio.\n[LOCUTOR 3]: Então,\n[LOCUTOR 4]: o que o [PESSOA] liberou a porta que foi pedido, o [PESSOA] conseguiu liberar? Tem um API,\n[LOCUTOR 8]: alguma\n[LOCUTOR 4]: coisa, API, né? que ele já foi liberado, eles não conseguiram identificar. A gente fez, [PESSOA], questão assim, uma reunião sim, no início, né, com a\n[LOCUTOR 3]: Jéssica. Com a Ferolab direto também.\n[LOCUTOR 4]: Isso, e com a [PESSOA], né.\n[LOCUTOR 8]: É, porque\n[LOCUTOR 8]: [PESSOA] falou No caso, tem vários. Ele falou assim, tem mais de 100, mas eu preciso saber qual é o API correto.\n[LOCUTOR 3]: [LOCUTOR 1]: falou que não sabe qual é esse API correto de vocês. Então,\n[LOCUTOR 4]: o que a\n[LOCUTOR 3]: gente\n[LOCUTOR 4]: precisava... É diferente do [PESSOA], né? Porque o [PESSOA], a gente criou uma...\n[LOCUTOR 3]: A gente\n[LOCUTOR 4]: criou uma cesta de tendência.\n[LOCUTOR 8]: Acho que já... [PESSOA], atravou o que você está\n[LOCUTOR 3]: falando.\n[LOCUTOR 3]: Desculpa, deve ser a obra que está contaminando, desculpa. O que eu estava falando é que talvez, [PESSOA], o caminho seja ele evidenciar essa informação que você está me trazendo, que ele identificou várias possíveis APIs, porque aí eu tenho um dado, eu tenho uma informação para que eu traga ali todos, é isso aqui que o cliente precisa saber, qual desses que é o que ele tem que apresentar para o ferro lá para funcionar. Da forma que eu registrei ali só macro, é login usuário sem API, eles não sabem de que parte que eu estou falando, eu não tenho algo mais preciso. Então, se o [PESSOA] puder passar essa informação, acho que, infelizmente, como ele não está na reunião, mas teria que ter essa conexão maior entre o nosso suporte com o [PESSOA], que eu acho que é ele que vai conseguir intermediar essas informações. Aí, se você conseguir pedir para ele, ele encolhe essa evidência, acho que a gente vai conseguir ser mais efetivo.\n[LOCUTOR 3]: o nosso\n[LOCUTOR 4]: suporte,\n[LOCUTOR 4]: Esse suporte seu, como é que ele entra em contato com o suporte da [EMPRESA]? Então,\n[LOCUTOR 3]: teve um que tentou entrar em contato contigo direto, passei seu telefone e e-mail, só que aí depois a gente retornou pedindo que fizesse o contato direto com o [PESSOA] inicialmente. E depois eu adicionei o telefone. Lembra que eu até te acionei durante suas férias pedindo o contato ali do [PESSOA]?\n[LOCUTOR 3]: Então eles entram em contato, tá? Então eu\n[LOCUTOR 4]: passei\n[LOCUTOR 3]: todos os dados.\n[LOCUTOR 4]: se ele\n[LOCUTOR 3]: conseguir adiantar só a evidência, eu acho que a gente já ganha pelo menos um tempo de evidenciar qual é o nosso real problema aqui, tá? Hoje vocês conseguem identificar mais de 100 APIs e dentro delas a gente precisa responder qual que seria a porta correta ali para conectar com a ferrolada. Aí disso, né, porque infelizmente a gente tem ali o agravante feriado, enfim, a gente acaba perdendo um certo tempo, mas a gente já tenta acelerar isso a partir de quinto, que aí coincide com esse período que você tá me dizendo, que até aí vai conseguir dar um retorno, né? Uma tensão melhor, vamos dizer assim. Tudo\n[LOCUTOR 3]: Se você conseguir essa informação, até naquela mesma thread do e-mail, você conseguir me evidenciar, que eu já anexo dentro do Tiktok.\n[LOCUTOR 3]: acho que você, eu não tinha colocado no chamado, acho que só está a [PESSOA]. Aí, se você quiser, eu te adiciono para você\n[LOCUTOR 8]: receber\n[LOCUTOR 3]: essas interações também.\n[LOCUTOR 8]: Por favor. Eu vou conversar com o [PESSOA], vou pedir para ele evidenciar para vocês, para que vocês possam apontar qual é a API correta.\n[LOCUTOR 8]: temIMPLANTAÇÃO ([LOCAL] mais algum ponto\n[LOCUTOR 3]: do seu lado que você acha que é importante a gente trazer aqui?[LOCAL] ([LOCAL] [PESSOA], o [PESSOA] ele retorna quando?\n[LOCUTOR 8]: [EMPRESA] ([LOCAL] verdade, quando é que ele teria disponibilidade para a gente ter uma agenda com ele, que eu acho que é ponto fundamental para a gente resolver esse... Tá, eu posso verificar com ele, né? Ele não me informou, ele só falou que hoje ele não conseguiria. Ontem eu conversei com ele, ele até me deu uns horários que ontem ele poderia participar de [LOCAL], todoIMPLANTAÇÃO ([LOCAL] mundo junto. Só que aí, né, como ficou tudo muito tarde e também já tinha passado do horário que ele poderia participar e eu acho que ele vai embora umas quatro horas, ele entra mais cedo. Então, aí eu não consegui mais conversar com ele, mas eu vou mandar mensagem para ele para verificar uma agenda, quando que ele pode participar, vou pedir também para ele evidenciar para ele que a gente possa já ir adiantando e na próxima call que a gente fizer já esteja aí com mais informações.[LOCAL] ([LOCAL] Tá bom, e aí eu envolvo alguém da minha parte técnica aqui, a gente vai para essa call mais com mais reforços para a gente tentar resolver durante a reunião mesmo. Tudo bem.\n[LOCUTOR 3]: Então a gente fica alinhado dessa forma. [PESSOA], você já voltou de férias ou\n[LOCUTOR 8]: você só\n[LOCUTOR 3]: conectouIMPLANTAÇÃO ([LOCAL] sem\n[LOCUTOR 8]: voltar?\n[LOCUTOR 3]: O que acontece? Às vezes é só para eu\n[LOCUTOR 8]: saber.\n[LOCUTOR 4]: jáIMPLANTAÇÃO ([LOCAL] 23 eu tô aí. Mas pode\n[LOCUTOR 3]: precisando\n[LOCUTOR 4]: só. Tá\n[LOCUTOR 8]: trabalhando na série.\n[LOCUTOR 3]: tentar\n[LOCUTOR 4]: fazer\n[LOCUTOR 3]: sem ter que te acionar, tá bom?[LOCAL] ([LOCAL] Tá\n[LOCUTOR 4]: informações\n[LOCUTOR 4]: você\n[LOCUTOR 8]: também.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:32.434856+00:00",
+    "total_linhas": 104,
+    "linhas_mantidas": 60,
+    "linhas_removidas": 44,
+    "percentual_mantido": 57.69,
+    "confianca_media": 0.4695
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCAL] ([LOCAL]Boa tarde, tudo bem, pessoal?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.366,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tudo bem. Peraí, deixa eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4016,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ver",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aqui que minha câmera não tá...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4207,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Vocês estão conseguindo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4236,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ouvir bem? Porque tem um barulho aqui na ópera do prédio.[LOCAL] ([LOCAL] Pra mim tá escutecedor, mas eu não sei se vocês estão me ouvindo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tô escutando.[LOCAL] ([LOCAL] A gente não tá ouvindo nada. É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4252,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: nossa, tá deIMPLANTAÇÃO ([LOCAL] merda.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Deve ter abafado o ruído. É. Só deixa eu falar aqui com a [PESSOA] que ela falou que ia participar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4807,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Boa tarde, gente.[LOCAL] ([LOCAL] Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tudo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL], acredito que essa reunião, infelizmente o [PESSOA] não pode participar, ele tinha conversado comigo ontem, ele só tinha disponibilidade ontem, porque... ele avisou que hoje ele estaria trabalhando na parte da madrugada, então não conseguiria participar conosco, né? Mas acredito que, como a [PESSOA] conversou comigo, ela tá tentando entender, né, o que que ainda necessita aí da parte da Ferolab pra gente conseguir concluir essa implantação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, na verdade, qual que é o ponto, tá, gente? Eu fiz até o registro do chamado, desde que a [PESSOA] me trouxe ali essa necessidade, de acordo com as informações que me trouxeram, né? Quais eram os dados que eu precisava de login e senha, usuário e tudo mais. Só que só essa informação macro não é o suficiente para que o suporte entenda o que a gente está precisando. E aí, eu escalei até porque a [PESSOA] pediu que a gente desse uma celeridade com relação a esse projeto. E aí, o que o pessoal me trouxe? Hoje vocês usam o Cloud Todos? ou é servidor local?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Servidor local.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso. E aí, quando é servidor local, o que eles me trouxeram como ponto que a TI do cliente fornece essas informações, no caso de [PESSOA], para que a gente seguisse. O que eu entendo é que talvez vocês não estejam identificando esses pontos. E aí ontem eu acionei uma outra pessoa aqui interna, que é [PESSOA] também, por coincidência, e aí ela ia verificar algumas orientações internas. Então, agora, nesse momento, com os detalhes que o [PESSOA] me pediu, eu não consigo evoluir. a não ser que a gente consiga orientar de qual parte dentro do proteus estão essas informações que vocês precisam, porque o suporte me pede essa orientação, essa informação. Da forma que a gente colocou, fica muito macro, tá? E eu dependo do retorno da [EMPRESA] com relação a isso, porque talvez a gente não tenha feito um processo ali interno inicial de on-board, etc., colocando as responsabilidades. Responsabilidades que eu digo, por exemplo, do Thalela, só para fazer um comparativo, Quando a gente fechou o ponto, a gente fez uma reunião, lembra? De alinhamento com o aeroscopo, apresentando o [PESSOA] ali na app e tudo mais. Então, isso é uma reunião de on-board, onde a gente coloca as responsabilidades. E aí, então, até por isso que seria muito importante que o juiz tivesse, porque eu não sei se ele tem acesso a essas informações, que realmente a gente precisa, porque acaba vindo por parte da TI do cliente algumas informações, tá? Aí eu não sei, [PESSOA], se você quer complementar algo, também não sei se a [PESSOA] chegou a te acionar diretamente, porque eu sei que a [PESSOA] estava tratando contigo também, né, que era quem estava apoiando aquele ticket que eu registrei.[LOCAL] ([LOCAL] Sim, [PESSOA]. Foi essa mesma resposta que eles me deram, né? Perguntando se o cliente usava a Cloud ou [LOCAL] local e que se fosse local, o próprio cliente deveria fornecer essas informações e eu sinalizei para o pessoal que talvez fosse esse o ponto, a dificuldade do cliente encontrar essas informações. Ou a orientação emIMPLANTAÇÃO ([LOCAL] si, né?[LOCAL] ([LOCAL] A orientação, é. Eu vou reforçar essa parte, gente, e aí só para confirmar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: com o [PESSOA], certo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Deixa eu só falar,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pergunto aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: o negócio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: o que o [PESSOA] liberou a porta que foi pedido, o [PESSOA] conseguiu liberar? Tem um API,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5223,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: coisa, API, né? que ele já foi liberado, eles não conseguiram identificar. A gente fez, [PESSOA], questão assim, uma reunião sim, no início, né, com a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4834,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Jéssica. Com a Ferolab direto também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Isso, e com a [PESSOA], né.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: gente, tudo o que eles pediram, a gente conseguiu fazer. Eles não estão encontrando um API Service, acho que é isso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4328,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É, porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA] falou No caso, tem vários. Ele falou assim, tem mais de 100, mas eu preciso saber qual é o API correto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4896,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCUTOR 1]: falou que não sabe qual é esse API correto de vocês. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4632,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: o que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: precisava... É diferente do [PESSOA], né? Porque o [PESSOA], a gente criou uma...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5733,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: criou uma cesta de tendência.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: O [PESSOA] trazer. Eu tenho...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Acho que já... [PESSOA], atravou o que você está",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4898,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: falando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 2]: indo? Vocês estão me ouvindo agora? Agora sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3568,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Desculpa, deve ser a obra que está contaminando, desculpa. O que eu estava falando é que talvez, [PESSOA], o caminho seja ele evidenciar essa informação que você está me trazendo, que ele identificou várias possíveis APIs, porque aí eu tenho um dado, eu tenho uma informação para que eu traga ali todos, é isso aqui que o cliente precisa saber, qual desses que é o que ele tem que apresentar para o ferro lá para funcionar. Da forma que eu registrei ali só macro, é login usuário sem API, eles não sabem de que parte que eu estou falando, eu não tenho algo mais preciso. Então, se o [PESSOA] puder passar essa informação, acho que, infelizmente, como ele não está na reunião, mas teria que ter essa conexão maior entre o nosso suporte com o [PESSOA], que eu acho que é ele que vai conseguir intermediar essas informações. Aí, se você conseguir pedir para ele, ele encolhe essa evidência, acho que a gente vai conseguir ser mais efetivo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o nosso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: suporte,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Esse suporte seu, como é que ele entra em contato com o suporte da [EMPRESA]? Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5551,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: teve um que tentou entrar em contato contigo direto, passei seu telefone e e-mail, só que aí depois a gente retornou pedindo que fizesse o contato direto com o [PESSOA] inicialmente. E depois eu adicionei o telefone. Lembra que eu até te acionei durante suas férias pedindo o contato ali do [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5166,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então eles entram em contato, tá? Então eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4935,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: passei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: todos os dados.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA], você tem esses dados do contato? Como eu ainda tô de férias, tá? Deixa eu só explicar aqui.[LOCAL] ([LOCAL] E provavelmente a TI entre hoje até o dia 19, eles não vão conseguir dar nenhum suporte na questão de...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4582,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: se ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: conseguir adiantar só a evidência, eu acho que a gente já ganha pelo menos um tempo de evidenciar qual é o nosso real problema aqui, tá? Hoje vocês conseguem identificar mais de 100 APIs e dentro delas a gente precisa responder qual que seria a porta correta ali para conectar com a ferrolada. Aí disso, né, porque infelizmente a gente tem ali o agravante feriado, enfim, a gente acaba perdendo um certo tempo, mas a gente já tenta acelerar isso a partir de quinto, que aí coincide com esse período que você tá me dizendo, que até aí vai conseguir dar um retorno, né? Uma tensão melhor, vamos dizer assim. Tudo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Se você conseguir essa informação, até naquela mesma thread do e-mail, você conseguir me evidenciar, que eu já anexo dentro do Tiktok.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: acho que você, eu não tinha colocado no chamado, acho que só está a [PESSOA]. Aí, se você quiser, eu te adiciono para você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4758,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: receber",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: essas interações também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Por favor. Eu vou conversar com o [PESSOA], vou pedir para ele evidenciar para vocês, para que vocês possam apontar qual é a API correta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4605,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom. [PESSOA],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: temIMPLANTAÇÃO ([LOCAL] mais algum ponto",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: do seu lado que você acha que é importante a gente trazer aqui?[LOCAL] ([LOCAL] [PESSOA], o [PESSOA] ele retorna quando?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [EMPRESA] ([LOCAL] verdade, quando é que ele teria disponibilidade para a gente ter uma agenda com ele, que eu acho que é ponto fundamental para a gente resolver esse... Tá, eu posso verificar com ele, né? Ele não me informou, ele só falou que hoje ele não conseguiria. Ontem eu conversei com ele, ele até me deu uns horários que ontem ele poderia participar de [LOCAL], todoIMPLANTAÇÃO ([LOCAL] mundo junto. Só que aí, né, como ficou tudo muito tarde e também já tinha passado do horário que ele poderia participar e eu acho que ele vai embora umas quatro horas, ele entra mais cedo. Então, aí eu não consegui mais conversar com ele, mas eu vou mandar mensagem para ele para verificar uma agenda, quando que ele pode participar, vou pedir também para ele evidenciar para ele que a gente possa já ir adiantando e na próxima call que a gente fizer já esteja aí com mais informações.[LOCAL] ([LOCAL] Tá bom, e aí eu envolvo alguém da minha parte técnica aqui, a gente vai para essa call mais com mais reforços para a gente tentar resolver durante a reunião mesmo. Tudo bem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então a gente fica alinhado dessa forma. [PESSOA], você já voltou de férias ou",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: você só",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: conectouIMPLANTAÇÃO ([LOCAL] sem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: voltar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: O que acontece? Às vezes é só para eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5346,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: saber.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não te incomodava.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Não, não voltei.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom. Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: jáIMPLANTAÇÃO ([LOCAL] 23 eu tô aí. Mas pode",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ir",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: precisando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: só. Tá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: trabalhando na série.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Eu imaginei, mas a gente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tentar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: sem ter que te acionar, tá bom?[LOCAL] ([LOCAL] Tá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: bom, mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: bom toda a disposição.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Combinado. [LOCAL] então, tá gente? Vou guardar essas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: informações",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: e cole, que eu já interajo aqui no [LOCAL] com o pessoal, tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.453,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá bom então.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL],[LOCAL] ([LOCAL] pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [EMPRESA] ([LOCAL] carnaval. Tchau, tchau. [LOCAL],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4562,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

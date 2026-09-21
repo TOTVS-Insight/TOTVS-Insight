@@ -1,0 +1,193 @@
+{
+  "id_reuniao": "796545",
+  "codt": "T53306",
+  "data_reuniao": "2025-12-05 10:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "EDUCACIONAL",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 2]: [EMPRESA].\n[LOCUTOR 1]: Gente, bom dia.\n[LOCUTOR 4]: Olá, bom dia. Bom dia.\n[LOCUTOR 1]: Vamos ser só nós mesmos ou vai participar mais alguém?\n[LOCUTOR 4]: O meu colega [PESSOA] vai entrar também, só um minutinho.\n[LOCUTOR 1]: Eu vou te levar, peço vocês um minutinho que alguém já retorna, ok, pessoal?\n[LOCUTOR 4]: Olá, bom dia.\n[LOCUTOR 3]: [EMPRESA], [LOCAL]. Bom dia, pessoal. [EMPRESA] Dani, tu sabe se o [PESSOA] vai entrar?\n[LOCUTOR 4]: [EMPRESA], o [PESSOA] não, vai entrar o [PESSOA], que também tá entrando agora.\n[LOCUTOR 3]: Beleza.\n[LOCUTOR 1]: [LOCAL], quando pudermos iniciar, só me avisar, beleza?\n[LOCUTOR 2]: Sim.\n[LOCUTOR 3]: Só falta... Só vamos esperar mais um minutinho, dois, pra ver se o [PESSOA] entra também. O [PESSOA] também já tá entrando. Só uns dois minutinhos, daí a gente começa.\n[LOCUTOR 1]: Sem problema.\n[LOCUTOR 2]: Obrigado.\n[LOCUTOR 3]: [PESSOA], [LOCAL], a gente pode começar. Tá?\n[LOCUTOR 1]: Eu vou... Bom dia a todos.\n[LOCUTOR 3]: Bom dia. Eu sou uma... fui eu quem criou a agenda ou foi você, [PESSOA]?\n[LOCUTOR 1]: [PESSOA] eu.\n[LOCUTOR 3]: Ah, tá. Ok. Então daí eu não consigo estartar a gravação.\n[LOCUTOR 1]: É. Eu também não consigo gravar, tá?\n[LOCUTOR 3]: Não?\n[LOCUTOR 1]: Se você quiser criar uma outra sala, um spooling, a gente vai todo mundo pra lá.\n[LOCUTOR 3]: Pode ser, então.\n[LOCUTOR 1]: Pode ser.\n[LOCUTOR 3]: Tá, então eu vou fazer isso aqui rapidinho e já mando o link pra vocês da outra sala pra gente poder gravar, tá? Eu vou pedir pro pessoal sair aqui e entrar no próximo link.\n[LOCUTOR 4]: [LOCAL], eu coloquei o link aqui no chat para que vocês possam migrar para outra sala.\n[LOCUTOR 1]: [LOCAL], vou migrando para lá também, pessoal.",
+  "texto_filtrado": "[LOCUTOR 2]: [EMPRESA].\n[LOCUTOR 1]: Vamos ser só nós mesmos ou vai participar mais alguém?\n[LOCUTOR 4]: [EMPRESA], o [PESSOA] não, vai entrar o [PESSOA], que também tá entrando agora.\n[LOCUTOR 1]: [LOCAL], quando pudermos iniciar, só me avisar, beleza?\n[LOCUTOR 3]: Só falta... Só vamos esperar mais um minutinho, dois, pra ver se o [PESSOA] entra também. O [PESSOA] também já tá entrando. Só uns dois minutinhos, daí a gente começa.\n[LOCUTOR 1]: Sem problema.\n[LOCUTOR 3]: [PESSOA], [LOCAL], a gente pode começar. Tá?\n[LOCUTOR 3]: Ah, tá. Ok. Então daí eu não consigo estartar a gravação.\n[LOCUTOR 1]: Se você quiser criar uma outra sala, um spooling, a gente vai todo mundo pra lá.\n[LOCUTOR 3]: Pode ser, então.\n[LOCUTOR 1]: Pode ser.\n[LOCUTOR 4]: [LOCAL], eu coloquei o link aqui no chat para que vocês possam migrar para outra sala.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:38.618377+00:00",
+    "total_linhas": 28,
+    "linhas_mantidas": 12,
+    "linhas_removidas": 16,
+    "percentual_mantido": 42.86,
+    "confianca_media": 0.4491
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Gente, bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Olá, bom dia. Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Vamos ser só nós mesmos ou vai participar mais alguém?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4683,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: O meu colega [PESSOA] vai entrar também, só um minutinho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4499,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu vou te levar, peço vocês um minutinho que alguém já retorna, ok, pessoal?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3951,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Olá, bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [EMPRESA], [LOCAL]. Bom dia, pessoal. [EMPRESA] Dani, tu sabe se o [PESSOA] vai entrar?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4245,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [EMPRESA], o [PESSOA] não, vai entrar o [PESSOA], que também tá entrando agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4646,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], quando pudermos iniciar, só me avisar, beleza?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Só falta... Só vamos esperar mais um minutinho, dois, pra ver se o [PESSOA] entra também. O [PESSOA] também já tá entrando. Só uns dois minutinhos, daí a gente começa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4616,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sem problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA], [LOCAL], a gente pode começar. Tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu vou... Bom dia a todos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3662,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Bom dia. Eu sou uma... fui eu quem criou a agenda ou foi você, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4248,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA] eu.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, tá. Ok. Então daí eu não consigo estartar a gravação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É. Eu também não consigo gravar, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Se você quiser criar uma outra sala, um spooling, a gente vai todo mundo pra lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.504,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Pode ser, então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá, então eu vou fazer isso aqui rapidinho e já mando o link pra vocês da outra sala pra gente poder gravar, tá? Eu vou pedir pro pessoal sair aqui e entrar no próximo link.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.419,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCAL], eu coloquei o link aqui no chat para que vocês possam migrar para outra sala.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5186,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], vou migrando para lá também, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4187,
+      "motivo": "ml"
+    }
+  ]
+}

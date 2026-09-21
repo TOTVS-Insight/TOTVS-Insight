@@ -1,0 +1,493 @@
+{
+  "id_reuniao": "1169942",
+  "codt": "T06345",
+  "data_reuniao": "2026-03-09 10:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 6]: Bom dia. \n[LOCUTOR 2]: dia. Bom\n[LOCUTOR 6]: dia, bom dia. Estamos todos aqui já, [PESSOA], do lado da [LOCAL]? [PESSOA]\n[LOCUTOR 4]: e [PESSOA], sim. Estamos.\n[LOCUTOR 6]: Boa. Bacana. Primeiro, obrigado pelo tempo de vocês. Bom dia, bom dia a todos. Boa semana. Eu estou aqui com o Marcelo. O Marcelo é o nosso especialista aqui no segmento de back-office. A gente trouxe ele aqui especificamente para a gente falar sobre aquele tema que umas últimas reuniões que a gente tinha abordado a questão de conciliação, a gente identificou que muita coisa era feita de forma manual ainda dentro do processo na empresa. Então a ideia hoje aqui é entender um pouco da [EMPRESA], que eu lembro bem que a [EMPRESA] falou bastante aquele dia sobre a questão da conciliação, Então, a gente entender quais são os pontos que a gente tem que são manuais, enfim, passar isso aqui para o Marcelo e o Marcelo entender aonde que a gente consegue atuar para tentar otimizar e automatizar o máximo possível da operação. Tá bom? Acho que hoje esse é o objetivo, tá [PESSOA]? Então, passo a palavra aqui para vocês, para a [EMPRESA] ou Marcelo quiser se apresentar também, fique à vontade. Eu estou como espectador e vou acompanhando vocês também. Se precisar, eu estou à disposição.Marcelo - \n[LOCUTOR 11]: Beleza, [PESSOA]. Então, pessoal, só me apresentando aqui. Eu sou do time do [EMPRESA]. E aí o [PESSOA] passou essa questão da conciliação. Eu queria entender realmente o que vocês estão usando, como estão usando, para a gente poder direcionar, ver o que dá para melhorar nesse sentido para vocês.\n[LOCUTOR 3]: Bom dia. Então, [PESSOA], hoje a conciliação, a importação dos extratos estão automatizados através da Supply, né? Então, já importa já para o sistema. E o que a gente tem que fazer manual é, assim, a aplicação de compromissadas, a gente tem que ficar fazendo tudo manual, as transferências entre contas, o que tem de empréstimos, que às vezes a gente tem empréstimo de uma conta para outra, tem que fazer tudo manual. E tarifa já está automatizado, que o [PESSOA], funcionário nosso aqui da [LOCAL], junto com o [EMPRESA], conseguiu fazer automatizado, então já é a hora que importa o extrato, ele identifica que a tarifa, ele já lança. Mas acho que seriam esses pontos que a gente tá mais manual. Seriam as transferências, os empréstimos, dar compromissado, por exemplo, que é bastante, dá bastante trabalho, porque tem que fazer uma a uma, valor idêntico, senão não bate. E aí depois que a gente joga o... O Kinab aí a gente tem que ir lá e tem que fazer a conciliação. Tem que apertar o botãozinho conciliar, que aí se ele bater ele vai conciliar automaticamente. Senão aí os demais tem que fazer anual. Tipo, tem que ir lá, clicar, o valor que bate. para eu conseguir conciliar.Marcelo - \n[LOCUTOR 11]: Entendi. E vocês estão usando já o conciliador back-office? Qual versão vocês estão usando?\n[LOCUTOR 3]: Sim, é o conciliador back-office. Deixa eu ver aqui.Marcelo - \n[LOCUTOR 11]: [PESSOA], para você conseguir, peraí, deixa eu tirar a sua tela e me mostrar essa parte aí. Você falou que é manual?\n[LOCUTOR 3]: É, na verdade... Deixa eu abrir aqui, peraí. Está dando uma falha aqui.Marcelo - \n[LOCUTOR 11]: [LOCUTOR 5]: problema, [EMPRESA].\n[LOCUTOR 3]: Agora deu certo. Está vendo a minha tela?Marcelo - \n[LOCUTOR 11]: Sim, agora sim. Estou vendo.\n[LOCUTOR 3]: Então, é o conciliador Backoffice. Eu não sei de onde que vem a versão. A versão do TOTUS, você quer saber?Marcelo - \n[LOCUTOR 11]: Não, pode ligar no conciliador, que eu ainda consigo ver qual que é.\n[LOCUTOR 6]: Eu acho que o seu áudio do seu microfone está bem ruim, [PESSOA]. Está dando uma falhadinha quando você fala e fica pipucando.\n[LOCUTOR 3]: Um ponto também dessa conciliação é que se a gente não altera a empresa, que ele não concilia certo, ele cria um banco. Também tem isso daí também.Marcelo - \n[LOCUTOR 11]: Toda\n[LOCUTOR 3]: vez que eu for mudar a empresa, eu tenho que sair, entrar tudo de novo e selecionar filial.Marcelo - \n[LOCUTOR 11]: Esse tipo de situação, você já chegou a abrir ticket para o suporte?\n[LOCUTOR 3]: Uma época foi aberta lá atrás, mas eles falaram que não tinha que fazer, que era isso mesmo, que era por causa dessa nova versão, conciliação back-office, né? Aqui não vai ter... É o que... Não sei se importou já... Aqui algumas pendências que a gente tem, né? Empréstimos... Empréstimo também baixa manual, né? E da conciliação... Você queria que eu mostrasse o quê? Porque aqui já tá conciliado, já não tem nada a conciliar porque a gente não baixou extrato ainda.Marcelo - \n[LOCUTOR 11]: Seria mais o que você falou de processo manual, né? Mas pelo que eu estou vendo aí\n[LOCUTOR 3]: já foi. É, aí é no movimento bancário que a gente faz o lançamento das transferências, né? Não é aqui. Tem que ir lá no movimento bancário e fazer tudo por lá.Marcelo - \n[LOCUTOR 11]: Tá, e você gostaria de automatizar esse processo?\n[LOCUTOR 3]: Sim, ficaria bem melhor. Que nem, por exemplo, das compromissadas, que é uma aplicação diária que a gente faz, aplica, resgata no outro dia, isso daí dá bastante trabalho, né? É bastante movimentação, entendeu? Então, se tivesse como fazer ela automatizada,Marcelo - \n[LOCUTOR 11]: já\n[LOCUTOR 3]: ajudaria.Marcelo - \n[LOCUTOR 11]: Eu vejo que há uma possibilidade através de [LOCAL], da gente fazer isso automatizando um robozinho aí para fazer essas transferências, essas movimentações para você. Hoje vocês já tem alguma coisa de [LOCAL]? \n[LOCUTOR 1]: não. Só\n[LOCUTOR 3]: a van bancária por enquanto.Marcelo - \n[LOCUTOR 11]: Então acho que nesse caso caberia um [LOCAL] mesmo.\n[LOCUTOR 6]: O software, propriamente dito, ele não tem esse processo automatizado, é isso, né [EMPRESA] - \n[LOCUTOR 11]: Não, aí precisa de uma intervenção manual mesmo, tá?\n[LOCUTOR 6]: [EMPRESA] - \n[LOCUTOR 11]: uso do [LOCAL].\n[LOCUTOR 6]: Não, entendemos. Perfeito, eu acho que a ideia hoje era justamente entender isso de forma bem técnica, né? A gente teve uma reunião anterior para você entender de onde veio isso, tá Marcelo? A gente teve uma reunião anterior onde a gente estava apresentando algumas informações de [EMPRESA] E aí a [EMPRESA] nos trouxe essa dor processual dela diária, que a ideia era justamente entender qual caminho a gente consegue dentro da [EMPRESA] seguir para que a gente corrija essa dor atual. Então a ideia era essa, né [PESSOA]? Era a gente entender se tinha algo dentro da solução já in natura que a gente conseguisse automatizar. Como não E aí a gente tem essa oportunidade.\n[LOCUTOR 4]: Tem ali um problema bem grande decorrente daquele... Vocês estão me ouvindo?\n[LOCUTOR 6]: Agora, agora voltou.\n[LOCUTOR 4]: Tá,\n[LOCUTOR 6]: pode falar.\n[LOCUTOR 4]: E a gente tem a dor muito grande aí de processos, que a gente não sabe o que acontece, que os saldos ali, e é até o motivo daquela nota de 21 mil, que a gente não sabe o que acontece, que os saldos ali, eles não ficam de forma conciliada, ela perde a conciliação. Então, a gente queria entender aí também o que está acontecendo nesse sentido, né?Marcelo - \n[LOCUTOR 11]: Que é o\n[LOCUTOR 4]: mais agravante aqui.Marcelo - \n[LOCUTOR 11]: Essa\n[LOCUTOR 6]: do 21 mil, essa não conciliação, já chegaram a abrir também um ticket, [PESSOA]? Você se recorda?\n[LOCUTOR 4]: Já\n[LOCUTOR 3]: foi aberto\n[LOCUTOR 4]: vários,\n[LOCUTOR 3]: né?\n[LOCUTOR 4]: Lá atrás,\n[LOCUTOR 3]: lembra?\n[LOCUTOR 6]: Eu ia te pedir uma gentileza, [PESSOA], se você conseguiu me passar desse item, desse problema de conciliação que vocês fizeram, para eu ver quem que estava tratando, porque se foram abertos vários e ninguém corrigiu, a gente precisa escalonar esse tema, esse é um tom importante, tá? A questão de fazer o processo ali automatizado porque você não tenha, você esteja mais focado em itens estratégicos, o Marcelo aqui direcionou para a gente, talvez a gente consiga isso através do [LOCAL] e aí a gente vê isso na sequência. Não sei se vocês já conheceram o [LOCAL] da [EMPRESA], mas a gente pode ver isso na sequência. Agora, essa questão aí dos problemas de conciliação que não estão batendo valores, se você puder me passar quais os tickets você abriu, não precisa ser todos, mas talvez os últimos aí, Eu agradeço porque eu gostaria de escalonar esse tema interno, tá? Se eles não resolveram, tá, [PESSOA]?\n[LOCUTOR 4]: Cara, se você pegar minha central de chamado ali, deve ter uns 500 mil chamados já, velho. Tem que parar esse\n[LOCUTOR 6]: tema.\n[LOCUTOR 4]: Não, não. Geral, é eu achar esse tema lá,\n[LOCUTOR 6]: né? Ah, entendi. Entendi não, mas eu posso\n[LOCUTOR 4]: ajudar também.\n[LOCUTOR 6]: Eu\n[LOCUTOR 3]: olho\n[LOCUTOR 6]: aqui\n[LOCUTOR 3]: e dou uma\n[LOCUTOR 6]: analisada.\n[LOCUTOR 3]: que a gente teve, o [EMPRESA] ajudou a gente, ele falou que era o problema na reconciliação. Aí, o saldo bate na conciliação, na reconciliação não bate. Ele fez um trabalho de limitar, a partir de dezembro, a gente incluir os valores exatos dos saldos. Aí, quando chegou agora, a gente foi fazer a conferência, alguns estavam errados mesmo e outros, ele falou que é esse problema da reconciliação.\n[LOCUTOR 6]: Tá, tá bom.\n[LOCUTOR 3]: Aí por que que tá ocasionando esse problema é que a gente não sabe.\n[LOCUTOR 6]: Mas a gente vai descobrir, tá? Eu vou fazer o seguinte, eu vou abrir aqui os últimos tickets que vocês tiveram, vou ver se algum deles, [PESSOA], tem questão de reconciliação, eu te passo ali qual que é o código, você só valida pra mim se esse faz sentido e eu vou escalonar internamente pra gente poder resolver esse problema da reconciliação, que não pode acontecer realmente, não faz sentido. A questão de otimizar o processo para ti, [EMPRESA], aí a gente vê isso com calma e através do [LOCAL] e aí eu faço o pessoal apresentar para vocês e mostrar como isso seria feito através do robôzinho automatizado dentro do sistema.\n[LOCUTOR 3]: Ah, legal. Beleza.\n[LOCUTOR 6]: Combinado, [PESSOA]. Obrigado, [EMPRESA]. Eu vou fazer isso e eu já te passo o ticket aqui, você vê se é esse mesmo e aí eu eu trato com a pessoa que era para ter resolvido esse problema.\n[LOCUTOR 4]: Beleza.\n[LOCUTOR 6]: [LOCAL], Marcelo, obrigado pelaMarcelo - \n[LOCUTOR 11]: oportunidade. [LOCAL],\n[LOCUTOR 6]: gente. BomMarcelo - \n[LOCUTOR 11]: dia a todos.\n[LOCUTOR 3]: [LOCAL], bom\n[LOCUTOR 6]: dia.Marcelo - \n[LOCUTOR 11]: [LOCAL],\n[LOCUTOR 3]: tchau.",
+  "texto_filtrado": "[LOCUTOR 6]: Boa. Bacana. Primeiro, obrigado pelo tempo de vocês. Bom dia, bom dia a todos. Boa semana. Eu estou aqui com o Marcelo. O Marcelo é o nosso especialista aqui no segmento de back-office. A gente trouxe ele aqui especificamente para a gente falar sobre aquele tema que umas últimas reuniões que a gente tinha abordado a questão de conciliação, a gente identificou que muita coisa era feita de forma manual ainda dentro do processo na empresa. Então a ideia hoje aqui é entender um pouco da [EMPRESA], que eu lembro bem que a [EMPRESA] falou bastante aquele dia sobre a questão da conciliação, Então, a gente entender quais são os pontos que a gente tem que são manuais, enfim, passar isso aqui para o Marcelo e o Marcelo entender aonde que a gente consegue atuar para tentar otimizar e automatizar o máximo possível da operação. Tá bom? Acho que hoje esse é o objetivo, tá [PESSOA]? Então, passo a palavra aqui para vocês, para a [EMPRESA] ou Marcelo quiser se apresentar também, fique à vontade. Eu estou como espectador e vou acompanhando vocês também. Se precisar, eu estou à disposição.Marcelo -\n[LOCUTOR 11]: Beleza, [PESSOA]. Então, pessoal, só me apresentando aqui. Eu sou do time do [EMPRESA]. E aí o [PESSOA] passou essa questão da conciliação. Eu queria entender realmente o que vocês estão usando, como estão usando, para a gente poder direcionar, ver o que dá para melhorar nesse sentido para vocês.\n[LOCUTOR 3]: Bom dia. Então, [PESSOA], hoje a conciliação, a importação dos extratos estão automatizados através da Supply, né? Então, já importa já para o sistema. E o que a gente tem que fazer manual é, assim, a aplicação de compromissadas, a gente tem que ficar fazendo tudo manual, as transferências entre contas, o que tem de empréstimos, que às vezes a gente tem empréstimo de uma conta para outra, tem que fazer tudo manual. E tarifa já está automatizado, que o [PESSOA], funcionário nosso aqui da [LOCAL], junto com o [EMPRESA], conseguiu fazer automatizado, então já é a hora que importa o extrato, ele identifica que a tarifa, ele já lança. Mas acho que seriam esses pontos que a gente tá mais manual. Seriam as transferências, os empréstimos, dar compromissado, por exemplo, que é bastante, dá bastante trabalho, porque tem que fazer uma a uma, valor idêntico, senão não bate. E aí depois que a gente joga o... O Kinab aí a gente tem que ir lá e tem que fazer a conciliação. Tem que apertar o botãozinho conciliar, que aí se ele bater ele vai conciliar automaticamente. Senão aí os demais tem que fazer anual. Tipo, tem que ir lá, clicar, o valor que bate. para eu conseguir conciliar.Marcelo -\n[LOCUTOR 11]: Entendi. E vocês estão usando já o conciliador back-office? Qual versão vocês estão usando?\n[LOCUTOR 3]: Sim, é o conciliador back-office. Deixa eu ver aqui.Marcelo -\n[LOCUTOR 11]: [LOCUTOR 5]: problema, [EMPRESA].\n[LOCUTOR 3]: Então, é o conciliador Backoffice. Eu não sei de onde que vem a versão. A versão do TOTUS, você quer saber?Marcelo -\n[LOCUTOR 11]: Não, pode ligar no conciliador, que eu ainda consigo ver qual que é.\n[LOCUTOR 6]: Eu acho que o seu áudio do seu microfone está bem ruim, [PESSOA]. Está dando uma falhadinha quando você fala e fica pipucando.\n[LOCUTOR 3]: Um ponto também dessa conciliação é que se a gente não altera a empresa, que ele não concilia certo, ele cria um banco. Também tem isso daí também.Marcelo -\n[LOCUTOR 11]: Toda\n[LOCUTOR 3]: vez que eu for mudar a empresa, eu tenho que sair, entrar tudo de novo e selecionar filial.Marcelo -\n[LOCUTOR 11]: Esse tipo de situação, você já chegou a abrir ticket para o suporte?\n[LOCUTOR 3]: Uma época foi aberta lá atrás, mas eles falaram que não tinha que fazer, que era isso mesmo, que era por causa dessa nova versão, conciliação back-office, né? Aqui não vai ter... É o que... Não sei se importou já... Aqui algumas pendências que a gente tem, né? Empréstimos... Empréstimo também baixa manual, né? E da conciliação... Você queria que eu mostrasse o quê? Porque aqui já tá conciliado, já não tem nada a conciliar porque a gente não baixou extrato ainda.Marcelo -\n[LOCUTOR 11]: Seria mais o que você falou de processo manual, né? Mas pelo que eu estou vendo aí\n[LOCUTOR 3]: já foi. É, aí é no movimento bancário que a gente faz o lançamento das transferências, né? Não é aqui. Tem que ir lá no movimento bancário e fazer tudo por lá.Marcelo -\n[LOCUTOR 11]: Tá, e você gostaria de automatizar esse processo?\n[LOCUTOR 3]: Sim, ficaria bem melhor. Que nem, por exemplo, das compromissadas, que é uma aplicação diária que a gente faz, aplica, resgata no outro dia, isso daí dá bastante trabalho, né? É bastante movimentação, entendeu? Então, se tivesse como fazer ela automatizada,Marcelo -\n[LOCUTOR 3]: ajudaria.Marcelo -\n[LOCUTOR 11]: Eu vejo que há uma possibilidade através de [LOCAL], da gente fazer isso automatizando um robozinho aí para fazer essas transferências, essas movimentações para você. Hoje vocês já tem alguma coisa de [LOCAL]?\n[LOCUTOR 3]: a van bancária por enquanto.Marcelo -\n[LOCUTOR 11]: Então acho que nesse caso caberia um [LOCAL] mesmo.\n[LOCUTOR 6]: O software, propriamente dito, ele não tem esse processo automatizado, é isso, né [EMPRESA] -\n[LOCUTOR 11]: Não, aí precisa de uma intervenção manual mesmo, tá?\n[LOCUTOR 6]: [EMPRESA] -\n[LOCUTOR 11]: uso do [LOCAL].\n[LOCUTOR 6]: Não, entendemos. Perfeito, eu acho que a ideia hoje era justamente entender isso de forma bem técnica, né? A gente teve uma reunião anterior para você entender de onde veio isso, tá Marcelo? A gente teve uma reunião anterior onde a gente estava apresentando algumas informações de [EMPRESA] E aí a [EMPRESA] nos trouxe essa dor processual dela diária, que a ideia era justamente entender qual caminho a gente consegue dentro da [EMPRESA] seguir para que a gente corrija essa dor atual. Então a ideia era essa, né [PESSOA]? Era a gente entender se tinha algo dentro da solução já in natura que a gente conseguisse automatizar. Como não E aí a gente tem essa oportunidade.\n[LOCUTOR 4]: Tem ali um problema bem grande decorrente daquele... Vocês estão me ouvindo?\n[LOCUTOR 6]: Agora, agora voltou.\n[LOCUTOR 6]: pode falar.\n[LOCUTOR 4]: E a gente tem a dor muito grande aí de processos, que a gente não sabe o que acontece, que os saldos ali, e é até o motivo daquela nota de 21 mil, que a gente não sabe o que acontece, que os saldos ali, eles não ficam de forma conciliada, ela perde a conciliação. Então, a gente queria entender aí também o que está acontecendo nesse sentido, né?Marcelo -\n[LOCUTOR 11]: Que é o\n[LOCUTOR 11]: Essa\n[LOCUTOR 6]: do 21 mil, essa não conciliação, já chegaram a abrir também um ticket, [PESSOA]? Você se recorda?\n[LOCUTOR 3]: foi aberto\n[LOCUTOR 4]: vários,\n[LOCUTOR 4]: Lá atrás,\n[LOCUTOR 3]: lembra?\n[LOCUTOR 6]: Eu ia te pedir uma gentileza, [PESSOA], se você conseguiu me passar desse item, desse problema de conciliação que vocês fizeram, para eu ver quem que estava tratando, porque se foram abertos vários e ninguém corrigiu, a gente precisa escalonar esse tema, esse é um tom importante, tá? A questão de fazer o processo ali automatizado porque você não tenha, você esteja mais focado em itens estratégicos, o Marcelo aqui direcionou para a gente, talvez a gente consiga isso através do [LOCAL] e aí a gente vê isso na sequência. Não sei se vocês já conheceram o [LOCAL] da [EMPRESA], mas a gente pode ver isso na sequência. Agora, essa questão aí dos problemas de conciliação que não estão batendo valores, se você puder me passar quais os tickets você abriu, não precisa ser todos, mas talvez os últimos aí, Eu agradeço porque eu gostaria de escalonar esse tema interno, tá? Se eles não resolveram, tá, [PESSOA]?\n[LOCUTOR 4]: Cara, se você pegar minha central de chamado ali, deve ter uns 500 mil chamados já, velho. Tem que parar esse\n[LOCUTOR 6]: tema.\n[LOCUTOR 4]: ajudar também.\n[LOCUTOR 3]: olho\n[LOCUTOR 6]: aqui\n[LOCUTOR 3]: e dou uma\n[LOCUTOR 6]: analisada.\n[LOCUTOR 3]: que a gente teve, o [EMPRESA] ajudou a gente, ele falou que era o problema na reconciliação. Aí, o saldo bate na conciliação, na reconciliação não bate. Ele fez um trabalho de limitar, a partir de dezembro, a gente incluir os valores exatos dos saldos. Aí, quando chegou agora, a gente foi fazer a conferência, alguns estavam errados mesmo e outros, ele falou que é esse problema da reconciliação.\n[LOCUTOR 3]: Aí por que que tá ocasionando esse problema é que a gente não sabe.\n[LOCUTOR 6]: Mas a gente vai descobrir, tá? Eu vou fazer o seguinte, eu vou abrir aqui os últimos tickets que vocês tiveram, vou ver se algum deles, [PESSOA], tem questão de reconciliação, eu te passo ali qual que é o código, você só valida pra mim se esse faz sentido e eu vou escalonar internamente pra gente poder resolver esse problema da reconciliação, que não pode acontecer realmente, não faz sentido. A questão de otimizar o processo para ti, [EMPRESA], aí a gente vê isso com calma e através do [LOCAL] e aí eu faço o pessoal apresentar para vocês e mostrar como isso seria feito através do robôzinho automatizado dentro do sistema.\n[LOCUTOR 6]: Combinado, [PESSOA]. Obrigado, [EMPRESA]. Eu vou fazer isso e eu já te passo o ticket aqui, você vê se é esse mesmo e aí eu eu trato com a pessoa que era para ter resolvido esse problema.\n[LOCUTOR 11]: oportunidade. [LOCAL],\n[LOCUTOR 6]: gente. BomMarcelo -\n[LOCUTOR 11]: [LOCAL],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:32.621655+00:00",
+    "total_linhas": 78,
+    "linhas_mantidas": 53,
+    "linhas_removidas": 25,
+    "percentual_mantido": 67.95,
+    "confianca_media": 0.4644
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 6]: Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: dia. Bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4082,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: dia, bom dia. Estamos todos aqui já, [PESSOA], do lado da [LOCAL]? [PESSOA]",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4507,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: e [PESSOA], sim. Estamos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Boa. Bacana. Primeiro, obrigado pelo tempo de vocês. Bom dia, bom dia a todos. Boa semana. Eu estou aqui com o Marcelo. O Marcelo é o nosso especialista aqui no segmento de back-office. A gente trouxe ele aqui especificamente para a gente falar sobre aquele tema que umas últimas reuniões que a gente tinha abordado a questão de conciliação, a gente identificou que muita coisa era feita de forma manual ainda dentro do processo na empresa. Então a ideia hoje aqui é entender um pouco da [EMPRESA], que eu lembro bem que a [EMPRESA] falou bastante aquele dia sobre a questão da conciliação, Então, a gente entender quais são os pontos que a gente tem que são manuais, enfim, passar isso aqui para o Marcelo e o Marcelo entender aonde que a gente consegue atuar para tentar otimizar e automatizar o máximo possível da operação. Tá bom? Acho que hoje esse é o objetivo, tá [PESSOA]? Então, passo a palavra aqui para vocês, para a [EMPRESA] ou Marcelo quiser se apresentar também, fique à vontade. Eu estou como espectador e vou acompanhando vocês também. Se precisar, eu estou à disposição.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Beleza, [PESSOA]. Então, pessoal, só me apresentando aqui. Eu sou do time do [EMPRESA]. E aí o [PESSOA] passou essa questão da conciliação. Eu queria entender realmente o que vocês estão usando, como estão usando, para a gente poder direcionar, ver o que dá para melhorar nesse sentido para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Bom dia. Então, [PESSOA], hoje a conciliação, a importação dos extratos estão automatizados através da Supply, né? Então, já importa já para o sistema. E o que a gente tem que fazer manual é, assim, a aplicação de compromissadas, a gente tem que ficar fazendo tudo manual, as transferências entre contas, o que tem de empréstimos, que às vezes a gente tem empréstimo de uma conta para outra, tem que fazer tudo manual. E tarifa já está automatizado, que o [PESSOA], funcionário nosso aqui da [LOCAL], junto com o [EMPRESA], conseguiu fazer automatizado, então já é a hora que importa o extrato, ele identifica que a tarifa, ele já lança. Mas acho que seriam esses pontos que a gente tá mais manual. Seriam as transferências, os empréstimos, dar compromissado, por exemplo, que é bastante, dá bastante trabalho, porque tem que fazer uma a uma, valor idêntico, senão não bate. E aí depois que a gente joga o... O Kinab aí a gente tem que ir lá e tem que fazer a conciliação. Tem que apertar o botãozinho conciliar, que aí se ele bater ele vai conciliar automaticamente. Senão aí os demais tem que fazer anual. Tipo, tem que ir lá, clicar, o valor que bate. para eu conseguir conciliar.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Entendi. E vocês estão usando já o conciliador back-office? Qual versão vocês estão usando?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Sim, é o conciliador back-office. Deixa eu ver aqui.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA], para você conseguir, peraí, deixa eu tirar a sua tela e me mostrar essa parte aí. Você falou que é manual?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4387,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, na verdade... Deixa eu abrir aqui, peraí. Está dando uma falha aqui.Marcelo -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4449,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCUTOR 5]: problema, [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Agora deu certo. Está vendo a minha tela?Marcelo -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3826,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Sim, agora sim. Estou vendo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então, é o conciliador Backoffice. Eu não sei de onde que vem a versão. A versão do TOTUS, você quer saber?Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Não, pode ligar no conciliador, que eu ainda consigo ver qual que é.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Eu acho que o seu áudio do seu microfone está bem ruim, [PESSOA]. Está dando uma falhadinha quando você fala e fica pipucando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4705,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Um ponto também dessa conciliação é que se a gente não altera a empresa, que ele não concilia certo, ele cria um banco. Também tem isso daí também.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Toda",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vez que eu for mudar a empresa, eu tenho que sair, entrar tudo de novo e selecionar filial.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5029,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Esse tipo de situação, você já chegou a abrir ticket para o suporte?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Uma época foi aberta lá atrás, mas eles falaram que não tinha que fazer, que era isso mesmo, que era por causa dessa nova versão, conciliação back-office, né? Aqui não vai ter... É o que... Não sei se importou já... Aqui algumas pendências que a gente tem, né? Empréstimos... Empréstimo também baixa manual, né? E da conciliação... Você queria que eu mostrasse o quê? Porque aqui já tá conciliado, já não tem nada a conciliar porque a gente não baixou extrato ainda.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Seria mais o que você falou de processo manual, né? Mas pelo que eu estou vendo aí",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: já foi. É, aí é no movimento bancário que a gente faz o lançamento das transferências, né? Não é aqui. Tem que ir lá no movimento bancário e fazer tudo por lá.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá, e você gostaria de automatizar esse processo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Sim, ficaria bem melhor. Que nem, por exemplo, das compromissadas, que é uma aplicação diária que a gente faz, aplica, resgata no outro dia, isso daí dá bastante trabalho, né? É bastante movimentação, entendeu? Então, se tivesse como fazer ela automatizada,Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: já",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ajudaria.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Eu vejo que há uma possibilidade através de [LOCAL], da gente fazer isso automatizando um robozinho aí para fazer essas transferências, essas movimentações para você. Hoje vocês já tem alguma coisa de [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5447,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: não. Só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: a van bancária por enquanto.Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Então acho que nesse caso caberia um [LOCAL] mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4956,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: O software, propriamente dito, ele não tem esse processo automatizado, é isso, né [EMPRESA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Não, aí precisa de uma intervenção manual mesmo, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5039,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [EMPRESA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: uso do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Não, entendemos. Perfeito, eu acho que a ideia hoje era justamente entender isso de forma bem técnica, né? A gente teve uma reunião anterior para você entender de onde veio isso, tá Marcelo? A gente teve uma reunião anterior onde a gente estava apresentando algumas informações de [EMPRESA] E aí a [EMPRESA] nos trouxe essa dor processual dela diária, que a ideia era justamente entender qual caminho a gente consegue dentro da [EMPRESA] seguir para que a gente corrija essa dor atual. Então a ideia era essa, né [PESSOA]? Era a gente entender se tinha algo dentro da solução já in natura que a gente conseguisse automatizar. Como não E aí a gente tem essa oportunidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tem ali um problema bem grande decorrente daquele... Vocês estão me ouvindo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Agora, agora voltou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: pode falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: E a gente tem a dor muito grande aí de processos, que a gente não sabe o que acontece, que os saldos ali, e é até o motivo daquela nota de 21 mil, que a gente não sabe o que acontece, que os saldos ali, eles não ficam de forma conciliada, ela perde a conciliação. Então, a gente queria entender aí também o que está acontecendo nesse sentido, né?Marcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Que é o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: mais agravante aqui.Marcelo -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: do 21 mil, essa não conciliação, já chegaram a abrir também um ticket, [PESSOA]? Você se recorda?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Já",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: foi aberto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: vários,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Lá atrás,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: lembra?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Eu ia te pedir uma gentileza, [PESSOA], se você conseguiu me passar desse item, desse problema de conciliação que vocês fizeram, para eu ver quem que estava tratando, porque se foram abertos vários e ninguém corrigiu, a gente precisa escalonar esse tema, esse é um tom importante, tá? A questão de fazer o processo ali automatizado porque você não tenha, você esteja mais focado em itens estratégicos, o Marcelo aqui direcionou para a gente, talvez a gente consiga isso através do [LOCAL] e aí a gente vê isso na sequência. Não sei se vocês já conheceram o [LOCAL] da [EMPRESA], mas a gente pode ver isso na sequência. Agora, essa questão aí dos problemas de conciliação que não estão batendo valores, se você puder me passar quais os tickets você abriu, não precisa ser todos, mas talvez os últimos aí, Eu agradeço porque eu gostaria de escalonar esse tema interno, tá? Se eles não resolveram, tá, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Cara, se você pegar minha central de chamado ali, deve ter uns 500 mil chamados já, velho. Tem que parar esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5306,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: tema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Não, não. Geral, é eu achar esse tema lá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: né? Ah, entendi. Entendi não, mas eu posso",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3573,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: ajudar também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: olho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: e dou uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: analisada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que a gente teve, o [EMPRESA] ajudou a gente, ele falou que era o problema na reconciliação. Aí, o saldo bate na conciliação, na reconciliação não bate. Ele fez um trabalho de limitar, a partir de dezembro, a gente incluir os valores exatos dos saldos. Aí, quando chegou agora, a gente foi fazer a conferência, alguns estavam errados mesmo e outros, ele falou que é esse problema da reconciliação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tá, tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Aí por que que tá ocasionando esse problema é que a gente não sabe.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Mas a gente vai descobrir, tá? Eu vou fazer o seguinte, eu vou abrir aqui os últimos tickets que vocês tiveram, vou ver se algum deles, [PESSOA], tem questão de reconciliação, eu te passo ali qual que é o código, você só valida pra mim se esse faz sentido e eu vou escalonar internamente pra gente poder resolver esse problema da reconciliação, que não pode acontecer realmente, não faz sentido. A questão de otimizar o processo para ti, [EMPRESA], aí a gente vê isso com calma e através do [LOCAL] e aí eu faço o pessoal apresentar para vocês e mostrar como isso seria feito através do robôzinho automatizado dentro do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, legal. Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Combinado, [PESSOA]. Obrigado, [EMPRESA]. Eu vou fazer isso e eu já te passo o ticket aqui, você vê se é esse mesmo e aí eu eu trato com a pessoa que era para ter resolvido esse problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCAL], Marcelo, obrigado pelaMarcelo -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: oportunidade. [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: gente. BomMarcelo -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: dia a todos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: dia.Marcelo -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

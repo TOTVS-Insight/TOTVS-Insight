@@ -1,0 +1,31 @@
+{
+  "id_reuniao": "976361",
+  "codt": "118588",
+  "data_reuniao": "2026-01-27 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 1]: Muito obrigado. Eu tenho certeza que você vai gostar. Fala, meu querido. Me desculpa, esqueci de te responder aqui, foi mal mesmo. A cirurgia, a gente botou ela por enquanto para fevereiro, tá? Porque a gente tá fazendo aqui alguns trabalhos dentro de customização. A gente não tem os valores finais ainda, tá? Então ela foi para fevereiro. Me desculpa, tá? Demora. Eu queria ver contigo uma coisa. Uma das informações que eles estão nos pedindo é que o nosso sistema, eles deem ali um indicador, que é o número de propostas faturadas, que foram orçadas, na verdade, diversas, as que foram realmente ganhas. porque eles colocam muito orçamento na rua, muita apotação na rua, mas nem tudo fecha. Eles queriam dar esse indicador, tanto para as vendas comuns deles, vendas que são B2B, como também para as vendas que são licitação. Essas informações, teria como a gente botar isso num BI da target, essa informação? Esse aqui é o número de contratos que foram cotados, de pedidos que foram cotados, mas não fechou. Esse aqui é o número de pedidos que foi cotado e fechou. É possível de ter essa informação?",
+  "texto_filtrado": "[LOCUTOR 1]: Muito obrigado. Eu tenho certeza que você vai gostar. Fala, meu querido. Me desculpa, esqueci de te responder aqui, foi mal mesmo. A cirurgia, a gente botou ela por enquanto para fevereiro, tá? Porque a gente tá fazendo aqui alguns trabalhos dentro de customização. A gente não tem os valores finais ainda, tá? Então ela foi para fevereiro. Me desculpa, tá? Demora. Eu queria ver contigo uma coisa. Uma das informações que eles estão nos pedindo é que o nosso sistema, eles deem ali um indicador, que é o número de propostas faturadas, que foram orçadas, na verdade, diversas, as que foram realmente ganhas. porque eles colocam muito orçamento na rua, muita apotação na rua, mas nem tudo fecha. Eles queriam dar esse indicador, tanto para as vendas comuns deles, vendas que são B2B, como também para as vendas que são licitação. Essas informações, teria como a gente botar isso num BI da target, essa informação? Esse aqui é o número de contratos que foram cotados, de pedidos que foram cotados, mas não fechou. Esse aqui é o número de pedidos que foi cotado e fechou. É possível de ter essa informação?",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:03.462970+00:00",
+    "total_linhas": 1,
+    "linhas_mantidas": 1,
+    "linhas_removidas": 0,
+    "percentual_mantido": 100.0,
+    "confianca_media": 1.0
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: Muito obrigado. Eu tenho certeza que você vai gostar. Fala, meu querido. Me desculpa, esqueci de te responder aqui, foi mal mesmo. A cirurgia, a gente botou ela por enquanto para fevereiro, tá? Porque a gente tá fazendo aqui alguns trabalhos dentro de customização. A gente não tem os valores finais ainda, tá? Então ela foi para fevereiro. Me desculpa, tá? Demora. Eu queria ver contigo uma coisa. Uma das informações que eles estão nos pedindo é que o nosso sistema, eles deem ali um indicador, que é o número de propostas faturadas, que foram orçadas, na verdade, diversas, as que foram realmente ganhas. porque eles colocam muito orçamento na rua, muita apotação na rua, mas nem tudo fecha. Eles queriam dar esse indicador, tanto para as vendas comuns deles, vendas que são B2B, como também para as vendas que são licitação. Essas informações, teria como a gente botar isso num BI da target, essa informação? Esse aqui é o número de contratos que foram cotados, de pedidos que foram cotados, mas não fechou. Esse aqui é o número de pedidos que foi cotado e fechou. É possível de ter essa informação?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    }
+  ]
+}

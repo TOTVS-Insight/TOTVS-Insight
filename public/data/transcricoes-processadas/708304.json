@@ -1,0 +1,1381 @@
+{
+  "id_reuniao": "708304",
+  "codt": "T76839",
+  "data_reuniao": "2025-11-18 09:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 2]: Dia, [PESSOA].[PESSOA] - \n[LOCUTOR 1]: Opa, bom dia, gente. Como é que tá?\n[LOCUTOR 2]: Bem, e você? Como que tá?[PESSOA] - \n[LOCUTOR 1]: Tudo certinho, tudo bem.\n[LOCUTOR 2]: [PESSOA], [PESSOA]. Show de bola. Vou aguardar um pouquinho pra ver se o [PESSOA] vai entrar. Se ele não entrar, a gente já começa, tá?[PESSOA] - \n[LOCUTOR 1]: Não, bem tranquilo. Também, da minha parte, teria convidado o [PESSOA], mas ele não vai conseguir participar. Aí, depois, eu repasso as informações.\n[LOCUTOR 2]: São.[PESSOA] - \n[LOCUTOR 1]: Pontuais algumas dúvidas, então depois eu repasso também, tá?\n[LOCUTOR 3]: [LOCAL].[PESSOA] - \n[LOCUTOR 1]: O [PESSOA] entrou aí então, né?\n[LOCUTOR 3]: Opa, bom dia pessoal, tudo bem?[PESSOA] - \n[LOCUTOR 1]: O [PESSOA], beleza?\n[LOCUTOR 3]: Falou.\n[LOCUTOR 2]: Tudo bem, você?\n[LOCUTOR 3]: [LOCAL]. Então, [LOCAL].\n[LOCUTOR 2]: [LOCAL] dia.\n[LOCUTOR 3]: [LOCAL] dia.[PESSOA] - \n[LOCUTOR 1]: [LOCAL] dia. Você estava falando ali, [PESSOA], para o [LOCAL] que eu sou eu que participo, tá? Depois eu repasso aí as informações internamente.\n[LOCUTOR 3]: Não, fica tranquilo. Então a gente está em boas mãos aqui, tá, [LOCAL]? Tem longa experiência aqui com o TOTOS, desde a implementação do TOTOS na Queco, tá? Então, tem todo o know-how aí para a gente bater esse papo aí sobre checklist e depois dar andamento aí nos próximos passos. [PESSOA], só para deixar registrada aqui a nossa call que vai ser gravada aqui, tem uma IA agora da [EMPRESA] aqui que faz a gravação, faz o resumo, depois se precisar algum ponto aí para a gente repassar, ela registra tudo e eu compartilho contigo, tá?[PESSOA] - \n[LOCUTOR 1]: Bem tranquilo, vai fazer a ata da reunião aí, transcrever.\n[LOCUTOR 3]: [LOCAL], tem uma ferramenta nova que a gente tá usando, a gente começou, na verdade, a usar semana passada, acho que foi no final da semana passada, que ela grava, daí faz a ata, ela registra já no CRM e te passa alguns insights ainda, tal, tal ponto. Mas vamos ver, cara, tem muita coisa.[PESSOA] - \n[LOCUTOR 1]: Que Vamos aprendendo junto, né? Aprendendo aí as sugestões, né? Mas show, show. Bem tranquilo. Então, né? Assistente à toques permitida.\n[LOCUTOR 3]: Permitida.\n[LOCUTOR 2]: Legal, pessoal.\n[LOCUTOR 3]: Então tá, beleza. [PESSOA], se quiser já tocar o barco, fica à vontade. Vamos lá.\n[LOCUTOR 2]: Vou começar aqui, então. Vou compartilhar a tela contigo agora, [PESSOA], para a gente poder começar a nossa apresentação. Só para te [PESSOA] um pouquinho, para a gente ficar alinhado em relação aos passos aqui da apresentação, [PESSOA]. Quando você estiver vendo a minha tela, você me avisa, tá? [LOCAL].[PESSOA] - \n[LOCUTOR 1]: Apareceu aí, tá?\n[LOCUTOR 2]: [LOCAL], show de bola. Então, basicamente, [LOCAL], a nossa apresentação aqui do [EMPRESA] vai ter duas partes. Primeiro, eu vou te apresentar alguns conceitos. A gente vai falar aqui em dois, três, quatro slides aqui sobre os principais benefícios da aplicação. A gente vai passar aqui o fluxo de processo. A ideia é te contextualizar em relação à ferramenta. E aí, no segundo momento, eu vou abrir a ferramenta contigo, na prática, para te mostrar as funções, tá? Então, basicamente, a nossa demonstração funciona dessa forma, uma parte teórica, uma parte prática, pra gente poder fechar ali o entendimento completo da solução, beleza? Qualquer dúvida que você tiver, [PESSOA], você pode estar abrindo o microfone e perguntando, tá? Porque eu tô... geralmente eu trabalho com duas telas, mas como eu tô hoje aqui na [LOCAL] e tá um pouco cheio, eu acabei não conseguindo uma mesa aqui na nossa área, então tô só com uma tela, tá? Mas fica à vontade para perguntar, tirar qualquer dúvida. A ideia é a gente sair daqui, dessa demonstração, com você entendendo como o checklist pode te ajudar em algum processo dentro da tua operação.\n[LOCUTOR 3]: Combinado.\n[LOCUTOR 2]: [LOCAL], então eu vou começar aqui a nossa apresentação. [LOCAL], antes de falar do checklist especificamente, [PESSOA], eu preciso te contextualizar em relação a plataforma que o checklist está inserido hoje aqui dentro da [EMPRESA]. Como você sabe, a [EMPRESA] tem várias linhas de produto, e dentre elas surgiu a suíte logística, que é uma linha de produto que tem por objetivo a gente conseguir atender a logística de ponto a ponto dos nossos clientes. Porém, o checklist nasce num contexto que a gente chama ele aqui hoje, dentro da [EMPRESA], de uma ferramenta cross. Apesar de ele estar dentro da suíte logística, ele não é um sistema que é vocacionado especificamente para logística. O checklist é um produto que serve para fazer o controle de qualidade. de produtos ou processos, independente do segmento, seja logística, seja produção, seja construção civil. Hoje, pela suíte logística ser uma das plataformas percursoras, no que diz respeito a essa nova dinâmica de produtos que a [EMPRESA] tem lançado. Então, produtos web, SaaS nativo, linguagem de microserviço. Então, essa nova arquitetura sistêmica da [EMPRESA], pela suíte logística ter sido um dos primeiros produtos e também ter feature, claro, com as soluções que nós temos aqui dentro do conteúdo de logística, ela foi inserida, mas a gente sempre gosta de salientar que o checklist é uma plataforma cross, tá? [LOCAL]? Falando aqui dos benefícios da solução, [PESSOA], o checklist hoje traz uma nova dinâmica. Hoje, se você trabalha com checklists de forma manual, o sistema vai te dar uma outra dinâmica de trabalho, porque a gente começa a trabalhar tudo via sistema, então a gente vai ter tudo registrado e não tem ali a possibilidade de a gente ter problemas em relação a [EMPRESA], então o checklist basicamente ele vai trazer aí essa nova dinâmica, são dados estruturados porque a gente cria todos os formulários dentro do sistema e a gente consegue definir perguntas, se é obrigatória, se não é obrigatória. Enfim, a gente tem toda uma dinâmica, porque hoje o checklist trabalha com duas pessoas. A gente tem um planejador, que é quem vai criar o checklist, o roteiro, definir. Todas essas parametrizações. E a gente tem o executor, que é quem vai pegar o checklist na prática e vai coletar essas informações. Fora isso, a gente tem toda uma dinâmica também de gestão. Então, a gente consegue visualizar e acompanhar a produtividade em relação às execuções desses checklists. Então, fora toda a parte de validação. Enfim, o sistema traz aí... Quando a gente coloca um sistema para poder apoiar um processo, automaticamente a gente já consegue ganhar controle e visibilidade em relação àquele processo que está sendo apoiado pelo sistema. Então são alguns benefícios básicos que a gente traz dentro da solução. Só que falando mais um pouco, [PESSOA], referente aos pilares da solução, o que a gente tem ali. de principal função dentro do checklist, que são realmente pilares hoje para a solução. Então, basicamente, o roteiro é o nosso primeiro pilar. O roteiro, basicamente, vão ser os conjuntos de perguntas e respostas que você vai definir como planejador. Então, hoje a gente tem uma dinâmica muito bacana para você criar as perguntas, tem várias e várias opções ali. de perguntas para você criar realmente o seu checklist, perguntas que demandam imagem, perguntas que só demandam texto, número, então a gente tem uma junção das duas coisas. é bem completo mesmo, e ele traz ali uma dinâmica bem bacana. Hoje o aplicativo do [LOCAL], que é o aplicativo do executor, nós temos a possibilidade ali dele ser utilizado de forma offline, então não tem a necessidade dele estar conectado na internet para você conseguir coletar as informações do [LOCAL] que você recebeu, e aí quando você passar por um ponto de por um ponto de sinal de internet, ele transaciona essas informações para o desktop e dá visibilidade para o pessoal da retaguarda. Toda a parte de digitalização de evidências, como eu falei para vocês, o roteiro tem N possibilidades de criação de perguntas, dentre elas você criar perguntas onde você solicita fotos como evidências obrigatórias. Eu consigo também, a partir do momento que eu finalizo um checklist, avaliar a parte de latitude e longitude de onde foi finalizado, porque o checklist vai ser finalizado no aplicativo. eu consigo entregar essa parte da geolocalização ali para o sistema, que é bem bacana também, e toda a parte da interface, que é bem didática. Quando vocês começarem a navegar na ferramenta, vocês vão ver. Ela é bem simples, bem fácil de utilizar, até por isso mesmo que a gente tem uma curva de aprendizagem muito rápida dos usuários. Aqui são alguns exemplos práticos de aplicação do checklist. Como eu falei para vocês, o checklist é uma solução cross. Sendo cross, a gente tem a aplicação dela em diversos segmentos. Parte de construção, parte de varejo, a parte de logística, agro. a parte da saúde. Então, são vários segmentos que a gente consegue aplicar o checklist. Então, a gente sempre olha para ela como uma solução que dá para a gente encaixar em diferentes áreas dentro da minha organização. Seja na produção, seja na logística, seja na parte de qualidade. Então, a gente tem várias áreas que podem abarcar o checklist. Aqui é um fluxo básico da execução de um checklist hoje dentro da plataforma. Então, basicamente, a gente começa ali com a parametrização básica de localidade, roteiro e objeto, localidade onde eu estou aplicando esse checklist, roteiro conjunto de perguntas e respostas e objeto que eu estou inspecionando, se é um processo ou um produto. Depois que eu tenho definido aqui o meu roteiro, eu disparo esse roteiro para o aplicativo do executor, o executor recebe esse esse roteiro, e aí ele faz a execução, a coleta das informações, ele começa a preencher o checklist. Depois que ele preenche, ele vai finalizar esse checklist no aplicativo, essas informações vão ser automaticamente transacionadas para o desktop, e aí no desktop eu inicio toda a parte de avaliação dessas respostas que foram enviadas pelo meu executor.[PESSOA] - \n[LOCUTOR 1]: Como não te interromper, talvez uma dúvida, Mas o app então, né? Android e iOS?\n[LOCUTOR 2]: Do checklist só Android por enquanto, tá? A gente tem previsão de liberação de uma segunda versão do aplicativo, né? Agora para dezembro, que ela vai contemplar tanto o Android quanto o iOS, tá?[PESSOA] - \n[LOCUTOR 1]: Tá, entendi. [LOCAL]. Pode ir seguir. Obrigado.\n[LOCUTOR 2]: Por nada. E a gente tem toda a parte também de tratamento de não conformidade, ou seja, o sistema tem hoje uma função de planejamento e tratamento de não conformidade bem robusta, onde eu consigo definir várias e várias ações para tratamento de não conformidade, inclusive com preço. Enfim, é bem robusto mesmo e bem completo essa parte aqui do tratamento da não conformidade. E aí eu finalizo a avaliação, e aí eu consigo já ter visibilidade em relação aos insights, que são as visões gerenciais e operacionais do processo que o checklist controla, tá, pessoal? Então, basicamente, isso aqui é um processo, o fluxo operacional do checklist. Alguma dúvida, [PESSOA], do que eu falei até esse momento?[PESSOA] - \n[LOCUTOR 1]: Não, não, tranquilo.\n[LOCUTOR 2]: Tá claro? Sim. [LOCAL]. Então agora a gente vai transacionar ali para a parte do aplicativo, tá, Marcos? Vou abrir aqui a suíte logística aqui na praça para a gente dar uma olhada no checklist.[PESSOA] - \n[LOCUTOR 1]: Aproveitando enquanto tu acessa aí, a suíte é cloud ou é local?\n[LOCUTOR 2]: Cloud nativo, tá? Então, adquiriu?[PESSOA] - \n[LOCUTOR 1]: Tem limite de espaço, armazenamento?\n[LOCUTOR 2]: No princípio não, tá?[PESSOA] - \n[LOCUTOR 1]: Tá, beleza.\n[LOCUTOR 2]: A forma de cobrança da Suite Logística hoje, falando especificamente do checklist, é por quantidade de checklist que você utiliza, tá? Então, usuário limitado, toda essa parte de dados aí, enquanto você tiver acesso à plataforma, quando você tiver pagando a plataforma, vai estar disponível lá, toda essa parte de dados, tá? Então aqui, essa aqui é a nossa work area da Suite Logística, então, Basicamente, eu tenho aqui todos aqueles aplicativos daquela primeira mandala que eu te mostrei, porém, é porque eu tenho acesso a administrador, ele me traz todos, mas de vocês, basicamente, vai ter aqui só o do checklist, por isso que eu estou abrindo aqui o checklist. Vou conectar aqui para mostrar para vocês também a parte do aplicativo, para ficar fácil. Deixa eu conectar aqui rapidinho.[PESSOA] - \n[LOCUTOR 1]: Esse conectado que você está fazendo aqui, ele é um [EMPRESA]? Não, só para me entender. Do que?\n[LOCUTOR 2]: Do aplicativo?[PESSOA] - \n[LOCUTOR 1]: É, essa conexão que você está fazendo agora.\n[LOCUTOR 2]: Ah, isso aqui é só o Bluetooth, só para poder espelhar a minha tela.[PESSOA] - \n[LOCUTOR 1]: Ah tá, não é acesso ao aplicativo com... Tipo, eu não preciso fazer isso toda vez que eu for acessar o aplicativo no celular, no Android. Curiosidade agora que eu vi que está acessando.\n[LOCUTOR 2]: Não, não. Aqui é mais para... O que eu estou conectando aqui é um aplicativo da [EMPRESA] para espelhar a minha tela.[PESSOA] - \n[LOCUTOR 1]: Até que eu pensei que tava dentro do box da solução lá.\n[LOCUTOR 2]: É, aqui eu tô na solução, aqui atrás é a solução.[PESSOA] - \n[LOCUTOR 1]: É que tem um QR ali, né?\n[LOCUTOR 2]: Ah, esse [LOCAL] aqui sim, eu já vou te explicar. Isso aqui é pra você baixar o checklist, né? A versão do aplicativo, tá?[PESSOA] - \n[LOCUTOR 1]: Ah, tá.\n[LOCUTOR 2]: É que eu tô só conectando aqui na...[PESSOA] - \n[LOCUTOR 1]: Eu pensei que era um [EMPRESA] ou um emparelhamento, então. Ah, não.\n[LOCUTOR 2]: Aqui é mais só pra gente poder espelhar a tela pra você aqui. Mas esse [LOCAL] é para você fazer o download do aplicativo, tá?[PESSOA] - \n[LOCUTOR 1]: Tá direcionando na loja.\n[LOCUTOR 3]: [PESSOA] - \n[LOCUTOR 1]: Sim, ele joga para o aplicativo da loja.\n[LOCUTOR 2]: Isso, exatamente. Joga para o aplicativo da loja, é isso aí. Deixa eu deixar aberto aqui o checklist para ele já conectar. Já tá conectado.\n[LOCUTOR 3]: Estou.\n[LOCUTOR 2]: Aqui no meu celular, tá vendo? Esse aqui é o meu celular mesmo, tá aqui na prática, tá vendo? Então vou vir aqui, tô mexendo nele, cadê o meu checklist? [LOCAL], todo checklist. Então isso aqui é a tela de entrada. Então quando você apontar o seu celular aqui para o [LOCAL], ele vai te direcionar para fazer o download do checklist. E aí você vai ter uma tela de acesso depois que você baixar igual essa que eu tenho aqui, tá? Eu dou uma entrada aqui, eu só já vou deixar conectado porque quando eu começar a explicar fica mais fácil da gente poder transacionar, tá? Vou escrever a senha.\n[LOCUTOR 3]: Um.\n[LOCUTOR 2]: Minuto só, vou ter que enredar com essa senha mesmo. Deixa eu ver aqui. Tem hora que ele salva, tem hora que ele não salva. É bom que você já viu o processo aqui, que é bem simples.\n[LOCUTOR 3]: A.\n[LOCUTOR 2]: Internet está um pouquinho lenta. Eu ia receber no celular, mas não recebi aqui.\n[LOCUTOR 3]: O que é que você está fazendo? O que é que você está fazendo? O que eu quero dizer é que o [LOCAL] é um país muito grande, muito poderoso, muito rico. Eu quero dizer que o [LOCAL] é um país muito grande, poderoso, muito rico.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 3]: Assim.\n[LOCUTOR 2]: Facilita aí, na hora de explicar pra você, fica mais fácil, tá, [PESSOA]? Esse aí sim vai de boa, hein? [LOCAL], já conectado aqui já no aplicativo, tá vendo? Essa é a tela inicial do aplicativo, a gente já vai voltar nele, tá bom? É mais pra gente deixar conectado e quando não precisar voltar, parar, enfim. E fica até mais fácil aqui te explicar. Então eu vou começar aqui agora, explicar um pouco pra você sobre o sistema até [PESSOA]. Então, basicamente, essa aqui é a tela do checklist que a gente tem. Aqui no canto inferior esquerdo, eu puxo aqui, ele vai me trazer o menu do checklist, tá vendo? Então, todas essas opções aqui que eu tenho no canto esquerdo são pontões que a gente usa ali no dia a dia da operacionalização do checklist. Vou falar pela primeira da parte da configuração, porque é bem simples. O checklist é um aplicativo que ele tem essa dinâmica operacional mesmo. Então, você vai ver que não tem ali grandes, as parametrizações que precisam ser realizadas. As parametrizações que a gente precisa fazer são parametrizações diretas ali, que são voltadas mesmo para a criação do roteiro e algumas definições ali da parte de operacionalização dos envios desse checklist. Então, o primeiro cadastro síntese que eu preciso fazer é o cadastro do objeto. Então, eu venho aqui e cadastro o que vai ser inspecionado. Então, seja um carro, seja um caminhão, seja um produto. Aqui na minha base de teste, vou até mudar aqui, consigo fazer essa transação entre bases aqui, então vou colocar até na minha base aqui. Eu tenho mais opções, mas só para você entender, no cadastro de objeto, é basicamente o que eu vou estar inspecionando, então aqui eu tenho 15 ativos, carga, placa, então a gente pode ter aqui vários tipos de produtos que podem ser inspecionados, bem simples o cadastro, descrição e o número, alguma coisa que você entenda que seja fácil de você identificar o que é esse objeto, beleza? O próximo passo é você definir a localidade, o local onde você vai poder estar executando aquele checklist. É na portaria de entrada? É na linha de produção? É na sala de qualidade? Enfim, a gente tem várias opções de locais onde a gente vai poder executar o checklist. [LOCAL]? Está claro? Local físico. E aí, eu tenho a parte do roteiro. Aqui, basicamente, é o ponto mais interessante, porque é basicamente aqui onde está toda a parte do cérebro, do checklist. Então, eu vou até criar um roteiro contigo aqui para você ver como é fácil da gente poder executar isso na prática. Então, basicamente, eu tenho aqui as informações iniciais do roteiro. Então, o que você inspeciona hoje aí, [PESSOA] - \n[LOCUTOR 1]: O pessoal está com uma demanda aqui de, por exemplo, empilhadeira. Inspeção da empilhadeira.\n[LOCUTOR 2]: [LOCAL], vou colocar aqui na inspeção da empilhadeira, beleza?[PESSOA] - \n[LOCUTOR 1]: Entre outros, um dos casos.\n[LOCUTOR 2]: [PESSOA], você pode criar vários roteiros aqui, tá? Você pode aproveitar um roteiro que você criou, mudar só o nome, mudar uma pergunta ou outra, então o sistema tem várias dinâmicas aqui de você conseguir utilizar, tá? Então, coloquei aqui em inspeção de empilhadeira, eu consigo restringir por localidade, não vou restringir, vou deixar aberto, Eu vou colocar que o roteiro, ele é um roteiro, eu posso colocar na verdade que o roteiro ele é não sequencial, mas eu vou deixar que ele é sequencial, ou seja, ele tem que responder a primeira para passar para a segunda e para a terceira, então as perguntas elas são obrigatórias ali dele dar uma resposta para a gente, tá? Vou criar um passo agora. Então, depois que eu preencher as informações iniciais, vou começar a criar alguns passos. O que são os passos? Os passos são conjuntos de perguntas. Eu posso ter dentro de um checklist vários passos ou apenas um passo só. Aí vai conforme realmente a tua necessidade. Então eu tenho, por exemplo, a necessidade de ter um passo onde eu vou colocar só as informações gerais, mas eu tenho a necessidade de ter um passo ali onde eu vou colocar as informações diferente aos pneus, ao combustível, informação mecânica, informação da filaria da empilhadeira, então você pode dividir ou fazer um roteiro só, tá? Vou fazer um roteiro só, como é só... É um teste mesmo, né? Não vou colocar ali um responsável, consigo inclusive atribuir também uma localidade e atrelar essa localidade responsáveis também, mas não vou colocar, vou fazer um bem básico e vou dar um criar. Então ele criou o meu passo 1 aqui, tá vendo [PESSOA]? E aí, o que eu vou fazer agora? Eu vou inserir as perguntas dentro do meu passo 1. Então, aqui eu posso criar todos esses tipos de perguntas, tá vendo? [EMPRESA] e negativo, seleção múltipla. [EMPRESA] e negativo vai ser uma mãozinha, positivo e negativo. [EMPRESA] múltipla, vou dar várias opções, ele vai ali, ticar um ou mais opções que estiver disponível ali para eu poder criar essa pergunta. [EMPRESA] simples, ele vai escolher uma das opções que tem disponível, data, data, mídia, Mídia, fotos. Numéricos, só número. Texto. Informação textual mesmo. Código de barra e assinatura. Então, basicamente, essas são as opções que nós temos hoje aqui para a criação de perguntas. Vou criar aqui uma positiva e negativa. uma empilhadeira carregada, beleza? Consigo colocar uma frase de apoio, né? Então, verificar a bateria no painel, beleza? Posso colocar para permitir observação, posso colocar aqui permitir evidências, então posso colocar obrigatoriamente ele tem que tirar uma foto para mim, no máximo 30, ou deixo sem, e aí ele coloca até 30 fotos se ele quiser, beleza?[PESSOA] - \n[LOCUTOR 1]: A imagem então não é uma pergunta, ela é uma evidência de uma pergunta.\n[LOCUTOR 2]: [PESSOA]. Mas ela pode ser uma pergunta também.[PESSOA] - \n[LOCUTOR 1]: Pode.\n[LOCUTOR 2]: Eu estou criando uma pergunta do tipo positivo e negativo e ainda estou dando a opção de ele colocar uma evidência, tá?[PESSOA] - \n[LOCUTOR 1]: Entendeu?\n[LOCUTOR 2]: E aí eu consigo inclusive também, tá? Colocar aqui uma imagem de apoio, tá? Então vem aqui e coloca uma imagem de apoio lá do painel da empilhadeira com a bateria carregada para poder auxiliar ele ali no preenchimento da pergunta, beleza?[PESSOA] - \n[LOCUTOR 1]: É uma imagem, não um vídeo, uma imagem, né?\n[LOCUTOR 2]: Uma imagem, exato. Foto. [LOCAL]? E aí eu consigo também, tá, dentro dessas perguntas aqui, gerar toda a parte de não conformidade, então se a pergunta for negativo, eu consigo classificar isso aqui como uma não conformidade baixa, média, alta, né, então ele tem essa característica, tá, e aí a partir daqui, quando eu, quando eu, quando tiver uma não conformidade, ele vai cair para mim poder fazer o tratamento dessa não conformidade, beleza? Consigo colocar se essa pergunta é obrigatória ou não. Dá para definir aqui. E aí depois fechei. Posso incluir uma nova pergunta. Vou colocar aqui uma seleção simples. Como.\n[LOCUTOR 3]: Estão.\n[LOCUTOR 2]: Os pneus? Posso permitir observação? Aí eu inseri a opção. Eu posso colocar aqui, ok. [LOCAL]? E aqui eu não vou preencher nada, eu vou colocar aqui, não gera não conformidade. E aí eu vou inserir a próxima pergunta. Salvo, insiro outra opção. Você precisa desbloquear seu iPhone antes. Não, ok. [LOCAL]? Eu posso definir aqui uma não conformidade. Coloco que é obrigatório, se quiser colocar em mais de apoio coloca, e aí as opções seguem as mesmas. Vou colocar aqui uma assinatura. Assinatura, só assinatura. [LOCAL]? Então, criei um roteiro com algumas perguntas, claro, a gente tem várias e várias opções, e aí você vai criando todos os itens conforme você tem as suas necessidades. Vou dar um avançar. Está reclamando aqui de alguma coisa. Acho que foi aqui, eu não salvei isso. Vou dar um avançar aqui. E aí, depois que eu defini ali o meu conjunto de perguntas e respostas, [PESSOA], eu tenho aqui a opção de fazer aqui algumas parametrizações para informes em relação aos status desse checklist. Então, eu tenho aqui um envio de um e-mail ao planejador, tudo opcional, tá? eles conseguem receber um aviso de quando um checklist for finalizado para o executor ele consegue receber um e-mail quando tem um checklist disponível para ele poder executar e eu consigo também enviar um e-mail para o avaliador no caso quando chegar uma não conformidade ele recebe um e-mail falando tem uma não conformidade para você fazer um tratamento Eu consigo ter essas três personas aí dentro do processo Um planejador, um executor e um avaliador da parte da não conformidade, tá? [LOCAL]? E aí depois que eu faço isso aqui eu salvo o roteiro, tá? Ele vai ficar basicamente dessa forma aqui, ele dá uma visão, tá vendo? Antes de eu salvar Então ficou assim, pergunta de joinha, né? [EMPRESA], negativo uma pergunta de seleção simples, ok, não ok, e uma assinatura, tá vendo que tá com o dedinho aqui, então no celular ele vai lá e permite eu assinar, beleza? E depois você só publica, clica aqui em publicar e ele vai criar o seu checklist, beleza? Alguma dúvida até aqui? Tudo certo?[PESSOA] - \n[LOCUTOR 1]: [LOCAL], não sei se vai comentar depois, mas eu posso restringir esse checklist a um grupo de pessoas, por exemplo?\n[LOCUTOR 2]: Pode, pode, exatamente. Como eu falei para você, aqui dentro da parte da localidade, tá vendo? Eu consigo restringir a usuários.[PESSOA] - \n[LOCUTOR 1]: Ah, entendi. Então é a localidade que é a restrição de... Posso criar almoço sanitado, expedição, fábrica e criar...\n[LOCUTOR 2]: Isso, exatamente. [LOCAL]. E aí você vai colocando os usuários.[PESSOA] - \n[LOCUTOR 1]: Quando tu começou a falar do cadastro, eu pensei que o cadastro era as perguntas, tá? Só que eu vi que as perguntas elas são dentro do...\n[LOCUTOR 3]: [LOCAL].[PESSOA] - \n[LOCUTOR 1]: Do roteiro. O que que são os cadastros, então?\n[LOCUTOR 2]: Cadastro do que que você fala?[PESSOA] - \n[LOCUTOR 1]: Quando tu começou, a primeira informação que tu mostrou foi cadastro.\n[LOCUTOR 2]: Objeto.[PESSOA] - \n[LOCUTOR 1]: Objeto, isso. Desculpa.\n[LOCUTOR 2]: O objeto é o que você vai inspecionar, né? Então, a empilhadeira seria um objeto aqui.[PESSOA] - \n[LOCUTOR 1]: Eu não vi que tu não usou em momento algum até agora, né?\n[LOCUTOR 2]: [PESSOA] - \n[LOCUTOR 1]: Tu não usou objeto em momento algum, né?\n[LOCUTOR 2]: Não, porque eu ainda não criei um checklist.[PESSOA] - \n[LOCUTOR 1]: Ah, para você com o roteiro já era o checklist. Desculpa, estou antecipando aqui. Não, segue de boa.\n[LOCUTOR 2]: Aqui eu só criei o roteiro. Então isso aqui são as parametrizações necessárias para eu poder operacionalizar o checklist. Depois que eu estou com o roteiro criado, aí eu vou começar agora a parte operacional. Então eu venho aqui para a tela do gerenciador de atividades, está vendo? E aí eu vou criar um novo checklist. [LOCAL]? Quando eu dou aqui o novo checklist, ele vai pedir para a minha localidade, o objeto que eu vou estar inspecionando, vou colocar aqui o ar-condicionado, o seu seria uma empilhadeira, e aí eu vou selecionar um roteiro. Eu tenho vários roteiros aqui, tá vendo? Vou selecionar um roteiro aqui. Eu consigo, inclusive, colocar esse roteiro para um executor específico. ou eu posso deixar também sem executor e ele vai cair lá para a minha localidade, para os executores da minha localidade, e aí algum deles lá vai pegar esse checklist, perfeito? Consigo colocar uma data planejada, então coloquei no dia 18, quero que acabe no dia 20, no máximo. Consigo colocar observação, basicamente são essas as informações que eu preciso preencher, tá? E aí eu dou aqui, por exemplo, um adicionar.[PESSOA] - \n[LOCUTOR 1]: Eu tenho uma expressão de empilhadeira, é diária, né? Então vou ter o mesmo checklist, o mesmo formulário, tudo, né? Não vou trabalhar com limite de datas, ele vai armazenar esses resultados aí, né?\n[LOCUTOR 2]: [PESSOA]. Ele vai armazenando aqui na parte do histórico, tá? Então, basicamente, depois que você fez isso aqui, você vai finalizar e ele já vai disparar o checklist para o executor, beleza? Consigo também criar recorrência para poder enviar esse checklist. Então vem aqui, define localidade, objeto, roteiro. e aí crio, por exemplo, aqui uma frequência diária, semanal, quinzenal, mensal termina nunca, termina depois de [PESSOA] vezes, termina em, entendeu? Basicamente, o que a gente fez ali, manual, eu consigo criar um planejamento ali de recorrência para poder enviar esse e-mail.[PESSOA] - \n[LOCUTOR 1]: Essa recorrência é o envio do e-mail ou não? Porque, como eu te falei, uma impressão diária, tipo, o cara todo dia às sete da manhã vai fazer, né? Não precisa fazer essa recorrência, né?\n[LOCUTOR 2]: É preciso, se você quiser que ele receba todo dia, você vai criar aqui uma recorrência diária, tá vendo?[PESSOA] - \n[LOCUTOR 1]: Sim, mas eu digo, eu não preciso notificar, eu não quero notificar o cara primeiro, ele tem que, todo dia ele tem que fazer o checklist diário, por exemplo. É preciso criar uma recorrência igual?\n[LOCUTOR 2]: Você precisa criar uma recorrência para ele poder receber, senão ele não vai receber, senão você vai ter que vir aqui todo dia e fazer, e disparar para ele, entendeu?[PESSOA] - \n[LOCUTOR 1]: Então, na verdade, cada checklist ele gera uma nova tarefa, então. Então a recorrência ele cria uma tarefa, então não é um formulário estático que todo dia eu vou lá e preencho ele.\n[LOCUTOR 2]: Não, não, cada disparo que eu fiz ali no novo checklist ele tem um número único, tá vendo? Então a gente vai gerando aqui um número, até mesmo pra você ter uma consistência, porque cada checklist aqui é referente a um dia, né? Hoje deu ok, [LOCAL] pode ser que não.[PESSOA] - \n[LOCUTOR 1]: [EMPRESA], pensei que hoje... Fora que, antes de entender aqui na prática, a visão que eu tinha dele era o seguinte, beleza, eu criei o checklist, vou lá no aplicativo, no checklist lá em pilhadeira, vou entrar nele, vai ter as perguntas, vou responder. Então, toda a resposta que eu fizesse, uma de novo. Então, o dia, data, hora, enfim. Então, sempre precisa recriar a frequência. Hoje, dia 18, fui lá, fiz a resposta, gravou a resposta. Amanhã de 19, abri o mesmo checklist, sem frequência. Preenchi, gravou de 19, entendeu?\n[LOCUTOR 2]: É isso aí, dessa forma que ele vai funcionar.[PESSOA] - \n[LOCUTOR 1]: É um pouquinho diferente, entendi. Ele cria recorrência, ele cria o agendamento das tarefas. Mas beleza, é uma forma de trabalhar, entendi.\n[LOCUTOR 2]: [PESSOA]. E tem outras dinâmicas também, né? Aí você pode atrilar isso ao disparo de alguma outra atividade, a gente trabalha com API, enfim. A gente tem várias formas de iniciar o checklist. Eu estou te mostrando as formas que a gente tem aqui dentro de tela, né? Então, a gente está falando aqui do que tem em função.[PESSOA] - \n[LOCUTOR 1]: Show, show.\n[LOCUTOR 2]: [LOCAL]? E aí, depois que a gente dispara o checklist lá para o executor, aí a gente começa aqui a parte do aplicativo. Então, eu vou te dar um exemplo aqui, vou pegar um checklist aqui para você ver como é bem simples. Então, isso aqui é a nossa tela do checklist, eu tenho uma tela onde eu vou ter aqui o início, onde eu consigo, inclusive, criar checklists aqui também, dependendo do meu nível de permissão. Mas, basicamente, o que eu vou te mostrar aqui é como a gente realiza. Geralmente, pelo aplicativo, a gente disponibiliza apenas a função para o executor preencher as informações. Consigo fazer avaliação por aqui também, tem toda a parte de mensagem, onde eu consigo trocar mensagens do aplicativo para o desktop. Então, tem aqui toda a parte de mensagem, tá vendo? eu vou abrindo um checklist aqui, eu posso ir conversando, enfim, eu tenho aqui várias funções, que tem um chat colaborativo e tudo isso aí fica salvo aí no histórico ali do que foi feito dentro do checklist, beleza? Aí na parte do aplicativo, vou voltar aqui para a tela inicial e vou dar um realizar. Quando eu dou um realizar, ele me abre aqui uma lista de checklists aqui que tem pendente para eu poder executar, tá vendo? Isso aqui está pendente aqui para eu poder executar. Vou pegar um desses aqui qualquer, né? [PESSOA] aqui, ele me traz aqui todas as informações do checklist, então ele me traz o número do checklist, o motorista, transportadora, documento, foi criado em, né? E aí ele me traz o nome do checklist. Vou dar um iniciar aqui, vamos ver se ele vai deixar. [LOCAL], deixou. É uma pergunta de data, então vou selecionar uma data, então confirmar. [LOCAL] para a próxima. [EMPRESA] múltipla ou seleção simples. Então, seleciono um dos períodos, dou um próximo. Ele pede aqui a minha assinatura. Vou colocar aqui uma assinatura. [PESSOA] um confirmar. Passei para a próxima. Ele já trouxe aqui a data e hora do início do checklist, mais a data da finalização, certo? E, inclusive, traz aqui a localização também. Se eu for pegar aqui a localização, está aqui na atual despesa, estou hoje aqui na atual despresencial, tá vendo? Então ele é bem preciso nessa parte da localização, tá vendo? E aí eu só finalizo. Quando eu finalizo aqui o checklist, ele transaciona as informações novamente aqui para o desktop, e aí os status aqui que eu tenho, né, que estava pendente de execução, ele vai passar a ter um status ali, né, de finalizado. E aí onde eu consulto essas informações aqui no histórico, tá vendo? Então, no histórico, eu consigo ver aqui os dados dos checklists que estão pendentes, dos que estão com a execução finalizada. E aí, falando aqui de um que está com a execução finalizada, deixa eu até diminuir aqui para ficar melhor, eu consigo visualizar já as respostas que foram aplicadas dentro desse checklist. Então, veja aqui, isso aqui é as informações do checklist, e aqui foram as perguntas e o que foi respondido, está vendo? Então, eu já consigo visualizar em tela, consigo, inclusive, imprimir isso aqui, Tá vendo?\n[LOCUTOR 3]: [EMPRESA].\n[LOCUTOR 2]: E aí aqui na tela, nas telas aqui que ainda tenho de uso, tem uma tela específica, né, para parte do histórico da não conformidade, então quando algumas das perguntas foram respondidas de forma negativa, né, e aí eu tenho toda a parte não conformidade, o histórico das não conformidades ele fica nessa tela, eu consigo visualizar, né, aqui as não conformidades, inclusive visualizar o que já foi resolvido, o que está pendente e quais foram as tratativas, eu consigo criar um plano, tá vendo, um novo plano de ação, um plano de ação para tratamento dessa não conformidade, então aqui eu defino data-limite, se vai ter uma aprovação automática ou não, e aí eu vou criando aqui tarefas, né, para poder estruturar essa parte da não conformidade, né? Então, onde será feito, quem será feito, data de início, data de fim, quanto vai custar, se tem algum anexo, né? E aí depois eu vou dando um ok ou não ali pra como foi o tratamento daquela não conformidade, tá?[PESSOA] - \n[LOCUTOR 1]: Aproveitando, então, o caso do nosso empilhadeiro aí, né? Posso ter duas perguntas, por exemplo, né? combustível lá, né? Então, pensar assim, a pergunta é combustível, né? O cara vai ver assim, ah, não, combustível está embaixo, então eu vou botar como não conformidade. Então, a resposta, a não conformidade de combustível, ela vai acionar um setor, tá? Ou uma pessoa. Agora, outra resposta dos pneus lá, pneu está com avaria, né? Então, eu vou acionar uma outra equipe, eu consigo ter, do mesmo checklist, duas não conformidades para setores diferentes.\n[LOCUTOR 2]: Diferentes áreas, sim, você consegue. Porque você cria ali, não sei se você se recorda aqui na pergunta, quando a gente definiu aqui o roteiro. Deixa eu pegar até onde é a pronta aqui. Quando a gente define um roteiro...[PESSOA] - \n[LOCUTOR 1]: A gente diz lá, você vai ter o não, não conformidade, né?\n[LOCUTOR 2]: [PESSOA], e aqui também.[PESSOA] - \n[LOCUTOR 1]: Mas eu não lembro se a gente define quem que é o responsável.\n[LOCUTOR 2]: A gente define sim a área aqui no caso, tá vendo aqui, a localidade.[PESSOA] - \n[LOCUTOR 1]: Aqui é uma escrita de localidade sempre, tá?\n[LOCUTOR 2]: [PESSOA], exato. Tá vendo?[PESSOA] - \n[LOCUTOR 1]: [EMPRESA]. Não, tá claro, entendido, hein?\n[LOCUTOR 2]: [LOCAL]! E aí, eu geralmente fecho aqui, tá? Aqui tem também a tela de avaliação, né? Que é uma tela de continuidade da parte da não conformidade, tá? Aí eu consigo ver aqui, assumir, né? Pra tratar aqui da parte de não conformidade, complementa aquela parte ali do plano, tá? E aí, basicamente, eu sempre fecho aqui mostrando pros nossos clientes os insights, tá? E aí aqui no checklist, o que que é bacana, tá? [LOCAL], eu tenho a parte de inteligência artificial já aplicada, né? Essa bolinha que tá girando aqui é uma inteligência artificial generativa, né? Então ela consegue fazer aqui algumas consultas, né? Especificamente pra essa parte de insights, né? Então... Vamos, checa a via... Vai.\n[LOCUTOR 3]: Dar uma olhada.\n[LOCUTOR 2]: Vou pegar aqui...\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 2]: Tem um aplicativo também para isso, [PESSOA].[PESSOA] - \n[LOCUTOR 1]: Atualmente.\n[LOCUTOR 2]: Há um total de 483 checklists pendentes. Aí você fala para o negócio todo. Vou fazer um comparativo em gráficos e barras.[PESSOA] - \n[LOCUTOR 1]: Essa aí, ela é embutida ou ela é paga à parte?\n[LOCUTOR 2]: Está dentro dos insights.[PESSOA] - \n[LOCUTOR 1]: Quando eu digo, contratei o checklist, ela vem.\n[LOCUTOR 2]: [PESSOA], você vai contratar o checklist, contratar os insights, que são esses gráficos aqui que eu estou te mostrando.[PESSOA] - \n[LOCUTOR 1]: Ah, os insights são comercializados à parte.\n[LOCUTOR 2]: Está junto ali no pacote, a gente sempre oferece tudo junto, tá? Mesmo que não faça sentido você só pegar isso aí, você precisa ter visão também da sua operação, tá? Mas se você não quiser, não ter os insights, você pode tirar, tá? Então ele cria, tá vendo? E aí é o gráfico responsível, tá vendo? É bem bacana. Você pode pegar isso aqui, cara, e virar de cabeça para baixo, porque ele vai ter aqui toda a parte relacionada a respostas aqui do que diz respeito à parte dos dados que você tem da sua operação, tá? Então isso aqui é um gráfico gerencial do meu checklist, eu tenho aqui total de checklist finalizados, cancelados, pendentes, quantidade de checklist por executor, por roteiro, por objeto, por localidade, eu consigo ver aqui por data de criação, por data de execução, finalizados os pendentes, pendentes de execução. Então eu tenho aqui uma visão ampla da minha operação de checklist. E aí eu tenho várias outras visões, está vendo? Ele me traz aqui um tático, um pendente. E aí eu vou paginando aqui, claro. Você também tem a possibilidade de criar suas próprias visões, [PESSOA]. Os insights te dão essa opção. Tem um cara aqui de BI.[PESSOA] - \n[LOCUTOR 1]: [LOCAL], cara.\n[LOCUTOR 2]: Manda ele entrar aqui que ele vai conseguir criar as visões dele. Isso aqui são visões mais padrões que nós temos aqui, que foram criadas ao longo do tempo para poder ajudar os nossos clientes. Mas você consegue aqui ter a possibilidade de criar o que você quiser dentro do checklist. [LOCAL]?[PESSOA] - \n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 2]: Estou à disposição para tirar suas dúvidas. Não sei se ficou claro. Se é isso mesmo que você esperava.[PESSOA] - \n[LOCUTOR 1]: Não, realmente, a ferramenta é o que a gente procura. Aí, então, agora, entendi o funcionamento dela, né? As dúvidas, então, eu fui te atrapalhando no decorrer da tua apresentação, então já tirei também, né, a questão de responsáveis, felicidade, armazenamento, esse tipo de coisa, então... Então, é em nuvem, né? Cloud sem limite de armazenamento, porque a gente vai ter muito checklist com imagem, né? E agora eu entro um pouco em algumas dúvidas técnicas comerciais, tá? Então, eu tinha uma proposta Aí o [PESSOA] vai me ajudar. Que eu tinha um pacotinho tipo de 300 checklists mesmo. Quando a gente fala em 300, [PESSOA], a gente fala em 300 perguntas lá, né?\n[LOCUTOR 3]: Isso.\n[LOCUTOR 2]: 300 roteiros, na verdade. 300 roteiros utilizados, né?[PESSOA] - \n[LOCUTOR 1]: Então, aí que tá... Preciso sanar bem isso aí. Então, quando a gente fala em 300, você tá ok? 300 roteiros inspecionados, 300 respostas.\n[LOCUTOR 2]: Preenchidos, preenchidos.[PESSOA] - \n[LOCUTOR 1]: Então, eu não tenho limite de perguntas, vamos pensar assim.\n[LOCUTOR 3]: Não.\n[LOCUTOR 2]: Você criou um roteiro, certo? E aí você mandou para um executor, o executor preencheu essas perguntas e finalizou o processo todo, aí contabiliza. Você usou um checklist, beleza?[PESSOA] - \n[LOCUTOR 1]: Tá, então vamos lá. É que eu tinha uma informação que não tinha um limite de perguntas, então eu não tenho limite de perguntas.\n[LOCUTOR 2]: No roteiro para você criar?[PESSOA] - \n[LOCUTOR 1]: Isso, eu posso ter, então... Você pode criar várias perguntas lá. Então posso ter um roteiro com 100 perguntas, vamos pensar assim.\n[LOCUTOR 2]: Eu acredito que sim, eu preciso olhar lá tecnicamente, mas... Não pode.\n[LOCUTOR 3]: As perguntas tu vai perguntar, por exemplo, sei lá, da empilhadeira, pneu, banco, cor...\n[LOCUTOR 2]: Não tem limite, não tem limite.[PESSOA] - \n[LOCUTOR 1]: Tem um limite técnico lá, deve ter.\n[LOCUTOR 2]: Essa maquia com as perguntas. Mas não é por isso que é cobrado, tá?[PESSOA] - \n[LOCUTOR 1]: Então posso também ter N roteiros, N checklists.\n[LOCUTOR 2]: N roteiros, N usuários.[PESSOA] - \n[LOCUTOR 1]: Então eu tenho 300 respostas diferentes. Posso ter lá 15 checklists diferentes e esse pacotinho me dá direito a responder 300 respostas. Vamos pensar assim, é isso. Isso é puro checklist respondido. Essa é a comercialização dele.\n[LOCUTOR 2]: [LOCAL].[PESSOA] - \n[LOCUTOR 1]: Isso. Aqui tinha uma informação diferente. Então, beleza. Eu tenho um valor aqui de 400 e poucos pilas por mês para 300 respostas de quantos roteiros eu quiser e quantas perguntas eu quiser.\n[LOCUTOR 2]: A gente pode prestigiar esse valor aí, foi o [PESSOA]?\n[LOCUTOR 3]: Isso, eu passei uma simulação.[PESSOA] - \n[LOCUTOR 1]: Só para ter uma ideia de valor, a gente pediu lá na [LOCAL]. E quando a gente fala em site, não estaria aqui no meio? Provavelmente sim e não.\n[LOCUTOR 2]: Eu não sei o que deu. Pode passar.[PESSOA] - \n[LOCUTOR 1]: Aqui é bem cabelado.\n[LOCUTOR 3]: Tem que validar essa questão do Insight, até que eu realmente não sabia. Mas se a gente valida aqui, eu valido com o [PESSOA] aqui na sequência e daí eu já te confiro.[PESSOA] - \n[LOCUTOR 1]: Tá, então só para me repassar a informação inteira. Eu não tenho limite de usuários, de perguntas e de checklists. O que eu tenho limite são de respostas armazenadas, vamos pensar assim, né?\n[LOCUTOR 2]: É check list respondidos, que é o que vai consumir, o que consome seus pacotes.[PESSOA] - \n[LOCUTOR 1]: Tem um check list de 10 perguntas, respondidas 10, é uma resposta, né? É um check list respondido, tem até 300. Simulação de até 300 respostas e check list. [LOCAL], então sem limite de aplicativos, o aplicativo não é cobrado à parte também, ele é grátis, né?\n[LOCUTOR 2]: Isso, exato. Tá dentro do pacote, né?\n[LOCUTOR 3]: Dentro do pacote o aplicativo.[PESSOA] - \n[LOCUTOR 1]: Tá armazenado em nuvem, localidade... [LOCAL], então agora realmente seria mais comercial, [PESSOA] e [LOCAL] juntos, mas enfim, precisaria então levar uma proposta mais concreta agora para o eleno, né?\n[LOCUTOR 3]: Mas daí a gente manteria essas 300?[PESSOA] - \n[LOCUTOR 1]: Quais são os níveis de pacote? Só para eu entender.\n[LOCUTOR 2]: São 300, 700, 1.000? Quanto mais se você comprar, mais barato fica, tá?[PESSOA] - \n[LOCUTOR 1]: Porque a gente colocou uma estimativa de 1 por dia, né? Pensando na empilhadeira ali, 30 vezes o déficit acrílico. Vamos fazer 300 e 700 ali para fazer essa simulação para mim com os insights, né?\n[LOCUTOR 3]: [LOCAL].[PESSOA] - \n[LOCUTOR 1]: E também aproveitando, né, ter uma adesão lá, ver se seria dentro dessa adesão, né? Eu teria que levar uma proposta já, tipo, meio que final assim, né? Olha, o pessoal chega nesse nível de custo, enfim, né?\n[LOCUTOR 3]: Deixa eu só te passar também. Tanta parte de adesão, como configuração, ativação de tudo aí, vocês entrando naquele programa do [EMPRESA] já vai estar incluso, tá? Sim.[PESSOA] - \n[LOCUTOR 1]: Mas eu ressalto isso, mas eu vou...\n[LOCUTOR 3]: Eu vou separar, eu vou separar para ter mais uma informação adicional aí.[PESSOA] - \n[LOCUTOR 1]: Até porque, conforme a gente viu ali no manual, ele é... Ele é rápido de se implementar, né? Tipo, ele é bem intuitivo, né, que eu quero dizer, né? Ele...\n[LOCUTOR 2]: É, uma semana, geralmente, é o tempo de implementação, tá?[PESSOA] - \n[LOCUTOR 1]: Mas veio, então, essa questão, então, teria que ter um valor... Tem valor de.\n[LOCUTOR 2]: Serviço de implementação, tá? A proposta contempla implantação, licenciamento e adesão.[PESSOA] - \n[LOCUTOR 1]: Então, precisaria desses valores compilados, né? O melhor valor possível, né? para a gente já levar a proposta final, sem bate e volta. Tipo, realmente, o melhor valor que eu chegaria é esse ponto. Eu nem vou te retrucar dizendo, ah, me concede um desconto. Eu já vou levar como se fosse proposta final, né?\n[LOCUTOR 2]: [LOCAL].[PESSOA] - \n[LOCUTOR 1]: E fique intuitivo, rápido, o que a gente precisa ali. E realmente, né? O cloud melhora ainda, fique offline, se o cara não tem sinal lá, vai se questionar no meio do mato, volta depois e descarrega. Então, o próximo é o que a gente precisa.\n[LOCUTOR 3]: [LOCAL], agora eu vou fazer uma pergunta, porque de fato eu nunca comercializei ainda esse checklist. Enfim, até pelo meu tempo de totos aqui, que não é muito grande. Além da implementação, tem alguma outra taxa de integração com o DataSue ou alguma outra questão assim?\n[LOCUTOR 2]: Não, a gente não falou de integração, né? A gente só precisa entender se vai ter alguma integração, porque eu tô considerando que eles vão usar o checklist ali à parte, né? Mas hoje a gente tem clientes que utilizam integrado, aí só precisa realmente entender se vai ter a necessidade dessas integrações, aí a gente tem que considerar isso no projeto também, tá?[PESSOA] - \n[LOCUTOR 1]: Mas eu vejo que aí a gente trabalharia com pontuais, APIs, né? Como tu comentou, no decorrer a gente trabalha...\n[LOCUTOR 2]: [PESSOA], API, envio e consumo, exato. Aí eu preciso de uma informação que tem no checklist, você vai lá e busca, consome API lá e ele vai retornar para você os dados.[PESSOA] - \n[LOCUTOR 1]: Isso, vou ter lá, consumo de combustível baixo, eu quero que já que hora de gera e uma hora de compra automática. A gente sabe que é uma integração à parte, um consumo de API, daí é uma customização paralela, mas não consideraria nesse momento.\n[LOCUTOR 2]: Hoje você está considerando padrão, então implementação padrão sem integração com o [LOCAL], né?[PESSOA] - \n[LOCUTOR 1]: Sei que se tiver integração tem custo para cada uma que a gente vier a sondar.\n[LOCUTOR 3]: É, por isso, enfim, eu levantei porque daqui a pouco tu vai fazer alguma correlação com alguma coisa ou para startar já alguma compra ou até mesmo já para alguma questão de depreciação, não sei, alguma coisa que eu pensei.[PESSOA] - \n[LOCUTOR 1]: Eu vivi muito numa integração, seria gerar uma ordem de manutenção, pensar assim, porque eu estou fazendo checklist de inspeção, mas eu vi que a própria ferramenta já tem algumas alternativas, disparo de e-mail, já gera plano de ação, então eu poderia trabalhar puramente nela.\n[LOCUTOR 2]: Pode, mas você também pode, dá para você, por exemplo, chamar uma API lá de criação do checklist também, tá? E aí, por exemplo, como você falou, lá no [LOCAL] tem, por exemplo, um passo que é a manutenção. Aí eu crio uma regra de negócio lá de quando automaticamente se parar essa ação, eu venho aqui e dou uma ordem aqui dentro da API para poder criar um checklist. Aí, no caso, toda essa construção tem que ser do teu lado. A gente vai disponibilizar para vocês a API, tá aqui a API. Basicamente, o que você vai precisar de campo para preencher para poder criar um checklist aqui dentro da ferramenta é isso aqui.[PESSOA] - \n[LOCUTOR 1]: [EMPRESA], mas ela consome, ao contrário, também ela consome?\n[LOCUTOR 2]: Consumir no caso do? só para poder...[PESSOA] - \n[LOCUTOR 1]: Não vai ser o caso, mas agora que a gente falou, só viajando aqui, imagina que eu tenho lá uma não conformidade, né?\n[LOCUTOR 2]: [PESSOA].[PESSOA] - \n[LOCUTOR 1]: Então se a não conformidade for por falta de combustível, já criar uma ordem de compra não das ações, entendeu? Vai ter um consumo ao contrário, né?\n[LOCUTOR 2]: Não sei, preciso confirmar com o pessoal, acho que é mais ela receber mesmo, tá?[PESSOA] - \n[LOCUTOR 1]: Sim, a geração, né? Ou uma resposta, né?\n[LOCUTOR 2]: Acho que é mais fácil. Pelo que eu me recordo do pessoal, das reuniões que eu tive com o produto, Se você quiser fazer essa avaliação, você que vai ter que consultar aqui a API, a gente vai estar disponível. Está aqui, tudo que tem não conformidade.[PESSOA] - \n[LOCUTOR 1]: [EMPRESA].\n[LOCUTOR 2]: Vai lá e olha, e você varre lá o banco, varre a API e vê o que tem que está dentro do critério que você precisa para você poder consumir.[PESSOA] - \n[LOCUTOR 1]: Você entendeu, eu vou fazer o inverso. Ah, beleza, entendi. Nesse momento, realmente, a gente não faria, tem que ter a possibilidade, mas a gente não faria uso agora.\n[LOCUTOR 2]: [LOCAL]. É mais fácil ainda, a gente pega a integração padrão.[PESSOA] - \n[LOCUTOR 1]: Então precisaria realmente dessa visão de valor agora. Vamos usar essa métrica de 300, talvez uns 700, só para a gente ter uma ideia de salto, quanto mais, realmente diminui bastante. Mas no primeiro momento, 300 respostas, ali já dá para a gente sair com bastante coisa implementada.\n[LOCUTOR 3]: [LOCAL]. [LOCAL] então, [PESSOA]. Agora o tema de casa está comigo aqui. Deixa eu só fazer uma revisão aqui e daí eu te mando essa proposta.[PESSOA] - \n[LOCUTOR 1]: Pode encaminhar direto pra mim, pro [PESSOA], como tu tem aquele e-mail lá. Pode disparar pros dois ao mesmo tempo. Depois aí eu já explico pra ele alguns detalhes que eu já anotei aqui, pontuei aqui no meu caderno aqui.\n[LOCUTOR 3]: [LOCAL].[PESSOA] - \n[LOCUTOR 1]: Show, gente. Obrigado pela disponibilidade, mas entendido e realmente a ferramenta é bem legal.\n[LOCUTOR 2]: Show. [PESSOA], cara. Tamo junto, viu? Um abraço. Prazer te conhecer, [PESSOA].[PESSOA] - \n[LOCUTOR 1]: Prazer aí cara, vamos falando tá, valeu gente.\n[LOCUTOR 3]: É, valeu também, bom dia, obrigado.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 3]: [PESSOA], deixa eu te perguntar, isso aí o [EMPRESA] monta essa proposta ali, tem que pedir pro [EMPRESA] fazer alguma simulação pra mim?",
+  "texto_filtrado": "[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 1]: Não, bem tranquilo. Também, da minha parte, teria convidado o [PESSOA], mas ele não vai conseguir participar. Aí, depois, eu repasso as informações.\n[LOCUTOR 2]: São.[PESSOA] -\n[LOCUTOR 3]: [LOCAL].[PESSOA] -\n[LOCUTOR 1]: O [PESSOA] entrou aí então, né?\n[LOCUTOR 3]: Falou.\n[LOCUTOR 3]: [LOCAL]. Então, [LOCAL].\n[LOCUTOR 1]: [LOCAL] dia. Você estava falando ali, [PESSOA], para o [LOCAL] que eu sou eu que participo, tá? Depois eu repasso aí as informações internamente.\n[LOCUTOR 3]: Não, fica tranquilo. Então a gente está em boas mãos aqui, tá, [LOCAL]? Tem longa experiência aqui com o TOTOS, desde a implementação do TOTOS na Queco, tá? Então, tem todo o know-how aí para a gente bater esse papo aí sobre checklist e depois dar andamento aí nos próximos passos. [PESSOA], só para deixar registrada aqui a nossa call que vai ser gravada aqui, tem uma IA agora da [EMPRESA] aqui que faz a gravação, faz o resumo, depois se precisar algum ponto aí para a gente repassar, ela registra tudo e eu compartilho contigo, tá?[PESSOA] -\n[LOCUTOR 1]: Bem tranquilo, vai fazer a ata da reunião aí, transcrever.\n[LOCUTOR 3]: [LOCAL], tem uma ferramenta nova que a gente tá usando, a gente começou, na verdade, a usar semana passada, acho que foi no final da semana passada, que ela grava, daí faz a ata, ela registra já no CRM e te passa alguns insights ainda, tal, tal ponto. Mas vamos ver, cara, tem muita coisa.[PESSOA] -\n[LOCUTOR 1]: Que Vamos aprendendo junto, né? Aprendendo aí as sugestões, né? Mas show, show. Bem tranquilo. Então, né? Assistente à toques permitida.\n[LOCUTOR 3]: Permitida.\n[LOCUTOR 2]: Vou começar aqui, então. Vou compartilhar a tela contigo agora, [PESSOA], para a gente poder começar a nossa apresentação. Só para te [PESSOA] um pouquinho, para a gente ficar alinhado em relação aos passos aqui da apresentação, [PESSOA]. Quando você estiver vendo a minha tela, você me avisa, tá? [LOCAL].[PESSOA] -\n[LOCUTOR 1]: Apareceu aí, tá?\n[LOCUTOR 2]: [LOCAL], show de bola. Então, basicamente, [LOCAL], a nossa apresentação aqui do [EMPRESA] vai ter duas partes. Primeiro, eu vou te apresentar alguns conceitos. A gente vai falar aqui em dois, três, quatro slides aqui sobre os principais benefícios da aplicação. A gente vai passar aqui o fluxo de processo. A ideia é te contextualizar em relação à ferramenta. E aí, no segundo momento, eu vou abrir a ferramenta contigo, na prática, para te mostrar as funções, tá? Então, basicamente, a nossa demonstração funciona dessa forma, uma parte teórica, uma parte prática, pra gente poder fechar ali o entendimento completo da solução, beleza? Qualquer dúvida que você tiver, [PESSOA], você pode estar abrindo o microfone e perguntando, tá? Porque eu tô... geralmente eu trabalho com duas telas, mas como eu tô hoje aqui na [LOCAL] e tá um pouco cheio, eu acabei não conseguindo uma mesa aqui na nossa área, então tô só com uma tela, tá? Mas fica à vontade para perguntar, tirar qualquer dúvida. A ideia é a gente sair daqui, dessa demonstração, com você entendendo como o checklist pode te ajudar em algum processo dentro da tua operação.\n[LOCUTOR 3]: Combinado.\n[LOCUTOR 2]: [LOCAL], então eu vou começar aqui a nossa apresentação. [LOCAL], antes de falar do checklist especificamente, [PESSOA], eu preciso te contextualizar em relação a plataforma que o checklist está inserido hoje aqui dentro da [EMPRESA]. Como você sabe, a [EMPRESA] tem várias linhas de produto, e dentre elas surgiu a suíte logística, que é uma linha de produto que tem por objetivo a gente conseguir atender a logística de ponto a ponto dos nossos clientes. Porém, o checklist nasce num contexto que a gente chama ele aqui hoje, dentro da [EMPRESA], de uma ferramenta cross. Apesar de ele estar dentro da suíte logística, ele não é um sistema que é vocacionado especificamente para logística. O checklist é um produto que serve para fazer o controle de qualidade. de produtos ou processos, independente do segmento, seja logística, seja produção, seja construção civil. Hoje, pela suíte logística ser uma das plataformas percursoras, no que diz respeito a essa nova dinâmica de produtos que a [EMPRESA] tem lançado. Então, produtos web, SaaS nativo, linguagem de microserviço. Então, essa nova arquitetura sistêmica da [EMPRESA], pela suíte logística ter sido um dos primeiros produtos e também ter feature, claro, com as soluções que nós temos aqui dentro do conteúdo de logística, ela foi inserida, mas a gente sempre gosta de salientar que o checklist é uma plataforma cross, tá? [LOCAL]? Falando aqui dos benefícios da solução, [PESSOA], o checklist hoje traz uma nova dinâmica. Hoje, se você trabalha com checklists de forma manual, o sistema vai te dar uma outra dinâmica de trabalho, porque a gente começa a trabalhar tudo via sistema, então a gente vai ter tudo registrado e não tem ali a possibilidade de a gente ter problemas em relação a [EMPRESA], então o checklist basicamente ele vai trazer aí essa nova dinâmica, são dados estruturados porque a gente cria todos os formulários dentro do sistema e a gente consegue definir perguntas, se é obrigatória, se não é obrigatória. Enfim, a gente tem toda uma dinâmica, porque hoje o checklist trabalha com duas pessoas. A gente tem um planejador, que é quem vai criar o checklist, o roteiro, definir. Todas essas parametrizações. E a gente tem o executor, que é quem vai pegar o checklist na prática e vai coletar essas informações. Fora isso, a gente tem toda uma dinâmica também de gestão. Então, a gente consegue visualizar e acompanhar a produtividade em relação às execuções desses checklists. Então, fora toda a parte de validação. Enfim, o sistema traz aí... Quando a gente coloca um sistema para poder apoiar um processo, automaticamente a gente já consegue ganhar controle e visibilidade em relação àquele processo que está sendo apoiado pelo sistema. Então são alguns benefícios básicos que a gente traz dentro da solução. Só que falando mais um pouco, [PESSOA], referente aos pilares da solução, o que a gente tem ali. de principal função dentro do checklist, que são realmente pilares hoje para a solução. Então, basicamente, o roteiro é o nosso primeiro pilar. O roteiro, basicamente, vão ser os conjuntos de perguntas e respostas que você vai definir como planejador. Então, hoje a gente tem uma dinâmica muito bacana para você criar as perguntas, tem várias e várias opções ali. de perguntas para você criar realmente o seu checklist, perguntas que demandam imagem, perguntas que só demandam texto, número, então a gente tem uma junção das duas coisas. é bem completo mesmo, e ele traz ali uma dinâmica bem bacana. Hoje o aplicativo do [LOCAL], que é o aplicativo do executor, nós temos a possibilidade ali dele ser utilizado de forma offline, então não tem a necessidade dele estar conectado na internet para você conseguir coletar as informações do [LOCAL] que você recebeu, e aí quando você passar por um ponto de por um ponto de sinal de internet, ele transaciona essas informações para o desktop e dá visibilidade para o pessoal da retaguarda. Toda a parte de digitalização de evidências, como eu falei para vocês, o roteiro tem N possibilidades de criação de perguntas, dentre elas você criar perguntas onde você solicita fotos como evidências obrigatórias. Eu consigo também, a partir do momento que eu finalizo um checklist, avaliar a parte de latitude e longitude de onde foi finalizado, porque o checklist vai ser finalizado no aplicativo. eu consigo entregar essa parte da geolocalização ali para o sistema, que é bem bacana também, e toda a parte da interface, que é bem didática. Quando vocês começarem a navegar na ferramenta, vocês vão ver. Ela é bem simples, bem fácil de utilizar, até por isso mesmo que a gente tem uma curva de aprendizagem muito rápida dos usuários. Aqui são alguns exemplos práticos de aplicação do checklist. Como eu falei para vocês, o checklist é uma solução cross. Sendo cross, a gente tem a aplicação dela em diversos segmentos. Parte de construção, parte de varejo, a parte de logística, agro. a parte da saúde. Então, são vários segmentos que a gente consegue aplicar o checklist. Então, a gente sempre olha para ela como uma solução que dá para a gente encaixar em diferentes áreas dentro da minha organização. Seja na produção, seja na logística, seja na parte de qualidade. Então, a gente tem várias áreas que podem abarcar o checklist. Aqui é um fluxo básico da execução de um checklist hoje dentro da plataforma. Então, basicamente, a gente começa ali com a parametrização básica de localidade, roteiro e objeto, localidade onde eu estou aplicando esse checklist, roteiro conjunto de perguntas e respostas e objeto que eu estou inspecionando, se é um processo ou um produto. Depois que eu tenho definido aqui o meu roteiro, eu disparo esse roteiro para o aplicativo do executor, o executor recebe esse esse roteiro, e aí ele faz a execução, a coleta das informações, ele começa a preencher o checklist. Depois que ele preenche, ele vai finalizar esse checklist no aplicativo, essas informações vão ser automaticamente transacionadas para o desktop, e aí no desktop eu inicio toda a parte de avaliação dessas respostas que foram enviadas pelo meu executor.[PESSOA] -\n[LOCUTOR 2]: Do checklist só Android por enquanto, tá? A gente tem previsão de liberação de uma segunda versão do aplicativo, né? Agora para dezembro, que ela vai contemplar tanto o Android quanto o iOS, tá?[PESSOA] -\n[LOCUTOR 2]: Por nada. E a gente tem toda a parte também de tratamento de não conformidade, ou seja, o sistema tem hoje uma função de planejamento e tratamento de não conformidade bem robusta, onde eu consigo definir várias e várias ações para tratamento de não conformidade, inclusive com preço. Enfim, é bem robusto mesmo e bem completo essa parte aqui do tratamento da não conformidade. E aí eu finalizo a avaliação, e aí eu consigo já ter visibilidade em relação aos insights, que são as visões gerenciais e operacionais do processo que o checklist controla, tá, pessoal? Então, basicamente, isso aqui é um processo, o fluxo operacional do checklist. Alguma dúvida, [PESSOA], do que eu falei até esse momento?[PESSOA] -\n[LOCUTOR 2]: Tá claro? Sim. [LOCAL]. Então agora a gente vai transacionar ali para a parte do aplicativo, tá, Marcos? Vou abrir aqui a suíte logística aqui na praça para a gente dar uma olhada no checklist.[PESSOA] -\n[LOCUTOR 1]: Aproveitando enquanto tu acessa aí, a suíte é cloud ou é local?\n[LOCUTOR 2]: Cloud nativo, tá? Então, adquiriu?[PESSOA] -\n[LOCUTOR 1]: Tem limite de espaço, armazenamento?\n[LOCUTOR 2]: A forma de cobrança da Suite Logística hoje, falando especificamente do checklist, é por quantidade de checklist que você utiliza, tá? Então, usuário limitado, toda essa parte de dados aí, enquanto você tiver acesso à plataforma, quando você tiver pagando a plataforma, vai estar disponível lá, toda essa parte de dados, tá? Então aqui, essa aqui é a nossa work area da Suite Logística, então, Basicamente, eu tenho aqui todos aqueles aplicativos daquela primeira mandala que eu te mostrei, porém, é porque eu tenho acesso a administrador, ele me traz todos, mas de vocês, basicamente, vai ter aqui só o do checklist, por isso que eu estou abrindo aqui o checklist. Vou conectar aqui para mostrar para vocês também a parte do aplicativo, para ficar fácil. Deixa eu conectar aqui rapidinho.[PESSOA] -\n[LOCUTOR 1]: Esse conectado que você está fazendo aqui, ele é um [EMPRESA]? Não, só para me entender. Do que?\n[LOCUTOR 2]: Do aplicativo?[PESSOA] -\n[LOCUTOR 1]: É, essa conexão que você está fazendo agora.\n[LOCUTOR 2]: Ah, isso aqui é só o Bluetooth, só para poder espelhar a minha tela.[PESSOA] -\n[LOCUTOR 1]: Até que eu pensei que tava dentro do box da solução lá.\n[LOCUTOR 2]: É, aqui eu tô na solução, aqui atrás é a solução.[PESSOA] -\n[LOCUTOR 1]: É que tem um QR ali, né?\n[LOCUTOR 1]: Ah, tá.\n[LOCUTOR 2]: É que eu tô só conectando aqui na...[PESSOA] -\n[LOCUTOR 2]: Aqui é mais só pra gente poder espelhar a tela pra você aqui. Mas esse [LOCAL] é para você fazer o download do aplicativo, tá?[PESSOA] -\n[LOCUTOR 1]: Tá direcionando na loja.\n[LOCUTOR 3]: [PESSOA] -\n[LOCUTOR 1]: Sim, ele joga para o aplicativo da loja.\n[LOCUTOR 2]: Isso, exatamente. Joga para o aplicativo da loja, é isso aí. Deixa eu deixar aberto aqui o checklist para ele já conectar. Já tá conectado.\n[LOCUTOR 3]: Estou.\n[LOCUTOR 2]: Aqui no meu celular, tá vendo? Esse aqui é o meu celular mesmo, tá aqui na prática, tá vendo? Então vou vir aqui, tô mexendo nele, cadê o meu checklist? [LOCAL], todo checklist. Então isso aqui é a tela de entrada. Então quando você apontar o seu celular aqui para o [LOCAL], ele vai te direcionar para fazer o download do checklist. E aí você vai ter uma tela de acesso depois que você baixar igual essa que eu tenho aqui, tá? Eu dou uma entrada aqui, eu só já vou deixar conectado porque quando eu começar a explicar fica mais fácil da gente poder transacionar, tá? Vou escrever a senha.\n[LOCUTOR 2]: Minuto só, vou ter que enredar com essa senha mesmo. Deixa eu ver aqui. Tem hora que ele salva, tem hora que ele não salva. É bom que você já viu o processo aqui, que é bem simples.\n[LOCUTOR 3]: O que é que você está fazendo? O que é que você está fazendo? O que eu quero dizer é que o [LOCAL] é um país muito grande, muito poderoso, muito rico. Eu quero dizer que o [LOCAL] é um país muito grande, poderoso, muito rico.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 2]: Facilita aí, na hora de explicar pra você, fica mais fácil, tá, [PESSOA]? Esse aí sim vai de boa, hein? [LOCAL], já conectado aqui já no aplicativo, tá vendo? Essa é a tela inicial do aplicativo, a gente já vai voltar nele, tá bom? É mais pra gente deixar conectado e quando não precisar voltar, parar, enfim. E fica até mais fácil aqui te explicar. Então eu vou começar aqui agora, explicar um pouco pra você sobre o sistema até [PESSOA]. Então, basicamente, essa aqui é a tela do checklist que a gente tem. Aqui no canto inferior esquerdo, eu puxo aqui, ele vai me trazer o menu do checklist, tá vendo? Então, todas essas opções aqui que eu tenho no canto esquerdo são pontões que a gente usa ali no dia a dia da operacionalização do checklist. Vou falar pela primeira da parte da configuração, porque é bem simples. O checklist é um aplicativo que ele tem essa dinâmica operacional mesmo. Então, você vai ver que não tem ali grandes, as parametrizações que precisam ser realizadas. As parametrizações que a gente precisa fazer são parametrizações diretas ali, que são voltadas mesmo para a criação do roteiro e algumas definições ali da parte de operacionalização dos envios desse checklist. Então, o primeiro cadastro síntese que eu preciso fazer é o cadastro do objeto. Então, eu venho aqui e cadastro o que vai ser inspecionado. Então, seja um carro, seja um caminhão, seja um produto. Aqui na minha base de teste, vou até mudar aqui, consigo fazer essa transação entre bases aqui, então vou colocar até na minha base aqui. Eu tenho mais opções, mas só para você entender, no cadastro de objeto, é basicamente o que eu vou estar inspecionando, então aqui eu tenho 15 ativos, carga, placa, então a gente pode ter aqui vários tipos de produtos que podem ser inspecionados, bem simples o cadastro, descrição e o número, alguma coisa que você entenda que seja fácil de você identificar o que é esse objeto, beleza? O próximo passo é você definir a localidade, o local onde você vai poder estar executando aquele checklist. É na portaria de entrada? É na linha de produção? É na sala de qualidade? Enfim, a gente tem várias opções de locais onde a gente vai poder executar o checklist. [LOCAL]? Está claro? Local físico. E aí, eu tenho a parte do roteiro. Aqui, basicamente, é o ponto mais interessante, porque é basicamente aqui onde está toda a parte do cérebro, do checklist. Então, eu vou até criar um roteiro contigo aqui para você ver como é fácil da gente poder executar isso na prática. Então, basicamente, eu tenho aqui as informações iniciais do roteiro. Então, o que você inspeciona hoje aí, [PESSOA] -\n[LOCUTOR 1]: O pessoal está com uma demanda aqui de, por exemplo, empilhadeira. Inspeção da empilhadeira.\n[LOCUTOR 1]: Entre outros, um dos casos.\n[LOCUTOR 2]: [PESSOA], você pode criar vários roteiros aqui, tá? Você pode aproveitar um roteiro que você criou, mudar só o nome, mudar uma pergunta ou outra, então o sistema tem várias dinâmicas aqui de você conseguir utilizar, tá? Então, coloquei aqui em inspeção de empilhadeira, eu consigo restringir por localidade, não vou restringir, vou deixar aberto, Eu vou colocar que o roteiro, ele é um roteiro, eu posso colocar na verdade que o roteiro ele é não sequencial, mas eu vou deixar que ele é sequencial, ou seja, ele tem que responder a primeira para passar para a segunda e para a terceira, então as perguntas elas são obrigatórias ali dele dar uma resposta para a gente, tá? Vou criar um passo agora. Então, depois que eu preencher as informações iniciais, vou começar a criar alguns passos. O que são os passos? Os passos são conjuntos de perguntas. Eu posso ter dentro de um checklist vários passos ou apenas um passo só. Aí vai conforme realmente a tua necessidade. Então eu tenho, por exemplo, a necessidade de ter um passo onde eu vou colocar só as informações gerais, mas eu tenho a necessidade de ter um passo ali onde eu vou colocar as informações diferente aos pneus, ao combustível, informação mecânica, informação da filaria da empilhadeira, então você pode dividir ou fazer um roteiro só, tá? Vou fazer um roteiro só, como é só... É um teste mesmo, né? Não vou colocar ali um responsável, consigo inclusive atribuir também uma localidade e atrelar essa localidade responsáveis também, mas não vou colocar, vou fazer um bem básico e vou dar um criar. Então ele criou o meu passo 1 aqui, tá vendo [PESSOA]? E aí, o que eu vou fazer agora? Eu vou inserir as perguntas dentro do meu passo 1. Então, aqui eu posso criar todos esses tipos de perguntas, tá vendo? [EMPRESA] e negativo, seleção múltipla. [EMPRESA] e negativo vai ser uma mãozinha, positivo e negativo. [EMPRESA] múltipla, vou dar várias opções, ele vai ali, ticar um ou mais opções que estiver disponível ali para eu poder criar essa pergunta. [EMPRESA] simples, ele vai escolher uma das opções que tem disponível, data, data, mídia, Mídia, fotos. Numéricos, só número. Texto. Informação textual mesmo. Código de barra e assinatura. Então, basicamente, essas são as opções que nós temos hoje aqui para a criação de perguntas. Vou criar aqui uma positiva e negativa. uma empilhadeira carregada, beleza? Consigo colocar uma frase de apoio, né? Então, verificar a bateria no painel, beleza? Posso colocar para permitir observação, posso colocar aqui permitir evidências, então posso colocar obrigatoriamente ele tem que tirar uma foto para mim, no máximo 30, ou deixo sem, e aí ele coloca até 30 fotos se ele quiser, beleza?[PESSOA] -\n[LOCUTOR 1]: A imagem então não é uma pergunta, ela é uma evidência de uma pergunta.\n[LOCUTOR 2]: [PESSOA]. Mas ela pode ser uma pergunta também.[PESSOA] -\n[LOCUTOR 1]: Pode.\n[LOCUTOR 2]: Eu estou criando uma pergunta do tipo positivo e negativo e ainda estou dando a opção de ele colocar uma evidência, tá?[PESSOA] -\n[LOCUTOR 1]: Entendeu?\n[LOCUTOR 2]: E aí eu consigo inclusive também, tá? Colocar aqui uma imagem de apoio, tá? Então vem aqui e coloca uma imagem de apoio lá do painel da empilhadeira com a bateria carregada para poder auxiliar ele ali no preenchimento da pergunta, beleza?[PESSOA] -\n[LOCUTOR 2]: Uma imagem, exato. Foto. [LOCAL]? E aí eu consigo também, tá, dentro dessas perguntas aqui, gerar toda a parte de não conformidade, então se a pergunta for negativo, eu consigo classificar isso aqui como uma não conformidade baixa, média, alta, né, então ele tem essa característica, tá, e aí a partir daqui, quando eu, quando eu, quando tiver uma não conformidade, ele vai cair para mim poder fazer o tratamento dessa não conformidade, beleza? Consigo colocar se essa pergunta é obrigatória ou não. Dá para definir aqui. E aí depois fechei. Posso incluir uma nova pergunta. Vou colocar aqui uma seleção simples. Como.\n[LOCUTOR 2]: Os pneus? Posso permitir observação? Aí eu inseri a opção. Eu posso colocar aqui, ok. [LOCAL]? E aqui eu não vou preencher nada, eu vou colocar aqui, não gera não conformidade. E aí eu vou inserir a próxima pergunta. Salvo, insiro outra opção. Você precisa desbloquear seu iPhone antes. Não, ok. [LOCAL]? Eu posso definir aqui uma não conformidade. Coloco que é obrigatório, se quiser colocar em mais de apoio coloca, e aí as opções seguem as mesmas. Vou colocar aqui uma assinatura. Assinatura, só assinatura. [LOCAL]? Então, criei um roteiro com algumas perguntas, claro, a gente tem várias e várias opções, e aí você vai criando todos os itens conforme você tem as suas necessidades. Vou dar um avançar. Está reclamando aqui de alguma coisa. Acho que foi aqui, eu não salvei isso. Vou dar um avançar aqui. E aí, depois que eu defini ali o meu conjunto de perguntas e respostas, [PESSOA], eu tenho aqui a opção de fazer aqui algumas parametrizações para informes em relação aos status desse checklist. Então, eu tenho aqui um envio de um e-mail ao planejador, tudo opcional, tá? eles conseguem receber um aviso de quando um checklist for finalizado para o executor ele consegue receber um e-mail quando tem um checklist disponível para ele poder executar e eu consigo também enviar um e-mail para o avaliador no caso quando chegar uma não conformidade ele recebe um e-mail falando tem uma não conformidade para você fazer um tratamento Eu consigo ter essas três personas aí dentro do processo Um planejador, um executor e um avaliador da parte da não conformidade, tá? [LOCAL]? E aí depois que eu faço isso aqui eu salvo o roteiro, tá? Ele vai ficar basicamente dessa forma aqui, ele dá uma visão, tá vendo? Antes de eu salvar Então ficou assim, pergunta de joinha, né? [EMPRESA], negativo uma pergunta de seleção simples, ok, não ok, e uma assinatura, tá vendo que tá com o dedinho aqui, então no celular ele vai lá e permite eu assinar, beleza? E depois você só publica, clica aqui em publicar e ele vai criar o seu checklist, beleza? Alguma dúvida até aqui? Tudo certo?[PESSOA] -\n[LOCUTOR 1]: [LOCAL], não sei se vai comentar depois, mas eu posso restringir esse checklist a um grupo de pessoas, por exemplo?\n[LOCUTOR 2]: Pode, pode, exatamente. Como eu falei para você, aqui dentro da parte da localidade, tá vendo? Eu consigo restringir a usuários.[PESSOA] -\n[LOCUTOR 1]: Ah, entendi. Então é a localidade que é a restrição de... Posso criar almoço sanitado, expedição, fábrica e criar...\n[LOCUTOR 2]: Isso, exatamente. [LOCAL]. E aí você vai colocando os usuários.[PESSOA] -\n[LOCUTOR 1]: Quando tu começou a falar do cadastro, eu pensei que o cadastro era as perguntas, tá? Só que eu vi que as perguntas elas são dentro do...\n[LOCUTOR 3]: [LOCAL].[PESSOA] -\n[LOCUTOR 1]: Do roteiro. O que que são os cadastros, então?\n[LOCUTOR 2]: Cadastro do que que você fala?[PESSOA] -\n[LOCUTOR 1]: Quando tu começou, a primeira informação que tu mostrou foi cadastro.\n[LOCUTOR 2]: Objeto.[PESSOA] -\n[LOCUTOR 2]: O objeto é o que você vai inspecionar, né? Então, a empilhadeira seria um objeto aqui.[PESSOA] -\n[LOCUTOR 2]: [PESSOA] -\n[LOCUTOR 1]: Ah, para você com o roteiro já era o checklist. Desculpa, estou antecipando aqui. Não, segue de boa.\n[LOCUTOR 2]: Aqui eu só criei o roteiro. Então isso aqui são as parametrizações necessárias para eu poder operacionalizar o checklist. Depois que eu estou com o roteiro criado, aí eu vou começar agora a parte operacional. Então eu venho aqui para a tela do gerenciador de atividades, está vendo? E aí eu vou criar um novo checklist. [LOCAL]? Quando eu dou aqui o novo checklist, ele vai pedir para a minha localidade, o objeto que eu vou estar inspecionando, vou colocar aqui o ar-condicionado, o seu seria uma empilhadeira, e aí eu vou selecionar um roteiro. Eu tenho vários roteiros aqui, tá vendo? Vou selecionar um roteiro aqui. Eu consigo, inclusive, colocar esse roteiro para um executor específico. ou eu posso deixar também sem executor e ele vai cair lá para a minha localidade, para os executores da minha localidade, e aí algum deles lá vai pegar esse checklist, perfeito? Consigo colocar uma data planejada, então coloquei no dia 18, quero que acabe no dia 20, no máximo. Consigo colocar observação, basicamente são essas as informações que eu preciso preencher, tá? E aí eu dou aqui, por exemplo, um adicionar.[PESSOA] -\n[LOCUTOR 1]: Eu tenho uma expressão de empilhadeira, é diária, né? Então vou ter o mesmo checklist, o mesmo formulário, tudo, né? Não vou trabalhar com limite de datas, ele vai armazenar esses resultados aí, né?\n[LOCUTOR 2]: [PESSOA]. Ele vai armazenando aqui na parte do histórico, tá? Então, basicamente, depois que você fez isso aqui, você vai finalizar e ele já vai disparar o checklist para o executor, beleza? Consigo também criar recorrência para poder enviar esse checklist. Então vem aqui, define localidade, objeto, roteiro. e aí crio, por exemplo, aqui uma frequência diária, semanal, quinzenal, mensal termina nunca, termina depois de [PESSOA] vezes, termina em, entendeu? Basicamente, o que a gente fez ali, manual, eu consigo criar um planejamento ali de recorrência para poder enviar esse e-mail.[PESSOA] -\n[LOCUTOR 1]: Essa recorrência é o envio do e-mail ou não? Porque, como eu te falei, uma impressão diária, tipo, o cara todo dia às sete da manhã vai fazer, né? Não precisa fazer essa recorrência, né?\n[LOCUTOR 2]: É preciso, se você quiser que ele receba todo dia, você vai criar aqui uma recorrência diária, tá vendo?[PESSOA] -\n[LOCUTOR 2]: Você precisa criar uma recorrência para ele poder receber, senão ele não vai receber, senão você vai ter que vir aqui todo dia e fazer, e disparar para ele, entendeu?[PESSOA] -\n[LOCUTOR 1]: Então, na verdade, cada checklist ele gera uma nova tarefa, então. Então a recorrência ele cria uma tarefa, então não é um formulário estático que todo dia eu vou lá e preencho ele.\n[LOCUTOR 1]: [EMPRESA], pensei que hoje... Fora que, antes de entender aqui na prática, a visão que eu tinha dele era o seguinte, beleza, eu criei o checklist, vou lá no aplicativo, no checklist lá em pilhadeira, vou entrar nele, vai ter as perguntas, vou responder. Então, toda a resposta que eu fizesse, uma de novo. Então, o dia, data, hora, enfim. Então, sempre precisa recriar a frequência. Hoje, dia 18, fui lá, fiz a resposta, gravou a resposta. Amanhã de 19, abri o mesmo checklist, sem frequência. Preenchi, gravou de 19, entendeu?\n[LOCUTOR 2]: É isso aí, dessa forma que ele vai funcionar.[PESSOA] -\n[LOCUTOR 1]: É um pouquinho diferente, entendi. Ele cria recorrência, ele cria o agendamento das tarefas. Mas beleza, é uma forma de trabalhar, entendi.\n[LOCUTOR 2]: [PESSOA]. E tem outras dinâmicas também, né? Aí você pode atrilar isso ao disparo de alguma outra atividade, a gente trabalha com API, enfim. A gente tem várias formas de iniciar o checklist. Eu estou te mostrando as formas que a gente tem aqui dentro de tela, né? Então, a gente está falando aqui do que tem em função.[PESSOA] -\n[LOCUTOR 1]: Show, show.\n[LOCUTOR 2]: [LOCAL]? E aí, depois que a gente dispara o checklist lá para o executor, aí a gente começa aqui a parte do aplicativo. Então, eu vou te dar um exemplo aqui, vou pegar um checklist aqui para você ver como é bem simples. Então, isso aqui é a nossa tela do checklist, eu tenho uma tela onde eu vou ter aqui o início, onde eu consigo, inclusive, criar checklists aqui também, dependendo do meu nível de permissão. Mas, basicamente, o que eu vou te mostrar aqui é como a gente realiza. Geralmente, pelo aplicativo, a gente disponibiliza apenas a função para o executor preencher as informações. Consigo fazer avaliação por aqui também, tem toda a parte de mensagem, onde eu consigo trocar mensagens do aplicativo para o desktop. Então, tem aqui toda a parte de mensagem, tá vendo? eu vou abrindo um checklist aqui, eu posso ir conversando, enfim, eu tenho aqui várias funções, que tem um chat colaborativo e tudo isso aí fica salvo aí no histórico ali do que foi feito dentro do checklist, beleza? Aí na parte do aplicativo, vou voltar aqui para a tela inicial e vou dar um realizar. Quando eu dou um realizar, ele me abre aqui uma lista de checklists aqui que tem pendente para eu poder executar, tá vendo? Isso aqui está pendente aqui para eu poder executar. Vou pegar um desses aqui qualquer, né? [PESSOA] aqui, ele me traz aqui todas as informações do checklist, então ele me traz o número do checklist, o motorista, transportadora, documento, foi criado em, né? E aí ele me traz o nome do checklist. Vou dar um iniciar aqui, vamos ver se ele vai deixar. [LOCAL], deixou. É uma pergunta de data, então vou selecionar uma data, então confirmar. [LOCAL] para a próxima. [EMPRESA] múltipla ou seleção simples. Então, seleciono um dos períodos, dou um próximo. Ele pede aqui a minha assinatura. Vou colocar aqui uma assinatura. [PESSOA] um confirmar. Passei para a próxima. Ele já trouxe aqui a data e hora do início do checklist, mais a data da finalização, certo? E, inclusive, traz aqui a localização também. Se eu for pegar aqui a localização, está aqui na atual despesa, estou hoje aqui na atual despresencial, tá vendo? Então ele é bem preciso nessa parte da localização, tá vendo? E aí eu só finalizo. Quando eu finalizo aqui o checklist, ele transaciona as informações novamente aqui para o desktop, e aí os status aqui que eu tenho, né, que estava pendente de execução, ele vai passar a ter um status ali, né, de finalizado. E aí onde eu consulto essas informações aqui no histórico, tá vendo? Então, no histórico, eu consigo ver aqui os dados dos checklists que estão pendentes, dos que estão com a execução finalizada. E aí, falando aqui de um que está com a execução finalizada, deixa eu até diminuir aqui para ficar melhor, eu consigo visualizar já as respostas que foram aplicadas dentro desse checklist. Então, veja aqui, isso aqui é as informações do checklist, e aqui foram as perguntas e o que foi respondido, está vendo? Então, eu já consigo visualizar em tela, consigo, inclusive, imprimir isso aqui, Tá vendo?\n[LOCUTOR 3]: [EMPRESA].\n[LOCUTOR 2]: E aí aqui na tela, nas telas aqui que ainda tenho de uso, tem uma tela específica, né, para parte do histórico da não conformidade, então quando algumas das perguntas foram respondidas de forma negativa, né, e aí eu tenho toda a parte não conformidade, o histórico das não conformidades ele fica nessa tela, eu consigo visualizar, né, aqui as não conformidades, inclusive visualizar o que já foi resolvido, o que está pendente e quais foram as tratativas, eu consigo criar um plano, tá vendo, um novo plano de ação, um plano de ação para tratamento dessa não conformidade, então aqui eu defino data-limite, se vai ter uma aprovação automática ou não, e aí eu vou criando aqui tarefas, né, para poder estruturar essa parte da não conformidade, né? Então, onde será feito, quem será feito, data de início, data de fim, quanto vai custar, se tem algum anexo, né? E aí depois eu vou dando um ok ou não ali pra como foi o tratamento daquela não conformidade, tá?[PESSOA] -\n[LOCUTOR 1]: Aproveitando, então, o caso do nosso empilhadeiro aí, né? Posso ter duas perguntas, por exemplo, né? combustível lá, né? Então, pensar assim, a pergunta é combustível, né? O cara vai ver assim, ah, não, combustível está embaixo, então eu vou botar como não conformidade. Então, a resposta, a não conformidade de combustível, ela vai acionar um setor, tá? Ou uma pessoa. Agora, outra resposta dos pneus lá, pneu está com avaria, né? Então, eu vou acionar uma outra equipe, eu consigo ter, do mesmo checklist, duas não conformidades para setores diferentes.\n[LOCUTOR 1]: A gente diz lá, você vai ter o não, não conformidade, né?\n[LOCUTOR 2]: [PESSOA], e aqui também.[PESSOA] -\n[LOCUTOR 1]: Mas eu não lembro se a gente define quem que é o responsável.\n[LOCUTOR 1]: Aqui é uma escrita de localidade sempre, tá?\n[LOCUTOR 2]: [PESSOA], exato. Tá vendo?[PESSOA] -\n[LOCUTOR 2]: [LOCAL]! E aí, eu geralmente fecho aqui, tá? Aqui tem também a tela de avaliação, né? Que é uma tela de continuidade da parte da não conformidade, tá? Aí eu consigo ver aqui, assumir, né? Pra tratar aqui da parte de não conformidade, complementa aquela parte ali do plano, tá? E aí, basicamente, eu sempre fecho aqui mostrando pros nossos clientes os insights, tá? E aí aqui no checklist, o que que é bacana, tá? [LOCAL], eu tenho a parte de inteligência artificial já aplicada, né? Essa bolinha que tá girando aqui é uma inteligência artificial generativa, né? Então ela consegue fazer aqui algumas consultas, né? Especificamente pra essa parte de insights, né? Então... Vamos, checa a via... Vai.\n[LOCUTOR 3]: Dar uma olhada.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 2]: Tem um aplicativo também para isso, [PESSOA].[PESSOA] -\n[LOCUTOR 1]: Atualmente.\n[LOCUTOR 2]: Há um total de 483 checklists pendentes. Aí você fala para o negócio todo. Vou fazer um comparativo em gráficos e barras.[PESSOA] -\n[LOCUTOR 1]: Essa aí, ela é embutida ou ela é paga à parte?\n[LOCUTOR 2]: [PESSOA], você vai contratar o checklist, contratar os insights, que são esses gráficos aqui que eu estou te mostrando.[PESSOA] -\n[LOCUTOR 1]: Ah, os insights são comercializados à parte.\n[LOCUTOR 2]: Está junto ali no pacote, a gente sempre oferece tudo junto, tá? Mesmo que não faça sentido você só pegar isso aí, você precisa ter visão também da sua operação, tá? Mas se você não quiser, não ter os insights, você pode tirar, tá? Então ele cria, tá vendo? E aí é o gráfico responsível, tá vendo? É bem bacana. Você pode pegar isso aqui, cara, e virar de cabeça para baixo, porque ele vai ter aqui toda a parte relacionada a respostas aqui do que diz respeito à parte dos dados que você tem da sua operação, tá? Então isso aqui é um gráfico gerencial do meu checklist, eu tenho aqui total de checklist finalizados, cancelados, pendentes, quantidade de checklist por executor, por roteiro, por objeto, por localidade, eu consigo ver aqui por data de criação, por data de execução, finalizados os pendentes, pendentes de execução. Então eu tenho aqui uma visão ampla da minha operação de checklist. E aí eu tenho várias outras visões, está vendo? Ele me traz aqui um tático, um pendente. E aí eu vou paginando aqui, claro. Você também tem a possibilidade de criar suas próprias visões, [PESSOA]. Os insights te dão essa opção. Tem um cara aqui de BI.[PESSOA] -\n[LOCUTOR 1]: [LOCAL], cara.\n[LOCUTOR 2]: Manda ele entrar aqui que ele vai conseguir criar as visões dele. Isso aqui são visões mais padrões que nós temos aqui, que foram criadas ao longo do tempo para poder ajudar os nossos clientes. Mas você consegue aqui ter a possibilidade de criar o que você quiser dentro do checklist. [LOCAL]?[PESSOA] -\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 2]: Estou à disposição para tirar suas dúvidas. Não sei se ficou claro. Se é isso mesmo que você esperava.[PESSOA] -\n[LOCUTOR 1]: Não, realmente, a ferramenta é o que a gente procura. Aí, então, agora, entendi o funcionamento dela, né? As dúvidas, então, eu fui te atrapalhando no decorrer da tua apresentação, então já tirei também, né, a questão de responsáveis, felicidade, armazenamento, esse tipo de coisa, então... Então, é em nuvem, né? Cloud sem limite de armazenamento, porque a gente vai ter muito checklist com imagem, né? E agora eu entro um pouco em algumas dúvidas técnicas comerciais, tá? Então, eu tinha uma proposta Aí o [PESSOA] vai me ajudar. Que eu tinha um pacotinho tipo de 300 checklists mesmo. Quando a gente fala em 300, [PESSOA], a gente fala em 300 perguntas lá, né?\n[LOCUTOR 3]: Isso.\n[LOCUTOR 2]: 300 roteiros, na verdade. 300 roteiros utilizados, né?[PESSOA] -\n[LOCUTOR 1]: Então, aí que tá... Preciso sanar bem isso aí. Então, quando a gente fala em 300, você tá ok? 300 roteiros inspecionados, 300 respostas.\n[LOCUTOR 2]: Preenchidos, preenchidos.[PESSOA] -\n[LOCUTOR 2]: Você criou um roteiro, certo? E aí você mandou para um executor, o executor preencheu essas perguntas e finalizou o processo todo, aí contabiliza. Você usou um checklist, beleza?[PESSOA] -\n[LOCUTOR 1]: Tá, então vamos lá. É que eu tinha uma informação que não tinha um limite de perguntas, então eu não tenho limite de perguntas.\n[LOCUTOR 2]: No roteiro para você criar?[PESSOA] -\n[LOCUTOR 1]: Isso, eu posso ter, então... Você pode criar várias perguntas lá. Então posso ter um roteiro com 100 perguntas, vamos pensar assim.\n[LOCUTOR 3]: As perguntas tu vai perguntar, por exemplo, sei lá, da empilhadeira, pneu, banco, cor...\n[LOCUTOR 1]: Tem um limite técnico lá, deve ter.\n[LOCUTOR 2]: Essa maquia com as perguntas. Mas não é por isso que é cobrado, tá?[PESSOA] -\n[LOCUTOR 1]: Então posso também ter N roteiros, N checklists.\n[LOCUTOR 2]: N roteiros, N usuários.[PESSOA] -\n[LOCUTOR 1]: Então eu tenho 300 respostas diferentes. Posso ter lá 15 checklists diferentes e esse pacotinho me dá direito a responder 300 respostas. Vamos pensar assim, é isso. Isso é puro checklist respondido. Essa é a comercialização dele.\n[LOCUTOR 2]: [LOCAL].[PESSOA] -\n[LOCUTOR 1]: Isso. Aqui tinha uma informação diferente. Então, beleza. Eu tenho um valor aqui de 400 e poucos pilas por mês para 300 respostas de quantos roteiros eu quiser e quantas perguntas eu quiser.\n[LOCUTOR 2]: A gente pode prestigiar esse valor aí, foi o [PESSOA]?\n[LOCUTOR 3]: Isso, eu passei uma simulação.[PESSOA] -\n[LOCUTOR 1]: Só para ter uma ideia de valor, a gente pediu lá na [LOCAL]. E quando a gente fala em site, não estaria aqui no meio? Provavelmente sim e não.\n[LOCUTOR 3]: Tem que validar essa questão do Insight, até que eu realmente não sabia. Mas se a gente valida aqui, eu valido com o [PESSOA] aqui na sequência e daí eu já te confiro.[PESSOA] -\n[LOCUTOR 1]: Tá, então só para me repassar a informação inteira. Eu não tenho limite de usuários, de perguntas e de checklists. O que eu tenho limite são de respostas armazenadas, vamos pensar assim, né?\n[LOCUTOR 2]: É check list respondidos, que é o que vai consumir, o que consome seus pacotes.[PESSOA] -\n[LOCUTOR 1]: Tem um check list de 10 perguntas, respondidas 10, é uma resposta, né? É um check list respondido, tem até 300. Simulação de até 300 respostas e check list. [LOCAL], então sem limite de aplicativos, o aplicativo não é cobrado à parte também, ele é grátis, né?\n[LOCUTOR 2]: Isso, exato. Tá dentro do pacote, né?\n[LOCUTOR 3]: Dentro do pacote o aplicativo.[PESSOA] -\n[LOCUTOR 1]: Tá armazenado em nuvem, localidade... [LOCAL], então agora realmente seria mais comercial, [PESSOA] e [LOCAL] juntos, mas enfim, precisaria então levar uma proposta mais concreta agora para o eleno, né?\n[LOCUTOR 3]: Mas daí a gente manteria essas 300?[PESSOA] -\n[LOCUTOR 1]: Quais são os níveis de pacote? Só para eu entender.\n[LOCUTOR 2]: São 300, 700, 1.000? Quanto mais se você comprar, mais barato fica, tá?[PESSOA] -\n[LOCUTOR 1]: Porque a gente colocou uma estimativa de 1 por dia, né? Pensando na empilhadeira ali, 30 vezes o déficit acrílico. Vamos fazer 300 e 700 ali para fazer essa simulação para mim com os insights, né?\n[LOCUTOR 3]: [LOCAL].[PESSOA] -\n[LOCUTOR 1]: E também aproveitando, né, ter uma adesão lá, ver se seria dentro dessa adesão, né? Eu teria que levar uma proposta já, tipo, meio que final assim, né? Olha, o pessoal chega nesse nível de custo, enfim, né?\n[LOCUTOR 3]: Deixa eu só te passar também. Tanta parte de adesão, como configuração, ativação de tudo aí, vocês entrando naquele programa do [EMPRESA] já vai estar incluso, tá? Sim.[PESSOA] -\n[LOCUTOR 3]: Eu vou separar, eu vou separar para ter mais uma informação adicional aí.[PESSOA] -\n[LOCUTOR 1]: Até porque, conforme a gente viu ali no manual, ele é... Ele é rápido de se implementar, né? Tipo, ele é bem intuitivo, né, que eu quero dizer, né? Ele...\n[LOCUTOR 2]: É, uma semana, geralmente, é o tempo de implementação, tá?[PESSOA] -\n[LOCUTOR 1]: Mas veio, então, essa questão, então, teria que ter um valor... Tem valor de.\n[LOCUTOR 2]: Serviço de implementação, tá? A proposta contempla implantação, licenciamento e adesão.[PESSOA] -\n[LOCUTOR 1]: Então, precisaria desses valores compilados, né? O melhor valor possível, né? para a gente já levar a proposta final, sem bate e volta. Tipo, realmente, o melhor valor que eu chegaria é esse ponto. Eu nem vou te retrucar dizendo, ah, me concede um desconto. Eu já vou levar como se fosse proposta final, né?\n[LOCUTOR 2]: [LOCAL].[PESSOA] -\n[LOCUTOR 1]: E fique intuitivo, rápido, o que a gente precisa ali. E realmente, né? O cloud melhora ainda, fique offline, se o cara não tem sinal lá, vai se questionar no meio do mato, volta depois e descarrega. Então, o próximo é o que a gente precisa.\n[LOCUTOR 3]: [LOCAL], agora eu vou fazer uma pergunta, porque de fato eu nunca comercializei ainda esse checklist. Enfim, até pelo meu tempo de totos aqui, que não é muito grande. Além da implementação, tem alguma outra taxa de integração com o DataSue ou alguma outra questão assim?\n[LOCUTOR 2]: Não, a gente não falou de integração, né? A gente só precisa entender se vai ter alguma integração, porque eu tô considerando que eles vão usar o checklist ali à parte, né? Mas hoje a gente tem clientes que utilizam integrado, aí só precisa realmente entender se vai ter a necessidade dessas integrações, aí a gente tem que considerar isso no projeto também, tá?[PESSOA] -\n[LOCUTOR 1]: Mas eu vejo que aí a gente trabalharia com pontuais, APIs, né? Como tu comentou, no decorrer a gente trabalha...\n[LOCUTOR 2]: [PESSOA], API, envio e consumo, exato. Aí eu preciso de uma informação que tem no checklist, você vai lá e busca, consome API lá e ele vai retornar para você os dados.[PESSOA] -\n[LOCUTOR 1]: Isso, vou ter lá, consumo de combustível baixo, eu quero que já que hora de gera e uma hora de compra automática. A gente sabe que é uma integração à parte, um consumo de API, daí é uma customização paralela, mas não consideraria nesse momento.\n[LOCUTOR 2]: Hoje você está considerando padrão, então implementação padrão sem integração com o [LOCAL], né?[PESSOA] -\n[LOCUTOR 1]: Sei que se tiver integração tem custo para cada uma que a gente vier a sondar.\n[LOCUTOR 3]: É, por isso, enfim, eu levantei porque daqui a pouco tu vai fazer alguma correlação com alguma coisa ou para startar já alguma compra ou até mesmo já para alguma questão de depreciação, não sei, alguma coisa que eu pensei.[PESSOA] -\n[LOCUTOR 1]: Eu vivi muito numa integração, seria gerar uma ordem de manutenção, pensar assim, porque eu estou fazendo checklist de inspeção, mas eu vi que a própria ferramenta já tem algumas alternativas, disparo de e-mail, já gera plano de ação, então eu poderia trabalhar puramente nela.\n[LOCUTOR 2]: Pode, mas você também pode, dá para você, por exemplo, chamar uma API lá de criação do checklist também, tá? E aí, por exemplo, como você falou, lá no [LOCAL] tem, por exemplo, um passo que é a manutenção. Aí eu crio uma regra de negócio lá de quando automaticamente se parar essa ação, eu venho aqui e dou uma ordem aqui dentro da API para poder criar um checklist. Aí, no caso, toda essa construção tem que ser do teu lado. A gente vai disponibilizar para vocês a API, tá aqui a API. Basicamente, o que você vai precisar de campo para preencher para poder criar um checklist aqui dentro da ferramenta é isso aqui.[PESSOA] -\n[LOCUTOR 1]: [EMPRESA], mas ela consome, ao contrário, também ela consome?\n[LOCUTOR 2]: Consumir no caso do? só para poder...[PESSOA] -\n[LOCUTOR 1]: Não vai ser o caso, mas agora que a gente falou, só viajando aqui, imagina que eu tenho lá uma não conformidade, né?\n[LOCUTOR 2]: [PESSOA].[PESSOA] -\n[LOCUTOR 1]: Então se a não conformidade for por falta de combustível, já criar uma ordem de compra não das ações, entendeu? Vai ter um consumo ao contrário, né?\n[LOCUTOR 2]: Não sei, preciso confirmar com o pessoal, acho que é mais ela receber mesmo, tá?[PESSOA] -\n[LOCUTOR 1]: Sim, a geração, né? Ou uma resposta, né?\n[LOCUTOR 2]: Acho que é mais fácil. Pelo que eu me recordo do pessoal, das reuniões que eu tive com o produto, Se você quiser fazer essa avaliação, você que vai ter que consultar aqui a API, a gente vai estar disponível. Está aqui, tudo que tem não conformidade.[PESSOA] -\n[LOCUTOR 1]: [EMPRESA].\n[LOCUTOR 2]: Vai lá e olha, e você varre lá o banco, varre a API e vê o que tem que está dentro do critério que você precisa para você poder consumir.[PESSOA] -\n[LOCUTOR 2]: [LOCAL]. É mais fácil ainda, a gente pega a integração padrão.[PESSOA] -\n[LOCUTOR 1]: Então precisaria realmente dessa visão de valor agora. Vamos usar essa métrica de 300, talvez uns 700, só para a gente ter uma ideia de salto, quanto mais, realmente diminui bastante. Mas no primeiro momento, 300 respostas, ali já dá para a gente sair com bastante coisa implementada.\n[LOCUTOR 3]: [LOCAL]. [LOCAL] então, [PESSOA]. Agora o tema de casa está comigo aqui. Deixa eu só fazer uma revisão aqui e daí eu te mando essa proposta.[PESSOA] -\n[LOCUTOR 1]: Pode encaminhar direto pra mim, pro [PESSOA], como tu tem aquele e-mail lá. Pode disparar pros dois ao mesmo tempo. Depois aí eu já explico pra ele alguns detalhes que eu já anotei aqui, pontuei aqui no meu caderno aqui.\n[LOCUTOR 3]: [LOCAL].[PESSOA] -\n[LOCUTOR 2]: Show. [PESSOA], cara. Tamo junto, viu? Um abraço. Prazer te conhecer, [PESSOA].[PESSOA] -\n[LOCUTOR 1]: Prazer aí cara, vamos falando tá, valeu gente.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 3]: [PESSOA], deixa eu te perguntar, isso aí o [EMPRESA] monta essa proposta ali, tem que pedir pro [EMPRESA] fazer alguma simulação pra mim?",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:39.711562+00:00",
+    "total_linhas": 226,
+    "linhas_mantidas": 175,
+    "linhas_removidas": 51,
+    "percentual_mantido": 77.43,
+    "confianca_media": 0.4777
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Dia, [PESSOA].[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Opa, bom dia, gente. Como é que tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Bem, e você? Como que tá?[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4578,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tudo certinho, tudo bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], [PESSOA]. Show de bola. Vou aguardar um pouquinho pra ver se o [PESSOA] vai entrar. Se ele não entrar, a gente já começa, tá?[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4583,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não, bem tranquilo. Também, da minha parte, teria convidado o [PESSOA], mas ele não vai conseguir participar. Aí, depois, eu repasso as informações.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: São.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pontuais algumas dúvidas, então depois eu repasso também, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O [PESSOA] entrou aí então, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Opa, bom dia pessoal, tudo bem?[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3506,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O [PESSOA], beleza?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Falou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tudo bem, você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. Então, [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL] dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL] dia.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL] dia. Você estava falando ali, [PESSOA], para o [LOCAL] que eu sou eu que participo, tá? Depois eu repasso aí as informações internamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, fica tranquilo. Então a gente está em boas mãos aqui, tá, [LOCAL]? Tem longa experiência aqui com o TOTOS, desde a implementação do TOTOS na Queco, tá? Então, tem todo o know-how aí para a gente bater esse papo aí sobre checklist e depois dar andamento aí nos próximos passos. [PESSOA], só para deixar registrada aqui a nossa call que vai ser gravada aqui, tem uma IA agora da [EMPRESA] aqui que faz a gravação, faz o resumo, depois se precisar algum ponto aí para a gente repassar, ela registra tudo e eu compartilho contigo, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Bem tranquilo, vai fazer a ata da reunião aí, transcrever.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], tem uma ferramenta nova que a gente tá usando, a gente começou, na verdade, a usar semana passada, acho que foi no final da semana passada, que ela grava, daí faz a ata, ela registra já no CRM e te passa alguns insights ainda, tal, tal ponto. Mas vamos ver, cara, tem muita coisa.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Que Vamos aprendendo junto, né? Aprendendo aí as sugestões, né? Mas show, show. Bem tranquilo. Então, né? Assistente à toques permitida.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Permitida.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Legal, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então tá, beleza. [PESSOA], se quiser já tocar o barco, fica à vontade. Vamos lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Vou começar aqui, então. Vou compartilhar a tela contigo agora, [PESSOA], para a gente poder começar a nossa apresentação. Só para te [PESSOA] um pouquinho, para a gente ficar alinhado em relação aos passos aqui da apresentação, [PESSOA]. Quando você estiver vendo a minha tela, você me avisa, tá? [LOCAL].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Apareceu aí, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL], show de bola. Então, basicamente, [LOCAL], a nossa apresentação aqui do [EMPRESA] vai ter duas partes. Primeiro, eu vou te apresentar alguns conceitos. A gente vai falar aqui em dois, três, quatro slides aqui sobre os principais benefícios da aplicação. A gente vai passar aqui o fluxo de processo. A ideia é te contextualizar em relação à ferramenta. E aí, no segundo momento, eu vou abrir a ferramenta contigo, na prática, para te mostrar as funções, tá? Então, basicamente, a nossa demonstração funciona dessa forma, uma parte teórica, uma parte prática, pra gente poder fechar ali o entendimento completo da solução, beleza? Qualquer dúvida que você tiver, [PESSOA], você pode estar abrindo o microfone e perguntando, tá? Porque eu tô... geralmente eu trabalho com duas telas, mas como eu tô hoje aqui na [LOCAL] e tá um pouco cheio, eu acabei não conseguindo uma mesa aqui na nossa área, então tô só com uma tela, tá? Mas fica à vontade para perguntar, tirar qualquer dúvida. A ideia é a gente sair daqui, dessa demonstração, com você entendendo como o checklist pode te ajudar em algum processo dentro da tua operação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL], então eu vou começar aqui a nossa apresentação. [LOCAL], antes de falar do checklist especificamente, [PESSOA], eu preciso te contextualizar em relação a plataforma que o checklist está inserido hoje aqui dentro da [EMPRESA]. Como você sabe, a [EMPRESA] tem várias linhas de produto, e dentre elas surgiu a suíte logística, que é uma linha de produto que tem por objetivo a gente conseguir atender a logística de ponto a ponto dos nossos clientes. Porém, o checklist nasce num contexto que a gente chama ele aqui hoje, dentro da [EMPRESA], de uma ferramenta cross. Apesar de ele estar dentro da suíte logística, ele não é um sistema que é vocacionado especificamente para logística. O checklist é um produto que serve para fazer o controle de qualidade. de produtos ou processos, independente do segmento, seja logística, seja produção, seja construção civil. Hoje, pela suíte logística ser uma das plataformas percursoras, no que diz respeito a essa nova dinâmica de produtos que a [EMPRESA] tem lançado. Então, produtos web, SaaS nativo, linguagem de microserviço. Então, essa nova arquitetura sistêmica da [EMPRESA], pela suíte logística ter sido um dos primeiros produtos e também ter feature, claro, com as soluções que nós temos aqui dentro do conteúdo de logística, ela foi inserida, mas a gente sempre gosta de salientar que o checklist é uma plataforma cross, tá? [LOCAL]? Falando aqui dos benefícios da solução, [PESSOA], o checklist hoje traz uma nova dinâmica. Hoje, se você trabalha com checklists de forma manual, o sistema vai te dar uma outra dinâmica de trabalho, porque a gente começa a trabalhar tudo via sistema, então a gente vai ter tudo registrado e não tem ali a possibilidade de a gente ter problemas em relação a [EMPRESA], então o checklist basicamente ele vai trazer aí essa nova dinâmica, são dados estruturados porque a gente cria todos os formulários dentro do sistema e a gente consegue definir perguntas, se é obrigatória, se não é obrigatória. Enfim, a gente tem toda uma dinâmica, porque hoje o checklist trabalha com duas pessoas. A gente tem um planejador, que é quem vai criar o checklist, o roteiro, definir. Todas essas parametrizações. E a gente tem o executor, que é quem vai pegar o checklist na prática e vai coletar essas informações. Fora isso, a gente tem toda uma dinâmica também de gestão. Então, a gente consegue visualizar e acompanhar a produtividade em relação às execuções desses checklists. Então, fora toda a parte de validação. Enfim, o sistema traz aí... Quando a gente coloca um sistema para poder apoiar um processo, automaticamente a gente já consegue ganhar controle e visibilidade em relação àquele processo que está sendo apoiado pelo sistema. Então são alguns benefícios básicos que a gente traz dentro da solução. Só que falando mais um pouco, [PESSOA], referente aos pilares da solução, o que a gente tem ali. de principal função dentro do checklist, que são realmente pilares hoje para a solução. Então, basicamente, o roteiro é o nosso primeiro pilar. O roteiro, basicamente, vão ser os conjuntos de perguntas e respostas que você vai definir como planejador. Então, hoje a gente tem uma dinâmica muito bacana para você criar as perguntas, tem várias e várias opções ali. de perguntas para você criar realmente o seu checklist, perguntas que demandam imagem, perguntas que só demandam texto, número, então a gente tem uma junção das duas coisas. é bem completo mesmo, e ele traz ali uma dinâmica bem bacana. Hoje o aplicativo do [LOCAL], que é o aplicativo do executor, nós temos a possibilidade ali dele ser utilizado de forma offline, então não tem a necessidade dele estar conectado na internet para você conseguir coletar as informações do [LOCAL] que você recebeu, e aí quando você passar por um ponto de por um ponto de sinal de internet, ele transaciona essas informações para o desktop e dá visibilidade para o pessoal da retaguarda. Toda a parte de digitalização de evidências, como eu falei para vocês, o roteiro tem N possibilidades de criação de perguntas, dentre elas você criar perguntas onde você solicita fotos como evidências obrigatórias. Eu consigo também, a partir do momento que eu finalizo um checklist, avaliar a parte de latitude e longitude de onde foi finalizado, porque o checklist vai ser finalizado no aplicativo. eu consigo entregar essa parte da geolocalização ali para o sistema, que é bem bacana também, e toda a parte da interface, que é bem didática. Quando vocês começarem a navegar na ferramenta, vocês vão ver. Ela é bem simples, bem fácil de utilizar, até por isso mesmo que a gente tem uma curva de aprendizagem muito rápida dos usuários. Aqui são alguns exemplos práticos de aplicação do checklist. Como eu falei para vocês, o checklist é uma solução cross. Sendo cross, a gente tem a aplicação dela em diversos segmentos. Parte de construção, parte de varejo, a parte de logística, agro. a parte da saúde. Então, são vários segmentos que a gente consegue aplicar o checklist. Então, a gente sempre olha para ela como uma solução que dá para a gente encaixar em diferentes áreas dentro da minha organização. Seja na produção, seja na logística, seja na parte de qualidade. Então, a gente tem várias áreas que podem abarcar o checklist. Aqui é um fluxo básico da execução de um checklist hoje dentro da plataforma. Então, basicamente, a gente começa ali com a parametrização básica de localidade, roteiro e objeto, localidade onde eu estou aplicando esse checklist, roteiro conjunto de perguntas e respostas e objeto que eu estou inspecionando, se é um processo ou um produto. Depois que eu tenho definido aqui o meu roteiro, eu disparo esse roteiro para o aplicativo do executor, o executor recebe esse esse roteiro, e aí ele faz a execução, a coleta das informações, ele começa a preencher o checklist. Depois que ele preenche, ele vai finalizar esse checklist no aplicativo, essas informações vão ser automaticamente transacionadas para o desktop, e aí no desktop eu inicio toda a parte de avaliação dessas respostas que foram enviadas pelo meu executor.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Como não te interromper, talvez uma dúvida, Mas o app então, né? Android e iOS?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4141,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Do checklist só Android por enquanto, tá? A gente tem previsão de liberação de uma segunda versão do aplicativo, né? Agora para dezembro, que ela vai contemplar tanto o Android quanto o iOS, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá, entendi. [LOCAL]. Pode ir seguir. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Por nada. E a gente tem toda a parte também de tratamento de não conformidade, ou seja, o sistema tem hoje uma função de planejamento e tratamento de não conformidade bem robusta, onde eu consigo definir várias e várias ações para tratamento de não conformidade, inclusive com preço. Enfim, é bem robusto mesmo e bem completo essa parte aqui do tratamento da não conformidade. E aí eu finalizo a avaliação, e aí eu consigo já ter visibilidade em relação aos insights, que são as visões gerenciais e operacionais do processo que o checklist controla, tá, pessoal? Então, basicamente, isso aqui é um processo, o fluxo operacional do checklist. Alguma dúvida, [PESSOA], do que eu falei até esse momento?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não, não, tranquilo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá claro? Sim. [LOCAL]. Então agora a gente vai transacionar ali para a parte do aplicativo, tá, Marcos? Vou abrir aqui a suíte logística aqui na praça para a gente dar uma olhada no checklist.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5169,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aproveitando enquanto tu acessa aí, a suíte é cloud ou é local?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Cloud nativo, tá? Então, adquiriu?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tem limite de espaço, armazenamento?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: No princípio não, tá?[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4397,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá, beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: A forma de cobrança da Suite Logística hoje, falando especificamente do checklist, é por quantidade de checklist que você utiliza, tá? Então, usuário limitado, toda essa parte de dados aí, enquanto você tiver acesso à plataforma, quando você tiver pagando a plataforma, vai estar disponível lá, toda essa parte de dados, tá? Então aqui, essa aqui é a nossa work area da Suite Logística, então, Basicamente, eu tenho aqui todos aqueles aplicativos daquela primeira mandala que eu te mostrei, porém, é porque eu tenho acesso a administrador, ele me traz todos, mas de vocês, basicamente, vai ter aqui só o do checklist, por isso que eu estou abrindo aqui o checklist. Vou conectar aqui para mostrar para vocês também a parte do aplicativo, para ficar fácil. Deixa eu conectar aqui rapidinho.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Esse conectado que você está fazendo aqui, ele é um [EMPRESA]? Não, só para me entender. Do que?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Do aplicativo?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É, essa conexão que você está fazendo agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ah, isso aqui é só o Bluetooth, só para poder espelhar a minha tela.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4958,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ah tá, não é acesso ao aplicativo com... Tipo, eu não preciso fazer isso toda vez que eu for acessar o aplicativo no celular, no Android. Curiosidade agora que eu vi que está acessando.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4564,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, não. Aqui é mais para... O que eu estou conectando aqui é um aplicativo da [EMPRESA] para espelhar a minha tela.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4507,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Até que eu pensei que tava dentro do box da solução lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5227,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É, aqui eu tô na solução, aqui atrás é a solução.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5151,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É que tem um QR ali, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4956,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ah, esse [LOCAL] aqui sim, eu já vou te explicar. Isso aqui é pra você baixar o checklist, né? A versão do aplicativo, tá?[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4239,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ah, tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É que eu tô só conectando aqui na...[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5073,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu pensei que era um [EMPRESA] ou um emparelhamento, então. Ah, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4504,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Aqui é mais só pra gente poder espelhar a tela pra você aqui. Mas esse [LOCAL] é para você fazer o download do aplicativo, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5092,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá direcionando na loja.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, ele joga para o aplicativo da loja.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4801,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Isso, exatamente. Joga para o aplicativo da loja, é isso aí. Deixa eu deixar aberto aqui o checklist para ele já conectar. Já tá conectado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4962,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Estou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Aqui no meu celular, tá vendo? Esse aqui é o meu celular mesmo, tá aqui na prática, tá vendo? Então vou vir aqui, tô mexendo nele, cadê o meu checklist? [LOCAL], todo checklist. Então isso aqui é a tela de entrada. Então quando você apontar o seu celular aqui para o [LOCAL], ele vai te direcionar para fazer o download do checklist. E aí você vai ter uma tela de acesso depois que você baixar igual essa que eu tenho aqui, tá? Eu dou uma entrada aqui, eu só já vou deixar conectado porque quando eu começar a explicar fica mais fácil da gente poder transacionar, tá? Vou escrever a senha.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4927,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Um.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Minuto só, vou ter que enredar com essa senha mesmo. Deixa eu ver aqui. Tem hora que ele salva, tem hora que ele não salva. É bom que você já viu o processo aqui, que é bem simples.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: A.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Internet está um pouquinho lenta. Eu ia receber no celular, mas não recebi aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4184,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: O que é que você está fazendo? O que é que você está fazendo? O que eu quero dizer é que o [LOCAL] é um país muito grande, muito poderoso, muito rico. Eu quero dizer que o [LOCAL] é um país muito grande, poderoso, muito rico.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4705,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Assim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Facilita aí, na hora de explicar pra você, fica mais fácil, tá, [PESSOA]? Esse aí sim vai de boa, hein? [LOCAL], já conectado aqui já no aplicativo, tá vendo? Essa é a tela inicial do aplicativo, a gente já vai voltar nele, tá bom? É mais pra gente deixar conectado e quando não precisar voltar, parar, enfim. E fica até mais fácil aqui te explicar. Então eu vou começar aqui agora, explicar um pouco pra você sobre o sistema até [PESSOA]. Então, basicamente, essa aqui é a tela do checklist que a gente tem. Aqui no canto inferior esquerdo, eu puxo aqui, ele vai me trazer o menu do checklist, tá vendo? Então, todas essas opções aqui que eu tenho no canto esquerdo são pontões que a gente usa ali no dia a dia da operacionalização do checklist. Vou falar pela primeira da parte da configuração, porque é bem simples. O checklist é um aplicativo que ele tem essa dinâmica operacional mesmo. Então, você vai ver que não tem ali grandes, as parametrizações que precisam ser realizadas. As parametrizações que a gente precisa fazer são parametrizações diretas ali, que são voltadas mesmo para a criação do roteiro e algumas definições ali da parte de operacionalização dos envios desse checklist. Então, o primeiro cadastro síntese que eu preciso fazer é o cadastro do objeto. Então, eu venho aqui e cadastro o que vai ser inspecionado. Então, seja um carro, seja um caminhão, seja um produto. Aqui na minha base de teste, vou até mudar aqui, consigo fazer essa transação entre bases aqui, então vou colocar até na minha base aqui. Eu tenho mais opções, mas só para você entender, no cadastro de objeto, é basicamente o que eu vou estar inspecionando, então aqui eu tenho 15 ativos, carga, placa, então a gente pode ter aqui vários tipos de produtos que podem ser inspecionados, bem simples o cadastro, descrição e o número, alguma coisa que você entenda que seja fácil de você identificar o que é esse objeto, beleza? O próximo passo é você definir a localidade, o local onde você vai poder estar executando aquele checklist. É na portaria de entrada? É na linha de produção? É na sala de qualidade? Enfim, a gente tem várias opções de locais onde a gente vai poder executar o checklist. [LOCAL]? Está claro? Local físico. E aí, eu tenho a parte do roteiro. Aqui, basicamente, é o ponto mais interessante, porque é basicamente aqui onde está toda a parte do cérebro, do checklist. Então, eu vou até criar um roteiro contigo aqui para você ver como é fácil da gente poder executar isso na prática. Então, basicamente, eu tenho aqui as informações iniciais do roteiro. Então, o que você inspeciona hoje aí, [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O pessoal está com uma demanda aqui de, por exemplo, empilhadeira. Inspeção da empilhadeira.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5038,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL], vou colocar aqui na inspeção da empilhadeira, beleza?[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4299,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Entre outros, um dos casos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], você pode criar vários roteiros aqui, tá? Você pode aproveitar um roteiro que você criou, mudar só o nome, mudar uma pergunta ou outra, então o sistema tem várias dinâmicas aqui de você conseguir utilizar, tá? Então, coloquei aqui em inspeção de empilhadeira, eu consigo restringir por localidade, não vou restringir, vou deixar aberto, Eu vou colocar que o roteiro, ele é um roteiro, eu posso colocar na verdade que o roteiro ele é não sequencial, mas eu vou deixar que ele é sequencial, ou seja, ele tem que responder a primeira para passar para a segunda e para a terceira, então as perguntas elas são obrigatórias ali dele dar uma resposta para a gente, tá? Vou criar um passo agora. Então, depois que eu preencher as informações iniciais, vou começar a criar alguns passos. O que são os passos? Os passos são conjuntos de perguntas. Eu posso ter dentro de um checklist vários passos ou apenas um passo só. Aí vai conforme realmente a tua necessidade. Então eu tenho, por exemplo, a necessidade de ter um passo onde eu vou colocar só as informações gerais, mas eu tenho a necessidade de ter um passo ali onde eu vou colocar as informações diferente aos pneus, ao combustível, informação mecânica, informação da filaria da empilhadeira, então você pode dividir ou fazer um roteiro só, tá? Vou fazer um roteiro só, como é só... É um teste mesmo, né? Não vou colocar ali um responsável, consigo inclusive atribuir também uma localidade e atrelar essa localidade responsáveis também, mas não vou colocar, vou fazer um bem básico e vou dar um criar. Então ele criou o meu passo 1 aqui, tá vendo [PESSOA]? E aí, o que eu vou fazer agora? Eu vou inserir as perguntas dentro do meu passo 1. Então, aqui eu posso criar todos esses tipos de perguntas, tá vendo? [EMPRESA] e negativo, seleção múltipla. [EMPRESA] e negativo vai ser uma mãozinha, positivo e negativo. [EMPRESA] múltipla, vou dar várias opções, ele vai ali, ticar um ou mais opções que estiver disponível ali para eu poder criar essa pergunta. [EMPRESA] simples, ele vai escolher uma das opções que tem disponível, data, data, mídia, Mídia, fotos. Numéricos, só número. Texto. Informação textual mesmo. Código de barra e assinatura. Então, basicamente, essas são as opções que nós temos hoje aqui para a criação de perguntas. Vou criar aqui uma positiva e negativa. uma empilhadeira carregada, beleza? Consigo colocar uma frase de apoio, né? Então, verificar a bateria no painel, beleza? Posso colocar para permitir observação, posso colocar aqui permitir evidências, então posso colocar obrigatoriamente ele tem que tirar uma foto para mim, no máximo 30, ou deixo sem, e aí ele coloca até 30 fotos se ele quiser, beleza?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: A imagem então não é uma pergunta, ela é uma evidência de uma pergunta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4851,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA]. Mas ela pode ser uma pergunta também.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Eu estou criando uma pergunta do tipo positivo e negativo e ainda estou dando a opção de ele colocar uma evidência, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5555,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: E aí eu consigo inclusive também, tá? Colocar aqui uma imagem de apoio, tá? Então vem aqui e coloca uma imagem de apoio lá do painel da empilhadeira com a bateria carregada para poder auxiliar ele ali no preenchimento da pergunta, beleza?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5669,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É uma imagem, não um vídeo, uma imagem, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4431,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Uma imagem, exato. Foto. [LOCAL]? E aí eu consigo também, tá, dentro dessas perguntas aqui, gerar toda a parte de não conformidade, então se a pergunta for negativo, eu consigo classificar isso aqui como uma não conformidade baixa, média, alta, né, então ele tem essa característica, tá, e aí a partir daqui, quando eu, quando eu, quando tiver uma não conformidade, ele vai cair para mim poder fazer o tratamento dessa não conformidade, beleza? Consigo colocar se essa pergunta é obrigatória ou não. Dá para definir aqui. E aí depois fechei. Posso incluir uma nova pergunta. Vou colocar aqui uma seleção simples. Como.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Estão.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Os pneus? Posso permitir observação? Aí eu inseri a opção. Eu posso colocar aqui, ok. [LOCAL]? E aqui eu não vou preencher nada, eu vou colocar aqui, não gera não conformidade. E aí eu vou inserir a próxima pergunta. Salvo, insiro outra opção. Você precisa desbloquear seu iPhone antes. Não, ok. [LOCAL]? Eu posso definir aqui uma não conformidade. Coloco que é obrigatório, se quiser colocar em mais de apoio coloca, e aí as opções seguem as mesmas. Vou colocar aqui uma assinatura. Assinatura, só assinatura. [LOCAL]? Então, criei um roteiro com algumas perguntas, claro, a gente tem várias e várias opções, e aí você vai criando todos os itens conforme você tem as suas necessidades. Vou dar um avançar. Está reclamando aqui de alguma coisa. Acho que foi aqui, eu não salvei isso. Vou dar um avançar aqui. E aí, depois que eu defini ali o meu conjunto de perguntas e respostas, [PESSOA], eu tenho aqui a opção de fazer aqui algumas parametrizações para informes em relação aos status desse checklist. Então, eu tenho aqui um envio de um e-mail ao planejador, tudo opcional, tá? eles conseguem receber um aviso de quando um checklist for finalizado para o executor ele consegue receber um e-mail quando tem um checklist disponível para ele poder executar e eu consigo também enviar um e-mail para o avaliador no caso quando chegar uma não conformidade ele recebe um e-mail falando tem uma não conformidade para você fazer um tratamento Eu consigo ter essas três personas aí dentro do processo Um planejador, um executor e um avaliador da parte da não conformidade, tá? [LOCAL]? E aí depois que eu faço isso aqui eu salvo o roteiro, tá? Ele vai ficar basicamente dessa forma aqui, ele dá uma visão, tá vendo? Antes de eu salvar Então ficou assim, pergunta de joinha, né? [EMPRESA], negativo uma pergunta de seleção simples, ok, não ok, e uma assinatura, tá vendo que tá com o dedinho aqui, então no celular ele vai lá e permite eu assinar, beleza? E depois você só publica, clica aqui em publicar e ele vai criar o seu checklist, beleza? Alguma dúvida até aqui? Tudo certo?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], não sei se vai comentar depois, mas eu posso restringir esse checklist a um grupo de pessoas, por exemplo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4683,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Pode, pode, exatamente. Como eu falei para você, aqui dentro da parte da localidade, tá vendo? Eu consigo restringir a usuários.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5063,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ah, entendi. Então é a localidade que é a restrição de... Posso criar almoço sanitado, expedição, fábrica e criar...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.482,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Isso, exatamente. [LOCAL]. E aí você vai colocando os usuários.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Quando tu começou a falar do cadastro, eu pensei que o cadastro era as perguntas, tá? Só que eu vi que as perguntas elas são dentro do...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Do roteiro. O que que são os cadastros, então?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5606,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Cadastro do que que você fala?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Quando tu começou, a primeira informação que tu mostrou foi cadastro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Objeto.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Objeto, isso. Desculpa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: O objeto é o que você vai inspecionar, né? Então, a empilhadeira seria um objeto aqui.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4956,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu não vi que tu não usou em momento algum até agora, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4159,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tu não usou objeto em momento algum, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4471,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, porque eu ainda não criei um checklist.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3915,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ah, para você com o roteiro já era o checklist. Desculpa, estou antecipando aqui. Não, segue de boa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4745,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Aqui eu só criei o roteiro. Então isso aqui são as parametrizações necessárias para eu poder operacionalizar o checklist. Depois que eu estou com o roteiro criado, aí eu vou começar agora a parte operacional. Então eu venho aqui para a tela do gerenciador de atividades, está vendo? E aí eu vou criar um novo checklist. [LOCAL]? Quando eu dou aqui o novo checklist, ele vai pedir para a minha localidade, o objeto que eu vou estar inspecionando, vou colocar aqui o ar-condicionado, o seu seria uma empilhadeira, e aí eu vou selecionar um roteiro. Eu tenho vários roteiros aqui, tá vendo? Vou selecionar um roteiro aqui. Eu consigo, inclusive, colocar esse roteiro para um executor específico. ou eu posso deixar também sem executor e ele vai cair lá para a minha localidade, para os executores da minha localidade, e aí algum deles lá vai pegar esse checklist, perfeito? Consigo colocar uma data planejada, então coloquei no dia 18, quero que acabe no dia 20, no máximo. Consigo colocar observação, basicamente são essas as informações que eu preciso preencher, tá? E aí eu dou aqui, por exemplo, um adicionar.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu tenho uma expressão de empilhadeira, é diária, né? Então vou ter o mesmo checklist, o mesmo formulário, tudo, né? Não vou trabalhar com limite de datas, ele vai armazenar esses resultados aí, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA]. Ele vai armazenando aqui na parte do histórico, tá? Então, basicamente, depois que você fez isso aqui, você vai finalizar e ele já vai disparar o checklist para o executor, beleza? Consigo também criar recorrência para poder enviar esse checklist. Então vem aqui, define localidade, objeto, roteiro. e aí crio, por exemplo, aqui uma frequência diária, semanal, quinzenal, mensal termina nunca, termina depois de [PESSOA] vezes, termina em, entendeu? Basicamente, o que a gente fez ali, manual, eu consigo criar um planejamento ali de recorrência para poder enviar esse e-mail.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Essa recorrência é o envio do e-mail ou não? Porque, como eu te falei, uma impressão diária, tipo, o cara todo dia às sete da manhã vai fazer, né? Não precisa fazer essa recorrência, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4647,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É preciso, se você quiser que ele receba todo dia, você vai criar aqui uma recorrência diária, tá vendo?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4909,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, mas eu digo, eu não preciso notificar, eu não quero notificar o cara primeiro, ele tem que, todo dia ele tem que fazer o checklist diário, por exemplo. É preciso criar uma recorrência igual?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4007,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Você precisa criar uma recorrência para ele poder receber, senão ele não vai receber, senão você vai ter que vir aqui todo dia e fazer, e disparar para ele, entendeu?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4975,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então, na verdade, cada checklist ele gera uma nova tarefa, então. Então a recorrência ele cria uma tarefa, então não é um formulário estático que todo dia eu vou lá e preencho ele.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, não, cada disparo que eu fiz ali no novo checklist ele tem um número único, tá vendo? Então a gente vai gerando aqui um número, até mesmo pra você ter uma consistência, porque cada checklist aqui é referente a um dia, né? Hoje deu ok, [LOCAL] pode ser que não.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4246,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA], pensei que hoje... Fora que, antes de entender aqui na prática, a visão que eu tinha dele era o seguinte, beleza, eu criei o checklist, vou lá no aplicativo, no checklist lá em pilhadeira, vou entrar nele, vai ter as perguntas, vou responder. Então, toda a resposta que eu fizesse, uma de novo. Então, o dia, data, hora, enfim. Então, sempre precisa recriar a frequência. Hoje, dia 18, fui lá, fiz a resposta, gravou a resposta. Amanhã de 19, abri o mesmo checklist, sem frequência. Preenchi, gravou de 19, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4851,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É isso aí, dessa forma que ele vai funcionar.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É um pouquinho diferente, entendi. Ele cria recorrência, ele cria o agendamento das tarefas. Mas beleza, é uma forma de trabalhar, entendi.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA]. E tem outras dinâmicas também, né? Aí você pode atrilar isso ao disparo de alguma outra atividade, a gente trabalha com API, enfim. A gente tem várias formas de iniciar o checklist. Eu estou te mostrando as formas que a gente tem aqui dentro de tela, né? Então, a gente está falando aqui do que tem em função.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Show, show.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL]? E aí, depois que a gente dispara o checklist lá para o executor, aí a gente começa aqui a parte do aplicativo. Então, eu vou te dar um exemplo aqui, vou pegar um checklist aqui para você ver como é bem simples. Então, isso aqui é a nossa tela do checklist, eu tenho uma tela onde eu vou ter aqui o início, onde eu consigo, inclusive, criar checklists aqui também, dependendo do meu nível de permissão. Mas, basicamente, o que eu vou te mostrar aqui é como a gente realiza. Geralmente, pelo aplicativo, a gente disponibiliza apenas a função para o executor preencher as informações. Consigo fazer avaliação por aqui também, tem toda a parte de mensagem, onde eu consigo trocar mensagens do aplicativo para o desktop. Então, tem aqui toda a parte de mensagem, tá vendo? eu vou abrindo um checklist aqui, eu posso ir conversando, enfim, eu tenho aqui várias funções, que tem um chat colaborativo e tudo isso aí fica salvo aí no histórico ali do que foi feito dentro do checklist, beleza? Aí na parte do aplicativo, vou voltar aqui para a tela inicial e vou dar um realizar. Quando eu dou um realizar, ele me abre aqui uma lista de checklists aqui que tem pendente para eu poder executar, tá vendo? Isso aqui está pendente aqui para eu poder executar. Vou pegar um desses aqui qualquer, né? [PESSOA] aqui, ele me traz aqui todas as informações do checklist, então ele me traz o número do checklist, o motorista, transportadora, documento, foi criado em, né? E aí ele me traz o nome do checklist. Vou dar um iniciar aqui, vamos ver se ele vai deixar. [LOCAL], deixou. É uma pergunta de data, então vou selecionar uma data, então confirmar. [LOCAL] para a próxima. [EMPRESA] múltipla ou seleção simples. Então, seleciono um dos períodos, dou um próximo. Ele pede aqui a minha assinatura. Vou colocar aqui uma assinatura. [PESSOA] um confirmar. Passei para a próxima. Ele já trouxe aqui a data e hora do início do checklist, mais a data da finalização, certo? E, inclusive, traz aqui a localização também. Se eu for pegar aqui a localização, está aqui na atual despesa, estou hoje aqui na atual despresencial, tá vendo? Então ele é bem preciso nessa parte da localização, tá vendo? E aí eu só finalizo. Quando eu finalizo aqui o checklist, ele transaciona as informações novamente aqui para o desktop, e aí os status aqui que eu tenho, né, que estava pendente de execução, ele vai passar a ter um status ali, né, de finalizado. E aí onde eu consulto essas informações aqui no histórico, tá vendo? Então, no histórico, eu consigo ver aqui os dados dos checklists que estão pendentes, dos que estão com a execução finalizada. E aí, falando aqui de um que está com a execução finalizada, deixa eu até diminuir aqui para ficar melhor, eu consigo visualizar já as respostas que foram aplicadas dentro desse checklist. Então, veja aqui, isso aqui é as informações do checklist, e aqui foram as perguntas e o que foi respondido, está vendo? Então, eu já consigo visualizar em tela, consigo, inclusive, imprimir isso aqui, Tá vendo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: E aí aqui na tela, nas telas aqui que ainda tenho de uso, tem uma tela específica, né, para parte do histórico da não conformidade, então quando algumas das perguntas foram respondidas de forma negativa, né, e aí eu tenho toda a parte não conformidade, o histórico das não conformidades ele fica nessa tela, eu consigo visualizar, né, aqui as não conformidades, inclusive visualizar o que já foi resolvido, o que está pendente e quais foram as tratativas, eu consigo criar um plano, tá vendo, um novo plano de ação, um plano de ação para tratamento dessa não conformidade, então aqui eu defino data-limite, se vai ter uma aprovação automática ou não, e aí eu vou criando aqui tarefas, né, para poder estruturar essa parte da não conformidade, né? Então, onde será feito, quem será feito, data de início, data de fim, quanto vai custar, se tem algum anexo, né? E aí depois eu vou dando um ok ou não ali pra como foi o tratamento daquela não conformidade, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aproveitando, então, o caso do nosso empilhadeiro aí, né? Posso ter duas perguntas, por exemplo, né? combustível lá, né? Então, pensar assim, a pergunta é combustível, né? O cara vai ver assim, ah, não, combustível está embaixo, então eu vou botar como não conformidade. Então, a resposta, a não conformidade de combustível, ela vai acionar um setor, tá? Ou uma pessoa. Agora, outra resposta dos pneus lá, pneu está com avaria, né? Então, eu vou acionar uma outra equipe, eu consigo ter, do mesmo checklist, duas não conformidades para setores diferentes.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Diferentes áreas, sim, você consegue. Porque você cria ali, não sei se você se recorda aqui na pergunta, quando a gente definiu aqui o roteiro. Deixa eu pegar até onde é a pronta aqui. Quando a gente define um roteiro...[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3878,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: A gente diz lá, você vai ter o não, não conformidade, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], e aqui também.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Mas eu não lembro se a gente define quem que é o responsável.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: A gente define sim a área aqui no caso, tá vendo aqui, a localidade.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4397,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aqui é uma escrita de localidade sempre, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], exato. Tá vendo?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA]. Não, tá claro, entendido, hein?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4423,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL]! E aí, eu geralmente fecho aqui, tá? Aqui tem também a tela de avaliação, né? Que é uma tela de continuidade da parte da não conformidade, tá? Aí eu consigo ver aqui, assumir, né? Pra tratar aqui da parte de não conformidade, complementa aquela parte ali do plano, tá? E aí, basicamente, eu sempre fecho aqui mostrando pros nossos clientes os insights, tá? E aí aqui no checklist, o que que é bacana, tá? [LOCAL], eu tenho a parte de inteligência artificial já aplicada, né? Essa bolinha que tá girando aqui é uma inteligência artificial generativa, né? Então ela consegue fazer aqui algumas consultas, né? Especificamente pra essa parte de insights, né? Então... Vamos, checa a via... Vai.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Dar uma olhada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Vou pegar aqui...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tem um aplicativo também para isso, [PESSOA].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5215,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Atualmente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Há um total de 483 checklists pendentes. Aí você fala para o negócio todo. Vou fazer um comparativo em gráficos e barras.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Essa aí, ela é embutida ou ela é paga à parte?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Está dentro dos insights.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Quando eu digo, contratei o checklist, ela vem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], você vai contratar o checklist, contratar os insights, que são esses gráficos aqui que eu estou te mostrando.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5038,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ah, os insights são comercializados à parte.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Está junto ali no pacote, a gente sempre oferece tudo junto, tá? Mesmo que não faça sentido você só pegar isso aí, você precisa ter visão também da sua operação, tá? Mas se você não quiser, não ter os insights, você pode tirar, tá? Então ele cria, tá vendo? E aí é o gráfico responsível, tá vendo? É bem bacana. Você pode pegar isso aqui, cara, e virar de cabeça para baixo, porque ele vai ter aqui toda a parte relacionada a respostas aqui do que diz respeito à parte dos dados que você tem da sua operação, tá? Então isso aqui é um gráfico gerencial do meu checklist, eu tenho aqui total de checklist finalizados, cancelados, pendentes, quantidade de checklist por executor, por roteiro, por objeto, por localidade, eu consigo ver aqui por data de criação, por data de execução, finalizados os pendentes, pendentes de execução. Então eu tenho aqui uma visão ampla da minha operação de checklist. E aí eu tenho várias outras visões, está vendo? Ele me traz aqui um tático, um pendente. E aí eu vou paginando aqui, claro. Você também tem a possibilidade de criar suas próprias visões, [PESSOA]. Os insights te dão essa opção. Tem um cara aqui de BI.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Manda ele entrar aqui que ele vai conseguir criar as visões dele. Isso aqui são visões mais padrões que nós temos aqui, que foram criadas ao longo do tempo para poder ajudar os nossos clientes. Mas você consegue aqui ter a possibilidade de criar o que você quiser dentro do checklist. [LOCAL]?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Estou à disposição para tirar suas dúvidas. Não sei se ficou claro. Se é isso mesmo que você esperava.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.507,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não, realmente, a ferramenta é o que a gente procura. Aí, então, agora, entendi o funcionamento dela, né? As dúvidas, então, eu fui te atrapalhando no decorrer da tua apresentação, então já tirei também, né, a questão de responsáveis, felicidade, armazenamento, esse tipo de coisa, então... Então, é em nuvem, né? Cloud sem limite de armazenamento, porque a gente vai ter muito checklist com imagem, né? E agora eu entro um pouco em algumas dúvidas técnicas comerciais, tá? Então, eu tinha uma proposta Aí o [PESSOA] vai me ajudar. Que eu tinha um pacotinho tipo de 300 checklists mesmo. Quando a gente fala em 300, [PESSOA], a gente fala em 300 perguntas lá, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: 300 roteiros, na verdade. 300 roteiros utilizados, né?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então, aí que tá... Preciso sanar bem isso aí. Então, quando a gente fala em 300, você tá ok? 300 roteiros inspecionados, 300 respostas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.505,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Preenchidos, preenchidos.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então, eu não tenho limite de perguntas, vamos pensar assim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.445,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Você criou um roteiro, certo? E aí você mandou para um executor, o executor preencheu essas perguntas e finalizou o processo todo, aí contabiliza. Você usou um checklist, beleza?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá, então vamos lá. É que eu tinha uma informação que não tinha um limite de perguntas, então eu não tenho limite de perguntas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: No roteiro para você criar?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5518,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso, eu posso ter, então... Você pode criar várias perguntas lá. Então posso ter um roteiro com 100 perguntas, vamos pensar assim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5014,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Eu acredito que sim, eu preciso olhar lá tecnicamente, mas... Não pode.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4128,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: As perguntas tu vai perguntar, por exemplo, sei lá, da empilhadeira, pneu, banco, cor...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5394,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não tem limite, não tem limite.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tem um limite técnico lá, deve ter.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Essa maquia com as perguntas. Mas não é por isso que é cobrado, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4991,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então posso também ter N roteiros, N checklists.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: N roteiros, N usuários.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então eu tenho 300 respostas diferentes. Posso ter lá 15 checklists diferentes e esse pacotinho me dá direito a responder 300 respostas. Vamos pensar assim, é isso. Isso é puro checklist respondido. Essa é a comercialização dele.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso. Aqui tinha uma informação diferente. Então, beleza. Eu tenho um valor aqui de 400 e poucos pilas por mês para 300 respostas de quantos roteiros eu quiser e quantas perguntas eu quiser.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: A gente pode prestigiar esse valor aí, foi o [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, eu passei uma simulação.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Só para ter uma ideia de valor, a gente pediu lá na [LOCAL]. E quando a gente fala em site, não estaria aqui no meio? Provavelmente sim e não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Eu não sei o que deu. Pode passar.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4487,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aqui é bem cabelado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tem que validar essa questão do Insight, até que eu realmente não sabia. Mas se a gente valida aqui, eu valido com o [PESSOA] aqui na sequência e daí eu já te confiro.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4862,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá, então só para me repassar a informação inteira. Eu não tenho limite de usuários, de perguntas e de checklists. O que eu tenho limite são de respostas armazenadas, vamos pensar assim, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É check list respondidos, que é o que vai consumir, o que consome seus pacotes.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tem um check list de 10 perguntas, respondidas 10, é uma resposta, né? É um check list respondido, tem até 300. Simulação de até 300 respostas e check list. [LOCAL], então sem limite de aplicativos, o aplicativo não é cobrado à parte também, ele é grátis, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Isso, exato. Tá dentro do pacote, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Dentro do pacote o aplicativo.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá armazenado em nuvem, localidade... [LOCAL], então agora realmente seria mais comercial, [PESSOA] e [LOCAL] juntos, mas enfim, precisaria então levar uma proposta mais concreta agora para o eleno, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Mas daí a gente manteria essas 300?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Quais são os níveis de pacote? Só para eu entender.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: São 300, 700, 1.000? Quanto mais se você comprar, mais barato fica, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Porque a gente colocou uma estimativa de 1 por dia, né? Pensando na empilhadeira ali, 30 vezes o déficit acrílico. Vamos fazer 300 e 700 ali para fazer essa simulação para mim com os insights, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: E também aproveitando, né, ter uma adesão lá, ver se seria dentro dessa adesão, né? Eu teria que levar uma proposta já, tipo, meio que final assim, né? Olha, o pessoal chega nesse nível de custo, enfim, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Deixa eu só te passar também. Tanta parte de adesão, como configuração, ativação de tudo aí, vocês entrando naquele programa do [EMPRESA] já vai estar incluso, tá? Sim.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Mas eu ressalto isso, mas eu vou...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4205,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Eu vou separar, eu vou separar para ter mais uma informação adicional aí.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Até porque, conforme a gente viu ali no manual, ele é... Ele é rápido de se implementar, né? Tipo, ele é bem intuitivo, né, que eu quero dizer, né? Ele...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É, uma semana, geralmente, é o tempo de implementação, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Mas veio, então, essa questão, então, teria que ter um valor... Tem valor de.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Serviço de implementação, tá? A proposta contempla implantação, licenciamento e adesão.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então, precisaria desses valores compilados, né? O melhor valor possível, né? para a gente já levar a proposta final, sem bate e volta. Tipo, realmente, o melhor valor que eu chegaria é esse ponto. Eu nem vou te retrucar dizendo, ah, me concede um desconto. Eu já vou levar como se fosse proposta final, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: E fique intuitivo, rápido, o que a gente precisa ali. E realmente, né? O cloud melhora ainda, fique offline, se o cara não tem sinal lá, vai se questionar no meio do mato, volta depois e descarrega. Então, o próximo é o que a gente precisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5481,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], agora eu vou fazer uma pergunta, porque de fato eu nunca comercializei ainda esse checklist. Enfim, até pelo meu tempo de totos aqui, que não é muito grande. Além da implementação, tem alguma outra taxa de integração com o DataSue ou alguma outra questão assim?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, a gente não falou de integração, né? A gente só precisa entender se vai ter alguma integração, porque eu tô considerando que eles vão usar o checklist ali à parte, né? Mas hoje a gente tem clientes que utilizam integrado, aí só precisa realmente entender se vai ter a necessidade dessas integrações, aí a gente tem que considerar isso no projeto também, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Mas eu vejo que aí a gente trabalharia com pontuais, APIs, né? Como tu comentou, no decorrer a gente trabalha...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4994,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], API, envio e consumo, exato. Aí eu preciso de uma informação que tem no checklist, você vai lá e busca, consome API lá e ele vai retornar para você os dados.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso, vou ter lá, consumo de combustível baixo, eu quero que já que hora de gera e uma hora de compra automática. A gente sabe que é uma integração à parte, um consumo de API, daí é uma customização paralela, mas não consideraria nesse momento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Hoje você está considerando padrão, então implementação padrão sem integração com o [LOCAL], né?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sei que se tiver integração tem custo para cada uma que a gente vier a sondar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, por isso, enfim, eu levantei porque daqui a pouco tu vai fazer alguma correlação com alguma coisa ou para startar já alguma compra ou até mesmo já para alguma questão de depreciação, não sei, alguma coisa que eu pensei.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu vivi muito numa integração, seria gerar uma ordem de manutenção, pensar assim, porque eu estou fazendo checklist de inspeção, mas eu vi que a própria ferramenta já tem algumas alternativas, disparo de e-mail, já gera plano de ação, então eu poderia trabalhar puramente nela.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Pode, mas você também pode, dá para você, por exemplo, chamar uma API lá de criação do checklist também, tá? E aí, por exemplo, como você falou, lá no [LOCAL] tem, por exemplo, um passo que é a manutenção. Aí eu crio uma regra de negócio lá de quando automaticamente se parar essa ação, eu venho aqui e dou uma ordem aqui dentro da API para poder criar um checklist. Aí, no caso, toda essa construção tem que ser do teu lado. A gente vai disponibilizar para vocês a API, tá aqui a API. Basicamente, o que você vai precisar de campo para preencher para poder criar um checklist aqui dentro da ferramenta é isso aqui.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA], mas ela consome, ao contrário, também ela consome?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Consumir no caso do? só para poder...[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5984,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não vai ser o caso, mas agora que a gente falou, só viajando aqui, imagina que eu tenho lá uma não conformidade, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então se a não conformidade for por falta de combustível, já criar uma ordem de compra não das ações, entendeu? Vai ter um consumo ao contrário, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não sei, preciso confirmar com o pessoal, acho que é mais ela receber mesmo, tá?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, a geração, né? Ou uma resposta, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Acho que é mais fácil. Pelo que eu me recordo do pessoal, das reuniões que eu tive com o produto, Se você quiser fazer essa avaliação, você que vai ter que consultar aqui a API, a gente vai estar disponível. Está aqui, tudo que tem não conformidade.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Vai lá e olha, e você varre lá o banco, varre a API e vê o que tem que está dentro do critério que você precisa para você poder consumir.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5625,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Você entendeu, eu vou fazer o inverso. Ah, beleza, entendi. Nesse momento, realmente, a gente não faria, tem que ter a possibilidade, mas a gente não faria uso agora.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3358,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL]. É mais fácil ainda, a gente pega a integração padrão.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então precisaria realmente dessa visão de valor agora. Vamos usar essa métrica de 300, talvez uns 700, só para a gente ter uma ideia de salto, quanto mais, realmente diminui bastante. Mas no primeiro momento, 300 respostas, ali já dá para a gente sair com bastante coisa implementada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. [LOCAL] então, [PESSOA]. Agora o tema de casa está comigo aqui. Deixa eu só fazer uma revisão aqui e daí eu te mando essa proposta.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode encaminhar direto pra mim, pro [PESSOA], como tu tem aquele e-mail lá. Pode disparar pros dois ao mesmo tempo. Depois aí eu já explico pra ele alguns detalhes que eu já anotei aqui, pontuei aqui no meu caderno aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4782,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Show, gente. Obrigado pela disponibilidade, mas entendido e realmente a ferramenta é bem legal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4262,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Show. [PESSOA], cara. Tamo junto, viu? Um abraço. Prazer te conhecer, [PESSOA].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Prazer aí cara, vamos falando tá, valeu gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, valeu também, bom dia, obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3583,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA], deixa eu te perguntar, isso aí o [EMPRESA] monta essa proposta ali, tem que pedir pro [EMPRESA] fazer alguma simulação pra mim?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id_reuniao": "1281453",
+  "codt": "TFEG26",
+  "data_reuniao": "2026-03-24 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "AGROINDUSTRIA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 1]: É o Denis, que é o cliente do Ricardo. O que é? Eu falei também que a gente está na sala, mas é bom que você fala aí, [PESSOA]. E aí E aí E aí E aí E aí Ele pediu para participar. Oi, Luisa. [EMPRESA] um para ele aqui, tá? Ele tá entrando já, tá, [PESSOA]?\n[LOCUTOR 2]: Tá bom.\n[LOCUTOR 1]: E aí E aí E aí E aí Ele falou que já vai entrar já. Ele está terminando um negocinho ali.\n[LOCUTOR 2]: O Ricardo não vai entrar?\n[LOCUTOR 1]: É verdade, né? Eu coloquei ele na agenda. Se não me engano, ele colocou sim. É, ele colocou que sim, tinha que entrar.\n[LOCUTOR 2]: Mandei um WhatsApp pra ele.\n[LOCUTOR 1]: Tá bom.",
+  "texto_filtrado": "[LOCUTOR 1]: É o Denis, que é o cliente do Ricardo. O que é? Eu falei também que a gente está na sala, mas é bom que você fala aí, [PESSOA]. E aí E aí E aí E aí E aí Ele pediu para participar. Oi, Luisa. [EMPRESA] um para ele aqui, tá? Ele tá entrando já, tá, [PESSOA]?\n[LOCUTOR 1]: E aí E aí E aí E aí Ele falou que já vai entrar já. Ele está terminando um negocinho ali.\n[LOCUTOR 2]: Mandei um WhatsApp pra ele.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:27.078219+00:00",
+    "total_linhas": 7,
+    "linhas_mantidas": 3,
+    "linhas_removidas": 4,
+    "percentual_mantido": 42.86,
+    "confianca_media": 0.415
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: É o Denis, que é o cliente do Ricardo. O que é? Eu falei também que a gente está na sala, mas é bom que você fala aí, [PESSOA]. E aí E aí E aí E aí E aí Ele pediu para participar. Oi, Luisa. [EMPRESA] um para ele aqui, tá? Ele tá entrando já, tá, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: E aí E aí E aí E aí Ele falou que já vai entrar já. Ele está terminando um negocinho ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: O Ricardo não vai entrar?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É verdade, né? Eu coloquei ele na agenda. Se não me engano, ele colocou sim. É, ele colocou que sim, tinha que entrar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4075,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Mandei um WhatsApp pra ele.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    }
+  ]
+}

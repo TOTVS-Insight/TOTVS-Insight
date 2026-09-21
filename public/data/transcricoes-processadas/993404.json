@@ -1,0 +1,1717 @@
+{
+  "id_reuniao": "993404",
+  "codt": "TFDPBV",
+  "data_reuniao": "2026-02-04 17:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAO PAULO",
+  "segmento": "SERVICOS",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 21]: Quantos graus está aí?\n[LOCUTOR 8]: Ah, não faço nem ideia, mas deve estar um pouquinho mais, porque a gente está sem energia aqui,\n[LOCUTOR 10]: e aí\n[LOCUTOR 8]: com\n[LOCUTOR 10]: o gerador\n[LOCUTOR 8]: ligado, ele está projetado para manter uma estrutura de 2007, mas estamos em 2026, então algumas áreas do condicionado estão desligadas nesse momento, inclusive a nossa, mas está 31°C agora.\n[LOCUTOR 21]: É, mais ou menos o que está aqui, mas o dia que a gente foi aí também\n[LOCUTOR 8]: estava\n[LOCUTOR 21]: muito quente,\n[LOCUTOR 10]: né?\n[LOCUTOR 8]: É, mas a rede externa a gente mantém os ares ligados, né? Tudo tranquilo. O problema só é o gerador, que foi projetado por um tamanho de empresa, né? E hoje a gente cresceu. E é um investimento considerável pra tu fazer, né?\n[LOCUTOR 21]: E\n[LOCUTOR 8]: a gente não tem queda de energia assim com tanta frequência. É que a Equatorial tá fazendo uma manutenção aqui, bem no transformador que entrega a rede pra nós\n[LOCUTOR 10]: aqui.\n[LOCUTOR 21]: Fala,\n[LOCUTOR 8]: [PESSOA]. Boa tarde,\n[LOCUTOR 21]: tudo bem?\n[LOCUTOR 10]: Tudo bem? Boa tarde, não quis interromper o papo. Tudo bem,\n[LOCUTOR 8]: [PESSOA]? Tudo certo.\n[LOCUTOR 27]: Entrou\n[LOCUTOR 10]: aqui o senhor [PESSOA], que vai também participar desta fase de análise das\n[LOCUTOR 21]: integrações. Fala, [LOCAL].\n[LOCUTOR 27]: Tudo bem?\n[LOCUTOR 8]: Tudo bueno.\n[LOCUTOR 10]: Eu entrei meio na corrida aqui, deixa eu abrir o material. O que nós temos? Tu botou no ticket, né, [PESSOA]?\n[LOCUTOR 21]: Isso.\n[LOCUTOR 27]: Tá,\n[LOCUTOR 10]: beleza.\n[LOCUTOR 8]: Aquele deverzinho de casa que eu fiquei, infelizmente a [LOCAL] ainda não me entregou,\n[LOCUTOR 27]: tá?\n[LOCUTOR 8]: A API\n[LOCUTOR 27]: ali.\n[LOCUTOR 8]: Os outros eu consegui mandar pro [PESSOA] direitinho ali, mas a [LOCAL], até cobrei hoje de novo deles\n[LOCUTOR 27]: lá,\n[LOCUTOR 8]: mas ainda não me\n[LOCUTOR 27]: enviaram,\n[LOCUTOR 8]: tá?\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 27]: tá bom.\n[LOCUTOR 10]: Vamos com o que\n[LOCUTOR 21]: temos. O [PESSOA] tá do time do [LOCAL],\n[LOCUTOR 27]: isso? Sim.\n[LOCUTOR 10]: Ah,\n[LOCUTOR 27]: tá.\n[LOCUTOR 21]: Bom,\n[LOCUTOR 27]: então deixa\n[LOCUTOR 10]: eu contextualizar. O [PESSOA] é o nosso executivo, o [PESSOA] é o representante do nosso futuro cliente da Tele Alarmis, trabalha lá na tecnologia, conhece todo o processo da empresa, Do nosso lado aqui, eu sou do time de engenharia de valores, [LOCAL] e [PESSOA] são do nosso time de entrega, ou seja, eles que vão meter a mão na massa do projeto, vão fazer implantação, capacitação e também as integrações que nós listamos. Bem, eu pedi esse momento para a gente afinar as necessidades, o que sai de um lado, o que entra no outro sistema. Temos uma complexidade para deixar [LOCAL]. Vamos começar o que eu acho que seja mais trivial para nós. É o pipe run, o CRM, onde nós já temos crises, digamos assim. Pode falar,\n[LOCUTOR 8]: [PESSOA]. Só fazer uma observação, tá? Eu estou fazendo o mapa\n[LOCUTOR 10]: aqui.\n[LOCUTOR 8]: Então, a cada 15 minutos, eu tenho que ficar estático aqui, porque está controlando a minha pressão, tá?\n[LOCUTOR 10]: Então,\n[LOCUTOR 8]: se eu ficar estático aqui, não é porque caiu, eu não vou poder nem falar, eu tenho que só manter aqui.\n[LOCUTOR 10]: Esses dias eu, assim, dirigindo...\n[LOCUTOR 8]: É, a pior coisa que tem \n[LOCUTOR 6]: dirigindo, cara. É verdade, mas não tem jeito, tem que fazer. A idade chega, a gente tem que fazer.\n[LOCUTOR 8]: Exatamente.\n[LOCUTOR 10]: Tá bom, [PESSOA], tudo certo. Bem, [LOCAL], [PESSOA], vocês estão aí com as documentações, a [LOCAL] Run? Caso não, eu encaminho aqui a lista de APIs. Espera aí.\n[LOCUTOR 14]: Se puder me encaminhar a lista, eu precisei formatar meu notebook e acabei que ainda não restaurei muita coisa. De formato de ontem para hoje.\n[LOCUTOR 10]: Se o [LOCAL] estiver perto de você, eu encaminhei no WhatsApp dele o link do developer.pipe.run.\n[LOCUTOR 14]: Já abri aqui, já consegui visualizar.\n[LOCUTOR 10]: [LOCAL]. Bom, a gente tem sempre algumas decisões, caso não estejam claras, para a gente tomar. Cadastro de leads vai nascer no Pipeline, certo? [PESSOA]? Exatamente. E aí, no Proteus, vai cair apenas o pedido de venda quando gerar uma prospecção com sucesso lá no [LOCAL]. É isso?\n[LOCUTOR 8]: Isso. Essa é a ideia. Ele finaliza a venda lá, deu o ganho, ela tem que ir para o [EMPRESA].\n[LOCUTOR 10]: [PESSOA]. Antes disso, a gente tem algumas questões. Por exemplo, clientes de base de vocês, vocês também fazem prospecções? [PESSOA] também no [LOCAL] para o Proteus?\n[LOCUTOR 8]: Cliente que já está na base, tipo um crossel? [PESSOA]. Sim.\n[LOCUTOR 10]: [LOCAL]. Então, todo cliente cadastrado no Proteus tem que ser integrado com o [LOCAL]?\n[LOCUTOR 8]: Eles têm que estar nos dois, exatamente. Perfeito.\n[LOCUTOR 10]: Além\n[LOCUTOR 8]: de ter um depara, né?\n[LOCUTOR 10]: Sim. Ou seja, um cliente novo nasce no [LOCAL] e vai ser cadastrado como cliente no Proteus. Os clientes antigos da base têm que ser levados para o [LOCAL].\n[LOCUTOR 8]: É hoje eles já estão né mas sim.\n[LOCUTOR 10]: [PESSOA]. Já estão porque já há uma integração com o atual IP, \n[LOCUTOR 2]: isso? Não, eu fiz isso via importação. Eu peguei meu cadastro atual e importei\n[LOCUTOR 10]: no\n[LOCUTOR 8]: CRM.\n[LOCUTOR 10]: Então, a gente faria esse mesmo trabalho de importação ou teria uma API consumindo de lá pra\n[LOCUTOR 8]: cá? Não, pro CRM teoricamente não, porque tu já vai estar com os cadastros lá. Seria mais um depara mesmo, só ter... ter uma conferência. A única questão, até para a gente entender, tá? Hoje, no meu [LOCAL] atual, eu tenho a possibilidade de um cliente, ou de vários clientes, compartilhar o mesmo [EMPRESA], tá? Por exemplo, vou dar um exemplo de como a gente atende listação. Uma prefeitura, aqui de [LOCAL], a gente ganhou a listação da saúde. Eu tenho 202 prédios, 202 endereços distintos\n[LOCUTOR 10]: e\n[LOCUTOR 8]: todos sobre o mesmo [EMPRESA]. Então, está lá o cadastro da [EMPRESA], não sei o que, não sei o que lá, [EMPRESA] tal e endereço tal. Aí a outra OBS vai ser um outro endereço, mas vai continuar com o mesmo [EMPRESA]. Lá no [LOCAL] eu não tenho isso, eu nem consigo. É um [EMPRESA] para o cadastro mãe e os outros todos estão sem [EMPRESA], os outros endereços, os outros cadastros. Mas a gente trata eles a nível de sistema, mesmo que para faturamento seja em cima só do mesmo [EMPRESA], como cadastros distintos, endereços distintos, né?\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 8]: Eu vou gerar uma ordem de serviço para o [LOCAL]. Ela é da [LOCAL] do... A gente até pediu, tá? Mas como é licitação, tem alguns entraves\n[LOCUTOR 10]: ali\n[LOCUTOR 8]: jurídicos, né? Que foi ganho a licitação pelo [EMPRESA] da...\n[LOCUTOR 10]: Parou um pouquinho. [LOCAL].\n[LOCUTOR 8]: Voltamos.\n[LOCUTOR 10]: [LOCAL], vamos\n[LOCUTOR 8]: lá. O HD tá com um bad block aí.\n[LOCUTOR 10]: [LOCUTOR 3]: uma travadinha no setor. É, não, tudo\n[LOCUTOR 8]: certo. Já botaram o apelido aqui de Chaves, porque eu tô com o piripaque\n[LOCUTOR 10]: do Chaves.\n[LOCUTOR 8]: Tá tudo certo. \n[LOCUTOR 17]: aliviado, né,\n[LOCUTOR 8]: [PESSOA]?\n[LOCUTOR 21]: É,\n[LOCUTOR 10]: quando... O apelido, a galera não paga imposto.\n[LOCUTOR 8]: Não, não, e a telealarm tem uma característica interessante. Aqui o bullying é nível hard. A gente não perdoa nada.\n[LOCUTOR 10]: Então é do meu time. A gente segue um código de ética da [EMPRESA] até a gravação acabar.\n[LOCUTOR 8]: A quinta série do [LOCAL] pra Dentro\n[LOCUTOR 10]: ela \n[LOCUTOR 2]: complexa mas\n[LOCUTOR 10]: tá tudo\n[LOCUTOR 8]: certo. Como eu estava dizendo então eu tenho vários cadastros a exemplo da prefeitura com o mesmo [EMPRESA]. Lá no Piper Run não. Até foi um dos dificultadores para fazer a integração, que nem aconteceu. Está em estudo, vamos dizer assim. Está em análise ainda. Por causa disso. Porque eu tive que botar um terceiro parâmetro de depara ali. Então, tipo, nome. Geralmente o nome está igual. O cnpj barra cpf e o endereço. Então, eu tive que criar três... conferências para o [LOCAL], porque no PipeOne, infelizmente, pelo menos o pessoal me explicou que eles não podem ter o mesmo [EMPRESA] cadastrado para mais de um\n[LOCUTOR 10]: cliente.\n[LOCUTOR 8]: Então, a solução que a gente achou na época para esses casos, e são vários, não é só um, como a gente atende muito órgão público, a gente cadastrou sem o [EMPRESA], deixou no principal contrato e deixou lá só os endereços para poder gerar PAA, gerar essas coisas assim.\n[LOCUTOR 10]: Um\n[LOCUTOR 8]: pedido adicional, no caso.\n[LOCUTOR 10]: Vamos ter que fazer algo similar para poder lidar com essa situação. Por exemplo, a [LOCAL] é o único [EMPRESA] para todo o [LOCAL].\n[LOCUTOR 8]: [PESSOA].\n[LOCUTOR 10]: E daí tem em [LOCAL], [LOCAL], [LOCAL], [LOCAL],\n[LOCUTOR 8]: cada\n[LOCUTOR 10]: um é um\n[LOCUTOR 8]: diferente. Tecnicamente, a [LOCAL], todos os endereços da [LOCAL] têm um [EMPRESA]. Mas como eu estava falando antes da pausa, a licitação exige que quem ganhou o [EMPRESA] foi o da prefeitura, o raiz, vamos dizer assim, e a [PESSOA] com seu [EMPRESA] mãe. Então, para fins de geração de nota, por mais que eu fature independente os contratos, tem que ser faturado para aquele [EMPRESA] naquele [EMPRESA]. Tem algumas coisas assim. Essa parte até seria melhor a [PESSOA] estar junto, mas como ela está de férias, depois a gente até pode conversar com ela de novo, para ver como é que estão esses faturamentos hoje. Vamos dizer assim, mas hoje está tudo sendo faturado em cima de vários cadastros, mas com o mesmo [EMPRESA].\n[LOCUTOR 10]: Ok. Bom, fora isso, a gente tem o cadastro de produtos, tabela de preço, cadastro de créditos, falamos, talvez condição de pagamento, que tem que espelhar do [LOCAL] para o [LOCAL],\n[LOCUTOR 8]: certo? Isso. Aí tem uma outra peculiaridade. Vamos lá. O meu [LOCAL] atual, ele trabalha com serviços, produtos e MRR, que tecnicamente é um serviço também. No [LOCAL], eu tenho categorizado duas situações, produto e serviço e MRR.\n[LOCUTOR 10]: Dentro do mesmo contexto, produto e serviço?\n[LOCUTOR 8]: Produto e serviço,\n[LOCUTOR 10]: é.\n[LOCUTOR 8]: Então, o produto e o serviço lá, produto seria produto mesmo, de fato, né? Uma câmera, qualquer coisa. E o serviço é aquele serviço que ele não gera recorrência. E aí depois eu tenho o MRR, que aí ele gera recorrência. No atual, no service, é diferente. Eu tenho o produto, eu tenho os serviços, e o serviço pode gerar ou não recorrência. Aí, dentro de serviço, eu tenho vários serviços. Tem o serviço de monitoramento, que é uma recorrência. Tem o serviço de locação, que é uma recorrência. Lá no Pipeline, ele ficou produto e serviço\n[LOCUTOR 10]: junto\n[LOCUTOR 8]: e MRF.\n[LOCUTOR 10]: [LOCUTOR 7]: falar, [PESSOA].\n[LOCUTOR 14]: Foi citado aí, tabela de preço. Eu dei uma verificada aqui dentro do [LOCAL] e não achei nativamente essa API. Foi feito o\n[LOCUTOR 8]: campo\n[LOCUTOR 14]: customizado, a\n[LOCUTOR 8]: estrutura\n[LOCUTOR 14]: customizada.\n[LOCUTOR 8]: No momento, não tem nada customizado. A gente está batendo junto lá com o pessoal da [LOCAL],\n[LOCUTOR 14]: tá?\n[LOCUTOR 8]: Por isso que eu falei, né, [PESSOA] e [PESSOA], lá naquela primeira conversa, quando estava todo mundo novo lá reunido, de enxergar uma possibilidade do [EMPRESA], tecnicamente, o Piper Wallet, a nossa principal dificuldade na integração está na entrega dos valores que a gente está buscando na API deles. Então, tipo, cadastro de produto, beleza. Cadastro de cliente, beleza. Teve uma peculiaridade ali do mesmo [EMPRESA], mas foi resolvido com um terceiro depara, beleza. Quando a gente chegou no deparo de valores, a gente está tendo dificuldade de fazer essa busca, exatamente por isso que o [PESSOA] falou. Não está vindo o resultado que a gente está solicitando para a API. Então, na hora de montar o orçamento, quando a gente monta, e isso até já está funcionando, 98% tecnicamente, vamos dizer assim, da integração funcionando. Mas quando cai o orçamento lá dentro do meu sistema atual, ele está caindo sem valor. \n[LOCUTOR 11]: não encontrei, [PESSOA], aqui dentro do [LOCAL], estrutura de webhook. Vou citar como que a gente costuma trabalhar quando tem integrações com CRM. A gente costuma, por exemplo, quando o CRM não tem estrutura de tabela de preço, há uma customização base,\n[LOCUTOR 8]: onde\n[LOCUTOR 14]: a gente manda, por exemplo, no campo customizado, uma lista de modal com as tabelas de preço, então o ID, o nome, ID e nome. o cliente verifica se vai ser vinculado à negociação ou ao cadastro do cliente, mesmo o cadastro da empresa. E quando o CRM tem uma estrutura de webhook, a gente consegue chegar a certa etapa e dispara. Quando é integrado ao Proteus, a gente costuma desenvolver um API para fazer esse cálculo. Então a gente pega o ID do produto, a quantidade do produto, porque dentro do [EMPRESA], você consegue ter essas variações, o ID do produto, a quantidade do produto e a tabela de preço, calcula e atualiza a negociação. Esse é o fluxo base quando o CRM não tem a estrutura de tabela de preço e tem a estrutura de webhook.\n[LOCUTOR 8]: Mas eu acho que de webhook sim, porque foi a primeira tentativa de integração,\n[LOCUTOR 14]: tá?\n[LOCUTOR 8]: Perfeito. E aí não deu certo, porque aí não tinha... os dados que voltavam via webhook Tanto que eu recebo ainda os e-mails aqui, porque está rodando ali para fins de teste, né? Com todos os erros, eu sigo recebendo. Mas o webhook foi a primeira tentativa e ela foi muito falha, porque aí sim, a quantidade de dados que retornava era muito pequena,\n[LOCUTOR 14]: entendeu?\n[LOCUTOR 8]: Tanto que quando o orçamento dava ganho no CRM, Ele entrava para o [EMPRESA] e ficava, entre aspas, no limbo, vamos dizer assim. Ele não era direcionado para nenhuma das unidades de negócio.\n[LOCUTOR 14]: [EMPRESA].\n[LOCUTOR 8]: Então, a gente tentou para o [EMPRESA], não conseguiu. E agora, por último, a gente estava pela API deles ali, tá? Mas também... [LOCAL] a minha rede. Voltou a luz,\n[LOCUTOR 10]: acho, então.\n[LOCUTOR 8]: Acho que voltou a luz. Está tendo uma manutenção no transformador aqui do lado. Deu uma queda e voltou, então, acredito. E o gerador baixou a potência, então ele está resfriando. E aí a gente não conseguiu, tá? Pelo webhook e estava tentando pela API. E pela API a gente estava tendo essas dificuldades aí na tabela de preços do produto\n[LOCUTOR 14]: aí, tá?\n[LOCUTOR 8]: Porque eu fiz isso não manual, de uma forma manual, mas via tabela de importação, exportei no [EMPRESA], organizei os dados e importei no CRM, para que o pessoal pudesse gerar as vendas. E aí, o que está acontecendo agora, por exemplo, como isso já tem um período acontecendo, o pessoal dos suprimentos, eles não têm acesso ao CRM, eles fazem atualização de preço conforme eles negociam com o fornecedor. atualiza lá, o orçamento não bate com o valor do CRM com o [EMPRESA], porque eles atualizaram no [EMPRESA] e no CRM, se não vier um e-mail pro [PESSOA] dizendo,\n[LOCUTOR 14]: cara,\n[LOCUTOR 8]: atualiza lá, acaba não acontecendo. E um outro fator que a gente identificou, no meu sistema atual, e eu acho que talvez vocês trabalhem no mesmo formato, por ser modular, né? Por exemplo, eu tenho [LOCAL] [LOCAL] e [LOCAL], tá? Eu posso ter uma política de venda em [LOCAL], uma em [LOCAL] e uma em [LOCAL], que são cenários de valor diferente. Eu posso vender um valor aqui e outro valor lá. Então, os meus serviços hoje, o cadastro de produto é comum entre todas as unidades, tá? Mas de serviços, por exemplo, em [LOCAL], eu tenho serviço de instalação num\n[LOCUTOR 10]: valor,\n[LOCUTOR 8]: em [LOCAL], no outro. E no CRM, eu tenho que duplicar esse cadastro, entendesse? Para poder... Aí, a solução que a gente chegou, para que conseguisse fazer a conversão das informações, para isso andar redondo, seria eu replicar todos os cadastros. Duplicar, triplicar. No caso, se eu tiver 5 unidades, eu teria que fazer 5 vezes o mesmo cadastro de serviço e produto. De [PESSOA] e de\n[LOCUTOR 14]: MRF. É,\n[LOCUTOR 8]: na Piper,\n[LOCUTOR 14]: então, hoje não tem um filtro, por exemplo, você não consegue isso. Eu estou citando o exemplo que é o de outros CRMs,\n[LOCUTOR 8]: exemplo,\n[LOCUTOR 14]: o [LOCAL], onde a gente cria um funil, por exemplo, pode ser criado um funil para cada uma dessas unidades, você consegue atribuir o produto, a gente identifica com base em cada funil e busca e vincula esse funil a uma filial no Proteus, por exemplo. Então, você tem uma conta com vários funis, com pessoas específicas desses funis, a gente identifica essa estrutura dentro do [EMPRESA].\n[LOCUTOR 8]: É, não sei como é que funciona o RD Station, mas o que eu entendi deles, e a gente não conseguiu evoluir no PiperOne por causa disso. Lá no PiperOne, eu não tenho uma estrutura que nem no [EMPRESA], vamos dizer assim, de, por exemplo, a telealarme é a unidade de serviço, né? Então, eu tenho as minhas três unidades hoje, né? Meus três [PESSOA]. Eles são unidades de serviço. Mas a [LOCAL] também pode ser um cliente da própria [LOCAL]. Então, eu vou ter um cadastro de cliente, mas eu tenho uma unidade de serviço. Lá, eu tenho um cadastro único. Lá, a [LOCAL] não entra como unidade ou como empresa. Ela entra como empresa. Então, eu só consigo cadastrar uma vez a [LOCAL] com o mesmo [EMPRESA]. E ela não serve como filtro, como tu disse, entendeu? Tipo, eu não consigo definir. Eu posso criar vários funis, definir produtos e vincular funis. Mas, tipo, eu não tenho um parâmetro de grupo, vamos dizer assim. Tipo, ah, esse funil aqui pertence à telealarme de [LOCAL]. Esse funil pertence à telealarme de [LOCAL]. O que eles têm é o que eles chamam de marca. E aí entra essa função de cadastro. Se eu tivesse cinco... Eu tenho cinco unidades, na realidade, né? quintuplicar, vamos dizer assim, todos os cadastros e associar cada produto à marca. Então, por exemplo, eu teria a câmera 12-20 da [EMPRESA], eu teria cinco cadastros delas e cada câmera associada a uma marca para aí sim poder associar o funil lá e a marca independente de cada [EMPRESA]. Não me perguntem como, mas eu não consigo entender esse [LOCAL] até hoje, para mim ele ainda é um probleminha, tá? Eu estou desdobrando aqui para tentar fazer as coisas acontecerem. Inclusive, agora, a gente está colocando a unidade de rastreamento para dentro do CRM. Então, eu fiz isso segunda-feira passada. Botei os usuários, tudo. E eu vou ter que fazer a importação\n[LOCUTOR 10]: de\n[LOCUTOR 8]: produtos. E [LOCAL] e [LOCAL], exemplo do [LOCAL]. O [LOCAL] vende tudo igual. [LOCAL] e Condomínio é praticamente a mesma coisa. O produto que eu vendo aqui, eu vendo nas outras unidades. Mas o rastreamento tem algumas peculiaridades. [LOCAL] vende alguns produtos que em [LOCAL] não vende. [LOCAL] optou pela [EMPRESA], vamos\n[LOCUTOR 10]: dar um exemplo,\n[LOCUTOR 8]: e [LOCAL] optou pela [PESSOA], na questão de câmera veicular. Então, tipo, são coisas distintas. E aí eu vou ter que criar coisas distintas dentro do sistema e associar coisas distintas. Ele não tem associação, entendeu? Não sei se estou conseguindo me fazer expressar, mas como eu não conheço a estrutura de fato, eu conheço o [LOCAL] e os outros softwares, mas o CRM eu não tenho acesso à estrutura. Os outros eu tive o banco de dados aqui, então eu tenho um pouco mais de noção, mas o CRM não, então eu fico um pouco mais restrito. Até pensando assim, numa evolução, vamos pensar num futuro, evoluímos com a [EMPRESA], fechamos\n[LOCUTOR 10]: com\n[LOCUTOR 8]: a [EMPRESA], tudo certo. Eu acho, acho não, tenho plena certeza que a gente teria que fazer uma reunião com os desenvolvedores deles lá para entender aonde vocês conseguiriam implantar ou Nesse processo aí, a gente define algo diferente, né? Sentar com a direção aqui e dizer, cara, olha, encontramos dificuldades de fato, assim como vocês já estão encontrando para fazer a integração, e aí partir para uma ideia de troca de CRM, porque hoje vocês são integrados com... Fora o RD Station, você tem algum outro CRM integrado, não?\n[LOCUTOR 10]: A gente integra com diversos CRMs ao longo das décadas de uso do Proteus,\n[LOCUTOR 8]: né? [LOCAL].\n[LOCUTOR 10]: Então, assim, nativo TOTUS é o nosso carro-chefe RD Station.\n[LOCUTOR 8]: Sim.\n[LOCUTOR 10]: Se a gente for pensar\n[LOCUTOR 8]: em\n[LOCUTOR 10]: trocar\n[LOCUTOR 8]: de... Se\n[LOCUTOR 10]: a gente for pensar em trocar o CRM, a TOTUS vai sempre indicar os recursos TOTUS. Mas nós não estamos sozinhos no mercado. Em muitos projetos, a gente integra com qualquer CRM de mercado. Tendo um API daqui, um API dali, consome daqui, consome dali, a gente consegue integrar. [PESSOA], tu tens alguma? Acho que ligou lá o negocinho. Bom, depois, [PESSOA], se tu tiver alguma consideração ainda em função do [LOCAL] Run, beleza, senão a gente evolui para outro.\n[LOCUTOR 14]: Ao meu ver, do [LOCAL] Run, em si, são esses pontos.\n[LOCUTOR 10]: [LOCAL].\n[LOCUTOR 14]: São pontos cruciais.\n[LOCUTOR 10]: Beleza. O outro ponto que nós temos aqui\n[LOCUTOR 8]: Se tu não te importar, [PESSOA], passa para o [PESSOA] essas situações que tu apontou aí, para ele me encaminhar aqui, como eu estou com\n[LOCUTOR 10]: alguns\n[LOCUTOR 8]: contatos ali já com o pessoal do desenvolvimento deles ali, em função disso, para me pontuar para eles, entendeu? Cara, eu estou num momento, eu tenho um trimestre para decidir uma troca e eu tenho que entender se vocês vão poder continuar com a gente ou não. Então, eu tenho que passar isso para eles também, porque A gente optou, não, foi uma opção lá, a consultoria trouxe, como eu falei lá na reunião, trouxe o CRM pra nós na época, tá, tudo certo. E eu acho que não se pensou muito nesses pequenos detalhes, né? Então, hoje,\n[LOCUTOR 21]: já que\n[LOCUTOR 8]: eu tô fazendo toda uma análise, fazendo toda uma estruturação, eu vou ter que pensar em todos os detalhes pra não passar dois anos integrando,\n[LOCUTOR 21]: né?\n[LOCUTOR 8]: [LOCUTOR 1]: é isso. Até aproveitando, esse mês eu converso com o [PESSOA], ele falou que toca de férias, e a gente vai fazer novamente a apresentação do CRM pra ele, possivelmente ele vai fechar pra parte do rastreio, acho que vai ser bom vocês fazerem esse depar aí do CRM. Mas claro que pode ser num segundo momento, né, [PESSOA], pra gente focar no [EMPRESA], mas a gente tá vendo aí que já tem algumas barreiras. Mas isso aí acho que é algo que é tranquilo pra nós resolver.\n[LOCUTOR 10]: O [PESSOA] tá com uma bomba de canhão apontada pra alguns lados, porque se fecha conosco e daqui a pouco troca de sistema, a gente já tá num projeto de integração. Então teria que pagar duas vezes uma integração.\n[LOCUTOR 8]: Exatamente.\n[LOCUTOR 10]: Ou ele quer tomar uma decisão antes de ter\n[LOCUTOR 8]: que... É, é que, tipo, pra que vocês entendam em qual situação eu tô. É como tu disse, eu tô literalmente caminhando num campo minado no momento. Porque a presidência me exige algumas atualizações em termos de [EMPRESA]. O seu [PESSOA] tava ali na reunião aí, os guris acompanharam, tá? e ele tem expectativas, até ele tá indo pro [LOCAL] amanhã, eu queria fazer uma reunião com ele antes e não consegui, ele vai tirar uns dias lá no [LOCAL], tá? Mas no retorno dele eu já pedi pra ele e pro [PESSOA] tirarem um tempo comigo pra gente pontuar algumas coisas, até porque ele tem expectativas e eu preciso colocar essas expectativas pra vocês também, em termos de relatórios e BI's que ele falou lá, porque tem um conselho acima que tá por trás disso. Então a gente tem que ter as entregas lá pra eles lá, O meu lado, eu vou pensar a questão de empresa como todo telealarme, pensando no que é uma troca de sistema. Já passei por isso mais de uma vez aqui. E, como vocês sabem, vai ter rejeição de um lado e vai ter apoio do outro. Então, eu tenho que entender aonde que a gente vai encaixar todas essas pecinhas aí para tomar essa decisão. Porque, tipo, não tem como eu simplesmente olhar e dizer, não, cara, para mim, vamos fazer aqui e deu, entendeu? Se não, porque eu estou dando um tiro no pé, dá telealarme, inclusive, do [PESSOA], né? Então, eu não posso fazer\n[LOCUTOR 10]: isso.\n[LOCUTOR 8]: Então, eu preciso ter isso tudo bem desenhado, bem alinhado para que eu entenda que, tipo, ah, realmente, tomamos a melhor decisão, temos esse desafio, temos uma ideia do desafio, que eu acho que o principal fator é esse, eu ter noção de que isso vai acontecer dentro de um período ou de [PESSOA] tempo, ou isso aconteça em etapas definidas, para entender. Porque eu estava conversando com outro parceiro do segmento, e ele me colocou, eles estavam com o service, para vocês entenderem, e resolveu trocar. Ele não lembra qual foi o software, mas não foi da [EMPRESA]. Eu sei que foi uma outra solução. E os caras ficaram seis meses na outra solução e tiveram que retornar para a Inside, de volta para o próprio serviço, porque não conseguiram. Eles não conseguiram resolver a questão de faturamento, de começar a perder cliente, começar a ter problema no atendimento. E, cara, no atual momento, eu não posso. Eu já tive uma perda de receita considerável em 2024 por uma situação específica de um cliente que deixou de ser órgão público e passou a ser privado. Então, toda a minha atenção está em investimento e em solução. Eu tenho que fazer essas duas coisas casarem.\n[LOCUTOR 10]: Tá certo. Da nossa parte, está bem entendido. Eu costumo dizer que nessa jornada que nós temos de implantações, quem opta pela [EMPRESA] normalmente é o último [EMPRESA] que escolhe, porque é uma decisão estratégica e é uma empresa que suporta crescimento, suporta outros negócios dentro da mesma\n[LOCUTOR 8]: ferramenta.\n[LOCUTOR 10]: Bem, vamos lá. Eu tenho aqui a documentação do [EMPRESA],\n[LOCUTOR 8]: certo? [PESSOA].\n[LOCUTOR 10]: Então, eu passei para o [LOCAL]. [LOCAL], você já passou para o [PESSOA]? O [LOCAL] está perto aí, [PESSOA]?\n[LOCUTOR 14]: O [LOCAL] está presencial na TOTUS\n[LOCUTOR 10]: e eu estou em\n[LOCUTOR 14]: [EMPRESA]. Estou procurando a documentação aqui da [EMPRESA].\n[LOCUTOR 10]: Pode ficar tranquilo. Então, eu vou fazer o seguinte. Eu vou colar aqui. \n[LOCUTOR 4]: [EMPRESA], só para vocês entenderem, é uma parceria já bem antiga nossa. É o nosso primeiro software que a gente... adquiriu para a área de rastreamento, e aí sim, eu tenho o [LOCAL] deles lá, é parceirão meu aqui, já de longa data, se eu chamar ele domingo de noite para nós resolvermos o problema,\n[LOCUTOR 10]: tá...\n[LOCUTOR 8]: Eu vejo assim como uma coisa mais tranquila, tá? A gente não conseguiu fazer com a Inside lá, eu acho que não vou me atentar a detalhes, porque o O [PESSOA], o [PESSOA] não, desculpa, o [PESSOA] é quem tinha tomado frente dessa possibilidade lá de integração e o próprio pessoal da [EMPRESA] fazia contato comigo quando necessário pra fazer alguns ajustes, mas aí eu não sei no que que eles travaram pra evoluir, tá? Mas, cara, eles são bem tranquilos, então eu acho que Esse aí eu enxergo como o menor problema. Se tiver alguma dificuldade, eu já consigo apontar para eles lá e eles já podem trabalhar em cima.\n[LOCUTOR 10]: Vamos fazer o seguinte. [PESSOA] brevemente o que faz os [LOCAL]. A gente já conversou sobre placa de veículos. A cada novo veículo controlado na frota do cliente tem que ter essa inclusão dentro do contrato. Fala um pouquinho para a gente entender.\n[LOCUTOR 8]: O [EMPRESA] é a plataforma de rastreamento veicular que a gente usa, tá? Então, hoje, como é que ele funciona lá? Ele tem, dentro da plataforma, um cadastro de cliente, tá? E cada cadastro de cliente tem um número de cadastro de placa, tá? Então, dentro desses cadastros de placas, eu vou ter lá algumas informações, tipo o ID do equipamento, o SSID do chip, e essas informações,\n[LOCUTOR 10]: Estamos...\n[LOCUTOR 8]: Voltamos. Onde eu estava? Na questão de integração, de necessidade, o que eu preciso que ambos conversem? Principalmente a parte cadastral, essa parte de cadastro do cliente e de placas. Hoje, dentro da plataforma de [LOCAL] que a gente usa, eles têm um negócio chamado gestão de\n[LOCUTOR 10]: risco.\n[LOCUTOR 8]: Essa gestão de risco é uma gestão mais específica em cima dessa parte do rastreamento. O que acontece? Os clientes de alarme não têm esse tipo de... o volume de informações. Tu cadastra lá o cara, o endereço, o [EMPRESA], o valor de faturamento que vai ser cobrado dele e equipamentos que saíram na ordem de serviço de instalação. O rastreamento, ele tem o acréscimo da placa. E a gestão de cliente, ela varia de acordo com o quantitativo de placas. Então, para um cliente eu posso ter 200, posso ter uma. E o faturamento dele vai sendo dividido entre essas placas. Então, eu vou faturar em cima do CPF, do [EMPRESA], o valor [PESSOA], porém, cada veículo tem um valor independente. Tipo, eu cobro 59 reais pelo monitoramento de cada veículo. Se ele tiver 10, é 590 a composição de valor desse cara. Então, é mais ou menos nesse sentido. no sentido que ele funciona. E o que hoje não tem? Hoje eu não tenho esse duplo sentido entre sistemas, que se eu cancelar uma placa no service, eu sou obrigado a entrar no [EMPRESA], na plataforma de rastreamento, e desabilitar aquela placa. Então, eu precisaria que fosse isso. Tipo, eu tenho o cadastro da placa lá do [PESSOA], Quando eu ganho o cliente, entrou e cadastrei 10 placas, o [EMPRESA] vai ter aquele cadastro e esse cadastro vai estar linkando essa informação com as [EMPRESA]. Se eu fizer o processo de cancelamento de uma placa lá, ele desabilita lá nos [EMPRESA]. O contrário, acho que não, porque a gestão está em cima do [EMPRESA]. Então, ele que tem que ter a possibilidade de fazer o cancelamento lá. Mas quando eu ganho o cliente lá, e dou ok dentro do [LOCAL], ele tem que transmitir esses dados para dentro dos [EMPRESA], vamos dizer assim, que é o que não acontece hoje, que é feito manual. Então, eu faço tudo num [LOCAL] e depois eu faço tudo no outro.\n[LOCUTOR 10]: Ok. [PESSOA], alguma questão?\n[LOCUTOR 14]: Estou pensando aqui. Quais módulos do Proteus você está pensando no processo?\n[LOCUTOR 10]: Vamos lá. Até estava vendo isso agora em função do gestão de contratos.\n[LOCUTOR 14]: É isso que eu ia falar, o [EMPRESA].\n[LOCUTOR 10]: [PESSOA], no nosso papo da última vez que a gente afinou ali, nós falamos em compras, estoque financeiro, faturamento, contabilidade fiscal, ativo fixo. Nós teríamos ali dentro, o rental, que é de locações, e o [LOCAL], que é aqueles de leituras,\n[LOCUTOR 8]: de\n[LOCUTOR 10]: conferência, inventário. Nós deixamos, numa segunda onda, o rental e o automação e coleta de dados. Mas está faltando uma perna aqui do contrato. Era essa a pergunta que eu ia fazer, porque eu não estou achando, nas minhas anotações, gestão de contratos. Lembra o que nós falamos da parte de gestão de contratos?\n[LOCUTOR 21]: A gente citou mas acho que a gente não chegou a falar de produto tá [PESSOA].\n[LOCUTOR 10]: Eu não tenho no [LOCAL] aqui o que eu tenho uma anotação tipo. Olha só o que eu escrevi. A parte contábil escrevia que importante dois cadastrinhos com o nome nosso que são item contábil e classe de valor para gestão de receita e despesas do mesmo cliente uma espécie de\n[LOCUTOR 8]: contrato.\n[LOCUTOR 10]: Mas eu estou falando em gestão contabilidade gerencial e não de gestão de contratos, propriamente dito.\n[LOCUTOR 8]: [LOCUTOR 5]: não vejo nenhuma citação, além dessa, de contratos. Entende o que eu quero dizer? Eu não tenho mapeado o módulo de gestão de contratos. [PESSOA]. É, mas a gestão de contratos é feita hoje dentro do sistema.\n[LOCUTOR 10]: [PESSOA], ok. Esse papo estava indo nessa direção, por isso que o [PESSOA] tocou nesse assunto também. Daqui a pouco a gente tem que... Opa, eu dei um passo para trás para botar o gestão de contratos e a gente seguir.\n[LOCUTOR 14]: Exatamente, porque hoje eu estou pensando, como que a gente vai fazer esse controle do novo veículo que entra, por exemplo? Tem que estar vinculado a um contrato, esse contrato tem que ser feito uma baixa, tem que ser o processo de validação, tem toda a estrutura.\n[LOCUTOR 8]: É, hoje, como a gente faz, tá? A gente trata isso como um pedido adicional. Dentro do... Tem um contrato, eu fechei um contrato com o [PESSOA], 10 veículos, beleza. O [PESSOA] passou 30 dias e ele me disse,\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 8]: vendi um dos meus veículos e não tenho intenção de reposição. Bom, eu vou lá e desabilito dentro do gestão de risco esse veículo. e aí reduz automaticamente do teu valor lá, deduz do teu valor aquele veículo. Pronto. Passados dois, três meses, tu resolve colocar ou acrescer a tua frota, eu vou fazer um pedido adicional, vou colocar como um pedido adicional e vou colocar mais um valor de MRR lá dentro, mais uma receita naquele valor que seria mais um veículo. A gente não gera um novo contrato, a gente trabalha como pedido adicional. Por isso que eu digo que existe lá o módulo, vamos dizer assim, gestão de risco. Eu trato o cliente como uma unidade, porém eu faço uma gestão em cima de cada\n[LOCUTOR 10]: veículo. [EMPRESA].\n[LOCUTOR 8]: É como se fossem vários serviços, né?\n[LOCUTOR 14]: Eu tivesse\n[LOCUTOR 8]: adicionado vários\n[LOCUTOR 10]: serviços\n[LOCUTOR 8]: para aquele cliente.\n[LOCUTOR 14]: Eu já estou consultando aqui as APIs deles para ver o que tem disponível. Então, por exemplo, tem para criar cliente, criar frota, adicionar mais carros dentro de um conglomerado, durante uma frota, criar o rastreador, criar o usuário para acesso, criar o veículo, que é o que você comentou, que é a placa, que é onde você coloca os dados do veículo em si. Dentro do veículo, você tem que passar a primeira parte, a id do cliente, a id da frota, o tipo, a placa,\n[LOCUTOR 10]: descrição,\n[LOCUTOR 14]: marca, que aí são os dados do ativo. daquele cliente. Então, isso é o que eu entendi da API\n[LOCUTOR 8]: deles,\n[LOCUTOR 14]: como que a\n[LOCUTOR 8]: gente trataria.\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 8]: Bem,\n[LOCUTOR 10]: o [EMPRESA] é o segundo. Nós temos um terceiro, que é o [EMPRESA], que hoje nós não temos a documentação, certo?\n[LOCUTOR 8]: Isso, eu já cobrei lá para ver se o pessoal me dá um apoio lá para tentar. Entregar essa documentação aí pra gente entender Mas hoje, aquilo que eu falei lá na reunião Hoje, tipo, é semelhante ao rastreamento ali Eu ganho o contrato do cliente, né [PESSOA] lá pro cliente, lá independente de locação ou venda E eu vou ter um monitoramento do alarme ou do controle de acesso No momento que dá ganho lá no contrato, ele tem uma chavezinha que ele aponta para o [EMPRESA] e entrega esse dado\n[LOCUTOR 10]: cadastral. A gente falou sobre abrir uma ordem de serviço no Proteus e mandar para o [EMPRESA].\n[LOCUTOR 8]: Hoje, no sistema atual, ele não depende da ordem de serviço especificamente. Ele depende da finalização do fechamento da venda, vamos dizer assim. Fechou o contrato, deu tudo certo no que a menina vai\n[LOCUTOR 10]: dar,\n[LOCUTOR 8]: deu o ok dentro do sistema do [EMPRESA]. Ela tem um botãozinho lá que é atirar os dados lá para dentro do [EMPRESA]. Então ele cria dentro do [EMPRESA] lá um cadastro. Ele valida a disponibilidade lá do banco de dados, cria. com o ID do próprio [EMPRESA] lá, na sequência do [EMPRESA], o número de chave, ou conta, que a gente chama, que é o identificador desse cliente comum entre os dois sistemas, que é o que vai lá no painel de alarme, o número da conta, é um número alfanumérico lá, de quatro caracteres. Esse cara é colocado manual. Aí a pessoa que faz a consulta lá para validar qual o número que vai ser colocado. Por exemplo, da minha casa é B241, tá? Então, tipo, na hora que cadastraram, fecharam a minha venda lá, ela ativou a comunicação entre os dois sistemas lá para ele criar o cadastro dentro do [EMPRESA] e aí ela bota ali esse número de conta, vamos dizer assim, que a gente chama de chave aqui, né? Então, aí cria lá o cadastro e faz isso. É isso mais ou menos que acontece. Não leva muitas informações. Se eu não me engano, é mais a parte cadastral, mas aí teria que olhar a API. Porque produto a gente não leva pra dentro do sistema, tá? Só a questão de manutenção. A ordem de serviço, sim. Ele cria toda vez que o... que o [EMPRESA] cria uma ordem de serviço, ele faz a busca lá no [EMPRESA] e lança a ordem de serviço lá dentro do sistema deles. E aí tem um referencial lá. A ordem de serviço cria com o número dele, lógico, mas tem um referencial dizendo que ela é a ordem de serviço número tal dentro do [EMPRESA].\n[LOCUTOR 10]: Entendido. Bom, são três integrações e o resto é produto padrão. certo? Eu vou encaminhar os demais, eu não sei se eu já encaminhei, mas eu fiz algumas revisões agora\n[LOCUTOR 8]: aqui,\n[LOCUTOR 10]: que foi encaminhar para o [LOCAL],\n[LOCUTOR 8]: [PESSOA],\n[LOCUTOR 10]: o que eu já tenho coletado e também agora as adaptações que eu fiz durante esse nosso papo.\n[LOCUTOR 8]: Nessa questão do [EMPRESA] com um [EMPRESA], tá? Eu chamo de botões porque literalmente são botões que tu entra no sistema lá e clica lá para ativar, para fazer alguns depara, vamos dizer assim. A parte de cadastro de técnico, ela é feita a partir do [EMPRESA], tá? Ou melhor, desculpa, Ela é feita, hoje, no nosso contexto atual, a partir do [EMPRESA]. Então, eu tenho um botãozinho lá. Eu preciso criar um técnico que vai utilizar o sistema aqui em [LOCAL]. Eu vou ali na unidade [LOCAL] e crio o técnico [PESSOA]. Dou a nomenclatura lá para ele e dentro da unidade de [LOCAL]. Aí, lá no sistema do [EMPRESA], eu entro na unidade [LOCAL] e faço uma verificação. Ele vai lá e consulta a tabela lá do outro sistema e verifica quais os técnicos que estão ativos. Se tem um novo lá, ele automaticamente cria no [EMPRESA]. Aqui, quando ele gerenciar a ordem de serviço e passar as informações e o pessoal poder fazer testes e coisas lá pelo aplicativo, ele consegue colocar a central em manutenção, que é um termo que a gente usa ali do sistema de monitoramento, que é o quê? tu habilita lá um botão que tem no [EMPRESA], tá? A partir do aplicativo do [EMPRESA] ali de execução de ordem de serviço, tu habilita um botão\n[LOCUTOR 10]: lá\n[LOCUTOR 8]: que todo evento que tu passar, tudo que tu fizer de teste lá, não vai entrar na tela de monitoramento, tá? Então, ele consegue consultar os eventos que ele tá fazendo, os testes ali, ele consegue... consultar os dados da conta de monitoramento, tá? Tipo senha, master, instaladora, que são coisas ali. Eu consigo aprofundar mais vocês mostrando ali, mas aí acho que a gente pede as APIs também. Eu pedi tudo isso para a [LOCAL], tá? Tudo que envolve a parte cadastral e tudo que envolve a parte de ordem de serviço, porque a parte de ordem de serviço hoje a gente faz no [EMPRESA], mas ele consegue colocar em manutenção, que é o termo que a gente usa aqui para poder fazer os testes, e ele consegue fazer algumas consultas do [EMPRESA] ali em termos de informação da parte de monitoramento de alarme e controle de acesso. O rastreamento não usa isso, o rastreamento não tem esse tipo de consulta, não fica fazendo, não sei nem se vai ter, vamos dizer assim, não é uma coisa que eles utilizam hoje, mas na área de alarme sim. Então a parte, eu vou dizer assim, que a parte do [EMPRESA], a parte de OS talvez tenha muito mais troca de dados do que a própria parte de cadastro, que ele entrega o cadastro, cria a conta e depois ele parte para essa parte aí. Aí tem o técnico, tem o tipo de ordem de serviço, causa de OS, tudo isso a gente cria tudo dentro do [EMPRESA] e aperta o botãozinho no [EMPRESA] para trazer os dados para dentro do sistema, para fazer o depara.\n[LOCUTOR 10]: Sim. Tá bem? Assim que eles nos mandarem, nos encaminha\n[LOCUTOR 8]: a\n[LOCUTOR 10]: documentação, que daí sempre facilita mais.\n[LOCUTOR 14]: [PESSOA]. Com isso a gente vai analisando os outros dois casos, que já\n[LOCUTOR 10]: tem\n[LOCUTOR 14]: documentação.\n[LOCUTOR 10]: Tá. Já vou mandar agora,\n[LOCUTOR 8]: [PESSOA],\n[LOCUTOR 10]: para o [LOCAL]. Já passa teu e-mail aqui, escreve no nosso chat, que eu já te encaminho também, por favor.\n[LOCUTOR 14]: [LOCAL], já mandei\n[LOCUTOR 10]: no chat. Bom, da nossa parte é isso. Algo mais, [PESSOA]? Fique à vontade.\n[LOCUTOR 8]: Cara, a princípio, acho que se eu me lembrar, eu vou passar para o [PESSOA] ali e se vocês encontrarem alguma coisa nas documentações aí, que vocês também achem necessário entender, me perguntem, porque aí a gente vai trocando informação,\n[LOCUTOR 10]: né? Combinado. Muito obrigado novamente\n[LOCUTOR 14]: pelo\n[LOCUTOR 10]: seu tempo. O\n[LOCUTOR 8]: [PESSOA] tava numa outra reunião que eu tava, né [PESSOA]? Você tava\n[LOCUTOR 14]: num\n[LOCUTOR 8]: evento,\n[LOCUTOR 14]: né? Cara, eu creio que sim.\n[LOCUTOR 8]: É, não, eu me lembro. Não era o [PESSOA], era outra menina que foi uma outra conversa que a gente teve já faz um\n[LOCUTOR 14]: tempinho. Já tem um tempo, já.\n[LOCUTOR 8]: Ah, lembrei,\n[LOCUTOR 14]: um tempo.\n[LOCUTOR 8]: Não, é um rosto conhecido, já vi ele.\n[LOCUTOR 10]: Se acharam, estão no\n[LOCUTOR 8]: mundo aí. Mas tranquilo, qualquer coisa a gente vai trocando informação, vamos conversando, [PESSOA]?\n[LOCUTOR 10]: Tá bom,\n[LOCUTOR 21]: obrigado, cara.\n[LOCUTOR 8]: Eu que\n[LOCUTOR 10]: agradeço.\n[LOCUTOR 21]: [LOCAL], valeu,\n[LOCUTOR 14]: [PESSOA].\n[LOCUTOR 8]: [LOCAL], pessoal. Tchau,\n[LOCUTOR 10]: tchau.\n[LOCUTOR 21]: [LOCAL], pessoal.",
+  "texto_filtrado": "[LOCUTOR 10]: o gerador\n[LOCUTOR 8]: ligado, ele está projetado para manter uma estrutura de 2007, mas estamos em 2026, então algumas áreas do condicionado estão desligadas nesse momento, inclusive a nossa, mas está 31°C agora.\n[LOCUTOR 21]: É, mais ou menos o que está aqui, mas o dia que a gente foi aí também\n[LOCUTOR 8]: estava\n[LOCUTOR 21]: muito quente,\n[LOCUTOR 8]: É, mas a rede externa a gente mantém os ares ligados, né? Tudo tranquilo. O problema só é o gerador, que foi projetado por um tamanho de empresa, né? E hoje a gente cresceu. E é um investimento considerável pra tu fazer, né?\n[LOCUTOR 8]: a gente não tem queda de energia assim com tanta frequência. É que a Equatorial tá fazendo uma manutenção aqui, bem no transformador que entrega a rede pra nós\n[LOCUTOR 10]: aqui.\n[LOCUTOR 21]: Fala,\n[LOCUTOR 27]: Entrou\n[LOCUTOR 10]: aqui o senhor [PESSOA], que vai também participar desta fase de análise das\n[LOCUTOR 21]: integrações. Fala, [LOCAL].\n[LOCUTOR 10]: Eu entrei meio na corrida aqui, deixa eu abrir o material. O que nós temos? Tu botou no ticket, né, [PESSOA]?\n[LOCUTOR 21]: Isso.\n[LOCUTOR 8]: A API\n[LOCUTOR 8]: Os outros eu consegui mandar pro [PESSOA] direitinho ali, mas a [LOCAL], até cobrei hoje de novo deles\n[LOCUTOR 27]: enviaram,\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 10]: Vamos com o que\n[LOCUTOR 21]: temos. O [PESSOA] tá do time do [LOCAL],\n[LOCUTOR 10]: eu contextualizar. O [PESSOA] é o nosso executivo, o [PESSOA] é o representante do nosso futuro cliente da Tele Alarmis, trabalha lá na tecnologia, conhece todo o processo da empresa, Do nosso lado aqui, eu sou do time de engenharia de valores, [LOCAL] e [PESSOA] são do nosso time de entrega, ou seja, eles que vão meter a mão na massa do projeto, vão fazer implantação, capacitação e também as integrações que nós listamos. Bem, eu pedi esse momento para a gente afinar as necessidades, o que sai de um lado, o que entra no outro sistema. Temos uma complexidade para deixar [LOCAL]. Vamos começar o que eu acho que seja mais trivial para nós. É o pipe run, o CRM, onde nós já temos crises, digamos assim. Pode falar,\n[LOCUTOR 8]: [PESSOA]. Só fazer uma observação, tá? Eu estou fazendo o mapa\n[LOCUTOR 10]: aqui.\n[LOCUTOR 10]: Então,\n[LOCUTOR 8]: É, a pior coisa que tem\n[LOCUTOR 8]: Exatamente.\n[LOCUTOR 14]: Se puder me encaminhar a lista, eu precisei formatar meu notebook e acabei que ainda não restaurei muita coisa. De formato de ontem para hoje.\n[LOCUTOR 10]: Se o [LOCAL] estiver perto de você, eu encaminhei no WhatsApp dele o link do developer.pipe.run.\n[LOCUTOR 14]: Já abri aqui, já consegui visualizar.\n[LOCUTOR 10]: [LOCAL]. Bom, a gente tem sempre algumas decisões, caso não estejam claras, para a gente tomar. Cadastro de leads vai nascer no Pipeline, certo? [PESSOA]? Exatamente. E aí, no Proteus, vai cair apenas o pedido de venda quando gerar uma prospecção com sucesso lá no [LOCAL]. É isso?\n[LOCUTOR 8]: Isso. Essa é a ideia. Ele finaliza a venda lá, deu o ganho, ela tem que ir para o [EMPRESA].\n[LOCUTOR 10]: [PESSOA]. Antes disso, a gente tem algumas questões. Por exemplo, clientes de base de vocês, vocês também fazem prospecções? [PESSOA] também no [LOCAL] para o Proteus?\n[LOCUTOR 8]: Cliente que já está na base, tipo um crossel? [PESSOA]. Sim.\n[LOCUTOR 10]: [LOCAL]. Então, todo cliente cadastrado no Proteus tem que ser integrado com o [LOCAL]?\n[LOCUTOR 8]: Eles têm que estar nos dois, exatamente. Perfeito.\n[LOCUTOR 10]: Além\n[LOCUTOR 8]: de ter um depara, né?\n[LOCUTOR 10]: Sim. Ou seja, um cliente novo nasce no [LOCAL] e vai ser cadastrado como cliente no Proteus. Os clientes antigos da base têm que ser levados para o [LOCAL].\n[LOCUTOR 10]: [PESSOA]. Já estão porque já há uma integração com o atual IP,\n[LOCUTOR 2]: isso? Não, eu fiz isso via importação. Eu peguei meu cadastro atual e importei\n[LOCUTOR 8]: CRM.\n[LOCUTOR 10]: Então, a gente faria esse mesmo trabalho de importação ou teria uma API consumindo de lá pra\n[LOCUTOR 8]: cá? Não, pro CRM teoricamente não, porque tu já vai estar com os cadastros lá. Seria mais um depara mesmo, só ter... ter uma conferência. A única questão, até para a gente entender, tá? Hoje, no meu [LOCAL] atual, eu tenho a possibilidade de um cliente, ou de vários clientes, compartilhar o mesmo [EMPRESA], tá? Por exemplo, vou dar um exemplo de como a gente atende listação. Uma prefeitura, aqui de [LOCAL], a gente ganhou a listação da saúde. Eu tenho 202 prédios, 202 endereços distintos\n[LOCUTOR 8]: todos sobre o mesmo [EMPRESA]. Então, está lá o cadastro da [EMPRESA], não sei o que, não sei o que lá, [EMPRESA] tal e endereço tal. Aí a outra OBS vai ser um outro endereço, mas vai continuar com o mesmo [EMPRESA]. Lá no [LOCAL] eu não tenho isso, eu nem consigo. É um [EMPRESA] para o cadastro mãe e os outros todos estão sem [EMPRESA], os outros endereços, os outros cadastros. Mas a gente trata eles a nível de sistema, mesmo que para faturamento seja em cima só do mesmo [EMPRESA], como cadastros distintos, endereços distintos, né?\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 8]: Eu vou gerar uma ordem de serviço para o [LOCAL]. Ela é da [LOCAL] do... A gente até pediu, tá? Mas como é licitação, tem alguns entraves\n[LOCUTOR 8]: jurídicos, né? Que foi ganho a licitação pelo [EMPRESA] da...\n[LOCUTOR 10]: Parou um pouquinho. [LOCAL].\n[LOCUTOR 8]: Voltamos.\n[LOCUTOR 10]: [LOCAL], vamos\n[LOCUTOR 8]: lá. O HD tá com um bad block aí.\n[LOCUTOR 8]: certo. Já botaram o apelido aqui de Chaves, porque eu tô com o piripaque\n[LOCUTOR 10]: do Chaves.\n[LOCUTOR 17]: aliviado, né,\n[LOCUTOR 8]: [PESSOA]?\n[LOCUTOR 8]: Não, não, e a telealarm tem uma característica interessante. Aqui o bullying é nível hard. A gente não perdoa nada.\n[LOCUTOR 10]: Então é do meu time. A gente segue um código de ética da [EMPRESA] até a gravação acabar.\n[LOCUTOR 8]: A quinta série do [LOCAL] pra Dentro\n[LOCUTOR 2]: complexa mas\n[LOCUTOR 8]: certo. Como eu estava dizendo então eu tenho vários cadastros a exemplo da prefeitura com o mesmo [EMPRESA]. Lá no Piper Run não. Até foi um dos dificultadores para fazer a integração, que nem aconteceu. Está em estudo, vamos dizer assim. Está em análise ainda. Por causa disso. Porque eu tive que botar um terceiro parâmetro de depara ali. Então, tipo, nome. Geralmente o nome está igual. O cnpj barra cpf e o endereço. Então, eu tive que criar três... conferências para o [LOCAL], porque no PipeOne, infelizmente, pelo menos o pessoal me explicou que eles não podem ter o mesmo [EMPRESA] cadastrado para mais de um\n[LOCUTOR 10]: cliente.\n[LOCUTOR 8]: Então, a solução que a gente achou na época para esses casos, e são vários, não é só um, como a gente atende muito órgão público, a gente cadastrou sem o [EMPRESA], deixou no principal contrato e deixou lá só os endereços para poder gerar PAA, gerar essas coisas assim.\n[LOCUTOR 8]: pedido adicional, no caso.\n[LOCUTOR 10]: Vamos ter que fazer algo similar para poder lidar com essa situação. Por exemplo, a [LOCAL] é o único [EMPRESA] para todo o [LOCAL].\n[LOCUTOR 8]: [PESSOA].\n[LOCUTOR 10]: E daí tem em [LOCAL], [LOCAL], [LOCAL], [LOCAL],\n[LOCUTOR 8]: cada\n[LOCUTOR 10]: um é um\n[LOCUTOR 8]: diferente. Tecnicamente, a [LOCAL], todos os endereços da [LOCAL] têm um [EMPRESA]. Mas como eu estava falando antes da pausa, a licitação exige que quem ganhou o [EMPRESA] foi o da prefeitura, o raiz, vamos dizer assim, e a [PESSOA] com seu [EMPRESA] mãe. Então, para fins de geração de nota, por mais que eu fature independente os contratos, tem que ser faturado para aquele [EMPRESA] naquele [EMPRESA]. Tem algumas coisas assim. Essa parte até seria melhor a [PESSOA] estar junto, mas como ela está de férias, depois a gente até pode conversar com ela de novo, para ver como é que estão esses faturamentos hoje. Vamos dizer assim, mas hoje está tudo sendo faturado em cima de vários cadastros, mas com o mesmo [EMPRESA].\n[LOCUTOR 10]: Ok. Bom, fora isso, a gente tem o cadastro de produtos, tabela de preço, cadastro de créditos, falamos, talvez condição de pagamento, que tem que espelhar do [LOCAL] para o [LOCAL],\n[LOCUTOR 8]: certo? Isso. Aí tem uma outra peculiaridade. Vamos lá. O meu [LOCAL] atual, ele trabalha com serviços, produtos e MRR, que tecnicamente é um serviço também. No [LOCAL], eu tenho categorizado duas situações, produto e serviço e MRR.\n[LOCUTOR 10]: Dentro do mesmo contexto, produto e serviço?\n[LOCUTOR 8]: Produto e serviço,\n[LOCUTOR 8]: Então, o produto e o serviço lá, produto seria produto mesmo, de fato, né? Uma câmera, qualquer coisa. E o serviço é aquele serviço que ele não gera recorrência. E aí depois eu tenho o MRR, que aí ele gera recorrência. No atual, no service, é diferente. Eu tenho o produto, eu tenho os serviços, e o serviço pode gerar ou não recorrência. Aí, dentro de serviço, eu tenho vários serviços. Tem o serviço de monitoramento, que é uma recorrência. Tem o serviço de locação, que é uma recorrência. Lá no Pipeline, ele ficou produto e serviço\n[LOCUTOR 10]: junto\n[LOCUTOR 8]: e MRF.\n[LOCUTOR 10]: [LOCUTOR 7]: falar, [PESSOA].\n[LOCUTOR 14]: Foi citado aí, tabela de preço. Eu dei uma verificada aqui dentro do [LOCAL] e não achei nativamente essa API. Foi feito o\n[LOCUTOR 8]: campo\n[LOCUTOR 14]: customizado, a\n[LOCUTOR 8]: estrutura\n[LOCUTOR 14]: customizada.\n[LOCUTOR 8]: Por isso que eu falei, né, [PESSOA] e [PESSOA], lá naquela primeira conversa, quando estava todo mundo novo lá reunido, de enxergar uma possibilidade do [EMPRESA], tecnicamente, o Piper Wallet, a nossa principal dificuldade na integração está na entrega dos valores que a gente está buscando na API deles. Então, tipo, cadastro de produto, beleza. Cadastro de cliente, beleza. Teve uma peculiaridade ali do mesmo [EMPRESA], mas foi resolvido com um terceiro depara, beleza. Quando a gente chegou no deparo de valores, a gente está tendo dificuldade de fazer essa busca, exatamente por isso que o [PESSOA] falou. Não está vindo o resultado que a gente está solicitando para a API. Então, na hora de montar o orçamento, quando a gente monta, e isso até já está funcionando, 98% tecnicamente, vamos dizer assim, da integração funcionando. Mas quando cai o orçamento lá dentro do meu sistema atual, ele está caindo sem valor.\n[LOCUTOR 11]: não encontrei, [PESSOA], aqui dentro do [LOCAL], estrutura de webhook. Vou citar como que a gente costuma trabalhar quando tem integrações com CRM. A gente costuma, por exemplo, quando o CRM não tem estrutura de tabela de preço, há uma customização base,\n[LOCUTOR 8]: onde\n[LOCUTOR 14]: a gente manda, por exemplo, no campo customizado, uma lista de modal com as tabelas de preço, então o ID, o nome, ID e nome. o cliente verifica se vai ser vinculado à negociação ou ao cadastro do cliente, mesmo o cadastro da empresa. E quando o CRM tem uma estrutura de webhook, a gente consegue chegar a certa etapa e dispara. Quando é integrado ao Proteus, a gente costuma desenvolver um API para fazer esse cálculo. Então a gente pega o ID do produto, a quantidade do produto, porque dentro do [EMPRESA], você consegue ter essas variações, o ID do produto, a quantidade do produto e a tabela de preço, calcula e atualiza a negociação. Esse é o fluxo base quando o CRM não tem a estrutura de tabela de preço e tem a estrutura de webhook.\n[LOCUTOR 8]: Mas eu acho que de webhook sim, porque foi a primeira tentativa de integração,\n[LOCUTOR 8]: Perfeito. E aí não deu certo, porque aí não tinha... os dados que voltavam via webhook Tanto que eu recebo ainda os e-mails aqui, porque está rodando ali para fins de teste, né? Com todos os erros, eu sigo recebendo. Mas o webhook foi a primeira tentativa e ela foi muito falha, porque aí sim, a quantidade de dados que retornava era muito pequena,\n[LOCUTOR 14]: entendeu?\n[LOCUTOR 8]: Tanto que quando o orçamento dava ganho no CRM, Ele entrava para o [EMPRESA] e ficava, entre aspas, no limbo, vamos dizer assim. Ele não era direcionado para nenhuma das unidades de negócio.\n[LOCUTOR 14]: [EMPRESA].\n[LOCUTOR 8]: Então, a gente tentou para o [EMPRESA], não conseguiu. E agora, por último, a gente estava pela API deles ali, tá? Mas também... [LOCAL] a minha rede. Voltou a luz,\n[LOCUTOR 10]: acho, então.\n[LOCUTOR 8]: Acho que voltou a luz. Está tendo uma manutenção no transformador aqui do lado. Deu uma queda e voltou, então, acredito. E o gerador baixou a potência, então ele está resfriando. E aí a gente não conseguiu, tá? Pelo webhook e estava tentando pela API. E pela API a gente estava tendo essas dificuldades aí na tabela de preços do produto\n[LOCUTOR 14]: aí, tá?\n[LOCUTOR 8]: Porque eu fiz isso não manual, de uma forma manual, mas via tabela de importação, exportei no [EMPRESA], organizei os dados e importei no CRM, para que o pessoal pudesse gerar as vendas. E aí, o que está acontecendo agora, por exemplo, como isso já tem um período acontecendo, o pessoal dos suprimentos, eles não têm acesso ao CRM, eles fazem atualização de preço conforme eles negociam com o fornecedor. atualiza lá, o orçamento não bate com o valor do CRM com o [EMPRESA], porque eles atualizaram no [EMPRESA] e no CRM, se não vier um e-mail pro [PESSOA] dizendo,\n[LOCUTOR 14]: cara,\n[LOCUTOR 8]: atualiza lá, acaba não acontecendo. E um outro fator que a gente identificou, no meu sistema atual, e eu acho que talvez vocês trabalhem no mesmo formato, por ser modular, né? Por exemplo, eu tenho [LOCAL] [LOCAL] e [LOCAL], tá? Eu posso ter uma política de venda em [LOCAL], uma em [LOCAL] e uma em [LOCAL], que são cenários de valor diferente. Eu posso vender um valor aqui e outro valor lá. Então, os meus serviços hoje, o cadastro de produto é comum entre todas as unidades, tá? Mas de serviços, por exemplo, em [LOCAL], eu tenho serviço de instalação num\n[LOCUTOR 10]: valor,\n[LOCUTOR 8]: em [LOCAL], no outro. E no CRM, eu tenho que duplicar esse cadastro, entendesse? Para poder... Aí, a solução que a gente chegou, para que conseguisse fazer a conversão das informações, para isso andar redondo, seria eu replicar todos os cadastros. Duplicar, triplicar. No caso, se eu tiver 5 unidades, eu teria que fazer 5 vezes o mesmo cadastro de serviço e produto. De [PESSOA] e de\n[LOCUTOR 14]: MRF. É,\n[LOCUTOR 8]: na Piper,\n[LOCUTOR 14]: então, hoje não tem um filtro, por exemplo, você não consegue isso. Eu estou citando o exemplo que é o de outros CRMs,\n[LOCUTOR 8]: exemplo,\n[LOCUTOR 14]: o [LOCAL], onde a gente cria um funil, por exemplo, pode ser criado um funil para cada uma dessas unidades, você consegue atribuir o produto, a gente identifica com base em cada funil e busca e vincula esse funil a uma filial no Proteus, por exemplo. Então, você tem uma conta com vários funis, com pessoas específicas desses funis, a gente identifica essa estrutura dentro do [EMPRESA].\n[LOCUTOR 8]: É, não sei como é que funciona o RD Station, mas o que eu entendi deles, e a gente não conseguiu evoluir no PiperOne por causa disso. Lá no PiperOne, eu não tenho uma estrutura que nem no [EMPRESA], vamos dizer assim, de, por exemplo, a telealarme é a unidade de serviço, né? Então, eu tenho as minhas três unidades hoje, né? Meus três [PESSOA]. Eles são unidades de serviço. Mas a [LOCAL] também pode ser um cliente da própria [LOCAL]. Então, eu vou ter um cadastro de cliente, mas eu tenho uma unidade de serviço. Lá, eu tenho um cadastro único. Lá, a [LOCAL] não entra como unidade ou como empresa. Ela entra como empresa. Então, eu só consigo cadastrar uma vez a [LOCAL] com o mesmo [EMPRESA]. E ela não serve como filtro, como tu disse, entendeu? Tipo, eu não consigo definir. Eu posso criar vários funis, definir produtos e vincular funis. Mas, tipo, eu não tenho um parâmetro de grupo, vamos dizer assim. Tipo, ah, esse funil aqui pertence à telealarme de [LOCAL]. Esse funil pertence à telealarme de [LOCAL]. O que eles têm é o que eles chamam de marca. E aí entra essa função de cadastro. Se eu tivesse cinco... Eu tenho cinco unidades, na realidade, né? quintuplicar, vamos dizer assim, todos os cadastros e associar cada produto à marca. Então, por exemplo, eu teria a câmera 12-20 da [EMPRESA], eu teria cinco cadastros delas e cada câmera associada a uma marca para aí sim poder associar o funil lá e a marca independente de cada [EMPRESA]. Não me perguntem como, mas eu não consigo entender esse [LOCAL] até hoje, para mim ele ainda é um probleminha, tá? Eu estou desdobrando aqui para tentar fazer as coisas acontecerem. Inclusive, agora, a gente está colocando a unidade de rastreamento para dentro do CRM. Então, eu fiz isso segunda-feira passada. Botei os usuários, tudo. E eu vou ter que fazer a importação\n[LOCUTOR 8]: produtos. E [LOCAL] e [LOCAL], exemplo do [LOCAL]. O [LOCAL] vende tudo igual. [LOCAL] e Condomínio é praticamente a mesma coisa. O produto que eu vendo aqui, eu vendo nas outras unidades. Mas o rastreamento tem algumas peculiaridades. [LOCAL] vende alguns produtos que em [LOCAL] não vende. [LOCAL] optou pela [EMPRESA], vamos\n[LOCUTOR 10]: dar um exemplo,\n[LOCUTOR 8]: e [LOCAL] optou pela [PESSOA], na questão de câmera veicular. Então, tipo, são coisas distintas. E aí eu vou ter que criar coisas distintas dentro do sistema e associar coisas distintas. Ele não tem associação, entendeu? Não sei se estou conseguindo me fazer expressar, mas como eu não conheço a estrutura de fato, eu conheço o [LOCAL] e os outros softwares, mas o CRM eu não tenho acesso à estrutura. Os outros eu tive o banco de dados aqui, então eu tenho um pouco mais de noção, mas o CRM não, então eu fico um pouco mais restrito. Até pensando assim, numa evolução, vamos pensar num futuro, evoluímos com a [EMPRESA], fechamos\n[LOCUTOR 8]: a [EMPRESA], tudo certo. Eu acho, acho não, tenho plena certeza que a gente teria que fazer uma reunião com os desenvolvedores deles lá para entender aonde vocês conseguiriam implantar ou Nesse processo aí, a gente define algo diferente, né? Sentar com a direção aqui e dizer, cara, olha, encontramos dificuldades de fato, assim como vocês já estão encontrando para fazer a integração, e aí partir para uma ideia de troca de CRM, porque hoje vocês são integrados com... Fora o RD Station, você tem algum outro CRM integrado, não?\n[LOCUTOR 10]: A gente integra com diversos CRMs ao longo das décadas de uso do Proteus,\n[LOCUTOR 8]: né? [LOCAL].\n[LOCUTOR 10]: Então, assim, nativo TOTUS é o nosso carro-chefe RD Station.\n[LOCUTOR 10]: Se a gente for pensar\n[LOCUTOR 10]: trocar\n[LOCUTOR 8]: de... Se\n[LOCUTOR 10]: a gente for pensar em trocar o CRM, a TOTUS vai sempre indicar os recursos TOTUS. Mas nós não estamos sozinhos no mercado. Em muitos projetos, a gente integra com qualquer CRM de mercado. Tendo um API daqui, um API dali, consome daqui, consome dali, a gente consegue integrar. [PESSOA], tu tens alguma? Acho que ligou lá o negocinho. Bom, depois, [PESSOA], se tu tiver alguma consideração ainda em função do [LOCAL] Run, beleza, senão a gente evolui para outro.\n[LOCUTOR 14]: Ao meu ver, do [LOCAL] Run, em si, são esses pontos.\n[LOCUTOR 10]: [LOCAL].\n[LOCUTOR 14]: São pontos cruciais.\n[LOCUTOR 8]: Se tu não te importar, [PESSOA], passa para o [PESSOA] essas situações que tu apontou aí, para ele me encaminhar aqui, como eu estou com\n[LOCUTOR 10]: alguns\n[LOCUTOR 8]: contatos ali já com o pessoal do desenvolvimento deles ali, em função disso, para me pontuar para eles, entendeu? Cara, eu estou num momento, eu tenho um trimestre para decidir uma troca e eu tenho que entender se vocês vão poder continuar com a gente ou não. Então, eu tenho que passar isso para eles também, porque A gente optou, não, foi uma opção lá, a consultoria trouxe, como eu falei lá na reunião, trouxe o CRM pra nós na época, tá, tudo certo. E eu acho que não se pensou muito nesses pequenos detalhes, né? Então, hoje,\n[LOCUTOR 21]: já que\n[LOCUTOR 8]: eu tô fazendo toda uma análise, fazendo toda uma estruturação, eu vou ter que pensar em todos os detalhes pra não passar dois anos integrando,\n[LOCUTOR 8]: [LOCUTOR 1]: é isso. Até aproveitando, esse mês eu converso com o [PESSOA], ele falou que toca de férias, e a gente vai fazer novamente a apresentação do CRM pra ele, possivelmente ele vai fechar pra parte do rastreio, acho que vai ser bom vocês fazerem esse depar aí do CRM. Mas claro que pode ser num segundo momento, né, [PESSOA], pra gente focar no [EMPRESA], mas a gente tá vendo aí que já tem algumas barreiras. Mas isso aí acho que é algo que é tranquilo pra nós resolver.\n[LOCUTOR 10]: O [PESSOA] tá com uma bomba de canhão apontada pra alguns lados, porque se fecha conosco e daqui a pouco troca de sistema, a gente já tá num projeto de integração. Então teria que pagar duas vezes uma integração.\n[LOCUTOR 8]: Exatamente.\n[LOCUTOR 10]: Ou ele quer tomar uma decisão antes de ter\n[LOCUTOR 8]: que... É, é que, tipo, pra que vocês entendam em qual situação eu tô. É como tu disse, eu tô literalmente caminhando num campo minado no momento. Porque a presidência me exige algumas atualizações em termos de [EMPRESA]. O seu [PESSOA] tava ali na reunião aí, os guris acompanharam, tá? e ele tem expectativas, até ele tá indo pro [LOCAL] amanhã, eu queria fazer uma reunião com ele antes e não consegui, ele vai tirar uns dias lá no [LOCAL], tá? Mas no retorno dele eu já pedi pra ele e pro [PESSOA] tirarem um tempo comigo pra gente pontuar algumas coisas, até porque ele tem expectativas e eu preciso colocar essas expectativas pra vocês também, em termos de relatórios e BI's que ele falou lá, porque tem um conselho acima que tá por trás disso. Então a gente tem que ter as entregas lá pra eles lá, O meu lado, eu vou pensar a questão de empresa como todo telealarme, pensando no que é uma troca de sistema. Já passei por isso mais de uma vez aqui. E, como vocês sabem, vai ter rejeição de um lado e vai ter apoio do outro. Então, eu tenho que entender aonde que a gente vai encaixar todas essas pecinhas aí para tomar essa decisão. Porque, tipo, não tem como eu simplesmente olhar e dizer, não, cara, para mim, vamos fazer aqui e deu, entendeu? Se não, porque eu estou dando um tiro no pé, dá telealarme, inclusive, do [PESSOA], né? Então, eu não posso fazer\n[LOCUTOR 10]: isso.\n[LOCUTOR 8]: Então, eu preciso ter isso tudo bem desenhado, bem alinhado para que eu entenda que, tipo, ah, realmente, tomamos a melhor decisão, temos esse desafio, temos uma ideia do desafio, que eu acho que o principal fator é esse, eu ter noção de que isso vai acontecer dentro de um período ou de [PESSOA] tempo, ou isso aconteça em etapas definidas, para entender. Porque eu estava conversando com outro parceiro do segmento, e ele me colocou, eles estavam com o service, para vocês entenderem, e resolveu trocar. Ele não lembra qual foi o software, mas não foi da [EMPRESA]. Eu sei que foi uma outra solução. E os caras ficaram seis meses na outra solução e tiveram que retornar para a Inside, de volta para o próprio serviço, porque não conseguiram. Eles não conseguiram resolver a questão de faturamento, de começar a perder cliente, começar a ter problema no atendimento. E, cara, no atual momento, eu não posso. Eu já tive uma perda de receita considerável em 2024 por uma situação específica de um cliente que deixou de ser órgão público e passou a ser privado. Então, toda a minha atenção está em investimento e em solução. Eu tenho que fazer essas duas coisas casarem.\n[LOCUTOR 10]: Tá certo. Da nossa parte, está bem entendido. Eu costumo dizer que nessa jornada que nós temos de implantações, quem opta pela [EMPRESA] normalmente é o último [EMPRESA] que escolhe, porque é uma decisão estratégica e é uma empresa que suporta crescimento, suporta outros negócios dentro da mesma\n[LOCUTOR 8]: ferramenta.\n[LOCUTOR 10]: Bem, vamos lá. Eu tenho aqui a documentação do [EMPRESA],\n[LOCUTOR 10]: Então, eu passei para o [LOCAL]. [LOCAL], você já passou para o [PESSOA]? O [LOCAL] está perto aí, [PESSOA]?\n[LOCUTOR 14]: O [LOCAL] está presencial na TOTUS\n[LOCUTOR 10]: e eu estou em\n[LOCUTOR 14]: [EMPRESA]. Estou procurando a documentação aqui da [EMPRESA].\n[LOCUTOR 4]: [EMPRESA], só para vocês entenderem, é uma parceria já bem antiga nossa. É o nosso primeiro software que a gente... adquiriu para a área de rastreamento, e aí sim, eu tenho o [LOCAL] deles lá, é parceirão meu aqui, já de longa data, se eu chamar ele domingo de noite para nós resolvermos o problema,\n[LOCUTOR 8]: Eu vejo assim como uma coisa mais tranquila, tá? A gente não conseguiu fazer com a Inside lá, eu acho que não vou me atentar a detalhes, porque o O [PESSOA], o [PESSOA] não, desculpa, o [PESSOA] é quem tinha tomado frente dessa possibilidade lá de integração e o próprio pessoal da [EMPRESA] fazia contato comigo quando necessário pra fazer alguns ajustes, mas aí eu não sei no que que eles travaram pra evoluir, tá? Mas, cara, eles são bem tranquilos, então eu acho que Esse aí eu enxergo como o menor problema. Se tiver alguma dificuldade, eu já consigo apontar para eles lá e eles já podem trabalhar em cima.\n[LOCUTOR 10]: Vamos fazer o seguinte. [PESSOA] brevemente o que faz os [LOCAL]. A gente já conversou sobre placa de veículos. A cada novo veículo controlado na frota do cliente tem que ter essa inclusão dentro do contrato. Fala um pouquinho para a gente entender.\n[LOCUTOR 8]: O [EMPRESA] é a plataforma de rastreamento veicular que a gente usa, tá? Então, hoje, como é que ele funciona lá? Ele tem, dentro da plataforma, um cadastro de cliente, tá? E cada cadastro de cliente tem um número de cadastro de placa, tá? Então, dentro desses cadastros de placas, eu vou ter lá algumas informações, tipo o ID do equipamento, o SSID do chip, e essas informações,\n[LOCUTOR 10]: Estamos...\n[LOCUTOR 8]: Voltamos. Onde eu estava? Na questão de integração, de necessidade, o que eu preciso que ambos conversem? Principalmente a parte cadastral, essa parte de cadastro do cliente e de placas. Hoje, dentro da plataforma de [LOCAL] que a gente usa, eles têm um negócio chamado gestão de\n[LOCUTOR 10]: risco.\n[LOCUTOR 8]: Essa gestão de risco é uma gestão mais específica em cima dessa parte do rastreamento. O que acontece? Os clientes de alarme não têm esse tipo de... o volume de informações. Tu cadastra lá o cara, o endereço, o [EMPRESA], o valor de faturamento que vai ser cobrado dele e equipamentos que saíram na ordem de serviço de instalação. O rastreamento, ele tem o acréscimo da placa. E a gestão de cliente, ela varia de acordo com o quantitativo de placas. Então, para um cliente eu posso ter 200, posso ter uma. E o faturamento dele vai sendo dividido entre essas placas. Então, eu vou faturar em cima do CPF, do [EMPRESA], o valor [PESSOA], porém, cada veículo tem um valor independente. Tipo, eu cobro 59 reais pelo monitoramento de cada veículo. Se ele tiver 10, é 590 a composição de valor desse cara. Então, é mais ou menos nesse sentido. no sentido que ele funciona. E o que hoje não tem? Hoje eu não tenho esse duplo sentido entre sistemas, que se eu cancelar uma placa no service, eu sou obrigado a entrar no [EMPRESA], na plataforma de rastreamento, e desabilitar aquela placa. Então, eu precisaria que fosse isso. Tipo, eu tenho o cadastro da placa lá do [PESSOA], Quando eu ganho o cliente, entrou e cadastrei 10 placas, o [EMPRESA] vai ter aquele cadastro e esse cadastro vai estar linkando essa informação com as [EMPRESA]. Se eu fizer o processo de cancelamento de uma placa lá, ele desabilita lá nos [EMPRESA]. O contrário, acho que não, porque a gestão está em cima do [EMPRESA]. Então, ele que tem que ter a possibilidade de fazer o cancelamento lá. Mas quando eu ganho o cliente lá, e dou ok dentro do [LOCAL], ele tem que transmitir esses dados para dentro dos [EMPRESA], vamos dizer assim, que é o que não acontece hoje, que é feito manual. Então, eu faço tudo num [LOCAL] e depois eu faço tudo no outro.\n[LOCUTOR 10]: Ok. [PESSOA], alguma questão?\n[LOCUTOR 14]: Estou pensando aqui. Quais módulos do Proteus você está pensando no processo?\n[LOCUTOR 10]: Vamos lá. Até estava vendo isso agora em função do gestão de contratos.\n[LOCUTOR 14]: É isso que eu ia falar, o [EMPRESA].\n[LOCUTOR 10]: [PESSOA], no nosso papo da última vez que a gente afinou ali, nós falamos em compras, estoque financeiro, faturamento, contabilidade fiscal, ativo fixo. Nós teríamos ali dentro, o rental, que é de locações, e o [LOCAL], que é aqueles de leituras,\n[LOCUTOR 10]: conferência, inventário. Nós deixamos, numa segunda onda, o rental e o automação e coleta de dados. Mas está faltando uma perna aqui do contrato. Era essa a pergunta que eu ia fazer, porque eu não estou achando, nas minhas anotações, gestão de contratos. Lembra o que nós falamos da parte de gestão de contratos?\n[LOCUTOR 21]: A gente citou mas acho que a gente não chegou a falar de produto tá [PESSOA].\n[LOCUTOR 10]: Eu não tenho no [LOCAL] aqui o que eu tenho uma anotação tipo. Olha só o que eu escrevi. A parte contábil escrevia que importante dois cadastrinhos com o nome nosso que são item contábil e classe de valor para gestão de receita e despesas do mesmo cliente uma espécie de\n[LOCUTOR 8]: contrato.\n[LOCUTOR 10]: Mas eu estou falando em gestão contabilidade gerencial e não de gestão de contratos, propriamente dito.\n[LOCUTOR 8]: [LOCUTOR 5]: não vejo nenhuma citação, além dessa, de contratos. Entende o que eu quero dizer? Eu não tenho mapeado o módulo de gestão de contratos. [PESSOA]. É, mas a gestão de contratos é feita hoje dentro do sistema.\n[LOCUTOR 10]: [PESSOA], ok. Esse papo estava indo nessa direção, por isso que o [PESSOA] tocou nesse assunto também. Daqui a pouco a gente tem que... Opa, eu dei um passo para trás para botar o gestão de contratos e a gente seguir.\n[LOCUTOR 14]: Exatamente, porque hoje eu estou pensando, como que a gente vai fazer esse controle do novo veículo que entra, por exemplo? Tem que estar vinculado a um contrato, esse contrato tem que ser feito uma baixa, tem que ser o processo de validação, tem toda a estrutura.\n[LOCUTOR 8]: É, hoje, como a gente faz, tá? A gente trata isso como um pedido adicional. Dentro do... Tem um contrato, eu fechei um contrato com o [PESSOA], 10 veículos, beleza. O [PESSOA] passou 30 dias e ele me disse,\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 8]: vendi um dos meus veículos e não tenho intenção de reposição. Bom, eu vou lá e desabilito dentro do gestão de risco esse veículo. e aí reduz automaticamente do teu valor lá, deduz do teu valor aquele veículo. Pronto. Passados dois, três meses, tu resolve colocar ou acrescer a tua frota, eu vou fazer um pedido adicional, vou colocar como um pedido adicional e vou colocar mais um valor de MRR lá dentro, mais uma receita naquele valor que seria mais um veículo. A gente não gera um novo contrato, a gente trabalha como pedido adicional. Por isso que eu digo que existe lá o módulo, vamos dizer assim, gestão de risco. Eu trato o cliente como uma unidade, porém eu faço uma gestão em cima de cada\n[LOCUTOR 10]: veículo. [EMPRESA].\n[LOCUTOR 8]: É como se fossem vários serviços, né?\n[LOCUTOR 8]: adicionado vários\n[LOCUTOR 10]: serviços\n[LOCUTOR 8]: para aquele cliente.\n[LOCUTOR 14]: Eu já estou consultando aqui as APIs deles para ver o que tem disponível. Então, por exemplo, tem para criar cliente, criar frota, adicionar mais carros dentro de um conglomerado, durante uma frota, criar o rastreador, criar o usuário para acesso, criar o veículo, que é o que você comentou, que é a placa, que é onde você coloca os dados do veículo em si. Dentro do veículo, você tem que passar a primeira parte, a id do cliente, a id da frota, o tipo, a placa,\n[LOCUTOR 10]: descrição,\n[LOCUTOR 14]: marca, que aí são os dados do ativo. daquele cliente. Então, isso é o que eu entendi da API\n[LOCUTOR 8]: deles,\n[LOCUTOR 14]: como que a\n[LOCUTOR 8]: gente trataria.\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 10]: o [EMPRESA] é o segundo. Nós temos um terceiro, que é o [EMPRESA], que hoje nós não temos a documentação, certo?\n[LOCUTOR 8]: Isso, eu já cobrei lá para ver se o pessoal me dá um apoio lá para tentar. Entregar essa documentação aí pra gente entender Mas hoje, aquilo que eu falei lá na reunião Hoje, tipo, é semelhante ao rastreamento ali Eu ganho o contrato do cliente, né [PESSOA] lá pro cliente, lá independente de locação ou venda E eu vou ter um monitoramento do alarme ou do controle de acesso No momento que dá ganho lá no contrato, ele tem uma chavezinha que ele aponta para o [EMPRESA] e entrega esse dado\n[LOCUTOR 10]: cadastral. A gente falou sobre abrir uma ordem de serviço no Proteus e mandar para o [EMPRESA].\n[LOCUTOR 8]: Hoje, no sistema atual, ele não depende da ordem de serviço especificamente. Ele depende da finalização do fechamento da venda, vamos dizer assim. Fechou o contrato, deu tudo certo no que a menina vai\n[LOCUTOR 8]: deu o ok dentro do sistema do [EMPRESA]. Ela tem um botãozinho lá que é atirar os dados lá para dentro do [EMPRESA]. Então ele cria dentro do [EMPRESA] lá um cadastro. Ele valida a disponibilidade lá do banco de dados, cria. com o ID do próprio [EMPRESA] lá, na sequência do [EMPRESA], o número de chave, ou conta, que a gente chama, que é o identificador desse cliente comum entre os dois sistemas, que é o que vai lá no painel de alarme, o número da conta, é um número alfanumérico lá, de quatro caracteres. Esse cara é colocado manual. Aí a pessoa que faz a consulta lá para validar qual o número que vai ser colocado. Por exemplo, da minha casa é B241, tá? Então, tipo, na hora que cadastraram, fecharam a minha venda lá, ela ativou a comunicação entre os dois sistemas lá para ele criar o cadastro dentro do [EMPRESA] e aí ela bota ali esse número de conta, vamos dizer assim, que a gente chama de chave aqui, né? Então, aí cria lá o cadastro e faz isso. É isso mais ou menos que acontece. Não leva muitas informações. Se eu não me engano, é mais a parte cadastral, mas aí teria que olhar a API. Porque produto a gente não leva pra dentro do sistema, tá? Só a questão de manutenção. A ordem de serviço, sim. Ele cria toda vez que o... que o [EMPRESA] cria uma ordem de serviço, ele faz a busca lá no [EMPRESA] e lança a ordem de serviço lá dentro do sistema deles. E aí tem um referencial lá. A ordem de serviço cria com o número dele, lógico, mas tem um referencial dizendo que ela é a ordem de serviço número tal dentro do [EMPRESA].\n[LOCUTOR 8]: aqui,\n[LOCUTOR 10]: que foi encaminhar para o [LOCAL],\n[LOCUTOR 8]: [PESSOA],\n[LOCUTOR 10]: o que eu já tenho coletado e também agora as adaptações que eu fiz durante esse nosso papo.\n[LOCUTOR 8]: Nessa questão do [EMPRESA] com um [EMPRESA], tá? Eu chamo de botões porque literalmente são botões que tu entra no sistema lá e clica lá para ativar, para fazer alguns depara, vamos dizer assim. A parte de cadastro de técnico, ela é feita a partir do [EMPRESA], tá? Ou melhor, desculpa, Ela é feita, hoje, no nosso contexto atual, a partir do [EMPRESA]. Então, eu tenho um botãozinho lá. Eu preciso criar um técnico que vai utilizar o sistema aqui em [LOCAL]. Eu vou ali na unidade [LOCAL] e crio o técnico [PESSOA]. Dou a nomenclatura lá para ele e dentro da unidade de [LOCAL]. Aí, lá no sistema do [EMPRESA], eu entro na unidade [LOCAL] e faço uma verificação. Ele vai lá e consulta a tabela lá do outro sistema e verifica quais os técnicos que estão ativos. Se tem um novo lá, ele automaticamente cria no [EMPRESA]. Aqui, quando ele gerenciar a ordem de serviço e passar as informações e o pessoal poder fazer testes e coisas lá pelo aplicativo, ele consegue colocar a central em manutenção, que é um termo que a gente usa ali do sistema de monitoramento, que é o quê? tu habilita lá um botão que tem no [EMPRESA], tá? A partir do aplicativo do [EMPRESA] ali de execução de ordem de serviço, tu habilita um botão\n[LOCUTOR 8]: que todo evento que tu passar, tudo que tu fizer de teste lá, não vai entrar na tela de monitoramento, tá? Então, ele consegue consultar os eventos que ele tá fazendo, os testes ali, ele consegue... consultar os dados da conta de monitoramento, tá? Tipo senha, master, instaladora, que são coisas ali. Eu consigo aprofundar mais vocês mostrando ali, mas aí acho que a gente pede as APIs também. Eu pedi tudo isso para a [LOCAL], tá? Tudo que envolve a parte cadastral e tudo que envolve a parte de ordem de serviço, porque a parte de ordem de serviço hoje a gente faz no [EMPRESA], mas ele consegue colocar em manutenção, que é o termo que a gente usa aqui para poder fazer os testes, e ele consegue fazer algumas consultas do [EMPRESA] ali em termos de informação da parte de monitoramento de alarme e controle de acesso. O rastreamento não usa isso, o rastreamento não tem esse tipo de consulta, não fica fazendo, não sei nem se vai ter, vamos dizer assim, não é uma coisa que eles utilizam hoje, mas na área de alarme sim. Então a parte, eu vou dizer assim, que a parte do [EMPRESA], a parte de OS talvez tenha muito mais troca de dados do que a própria parte de cadastro, que ele entrega o cadastro, cria a conta e depois ele parte para essa parte aí. Aí tem o técnico, tem o tipo de ordem de serviço, causa de OS, tudo isso a gente cria tudo dentro do [EMPRESA] e aperta o botãozinho no [EMPRESA] para trazer os dados para dentro do sistema, para fazer o depara.\n[LOCUTOR 10]: documentação, que daí sempre facilita mais.\n[LOCUTOR 14]: [PESSOA]. Com isso a gente vai analisando os outros dois casos, que já\n[LOCUTOR 14]: documentação.\n[LOCUTOR 8]: [PESSOA],\n[LOCUTOR 10]: para o [LOCAL]. Já passa teu e-mail aqui, escreve no nosso chat, que eu já te encaminho também, por favor.\n[LOCUTOR 14]: [LOCAL], já mandei\n[LOCUTOR 10]: no chat. Bom, da nossa parte é isso. Algo mais, [PESSOA]? Fique à vontade.\n[LOCUTOR 8]: Cara, a princípio, acho que se eu me lembrar, eu vou passar para o [PESSOA] ali e se vocês encontrarem alguma coisa nas documentações aí, que vocês também achem necessário entender, me perguntem, porque aí a gente vai trocando informação,\n[LOCUTOR 14]: pelo\n[LOCUTOR 10]: seu tempo. O\n[LOCUTOR 8]: [PESSOA] tava numa outra reunião que eu tava, né [PESSOA]? Você tava\n[LOCUTOR 8]: evento,\n[LOCUTOR 14]: tempinho. Já tem um tempo, já.\n[LOCUTOR 8]: Ah, lembrei,\n[LOCUTOR 14]: um tempo.\n[LOCUTOR 10]: Se acharam, estão no\n[LOCUTOR 8]: mundo aí. Mas tranquilo, qualquer coisa a gente vai trocando informação, vamos conversando, [PESSOA]?\n[LOCUTOR 8]: Eu que\n[LOCUTOR 10]: agradeço.\n[LOCUTOR 21]: [LOCAL], valeu,\n[LOCUTOR 14]: [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:24.785269+00:00",
+    "total_linhas": 282,
+    "linhas_mantidas": 207,
+    "linhas_removidas": 75,
+    "percentual_mantido": 73.4,
+    "confianca_media": 0.4775
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 21]: Quantos graus está aí?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Ah, não faço nem ideia, mas deve estar um pouquinho mais, porque a gente está sem energia aqui,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3827,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: e aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o gerador",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ligado, ele está projetado para manter uma estrutura de 2007, mas estamos em 2026, então algumas áreas do condicionado estão desligadas nesse momento, inclusive a nossa, mas está 31°C agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5533,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: É, mais ou menos o que está aqui, mas o dia que a gente foi aí também",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4622,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: estava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: muito quente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É, mas a rede externa a gente mantém os ares ligados, né? Tudo tranquilo. O problema só é o gerador, que foi projetado por um tamanho de empresa, né? E hoje a gente cresceu. E é um investimento considerável pra tu fazer, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a gente não tem queda de energia assim com tanta frequência. É que a Equatorial tá fazendo uma manutenção aqui, bem no transformador que entrega a rede pra nós",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Fala,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]. Boa tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tudo bem? Boa tarde, não quis interromper o papo. Tudo bem,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3783,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]? Tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Entrou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aqui o senhor [PESSOA], que vai também participar desta fase de análise das",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: integrações. Fala, [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tudo bueno.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu entrei meio na corrida aqui, deixa eu abrir o material. O que nós temos? Tu botou no ticket, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4706,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Aquele deverzinho de casa que eu fiquei, infelizmente a [LOCAL] ainda não me entregou,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4385,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: A API",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: ali.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Os outros eu consegui mandar pro [PESSOA] direitinho ali, mas a [LOCAL], até cobrei hoje de novo deles",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4684,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: lá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: mas ainda não me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3733,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: enviaram,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Vamos com o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5372,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: temos. O [PESSOA] tá do time do [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: isso? Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 27]: tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 27]: então deixa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: eu contextualizar. O [PESSOA] é o nosso executivo, o [PESSOA] é o representante do nosso futuro cliente da Tele Alarmis, trabalha lá na tecnologia, conhece todo o processo da empresa, Do nosso lado aqui, eu sou do time de engenharia de valores, [LOCAL] e [PESSOA] são do nosso time de entrega, ou seja, eles que vão meter a mão na massa do projeto, vão fazer implantação, capacitação e também as integrações que nós listamos. Bem, eu pedi esse momento para a gente afinar as necessidades, o que sai de um lado, o que entra no outro sistema. Temos uma complexidade para deixar [LOCAL]. Vamos começar o que eu acho que seja mais trivial para nós. É o pipe run, o CRM, onde nós já temos crises, digamos assim. Pode falar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]. Só fazer uma observação, tá? Eu estou fazendo o mapa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então, a cada 15 minutos, eu tenho que ficar estático aqui, porque está controlando a minha pressão, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4597,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: se eu ficar estático aqui, não é porque caiu, eu não vou poder nem falar, eu tenho que só manter aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4077,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Esses dias eu, assim, dirigindo...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4321,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É, a pior coisa que tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: dirigindo, cara. É verdade, mas não tem jeito, tem que fazer. A idade chega, a gente tem que fazer.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4584,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá bom, [PESSOA], tudo certo. Bem, [LOCAL], [PESSOA], vocês estão aí com as documentações, a [LOCAL] Run? Caso não, eu encaminho aqui a lista de APIs. Espera aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.395,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Se puder me encaminhar a lista, eu precisei formatar meu notebook e acabei que ainda não restaurei muita coisa. De formato de ontem para hoje.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Se o [LOCAL] estiver perto de você, eu encaminhei no WhatsApp dele o link do developer.pipe.run.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Já abri aqui, já consegui visualizar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCAL]. Bom, a gente tem sempre algumas decisões, caso não estejam claras, para a gente tomar. Cadastro de leads vai nascer no Pipeline, certo? [PESSOA]? Exatamente. E aí, no Proteus, vai cair apenas o pedido de venda quando gerar uma prospecção com sucesso lá no [LOCAL]. É isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Isso. Essa é a ideia. Ele finaliza a venda lá, deu o ganho, ela tem que ir para o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]. Antes disso, a gente tem algumas questões. Por exemplo, clientes de base de vocês, vocês também fazem prospecções? [PESSOA] também no [LOCAL] para o Proteus?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Cliente que já está na base, tipo um crossel? [PESSOA]. Sim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCAL]. Então, todo cliente cadastrado no Proteus tem que ser integrado com o [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Eles têm que estar nos dois, exatamente. Perfeito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Além",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: de ter um depara, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim. Ou seja, um cliente novo nasce no [LOCAL] e vai ser cadastrado como cliente no Proteus. Os clientes antigos da base têm que ser levados para o [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É hoje eles já estão né mas sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3858,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]. Já estão porque já há uma integração com o atual IP,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: isso? Não, eu fiz isso via importação. Eu peguei meu cadastro atual e importei",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: CRM.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então, a gente faria esse mesmo trabalho de importação ou teria uma API consumindo de lá pra",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: cá? Não, pro CRM teoricamente não, porque tu já vai estar com os cadastros lá. Seria mais um depara mesmo, só ter... ter uma conferência. A única questão, até para a gente entender, tá? Hoje, no meu [LOCAL] atual, eu tenho a possibilidade de um cliente, ou de vários clientes, compartilhar o mesmo [EMPRESA], tá? Por exemplo, vou dar um exemplo de como a gente atende listação. Uma prefeitura, aqui de [LOCAL], a gente ganhou a listação da saúde. Eu tenho 202 prédios, 202 endereços distintos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: todos sobre o mesmo [EMPRESA]. Então, está lá o cadastro da [EMPRESA], não sei o que, não sei o que lá, [EMPRESA] tal e endereço tal. Aí a outra OBS vai ser um outro endereço, mas vai continuar com o mesmo [EMPRESA]. Lá no [LOCAL] eu não tenho isso, eu nem consigo. É um [EMPRESA] para o cadastro mãe e os outros todos estão sem [EMPRESA], os outros endereços, os outros cadastros. Mas a gente trata eles a nível de sistema, mesmo que para faturamento seja em cima só do mesmo [EMPRESA], como cadastros distintos, endereços distintos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.535,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Eu vou gerar uma ordem de serviço para o [LOCAL]. Ela é da [LOCAL] do... A gente até pediu, tá? Mas como é licitação, tem alguns entraves",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ali",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: jurídicos, né? Que foi ganho a licitação pelo [EMPRESA] da...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Parou um pouquinho. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Voltamos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCAL], vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: lá. O HD tá com um bad block aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5115,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCUTOR 3]: uma travadinha no setor. É, não, tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4404,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: certo. Já botaram o apelido aqui de Chaves, porque eu tô com o piripaque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4891,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: do Chaves.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: aliviado, né,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: quando... O apelido, a galera não paga imposto.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não, não, e a telealarm tem uma característica interessante. Aqui o bullying é nível hard. A gente não perdoa nada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então é do meu time. A gente segue um código de ética da [EMPRESA] até a gravação acabar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: A quinta série do [LOCAL] pra Dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ela",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: complexa mas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tá tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: certo. Como eu estava dizendo então eu tenho vários cadastros a exemplo da prefeitura com o mesmo [EMPRESA]. Lá no Piper Run não. Até foi um dos dificultadores para fazer a integração, que nem aconteceu. Está em estudo, vamos dizer assim. Está em análise ainda. Por causa disso. Porque eu tive que botar um terceiro parâmetro de depara ali. Então, tipo, nome. Geralmente o nome está igual. O cnpj barra cpf e o endereço. Então, eu tive que criar três... conferências para o [LOCAL], porque no PipeOne, infelizmente, pelo menos o pessoal me explicou que eles não podem ter o mesmo [EMPRESA] cadastrado para mais de um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: cliente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então, a solução que a gente achou na época para esses casos, e são vários, não é só um, como a gente atende muito órgão público, a gente cadastrou sem o [EMPRESA], deixou no principal contrato e deixou lá só os endereços para poder gerar PAA, gerar essas coisas assim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: pedido adicional, no caso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Vamos ter que fazer algo similar para poder lidar com essa situação. Por exemplo, a [LOCAL] é o único [EMPRESA] para todo o [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E daí tem em [LOCAL], [LOCAL], [LOCAL], [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: cada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: um é um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: diferente. Tecnicamente, a [LOCAL], todos os endereços da [LOCAL] têm um [EMPRESA]. Mas como eu estava falando antes da pausa, a licitação exige que quem ganhou o [EMPRESA] foi o da prefeitura, o raiz, vamos dizer assim, e a [PESSOA] com seu [EMPRESA] mãe. Então, para fins de geração de nota, por mais que eu fature independente os contratos, tem que ser faturado para aquele [EMPRESA] naquele [EMPRESA]. Tem algumas coisas assim. Essa parte até seria melhor a [PESSOA] estar junto, mas como ela está de férias, depois a gente até pode conversar com ela de novo, para ver como é que estão esses faturamentos hoje. Vamos dizer assim, mas hoje está tudo sendo faturado em cima de vários cadastros, mas com o mesmo [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ok. Bom, fora isso, a gente tem o cadastro de produtos, tabela de preço, cadastro de créditos, falamos, talvez condição de pagamento, que tem que espelhar do [LOCAL] para o [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: certo? Isso. Aí tem uma outra peculiaridade. Vamos lá. O meu [LOCAL] atual, ele trabalha com serviços, produtos e MRR, que tecnicamente é um serviço também. No [LOCAL], eu tenho categorizado duas situações, produto e serviço e MRR.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4822,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Dentro do mesmo contexto, produto e serviço?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Produto e serviço,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: é.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então, o produto e o serviço lá, produto seria produto mesmo, de fato, né? Uma câmera, qualquer coisa. E o serviço é aquele serviço que ele não gera recorrência. E aí depois eu tenho o MRR, que aí ele gera recorrência. No atual, no service, é diferente. Eu tenho o produto, eu tenho os serviços, e o serviço pode gerar ou não recorrência. Aí, dentro de serviço, eu tenho vários serviços. Tem o serviço de monitoramento, que é uma recorrência. Tem o serviço de locação, que é uma recorrência. Lá no Pipeline, ele ficou produto e serviço",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: junto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: e MRF.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCUTOR 7]: falar, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Foi citado aí, tabela de preço. Eu dei uma verificada aqui dentro do [LOCAL] e não achei nativamente essa API. Foi feito o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: campo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: customizado, a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: estrutura",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: customizada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: No momento, não tem nada customizado. A gente está batendo junto lá com o pessoal da [LOCAL],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4369,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Por isso que eu falei, né, [PESSOA] e [PESSOA], lá naquela primeira conversa, quando estava todo mundo novo lá reunido, de enxergar uma possibilidade do [EMPRESA], tecnicamente, o Piper Wallet, a nossa principal dificuldade na integração está na entrega dos valores que a gente está buscando na API deles. Então, tipo, cadastro de produto, beleza. Cadastro de cliente, beleza. Teve uma peculiaridade ali do mesmo [EMPRESA], mas foi resolvido com um terceiro depara, beleza. Quando a gente chegou no deparo de valores, a gente está tendo dificuldade de fazer essa busca, exatamente por isso que o [PESSOA] falou. Não está vindo o resultado que a gente está solicitando para a API. Então, na hora de montar o orçamento, quando a gente monta, e isso até já está funcionando, 98% tecnicamente, vamos dizer assim, da integração funcionando. Mas quando cai o orçamento lá dentro do meu sistema atual, ele está caindo sem valor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: não encontrei, [PESSOA], aqui dentro do [LOCAL], estrutura de webhook. Vou citar como que a gente costuma trabalhar quando tem integrações com CRM. A gente costuma, por exemplo, quando o CRM não tem estrutura de tabela de preço, há uma customização base,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: onde",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: a gente manda, por exemplo, no campo customizado, uma lista de modal com as tabelas de preço, então o ID, o nome, ID e nome. o cliente verifica se vai ser vinculado à negociação ou ao cadastro do cliente, mesmo o cadastro da empresa. E quando o CRM tem uma estrutura de webhook, a gente consegue chegar a certa etapa e dispara. Quando é integrado ao Proteus, a gente costuma desenvolver um API para fazer esse cálculo. Então a gente pega o ID do produto, a quantidade do produto, porque dentro do [EMPRESA], você consegue ter essas variações, o ID do produto, a quantidade do produto e a tabela de preço, calcula e atualiza a negociação. Esse é o fluxo base quando o CRM não tem a estrutura de tabela de preço e tem a estrutura de webhook.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Mas eu acho que de webhook sim, porque foi a primeira tentativa de integração,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Perfeito. E aí não deu certo, porque aí não tinha... os dados que voltavam via webhook Tanto que eu recebo ainda os e-mails aqui, porque está rodando ali para fins de teste, né? Com todos os erros, eu sigo recebendo. Mas o webhook foi a primeira tentativa e ela foi muito falha, porque aí sim, a quantidade de dados que retornava era muito pequena,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tanto que quando o orçamento dava ganho no CRM, Ele entrava para o [EMPRESA] e ficava, entre aspas, no limbo, vamos dizer assim. Ele não era direcionado para nenhuma das unidades de negócio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então, a gente tentou para o [EMPRESA], não conseguiu. E agora, por último, a gente estava pela API deles ali, tá? Mas também... [LOCAL] a minha rede. Voltou a luz,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5014,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: acho, então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Acho que voltou a luz. Está tendo uma manutenção no transformador aqui do lado. Deu uma queda e voltou, então, acredito. E o gerador baixou a potência, então ele está resfriando. E aí a gente não conseguiu, tá? Pelo webhook e estava tentando pela API. E pela API a gente estava tendo essas dificuldades aí na tabela de preços do produto",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: aí, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Porque eu fiz isso não manual, de uma forma manual, mas via tabela de importação, exportei no [EMPRESA], organizei os dados e importei no CRM, para que o pessoal pudesse gerar as vendas. E aí, o que está acontecendo agora, por exemplo, como isso já tem um período acontecendo, o pessoal dos suprimentos, eles não têm acesso ao CRM, eles fazem atualização de preço conforme eles negociam com o fornecedor. atualiza lá, o orçamento não bate com o valor do CRM com o [EMPRESA], porque eles atualizaram no [EMPRESA] e no CRM, se não vier um e-mail pro [PESSOA] dizendo,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: cara,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: atualiza lá, acaba não acontecendo. E um outro fator que a gente identificou, no meu sistema atual, e eu acho que talvez vocês trabalhem no mesmo formato, por ser modular, né? Por exemplo, eu tenho [LOCAL] [LOCAL] e [LOCAL], tá? Eu posso ter uma política de venda em [LOCAL], uma em [LOCAL] e uma em [LOCAL], que são cenários de valor diferente. Eu posso vender um valor aqui e outro valor lá. Então, os meus serviços hoje, o cadastro de produto é comum entre todas as unidades, tá? Mas de serviços, por exemplo, em [LOCAL], eu tenho serviço de instalação num",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: valor,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: em [LOCAL], no outro. E no CRM, eu tenho que duplicar esse cadastro, entendesse? Para poder... Aí, a solução que a gente chegou, para que conseguisse fazer a conversão das informações, para isso andar redondo, seria eu replicar todos os cadastros. Duplicar, triplicar. No caso, se eu tiver 5 unidades, eu teria que fazer 5 vezes o mesmo cadastro de serviço e produto. De [PESSOA] e de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: MRF. É,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: na Piper,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: então, hoje não tem um filtro, por exemplo, você não consegue isso. Eu estou citando o exemplo que é o de outros CRMs,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: exemplo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: o [LOCAL], onde a gente cria um funil, por exemplo, pode ser criado um funil para cada uma dessas unidades, você consegue atribuir o produto, a gente identifica com base em cada funil e busca e vincula esse funil a uma filial no Proteus, por exemplo. Então, você tem uma conta com vários funis, com pessoas específicas desses funis, a gente identifica essa estrutura dentro do [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5953,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É, não sei como é que funciona o RD Station, mas o que eu entendi deles, e a gente não conseguiu evoluir no PiperOne por causa disso. Lá no PiperOne, eu não tenho uma estrutura que nem no [EMPRESA], vamos dizer assim, de, por exemplo, a telealarme é a unidade de serviço, né? Então, eu tenho as minhas três unidades hoje, né? Meus três [PESSOA]. Eles são unidades de serviço. Mas a [LOCAL] também pode ser um cliente da própria [LOCAL]. Então, eu vou ter um cadastro de cliente, mas eu tenho uma unidade de serviço. Lá, eu tenho um cadastro único. Lá, a [LOCAL] não entra como unidade ou como empresa. Ela entra como empresa. Então, eu só consigo cadastrar uma vez a [LOCAL] com o mesmo [EMPRESA]. E ela não serve como filtro, como tu disse, entendeu? Tipo, eu não consigo definir. Eu posso criar vários funis, definir produtos e vincular funis. Mas, tipo, eu não tenho um parâmetro de grupo, vamos dizer assim. Tipo, ah, esse funil aqui pertence à telealarme de [LOCAL]. Esse funil pertence à telealarme de [LOCAL]. O que eles têm é o que eles chamam de marca. E aí entra essa função de cadastro. Se eu tivesse cinco... Eu tenho cinco unidades, na realidade, né? quintuplicar, vamos dizer assim, todos os cadastros e associar cada produto à marca. Então, por exemplo, eu teria a câmera 12-20 da [EMPRESA], eu teria cinco cadastros delas e cada câmera associada a uma marca para aí sim poder associar o funil lá e a marca independente de cada [EMPRESA]. Não me perguntem como, mas eu não consigo entender esse [LOCAL] até hoje, para mim ele ainda é um probleminha, tá? Eu estou desdobrando aqui para tentar fazer as coisas acontecerem. Inclusive, agora, a gente está colocando a unidade de rastreamento para dentro do CRM. Então, eu fiz isso segunda-feira passada. Botei os usuários, tudo. E eu vou ter que fazer a importação",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: produtos. E [LOCAL] e [LOCAL], exemplo do [LOCAL]. O [LOCAL] vende tudo igual. [LOCAL] e Condomínio é praticamente a mesma coisa. O produto que eu vendo aqui, eu vendo nas outras unidades. Mas o rastreamento tem algumas peculiaridades. [LOCAL] vende alguns produtos que em [LOCAL] não vende. [LOCAL] optou pela [EMPRESA], vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5128,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: dar um exemplo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: e [LOCAL] optou pela [PESSOA], na questão de câmera veicular. Então, tipo, são coisas distintas. E aí eu vou ter que criar coisas distintas dentro do sistema e associar coisas distintas. Ele não tem associação, entendeu? Não sei se estou conseguindo me fazer expressar, mas como eu não conheço a estrutura de fato, eu conheço o [LOCAL] e os outros softwares, mas o CRM eu não tenho acesso à estrutura. Os outros eu tive o banco de dados aqui, então eu tenho um pouco mais de noção, mas o CRM não, então eu fico um pouco mais restrito. Até pensando assim, numa evolução, vamos pensar num futuro, evoluímos com a [EMPRESA], fechamos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a [EMPRESA], tudo certo. Eu acho, acho não, tenho plena certeza que a gente teria que fazer uma reunião com os desenvolvedores deles lá para entender aonde vocês conseguiriam implantar ou Nesse processo aí, a gente define algo diferente, né? Sentar com a direção aqui e dizer, cara, olha, encontramos dificuldades de fato, assim como vocês já estão encontrando para fazer a integração, e aí partir para uma ideia de troca de CRM, porque hoje vocês são integrados com... Fora o RD Station, você tem algum outro CRM integrado, não?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: A gente integra com diversos CRMs ao longo das décadas de uso do Proteus,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: né? [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então, assim, nativo TOTUS é o nosso carro-chefe RD Station.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Se a gente for pensar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: em",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: trocar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: de... Se",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a gente for pensar em trocar o CRM, a TOTUS vai sempre indicar os recursos TOTUS. Mas nós não estamos sozinhos no mercado. Em muitos projetos, a gente integra com qualquer CRM de mercado. Tendo um API daqui, um API dali, consome daqui, consome dali, a gente consegue integrar. [PESSOA], tu tens alguma? Acho que ligou lá o negocinho. Bom, depois, [PESSOA], se tu tiver alguma consideração ainda em função do [LOCAL] Run, beleza, senão a gente evolui para outro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Ao meu ver, do [LOCAL] Run, em si, são esses pontos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.545,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: São pontos cruciais.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Beleza. O outro ponto que nós temos aqui",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Se tu não te importar, [PESSOA], passa para o [PESSOA] essas situações que tu apontou aí, para ele me encaminhar aqui, como eu estou com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4739,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: alguns",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: contatos ali já com o pessoal do desenvolvimento deles ali, em função disso, para me pontuar para eles, entendeu? Cara, eu estou num momento, eu tenho um trimestre para decidir uma troca e eu tenho que entender se vocês vão poder continuar com a gente ou não. Então, eu tenho que passar isso para eles também, porque A gente optou, não, foi uma opção lá, a consultoria trouxe, como eu falei lá na reunião, trouxe o CRM pra nós na época, tá, tudo certo. E eu acho que não se pensou muito nesses pequenos detalhes, né? Então, hoje,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: já que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: eu tô fazendo toda uma análise, fazendo toda uma estruturação, eu vou ter que pensar em todos os detalhes pra não passar dois anos integrando,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 1]: é isso. Até aproveitando, esse mês eu converso com o [PESSOA], ele falou que toca de férias, e a gente vai fazer novamente a apresentação do CRM pra ele, possivelmente ele vai fechar pra parte do rastreio, acho que vai ser bom vocês fazerem esse depar aí do CRM. Mas claro que pode ser num segundo momento, né, [PESSOA], pra gente focar no [EMPRESA], mas a gente tá vendo aí que já tem algumas barreiras. Mas isso aí acho que é algo que é tranquilo pra nós resolver.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O [PESSOA] tá com uma bomba de canhão apontada pra alguns lados, porque se fecha conosco e daqui a pouco troca de sistema, a gente já tá num projeto de integração. Então teria que pagar duas vezes uma integração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ou ele quer tomar uma decisão antes de ter",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que... É, é que, tipo, pra que vocês entendam em qual situação eu tô. É como tu disse, eu tô literalmente caminhando num campo minado no momento. Porque a presidência me exige algumas atualizações em termos de [EMPRESA]. O seu [PESSOA] tava ali na reunião aí, os guris acompanharam, tá? e ele tem expectativas, até ele tá indo pro [LOCAL] amanhã, eu queria fazer uma reunião com ele antes e não consegui, ele vai tirar uns dias lá no [LOCAL], tá? Mas no retorno dele eu já pedi pra ele e pro [PESSOA] tirarem um tempo comigo pra gente pontuar algumas coisas, até porque ele tem expectativas e eu preciso colocar essas expectativas pra vocês também, em termos de relatórios e BI's que ele falou lá, porque tem um conselho acima que tá por trás disso. Então a gente tem que ter as entregas lá pra eles lá, O meu lado, eu vou pensar a questão de empresa como todo telealarme, pensando no que é uma troca de sistema. Já passei por isso mais de uma vez aqui. E, como vocês sabem, vai ter rejeição de um lado e vai ter apoio do outro. Então, eu tenho que entender aonde que a gente vai encaixar todas essas pecinhas aí para tomar essa decisão. Porque, tipo, não tem como eu simplesmente olhar e dizer, não, cara, para mim, vamos fazer aqui e deu, entendeu? Se não, porque eu estou dando um tiro no pé, dá telealarme, inclusive, do [PESSOA], né? Então, eu não posso fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então, eu preciso ter isso tudo bem desenhado, bem alinhado para que eu entenda que, tipo, ah, realmente, tomamos a melhor decisão, temos esse desafio, temos uma ideia do desafio, que eu acho que o principal fator é esse, eu ter noção de que isso vai acontecer dentro de um período ou de [PESSOA] tempo, ou isso aconteça em etapas definidas, para entender. Porque eu estava conversando com outro parceiro do segmento, e ele me colocou, eles estavam com o service, para vocês entenderem, e resolveu trocar. Ele não lembra qual foi o software, mas não foi da [EMPRESA]. Eu sei que foi uma outra solução. E os caras ficaram seis meses na outra solução e tiveram que retornar para a Inside, de volta para o próprio serviço, porque não conseguiram. Eles não conseguiram resolver a questão de faturamento, de começar a perder cliente, começar a ter problema no atendimento. E, cara, no atual momento, eu não posso. Eu já tive uma perda de receita considerável em 2024 por uma situação específica de um cliente que deixou de ser órgão público e passou a ser privado. Então, toda a minha atenção está em investimento e em solução. Eu tenho que fazer essas duas coisas casarem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá certo. Da nossa parte, está bem entendido. Eu costumo dizer que nessa jornada que nós temos de implantações, quem opta pela [EMPRESA] normalmente é o último [EMPRESA] que escolhe, porque é uma decisão estratégica e é uma empresa que suporta crescimento, suporta outros negócios dentro da mesma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ferramenta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Bem, vamos lá. Eu tenho aqui a documentação do [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: certo? [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então, eu passei para o [LOCAL]. [LOCAL], você já passou para o [PESSOA]? O [LOCAL] está perto aí, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4996,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: O [LOCAL] está presencial na TOTUS",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: e eu estou em",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4935,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [EMPRESA]. Estou procurando a documentação aqui da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Pode ficar tranquilo. Então, eu vou fazer o seguinte. Eu vou colar aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4282,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [EMPRESA], só para vocês entenderem, é uma parceria já bem antiga nossa. É o nosso primeiro software que a gente... adquiriu para a área de rastreamento, e aí sim, eu tenho o [LOCAL] deles lá, é parceirão meu aqui, já de longa data, se eu chamar ele domingo de noite para nós resolvermos o problema,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tá...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Eu vejo assim como uma coisa mais tranquila, tá? A gente não conseguiu fazer com a Inside lá, eu acho que não vou me atentar a detalhes, porque o O [PESSOA], o [PESSOA] não, desculpa, o [PESSOA] é quem tinha tomado frente dessa possibilidade lá de integração e o próprio pessoal da [EMPRESA] fazia contato comigo quando necessário pra fazer alguns ajustes, mas aí eu não sei no que que eles travaram pra evoluir, tá? Mas, cara, eles são bem tranquilos, então eu acho que Esse aí eu enxergo como o menor problema. Se tiver alguma dificuldade, eu já consigo apontar para eles lá e eles já podem trabalhar em cima.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Vamos fazer o seguinte. [PESSOA] brevemente o que faz os [LOCAL]. A gente já conversou sobre placa de veículos. A cada novo veículo controlado na frota do cliente tem que ter essa inclusão dentro do contrato. Fala um pouquinho para a gente entender.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: O [EMPRESA] é a plataforma de rastreamento veicular que a gente usa, tá? Então, hoje, como é que ele funciona lá? Ele tem, dentro da plataforma, um cadastro de cliente, tá? E cada cadastro de cliente tem um número de cadastro de placa, tá? Então, dentro desses cadastros de placas, eu vou ter lá algumas informações, tipo o ID do equipamento, o SSID do chip, e essas informações,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Estamos...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Voltamos. Onde eu estava? Na questão de integração, de necessidade, o que eu preciso que ambos conversem? Principalmente a parte cadastral, essa parte de cadastro do cliente e de placas. Hoje, dentro da plataforma de [LOCAL] que a gente usa, eles têm um negócio chamado gestão de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: risco.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Essa gestão de risco é uma gestão mais específica em cima dessa parte do rastreamento. O que acontece? Os clientes de alarme não têm esse tipo de... o volume de informações. Tu cadastra lá o cara, o endereço, o [EMPRESA], o valor de faturamento que vai ser cobrado dele e equipamentos que saíram na ordem de serviço de instalação. O rastreamento, ele tem o acréscimo da placa. E a gestão de cliente, ela varia de acordo com o quantitativo de placas. Então, para um cliente eu posso ter 200, posso ter uma. E o faturamento dele vai sendo dividido entre essas placas. Então, eu vou faturar em cima do CPF, do [EMPRESA], o valor [PESSOA], porém, cada veículo tem um valor independente. Tipo, eu cobro 59 reais pelo monitoramento de cada veículo. Se ele tiver 10, é 590 a composição de valor desse cara. Então, é mais ou menos nesse sentido. no sentido que ele funciona. E o que hoje não tem? Hoje eu não tenho esse duplo sentido entre sistemas, que se eu cancelar uma placa no service, eu sou obrigado a entrar no [EMPRESA], na plataforma de rastreamento, e desabilitar aquela placa. Então, eu precisaria que fosse isso. Tipo, eu tenho o cadastro da placa lá do [PESSOA], Quando eu ganho o cliente, entrou e cadastrei 10 placas, o [EMPRESA] vai ter aquele cadastro e esse cadastro vai estar linkando essa informação com as [EMPRESA]. Se eu fizer o processo de cancelamento de uma placa lá, ele desabilita lá nos [EMPRESA]. O contrário, acho que não, porque a gestão está em cima do [EMPRESA]. Então, ele que tem que ter a possibilidade de fazer o cancelamento lá. Mas quando eu ganho o cliente lá, e dou ok dentro do [LOCAL], ele tem que transmitir esses dados para dentro dos [EMPRESA], vamos dizer assim, que é o que não acontece hoje, que é feito manual. Então, eu faço tudo num [LOCAL] e depois eu faço tudo no outro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ok. [PESSOA], alguma questão?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Estou pensando aqui. Quais módulos do Proteus você está pensando no processo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Vamos lá. Até estava vendo isso agora em função do gestão de contratos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: É isso que eu ia falar, o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5007,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA], no nosso papo da última vez que a gente afinou ali, nós falamos em compras, estoque financeiro, faturamento, contabilidade fiscal, ativo fixo. Nós teríamos ali dentro, o rental, que é de locações, e o [LOCAL], que é aqueles de leituras,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: conferência, inventário. Nós deixamos, numa segunda onda, o rental e o automação e coleta de dados. Mas está faltando uma perna aqui do contrato. Era essa a pergunta que eu ia fazer, porque eu não estou achando, nas minhas anotações, gestão de contratos. Lembra o que nós falamos da parte de gestão de contratos?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: A gente citou mas acho que a gente não chegou a falar de produto tá [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4961,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu não tenho no [LOCAL] aqui o que eu tenho uma anotação tipo. Olha só o que eu escrevi. A parte contábil escrevia que importante dois cadastrinhos com o nome nosso que são item contábil e classe de valor para gestão de receita e despesas do mesmo cliente uma espécie de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: contrato.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Mas eu estou falando em gestão contabilidade gerencial e não de gestão de contratos, propriamente dito.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 5]: não vejo nenhuma citação, além dessa, de contratos. Entende o que eu quero dizer? Eu não tenho mapeado o módulo de gestão de contratos. [PESSOA]. É, mas a gestão de contratos é feita hoje dentro do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA], ok. Esse papo estava indo nessa direção, por isso que o [PESSOA] tocou nesse assunto também. Daqui a pouco a gente tem que... Opa, eu dei um passo para trás para botar o gestão de contratos e a gente seguir.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Exatamente, porque hoje eu estou pensando, como que a gente vai fazer esse controle do novo veículo que entra, por exemplo? Tem que estar vinculado a um contrato, esse contrato tem que ser feito uma baixa, tem que ser o processo de validação, tem toda a estrutura.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É, hoje, como a gente faz, tá? A gente trata isso como um pedido adicional. Dentro do... Tem um contrato, eu fechei um contrato com o [PESSOA], 10 veículos, beleza. O [PESSOA] passou 30 dias e ele me disse,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: vendi um dos meus veículos e não tenho intenção de reposição. Bom, eu vou lá e desabilito dentro do gestão de risco esse veículo. e aí reduz automaticamente do teu valor lá, deduz do teu valor aquele veículo. Pronto. Passados dois, três meses, tu resolve colocar ou acrescer a tua frota, eu vou fazer um pedido adicional, vou colocar como um pedido adicional e vou colocar mais um valor de MRR lá dentro, mais uma receita naquele valor que seria mais um veículo. A gente não gera um novo contrato, a gente trabalha como pedido adicional. Por isso que eu digo que existe lá o módulo, vamos dizer assim, gestão de risco. Eu trato o cliente como uma unidade, porém eu faço uma gestão em cima de cada",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: veículo. [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É como se fossem vários serviços, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4782,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Eu tivesse",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: adicionado vários",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: serviços",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: para aquele cliente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Eu já estou consultando aqui as APIs deles para ver o que tem disponível. Então, por exemplo, tem para criar cliente, criar frota, adicionar mais carros dentro de um conglomerado, durante uma frota, criar o rastreador, criar o usuário para acesso, criar o veículo, que é o que você comentou, que é a placa, que é onde você coloca os dados do veículo em si. Dentro do veículo, você tem que passar a primeira parte, a id do cliente, a id da frota, o tipo, a placa,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: descrição,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: marca, que aí são os dados do ativo. daquele cliente. Então, isso é o que eu entendi da API",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: deles,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: como que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gente trataria.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Bem,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o [EMPRESA] é o segundo. Nós temos um terceiro, que é o [EMPRESA], que hoje nós não temos a documentação, certo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Isso, eu já cobrei lá para ver se o pessoal me dá um apoio lá para tentar. Entregar essa documentação aí pra gente entender Mas hoje, aquilo que eu falei lá na reunião Hoje, tipo, é semelhante ao rastreamento ali Eu ganho o contrato do cliente, né [PESSOA] lá pro cliente, lá independente de locação ou venda E eu vou ter um monitoramento do alarme ou do controle de acesso No momento que dá ganho lá no contrato, ele tem uma chavezinha que ele aponta para o [EMPRESA] e entrega esse dado",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: cadastral. A gente falou sobre abrir uma ordem de serviço no Proteus e mandar para o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5868,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Hoje, no sistema atual, ele não depende da ordem de serviço especificamente. Ele depende da finalização do fechamento da venda, vamos dizer assim. Fechou o contrato, deu tudo certo no que a menina vai",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: dar,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: deu o ok dentro do sistema do [EMPRESA]. Ela tem um botãozinho lá que é atirar os dados lá para dentro do [EMPRESA]. Então ele cria dentro do [EMPRESA] lá um cadastro. Ele valida a disponibilidade lá do banco de dados, cria. com o ID do próprio [EMPRESA] lá, na sequência do [EMPRESA], o número de chave, ou conta, que a gente chama, que é o identificador desse cliente comum entre os dois sistemas, que é o que vai lá no painel de alarme, o número da conta, é um número alfanumérico lá, de quatro caracteres. Esse cara é colocado manual. Aí a pessoa que faz a consulta lá para validar qual o número que vai ser colocado. Por exemplo, da minha casa é B241, tá? Então, tipo, na hora que cadastraram, fecharam a minha venda lá, ela ativou a comunicação entre os dois sistemas lá para ele criar o cadastro dentro do [EMPRESA] e aí ela bota ali esse número de conta, vamos dizer assim, que a gente chama de chave aqui, né? Então, aí cria lá o cadastro e faz isso. É isso mais ou menos que acontece. Não leva muitas informações. Se eu não me engano, é mais a parte cadastral, mas aí teria que olhar a API. Porque produto a gente não leva pra dentro do sistema, tá? Só a questão de manutenção. A ordem de serviço, sim. Ele cria toda vez que o... que o [EMPRESA] cria uma ordem de serviço, ele faz a busca lá no [EMPRESA] e lança a ordem de serviço lá dentro do sistema deles. E aí tem um referencial lá. A ordem de serviço cria com o número dele, lógico, mas tem um referencial dizendo que ela é a ordem de serviço número tal dentro do [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Entendido. Bom, são três integrações e o resto é produto padrão. certo? Eu vou encaminhar os demais, eu não sei se eu já encaminhei, mas eu fiz algumas revisões agora",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3983,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que foi encaminhar para o [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5688,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o que eu já tenho coletado e também agora as adaptações que eu fiz durante esse nosso papo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4975,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Nessa questão do [EMPRESA] com um [EMPRESA], tá? Eu chamo de botões porque literalmente são botões que tu entra no sistema lá e clica lá para ativar, para fazer alguns depara, vamos dizer assim. A parte de cadastro de técnico, ela é feita a partir do [EMPRESA], tá? Ou melhor, desculpa, Ela é feita, hoje, no nosso contexto atual, a partir do [EMPRESA]. Então, eu tenho um botãozinho lá. Eu preciso criar um técnico que vai utilizar o sistema aqui em [LOCAL]. Eu vou ali na unidade [LOCAL] e crio o técnico [PESSOA]. Dou a nomenclatura lá para ele e dentro da unidade de [LOCAL]. Aí, lá no sistema do [EMPRESA], eu entro na unidade [LOCAL] e faço uma verificação. Ele vai lá e consulta a tabela lá do outro sistema e verifica quais os técnicos que estão ativos. Se tem um novo lá, ele automaticamente cria no [EMPRESA]. Aqui, quando ele gerenciar a ordem de serviço e passar as informações e o pessoal poder fazer testes e coisas lá pelo aplicativo, ele consegue colocar a central em manutenção, que é um termo que a gente usa ali do sistema de monitoramento, que é o quê? tu habilita lá um botão que tem no [EMPRESA], tá? A partir do aplicativo do [EMPRESA] ali de execução de ordem de serviço, tu habilita um botão",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: lá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que todo evento que tu passar, tudo que tu fizer de teste lá, não vai entrar na tela de monitoramento, tá? Então, ele consegue consultar os eventos que ele tá fazendo, os testes ali, ele consegue... consultar os dados da conta de monitoramento, tá? Tipo senha, master, instaladora, que são coisas ali. Eu consigo aprofundar mais vocês mostrando ali, mas aí acho que a gente pede as APIs também. Eu pedi tudo isso para a [LOCAL], tá? Tudo que envolve a parte cadastral e tudo que envolve a parte de ordem de serviço, porque a parte de ordem de serviço hoje a gente faz no [EMPRESA], mas ele consegue colocar em manutenção, que é o termo que a gente usa aqui para poder fazer os testes, e ele consegue fazer algumas consultas do [EMPRESA] ali em termos de informação da parte de monitoramento de alarme e controle de acesso. O rastreamento não usa isso, o rastreamento não tem esse tipo de consulta, não fica fazendo, não sei nem se vai ter, vamos dizer assim, não é uma coisa que eles utilizam hoje, mas na área de alarme sim. Então a parte, eu vou dizer assim, que a parte do [EMPRESA], a parte de OS talvez tenha muito mais troca de dados do que a própria parte de cadastro, que ele entrega o cadastro, cria a conta e depois ele parte para essa parte aí. Aí tem o técnico, tem o tipo de ordem de serviço, causa de OS, tudo isso a gente cria tudo dentro do [EMPRESA] e aperta o botãozinho no [EMPRESA] para trazer os dados para dentro do sistema, para fazer o depara.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim. Tá bem? Assim que eles nos mandarem, nos encaminha",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4242,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: documentação, que daí sempre facilita mais.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [PESSOA]. Com isso a gente vai analisando os outros dois casos, que já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5455,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 14]: documentação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá. Já vou mandar agora,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: para o [LOCAL]. Já passa teu e-mail aqui, escreve no nosso chat, que eu já te encaminho também, por favor.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4897,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [LOCAL], já mandei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: no chat. Bom, da nossa parte é isso. Algo mais, [PESSOA]? Fique à vontade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4611,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Cara, a princípio, acho que se eu me lembrar, eu vou passar para o [PESSOA] ali e se vocês encontrarem alguma coisa nas documentações aí, que vocês também achem necessário entender, me perguntem, porque aí a gente vai trocando informação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né? Combinado. Muito obrigado novamente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: seu tempo. O",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA] tava numa outra reunião que eu tava, né [PESSOA]? Você tava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4963,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: num",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: evento,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: né? Cara, eu creio que sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É, não, eu me lembro. Não era o [PESSOA], era outra menina que foi uma outra conversa que a gente teve já faz um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4328,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tempinho. Já tem um tempo, já.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Ah, lembrei,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: um tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não, é um rosto conhecido, já vi ele.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Se acharam, estão no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4978,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: mundo aí. Mas tranquilo, qualquer coisa a gente vai trocando informação, vamos conversando, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: obrigado, cara.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Eu que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: agradeço.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: [LOCAL], valeu,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL], pessoal. Tchau,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3811,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: [LOCAL], pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    }
+  ]
+}

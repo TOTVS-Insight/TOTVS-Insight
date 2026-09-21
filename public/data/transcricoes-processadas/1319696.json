@@ -1,0 +1,61 @@
+{
+  "id_reuniao": "1319696",
+  "codt": "TFBTGH",
+  "data_reuniao": "2026-04-01 14:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS INTERIOR PAULISTA - CAMPINAS",
+  "segmento": "SERVICOS",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 2]: VP\n[LOCUTOR 1]: [EMPRESA]\n[LOCUTOR 2]: Na verdade eu acho que ela cancelou, cara Eu não sei quem é esse consultor de venas aqui Mas a [PESSOA] me mandou um ato aqui, ó Me mandou um print e um ato [EMPRESA] acabou de me chamar para agenda, será às 14h30, vim até a TOTOS, preciso resolver essa proposta, vou reagendar aqui [PESSOA], né, falou Ah,\n[LOCUTOR 1]: tá\n[LOCUTOR 2]: Então vamos sair. Isso aqui deve ser algum bot ou alguma coisa que entra para gravar. Beleza, então. [LOCAL]. Vamos voltar lá para a nossa conversa.\n[LOCUTOR 1]: Beleza.",
+  "texto_filtrado": "[LOCUTOR 1]: [EMPRESA]\n[LOCUTOR 2]: Na verdade eu acho que ela cancelou, cara Eu não sei quem é esse consultor de venas aqui Mas a [PESSOA] me mandou um ato aqui, ó Me mandou um print e um ato [EMPRESA] acabou de me chamar para agenda, será às 14h30, vim até a TOTOS, preciso resolver essa proposta, vou reagendar aqui [PESSOA], né, falou Ah,\n[LOCUTOR 2]: Então vamos sair. Isso aqui deve ser algum bot ou alguma coisa que entra para gravar. Beleza, então. [LOCAL]. Vamos voltar lá para a nossa conversa.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:14.666792+00:00",
+    "total_linhas": 6,
+    "linhas_mantidas": 3,
+    "linhas_removidas": 3,
+    "percentual_mantido": 50.0,
+    "confianca_media": 0.515
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: VP",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Na verdade eu acho que ela cancelou, cara Eu não sei quem é esse consultor de venas aqui Mas a [PESSOA] me mandou um ato aqui, ó Me mandou um print e um ato [EMPRESA] acabou de me chamar para agenda, será às 14h30, vim até a TOTOS, preciso resolver essa proposta, vou reagendar aqui [PESSOA], né, falou Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Então vamos sair. Isso aqui deve ser algum bot ou alguma coisa que entra para gravar. Beleza, então. [LOCAL]. Vamos voltar lá para a nossa conversa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.51,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    }
+  ]
+}

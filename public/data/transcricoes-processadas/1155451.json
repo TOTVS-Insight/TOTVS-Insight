@@ -1,0 +1,1855 @@
+{
+  "id_reuniao": "1155451",
+  "codt": "DBNAH5",
+  "data_reuniao": "2026-03-04 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 6]: Boa tarde, [PESSOA]. Tudo bem? \n[LOCUTOR 11]: tarde,\n[LOCUTOR 40]: pessoal. Boa tarde, pessoal. Tudo\n[LOCUTOR 29]: bem?\n[LOCUTOR 6]: E aí, [PESSOA]?\n[LOCUTOR 40]: Tudo\n[LOCUTOR 6]: certinho, cara?\n[LOCUTOR 40]: Tudo,\n[LOCUTOR 6]: tudo\n[LOCUTOR 40]: certo.\n[LOCUTOR 6]: Entra mais alguém, [PESSOA]? Quer esperar um pouquinho?\n[LOCUTOR 40]: Eu vou. Vai entrar o [PESSOA]. Deixa eu chamar ele aqui.\n[LOCUTOR 6]: Boa tarde, [PESSOA]. Tudo bem? Opa,\n[LOCUTOR 4]: boa tarde.\n[LOCUTOR 6]: Chegou o homem. Mais algu\n[LOCUTOR 37]: participa,\n[LOCUTOR 6]: [PESSOA]?\n[LOCUTOR 40]: Isso aí, seria nós. Por hora seria nós, [PESSOA].\n[LOCUTOR 6]: [LOCAL]. Pessoal, como todos já se conhecem da nossa última agenda, vamos partir logo para o principal, que é conhecer um pouco mais sobre os processos da solução do TMS SAS da TOTUS. Entender como vai ser a aderência deles para a operação atual da [LOCAL]. Já passo a palavra para o [PESSOA], o [PESSOA] também fica à vontade se quiser personalizar. Já passo para o [PESSOA] poder iniciar a apresentação.\n[LOCUTOR 29]: Boa tarde, pessoal. Tudo bem?\n[LOCUTOR 4]: Boa tarde.\n[LOCUTOR 29]: Boa tarde. Só deixa eu salvar aqui um XML para a gente fazer o processo. Pronto. Estava bugando aqui algumas informações só para não perder. Então, como o [PESSOA] trouxe, a ideia hoje é mostrar para vocês um pouco na prática como é que ocorrem as etapas das operações dentro do nosso TMS. Na agenda passada, a gente já mostrou para vocês algumas configurações, tabela, contrato com os clientes de vocês e tudo mais. E hoje a ideia é mostrar um pouco de como que a gente gera as informações aí de manifestos, como que a gente gera o site, como que a gente recebe o documento de carga e assim por diante. Então, deixa\n[LOCUTOR 4]: eu\n[LOCUTOR 29]: só compartilhar com vocês,\n[LOCUTOR 4]: s\n[LOCUTOR 2]: um minutinho, por favor. Acho que vocês já estão vendo a tela. Deixa eu aumentar. Acho que agora vocês estão vendo a tela, né? Legal. Eu já vou direto nas soluções, porque na agenda passada nós já apresentamos, já falamos que é a suíte [PESSOA], né? quais são as soluções que a [LOCAL] tem hoje, mas fique super à vontade para estar questionando se ficar alguma dúvida ou se gerou uma dúvida na agenda passada, tá? Com relação à Suite [PESSOA], o que é, como funciona e tudo mais. Só recapitulando, então, a Suite [PESSOA], todas as nossas soluções são SaaS, nuvem, né? Então, aqui vocês vão estar recebendo esse endereço, esse URL aqui de internet, literalmente, acessando as nossas soluções. Aqui nós temos agendamentos como a [EMPRESA], o [LOCAL], a AGI, [EMPRESA] [PESSOA] é uma novidade, tá? Eu acho que eu havia comentado com vocês, mas não estava liberado ainda. Tem alguns clientes pilotando, eu vou mostrar para vocês um pouco o que é o [EMPRESA] [PESSOA]. Eu acho que até mencionei, não vai ser esse nome, tá? Isso aqui é um nome provisório, então vai ter um outro nome aqui, o [EMPRESA] [PESSOA], e eu vou falar o que é esse [EMPRESA] [PESSOA] para vocês na sequência,\n[LOCUTOR 4]: tá?\n[LOCUTOR 29]: Aí nós temos outras soluções aqui que nós havíamos falado, do coleta-entrega, do marketplace,\n[LOCUTOR 4]: do\n[LOCUTOR 29]: monitoramento logístico, correncia,\n[LOCUTOR 4]: e\n[LOCUTOR 29]: principalmente a gente navegou pelo TMS comercial, onde a gente tem todo o cadastro de clientes e tudo mais, e o TMS operacional. Então nós vamos começar pelo TMS operacional, que é... Hoje nós temos aqui algumas configurações importantes.\n[LOCUTOR 4]: \n[LOCUTOR 5]: chamamos de personas aqui, então pode ser cliente, pode ser um prestador de serviço, pode ser um motorista e assim por diante. E\n[LOCUTOR 29]: tudo nasce aqui dentro do documento de carga. Hoje, como é que a gente\n[LOCUTOR 4]: imputa,\n[LOCUTOR 29]: como que a gente traz esse documento de carga para dentro das soluções? Só lembrando que a gente tem o AGI aqui, foi liberado nesse, nós somos no mês de fevereiro, não, de março, finalzinho de fevereiro, tá? Aqui vai também ter uma melhoria onde é possível receber os seus ML diretamente, ok? Então tem essa possibilidade também. E o documento nasce aqui dentro do [EMPRESA]. Então, como é que ele nasce hoje, tá? Eu posso clicar\n[LOCUTOR 4]: aqui...\n[LOCUTOR 29]: e putar manualmente esses documentos. Isso aqui é o documento de carga. Quando a gente fala em documento de carga, são as notas fiscais do cliente de vocês, tá? Ou eu posso simplesmente vir aqui, buscar um arquivo, né? Deixa eu só mudar a posição dele aqui. O XML e arrastar. Como eu falei, isso vai ser automatizado ainda, tá? Tem muita coisa acontecendo, vai ter uma automatização nesse processo. Então, cliquei, arrastei aqui o documento de carga, assim que ele nasce hoje, como eu mencionei. Traz todas as informações, né? [PESSOA], quando\n[LOCUTOR 40]: você fala que vai ter a automatização desse processo, vocês têm mais ou menos uma previsão para isso acontecer? Como que está isso?\n[LOCUTOR 4]: \n[LOCUTOR 14]: dentro do AGI, ele já foi liberado algumas partes, mas essa atualização provavelmente vai até no mês de 6 aí, mês de primeiro semestre, para estar liberando.\n[LOCUTOR 40]: [LOCAL].\n[LOCUTOR 29]: Então aqui ele já diz as informações ok, ou seja, todas as informações do XML ele conseguiu carregar. Vocês vão\n[LOCUTOR 4]: perceber\n[LOCUTOR 29]: que tem muito status aqui dentro, tá? Das fichas como um todo, mas falando mais da parte aqui do TMS. Ele traz todas as informações, de qual que é o remetente, tá sendo dessa indústria, qual que é o endereço dela, tá indo para onde, qual que é o destinatário, bem, isso que é o padrão do crescimento de vocês. Razão social da transportadora também, volumes, produtos e tudo mais. Aqui tem uma aferição, nós temos situações que alguns clientes, como eles trabalham por frete de peso, às vezes o cliente da transportadora coloca um peso qualquer na nota, ou o peso não está correto. Então existe um processo de aferição. Esse processo de aferição ocorre aqui dentro da automação de terminais. Acho que não, não faz muito sentido o processo de vocês, que é líquido, mas geralmente acontece muito com fracionado. Então quando o motorista da transportadora vai lá nos clientes, ele está fazendo a coleta, E quando ele traz esse produto para dentro do terminal da transportadora, nós temos um processo aqui que é de aferição,\n[LOCUTOR 4]: onde\n[LOCUTOR 29]: a gente pega o peso real do produto. Então, aqui dentro do [EMPRESA], eu poderia estar colocando aqui as informações\n[LOCUTOR 4]: do\n[LOCUTOR 29]: peso real, não o que consta na nota fiscal que veio do cliente da transportadora. Então é isso aqui na aferição. Aqui traz o produto da nota fiscal, o código dele e tudo mais. Observação, aqui tem algumas informações operacionais. Se eu tenho ou não tenho uma solicitação de coleta... [EMPRESA]?\n[LOCUTOR 40]: Ali nessa aferição que você mencionou, ele vai trazer o dado da nota, né? Eu vou fazer a aferição caso desejada, né? Isso.\n[LOCUTOR 29]: [LOCAL], perfeito. Ele vai trazer as informações da nota fiscal, tá? Então, mas como eu falei, talvez com o produto de vocês não se encaixe muito, né?\n[LOCUTOR 40]: Hoje até para você entender também, não sei se você vai entrar, a gente hoje calcula, nossa forma de cálculo para o frete,\n[LOCUTOR 4]: ou\n[LOCUTOR 40]: ele é em litro transportado ou tonelada transportada.\n[LOCUTOR 29]: Então tem\n[LOCUTOR 40]: as duas modalidades hoje, nosso\n[LOCUTOR 29]: cadastro.\n[LOCUTOR 4]: Mas\n[LOCUTOR 29]: você já pegou... Não, tranquilo isso, tá?\n[LOCUTOR 40]: A gente\n[LOCUTOR 29]: pode até revisitar, na última agenda eu mostrei ali o cadastro componente, mas a gente pode revisitar ele de novo, tá? Sem problema\n[LOCUTOR 40]: nenhum.\n[LOCUTOR 29]: Mas, por exemplo, você vai lá no cliente de vocês\n[LOCUTOR 4]: para\n[LOCUTOR 29]: buscar o produto, a nota sai 5 mil litros ou 5 mil quilos e se você passar pelo peso real ele pode ter essa divergência? Vocês\n[LOCUTOR 4]: têm\n[LOCUTOR 40]: essa\n[LOCUTOR 29]: aferição de peso hoje?\n[LOCUTOR 40]: Hoje não.\n[LOCUTOR 4]: \n[LOCUTOR 35]: não, porque automaticamente, quando você está carregando para fazer a emissão da nota na companhia, ela já passa por\n[LOCUTOR 40]: essa aferição antes da\n[LOCUTOR 29]: emissão da\n[LOCUTOR 40]: nota. É pela\n[LOCUTOR 29]: densidade\n[LOCUTOR 40]: do produto. Como tem produtos\n[LOCUTOR 29]: de\n[LOCUTOR 40]: densidades diferentes, ela já\n[LOCUTOR 29]: é feita\n[LOCUTOR 40]: essa aferição antes de emitir a nota fiscal.\n[LOCUTOR 29]: É, perfeito. É como a gente vai na bomba ali, né? Seu carro já tá medindo ali a quantidade real, né? Mais ou menos isso também, né?\n[LOCUTOR 40]: É,\n[LOCUTOR 29]: mas\n[LOCUTOR 40]: no caso a gente que faz o transporte do produto puro e do misturado também, ele muda conforme densidade e temperatura, né? Então a nota fiscal do que a gente tá transportando diferente da bomba Ela é baseada no que realmente a 20 graus o que está sendo transportado,\n[LOCUTOR 4]: pela\n[LOCUTOR 40]: densidade desse produto.\n[LOCUTOR 29]: [EMPRESA]. Se tiver essa necessidade de colocar o peso real, o cubagem e tudo aqui em cima, Aí você poderia estar informando aqui, tá?\n[LOCUTOR 40]: Se\n[LOCUTOR 29]: for necessário. Então, se você for lá e tem um peso, sei lá, de uma pesa ferida para ser uma tonelada e tem 900 quilos, ou tem uma tonelada e meia, então\n[LOCUTOR 4]: você poderia\n[LOCUTOR 29]: colocar aqui para o sistema considerar o peso real da transportadora no momento geral cálculo, tá? Informações do pedido. Aqui é a coleta. Se o cliente da transportadora solicitou através de uma coleta, então a gente tem o marketplace, onde o cliente da transportadora solicita uma coleta. Então, caso você queira amarrar\n[LOCUTOR 4]: essa\n[LOCUTOR 29]: solicitação de coleta, anota. Isso também é possível aqui dentro. [PESSOA] que é o modelo operacional? Coleta com consolidação, coleta entrega direta, recepção de caixa com consolidação, enfim. [PESSOA] estacionada, fechada, coleta de mercadoria, químicos, informa aqui também, que o meu contrato tem tanto o modelo operacional como a especialização. Então, se vocês trabalham de formas diferentes aqui, lá no contrato, quando você cadastrar para o cliente, ele já busca essa informação também. Aqui o transportador, no caso de vocês mesmo, que é quem está emitindo aqui depois do CTE, com as entregas e tudo mais. Eu tenho aqui também, eu só tenho um agendamento, então eu poderia colocar um agendamento aqui, vou entregar hoje, deixa eu pegar aqui, 14 horas e 10 minutos, por exemplo. Análise de operacional, aqui ele só traz informações, ele só está indicando que a abrangência que vocês estão realizando é uma operação interestadual, o terceiro termo principal, a questão está indicando isso.\n[LOCUTOR 4]: \n[LOCUTOR 14]: você tem como buscar quem é o contratante, é opcional, tá? Veja\n[LOCUTOR 29]: que é opcional, mas você poderia vir aqui. Quem é que tá contratando? Quem vai? A [EMPRESA], né, que é a indústria que eu tô carregando os produtos dela. É só mais informativo, tá? Mas caso você queira anexar aqui, selecionar, melhor dizendo, é possível também.\n[LOCUTOR 4]: E\n[LOCUTOR 29]: aqui eu tenho os produtos da transportadora, tá? Então, eu poderia estar colocando aqui... Eu estou levando o produto do cliente, mas eu posso, eu, transportadora, colocar como uma carga geral, né? Então, eu posso ter os próprios produtos aqui dentro. Então, eu vou informar manual aqui, tá? Não busca da nota fiscal.\n[LOCUTOR 4]: Aqui,\n[LOCUTOR 29]: eu tenho que... Até conversei hoje com... O pessoal, tá?\n[LOCUTOR 4]: \n[LOCUTOR 12]: ele deveria estar buscando mesmo da nota, enfim. Eles não me responderam ainda, mas assim\n[LOCUTOR 40]: que eu\n[LOCUTOR 29]: encerro o hor\n[LOCUTOR 21]: eu\n[LOCUTOR 29]: passo pra vocês.\n[LOCUTOR 40]: Pra ti não ficar passivo a erros aqui, né? \n[LOCUTOR 14]: é o produto não da nota\n[LOCUTOR 4]: fiscal\n[LOCUTOR 29]: que você tá carregando de fato, é um produto... Por exemplo assim, tu tá carregando... farinha de trigo da marca tal tal tal, farinha de trigo não sei o que tal tal, daqui a pouco só coloca como o produto que você está transportando, trigo. É mais um centralizador de informações, tá? Pra você saber o que você está, de fato, carregando. A produto que você está carregando, química.\n[LOCUTOR 4]: Você tinha que\n[LOCUTOR 29]: colocar\n[LOCUTOR 4]: a informação de produto predominante, né? Que vai lá no [EMPRESA].\n[LOCUTOR 29]: É.\n[LOCUTOR 4]: Deve ser mais ou menos isso.\n[LOCUTOR 29]: Isso, exatamente, produto predominante. Lá no [EMPRESA] ele vai carregar essa informação.\n[LOCUTOR 4]: \n[LOCUTOR 25]: eu vou salvar aqui o documento. Aqui ele trouxe, é esse documento 43 aqui, as informações ele diz que está ok, ele está como não iniciada, as operações, a prestação de serviço. Aqui ele traz qual é a\n[LOCUTOR 29]: chave do documento também. Deixa eu copiar a chave aqui. São todas as informações do documento, tá? Você vai perceber que aqui dentro ele tem muitos status, como eu mencionei anteriormente. Aqui eu posso depois gerar uma ocorrência, caso eu queira, dentro da própria nota fiscal, dentro do próprio documento. Eu posso imprimir a etiqueta de produtos. Eu posso estar ajustando o endereço, caso eu queira. Aferição dos volumes eu posso estar fazendo nesse exato momento. Se eu implantei a nota, trouxe a nota fiscal, mas eu não tinha ainda o volume aferido, eu posso fazer no segundo momento. Eu posso estar ajustando alguns percursos aqui e assim por diante, tá? Aí o que a gente faz agora? Eu vou aqui dentro do documento de transporte. Só deixa eu abrir um parênteses bem rapidinho, tá? Eu tô fazendo processo manual, tá? Depois eu vou mostrar um processo mais informático para vocês, mas eu acho que o manual que é importante para ter entendimento, tá?\n[LOCUTOR 4]: \n[LOCUTOR 25]: eu vou gerar agora um documento, o CTE, leia aqui, posso estar bipando, né, a chave, enfim, ele já pegou a nota fiscal, informações a princípio tá tudo ok também, situação de prestação ainda não tá, tá indeferida, né, porque eu nem, opa, acho que eu peguei o documento errado, salutinho. Vou pegar a chave aqui de novo. [PESSOA], fiz tanto teste para vir aqui para dar esse erro, nem não, né? Eu tinha pego a nota errada, 43, o que a gente tá vendo é 44. Aqui ele também traz, aqui eu tô girando o [EMPRESA], tá? Ele gera esse documento aqui primeiro, tá? porque eu não tenho o número dele, eu não mandei para o fiscal ainda. Então ele gera um código e a gente consegue trabalhar com esse código aqui também. Depois vai ter um vínculo desse código aqui com o número real do documento de frete. [LOCUTOR 14]: ele traz todas as informações também, quais são as pessoas envolvidas, qual que é o cliente e tal, o endereço e tudo mais. Eu tenho aqui também o modelo operacional da coleta casioqueira, com entrega direto ou não. o remetente, o cliente, abrangência da operação, a gente já tinha visto lá, interestadual. Caso eu tenha quilometragem aqui, também posso ter formando. Caso eu queira colocar o tipo de veículo, posso também, se tiver ajudantes. Aqui ele traz qual que é o itinerário, para depois quando eu gerar o manifesto, para ele gerar esse... Contemplando essas informações aqui. Eu\n[LOCUTOR 29]: vou buscar aqui qual que é o meu contratante, tá? Então aqui é justamente para buscar qual que é a tabela de frete, qual que é a negociação que está vinculada, o tipo da tabela. No meu caso aqui é normal, mas poderia ser uma reentrega, por exemplo, ou algo nesse sentido, se eu estiver gerando. O tipo de frete, se é [EMPRESA], FOB e tudo mais. Então ele traz aqui a contratante e ele busca as tabelas. Eu vou dizer que é uma carga fechada aqui também. Entrega direta. Se tem uma previsão, não? Pois não.\n[LOCUTOR 4]: Meu colega\n[LOCUTOR 29]: deve\n[LOCUTOR 4]: ter entrado aí agora, o [LOCAL].\n[LOCUTOR 6]: Exatamente isso, acabei de liberar aqui, tá gente?\n[LOCUTOR 29]: Beleza. Agendamento de entrega, vamos ver o que é hoje. Às 16 horas. Aqui ele pede volumetria também, tá? Então, ele trouxe só um volume, mas aqui ele buscaria as informações que tinha inserido no documento de carga também, ou você poderia colocar outras informações. Aqui que eu preciso, tô conversando com a equipe, tá? Confesso que tá vendo, ele não traz o item que veio lá do documento, tá? Então, já passei pra galera ali pra ver o que tá acontecendo. Como é uma base que todo mundo mexe, [LOCAL] inteiro, aliás, até o pessoal, não, [LOCAL] inteiro, a gente não tá usando ainda, então tem coisa que o pessoal vai mudando, tá? Então, você tem uma configuração e infelizmente alguém vai lá e acaba eliminando, excluindo, alterando. Então, você deve saber que o manifesto, por exemplo, se uma viagem, você falou que não fechou dentro de 30 dias, a CFAZ não permite você gerar um novo manifesto, né? Então tem uma norma técnica em cima disso. E como tem gente que fica criando e não finaliza, então de vez em quando aparecem essas inconsistências assim, tá gente? Eu peço desculpas, mas a ideia é mostrar o sistema rodando, né? Se você quer ter algumas observações aqui, e aqui ele traz informações para o cálculo do frete. Então ele me traz lá da tabela de frete quais são os componentes, Ele calcula porque, no meu caso aqui é valor fixo, então é valor fixo, não tem por que calcular em cima de nada.\n[LOCUTOR 4]: \n[LOCUTOR 7]: frete valor em cima do valor da mercadoria e o frete peso em cima do peso da mercadoria. Ele não tem variação nenhuma, então aqui ele trouxe qual que é o valor da mercadoria, R$ 3.720,00, e qual que é o peso da mercadoria, R$ 1.259,00. Quando eu vou para o dados do frete aqui, eu vou clicar em calcular. Eu não estou fazendo o frete manual. O que ele faz nesse momento aqui? Deixa eu só... Só um minutinho que eu vou compartilhar com vocês aqui. O que ele está fazendo nesse exato momento? Aqui ele está gerando de fato o cálculo do frete e vai gerar também o cálculo de imposto, onde eu clicar cálculo de imposto aqui. E é nesse momento que ele vai gerar o número do FAST, porque a gente vai mandar lá para o motor fiscal, que é uma solução, vocês adquirindo, vocês acabam recebendo ela, que faz parte do pacote, onde ele vai estar gerando o CTE, e nesse momento ele já vai validar com a [LOCAL] também o CTE, para ter o uso autorizado ou não ali. Deixa eu só ver se eu tenho o motor fiscal aqui. Agora ele já retornou. [PESSOA] que é o cálculo com o imposto e qual que é o cálculo sem imposto com o valor de imposto e tudo mais. E agora eu vou efetivar a nota. O [EMPRESA]. Perdão gente é nesse momento que ele vai para o motor fiscal. ele vai pro motor fiscal. Então tá aqui ó, documento gerado em andamento. Então agora a gente aguarda um segundinhos aqui pro motor fiscal processar. Ó, ele tá processando. Opa. 1425, ele deu como uso autorizado. Está aqui o documento, o código externo que a gente chama aqui dentro. Vamos clicar aqui no botãozinho verde. Ele falou que já foi para o fiscal. Aqui está o CTE, o número do CTE gerado. Aqui você tem os anexos, tanto o XML quanto o PDF também. E agora ele está fazendo automaticamente a verbação. Então vamos aguardar o instante que também vai fazer, ó, gerou a verbação também com sucesso, tá? Então nesse processo de inclusão no CTE, quando você vai na opção efetivar, ele cria o CTE de fato, ele vai pro motor fiscal, vai pra [LOCAL], né, ele faz autorização e tudo mais, e nesse mesmo processo você faz a verbação também. E aqui, no operacional... Tem documentos ali, só a questão dos anexos ali. Tanto o XMR como a [EMPRESA] já vão para o cliente por e-mail? Isso é automático?\n[LOCUTOR 29]: Eu preciso confirmar, tá? Eu até... Até dia 27, 26... 27 foi sexta-feira. A gente fez um questionamento, tivemos uma reunião, não estava disparando automático ainda, tá? Mas eles falaram que estava desenvolvendo. Deixa que eu vou confirmar e eu te retorno, tá? \n[LOCUTOR 1]: trazer\n[LOCUTOR 29]: a informação correta.\n[LOCUTOR 4]: Até porque a gente precisa mandar o XML para o cliente, mas caso a gente cancele um CTE ou [EMPRESA], tem que mandar esse cancelamento também para o cliente, né? Então, tudo automaticamente, né? Não,\n[LOCUTOR 29]: sim. Na verdade, quando a [LOCAL] autoriza, o cliente de vocês, através da mensageiria, ela vai lá e busca o CTE já, né? Isso\n[LOCUTOR 4]: acontece...\n[LOCUTOR 29]: Vai depender\n[LOCUTOR 4]: do cliente, né? Vai depender do sistema que o cliente vai ter, né?\n[LOCUTOR 29]: É, mas hoje, quando ele... Porque ele já busca as notas fiscais do fornecedor dele, né? Quando ele compra os produtos matéria-prima. E o CTE também ele busca automático, né? Os XML. Mas eu vou... Estou anotando aqui só para perguntar de novo.\n[LOCUTOR 4]: \n[LOCUTOR 13]: um cuidado muito grande aqui, [PESSOA], de trazer algumas informações porque está tão dinâmico os desenvolvimentos. Então, a gente sempre tem uma novidade, tá? Então, eu vou só confirmar se de fato eles desenvolveram, se tá ok, se pode liberar, aí eu passo pra vocês. Até\n[LOCUTOR 29]: por\n[LOCUTOR 4]: causa de todas as alterações do governo também. Ontem ainda a gente teve uma situação que entrou uma nova nota técnica lá, de valor lá, que\n[LOCUTOR 29]: informando\n[LOCUTOR 4]: [EMPRESA] e [EMPRESA] precisa ter uma tag específica lá, né? Então toda hora tá tendo alteração nesse processo aí.\n[LOCUTOR 29]: É, isso já está previsto, tá? A TOTUS, quando a gente fala de reforma tributária, a TOTUS está bem à frente aí. Isso tanto lá no GFE, que a gente recebe os CTEs, as transportadoras para auditar, dentro da [EMPRESA] e o TMS aqui é diferente, tá? Então, a reforma tributária na TOTUS pode ficar tranquilo quanto a isso. Então, aqui, operacional, ele fica aguardando planejamento. O que é operacional, tá? [EMPRESA], onde você vai fazer o que a gente chama de plano de distribuição, que é uma outra ferramenta que nós temos aqui, aqui onde você vai gerar o planejamento da viagem. Então, eu tenho as requisições. O que é uma requisição? É exatamente o que nós queremos agora. Está aqui a requisição, que é\n[LOCUTOR 4]: o nosso\n[LOCUTOR 29]: documento de frete pronto. Eu tenho os embarques que eu tô preparando e tudo mais, né? Tá aguardando concluir, liberar, ou aqueles embarques que estão em trânsito. Então aqui você consegue acompanhar tudo que tá acontecendo dentro aqui do plano de distribuição, tá? Dentro do plano de distribuição, você cadastra aqui os seus motoristas, quais são os veículos, se tem ajudantes ou não, quais são os conjuntos motorista e veículo, né? Que é uma composição. Isso tudo\n[LOCUTOR 4]: você\n[LOCUTOR 29]: cadastra aqui dentro, tá? Importante aqui, Só deixa eu abrir um parênteses rapidinho, que eu acabei não falando outra vez, que é o portal logístico, tá? Hoje... Deixa eu abrir o portal logístico. Esse portal logístico é uma solução que as transportadoras podem adquirir e elas compartilham com o cliente dela. Aqui é a nossa nota 44. a nossa nota, que eu digo documento de carga, que é a nota do cliente, no caso.\n[LOCUTOR 4]: Então,\n[LOCUTOR 29]: cada cliente de vocês, vocês vão compartilhar esse portal logístico e eles conseguem acompanhar todos os eventos que vocês estão registrando aqui dentro. Então, desde quando vocês fazem a coleta, citar, essas nomenclaturas vocês podem estar alterando aqui. Então, até em trânsito, o caminhão está parado, enfim, são cinco eventos que você pode compartilhar com o cliente. Além disso, o cliente final de vocês ele pode olhar aqui ó a nota 44 né aqui ele consegue ver tudo que tá acontecendo também acompanhar dentro aqui eu tenho os produtos da minha nota se tem um documento e o documento de frete já tá aqui ó, e ele já tá recebendo aqui o PDF e o XML também. Eu só vou confirmar contigo o envio do e-mail automático, mas aqui dentro dessa ferramenta, então, o próprio cliente, o cliente de vocês, a transportadora, ele teria acesso aqui ao XML, através do portal logístico. Além disso, aqui dentro, eu não sei se, no último, última vez que a gente conversou, acho que não é uma necessidade de Ele poderia solicitar uma cotação. Acho que vocês não têm esse cenário, né? De ele cotar um frete com vocês, né?\n[LOCUTOR 40]: Você\n[LOCUTOR 4]: fala do\n[LOCUTOR 40]: cliente cotar conosco?\n[LOCUTOR 29]: É.\n[LOCUTOR 40]: Sim, sim, sim, diariamente.\n[LOCUTOR 29]: Ah, legal. Então, através do portal logístico, ele poderia solicitar uma cotação de frete para vocês,\n[LOCUTOR 4]: tá?\n[LOCUTOR 29]: Ele poderia solicitar uma coleta. Então, dentro da própria ferramenta, Quando eu criei o documento lá, não sei se vocês lembram, eu falei, ó, aqui tem a solicitação da coleta. Então, se você tirou uma solicitação de coleta aqui, ele fica vinculado ao documento de carga, nota fiscal. Então, fica tudo vinculado dentro do sistema, tá? Então, além da solicitação da coleta... Pessoal, só deixa eu reforçar, tá? Esse portal logístico, quem vai usar é o cliente de vocês, tá? Ele que vai usar. Então, desacompanhamento, dos embarques que foram criados tá tudo aqui ó esses aqui estão todos cancelados se eu olhar aqui para o plano ó esse aqui o DP-7 aqui ó se olhar os embarques é que eu queria uma pesquisa um filtro\n[LOCUTOR 4]: [LOCUTOR 2]: tá todo o DP-7 aqui ó é um embarque que eu cancelei aqui tá para não é muito teste que a gente faz então só para não poluir a tela mas veja que dentro do do portal logístico, o cliente de vocês também sabe quantos embarques tem, se está em trânsito ou não. Tudo que está acontecendo no mundo além do TMS, o cliente final de vocês acaba recebendo as informações em tempo real. Então não precisa ele perguntar onde está o veículo, em que posição que está. Vocês conseguem, através aqui, informar o cliente também. Tranquilos aqui? Então, até o financeiro, tá? Então o cliente também sabe [PESSOA] é o valor que ele tem de fatura a pagar, a vencer para vocês? E quanto que ele está devendo, não sei se esse é o termo correto, que está vencido e o cliente não pagou vocês ainda. E quais são os documentos ainda que o nosso [EMPRESA], que não está vinculado, ele sabe que foi gerado um CTE para ele, mas que não está vinculado a uma fatura ainda. A partir do momento que vocês vão gerar a fatura e encaminhar para ele, vem aqui nesse agrupamento aqui. Vocês vão ver todos os títulos aqui. Vocês são clientes, tá? Então veja que ele tem informações de forma centralizada. Então, esse portal aqui vocês vão compartilhar com o cliente de vocês daí. [LOCAL]? Tá,\n[LOCUTOR 29]: vamos lá então. Deixa eu voltar para o plano de distribuição. Deixa eu só tirar de novo o cancelado aqui porque senão fica muito... muito poluído, tá? Vamos planejar o embarque então, tá? Eu vou vir aqui, eu posso ler a chave do [EMPRESA], Ou vou pegar aqueles recursos, que é o documento 34, está aqui. Eu vou clicar nele. Ele já está selecionado. Aqui, requisições selecionadas. Vou decinar o embarque. Aqui ele me traz um processo. [PESSOA], eu não tenho, os dados eu coleto, mas a entrega eu tenho. O peso bruto, qualquer cubagem, o volume e o valor total da nota. E eu vou encontrar motoristas agora, tá? Então eu vou clicar aqui e ver quais são os motoristas, né, o caminhão que está ou que estão disponíveis, tá? Então ele mostra aqui o nível de especialização, tá? E qual que é o nível de ocupação. Especialização, de repente, ah, eu tenho um motorista, uma carreta que ela só pode levar um determinado produto. É esse produto que eu tô transportando? Não, então essa carreta ela já não... não é contemplada aqui para seleção, tá? Então eu posso detalhar aqui todas as informações, se esse veículo atende carga fechada ou não, né? Ele traz alguma série de informações para vocês. E eu vou buscar um aqui que eu tenho. Veja aqui, o veículo não atende a pelo menos uma das especializações do embarque. Motorista não relacionado a pelo menos uma especialização do embarque. Ele dá esse alerta também, tá? Por isso que ele traz a especialização e a ocupação zero aqui. Eu vou pegar um que eu criei. Esse aqui é o caminhão truque, né? Aqui ele dá o nível de ocupação do caminhão, aqui traz quem é o motorista também, qual que é a ocupação e tudo mais, né? E eu vou concluir o planejamento aqui, tá? Eu coloco qual que é a data de planejamento do processo, vou dizer que vai começar às 15 horas, termino amanhã às 9 horas, por exemplo. Vou avançar. Aqui eu vou gerar o manifesto. Ele vai ser de [LOCAL], vai passar pelo [LOCAL] e vai ser entregue em [LOCAL]. Ele dá aqui um ponto de saída, qualquer passagem. E eu vou confirmar esse planejamento. Ele mostra que tá liberado em trânsito, tá? Mas na verdade aqui... Ele está processando agora para justamente gerar o manifesto e todas as informações. Deixa eu só vir aqui, eu posso processar documentos. Ele muda para aguardar, aguardando a liberação, ou seja, eu vou ver aqui documentos, veja que ele tá colocando como pendente, ele tá gerando o manifesto nesse momento, tá? Então, de novo, vai lá pro [EMPRESA], vai buscar as informações e vai gerar o manifesto. Quando eu finalizar o processo de geração aqui do manifesto, aí sim, ele vai ficar apto a eu mandar essa viagem pro motorista, onde o motorista recebe através do app, lá do aplicativo que eu apresentei pra vocês na agenda passada, tá? Então, aqui eu tenho todas as informações do embarque, tá? de forma centralizada aqui, tem a motorista, qual é a placa, tração do veículo e tudo mais, quais os pontos de passagem que ele vai passar, o CTEC que foi gerado aqui, o PDF, a requisição que ele gerou, qual que é o cliente, quem é o contratante, se está planejada, por que está planejada? Porque eu já coloquei dentro de uma carga, por isso que ele colocou aqui, quais são os trechos, e ele está gerando aqui agora, eu não tenho gerenciamento de risco, por isso que eu não trouxe nada, não precisei gerar [EMPRESA], porque ele é um motorista autônomo, terceiro, e aqui ele gerou o manifesto número 24 e ele rejeitou. Deixa eu ver qual foi a rejeição dele. Rejeição. As informações de pagamento devem ser informadas para a carga-lotação. Então ele rejeitou esse carinha aqui, eu já sei o que é, Ele deu o mesmo erro hoje de manhã, hoje perto do meio-dia ali. Eu já pedi para o pessoal responsável ajustar uma informação que alguém alterou, tá? O que acontece aqui? Nós temos uma... A [LOCAL] matriz que a gente coloca como nossa empresa, seria vocês transportadores. Então a galera usa para tudo quanto é teste, né? Para não correr risco de colocar um CNPJ qualquer, a gente usa muito o CNPJ da [LOCAL]. e alguém foi lá e tirou todas as informações financeiras para estar gerando agora o manifesto, tá? Mas chegamos até a geração do manifesto, ele gerou o manifesto, só não foi validado ali para ser faz, tá? E o bacana é que aqui, ó, ele traz algumas ações sugeridas quando ocorreu um erro, tá? Isso em todos os processos. Eu lembro, acho que, não sei se foi o [PESSOA] que perguntou da agenda passada, né? Então aqui, ó, aqui é um bom momento para a gente falar. Então ele gerou um erro. A emissão é o mais manifesto a rejeitar na CFAZ. Após tratar o motivo da rejeição, clica aqui para reprocessar. Então eu vou lá, trato, vou lá no cadastro lá que eu tenho que ir lá dentro lá do motor fiscal, faço todos os ajustes e depois eu venho aqui e reprocesso, tá? Bom, o manifesto foi rejeitado, aqui estão algumas soluções possíveis. Verifique se há outros embarques pendentes com a placa MTL e tal, e se tiver ele não permite, né? Só vou gerar o manifesto quando de fato finalizar a viagem anterior, e aqui verifique se o percurso foi definido corretamente, né? Às vezes você sai da [LOCAL] e pula algum estado, na hora de gerar o manifesto ele também dá essa inconsistência. Eu vou clicar aqui, mas só para ter certeza, né? Fazer uma catarina para [LOCAL], ou seja, está certinho, mas eu poderia fazer os devidos ajustes aqui. E aqui eu não tenho nenhum embarque, né, que esteja na situação aqui de pendente de finalizar. Então, em resumo, né, a minha situação aqui, ela mostra o erro aqui mesmo desse cadastro, tá? Então é um cadastro aqui que a gente precisa arrumar. Beleza, tá aqui, tranquilos. Aguardando liberar, porque se eu for liberar aqui para o motorista, o sistema não vai permitir. Por quê? Porque esse barco está bloqueado. Então está aguardando a geração do manifesto, tá? É isso que o sistema está mostrando aqui. Eu consigo voltar aqui. Veja que eu consigo navegar por várias... Alguma dúvida, gente?\n[LOCUTOR 4]: Tá tudo tranquilo, acho.\n[LOCUTOR 29]: Faz sentido até que é mais ou menos como você realiza hoje? Eu fiz o manual aqui, tá?\n[LOCUTOR 4]: A\n[LOCUTOR 29]: geração do documento, a importação dele ali no XML, fiz a geração, a verbação, viu ali que no momento que eu [PESSOA] e gerei o documento fiscal, ele já gerou a verbação também de forma automática. Aí o manifesto, eu gerei o embarque aqui, eu só coloquei um [EMPRESA], obviamente, né? Aí eu coloquei um [EMPRESA], ele gerou, selecionei o veículo aqui que está disponível em cima das especialidades ali, das especificações, melhor dizendo, E agora eu girei o [EMPRESA] também, só que deu esse erro aqui de cadastro. E por fim, o que a gente faria agora? A gente pegaria o coleta-entrega e a gente encaminharia isso, a hora que tiver liberado esse planejamento, esse embarque, a hora que eu conseguir gerar o manifesto e retornar que está tudo certo, o manifesto gerado, esse embarque fica livre e eu faço o quê? Integração com o coleta-entrega. Então eu faço a integração com o coletor-entrega. O que seria essa integração com o coletor-entrega? Aqui dentro, ele receberia a viagem... Deixa eu só abrir o coletor-entrega. Deixa eu ver se eu tô na... Ele viria aqui e ia trazer uma viagem aqui dentro, pronta, [EMPRESA]? dependendo se o motorista já recebeu, mas seria aqui, ó, viagens em andamento dentro do [LOCAL]. E o [LOCAL] é um app que o motorista usa, né? Onde ele vai criando, o sistema vai criando vários eventos, né? Como iniciou, quando o motorista chega lá no aplicativo dele e diz, ó, iniciei a viagem, essa entrega a ser realizada, ele muda aqui que iniciou. Quando o motorista chega, a viagem, a cor fica um azulzinho mais clara. Quando ele chega no cliente, cheguei no cliente, ele aponta, estou aqui no cliente, ele avisa aqui também. Então a torre tem total controle de tudo o que está acontecendo com essa viagem, com essas notas que o motorista tem para entregar. Aqui você pode também, deixa eu abrir o coletor de entrega aqui rapidinho, mandar mensagens para o motorista. Então através aqui da torre mesmo, dentro do aplicativo do coletor de entrega, você pode estar mandando mensagens para o motorista. Como o motorista também pode, através do app dele, mandar mensagens para a torre. Então fica tudo registrado aqui dentro. Só deixa eu abrir o aplicativo. Eu estava com o [PESSOA], mas...\n[LOCUTOR 4]: A conversa com o motorista se dá tudo pelo aplicativo daí.\n[LOCUTOR 29]: Sim. Tudo aplicativo.\n[LOCUTOR 4]: \n[LOCUTOR 15]: eu abrir aqui. [LOCUTOR 24]: conectando aqui? Eu já abro o aplicativo para mostrar para vocês, tá? E aqui no portal logístico, para essa nota 44, cada evento que o motorista realizar, ele acaba trazendo aqui atualizações. E o cliente final de vocês vai estar acompanhando isso também, tá? Recebe também esses eventos. Deixa eu ver aqui, plano de distribuição. Como é que funciona, como é que vocês tratam o encerramento do manifesto da [EMPRESA]? \n[LOCUTOR 16]: é\n[LOCUTOR 4]: manual ou vocês têm alguma automatização para isso?\n[LOCUTOR 29]: Eu posso criar um processo que ele encerra automaticamente quando o motorista encerra toda a viagem dele. Lá\n[LOCUTOR 4]: no\n[LOCUTOR 29]: aplicativo o\n[LOCUTOR 4]: motorista tem que dar o fim da viagem e\n[LOCUTOR 29]: daí\n[LOCUTOR 4]: isso\n[LOCUTOR 29]: pode\n[LOCUTOR 4]: comandar o encerramento do [EMPRESA]\n[LOCUTOR 29]: Isso. Aí você pode programar isso para criar como uma ocorrência dizendo, vou finalizar o [EMPRESA]. Então dispara uma integração e... e finaliza o [EMPRESA].\n[LOCUTOR 4]: [PESSOA].\n[LOCUTOR 29]: Deixa eu ver o que mais aqui. Deixa eu só ver o... Ah tá, eu tenho o monitoramento logístico aqui, tá? Que eu acabei não falando. Deixa a sessão, deixa a sessão, eu coleto um trem aqui. O monitoramento logístico... o monitoramento. Aqui ele indica, para a operação, aonde que está o motorista nesse exato momento. Esse aqui é da [LOCAL], pessoal. Aqui, a [PESSOA]. Existe uma diferença aqui, tá? Quando você está buscando as informações do coleta-entrega, ele está buscando a localização do app do motorista. Se eu vier na coleta entrega e olhar a localização dele, ele vai pegar aonde que o motorista está nesse exato momento. Onde que o aplicativo do motorista está nesse exato momento. Aqui em [LOCAL], porque esse aplicativo aqui que está usando é o [PESSOA] que mora em [LOCAL]. Ele está lá na [LOCAL]. Aqui é a [LOCAL]. Então está lá na [LOCAL] nesse exato momento. Então esse [PESSOA], o motorista, ele está nesse momento lá na [LOCAL]. Mas você pode também buscar, quando ele traz a silhueta aqui do caminhão, significa que você está buscando as informações da empresa lá que vocês, qual que vocês utilizam aí para rastreamento? [LOCAL]?\n[LOCUTOR 4]: [LOCAL], [PESSOA] e [LOCAL].\n[LOCUTOR 29]: A [LOCAL] eu tinha anotado aqui. Então a [LOCAL]. Então você consegue buscar a posição do veículo também através do app do motorista ou através também do monitoramento aí da [LOCAL], por exemplo, tá? Então aqui você tem todo o acompanhamento no mapa. Isso aqui é o monitoramento, tá? Então você monitora tanto o veículo, no caso, né? Quanto a questão do motorista também, tá bom? Deixa eu só pegar aqui e acessar agora o Coleta pra mostrar pra vocês o app. Bem rapidinho, por favor. Fica à vontade, tá? Se tiver alguma dúvida.\n[LOCUTOR 4]: Acho que não.\n[LOCUTOR 29]: Deixa eu mostrar aqui para vocês o Kanban logístico. Eu esqueço aqui, tá? Como que funciona o Kanban Logístico? Aqui nós temos o primeiro padrante aqui, coluna, enfim.\n[LOCUTOR 4]: Todos\n[LOCUTOR 29]: os documentos de carga, todas as notas de carga que elas estão com status de validado, lembra que eu importei o XML lá, né? Criei o documento de carga. Quando ela está com status validado, ela fica disponível aqui dentro desse... Nesse painel aqui, que eu acho que vai ser painel, logístico, TMS, [EMPRESA], enfim. E como que você gera um documento de carga, tá? E gera embarque? Clica e arrasta. Lembra que eu falei para vocês que eu ia fazer manual toda geração do documento de carga, montagem do embarque, geração do CTE? Eu fiz manual. Mas\n[LOCUTOR 4]: aqui,\n[LOCUTOR 29]: basta clicar e arrastar, ele já gera o CTE. Então vamos fazer um teste rapidinho aqui. Vamos ver se é verdade, né? Isso foi liberado agora, tá? Essa semana, para ser mais preciso. Vou pegar aqui a nota fiscal 45. Deixa eu botar para cá isso que eu não vou usar agora. Tanto a tela aberta que dá até medo. Eu descobri errado também. 45, 70 e cada\n[LOCUTOR 4]: um.\n[LOCUTOR 29]: A gente tinha pego 100. mais um lugar aqui. Vamos fazer um documento de carga. Bem, vocês querem acompanhar, gente? Eu nem perguntei, né? Mas\n[LOCUTOR 4]: a gente já\n[LOCUTOR 29]: passou por esse processo. Esse aqui é um facilitador, tá? O Kanban ali, que não é o nome ainda, é a primeira versão dele, tá? Com certeza vão ter alguns ajustes ali. Na sexta-feira a gente participou de um repasse e a ideia é... é já comercializar, tá? Então, um facilitador aí para os clientes.\n[LOCUTOR 4]: Pessoal,\n[LOCUTOR 29]: se tiver dúvida aqui, a gente passou, mas se tiver alguma dúvida, alguma... dá vontade, tá?\n[LOCUTOR 4]: Tá tranquilo.\n[LOCUTOR 29]: Então vamos ver se isso acontece, né? Deixa eu só dar um início aqui. Tá, deixa eu dar um refresh. Tá aqui a nota 45, tá? Finalzinho aqui o localizador. Acho que tá pequeno, vocês estão vendo\n[LOCUTOR 4]: aqui embaixo? Sim, sim.\n[LOCUTOR 29]: Eu posso selecionar todas, tá? Eu tenho aqui como fazer a leitura dele, do documento de carga, qual que está selecionado e tudo mais. Tem alguns filtros aqui também importantes. Aqui eu quero colocar quais são os cards que aparecem aqui, localizador, unidade, os totalizadores também. Você pode estar mudando as posições dos cards totalizadores. Eu pedi também para eles colocarem A [LOCAL], tá? Então, por exemplo, eu quero filtrar todas as notas fiscais que eu tenho pra [LOCAL]. Acho que é um facilitador, né? Então, acho que eles vão ajustar isso aqui também, tá? Então, você vem aqui, marca a nota fiscal 45 e arrasta pra cá, tá? Então, agora, ele tá processando. ele gerou esse documento, tá? Mas agora ele vai lá para o fiscal, lá para o\n[LOCUTOR 4]: [EMPRESA], né?\n[LOCUTOR 29]: O motor fiscal, perdão. E agora a gente tem que aguardar aqui uns segundinhos para ele estar liberando pré-confirmações pendentes, documento gerado. Deixa eu por aqui, se a gente olhar no operacional aqui, ó, tá? Essa Ela vai estar com a mesma situação. Aqui é 45.\n[LOCUTOR 4]: \n[LOCUTOR 24]: pendente, eu consigo ler aqui também, tá? O documento é o final WTJ. Vou ver qual que é o documento WTJ. Tem muita gente fazendo testes aqui da [EMPRESA]. Aqui ó, ele\n[LOCUTOR 29]: tá com prévia ainda, então vamos aguardar alguns minutinhos.\n[LOCUTOR 4]: \n[LOCUTOR 15]: eu ver se veio pro fiscal já ou não. Não, ainda não. Mas, enfim, o que acontece... Só que a gente está chegando no tempo aqui. Então, o que eu faço aqui? Eu clico no documento, arrasto para cá, ele vai gerar um documento de frete. Deixa eu dar um reflexo\n[LOCUTOR 29]: aqui. Ele gera o documento de frete automaticamente. Depois que esse documento estiver pronto, eu arrasto aqui para o embarque. Então, todo aquele processo que a gente fez de gerar o documento de frete e no plano de distribuição, fazer a montagem e tudo mais, esse cambão logístico ele tem esse objetivo, tá? Simplesmente clicando, arrastando aqui o sistema por trás, gera as informações automaticamente para vocês, tá? Ele está em processamento ainda na [LOCAL], não voltou, por isso que ele não gerou o número ainda, tá? Então ele só está aguardando a conclusão. Mas é isso, é rastar e o sistema vai gerando todo aquele processo que eu acabei fazendo com vocês, ele vai gerando automaticamente.\n[LOCUTOR 4]: Gente,\n[LOCUTOR 29]: falta dois minutos, eu não sei se você tem\n[LOCUTOR 4]: alguma\n[LOCUTOR 29]: dúvida aqui.\n[LOCUTOR 4]: Ele usa todas as suas parametrizações, então, para gerar um\n[LOCUTOR 29]: CTE\n[LOCUTOR 4]: ali.\n[LOCUTOR 29]: [LOCAL].\n[LOCUTOR 4]: Toda a questão de negociação de custos e tudo mais, tem que estar tudo previamente configurado.\n[LOCUTOR 29]: Sim, sim, tem que estar tudo configurado para você fazer de forma automática.\n[LOCUTOR 4]: \n[LOCUTOR 14]: no motor fiscal está demorando um pouco. gente. Não era pra demorar assim. Tanto é que a gente fez antes que o livro foi mais rápido, né? Eu\n[LOCUTOR 29]: devo\n[LOCUTOR 4]: estar parado em algum processo aí.\n[LOCUTOR 29]: É. É como eu falei, é base de homologação. A\n[LOCUTOR 4]: homologação é assim mesmo.\n[LOCUTOR 29]: A homologação é... Mas é isso mesmo, tá?\n[LOCUTOR 4]: \n[LOCUTOR 7]: livro da [EMPRESA] já é para o documento de transporte, ele vai mostrar, esse aqui tá rápido, só que ó, Olha, documento gerado. Só que não vou pegar porque não sei de quem é esse cara aqui. É\n[LOCUTOR 29]: meu, mas não é meu. Alguém tá usando o meu nome. Deixa eu pegar. Já que tá no meu nome, acho que ninguém pode reclamar. Eu venho aqui e gero, crio, embarque com ele. Tá vermelho, o pessoal tá selecionando. Aguardando o recurso. Liberado para trânsito. Então você consegue compreender tudo o que está acontecendo aqui, tá? E uma vez que for, você finaliza o processo, ele sai dessa tela, tá? Então, de novo, essa aqui é uma primeira versão, tá? Eu acho que muita coisa ainda vai acontecer aqui dentro desse, entre aspas, cambão logístico, tá? Isso vai ser um facilitador muito grande para vocês no dia a dia Você pode selecionar vários documentos de carga Você pode estar filtrando aqui Somente os meus documentos do meu usuário, por exemplo Status de processamento, tem vários filtros aqui bacanas para você trabalhar também\n[LOCUTOR 4]: S\n[LOCUTOR 2]: para o remetente, para o recebedor, para o número da nota Isso, gente, que eu tinha para mostrar para vocês. Não sei se vocês têm\n[LOCUTOR 4]: alguma\n[LOCUTOR 29]: dúvida ou\n[LOCUTOR 4]: não. Não,\n[LOCUTOR 40]: assim, né, [PESSOA], em específico, acho que ficou bem apresentado para nós aí, né, o [PESSOA] aí, à frente do nosso [EMPRESA], né. Então, cabe a nós agora, a gente, vamos dizer assim, comparar o que a gente tem hoje com o que a gente espera a nível mercado, né? E sim, ver, com certeza a gente vai ter mais dúvidas ali em cima dessa apresentação e\n[LOCUTOR 29]: t\n[LOCUTOR 23]: chamando ali diretamente o [PESSOA], né? Pra gente ir evoluindo nesse fluxo, vamos dizer assim, até lá provavelmente vocês também já vão ter algumas coisas novas ali, né?\n[LOCUTOR 29]: [LOCUTOR 8]: gente, vamos dizer, ter uma base assim e comparar realmente com o que a\n[LOCUTOR 40]: gente tem hoje, né [PESSOA]?\n[LOCUTOR 6]: [PESSOA], uma pergunta hoje em relação à\n[LOCUTOR 29]: expectativa,\n[LOCUTOR 6]: vocês estão em análise, não tem urgência, qual seria uma ideia de virada de uma nova solução?\n[LOCUTOR 40]: Hoje assim de forma muito transparente, [PESSOA], hoje principalmente agora esse início de ano\n[LOCUTOR 29]: para\n[LOCUTOR 40]: todos os segmentos é um ano de expectativa, principalmente nós aí no combustível agora está sendo um momento vamos dizer, não vou dizer preocupante, mas muito apreensivo a gente que está nesse transporte,\n[LOCUTOR 29]: né?\n[LOCUTOR 4]: \n[LOCUTOR 35]: até atendimento em clientes, então o [LOCAL] vai passar por uma dinâmica aí nos próximos 10 dias aí, bem, vamos dizer assim, expressiva, né? Mas, voltando assim, a sistema, a empresa, assim, a gente vem num processo muito rápido de evolução para atender grandes clientes, né? Como eu mencionei vocês lá atrás, a gente precisa ter\n[LOCUTOR 29]: um\n[LOCUTOR 40]: sistema robusto, né? porque o sistema anda\n[LOCUTOR 29]: em\n[LOCUTOR 40]: paralelo com qualquer negociação que você for fazer com algum cliente. Então, o que a gente vê? Vem escutando do mercado as ferramentas que tem disponível hoje, não que a nossa ferramenta não nos atenda, sim, está atendendo hoje, mas, sim, a gente vê que tem oportunidade da gente, vamos dizer assim, melhorar esse fluxo, tornar esse fluxo mais automático, mais, vamos dizer, como eu usei lá atrás a palavra, robusto, né, o que eu digo assim, o sistema onde que ele vai nos permitir, como o [PESSOA] mencionou lá atrás, né, inicia desde um processo todo de cadastro ali, de uma ordem de coleta e tal,\n[LOCUTOR 29]: vai\n[LOCUTOR 40]: fazendo todo o início até travar a emissão desse documento com qualquer erro que ele tenha, né, isso é muito importante para nós hoje, né, então a gente, sim, vai buscar algo no mercado, vem buscando, vem escutando, mas a gente não tem data para executar isso, porque existe uma estabilidade muito grande hoje, né, nesse início de ano, né, e a gente fala, né, compartilhando com vocês, ano político, ano de copa do mundo, essa guerra aí que,\n[LOCUTOR 29]: vamos\n[LOCUTOR 40]: dizer assim, que alguns estão dizendo que o [LOCAL], que o [LOCAL] vai ser bom, mas enfim, né, não, a gente não sabe, né, então o que que empresa hoje, hoje mesmo falando com o nosso diretor, é o momento da gente avaliando aí os próximos passos, o que vai acontecer e sinta sempre, vamos dizer assim, a parte das tecnologias, porque hoje ou você vai para um lado tecnológico ou você vai ficando cada vez mais para trás.\n[LOCUTOR 29]: Pessoal, eu tenho uma agenda agora às 15 horas, eu pedi cinco minutos e já está chegando às cinco aí. Mas assim,\n[LOCUTOR 6]: eu só queria\n[LOCUTOR 29]: compartilhar com vocês Quando você traz essa necessidade de olhar para o mercado, o bacana é você estar sabendo, acho que foi essa a ideia da [EMPRESA] aqui, do Marro, do [PESSOA] e minha também, de mostrar para vocês tudo o que a gente tem. Como eu falei, tem muita coisa ainda acontecendo na suíte [PESSOA] e todas essas inovações vocês vão estar recebendo. Isso você recebe sem custo nenhum. Então, toda essa inteligência que está vindo por trás, essa questão do [PESSOA] ali, por exemplo, isso vai trazer um dinamismo muito grande para vocês. criar um filtro e arrastar. Imagina, não precisa ficar entrando em mais nada. Então a inteligência artificial já tem marcada. Coisas bacanas. Reforma tributária, isso é importante você estar ciente também.\n[LOCUTOR 40]: A\n[LOCUTOR 29]: gente já está, a [LOCAL] está bem avançada em cima disso. A [LOCAL] está, digo avançada porque nós temos uma cadeira lá dentro. Então a [LOCAL] participa full time dentro lá da questão da reforma tributária. Nós temos dentro do [EMPRESA] quanto nas outras soluções, tipo o Fiat Mercador e o próprio TMS. Então a questão da reforma tributária pode contar com a [LOCAL], a gente está super bem no mercado quanto a isso. E de novo, as inovações que estão por vir. Cara, tem muita, muita, muita coisa. Por\n[LOCUTOR 40]: isso que eu\n[LOCUTOR 29]: falei e tive o cuidado de falar, cara, deixa eu confirmar para ver se já não foi liberado ou não.\n[LOCUTOR 40]: Exatamente isso aí, [PESSOA]. Isso aí que a gente vem acompanhando no mercado e a abertura da [LOCAL] Esse primeiro contato que a gente teve com o [PESSOA], enfim. É porque a gente já tem conhecimento também de algumas empresas que tem a Totos. Eu tenho conhecidos que já trabalham com o sistema em outros segmentos. Então, é um sistema muito robusto em várias áreas.\n[LOCUTOR 29]: [LOCUTOR 27]: você mencionou, vocês veem uma evolução no desenvolvimento logístico. Então, a gente quer acompanhar também isso, porque a gente sabe que lá na frente, tendo oportunidade, a gente vai migrar para o melhor. Então a\n[LOCUTOR 40]: empresa precisa fazer isso, né? E falando em tecnologia, quando a gente fala em tecnologia é num todo, desde rastreamento, sistema, gestão, né? Então...\n[LOCUTOR 29]: Deixa eu só... Preciso sair, mas caso você queira ter uma visão de investimento, óbvio, sem compromisso algum, tá? Aí a gente manda um link para você, aí você preenche o link e a gente consegue gerar uma visão de investimento, caso você queira já ter uma noção, né? de valor e tudo mais, se a gente consegue, eu só centralizo aí no [PESSOA] ou no [PESSOA], aí eu mando o link para eles, eles passam para você, você responde ali e eu já gero uma visão de investimento, tá? Se for do\n[LOCUTOR 4]: interesse de\n[LOCUTOR 29]: vocês também.\n[LOCUTOR 40]: Com certeza que é de interesse, né, [PESSOA]? O [PESSOA] pode estar\n[LOCUTOR 4]: fazendo aí,\n[LOCUTOR 40]: fazendo\n[LOCUTOR 4]: esse\n[LOCUTOR 40]: contato\n[LOCUTOR 4]: aí.\n[LOCUTOR 40]: Pode ser com o [PESSOA] ali, esse contato?\n[LOCUTOR 29]: Sim,\n[LOCUTOR 4]: sim.\n[LOCUTOR 40]: Isso, a gente troca ali os contatos, com certeza. É importantíssimo isso para nós, tá visualizando.\n[LOCUTOR 29]: eu vou mandar ali para o [PESSOA] tá? depois eu\n[LOCUTOR 40]: vou\n[LOCUTOR 29]: centralizar nele aí ele cabia para você e depois a gente gera essa\n[LOCUTOR 40]: visão\n[LOCUTOR 29]: de investimento.\n[LOCUTOR 40]: Ok?\n[LOCUTOR 29]: [LOCAL]. Gente,\n[LOCUTOR 40]: vocês\n[LOCUTOR 29]: estão ligados a isso aí, tá, gente?\n[LOCUTOR 4]: Obrigado.\n[LOCUTOR 29]: Acho que vocês conseguem continuar, né, [PESSOA] e [PESSOA]?\n[LOCUTOR 59]: Sim.\n[LOCUTOR 6]: Obrigado, [PESSOA].\n[LOCUTOR 59]: Obrigado, [PESSOA].\n[LOCUTOR 29]: Um abraço,\n[LOCUTOR 6]: gente. [LOCAL].\n[LOCUTOR 4]: \n[LOCUTOR 28]: filmar aí. [LOCAL].\n[LOCUTOR 59]: [EMPRESA],\n[LOCUTOR 6]: [PESSOA]. Vamos ficar combinados assim, então. Assim que o [PESSOA] enviar o link, eu compartilho com você. Quando a gente tiver aqui com a visão de investimento, a gente marca aí um momento para poder apresentar isso para vocês.\n[LOCUTOR 40]: Exatamente, [PESSOA]. Vamos nessa linha, porque até assim a gente tendo visualizando isso, né? E até lá o cenário já vai mudando, a gente vai visualizando outras coisas, né? Até para estar apresentando para o nosso diretor aí, né, [PESSOA]? Colocar ele no acalco com vocês aí também, né? Então, eu acho que vamos nessa linha que a gente seria mais prudente, vamos dizer assim, né, [PESSOA]?\n[LOCUTOR 6]: Não, perfeito. Combinado, então, gente.\n[LOCUTOR 40]: [PESSOA]? Um abraço gente.\n[LOCUTOR 59]: Prazer\n[LOCUTOR 6]: pessoal,\n[LOCUTOR 59]: abraço.",
+  "texto_filtrado": "[LOCUTOR 6]: E aí, [PESSOA]?\n[LOCUTOR 6]: certinho, cara?\n[LOCUTOR 6]: Entra mais alguém, [PESSOA]? Quer esperar um pouquinho?\n[LOCUTOR 37]: participa,\n[LOCUTOR 6]: [PESSOA]?\n[LOCUTOR 40]: Isso aí, seria nós. Por hora seria nós, [PESSOA].\n[LOCUTOR 6]: [LOCAL]. Pessoal, como todos já se conhecem da nossa última agenda, vamos partir logo para o principal, que é conhecer um pouco mais sobre os processos da solução do TMS SAS da TOTUS. Entender como vai ser a aderência deles para a operação atual da [LOCAL]. Já passo a palavra para o [PESSOA], o [PESSOA] também fica à vontade se quiser personalizar. Já passo para o [PESSOA] poder iniciar a apresentação.\n[LOCUTOR 29]: Boa tarde. Só deixa eu salvar aqui um XML para a gente fazer o processo. Pronto. Estava bugando aqui algumas informações só para não perder. Então, como o [PESSOA] trouxe, a ideia hoje é mostrar para vocês um pouco na prática como é que ocorrem as etapas das operações dentro do nosso TMS. Na agenda passada, a gente já mostrou para vocês algumas configurações, tabela, contrato com os clientes de vocês e tudo mais. E hoje a ideia é mostrar um pouco de como que a gente gera as informações aí de manifestos, como que a gente gera o site, como que a gente recebe o documento de carga e assim por diante. Então, deixa\n[LOCUTOR 29]: só compartilhar com vocês,\n[LOCUTOR 2]: um minutinho, por favor. Acho que vocês já estão vendo a tela. Deixa eu aumentar. Acho que agora vocês estão vendo a tela, né? Legal. Eu já vou direto nas soluções, porque na agenda passada nós já apresentamos, já falamos que é a suíte [PESSOA], né? quais são as soluções que a [LOCAL] tem hoje, mas fique super à vontade para estar questionando se ficar alguma dúvida ou se gerou uma dúvida na agenda passada, tá? Com relação à Suite [PESSOA], o que é, como funciona e tudo mais. Só recapitulando, então, a Suite [PESSOA], todas as nossas soluções são SaaS, nuvem, né? Então, aqui vocês vão estar recebendo esse endereço, esse URL aqui de internet, literalmente, acessando as nossas soluções. Aqui nós temos agendamentos como a [EMPRESA], o [LOCAL], a AGI, [EMPRESA] [PESSOA] é uma novidade, tá? Eu acho que eu havia comentado com vocês, mas não estava liberado ainda. Tem alguns clientes pilotando, eu vou mostrar para vocês um pouco o que é o [EMPRESA] [PESSOA]. Eu acho que até mencionei, não vai ser esse nome, tá? Isso aqui é um nome provisório, então vai ter um outro nome aqui, o [EMPRESA] [PESSOA], e eu vou falar o que é esse [EMPRESA] [PESSOA] para vocês na sequência,\n[LOCUTOR 29]: Aí nós temos outras soluções aqui que nós havíamos falado, do coleta-entrega, do marketplace,\n[LOCUTOR 29]: monitoramento logístico, correncia,\n[LOCUTOR 29]: principalmente a gente navegou pelo TMS comercial, onde a gente tem todo o cadastro de clientes e tudo mais, e o TMS operacional. Então nós vamos começar pelo TMS operacional, que é... Hoje nós temos aqui algumas configurações importantes.\n[LOCUTOR 5]: chamamos de personas aqui, então pode ser cliente, pode ser um prestador de serviço, pode ser um motorista e assim por diante. E\n[LOCUTOR 29]: tudo nasce aqui dentro do documento de carga. Hoje, como é que a gente\n[LOCUTOR 4]: imputa,\n[LOCUTOR 29]: como que a gente traz esse documento de carga para dentro das soluções? Só lembrando que a gente tem o AGI aqui, foi liberado nesse, nós somos no mês de fevereiro, não, de março, finalzinho de fevereiro, tá? Aqui vai também ter uma melhoria onde é possível receber os seus ML diretamente, ok? Então tem essa possibilidade também. E o documento nasce aqui dentro do [EMPRESA]. Então, como é que ele nasce hoje, tá? Eu posso clicar\n[LOCUTOR 4]: aqui...\n[LOCUTOR 29]: e putar manualmente esses documentos. Isso aqui é o documento de carga. Quando a gente fala em documento de carga, são as notas fiscais do cliente de vocês, tá? Ou eu posso simplesmente vir aqui, buscar um arquivo, né? Deixa eu só mudar a posição dele aqui. O XML e arrastar. Como eu falei, isso vai ser automatizado ainda, tá? Tem muita coisa acontecendo, vai ter uma automatização nesse processo. Então, cliquei, arrastei aqui o documento de carga, assim que ele nasce hoje, como eu mencionei. Traz todas as informações, né? [PESSOA], quando\n[LOCUTOR 40]: você fala que vai ter a automatização desse processo, vocês têm mais ou menos uma previsão para isso acontecer? Como que está isso?\n[LOCUTOR 14]: dentro do AGI, ele já foi liberado algumas partes, mas essa atualização provavelmente vai até no mês de 6 aí, mês de primeiro semestre, para estar liberando.\n[LOCUTOR 40]: [LOCAL].\n[LOCUTOR 29]: Então aqui ele já diz as informações ok, ou seja, todas as informações do XML ele conseguiu carregar. Vocês vão\n[LOCUTOR 4]: perceber\n[LOCUTOR 29]: que tem muito status aqui dentro, tá? Das fichas como um todo, mas falando mais da parte aqui do TMS. Ele traz todas as informações, de qual que é o remetente, tá sendo dessa indústria, qual que é o endereço dela, tá indo para onde, qual que é o destinatário, bem, isso que é o padrão do crescimento de vocês. Razão social da transportadora também, volumes, produtos e tudo mais. Aqui tem uma aferição, nós temos situações que alguns clientes, como eles trabalham por frete de peso, às vezes o cliente da transportadora coloca um peso qualquer na nota, ou o peso não está correto. Então existe um processo de aferição. Esse processo de aferição ocorre aqui dentro da automação de terminais. Acho que não, não faz muito sentido o processo de vocês, que é líquido, mas geralmente acontece muito com fracionado. Então quando o motorista da transportadora vai lá nos clientes, ele está fazendo a coleta, E quando ele traz esse produto para dentro do terminal da transportadora, nós temos um processo aqui que é de aferição,\n[LOCUTOR 4]: onde\n[LOCUTOR 29]: a gente pega o peso real do produto. Então, aqui dentro do [EMPRESA], eu poderia estar colocando aqui as informações\n[LOCUTOR 29]: peso real, não o que consta na nota fiscal que veio do cliente da transportadora. Então é isso aqui na aferição. Aqui traz o produto da nota fiscal, o código dele e tudo mais. Observação, aqui tem algumas informações operacionais. Se eu tenho ou não tenho uma solicitação de coleta... [EMPRESA]?\n[LOCUTOR 40]: Ali nessa aferição que você mencionou, ele vai trazer o dado da nota, né? Eu vou fazer a aferição caso desejada, né? Isso.\n[LOCUTOR 29]: [LOCAL], perfeito. Ele vai trazer as informações da nota fiscal, tá? Então, mas como eu falei, talvez com o produto de vocês não se encaixe muito, né?\n[LOCUTOR 40]: Hoje até para você entender também, não sei se você vai entrar, a gente hoje calcula, nossa forma de cálculo para o frete,\n[LOCUTOR 40]: ele é em litro transportado ou tonelada transportada.\n[LOCUTOR 29]: Então tem\n[LOCUTOR 40]: as duas modalidades hoje, nosso\n[LOCUTOR 29]: cadastro.\n[LOCUTOR 40]: A gente\n[LOCUTOR 29]: pode até revisitar, na última agenda eu mostrei ali o cadastro componente, mas a gente pode revisitar ele de novo, tá? Sem problema\n[LOCUTOR 40]: nenhum.\n[LOCUTOR 29]: Mas, por exemplo, você vai lá no cliente de vocês\n[LOCUTOR 4]: para\n[LOCUTOR 29]: buscar o produto, a nota sai 5 mil litros ou 5 mil quilos e se você passar pelo peso real ele pode ter essa divergência? Vocês\n[LOCUTOR 40]: essa\n[LOCUTOR 29]: aferição de peso hoje?\n[LOCUTOR 35]: não, porque automaticamente, quando você está carregando para fazer a emissão da nota na companhia, ela já passa por\n[LOCUTOR 40]: essa aferição antes da\n[LOCUTOR 29]: emissão da\n[LOCUTOR 40]: nota. É pela\n[LOCUTOR 29]: densidade\n[LOCUTOR 40]: do produto. Como tem produtos\n[LOCUTOR 40]: densidades diferentes, ela já\n[LOCUTOR 29]: é feita\n[LOCUTOR 40]: essa aferição antes de emitir a nota fiscal.\n[LOCUTOR 40]: no caso a gente que faz o transporte do produto puro e do misturado também, ele muda conforme densidade e temperatura, né? Então a nota fiscal do que a gente tá transportando diferente da bomba Ela é baseada no que realmente a 20 graus o que está sendo transportado,\n[LOCUTOR 4]: pela\n[LOCUTOR 40]: densidade desse produto.\n[LOCUTOR 29]: [EMPRESA]. Se tiver essa necessidade de colocar o peso real, o cubagem e tudo aqui em cima, Aí você poderia estar informando aqui, tá?\n[LOCUTOR 29]: for necessário. Então, se você for lá e tem um peso, sei lá, de uma pesa ferida para ser uma tonelada e tem 900 quilos, ou tem uma tonelada e meia, então\n[LOCUTOR 4]: você poderia\n[LOCUTOR 29]: colocar aqui para o sistema considerar o peso real da transportadora no momento geral cálculo, tá? Informações do pedido. Aqui é a coleta. Se o cliente da transportadora solicitou através de uma coleta, então a gente tem o marketplace, onde o cliente da transportadora solicita uma coleta. Então, caso você queira amarrar\n[LOCUTOR 4]: essa\n[LOCUTOR 29]: solicitação de coleta, anota. Isso também é possível aqui dentro. [PESSOA] que é o modelo operacional? Coleta com consolidação, coleta entrega direta, recepção de caixa com consolidação, enfim. [PESSOA] estacionada, fechada, coleta de mercadoria, químicos, informa aqui também, que o meu contrato tem tanto o modelo operacional como a especialização. Então, se vocês trabalham de formas diferentes aqui, lá no contrato, quando você cadastrar para o cliente, ele já busca essa informação também. Aqui o transportador, no caso de vocês mesmo, que é quem está emitindo aqui depois do CTE, com as entregas e tudo mais. Eu tenho aqui também, eu só tenho um agendamento, então eu poderia colocar um agendamento aqui, vou entregar hoje, deixa eu pegar aqui, 14 horas e 10 minutos, por exemplo. Análise de operacional, aqui ele só traz informações, ele só está indicando que a abrangência que vocês estão realizando é uma operação interestadual, o terceiro termo principal, a questão está indicando isso.\n[LOCUTOR 29]: que é opcional, mas você poderia vir aqui. Quem é que tá contratando? Quem vai? A [EMPRESA], né, que é a indústria que eu tô carregando os produtos dela. É só mais informativo, tá? Mas caso você queira anexar aqui, selecionar, melhor dizendo, é possível também.\n[LOCUTOR 29]: aqui eu tenho os produtos da transportadora, tá? Então, eu poderia estar colocando aqui... Eu estou levando o produto do cliente, mas eu posso, eu, transportadora, colocar como uma carga geral, né? Então, eu posso ter os próprios produtos aqui dentro. Então, eu vou informar manual aqui, tá? Não busca da nota fiscal.\n[LOCUTOR 4]: Aqui,\n[LOCUTOR 40]: que eu\n[LOCUTOR 29]: encerro o hor\n[LOCUTOR 29]: passo pra vocês.\n[LOCUTOR 14]: é o produto não da nota\n[LOCUTOR 4]: fiscal\n[LOCUTOR 29]: que você tá carregando de fato, é um produto... Por exemplo assim, tu tá carregando... farinha de trigo da marca tal tal tal, farinha de trigo não sei o que tal tal, daqui a pouco só coloca como o produto que você está transportando, trigo. É mais um centralizador de informações, tá? Pra você saber o que você está, de fato, carregando. A produto que você está carregando, química.\n[LOCUTOR 4]: Você tinha que\n[LOCUTOR 29]: colocar\n[LOCUTOR 4]: a informação de produto predominante, né? Que vai lá no [EMPRESA].\n[LOCUTOR 4]: Deve ser mais ou menos isso.\n[LOCUTOR 29]: Isso, exatamente, produto predominante. Lá no [EMPRESA] ele vai carregar essa informação.\n[LOCUTOR 25]: eu vou salvar aqui o documento. Aqui ele trouxe, é esse documento 43 aqui, as informações ele diz que está ok, ele está como não iniciada, as operações, a prestação de serviço. Aqui ele traz qual é a\n[LOCUTOR 29]: chave do documento também. Deixa eu copiar a chave aqui. São todas as informações do documento, tá? Você vai perceber que aqui dentro ele tem muitos status, como eu mencionei anteriormente. Aqui eu posso depois gerar uma ocorrência, caso eu queira, dentro da própria nota fiscal, dentro do próprio documento. Eu posso imprimir a etiqueta de produtos. Eu posso estar ajustando o endereço, caso eu queira. Aferição dos volumes eu posso estar fazendo nesse exato momento. Se eu implantei a nota, trouxe a nota fiscal, mas eu não tinha ainda o volume aferido, eu posso fazer no segundo momento. Eu posso estar ajustando alguns percursos aqui e assim por diante, tá? Aí o que a gente faz agora? Eu vou aqui dentro do documento de transporte. Só deixa eu abrir um parênteses bem rapidinho, tá? Eu tô fazendo processo manual, tá? Depois eu vou mostrar um processo mais informático para vocês, mas eu acho que o manual que é importante para ter entendimento, tá?\n[LOCUTOR 25]: eu vou gerar agora um documento, o CTE, leia aqui, posso estar bipando, né, a chave, enfim, ele já pegou a nota fiscal, informações a princípio tá tudo ok também, situação de prestação ainda não tá, tá indeferida, né, porque eu nem, opa, acho que eu peguei o documento errado, salutinho. Vou pegar a chave aqui de novo. [PESSOA], fiz tanto teste para vir aqui para dar esse erro, nem não, né? Eu tinha pego a nota errada, 43, o que a gente tá vendo é 44. Aqui ele também traz, aqui eu tô girando o [EMPRESA], tá? Ele gera esse documento aqui primeiro, tá? porque eu não tenho o número dele, eu não mandei para o fiscal ainda. Então ele gera um código e a gente consegue trabalhar com esse código aqui também. Depois vai ter um vínculo desse código aqui com o número real do documento de frete. [LOCUTOR 14]: ele traz todas as informações também, quais são as pessoas envolvidas, qual que é o cliente e tal, o endereço e tudo mais. Eu tenho aqui também o modelo operacional da coleta casioqueira, com entrega direto ou não. o remetente, o cliente, abrangência da operação, a gente já tinha visto lá, interestadual. Caso eu tenha quilometragem aqui, também posso ter formando. Caso eu queira colocar o tipo de veículo, posso também, se tiver ajudantes. Aqui ele traz qual que é o itinerário, para depois quando eu gerar o manifesto, para ele gerar esse... Contemplando essas informações aqui. Eu\n[LOCUTOR 29]: vou buscar aqui qual que é o meu contratante, tá? Então aqui é justamente para buscar qual que é a tabela de frete, qual que é a negociação que está vinculada, o tipo da tabela. No meu caso aqui é normal, mas poderia ser uma reentrega, por exemplo, ou algo nesse sentido, se eu estiver gerando. O tipo de frete, se é [EMPRESA], FOB e tudo mais. Então ele traz aqui a contratante e ele busca as tabelas. Eu vou dizer que é uma carga fechada aqui também. Entrega direta. Se tem uma previsão, não? Pois não.\n[LOCUTOR 29]: deve\n[LOCUTOR 4]: ter entrado aí agora, o [LOCAL].\n[LOCUTOR 6]: Exatamente isso, acabei de liberar aqui, tá gente?\n[LOCUTOR 29]: Beleza. Agendamento de entrega, vamos ver o que é hoje. Às 16 horas. Aqui ele pede volumetria também, tá? Então, ele trouxe só um volume, mas aqui ele buscaria as informações que tinha inserido no documento de carga também, ou você poderia colocar outras informações. Aqui que eu preciso, tô conversando com a equipe, tá? Confesso que tá vendo, ele não traz o item que veio lá do documento, tá? Então, já passei pra galera ali pra ver o que tá acontecendo. Como é uma base que todo mundo mexe, [LOCAL] inteiro, aliás, até o pessoal, não, [LOCAL] inteiro, a gente não tá usando ainda, então tem coisa que o pessoal vai mudando, tá? Então, você tem uma configuração e infelizmente alguém vai lá e acaba eliminando, excluindo, alterando. Então, você deve saber que o manifesto, por exemplo, se uma viagem, você falou que não fechou dentro de 30 dias, a CFAZ não permite você gerar um novo manifesto, né? Então tem uma norma técnica em cima disso. E como tem gente que fica criando e não finaliza, então de vez em quando aparecem essas inconsistências assim, tá gente? Eu peço desculpas, mas a ideia é mostrar o sistema rodando, né? Se você quer ter algumas observações aqui, e aqui ele traz informações para o cálculo do frete. Então ele me traz lá da tabela de frete quais são os componentes, Ele calcula porque, no meu caso aqui é valor fixo, então é valor fixo, não tem por que calcular em cima de nada.\n[LOCUTOR 7]: frete valor em cima do valor da mercadoria e o frete peso em cima do peso da mercadoria. Ele não tem variação nenhuma, então aqui ele trouxe qual que é o valor da mercadoria, R$ 3.720,00, e qual que é o peso da mercadoria, R$ 1.259,00. Quando eu vou para o dados do frete aqui, eu vou clicar em calcular. Eu não estou fazendo o frete manual. O que ele faz nesse momento aqui? Deixa eu só... Só um minutinho que eu vou compartilhar com vocês aqui. O que ele está fazendo nesse exato momento? Aqui ele está gerando de fato o cálculo do frete e vai gerar também o cálculo de imposto, onde eu clicar cálculo de imposto aqui. E é nesse momento que ele vai gerar o número do FAST, porque a gente vai mandar lá para o motor fiscal, que é uma solução, vocês adquirindo, vocês acabam recebendo ela, que faz parte do pacote, onde ele vai estar gerando o CTE, e nesse momento ele já vai validar com a [LOCAL] também o CTE, para ter o uso autorizado ou não ali. Deixa eu só ver se eu tenho o motor fiscal aqui. Agora ele já retornou. [PESSOA] que é o cálculo com o imposto e qual que é o cálculo sem imposto com o valor de imposto e tudo mais. E agora eu vou efetivar a nota. O [EMPRESA]. Perdão gente é nesse momento que ele vai para o motor fiscal. ele vai pro motor fiscal. Então tá aqui ó, documento gerado em andamento. Então agora a gente aguarda um segundinhos aqui pro motor fiscal processar. Ó, ele tá processando. Opa. 1425, ele deu como uso autorizado. Está aqui o documento, o código externo que a gente chama aqui dentro. Vamos clicar aqui no botãozinho verde. Ele falou que já foi para o fiscal. Aqui está o CTE, o número do CTE gerado. Aqui você tem os anexos, tanto o XML quanto o PDF também. E agora ele está fazendo automaticamente a verbação. Então vamos aguardar o instante que também vai fazer, ó, gerou a verbação também com sucesso, tá? Então nesse processo de inclusão no CTE, quando você vai na opção efetivar, ele cria o CTE de fato, ele vai pro motor fiscal, vai pra [LOCAL], né, ele faz autorização e tudo mais, e nesse mesmo processo você faz a verbação também. E aqui, no operacional... Tem documentos ali, só a questão dos anexos ali. Tanto o XMR como a [EMPRESA] já vão para o cliente por e-mail? Isso é automático?\n[LOCUTOR 29]: Eu preciso confirmar, tá? Eu até... Até dia 27, 26... 27 foi sexta-feira. A gente fez um questionamento, tivemos uma reunião, não estava disparando automático ainda, tá? Mas eles falaram que estava desenvolvendo. Deixa que eu vou confirmar e eu te retorno, tá?\n[LOCUTOR 1]: trazer\n[LOCUTOR 29]: a informação correta.\n[LOCUTOR 4]: Até porque a gente precisa mandar o XML para o cliente, mas caso a gente cancele um CTE ou [EMPRESA], tem que mandar esse cancelamento também para o cliente, né? Então, tudo automaticamente, né? Não,\n[LOCUTOR 29]: sim. Na verdade, quando a [LOCAL] autoriza, o cliente de vocês, através da mensageiria, ela vai lá e busca o CTE já, né? Isso\n[LOCUTOR 4]: acontece...\n[LOCUTOR 29]: Vai depender\n[LOCUTOR 4]: do cliente, né? Vai depender do sistema que o cliente vai ter, né?\n[LOCUTOR 29]: É, mas hoje, quando ele... Porque ele já busca as notas fiscais do fornecedor dele, né? Quando ele compra os produtos matéria-prima. E o CTE também ele busca automático, né? Os XML. Mas eu vou... Estou anotando aqui só para perguntar de novo.\n[LOCUTOR 13]: um cuidado muito grande aqui, [PESSOA], de trazer algumas informações porque está tão dinâmico os desenvolvimentos. Então, a gente sempre tem uma novidade, tá? Então, eu vou só confirmar se de fato eles desenvolveram, se tá ok, se pode liberar, aí eu passo pra vocês. Até\n[LOCUTOR 4]: causa de todas as alterações do governo também. Ontem ainda a gente teve uma situação que entrou uma nova nota técnica lá, de valor lá, que\n[LOCUTOR 29]: informando\n[LOCUTOR 4]: [EMPRESA] e [EMPRESA] precisa ter uma tag específica lá, né? Então toda hora tá tendo alteração nesse processo aí.\n[LOCUTOR 29]: É, isso já está previsto, tá? A TOTUS, quando a gente fala de reforma tributária, a TOTUS está bem à frente aí. Isso tanto lá no GFE, que a gente recebe os CTEs, as transportadoras para auditar, dentro da [EMPRESA] e o TMS aqui é diferente, tá? Então, a reforma tributária na TOTUS pode ficar tranquilo quanto a isso. Então, aqui, operacional, ele fica aguardando planejamento. O que é operacional, tá? [EMPRESA], onde você vai fazer o que a gente chama de plano de distribuição, que é uma outra ferramenta que nós temos aqui, aqui onde você vai gerar o planejamento da viagem. Então, eu tenho as requisições. O que é uma requisição? É exatamente o que nós queremos agora. Está aqui a requisição, que é\n[LOCUTOR 4]: o nosso\n[LOCUTOR 29]: documento de frete pronto. Eu tenho os embarques que eu tô preparando e tudo mais, né? Tá aguardando concluir, liberar, ou aqueles embarques que estão em trânsito. Então aqui você consegue acompanhar tudo que tá acontecendo dentro aqui do plano de distribuição, tá? Dentro do plano de distribuição, você cadastra aqui os seus motoristas, quais são os veículos, se tem ajudantes ou não, quais são os conjuntos motorista e veículo, né? Que é uma composição. Isso tudo\n[LOCUTOR 4]: você\n[LOCUTOR 29]: cadastra aqui dentro, tá? Importante aqui, Só deixa eu abrir um parênteses rapidinho, que eu acabei não falando outra vez, que é o portal logístico, tá? Hoje... Deixa eu abrir o portal logístico. Esse portal logístico é uma solução que as transportadoras podem adquirir e elas compartilham com o cliente dela. Aqui é a nossa nota 44. a nossa nota, que eu digo documento de carga, que é a nota do cliente, no caso.\n[LOCUTOR 4]: Então,\n[LOCUTOR 29]: cada cliente de vocês, vocês vão compartilhar esse portal logístico e eles conseguem acompanhar todos os eventos que vocês estão registrando aqui dentro. Então, desde quando vocês fazem a coleta, citar, essas nomenclaturas vocês podem estar alterando aqui. Então, até em trânsito, o caminhão está parado, enfim, são cinco eventos que você pode compartilhar com o cliente. Além disso, o cliente final de vocês ele pode olhar aqui ó a nota 44 né aqui ele consegue ver tudo que tá acontecendo também acompanhar dentro aqui eu tenho os produtos da minha nota se tem um documento e o documento de frete já tá aqui ó, e ele já tá recebendo aqui o PDF e o XML também. Eu só vou confirmar contigo o envio do e-mail automático, mas aqui dentro dessa ferramenta, então, o próprio cliente, o cliente de vocês, a transportadora, ele teria acesso aqui ao XML, através do portal logístico. Além disso, aqui dentro, eu não sei se, no último, última vez que a gente conversou, acho que não é uma necessidade de Ele poderia solicitar uma cotação. Acho que vocês não têm esse cenário, né? De ele cotar um frete com vocês, né?\n[LOCUTOR 40]: Você\n[LOCUTOR 4]: fala do\n[LOCUTOR 40]: cliente cotar conosco?\n[LOCUTOR 29]: Ah, legal. Então, através do portal logístico, ele poderia solicitar uma cotação de frete para vocês,\n[LOCUTOR 29]: Ele poderia solicitar uma coleta. Então, dentro da própria ferramenta, Quando eu criei o documento lá, não sei se vocês lembram, eu falei, ó, aqui tem a solicitação da coleta. Então, se você tirou uma solicitação de coleta aqui, ele fica vinculado ao documento de carga, nota fiscal. Então, fica tudo vinculado dentro do sistema, tá? Então, além da solicitação da coleta... Pessoal, só deixa eu reforçar, tá? Esse portal logístico, quem vai usar é o cliente de vocês, tá? Ele que vai usar. Então, desacompanhamento, dos embarques que foram criados tá tudo aqui ó esses aqui estão todos cancelados se eu olhar aqui para o plano ó esse aqui o DP-7 aqui ó se olhar os embarques é que eu queria uma pesquisa um filtro\n[LOCUTOR 4]: [LOCUTOR 2]: tá todo o DP-7 aqui ó é um embarque que eu cancelei aqui tá para não é muito teste que a gente faz então só para não poluir a tela mas veja que dentro do do portal logístico, o cliente de vocês também sabe quantos embarques tem, se está em trânsito ou não. Tudo que está acontecendo no mundo além do TMS, o cliente final de vocês acaba recebendo as informações em tempo real. Então não precisa ele perguntar onde está o veículo, em que posição que está. Vocês conseguem, através aqui, informar o cliente também. Tranquilos aqui? Então, até o financeiro, tá? Então o cliente também sabe [PESSOA] é o valor que ele tem de fatura a pagar, a vencer para vocês? E quanto que ele está devendo, não sei se esse é o termo correto, que está vencido e o cliente não pagou vocês ainda. E quais são os documentos ainda que o nosso [EMPRESA], que não está vinculado, ele sabe que foi gerado um CTE para ele, mas que não está vinculado a uma fatura ainda. A partir do momento que vocês vão gerar a fatura e encaminhar para ele, vem aqui nesse agrupamento aqui. Vocês vão ver todos os títulos aqui. Vocês são clientes, tá? Então veja que ele tem informações de forma centralizada. Então, esse portal aqui vocês vão compartilhar com o cliente de vocês daí. [LOCAL]? Tá,\n[LOCUTOR 29]: vamos lá então. Deixa eu voltar para o plano de distribuição. Deixa eu só tirar de novo o cancelado aqui porque senão fica muito... muito poluído, tá? Vamos planejar o embarque então, tá? Eu vou vir aqui, eu posso ler a chave do [EMPRESA], Ou vou pegar aqueles recursos, que é o documento 34, está aqui. Eu vou clicar nele. Ele já está selecionado. Aqui, requisições selecionadas. Vou decinar o embarque. Aqui ele me traz um processo. [PESSOA], eu não tenho, os dados eu coleto, mas a entrega eu tenho. O peso bruto, qualquer cubagem, o volume e o valor total da nota. E eu vou encontrar motoristas agora, tá? Então eu vou clicar aqui e ver quais são os motoristas, né, o caminhão que está ou que estão disponíveis, tá? Então ele mostra aqui o nível de especialização, tá? E qual que é o nível de ocupação. Especialização, de repente, ah, eu tenho um motorista, uma carreta que ela só pode levar um determinado produto. É esse produto que eu tô transportando? Não, então essa carreta ela já não... não é contemplada aqui para seleção, tá? Então eu posso detalhar aqui todas as informações, se esse veículo atende carga fechada ou não, né? Ele traz alguma série de informações para vocês. E eu vou buscar um aqui que eu tenho. Veja aqui, o veículo não atende a pelo menos uma das especializações do embarque. Motorista não relacionado a pelo menos uma especialização do embarque. Ele dá esse alerta também, tá? Por isso que ele traz a especialização e a ocupação zero aqui. Eu vou pegar um que eu criei. Esse aqui é o caminhão truque, né? Aqui ele dá o nível de ocupação do caminhão, aqui traz quem é o motorista também, qual que é a ocupação e tudo mais, né? E eu vou concluir o planejamento aqui, tá? Eu coloco qual que é a data de planejamento do processo, vou dizer que vai começar às 15 horas, termino amanhã às 9 horas, por exemplo. Vou avançar. Aqui eu vou gerar o manifesto. Ele vai ser de [LOCAL], vai passar pelo [LOCAL] e vai ser entregue em [LOCAL]. Ele dá aqui um ponto de saída, qualquer passagem. E eu vou confirmar esse planejamento. Ele mostra que tá liberado em trânsito, tá? Mas na verdade aqui... Ele está processando agora para justamente gerar o manifesto e todas as informações. Deixa eu só vir aqui, eu posso processar documentos. Ele muda para aguardar, aguardando a liberação, ou seja, eu vou ver aqui documentos, veja que ele tá colocando como pendente, ele tá gerando o manifesto nesse momento, tá? Então, de novo, vai lá pro [EMPRESA], vai buscar as informações e vai gerar o manifesto. Quando eu finalizar o processo de geração aqui do manifesto, aí sim, ele vai ficar apto a eu mandar essa viagem pro motorista, onde o motorista recebe através do app, lá do aplicativo que eu apresentei pra vocês na agenda passada, tá? Então, aqui eu tenho todas as informações do embarque, tá? de forma centralizada aqui, tem a motorista, qual é a placa, tração do veículo e tudo mais, quais os pontos de passagem que ele vai passar, o CTEC que foi gerado aqui, o PDF, a requisição que ele gerou, qual que é o cliente, quem é o contratante, se está planejada, por que está planejada? Porque eu já coloquei dentro de uma carga, por isso que ele colocou aqui, quais são os trechos, e ele está gerando aqui agora, eu não tenho gerenciamento de risco, por isso que eu não trouxe nada, não precisei gerar [EMPRESA], porque ele é um motorista autônomo, terceiro, e aqui ele gerou o manifesto número 24 e ele rejeitou. Deixa eu ver qual foi a rejeição dele. Rejeição. As informações de pagamento devem ser informadas para a carga-lotação. Então ele rejeitou esse carinha aqui, eu já sei o que é, Ele deu o mesmo erro hoje de manhã, hoje perto do meio-dia ali. Eu já pedi para o pessoal responsável ajustar uma informação que alguém alterou, tá? O que acontece aqui? Nós temos uma... A [LOCAL] matriz que a gente coloca como nossa empresa, seria vocês transportadores. Então a galera usa para tudo quanto é teste, né? Para não correr risco de colocar um CNPJ qualquer, a gente usa muito o CNPJ da [LOCAL]. e alguém foi lá e tirou todas as informações financeiras para estar gerando agora o manifesto, tá? Mas chegamos até a geração do manifesto, ele gerou o manifesto, só não foi validado ali para ser faz, tá? E o bacana é que aqui, ó, ele traz algumas ações sugeridas quando ocorreu um erro, tá? Isso em todos os processos. Eu lembro, acho que, não sei se foi o [PESSOA] que perguntou da agenda passada, né? Então aqui, ó, aqui é um bom momento para a gente falar. Então ele gerou um erro. A emissão é o mais manifesto a rejeitar na CFAZ. Após tratar o motivo da rejeição, clica aqui para reprocessar. Então eu vou lá, trato, vou lá no cadastro lá que eu tenho que ir lá dentro lá do motor fiscal, faço todos os ajustes e depois eu venho aqui e reprocesso, tá? Bom, o manifesto foi rejeitado, aqui estão algumas soluções possíveis. Verifique se há outros embarques pendentes com a placa MTL e tal, e se tiver ele não permite, né? Só vou gerar o manifesto quando de fato finalizar a viagem anterior, e aqui verifique se o percurso foi definido corretamente, né? Às vezes você sai da [LOCAL] e pula algum estado, na hora de gerar o manifesto ele também dá essa inconsistência. Eu vou clicar aqui, mas só para ter certeza, né? Fazer uma catarina para [LOCAL], ou seja, está certinho, mas eu poderia fazer os devidos ajustes aqui. E aqui eu não tenho nenhum embarque, né, que esteja na situação aqui de pendente de finalizar. Então, em resumo, né, a minha situação aqui, ela mostra o erro aqui mesmo desse cadastro, tá? Então é um cadastro aqui que a gente precisa arrumar. Beleza, tá aqui, tranquilos. Aguardando liberar, porque se eu for liberar aqui para o motorista, o sistema não vai permitir. Por quê? Porque esse barco está bloqueado. Então está aguardando a geração do manifesto, tá? É isso que o sistema está mostrando aqui. Eu consigo voltar aqui. Veja que eu consigo navegar por várias... Alguma dúvida, gente?\n[LOCUTOR 29]: geração do documento, a importação dele ali no XML, fiz a geração, a verbação, viu ali que no momento que eu [PESSOA] e gerei o documento fiscal, ele já gerou a verbação também de forma automática. Aí o manifesto, eu gerei o embarque aqui, eu só coloquei um [EMPRESA], obviamente, né? Aí eu coloquei um [EMPRESA], ele gerou, selecionei o veículo aqui que está disponível em cima das especialidades ali, das especificações, melhor dizendo, E agora eu girei o [EMPRESA] também, só que deu esse erro aqui de cadastro. E por fim, o que a gente faria agora? A gente pegaria o coleta-entrega e a gente encaminharia isso, a hora que tiver liberado esse planejamento, esse embarque, a hora que eu conseguir gerar o manifesto e retornar que está tudo certo, o manifesto gerado, esse embarque fica livre e eu faço o quê? Integração com o coleta-entrega. Então eu faço a integração com o coletor-entrega. O que seria essa integração com o coletor-entrega? Aqui dentro, ele receberia a viagem... Deixa eu só abrir o coletor-entrega. Deixa eu ver se eu tô na... Ele viria aqui e ia trazer uma viagem aqui dentro, pronta, [EMPRESA]? dependendo se o motorista já recebeu, mas seria aqui, ó, viagens em andamento dentro do [LOCAL]. E o [LOCAL] é um app que o motorista usa, né? Onde ele vai criando, o sistema vai criando vários eventos, né? Como iniciou, quando o motorista chega lá no aplicativo dele e diz, ó, iniciei a viagem, essa entrega a ser realizada, ele muda aqui que iniciou. Quando o motorista chega, a viagem, a cor fica um azulzinho mais clara. Quando ele chega no cliente, cheguei no cliente, ele aponta, estou aqui no cliente, ele avisa aqui também. Então a torre tem total controle de tudo o que está acontecendo com essa viagem, com essas notas que o motorista tem para entregar. Aqui você pode também, deixa eu abrir o coletor de entrega aqui rapidinho, mandar mensagens para o motorista. Então através aqui da torre mesmo, dentro do aplicativo do coletor de entrega, você pode estar mandando mensagens para o motorista. Como o motorista também pode, através do app dele, mandar mensagens para a torre. Então fica tudo registrado aqui dentro. Só deixa eu abrir o aplicativo. Eu estava com o [PESSOA], mas...\n[LOCUTOR 4]: A conversa com o motorista se dá tudo pelo aplicativo daí.\n[LOCUTOR 15]: eu abrir aqui. [LOCUTOR 24]: conectando aqui? Eu já abro o aplicativo para mostrar para vocês, tá? E aqui no portal logístico, para essa nota 44, cada evento que o motorista realizar, ele acaba trazendo aqui atualizações. E o cliente final de vocês vai estar acompanhando isso também, tá? Recebe também esses eventos. Deixa eu ver aqui, plano de distribuição. Como é que funciona, como é que vocês tratam o encerramento do manifesto da [EMPRESA]?\n[LOCUTOR 4]: manual ou vocês têm alguma automatização para isso?\n[LOCUTOR 29]: Eu posso criar um processo que ele encerra automaticamente quando o motorista encerra toda a viagem dele. Lá\n[LOCUTOR 29]: aplicativo o\n[LOCUTOR 4]: motorista tem que dar o fim da viagem e\n[LOCUTOR 4]: isso\n[LOCUTOR 29]: pode\n[LOCUTOR 4]: comandar o encerramento do [EMPRESA]\n[LOCUTOR 29]: Isso. Aí você pode programar isso para criar como uma ocorrência dizendo, vou finalizar o [EMPRESA]. Então dispara uma integração e... e finaliza o [EMPRESA].\n[LOCUTOR 4]: [PESSOA].\n[LOCUTOR 29]: Deixa eu ver o que mais aqui. Deixa eu só ver o... Ah tá, eu tenho o monitoramento logístico aqui, tá? Que eu acabei não falando. Deixa a sessão, deixa a sessão, eu coleto um trem aqui. O monitoramento logístico... o monitoramento. Aqui ele indica, para a operação, aonde que está o motorista nesse exato momento. Esse aqui é da [LOCAL], pessoal. Aqui, a [PESSOA]. Existe uma diferença aqui, tá? Quando você está buscando as informações do coleta-entrega, ele está buscando a localização do app do motorista. Se eu vier na coleta entrega e olhar a localização dele, ele vai pegar aonde que o motorista está nesse exato momento. Onde que o aplicativo do motorista está nesse exato momento. Aqui em [LOCAL], porque esse aplicativo aqui que está usando é o [PESSOA] que mora em [LOCAL]. Ele está lá na [LOCAL]. Aqui é a [LOCAL]. Então está lá na [LOCAL] nesse exato momento. Então esse [PESSOA], o motorista, ele está nesse momento lá na [LOCAL]. Mas você pode também buscar, quando ele traz a silhueta aqui do caminhão, significa que você está buscando as informações da empresa lá que vocês, qual que vocês utilizam aí para rastreamento? [LOCAL]?\n[LOCUTOR 4]: [LOCAL], [PESSOA] e [LOCAL].\n[LOCUTOR 29]: A [LOCAL] eu tinha anotado aqui. Então a [LOCAL]. Então você consegue buscar a posição do veículo também através do app do motorista ou através também do monitoramento aí da [LOCAL], por exemplo, tá? Então aqui você tem todo o acompanhamento no mapa. Isso aqui é o monitoramento, tá? Então você monitora tanto o veículo, no caso, né? Quanto a questão do motorista também, tá bom? Deixa eu só pegar aqui e acessar agora o Coleta pra mostrar pra vocês o app. Bem rapidinho, por favor. Fica à vontade, tá? Se tiver alguma dúvida.\n[LOCUTOR 4]: Todos\n[LOCUTOR 29]: os documentos de carga, todas as notas de carga que elas estão com status de validado, lembra que eu importei o XML lá, né? Criei o documento de carga. Quando ela está com status validado, ela fica disponível aqui dentro desse... Nesse painel aqui, que eu acho que vai ser painel, logístico, TMS, [EMPRESA], enfim. E como que você gera um documento de carga, tá? E gera embarque? Clica e arrasta. Lembra que eu falei para vocês que eu ia fazer manual toda geração do documento de carga, montagem do embarque, geração do CTE? Eu fiz manual. Mas\n[LOCUTOR 4]: aqui,\n[LOCUTOR 29]: basta clicar e arrastar, ele já gera o CTE. Então vamos fazer um teste rapidinho aqui. Vamos ver se é verdade, né? Isso foi liberado agora, tá? Essa semana, para ser mais preciso. Vou pegar aqui a nota fiscal 45. Deixa eu botar para cá isso que eu não vou usar agora. Tanto a tela aberta que dá até medo. Eu descobri errado também. 45, 70 e cada\n[LOCUTOR 4]: a gente já\n[LOCUTOR 29]: passou por esse processo. Esse aqui é um facilitador, tá? O Kanban ali, que não é o nome ainda, é a primeira versão dele, tá? Com certeza vão ter alguns ajustes ali. Na sexta-feira a gente participou de um repasse e a ideia é... é já comercializar, tá? Então, um facilitador aí para os clientes.\n[LOCUTOR 29]: se tiver dúvida aqui, a gente passou, mas se tiver alguma dúvida, alguma... dá vontade, tá?\n[LOCUTOR 4]: Tá tranquilo.\n[LOCUTOR 29]: Então vamos ver se isso acontece, né? Deixa eu só dar um início aqui. Tá, deixa eu dar um refresh. Tá aqui a nota 45, tá? Finalzinho aqui o localizador. Acho que tá pequeno, vocês estão vendo\n[LOCUTOR 29]: Eu posso selecionar todas, tá? Eu tenho aqui como fazer a leitura dele, do documento de carga, qual que está selecionado e tudo mais. Tem alguns filtros aqui também importantes. Aqui eu quero colocar quais são os cards que aparecem aqui, localizador, unidade, os totalizadores também. Você pode estar mudando as posições dos cards totalizadores. Eu pedi também para eles colocarem A [LOCAL], tá? Então, por exemplo, eu quero filtrar todas as notas fiscais que eu tenho pra [LOCAL]. Acho que é um facilitador, né? Então, acho que eles vão ajustar isso aqui também, tá? Então, você vem aqui, marca a nota fiscal 45 e arrasta pra cá, tá? Então, agora, ele tá processando. ele gerou esse documento, tá? Mas agora ele vai lá para o fiscal, lá para o\n[LOCUTOR 4]: [EMPRESA], né?\n[LOCUTOR 29]: O motor fiscal, perdão. E agora a gente tem que aguardar aqui uns segundinhos para ele estar liberando pré-confirmações pendentes, documento gerado. Deixa eu por aqui, se a gente olhar no operacional aqui, ó, tá? Essa Ela vai estar com a mesma situação. Aqui é 45.\n[LOCUTOR 24]: pendente, eu consigo ler aqui também, tá? O documento é o final WTJ. Vou ver qual que é o documento WTJ. Tem muita gente fazendo testes aqui da [EMPRESA]. Aqui ó, ele\n[LOCUTOR 29]: tá com prévia ainda, então vamos aguardar alguns minutinhos.\n[LOCUTOR 15]: eu ver se veio pro fiscal já ou não. Não, ainda não. Mas, enfim, o que acontece... Só que a gente está chegando no tempo aqui. Então, o que eu faço aqui? Eu clico no documento, arrasto para cá, ele vai gerar um documento de frete. Deixa eu dar um reflexo\n[LOCUTOR 29]: aqui. Ele gera o documento de frete automaticamente. Depois que esse documento estiver pronto, eu arrasto aqui para o embarque. Então, todo aquele processo que a gente fez de gerar o documento de frete e no plano de distribuição, fazer a montagem e tudo mais, esse cambão logístico ele tem esse objetivo, tá? Simplesmente clicando, arrastando aqui o sistema por trás, gera as informações automaticamente para vocês, tá? Ele está em processamento ainda na [LOCAL], não voltou, por isso que ele não gerou o número ainda, tá? Então ele só está aguardando a conclusão. Mas é isso, é rastar e o sistema vai gerando todo aquele processo que eu acabei fazendo com vocês, ele vai gerando automaticamente.\n[LOCUTOR 4]: Gente,\n[LOCUTOR 4]: alguma\n[LOCUTOR 29]: dúvida aqui.\n[LOCUTOR 4]: Ele usa todas as suas parametrizações, então, para gerar um\n[LOCUTOR 29]: [LOCAL].\n[LOCUTOR 4]: Toda a questão de negociação de custos e tudo mais, tem que estar tudo previamente configurado.\n[LOCUTOR 29]: Sim, sim, tem que estar tudo configurado para você fazer de forma automática.\n[LOCUTOR 14]: no motor fiscal está demorando um pouco. gente. Não era pra demorar assim. Tanto é que a gente fez antes que o livro foi mais rápido, né? Eu\n[LOCUTOR 29]: devo\n[LOCUTOR 4]: estar parado em algum processo aí.\n[LOCUTOR 29]: É. É como eu falei, é base de homologação. A\n[LOCUTOR 4]: homologação é assim mesmo.\n[LOCUTOR 29]: A homologação é... Mas é isso mesmo, tá?\n[LOCUTOR 7]: livro da [EMPRESA] já é para o documento de transporte, ele vai mostrar, esse aqui tá rápido, só que ó, Olha, documento gerado. Só que não vou pegar porque não sei de quem é esse cara aqui. É\n[LOCUTOR 29]: meu, mas não é meu. Alguém tá usando o meu nome. Deixa eu pegar. Já que tá no meu nome, acho que ninguém pode reclamar. Eu venho aqui e gero, crio, embarque com ele. Tá vermelho, o pessoal tá selecionando. Aguardando o recurso. Liberado para trânsito. Então você consegue compreender tudo o que está acontecendo aqui, tá? E uma vez que for, você finaliza o processo, ele sai dessa tela, tá? Então, de novo, essa aqui é uma primeira versão, tá? Eu acho que muita coisa ainda vai acontecer aqui dentro desse, entre aspas, cambão logístico, tá? Isso vai ser um facilitador muito grande para vocês no dia a dia Você pode selecionar vários documentos de carga Você pode estar filtrando aqui Somente os meus documentos do meu usuário, por exemplo Status de processamento, tem vários filtros aqui bacanas para você trabalhar também\n[LOCUTOR 2]: para o remetente, para o recebedor, para o número da nota Isso, gente, que eu tinha para mostrar para vocês. Não sei se vocês têm\n[LOCUTOR 4]: alguma\n[LOCUTOR 29]: dúvida ou\n[LOCUTOR 40]: assim, né, [PESSOA], em específico, acho que ficou bem apresentado para nós aí, né, o [PESSOA] aí, à frente do nosso [EMPRESA], né. Então, cabe a nós agora, a gente, vamos dizer assim, comparar o que a gente tem hoje com o que a gente espera a nível mercado, né? E sim, ver, com certeza a gente vai ter mais dúvidas ali em cima dessa apresentação e\n[LOCUTOR 29]: [LOCUTOR 8]: gente, vamos dizer, ter uma base assim e comparar realmente com o que a\n[LOCUTOR 6]: [PESSOA], uma pergunta hoje em relação à\n[LOCUTOR 29]: expectativa,\n[LOCUTOR 6]: vocês estão em análise, não tem urgência, qual seria uma ideia de virada de uma nova solução?\n[LOCUTOR 40]: Hoje assim de forma muito transparente, [PESSOA], hoje principalmente agora esse início de ano\n[LOCUTOR 29]: para\n[LOCUTOR 35]: até atendimento em clientes, então o [LOCAL] vai passar por uma dinâmica aí nos próximos 10 dias aí, bem, vamos dizer assim, expressiva, né? Mas, voltando assim, a sistema, a empresa, assim, a gente vem num processo muito rápido de evolução para atender grandes clientes, né? Como eu mencionei vocês lá atrás, a gente precisa ter\n[LOCUTOR 40]: sistema robusto, né? porque o sistema anda\n[LOCUTOR 40]: paralelo com qualquer negociação que você for fazer com algum cliente. Então, o que a gente vê? Vem escutando do mercado as ferramentas que tem disponível hoje, não que a nossa ferramenta não nos atenda, sim, está atendendo hoje, mas, sim, a gente vê que tem oportunidade da gente, vamos dizer assim, melhorar esse fluxo, tornar esse fluxo mais automático, mais, vamos dizer, como eu usei lá atrás a palavra, robusto, né, o que eu digo assim, o sistema onde que ele vai nos permitir, como o [PESSOA] mencionou lá atrás, né, inicia desde um processo todo de cadastro ali, de uma ordem de coleta e tal,\n[LOCUTOR 40]: fazendo todo o início até travar a emissão desse documento com qualquer erro que ele tenha, né, isso é muito importante para nós hoje, né, então a gente, sim, vai buscar algo no mercado, vem buscando, vem escutando, mas a gente não tem data para executar isso, porque existe uma estabilidade muito grande hoje, né, nesse início de ano, né, e a gente fala, né, compartilhando com vocês, ano político, ano de copa do mundo, essa guerra aí que,\n[LOCUTOR 29]: vamos\n[LOCUTOR 40]: dizer assim, que alguns estão dizendo que o [LOCAL], que o [LOCAL] vai ser bom, mas enfim, né, não, a gente não sabe, né, então o que que empresa hoje, hoje mesmo falando com o nosso diretor, é o momento da gente avaliando aí os próximos passos, o que vai acontecer e sinta sempre, vamos dizer assim, a parte das tecnologias, porque hoje ou você vai para um lado tecnológico ou você vai ficando cada vez mais para trás.\n[LOCUTOR 29]: compartilhar com vocês Quando você traz essa necessidade de olhar para o mercado, o bacana é você estar sabendo, acho que foi essa a ideia da [EMPRESA] aqui, do Marro, do [PESSOA] e minha também, de mostrar para vocês tudo o que a gente tem. Como eu falei, tem muita coisa ainda acontecendo na suíte [PESSOA] e todas essas inovações vocês vão estar recebendo. Isso você recebe sem custo nenhum. Então, toda essa inteligência que está vindo por trás, essa questão do [PESSOA] ali, por exemplo, isso vai trazer um dinamismo muito grande para vocês. criar um filtro e arrastar. Imagina, não precisa ficar entrando em mais nada. Então a inteligência artificial já tem marcada. Coisas bacanas. Reforma tributária, isso é importante você estar ciente também.\n[LOCUTOR 29]: gente já está, a [LOCAL] está bem avançada em cima disso. A [LOCAL] está, digo avançada porque nós temos uma cadeira lá dentro. Então a [LOCAL] participa full time dentro lá da questão da reforma tributária. Nós temos dentro do [EMPRESA] quanto nas outras soluções, tipo o Fiat Mercador e o próprio TMS. Então a questão da reforma tributária pode contar com a [LOCAL], a gente está super bem no mercado quanto a isso. E de novo, as inovações que estão por vir. Cara, tem muita, muita, muita coisa. Por\n[LOCUTOR 40]: isso que eu\n[LOCUTOR 29]: falei e tive o cuidado de falar, cara, deixa eu confirmar para ver se já não foi liberado ou não.\n[LOCUTOR 40]: Exatamente isso aí, [PESSOA]. Isso aí que a gente vem acompanhando no mercado e a abertura da [LOCAL] Esse primeiro contato que a gente teve com o [PESSOA], enfim. É porque a gente já tem conhecimento também de algumas empresas que tem a Totos. Eu tenho conhecidos que já trabalham com o sistema em outros segmentos. Então, é um sistema muito robusto em várias áreas.\n[LOCUTOR 29]: [LOCUTOR 27]: você mencionou, vocês veem uma evolução no desenvolvimento logístico. Então, a gente quer acompanhar também isso, porque a gente sabe que lá na frente, tendo oportunidade, a gente vai migrar para o melhor. Então a\n[LOCUTOR 40]: empresa precisa fazer isso, né? E falando em tecnologia, quando a gente fala em tecnologia é num todo, desde rastreamento, sistema, gestão, né? Então...\n[LOCUTOR 29]: Deixa eu só... Preciso sair, mas caso você queira ter uma visão de investimento, óbvio, sem compromisso algum, tá? Aí a gente manda um link para você, aí você preenche o link e a gente consegue gerar uma visão de investimento, caso você queira já ter uma noção, né? de valor e tudo mais, se a gente consegue, eu só centralizo aí no [PESSOA] ou no [PESSOA], aí eu mando o link para eles, eles passam para você, você responde ali e eu já gero uma visão de investimento, tá? Se for do\n[LOCUTOR 4]: interesse de\n[LOCUTOR 40]: Com certeza que é de interesse, né, [PESSOA]? O [PESSOA] pode estar\n[LOCUTOR 4]: fazendo aí,\n[LOCUTOR 40]: fazendo\n[LOCUTOR 4]: esse\n[LOCUTOR 40]: contato\n[LOCUTOR 40]: Pode ser com o [PESSOA] ali, esse contato?\n[LOCUTOR 40]: Isso, a gente troca ali os contatos, com certeza. É importantíssimo isso para nós, tá visualizando.\n[LOCUTOR 29]: centralizar nele aí ele cabia para você e depois a gente gera essa\n[LOCUTOR 40]: visão\n[LOCUTOR 29]: de investimento.\n[LOCUTOR 29]: [LOCAL]. Gente,\n[LOCUTOR 29]: Acho que vocês conseguem continuar, né, [PESSOA] e [PESSOA]?\n[LOCUTOR 29]: Um abraço,\n[LOCUTOR 6]: gente. [LOCAL].\n[LOCUTOR 28]: filmar aí. [LOCAL].\n[LOCUTOR 59]: [EMPRESA],\n[LOCUTOR 6]: [PESSOA]. Vamos ficar combinados assim, então. Assim que o [PESSOA] enviar o link, eu compartilho com você. Quando a gente tiver aqui com a visão de investimento, a gente marca aí um momento para poder apresentar isso para vocês.\n[LOCUTOR 40]: Exatamente, [PESSOA]. Vamos nessa linha, porque até assim a gente tendo visualizando isso, né? E até lá o cenário já vai mudando, a gente vai visualizando outras coisas, né? Até para estar apresentando para o nosso diretor aí, né, [PESSOA]? Colocar ele no acalco com vocês aí também, né? Então, eu acho que vamos nessa linha que a gente seria mais prudente, vamos dizer assim, né, [PESSOA]?\n[LOCUTOR 40]: [PESSOA]? Um abraço gente.\n[LOCUTOR 59]: Prazer\n[LOCUTOR 59]: abraço.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:35.860455+00:00",
+    "total_linhas": 305,
+    "linhas_mantidas": 203,
+    "linhas_removidas": 102,
+    "percentual_mantido": 66.56,
+    "confianca_media": 0.4808
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 6]: Boa tarde, [PESSOA]. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: pessoal. Boa tarde, pessoal. Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3708,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: E aí, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: certinho, cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Tudo,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Entra mais alguém, [PESSOA]? Quer esperar um pouquinho?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4757,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Eu vou. Vai entrar o [PESSOA]. Deixa eu chamar ele aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4059,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Boa tarde, [PESSOA]. Tudo bem? Opa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Chegou o homem. Mais algu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: participa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Isso aí, seria nós. Por hora seria nós, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCAL]. Pessoal, como todos já se conhecem da nossa última agenda, vamos partir logo para o principal, que é conhecer um pouco mais sobre os processos da solução do TMS SAS da TOTUS. Entender como vai ser a aderência deles para a operação atual da [LOCAL]. Já passo a palavra para o [PESSOA], o [PESSOA] também fica à vontade se quiser personalizar. Já passo para o [PESSOA] poder iniciar a apresentação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Boa tarde, pessoal. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3709,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Boa tarde. Só deixa eu salvar aqui um XML para a gente fazer o processo. Pronto. Estava bugando aqui algumas informações só para não perder. Então, como o [PESSOA] trouxe, a ideia hoje é mostrar para vocês um pouco na prática como é que ocorrem as etapas das operações dentro do nosso TMS. Na agenda passada, a gente já mostrou para vocês algumas configurações, tabela, contrato com os clientes de vocês e tudo mais. E hoje a ideia é mostrar um pouco de como que a gente gera as informações aí de manifestos, como que a gente gera o site, como que a gente recebe o documento de carga e assim por diante. Então, deixa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: só compartilhar com vocês,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4654,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: s",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: um minutinho, por favor. Acho que vocês já estão vendo a tela. Deixa eu aumentar. Acho que agora vocês estão vendo a tela, né? Legal. Eu já vou direto nas soluções, porque na agenda passada nós já apresentamos, já falamos que é a suíte [PESSOA], né? quais são as soluções que a [LOCAL] tem hoje, mas fique super à vontade para estar questionando se ficar alguma dúvida ou se gerou uma dúvida na agenda passada, tá? Com relação à Suite [PESSOA], o que é, como funciona e tudo mais. Só recapitulando, então, a Suite [PESSOA], todas as nossas soluções são SaaS, nuvem, né? Então, aqui vocês vão estar recebendo esse endereço, esse URL aqui de internet, literalmente, acessando as nossas soluções. Aqui nós temos agendamentos como a [EMPRESA], o [LOCAL], a AGI, [EMPRESA] [PESSOA] é uma novidade, tá? Eu acho que eu havia comentado com vocês, mas não estava liberado ainda. Tem alguns clientes pilotando, eu vou mostrar para vocês um pouco o que é o [EMPRESA] [PESSOA]. Eu acho que até mencionei, não vai ser esse nome, tá? Isso aqui é um nome provisório, então vai ter um outro nome aqui, o [EMPRESA] [PESSOA], e eu vou falar o que é esse [EMPRESA] [PESSOA] para vocês na sequência,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Aí nós temos outras soluções aqui que nós havíamos falado, do coleta-entrega, do marketplace,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5894,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: monitoramento logístico, correncia,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: principalmente a gente navegou pelo TMS comercial, onde a gente tem todo o cadastro de clientes e tudo mais, e o TMS operacional. Então nós vamos começar pelo TMS operacional, que é... Hoje nós temos aqui algumas configurações importantes.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 5]: chamamos de personas aqui, então pode ser cliente, pode ser um prestador de serviço, pode ser um motorista e assim por diante. E",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: tudo nasce aqui dentro do documento de carga. Hoje, como é que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5114,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: imputa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: como que a gente traz esse documento de carga para dentro das soluções? Só lembrando que a gente tem o AGI aqui, foi liberado nesse, nós somos no mês de fevereiro, não, de março, finalzinho de fevereiro, tá? Aqui vai também ter uma melhoria onde é possível receber os seus ML diretamente, ok? Então tem essa possibilidade também. E o documento nasce aqui dentro do [EMPRESA]. Então, como é que ele nasce hoje, tá? Eu posso clicar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5481,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: aqui...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: e putar manualmente esses documentos. Isso aqui é o documento de carga. Quando a gente fala em documento de carga, são as notas fiscais do cliente de vocês, tá? Ou eu posso simplesmente vir aqui, buscar um arquivo, né? Deixa eu só mudar a posição dele aqui. O XML e arrastar. Como eu falei, isso vai ser automatizado ainda, tá? Tem muita coisa acontecendo, vai ter uma automatização nesse processo. Então, cliquei, arrastei aqui o documento de carga, assim que ele nasce hoje, como eu mencionei. Traz todas as informações, né? [PESSOA], quando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: você fala que vai ter a automatização desse processo, vocês têm mais ou menos uma previsão para isso acontecer? Como que está isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 14]: dentro do AGI, ele já foi liberado algumas partes, mas essa atualização provavelmente vai até no mês de 6 aí, mês de primeiro semestre, para estar liberando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Então aqui ele já diz as informações ok, ou seja, todas as informações do XML ele conseguiu carregar. Vocês vão",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: perceber",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: que tem muito status aqui dentro, tá? Das fichas como um todo, mas falando mais da parte aqui do TMS. Ele traz todas as informações, de qual que é o remetente, tá sendo dessa indústria, qual que é o endereço dela, tá indo para onde, qual que é o destinatário, bem, isso que é o padrão do crescimento de vocês. Razão social da transportadora também, volumes, produtos e tudo mais. Aqui tem uma aferição, nós temos situações que alguns clientes, como eles trabalham por frete de peso, às vezes o cliente da transportadora coloca um peso qualquer na nota, ou o peso não está correto. Então existe um processo de aferição. Esse processo de aferição ocorre aqui dentro da automação de terminais. Acho que não, não faz muito sentido o processo de vocês, que é líquido, mas geralmente acontece muito com fracionado. Então quando o motorista da transportadora vai lá nos clientes, ele está fazendo a coleta, E quando ele traz esse produto para dentro do terminal da transportadora, nós temos um processo aqui que é de aferição,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: onde",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: a gente pega o peso real do produto. Então, aqui dentro do [EMPRESA], eu poderia estar colocando aqui as informações",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: peso real, não o que consta na nota fiscal que veio do cliente da transportadora. Então é isso aqui na aferição. Aqui traz o produto da nota fiscal, o código dele e tudo mais. Observação, aqui tem algumas informações operacionais. Se eu tenho ou não tenho uma solicitação de coleta... [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Ali nessa aferição que você mencionou, ele vai trazer o dado da nota, né? Eu vou fazer a aferição caso desejada, né? Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4617,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [LOCAL], perfeito. Ele vai trazer as informações da nota fiscal, tá? Então, mas como eu falei, talvez com o produto de vocês não se encaixe muito, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Hoje até para você entender também, não sei se você vai entrar, a gente hoje calcula, nossa forma de cálculo para o frete,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 40]: ele é em litro transportado ou tonelada transportada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Então tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: as duas modalidades hoje, nosso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4857,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: cadastro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: você já pegou... Não, tranquilo isso, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: pode até revisitar, na última agenda eu mostrei ali o cadastro componente, mas a gente pode revisitar ele de novo, tá? Sem problema",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: nenhum.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Mas, por exemplo, você vai lá no cliente de vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: buscar o produto, a nota sai 5 mil litros ou 5 mil quilos e se você passar pelo peso real ele pode ter essa divergência? Vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5085,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: têm",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 40]: essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: aferição de peso hoje?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5031,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Hoje não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3883,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 35]: não, porque automaticamente, quando você está carregando para fazer a emissão da nota na companhia, ela já passa por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.482,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: essa aferição antes da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: emissão da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: nota. É pela",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5142,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: densidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: do produto. Como tem produtos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5375,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 40]: densidades diferentes, ela já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: é feita",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: essa aferição antes de emitir a nota fiscal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: É, perfeito. É como a gente vai na bomba ali, né? Seu carro já tá medindo ali a quantidade real, né? Mais ou menos isso também, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4469,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 29]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 40]: no caso a gente que faz o transporte do produto puro e do misturado também, ele muda conforme densidade e temperatura, né? Então a nota fiscal do que a gente tá transportando diferente da bomba Ela é baseada no que realmente a 20 graus o que está sendo transportado,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: pela",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5142,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: densidade desse produto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [EMPRESA]. Se tiver essa necessidade de colocar o peso real, o cubagem e tudo aqui em cima, Aí você poderia estar informando aqui, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: for necessário. Então, se você for lá e tem um peso, sei lá, de uma pesa ferida para ser uma tonelada e tem 900 quilos, ou tem uma tonelada e meia, então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5594,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: você poderia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: colocar aqui para o sistema considerar o peso real da transportadora no momento geral cálculo, tá? Informações do pedido. Aqui é a coleta. Se o cliente da transportadora solicitou através de uma coleta, então a gente tem o marketplace, onde o cliente da transportadora solicita uma coleta. Então, caso você queira amarrar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: solicitação de coleta, anota. Isso também é possível aqui dentro. [PESSOA] que é o modelo operacional? Coleta com consolidação, coleta entrega direta, recepção de caixa com consolidação, enfim. [PESSOA] estacionada, fechada, coleta de mercadoria, químicos, informa aqui também, que o meu contrato tem tanto o modelo operacional como a especialização. Então, se vocês trabalham de formas diferentes aqui, lá no contrato, quando você cadastrar para o cliente, ele já busca essa informação também. Aqui o transportador, no caso de vocês mesmo, que é quem está emitindo aqui depois do CTE, com as entregas e tudo mais. Eu tenho aqui também, eu só tenho um agendamento, então eu poderia colocar um agendamento aqui, vou entregar hoje, deixa eu pegar aqui, 14 horas e 10 minutos, por exemplo. Análise de operacional, aqui ele só traz informações, ele só está indicando que a abrangência que vocês estão realizando é uma operação interestadual, o terceiro termo principal, a questão está indicando isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 14]: você tem como buscar quem é o contratante, é opcional, tá? Veja",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: que é opcional, mas você poderia vir aqui. Quem é que tá contratando? Quem vai? A [EMPRESA], né, que é a indústria que eu tô carregando os produtos dela. É só mais informativo, tá? Mas caso você queira anexar aqui, selecionar, melhor dizendo, é possível também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: aqui eu tenho os produtos da transportadora, tá? Então, eu poderia estar colocando aqui... Eu estou levando o produto do cliente, mas eu posso, eu, transportadora, colocar como uma carga geral, né? Então, eu posso ter os próprios produtos aqui dentro. Então, eu vou informar manual aqui, tá? Não busca da nota fiscal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: eu tenho que... Até conversei hoje com... O pessoal, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4219,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 12]: ele deveria estar buscando mesmo da nota, enfim. Eles não me responderam ainda, mas assim",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4126,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: encerro o hor",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: passo pra vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Pra ti não ficar passivo a erros aqui, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: é o produto não da nota",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4626,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: fiscal",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: que você tá carregando de fato, é um produto... Por exemplo assim, tu tá carregando... farinha de trigo da marca tal tal tal, farinha de trigo não sei o que tal tal, daqui a pouco só coloca como o produto que você está transportando, trigo. É mais um centralizador de informações, tá? Pra você saber o que você está, de fato, carregando. A produto que você está carregando, química.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Você tinha que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: colocar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: a informação de produto predominante, né? Que vai lá no [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Deve ser mais ou menos isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4683,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Isso, exatamente, produto predominante. Lá no [EMPRESA] ele vai carregar essa informação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 25]: eu vou salvar aqui o documento. Aqui ele trouxe, é esse documento 43 aqui, as informações ele diz que está ok, ele está como não iniciada, as operações, a prestação de serviço. Aqui ele traz qual é a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: chave do documento também. Deixa eu copiar a chave aqui. São todas as informações do documento, tá? Você vai perceber que aqui dentro ele tem muitos status, como eu mencionei anteriormente. Aqui eu posso depois gerar uma ocorrência, caso eu queira, dentro da própria nota fiscal, dentro do próprio documento. Eu posso imprimir a etiqueta de produtos. Eu posso estar ajustando o endereço, caso eu queira. Aferição dos volumes eu posso estar fazendo nesse exato momento. Se eu implantei a nota, trouxe a nota fiscal, mas eu não tinha ainda o volume aferido, eu posso fazer no segundo momento. Eu posso estar ajustando alguns percursos aqui e assim por diante, tá? Aí o que a gente faz agora? Eu vou aqui dentro do documento de transporte. Só deixa eu abrir um parênteses bem rapidinho, tá? Eu tô fazendo processo manual, tá? Depois eu vou mostrar um processo mais informático para vocês, mas eu acho que o manual que é importante para ter entendimento, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 25]: eu vou gerar agora um documento, o CTE, leia aqui, posso estar bipando, né, a chave, enfim, ele já pegou a nota fiscal, informações a princípio tá tudo ok também, situação de prestação ainda não tá, tá indeferida, né, porque eu nem, opa, acho que eu peguei o documento errado, salutinho. Vou pegar a chave aqui de novo. [PESSOA], fiz tanto teste para vir aqui para dar esse erro, nem não, né? Eu tinha pego a nota errada, 43, o que a gente tá vendo é 44. Aqui ele também traz, aqui eu tô girando o [EMPRESA], tá? Ele gera esse documento aqui primeiro, tá? porque eu não tenho o número dele, eu não mandei para o fiscal ainda. Então ele gera um código e a gente consegue trabalhar com esse código aqui também. Depois vai ter um vínculo desse código aqui com o número real do documento de frete. [LOCUTOR 14]: ele traz todas as informações também, quais são as pessoas envolvidas, qual que é o cliente e tal, o endereço e tudo mais. Eu tenho aqui também o modelo operacional da coleta casioqueira, com entrega direto ou não. o remetente, o cliente, abrangência da operação, a gente já tinha visto lá, interestadual. Caso eu tenha quilometragem aqui, também posso ter formando. Caso eu queira colocar o tipo de veículo, posso também, se tiver ajudantes. Aqui ele traz qual que é o itinerário, para depois quando eu gerar o manifesto, para ele gerar esse... Contemplando essas informações aqui. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: vou buscar aqui qual que é o meu contratante, tá? Então aqui é justamente para buscar qual que é a tabela de frete, qual que é a negociação que está vinculada, o tipo da tabela. No meu caso aqui é normal, mas poderia ser uma reentrega, por exemplo, ou algo nesse sentido, se eu estiver gerando. O tipo de frete, se é [EMPRESA], FOB e tudo mais. Então ele traz aqui a contratante e ele busca as tabelas. Eu vou dizer que é uma carga fechada aqui também. Entrega direta. Se tem uma previsão, não? Pois não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Meu colega",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: deve",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: ter entrado aí agora, o [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Exatamente isso, acabei de liberar aqui, tá gente?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Beleza. Agendamento de entrega, vamos ver o que é hoje. Às 16 horas. Aqui ele pede volumetria também, tá? Então, ele trouxe só um volume, mas aqui ele buscaria as informações que tinha inserido no documento de carga também, ou você poderia colocar outras informações. Aqui que eu preciso, tô conversando com a equipe, tá? Confesso que tá vendo, ele não traz o item que veio lá do documento, tá? Então, já passei pra galera ali pra ver o que tá acontecendo. Como é uma base que todo mundo mexe, [LOCAL] inteiro, aliás, até o pessoal, não, [LOCAL] inteiro, a gente não tá usando ainda, então tem coisa que o pessoal vai mudando, tá? Então, você tem uma configuração e infelizmente alguém vai lá e acaba eliminando, excluindo, alterando. Então, você deve saber que o manifesto, por exemplo, se uma viagem, você falou que não fechou dentro de 30 dias, a CFAZ não permite você gerar um novo manifesto, né? Então tem uma norma técnica em cima disso. E como tem gente que fica criando e não finaliza, então de vez em quando aparecem essas inconsistências assim, tá gente? Eu peço desculpas, mas a ideia é mostrar o sistema rodando, né? Se você quer ter algumas observações aqui, e aqui ele traz informações para o cálculo do frete. Então ele me traz lá da tabela de frete quais são os componentes, Ele calcula porque, no meu caso aqui é valor fixo, então é valor fixo, não tem por que calcular em cima de nada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 7]: frete valor em cima do valor da mercadoria e o frete peso em cima do peso da mercadoria. Ele não tem variação nenhuma, então aqui ele trouxe qual que é o valor da mercadoria, R$ 3.720,00, e qual que é o peso da mercadoria, R$ 1.259,00. Quando eu vou para o dados do frete aqui, eu vou clicar em calcular. Eu não estou fazendo o frete manual. O que ele faz nesse momento aqui? Deixa eu só... Só um minutinho que eu vou compartilhar com vocês aqui. O que ele está fazendo nesse exato momento? Aqui ele está gerando de fato o cálculo do frete e vai gerar também o cálculo de imposto, onde eu clicar cálculo de imposto aqui. E é nesse momento que ele vai gerar o número do FAST, porque a gente vai mandar lá para o motor fiscal, que é uma solução, vocês adquirindo, vocês acabam recebendo ela, que faz parte do pacote, onde ele vai estar gerando o CTE, e nesse momento ele já vai validar com a [LOCAL] também o CTE, para ter o uso autorizado ou não ali. Deixa eu só ver se eu tenho o motor fiscal aqui. Agora ele já retornou. [PESSOA] que é o cálculo com o imposto e qual que é o cálculo sem imposto com o valor de imposto e tudo mais. E agora eu vou efetivar a nota. O [EMPRESA]. Perdão gente é nesse momento que ele vai para o motor fiscal. ele vai pro motor fiscal. Então tá aqui ó, documento gerado em andamento. Então agora a gente aguarda um segundinhos aqui pro motor fiscal processar. Ó, ele tá processando. Opa. 1425, ele deu como uso autorizado. Está aqui o documento, o código externo que a gente chama aqui dentro. Vamos clicar aqui no botãozinho verde. Ele falou que já foi para o fiscal. Aqui está o CTE, o número do CTE gerado. Aqui você tem os anexos, tanto o XML quanto o PDF também. E agora ele está fazendo automaticamente a verbação. Então vamos aguardar o instante que também vai fazer, ó, gerou a verbação também com sucesso, tá? Então nesse processo de inclusão no CTE, quando você vai na opção efetivar, ele cria o CTE de fato, ele vai pro motor fiscal, vai pra [LOCAL], né, ele faz autorização e tudo mais, e nesse mesmo processo você faz a verbação também. E aqui, no operacional... Tem documentos ali, só a questão dos anexos ali. Tanto o XMR como a [EMPRESA] já vão para o cliente por e-mail? Isso é automático?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Eu preciso confirmar, tá? Eu até... Até dia 27, 26... 27 foi sexta-feira. A gente fez um questionamento, tivemos uma reunião, não estava disparando automático ainda, tá? Mas eles falaram que estava desenvolvendo. Deixa que eu vou confirmar e eu te retorno, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: trazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: a informação correta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Até porque a gente precisa mandar o XML para o cliente, mas caso a gente cancele um CTE ou [EMPRESA], tem que mandar esse cancelamento também para o cliente, né? Então, tudo automaticamente, né? Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: sim. Na verdade, quando a [LOCAL] autoriza, o cliente de vocês, através da mensageiria, ela vai lá e busca o CTE já, né? Isso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: acontece...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Vai depender",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: do cliente, né? Vai depender do sistema que o cliente vai ter, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: É, mas hoje, quando ele... Porque ele já busca as notas fiscais do fornecedor dele, né? Quando ele compra os produtos matéria-prima. E o CTE também ele busca automático, né? Os XML. Mas eu vou... Estou anotando aqui só para perguntar de novo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 13]: um cuidado muito grande aqui, [PESSOA], de trazer algumas informações porque está tão dinâmico os desenvolvimentos. Então, a gente sempre tem uma novidade, tá? Então, eu vou só confirmar se de fato eles desenvolveram, se tá ok, se pode liberar, aí eu passo pra vocês. Até",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: causa de todas as alterações do governo também. Ontem ainda a gente teve uma situação que entrou uma nova nota técnica lá, de valor lá, que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: informando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [EMPRESA] e [EMPRESA] precisa ter uma tag específica lá, né? Então toda hora tá tendo alteração nesse processo aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: É, isso já está previsto, tá? A TOTUS, quando a gente fala de reforma tributária, a TOTUS está bem à frente aí. Isso tanto lá no GFE, que a gente recebe os CTEs, as transportadoras para auditar, dentro da [EMPRESA] e o TMS aqui é diferente, tá? Então, a reforma tributária na TOTUS pode ficar tranquilo quanto a isso. Então, aqui, operacional, ele fica aguardando planejamento. O que é operacional, tá? [EMPRESA], onde você vai fazer o que a gente chama de plano de distribuição, que é uma outra ferramenta que nós temos aqui, aqui onde você vai gerar o planejamento da viagem. Então, eu tenho as requisições. O que é uma requisição? É exatamente o que nós queremos agora. Está aqui a requisição, que é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: o nosso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: documento de frete pronto. Eu tenho os embarques que eu tô preparando e tudo mais, né? Tá aguardando concluir, liberar, ou aqueles embarques que estão em trânsito. Então aqui você consegue acompanhar tudo que tá acontecendo dentro aqui do plano de distribuição, tá? Dentro do plano de distribuição, você cadastra aqui os seus motoristas, quais são os veículos, se tem ajudantes ou não, quais são os conjuntos motorista e veículo, né? Que é uma composição. Isso tudo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: cadastra aqui dentro, tá? Importante aqui, Só deixa eu abrir um parênteses rapidinho, que eu acabei não falando outra vez, que é o portal logístico, tá? Hoje... Deixa eu abrir o portal logístico. Esse portal logístico é uma solução que as transportadoras podem adquirir e elas compartilham com o cliente dela. Aqui é a nossa nota 44. a nossa nota, que eu digo documento de carga, que é a nota do cliente, no caso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: cada cliente de vocês, vocês vão compartilhar esse portal logístico e eles conseguem acompanhar todos os eventos que vocês estão registrando aqui dentro. Então, desde quando vocês fazem a coleta, citar, essas nomenclaturas vocês podem estar alterando aqui. Então, até em trânsito, o caminhão está parado, enfim, são cinco eventos que você pode compartilhar com o cliente. Além disso, o cliente final de vocês ele pode olhar aqui ó a nota 44 né aqui ele consegue ver tudo que tá acontecendo também acompanhar dentro aqui eu tenho os produtos da minha nota se tem um documento e o documento de frete já tá aqui ó, e ele já tá recebendo aqui o PDF e o XML também. Eu só vou confirmar contigo o envio do e-mail automático, mas aqui dentro dessa ferramenta, então, o próprio cliente, o cliente de vocês, a transportadora, ele teria acesso aqui ao XML, através do portal logístico. Além disso, aqui dentro, eu não sei se, no último, última vez que a gente conversou, acho que não é uma necessidade de Ele poderia solicitar uma cotação. Acho que vocês não têm esse cenário, né? De ele cotar um frete com vocês, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: fala do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: cliente cotar conosco?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Sim, sim, sim, diariamente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Ah, legal. Então, através do portal logístico, ele poderia solicitar uma cotação de frete para vocês,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Ele poderia solicitar uma coleta. Então, dentro da própria ferramenta, Quando eu criei o documento lá, não sei se vocês lembram, eu falei, ó, aqui tem a solicitação da coleta. Então, se você tirou uma solicitação de coleta aqui, ele fica vinculado ao documento de carga, nota fiscal. Então, fica tudo vinculado dentro do sistema, tá? Então, além da solicitação da coleta... Pessoal, só deixa eu reforçar, tá? Esse portal logístico, quem vai usar é o cliente de vocês, tá? Ele que vai usar. Então, desacompanhamento, dos embarques que foram criados tá tudo aqui ó esses aqui estão todos cancelados se eu olhar aqui para o plano ó esse aqui o DP-7 aqui ó se olhar os embarques é que eu queria uma pesquisa um filtro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCUTOR 2]: tá todo o DP-7 aqui ó é um embarque que eu cancelei aqui tá para não é muito teste que a gente faz então só para não poluir a tela mas veja que dentro do do portal logístico, o cliente de vocês também sabe quantos embarques tem, se está em trânsito ou não. Tudo que está acontecendo no mundo além do TMS, o cliente final de vocês acaba recebendo as informações em tempo real. Então não precisa ele perguntar onde está o veículo, em que posição que está. Vocês conseguem, através aqui, informar o cliente também. Tranquilos aqui? Então, até o financeiro, tá? Então o cliente também sabe [PESSOA] é o valor que ele tem de fatura a pagar, a vencer para vocês? E quanto que ele está devendo, não sei se esse é o termo correto, que está vencido e o cliente não pagou vocês ainda. E quais são os documentos ainda que o nosso [EMPRESA], que não está vinculado, ele sabe que foi gerado um CTE para ele, mas que não está vinculado a uma fatura ainda. A partir do momento que vocês vão gerar a fatura e encaminhar para ele, vem aqui nesse agrupamento aqui. Vocês vão ver todos os títulos aqui. Vocês são clientes, tá? Então veja que ele tem informações de forma centralizada. Então, esse portal aqui vocês vão compartilhar com o cliente de vocês daí. [LOCAL]? Tá,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: vamos lá então. Deixa eu voltar para o plano de distribuição. Deixa eu só tirar de novo o cancelado aqui porque senão fica muito... muito poluído, tá? Vamos planejar o embarque então, tá? Eu vou vir aqui, eu posso ler a chave do [EMPRESA], Ou vou pegar aqueles recursos, que é o documento 34, está aqui. Eu vou clicar nele. Ele já está selecionado. Aqui, requisições selecionadas. Vou decinar o embarque. Aqui ele me traz um processo. [PESSOA], eu não tenho, os dados eu coleto, mas a entrega eu tenho. O peso bruto, qualquer cubagem, o volume e o valor total da nota. E eu vou encontrar motoristas agora, tá? Então eu vou clicar aqui e ver quais são os motoristas, né, o caminhão que está ou que estão disponíveis, tá? Então ele mostra aqui o nível de especialização, tá? E qual que é o nível de ocupação. Especialização, de repente, ah, eu tenho um motorista, uma carreta que ela só pode levar um determinado produto. É esse produto que eu tô transportando? Não, então essa carreta ela já não... não é contemplada aqui para seleção, tá? Então eu posso detalhar aqui todas as informações, se esse veículo atende carga fechada ou não, né? Ele traz alguma série de informações para vocês. E eu vou buscar um aqui que eu tenho. Veja aqui, o veículo não atende a pelo menos uma das especializações do embarque. Motorista não relacionado a pelo menos uma especialização do embarque. Ele dá esse alerta também, tá? Por isso que ele traz a especialização e a ocupação zero aqui. Eu vou pegar um que eu criei. Esse aqui é o caminhão truque, né? Aqui ele dá o nível de ocupação do caminhão, aqui traz quem é o motorista também, qual que é a ocupação e tudo mais, né? E eu vou concluir o planejamento aqui, tá? Eu coloco qual que é a data de planejamento do processo, vou dizer que vai começar às 15 horas, termino amanhã às 9 horas, por exemplo. Vou avançar. Aqui eu vou gerar o manifesto. Ele vai ser de [LOCAL], vai passar pelo [LOCAL] e vai ser entregue em [LOCAL]. Ele dá aqui um ponto de saída, qualquer passagem. E eu vou confirmar esse planejamento. Ele mostra que tá liberado em trânsito, tá? Mas na verdade aqui... Ele está processando agora para justamente gerar o manifesto e todas as informações. Deixa eu só vir aqui, eu posso processar documentos. Ele muda para aguardar, aguardando a liberação, ou seja, eu vou ver aqui documentos, veja que ele tá colocando como pendente, ele tá gerando o manifesto nesse momento, tá? Então, de novo, vai lá pro [EMPRESA], vai buscar as informações e vai gerar o manifesto. Quando eu finalizar o processo de geração aqui do manifesto, aí sim, ele vai ficar apto a eu mandar essa viagem pro motorista, onde o motorista recebe através do app, lá do aplicativo que eu apresentei pra vocês na agenda passada, tá? Então, aqui eu tenho todas as informações do embarque, tá? de forma centralizada aqui, tem a motorista, qual é a placa, tração do veículo e tudo mais, quais os pontos de passagem que ele vai passar, o CTEC que foi gerado aqui, o PDF, a requisição que ele gerou, qual que é o cliente, quem é o contratante, se está planejada, por que está planejada? Porque eu já coloquei dentro de uma carga, por isso que ele colocou aqui, quais são os trechos, e ele está gerando aqui agora, eu não tenho gerenciamento de risco, por isso que eu não trouxe nada, não precisei gerar [EMPRESA], porque ele é um motorista autônomo, terceiro, e aqui ele gerou o manifesto número 24 e ele rejeitou. Deixa eu ver qual foi a rejeição dele. Rejeição. As informações de pagamento devem ser informadas para a carga-lotação. Então ele rejeitou esse carinha aqui, eu já sei o que é, Ele deu o mesmo erro hoje de manhã, hoje perto do meio-dia ali. Eu já pedi para o pessoal responsável ajustar uma informação que alguém alterou, tá? O que acontece aqui? Nós temos uma... A [LOCAL] matriz que a gente coloca como nossa empresa, seria vocês transportadores. Então a galera usa para tudo quanto é teste, né? Para não correr risco de colocar um CNPJ qualquer, a gente usa muito o CNPJ da [LOCAL]. e alguém foi lá e tirou todas as informações financeiras para estar gerando agora o manifesto, tá? Mas chegamos até a geração do manifesto, ele gerou o manifesto, só não foi validado ali para ser faz, tá? E o bacana é que aqui, ó, ele traz algumas ações sugeridas quando ocorreu um erro, tá? Isso em todos os processos. Eu lembro, acho que, não sei se foi o [PESSOA] que perguntou da agenda passada, né? Então aqui, ó, aqui é um bom momento para a gente falar. Então ele gerou um erro. A emissão é o mais manifesto a rejeitar na CFAZ. Após tratar o motivo da rejeição, clica aqui para reprocessar. Então eu vou lá, trato, vou lá no cadastro lá que eu tenho que ir lá dentro lá do motor fiscal, faço todos os ajustes e depois eu venho aqui e reprocesso, tá? Bom, o manifesto foi rejeitado, aqui estão algumas soluções possíveis. Verifique se há outros embarques pendentes com a placa MTL e tal, e se tiver ele não permite, né? Só vou gerar o manifesto quando de fato finalizar a viagem anterior, e aqui verifique se o percurso foi definido corretamente, né? Às vezes você sai da [LOCAL] e pula algum estado, na hora de gerar o manifesto ele também dá essa inconsistência. Eu vou clicar aqui, mas só para ter certeza, né? Fazer uma catarina para [LOCAL], ou seja, está certinho, mas eu poderia fazer os devidos ajustes aqui. E aqui eu não tenho nenhum embarque, né, que esteja na situação aqui de pendente de finalizar. Então, em resumo, né, a minha situação aqui, ela mostra o erro aqui mesmo desse cadastro, tá? Então é um cadastro aqui que a gente precisa arrumar. Beleza, tá aqui, tranquilos. Aguardando liberar, porque se eu for liberar aqui para o motorista, o sistema não vai permitir. Por quê? Porque esse barco está bloqueado. Então está aguardando a geração do manifesto, tá? É isso que o sistema está mostrando aqui. Eu consigo voltar aqui. Veja que eu consigo navegar por várias... Alguma dúvida, gente?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tá tudo tranquilo, acho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Faz sentido até que é mais ou menos como você realiza hoje? Eu fiz o manual aqui, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.405,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: geração do documento, a importação dele ali no XML, fiz a geração, a verbação, viu ali que no momento que eu [PESSOA] e gerei o documento fiscal, ele já gerou a verbação também de forma automática. Aí o manifesto, eu gerei o embarque aqui, eu só coloquei um [EMPRESA], obviamente, né? Aí eu coloquei um [EMPRESA], ele gerou, selecionei o veículo aqui que está disponível em cima das especialidades ali, das especificações, melhor dizendo, E agora eu girei o [EMPRESA] também, só que deu esse erro aqui de cadastro. E por fim, o que a gente faria agora? A gente pegaria o coleta-entrega e a gente encaminharia isso, a hora que tiver liberado esse planejamento, esse embarque, a hora que eu conseguir gerar o manifesto e retornar que está tudo certo, o manifesto gerado, esse embarque fica livre e eu faço o quê? Integração com o coleta-entrega. Então eu faço a integração com o coletor-entrega. O que seria essa integração com o coletor-entrega? Aqui dentro, ele receberia a viagem... Deixa eu só abrir o coletor-entrega. Deixa eu ver se eu tô na... Ele viria aqui e ia trazer uma viagem aqui dentro, pronta, [EMPRESA]? dependendo se o motorista já recebeu, mas seria aqui, ó, viagens em andamento dentro do [LOCAL]. E o [LOCAL] é um app que o motorista usa, né? Onde ele vai criando, o sistema vai criando vários eventos, né? Como iniciou, quando o motorista chega lá no aplicativo dele e diz, ó, iniciei a viagem, essa entrega a ser realizada, ele muda aqui que iniciou. Quando o motorista chega, a viagem, a cor fica um azulzinho mais clara. Quando ele chega no cliente, cheguei no cliente, ele aponta, estou aqui no cliente, ele avisa aqui também. Então a torre tem total controle de tudo o que está acontecendo com essa viagem, com essas notas que o motorista tem para entregar. Aqui você pode também, deixa eu abrir o coletor de entrega aqui rapidinho, mandar mensagens para o motorista. Então através aqui da torre mesmo, dentro do aplicativo do coletor de entrega, você pode estar mandando mensagens para o motorista. Como o motorista também pode, através do app dele, mandar mensagens para a torre. Então fica tudo registrado aqui dentro. Só deixa eu abrir o aplicativo. Eu estava com o [PESSOA], mas...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: A conversa com o motorista se dá tudo pelo aplicativo daí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5194,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Sim. Tudo aplicativo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 15]: eu abrir aqui. [LOCUTOR 24]: conectando aqui? Eu já abro o aplicativo para mostrar para vocês, tá? E aqui no portal logístico, para essa nota 44, cada evento que o motorista realizar, ele acaba trazendo aqui atualizações. E o cliente final de vocês vai estar acompanhando isso também, tá? Recebe também esses eventos. Deixa eu ver aqui, plano de distribuição. Como é que funciona, como é que vocês tratam o encerramento do manifesto da [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: manual ou vocês têm alguma automatização para isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Eu posso criar um processo que ele encerra automaticamente quando o motorista encerra toda a viagem dele. Lá",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 29]: aplicativo o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: motorista tem que dar o fim da viagem e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4967,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: daí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: comandar o encerramento do [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5806,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Isso. Aí você pode programar isso para criar como uma ocorrência dizendo, vou finalizar o [EMPRESA]. Então dispara uma integração e... e finaliza o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Deixa eu ver o que mais aqui. Deixa eu só ver o... Ah tá, eu tenho o monitoramento logístico aqui, tá? Que eu acabei não falando. Deixa a sessão, deixa a sessão, eu coleto um trem aqui. O monitoramento logístico... o monitoramento. Aqui ele indica, para a operação, aonde que está o motorista nesse exato momento. Esse aqui é da [LOCAL], pessoal. Aqui, a [PESSOA]. Existe uma diferença aqui, tá? Quando você está buscando as informações do coleta-entrega, ele está buscando a localização do app do motorista. Se eu vier na coleta entrega e olhar a localização dele, ele vai pegar aonde que o motorista está nesse exato momento. Onde que o aplicativo do motorista está nesse exato momento. Aqui em [LOCAL], porque esse aplicativo aqui que está usando é o [PESSOA] que mora em [LOCAL]. Ele está lá na [LOCAL]. Aqui é a [LOCAL]. Então está lá na [LOCAL] nesse exato momento. Então esse [PESSOA], o motorista, ele está nesse momento lá na [LOCAL]. Mas você pode também buscar, quando ele traz a silhueta aqui do caminhão, significa que você está buscando as informações da empresa lá que vocês, qual que vocês utilizam aí para rastreamento? [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCAL], [PESSOA] e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: A [LOCAL] eu tinha anotado aqui. Então a [LOCAL]. Então você consegue buscar a posição do veículo também através do app do motorista ou através também do monitoramento aí da [LOCAL], por exemplo, tá? Então aqui você tem todo o acompanhamento no mapa. Isso aqui é o monitoramento, tá? Então você monitora tanto o veículo, no caso, né? Quanto a questão do motorista também, tá bom? Deixa eu só pegar aqui e acessar agora o Coleta pra mostrar pra vocês o app. Bem rapidinho, por favor. Fica à vontade, tá? Se tiver alguma dúvida.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4826,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Acho que não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Deixa eu mostrar aqui para vocês o Kanban logístico. Eu esqueço aqui, tá? Como que funciona o Kanban Logístico? Aqui nós temos o primeiro padrante aqui, coluna, enfim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4465,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Todos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: os documentos de carga, todas as notas de carga que elas estão com status de validado, lembra que eu importei o XML lá, né? Criei o documento de carga. Quando ela está com status validado, ela fica disponível aqui dentro desse... Nesse painel aqui, que eu acho que vai ser painel, logístico, TMS, [EMPRESA], enfim. E como que você gera um documento de carga, tá? E gera embarque? Clica e arrasta. Lembra que eu falei para vocês que eu ia fazer manual toda geração do documento de carga, montagem do embarque, geração do CTE? Eu fiz manual. Mas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: basta clicar e arrastar, ele já gera o CTE. Então vamos fazer um teste rapidinho aqui. Vamos ver se é verdade, né? Isso foi liberado agora, tá? Essa semana, para ser mais preciso. Vou pegar aqui a nota fiscal 45. Deixa eu botar para cá isso que eu não vou usar agora. Tanto a tela aberta que dá até medo. Eu descobri errado também. 45, 70 e cada",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: um.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: A gente tinha pego 100. mais um lugar aqui. Vamos fazer um documento de carga. Bem, vocês querem acompanhar, gente? Eu nem perguntei, né? Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4417,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: a gente já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: passou por esse processo. Esse aqui é um facilitador, tá? O Kanban ali, que não é o nome ainda, é a primeira versão dele, tá? Com certeza vão ter alguns ajustes ali. Na sexta-feira a gente participou de um repasse e a ideia é... é já comercializar, tá? Então, um facilitador aí para os clientes.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Pessoal,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: se tiver dúvida aqui, a gente passou, mas se tiver alguma dúvida, alguma... dá vontade, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5242,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tá tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Então vamos ver se isso acontece, né? Deixa eu só dar um início aqui. Tá, deixa eu dar um refresh. Tá aqui a nota 45, tá? Finalzinho aqui o localizador. Acho que tá pequeno, vocês estão vendo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: aqui embaixo? Sim, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Eu posso selecionar todas, tá? Eu tenho aqui como fazer a leitura dele, do documento de carga, qual que está selecionado e tudo mais. Tem alguns filtros aqui também importantes. Aqui eu quero colocar quais são os cards que aparecem aqui, localizador, unidade, os totalizadores também. Você pode estar mudando as posições dos cards totalizadores. Eu pedi também para eles colocarem A [LOCAL], tá? Então, por exemplo, eu quero filtrar todas as notas fiscais que eu tenho pra [LOCAL]. Acho que é um facilitador, né? Então, acho que eles vão ajustar isso aqui também, tá? Então, você vem aqui, marca a nota fiscal 45 e arrasta pra cá, tá? Então, agora, ele tá processando. ele gerou esse documento, tá? Mas agora ele vai lá para o fiscal, lá para o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [EMPRESA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: O motor fiscal, perdão. E agora a gente tem que aguardar aqui uns segundinhos para ele estar liberando pré-confirmações pendentes, documento gerado. Deixa eu por aqui, se a gente olhar no operacional aqui, ó, tá? Essa Ela vai estar com a mesma situação. Aqui é 45.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 24]: pendente, eu consigo ler aqui também, tá? O documento é o final WTJ. Vou ver qual que é o documento WTJ. Tem muita gente fazendo testes aqui da [EMPRESA]. Aqui ó, ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.48,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: tá com prévia ainda, então vamos aguardar alguns minutinhos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 15]: eu ver se veio pro fiscal já ou não. Não, ainda não. Mas, enfim, o que acontece... Só que a gente está chegando no tempo aqui. Então, o que eu faço aqui? Eu clico no documento, arrasto para cá, ele vai gerar um documento de frete. Deixa eu dar um reflexo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: aqui. Ele gera o documento de frete automaticamente. Depois que esse documento estiver pronto, eu arrasto aqui para o embarque. Então, todo aquele processo que a gente fez de gerar o documento de frete e no plano de distribuição, fazer a montagem e tudo mais, esse cambão logístico ele tem esse objetivo, tá? Simplesmente clicando, arrastando aqui o sistema por trás, gera as informações automaticamente para vocês, tá? Ele está em processamento ainda na [LOCAL], não voltou, por isso que ele não gerou o número ainda, tá? Então ele só está aguardando a conclusão. Mas é isso, é rastar e o sistema vai gerando todo aquele processo que eu acabei fazendo com vocês, ele vai gerando automaticamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Gente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: falta dois minutos, eu não sei se você tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4268,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: dúvida aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Ele usa todas as suas parametrizações, então, para gerar um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5435,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: CTE",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: ali.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Toda a questão de negociação de custos e tudo mais, tem que estar tudo previamente configurado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Sim, sim, tem que estar tudo configurado para você fazer de forma automática.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 14]: no motor fiscal está demorando um pouco. gente. Não era pra demorar assim. Tanto é que a gente fez antes que o livro foi mais rápido, né? Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: devo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: estar parado em algum processo aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: É. É como eu falei, é base de homologação. A",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: homologação é assim mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: A homologação é... Mas é isso mesmo, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 7]: livro da [EMPRESA] já é para o documento de transporte, ele vai mostrar, esse aqui tá rápido, só que ó, Olha, documento gerado. Só que não vou pegar porque não sei de quem é esse cara aqui. É",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4883,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: meu, mas não é meu. Alguém tá usando o meu nome. Deixa eu pegar. Já que tá no meu nome, acho que ninguém pode reclamar. Eu venho aqui e gero, crio, embarque com ele. Tá vermelho, o pessoal tá selecionando. Aguardando o recurso. Liberado para trânsito. Então você consegue compreender tudo o que está acontecendo aqui, tá? E uma vez que for, você finaliza o processo, ele sai dessa tela, tá? Então, de novo, essa aqui é uma primeira versão, tá? Eu acho que muita coisa ainda vai acontecer aqui dentro desse, entre aspas, cambão logístico, tá? Isso vai ser um facilitador muito grande para vocês no dia a dia Você pode selecionar vários documentos de carga Você pode estar filtrando aqui Somente os meus documentos do meu usuário, por exemplo Status de processamento, tem vários filtros aqui bacanas para você trabalhar também",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: S",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: para o remetente, para o recebedor, para o número da nota Isso, gente, que eu tinha para mostrar para vocês. Não sei se vocês têm",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: dúvida ou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: não. Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: assim, né, [PESSOA], em específico, acho que ficou bem apresentado para nós aí, né, o [PESSOA] aí, à frente do nosso [EMPRESA], né. Então, cabe a nós agora, a gente, vamos dizer assim, comparar o que a gente tem hoje com o que a gente espera a nível mercado, né? E sim, ver, com certeza a gente vai ter mais dúvidas ali em cima dessa apresentação e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: t",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: chamando ali diretamente o [PESSOA], né? Pra gente ir evoluindo nesse fluxo, vamos dizer assim, até lá provavelmente vocês também já vão ter algumas coisas novas ali, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4215,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [LOCUTOR 8]: gente, vamos dizer, ter uma base assim e comparar realmente com o que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5383,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: gente tem hoje, né [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA], uma pergunta hoje em relação à",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: expectativa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: vocês estão em análise, não tem urgência, qual seria uma ideia de virada de uma nova solução?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5061,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Hoje assim de forma muito transparente, [PESSOA], hoje principalmente agora esse início de ano",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: todos os segmentos é um ano de expectativa, principalmente nós aí no combustível agora está sendo um momento vamos dizer, não vou dizer preocupante, mas muito apreensivo a gente que está nesse transporte,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4564,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 35]: até atendimento em clientes, então o [LOCAL] vai passar por uma dinâmica aí nos próximos 10 dias aí, bem, vamos dizer assim, expressiva, né? Mas, voltando assim, a sistema, a empresa, assim, a gente vem num processo muito rápido de evolução para atender grandes clientes, né? Como eu mencionei vocês lá atrás, a gente precisa ter",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 40]: sistema robusto, né? porque o sistema anda",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: em",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 40]: paralelo com qualquer negociação que você for fazer com algum cliente. Então, o que a gente vê? Vem escutando do mercado as ferramentas que tem disponível hoje, não que a nossa ferramenta não nos atenda, sim, está atendendo hoje, mas, sim, a gente vê que tem oportunidade da gente, vamos dizer assim, melhorar esse fluxo, tornar esse fluxo mais automático, mais, vamos dizer, como eu usei lá atrás a palavra, robusto, né, o que eu digo assim, o sistema onde que ele vai nos permitir, como o [PESSOA] mencionou lá atrás, né, inicia desde um processo todo de cadastro ali, de uma ordem de coleta e tal,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 40]: fazendo todo o início até travar a emissão desse documento com qualquer erro que ele tenha, né, isso é muito importante para nós hoje, né, então a gente, sim, vai buscar algo no mercado, vem buscando, vem escutando, mas a gente não tem data para executar isso, porque existe uma estabilidade muito grande hoje, né, nesse início de ano, né, e a gente fala, né, compartilhando com vocês, ano político, ano de copa do mundo, essa guerra aí que,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5138,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: dizer assim, que alguns estão dizendo que o [LOCAL], que o [LOCAL] vai ser bom, mas enfim, né, não, a gente não sabe, né, então o que que empresa hoje, hoje mesmo falando com o nosso diretor, é o momento da gente avaliando aí os próximos passos, o que vai acontecer e sinta sempre, vamos dizer assim, a parte das tecnologias, porque hoje ou você vai para um lado tecnológico ou você vai ficando cada vez mais para trás.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Pessoal, eu tenho uma agenda agora às 15 horas, eu pedi cinco minutos e já está chegando às cinco aí. Mas assim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: eu só queria",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: compartilhar com vocês Quando você traz essa necessidade de olhar para o mercado, o bacana é você estar sabendo, acho que foi essa a ideia da [EMPRESA] aqui, do Marro, do [PESSOA] e minha também, de mostrar para vocês tudo o que a gente tem. Como eu falei, tem muita coisa ainda acontecendo na suíte [PESSOA] e todas essas inovações vocês vão estar recebendo. Isso você recebe sem custo nenhum. Então, toda essa inteligência que está vindo por trás, essa questão do [PESSOA] ali, por exemplo, isso vai trazer um dinamismo muito grande para vocês. criar um filtro e arrastar. Imagina, não precisa ficar entrando em mais nada. Então a inteligência artificial já tem marcada. Coisas bacanas. Reforma tributária, isso é importante você estar ciente também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: gente já está, a [LOCAL] está bem avançada em cima disso. A [LOCAL] está, digo avançada porque nós temos uma cadeira lá dentro. Então a [LOCAL] participa full time dentro lá da questão da reforma tributária. Nós temos dentro do [EMPRESA] quanto nas outras soluções, tipo o Fiat Mercador e o próprio TMS. Então a questão da reforma tributária pode contar com a [LOCAL], a gente está super bem no mercado quanto a isso. E de novo, as inovações que estão por vir. Cara, tem muita, muita, muita coisa. Por",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: isso que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: falei e tive o cuidado de falar, cara, deixa eu confirmar para ver se já não foi liberado ou não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Exatamente isso aí, [PESSOA]. Isso aí que a gente vem acompanhando no mercado e a abertura da [LOCAL] Esse primeiro contato que a gente teve com o [PESSOA], enfim. É porque a gente já tem conhecimento também de algumas empresas que tem a Totos. Eu tenho conhecidos que já trabalham com o sistema em outros segmentos. Então, é um sistema muito robusto em várias áreas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5781,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [LOCUTOR 27]: você mencionou, vocês veem uma evolução no desenvolvimento logístico. Então, a gente quer acompanhar também isso, porque a gente sabe que lá na frente, tendo oportunidade, a gente vai migrar para o melhor. Então a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 40]: empresa precisa fazer isso, né? E falando em tecnologia, quando a gente fala em tecnologia é num todo, desde rastreamento, sistema, gestão, né? Então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5753,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Deixa eu só... Preciso sair, mas caso você queira ter uma visão de investimento, óbvio, sem compromisso algum, tá? Aí a gente manda um link para você, aí você preenche o link e a gente consegue gerar uma visão de investimento, caso você queira já ter uma noção, né? de valor e tudo mais, se a gente consegue, eu só centralizo aí no [PESSOA] ou no [PESSOA], aí eu mando o link para eles, eles passam para você, você responde ali e eu já gero uma visão de investimento, tá? Se for do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: interesse de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5815,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: vocês também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Com certeza que é de interesse, né, [PESSOA]? O [PESSOA] pode estar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.588,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: fazendo aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: fazendo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: contato",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Pode ser com o [PESSOA] ali, esse contato?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Isso, a gente troca ali os contatos, com certeza. É importantíssimo isso para nós, tá visualizando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5681,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: eu vou mandar ali para o [PESSOA] tá? depois eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: centralizar nele aí ele cabia para você e depois a gente gera essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: visão",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: de investimento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Ok?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [LOCAL]. Gente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: vocês",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: estão ligados a isso aí, tá, gente?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Acho que vocês conseguem continuar, né, [PESSOA] e [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Obrigado, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Obrigado, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Um abraço,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: gente. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 28]: filmar aí. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA]. Vamos ficar combinados assim, então. Assim que o [PESSOA] enviar o link, eu compartilho com você. Quando a gente tiver aqui com a visão de investimento, a gente marca aí um momento para poder apresentar isso para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5466,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: Exatamente, [PESSOA]. Vamos nessa linha, porque até assim a gente tendo visualizando isso, né? E até lá o cenário já vai mudando, a gente vai visualizando outras coisas, né? Até para estar apresentando para o nosso diretor aí, né, [PESSOA]? Colocar ele no acalco com vocês aí também, né? Então, eu acho que vamos nessa linha que a gente seria mais prudente, vamos dizer assim, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.478,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Não, perfeito. Combinado, então, gente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: [PESSOA]? Um abraço gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Prazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: pessoal,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: abraço.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

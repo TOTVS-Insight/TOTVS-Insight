@@ -1,0 +1,787 @@
+{
+  "id_reuniao": "997430",
+  "codt": "TFDMBS",
+  "data_reuniao": "2026-02-05 09:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 6]: [EMPRESA] [PESSOA], tudo\n[LOCUTOR 11]: bem? [EMPRESA] [PESSOA], tudo e você?\n[LOCUTOR 6]: Tudo ótimo.\n[LOCUTOR 11]: O\n[LOCUTOR 6]: [PESSOA] me falou que você vai estar acompanhando. O [PESSOA] deve estar entrando em [LOCAL].\n[LOCUTOR 11]: Sem problema. A gente vai falar sobre sobre o baleto híbrido.\n[LOCUTOR 6]: [PESSOA]. Inclusive o [PESSOA] tem uma outra agenda que ele disse que ele não poderia participar, que já estava marcada com a cliente. Se tu tiver disponibilidade a gente não altera. Deixa eu ver aqui\n[LOCUTOR 11]: que dia é.\n[LOCUTOR 6]: Dia 10 dos 2 às 9.\n[LOCUTOR 11]: Se você quiser pode mandar um invoice sem problema. Só deixa eu confirmar aqui rapidinho.\n[LOCUTOR 6]: É porque ele até pediu uma nova sugestão mas como eu sei que a agenda da minha cliente é bem complicada se a\n[LOCUTOR 11]: gente\n[LOCUTOR 6]: ficaria\n[LOCUTOR 11]: 10 às 9.\n[LOCUTOR 6]: Isso\n[LOCUTOR 11]: pode mandar às 9 horas por incrível que pareça do dia 10 eu não tenho nada.\n[LOCUTOR 6]: Tá bom ent\n[LOCUTOR 1]: você pode mandar sim sem problema. E\n[LOCUTOR 6]: aí E a\n[LOCUTOR 10]: [EMPRESA], pessoal.\n[LOCUTOR 6]: [EMPRESA],\n[LOCUTOR 17]: [PESSOA].\n[LOCUTOR 6]: Tudo bem? Bom dia. Tudo.\n[LOCUTOR 17]: Tem outro ali ou não? Compartilhamento de tela.\n[LOCUTOR 6]: Ali é a nossa intelig\n[LOCUTOR 7]: artificial\n[LOCUTOR 6]: que vai estar acompanhando. Depois ela faz um\n[LOCUTOR 11]: resumo\n[LOCUTOR 6]: e encaminha para a gente. Ah,\n[LOCUTOR 17]: certo.\n[LOCUTOR 6]: Bom, [PESSOA], eu convidei aqui o time da [PESSOA], então, para conversar um pouquinho com você sobre o boleto híbrido. O [PESSOA] vai estar nos acompanhando, então, explicando um pouquinho mais aí para a gente conduzir essa conversa.\n[LOCUTOR 17]: [LOCAL].\n[LOCUTOR 11]: Obrigado, [PESSOA]. Fala, [PESSOA]. Tudo bem por aí? Muito corrido? Tudo certo.\n[LOCUTOR 17]: [LOCUTOR 5]: bem também. Acho que\n[LOCUTOR 11]: [LOCUTOR 8]: mal de todo mundo, né? [PESSOA] XXI aí. Faz parte, não tem jeito, né?\n[LOCUTOR 17]: Bom,\n[LOCUTOR 11]: prazer em falar contigo. Obrigado pela disponibilidade. Prazer é meu. Deixa eu perguntar. Já ouviu falar sobre o [PESSOA]? Já ouviu falar sobre o [EMPRESA]? Viu alguma coisa? Não? Só para\n[LOCUTOR 17]: direcionar\n[LOCUTOR 11]: melhor a reunião.\n[LOCUTOR 17]: Nada. \n[LOCUTOR 2]: zerado\n[LOCUTOR 17]: nesse assunto.\n[LOCUTOR 11]: Tá bom, beleza. Vamos começar do início então. Cara, a [PESSOA] veio da junção de dois monstros aí do mercado, que é a própria Totus e a gente teve a JoyVenture com o [EMPRESA]. Tem cerca de 3 anos essa união, muito estável, estável né? E a gente está tendo, na verdade, bastante sucesso com alguns clientes. A gente tem algumas soluções, tanto na parte de crédito, que eu não vou entrar muito em detalhes, eu vou fazer um breve overview, para você entender quais as soluções e como funciona. A gente tem na parte de crédito antecipação de recebíveis, famoso desconto de duplicata, mais prazo, capital de giro. Todas essas soluções são integradas diretamente no teu [EMPRESA], não tem custo de implantação, mensalidade ou adesão, somente o custo da taxa se utilizar. Caso contrário, fica disponível para você fazer a utilização,\n[LOCUTOR 17]: tá bom?\n[LOCUTOR 11]: E além disso, a gente tem a parte de Payments. Eu acabo nem compartilhando a tela porque é muito simples e aí eu vou mais na\n[LOCUTOR 17]: conversa,\n[LOCUTOR 11]: tá? Mas se quiser, eu mando o material para você, eu apresento, fica tranquilo. E aí a gente entra um pouco na parte do boleto híbrido, que é o foco da reunião de hoje. O que acontece? A gente vai ter a descontinuação dessa comunicação via API do [EMPRESA] com o banco. E o que a gente vai fazer? Para os clientes que já utilizam, querendo fazer o tombamento para o boleto híbrido. O que é o boleto híbrido da [PESSOA]? No boleto tradicional que vocês emitem para o cliente, ele vai com um código de barras para ele fazer o pagamento. A gente pega esse boleto, faz adição de mais duas formas de pagamento, que é o [LOCAL] e o [EMPRESA] e [LOCAL], para o seu cliente ter mais duas opções de pagamento. E o que acontece quando o cliente paga pelo [LOCAL] ou pelo [EMPRESA] e [LOCAL]? A gente tem a baixa confirmação daquele pagamento e a conciliação dentro do teu [EMPRESA] em tempo real, tá bom? Isso reduz o operacional absurdo, digamos assim. E se ele faz o pagamento pelo código de base, a gente tem a confirmação do pagamento e a liberação de crédito pro seu cliente, porque muitas vezes fica impactado, fica parado aquele pedido, né? Porque, ah, eu não sei se ele pagou, mesmo mandando o comprovante a gente fica meio receoso de mandar, né? Com essa ferramenta a gente tem a confirmação de pagamento, porém a baixa só é feita no D1. Depende muito de cada banco. Várias exceções em [LOCAL], tá? Mas isso a gente tem um ganho operacional muito grande. E todas as soluções, independente de qual for a forma de pagamento, que eu comentei um pouquinho anteriormente, digamos assim, Tem a conciliação, baixa, envio e retorno de informações, tudo feito dentro do teu [EMPRESA] de forma automática. Então aquele operacional de envio de informações para o seu banco, retorno, remessa, [PESSOA], isso não existe mais. Você tem todo o teu operacional, todo o teu financeiro, digamos assim. dentro de uma única plataforma e muito mais arrisca aqueles pagamentos dos seus clientes, aquele cliente que demora um pouquinho mais para pagar, que é um pouco mais demorado, que é um pouco mais complicada a relação, você consegue ter isso dentro de uma plataforma só, tá? E ali tudo em tempo real e como eu comentei, né, fica muito mais fácil a liberação de crédito da de um cliente para fazer um novo pedido e assim por diante, confirmação de pagamento, não precisa mais mandar comprovante, Então isso traz uma facilidade para vocês, para o operacional, tanto do financeiro quanto do [EMPRESA] e afins, muito grande. [PESSOA], dúvidas? Eu sei que eu acho que eu falei um pouco rápido, mas deu para entender um pouquinho.\n[LOCUTOR 17]: Está compreendido até a API que a gente utiliza, ela está fazendo a comunicação com o [EMPRESA]. E aí, no boleto do [EMPRESA], se eu não me engano, já vinha a opção de [LOCAL], né? Quando eu imprimi, é pelo gestor financeiro, ou seja, mudou o local da impressão, né? Enfim, mas beleza. O Kiki precisa ir para dar continuidade, como é que funciona o Kiki?\n[LOCUTOR 11]: Na verdade, eu preciso saber, [PESSOA], quantos boletos vocês emitem mês para conseguir fazer uma proposta, solicitar uma proposta mais voltada para o teu negócio, que faça mais sentido, tá? Porque a gente tem algumas faixas de emissão de boletos, tá? De 500, 1000, 2000 e assim por diante. Com isso, eu consigo chegar numa precificação mais correta para você. Eu entendo que um cliente que emite 100, 200 boletos, não pode ter a mesma precificação, né, de um cliente que emite 2 mil, 5 mil, 10 mil e assim por diante. E aí a gente consegue chegar no melhor dos mundos para ambas as partes.\n[LOCUTOR 17]: [LOCAL]. Tu quer que eu já coleta essa informação agora?\n[LOCUTOR 11]: Cara, o que for melhor para ti. Se você quiser passar, pegar e mandar para a [PESSOA], a [PESSOA] me encaminha, não tem problema nenhum. Porque aí eu consigo solicitar a proposta, Com isso, eu encaminho o e-mail sem... não tem nenhuma obrigatoriedade de assinar aquela proposta, tá? Eu encaminho só pra você ver os termos, você dando ok, a gente sobe pra assinatura. Mas eu vou encaminhar, junto com a proposta, todas as informações do boleto híbrido, a descontinuação da [LOCAL], as informações da TOTAS, a demanda, tudo certinho dentro de um e-mail pra vocês.\n[LOCUTOR 6]: É importante sinalizar que a\n[LOCUTOR 11]: [LOCUTOR 4]: não vai estar mais trabalhando com essa API. Então da\n[LOCUTOR 6]: forma que você trabalha hoje e até por isso que eu chamei a conversa com você e mais alguns clientes que já estavam trabalhando. Então a gente chamou para avisar dessa forma a [EMPRESA] não vai mais estar trabalhando. A gente\n[LOCUTOR 11]: tem\n[LOCUTOR 6]: essa opção via TECFIM aqui para vocês continuarem e daí é um entendimento de vocês.\n[LOCUTOR 11]: Exatamente. Obrigado, [PESSOA]. E até, eu não sei se você chegou a ver esse comunicado, eu posso encaminhar no e-mail também no [EMPRESA], tá? Dia 31 de março é o deadline pra fazer esse tombamento, tá? Era pra ser feito, ter sido feito em setembro, porém a gente entendeu que é muito pouco tempo pra fazer esse tombamento, prorrogou pra dezembro, mesmo assim ficou muito em cima e agora realmente não vai ter mais prorrogação, agora em março realmente acaba, dia 31.\n[LOCUTOR 17]: Uma dúvida que eu tenho, por que que tá sendo descontinuada\n[LOCUTOR 11]: essa API? Na verdade foi uma demanda da [EMPRESA] fazer essa descontinuação, porque teve alguns avanços nessa API. além da própria solução que é feita dentro de casa. Em questão de tempo de envio, retorno de informações, atualização, tudo isso teve algumas atualizações, por isso que a gente vai fazer esse tombamento para a nossa solução aqui da [PESSOA].\n[LOCUTOR 17]: Eu vi que\n[LOCUTOR 11]: o\n[LOCUTOR 17]: [EMPRESA] até mandou um e-mail para mim, eu acho que ontem, referente ao vencimento do Token. Vence dia 12 agora, 12 do 2.\n[LOCUTOR 11]: [EMPRESA].\n[LOCUTOR 17]: Imagino que vai ser necessário a mesma coisa, vai lá no [EMPRESA] e aí cadastra o [LOCAL] ou algo do\n[LOCUTOR 11]: gênero? Cara, não necessariamente, porque nossa solução é integrada diretamente no [EMPRESA], né, via [LOCAL]. Na verdade a gente só vai fazer a configuração e a parametrização das contas que você utiliza, seja [EMPRESA], [EMPRESA], [LOCAL] e assim por diante. Porém o operacional, o layout, essas coisas, fica tudo sendo feito de forma automática. Não necessariamente precisa do token, tá?\n[LOCUTOR 17]: O token não seria para validação com o banco das informações e troca\n[LOCUTOR 11]: de arquivos? Sim, isso sim. Mas por exemplo, o [LOCAL] que você já tem com o banco vai ser... substituído pelo nosso. Justamente porque quando ele faz o pagamento pelo banco, você não tem a confirmação dentro do sistema. O pagamento, baixa e conciliação é feito de forma automática. Com o nosso irá ter. Entendeu? É só basicamente isso que muda e o tempo de envio e retorno das informações.\n[LOCUTOR 17]: Beleza. E para emitir os boletos então vai ter um menuzinho diferente ali?\n[LOCUTOR 11]: Não. A rotina que você já utiliza isso vai permanecer.\n[LOCUTOR 17]: [PESSOA] financeiro\n[LOCUTOR 11]: tudo igual? Isso. Não vai ter alteração nenhuma. Justamente porque a gente não quer dar mais trabalho para você. A gente quer facilitar o teu dia a dia.\n[LOCUTOR 17]: Tá bom. Entendido. Show. Beleza. Eu tô vendo aqui eu mando por [PESSOA] tentando localizar o e-mail da nossa troca da reunião. Eu posso mandar por ali\n[LOCUTOR 11]: ou quer\n[LOCUTOR 17]: que eu mande\n[LOCUTOR 11]: direto pelo\n[LOCUTOR 17]: Whats?\n[LOCUTOR 11]: Você viu mais ou menos a média de boletos? Se você quiser me falar, eu deixo anotado\n[LOCUTOR 6]: aqui.\n[LOCUTOR 17]: [PESSOA] olhando agora,\n[LOCUTOR 11]: tô olhando agora. Sem problema.\n[LOCUTOR 17]: [LOCAL]. Ah, aqui. Ah, botou no caso o senhor, seu [PESSOA], o senhor tem e-mail ruim? Não,\n[LOCUTOR 11]: né? Não, esse é o e-mail do meu gestor.\n[LOCUTOR 6]: É o colega. Se quiser mandar para mim, eu encaminho\n[LOCUTOR 11]: aqui para\n[LOCUTOR 6]: os dois\n[LOCUTOR 11]: também, não\n[LOCUTOR 6]: precisa... É, pode ser. Beleza.\n[LOCUTOR 11]: É a [LOCAL]. Mais\n[LOCUTOR 6]: fácil. [LOCAL], daí já\n[LOCUTOR 11]: tem o meu\n[LOCUTOR 6]: contato, meu\n[LOCUTOR 17]: [LOCAL],\n[LOCUTOR 6]: aí eu encaminho para os meninos e se você não lembrar, eu cobro.\n[LOCUTOR 17]: Show, beleza. Eu tô\n[LOCUTOR 6]: acessando\n[LOCUTOR 17]: aqui, então depois eu mando assim que finalizar a\n[LOCUTOR 11]: reunião e\n[LOCUTOR 17]: puxar os dados,\n[LOCUTOR 6]: eu tiro os\n[LOCUTOR 17]: prints\n[LOCUTOR 6]: e\n[LOCUTOR 11]: mando.\n[LOCUTOR 6]: [PESSOA] e [LOCAL] tudo certo? Preciso de algum apoio, demonstração de alguma coisa, alguma conversa que eu possa te apoiar?\n[LOCUTOR 17]: Não, tudo certo. Ah, desculpa, aproveitando, eu acho que acessei no lugar errado. É melhor pelo meu gestor financeiro, né? Porque eu fui em contas a receber. Droga.\n[LOCUTOR 6]: O lugar onde você localiza a quantidade de boletos?\n[LOCUTOR 17]: É.\n[LOCUTOR 6]: Sabe, [PESSOA], senão vou ter que pedir ajuda para\n[LOCUTOR 11]: o evento. Senão fica geralmente no gestor financeiro. Atualmente, né?\n[LOCUTOR 17]: Porque o contas a receber vai ter de tudo, né? Vai ter...\n[LOCUTOR 11]: Vai ter\n[LOCUTOR 17]: um pouquinho de tudo.\n[LOCUTOR 11]: VA,\n[LOCUTOR 17]: [EMPRESA] e tal, né?\n[LOCUTOR 11]: Vai no gestor financeiro ali, você consegue ter acesso nos boletos que vocês demitiram e dá pra ter uma noção da média, digamos assim. Tá. Agora, aonde do gestor financeiro, aí já foge um pouquinho do meu escofo.\n[LOCUTOR 17]: Deve ser no menu de cobrança. Enfim, da... Foi implementado ano passado eu acho né.\n[LOCUTOR 6]: Beleza. Vou perguntar essa informação para a engenharia de valor e até para o time do techfim eu também saber quando vocês perguntarem. Mas como a gente não acaba não utilizando o sistema a gente não tem isso na ponta da linha. \n[LOCUTOR 3]: está carregando aqui está demorado\n[LOCUTOR 6]: mas enfim\n[LOCUTOR 17]: quando\n[LOCUTOR 11]: fica tranquilo pode\n[LOCUTOR 6]: mandar tranquilo responde dali para mim o encaminho para eles a gente já manda para\n[LOCUTOR 11]: o [LOCAL]. Isso, perfeito.\n[LOCUTOR 17]: Show.\n[LOCUTOR 6]: Tá bom?\n[LOCUTOR 17]: Obrigada,\n[LOCUTOR 6]: pessoal. Obrigada, [PESSOA], e tchau, tchau. Tchau,\n[LOCUTOR 11]: tchau.",
+  "texto_filtrado": "[LOCUTOR 6]: [EMPRESA] [PESSOA], tudo\n[LOCUTOR 11]: bem? [EMPRESA] [PESSOA], tudo e você?\n[LOCUTOR 6]: [PESSOA] me falou que você vai estar acompanhando. O [PESSOA] deve estar entrando em [LOCAL].\n[LOCUTOR 11]: Sem problema. A gente vai falar sobre sobre o baleto híbrido.\n[LOCUTOR 6]: [PESSOA]. Inclusive o [PESSOA] tem uma outra agenda que ele disse que ele não poderia participar, que já estava marcada com a cliente. Se tu tiver disponibilidade a gente não altera. Deixa eu ver aqui\n[LOCUTOR 11]: que dia é.\n[LOCUTOR 6]: Dia 10 dos 2 às 9.\n[LOCUTOR 11]: Se você quiser pode mandar um invoice sem problema. Só deixa eu confirmar aqui rapidinho.\n[LOCUTOR 6]: É porque ele até pediu uma nova sugestão mas como eu sei que a agenda da minha cliente é bem complicada se a\n[LOCUTOR 11]: gente\n[LOCUTOR 6]: ficaria\n[LOCUTOR 11]: 10 às 9.\n[LOCUTOR 6]: Isso\n[LOCUTOR 11]: pode mandar às 9 horas por incrível que pareça do dia 10 eu não tenho nada.\n[LOCUTOR 1]: você pode mandar sim sem problema. E\n[LOCUTOR 6]: aí E a\n[LOCUTOR 6]: [EMPRESA],\n[LOCUTOR 17]: [PESSOA].\n[LOCUTOR 6]: Ali é a nossa intelig\n[LOCUTOR 7]: artificial\n[LOCUTOR 6]: que vai estar acompanhando. Depois ela faz um\n[LOCUTOR 11]: resumo\n[LOCUTOR 6]: e encaminha para a gente. Ah,\n[LOCUTOR 6]: Bom, [PESSOA], eu convidei aqui o time da [PESSOA], então, para conversar um pouquinho com você sobre o boleto híbrido. O [PESSOA] vai estar nos acompanhando, então, explicando um pouquinho mais aí para a gente conduzir essa conversa.\n[LOCUTOR 17]: [LOCAL].\n[LOCUTOR 17]: [LOCUTOR 5]: bem também. Acho que\n[LOCUTOR 11]: [LOCUTOR 8]: mal de todo mundo, né? [PESSOA] XXI aí. Faz parte, não tem jeito, né?\n[LOCUTOR 17]: direcionar\n[LOCUTOR 11]: melhor a reunião.\n[LOCUTOR 17]: Nada.\n[LOCUTOR 2]: zerado\n[LOCUTOR 17]: nesse assunto.\n[LOCUTOR 11]: Tá bom, beleza. Vamos começar do início então. Cara, a [PESSOA] veio da junção de dois monstros aí do mercado, que é a própria Totus e a gente teve a JoyVenture com o [EMPRESA]. Tem cerca de 3 anos essa união, muito estável, estável né? E a gente está tendo, na verdade, bastante sucesso com alguns clientes. A gente tem algumas soluções, tanto na parte de crédito, que eu não vou entrar muito em detalhes, eu vou fazer um breve overview, para você entender quais as soluções e como funciona. A gente tem na parte de crédito antecipação de recebíveis, famoso desconto de duplicata, mais prazo, capital de giro. Todas essas soluções são integradas diretamente no teu [EMPRESA], não tem custo de implantação, mensalidade ou adesão, somente o custo da taxa se utilizar. Caso contrário, fica disponível para você fazer a utilização,\n[LOCUTOR 17]: conversa,\n[LOCUTOR 11]: tá? Mas se quiser, eu mando o material para você, eu apresento, fica tranquilo. E aí a gente entra um pouco na parte do boleto híbrido, que é o foco da reunião de hoje. O que acontece? A gente vai ter a descontinuação dessa comunicação via API do [EMPRESA] com o banco. E o que a gente vai fazer? Para os clientes que já utilizam, querendo fazer o tombamento para o boleto híbrido. O que é o boleto híbrido da [PESSOA]? No boleto tradicional que vocês emitem para o cliente, ele vai com um código de barras para ele fazer o pagamento. A gente pega esse boleto, faz adição de mais duas formas de pagamento, que é o [LOCAL] e o [EMPRESA] e [LOCAL], para o seu cliente ter mais duas opções de pagamento. E o que acontece quando o cliente paga pelo [LOCAL] ou pelo [EMPRESA] e [LOCAL]? A gente tem a baixa confirmação daquele pagamento e a conciliação dentro do teu [EMPRESA] em tempo real, tá bom? Isso reduz o operacional absurdo, digamos assim. E se ele faz o pagamento pelo código de base, a gente tem a confirmação do pagamento e a liberação de crédito pro seu cliente, porque muitas vezes fica impactado, fica parado aquele pedido, né? Porque, ah, eu não sei se ele pagou, mesmo mandando o comprovante a gente fica meio receoso de mandar, né? Com essa ferramenta a gente tem a confirmação de pagamento, porém a baixa só é feita no D1. Depende muito de cada banco. Várias exceções em [LOCAL], tá? Mas isso a gente tem um ganho operacional muito grande. E todas as soluções, independente de qual for a forma de pagamento, que eu comentei um pouquinho anteriormente, digamos assim, Tem a conciliação, baixa, envio e retorno de informações, tudo feito dentro do teu [EMPRESA] de forma automática. Então aquele operacional de envio de informações para o seu banco, retorno, remessa, [PESSOA], isso não existe mais. Você tem todo o teu operacional, todo o teu financeiro, digamos assim. dentro de uma única plataforma e muito mais arrisca aqueles pagamentos dos seus clientes, aquele cliente que demora um pouquinho mais para pagar, que é um pouco mais demorado, que é um pouco mais complicada a relação, você consegue ter isso dentro de uma plataforma só, tá? E ali tudo em tempo real e como eu comentei, né, fica muito mais fácil a liberação de crédito da de um cliente para fazer um novo pedido e assim por diante, confirmação de pagamento, não precisa mais mandar comprovante, Então isso traz uma facilidade para vocês, para o operacional, tanto do financeiro quanto do [EMPRESA] e afins, muito grande. [PESSOA], dúvidas? Eu sei que eu acho que eu falei um pouco rápido, mas deu para entender um pouquinho.\n[LOCUTOR 17]: Está compreendido até a API que a gente utiliza, ela está fazendo a comunicação com o [EMPRESA]. E aí, no boleto do [EMPRESA], se eu não me engano, já vinha a opção de [LOCAL], né? Quando eu imprimi, é pelo gestor financeiro, ou seja, mudou o local da impressão, né? Enfim, mas beleza. O Kiki precisa ir para dar continuidade, como é que funciona o Kiki?\n[LOCUTOR 11]: Na verdade, eu preciso saber, [PESSOA], quantos boletos vocês emitem mês para conseguir fazer uma proposta, solicitar uma proposta mais voltada para o teu negócio, que faça mais sentido, tá? Porque a gente tem algumas faixas de emissão de boletos, tá? De 500, 1000, 2000 e assim por diante. Com isso, eu consigo chegar numa precificação mais correta para você. Eu entendo que um cliente que emite 100, 200 boletos, não pode ter a mesma precificação, né, de um cliente que emite 2 mil, 5 mil, 10 mil e assim por diante. E aí a gente consegue chegar no melhor dos mundos para ambas as partes.\n[LOCUTOR 17]: [LOCAL]. Tu quer que eu já coleta essa informação agora?\n[LOCUTOR 11]: Cara, o que for melhor para ti. Se você quiser passar, pegar e mandar para a [PESSOA], a [PESSOA] me encaminha, não tem problema nenhum. Porque aí eu consigo solicitar a proposta, Com isso, eu encaminho o e-mail sem... não tem nenhuma obrigatoriedade de assinar aquela proposta, tá? Eu encaminho só pra você ver os termos, você dando ok, a gente sobe pra assinatura. Mas eu vou encaminhar, junto com a proposta, todas as informações do boleto híbrido, a descontinuação da [LOCAL], as informações da TOTAS, a demanda, tudo certinho dentro de um e-mail pra vocês.\n[LOCUTOR 6]: É importante sinalizar que a\n[LOCUTOR 6]: forma que você trabalha hoje e até por isso que eu chamei a conversa com você e mais alguns clientes que já estavam trabalhando. Então a gente chamou para avisar dessa forma a [EMPRESA] não vai mais estar trabalhando. A gente\n[LOCUTOR 6]: essa opção via TECFIM aqui para vocês continuarem e daí é um entendimento de vocês.\n[LOCUTOR 11]: Exatamente. Obrigado, [PESSOA]. E até, eu não sei se você chegou a ver esse comunicado, eu posso encaminhar no e-mail também no [EMPRESA], tá? Dia 31 de março é o deadline pra fazer esse tombamento, tá? Era pra ser feito, ter sido feito em setembro, porém a gente entendeu que é muito pouco tempo pra fazer esse tombamento, prorrogou pra dezembro, mesmo assim ficou muito em cima e agora realmente não vai ter mais prorrogação, agora em março realmente acaba, dia 31.\n[LOCUTOR 17]: Uma dúvida que eu tenho, por que que tá sendo descontinuada\n[LOCUTOR 11]: essa API? Na verdade foi uma demanda da [EMPRESA] fazer essa descontinuação, porque teve alguns avanços nessa API. além da própria solução que é feita dentro de casa. Em questão de tempo de envio, retorno de informações, atualização, tudo isso teve algumas atualizações, por isso que a gente vai fazer esse tombamento para a nossa solução aqui da [PESSOA].\n[LOCUTOR 17]: Eu vi que\n[LOCUTOR 17]: [EMPRESA] até mandou um e-mail para mim, eu acho que ontem, referente ao vencimento do Token. Vence dia 12 agora, 12 do 2.\n[LOCUTOR 11]: [EMPRESA].\n[LOCUTOR 17]: Imagino que vai ser necessário a mesma coisa, vai lá no [EMPRESA] e aí cadastra o [LOCAL] ou algo do\n[LOCUTOR 11]: gênero? Cara, não necessariamente, porque nossa solução é integrada diretamente no [EMPRESA], né, via [LOCAL]. Na verdade a gente só vai fazer a configuração e a parametrização das contas que você utiliza, seja [EMPRESA], [EMPRESA], [LOCAL] e assim por diante. Porém o operacional, o layout, essas coisas, fica tudo sendo feito de forma automática. Não necessariamente precisa do token, tá?\n[LOCUTOR 17]: O token não seria para validação com o banco das informações e troca\n[LOCUTOR 11]: de arquivos? Sim, isso sim. Mas por exemplo, o [LOCAL] que você já tem com o banco vai ser... substituído pelo nosso. Justamente porque quando ele faz o pagamento pelo banco, você não tem a confirmação dentro do sistema. O pagamento, baixa e conciliação é feito de forma automática. Com o nosso irá ter. Entendeu? É só basicamente isso que muda e o tempo de envio e retorno das informações.\n[LOCUTOR 17]: Beleza. E para emitir os boletos então vai ter um menuzinho diferente ali?\n[LOCUTOR 11]: Não. A rotina que você já utiliza isso vai permanecer.\n[LOCUTOR 17]: [PESSOA] financeiro\n[LOCUTOR 11]: tudo igual? Isso. Não vai ter alteração nenhuma. Justamente porque a gente não quer dar mais trabalho para você. A gente quer facilitar o teu dia a dia.\n[LOCUTOR 11]: ou quer\n[LOCUTOR 17]: que eu mande\n[LOCUTOR 11]: direto pelo\n[LOCUTOR 17]: Whats?\n[LOCUTOR 6]: aqui.\n[LOCUTOR 17]: [PESSOA] olhando agora,\n[LOCUTOR 11]: tô olhando agora. Sem problema.\n[LOCUTOR 6]: É o colega. Se quiser mandar para mim, eu encaminho\n[LOCUTOR 11]: aqui para\n[LOCUTOR 6]: os dois\n[LOCUTOR 6]: precisa... É, pode ser. Beleza.\n[LOCUTOR 6]: fácil. [LOCAL], daí já\n[LOCUTOR 17]: [LOCAL],\n[LOCUTOR 6]: aí eu encaminho para os meninos e se você não lembrar, eu cobro.\n[LOCUTOR 6]: acessando\n[LOCUTOR 17]: aqui, então depois eu mando assim que finalizar a\n[LOCUTOR 11]: reunião e\n[LOCUTOR 17]: puxar os dados,\n[LOCUTOR 6]: eu tiro os\n[LOCUTOR 17]: prints\n[LOCUTOR 11]: mando.\n[LOCUTOR 6]: [PESSOA] e [LOCAL] tudo certo? Preciso de algum apoio, demonstração de alguma coisa, alguma conversa que eu possa te apoiar?\n[LOCUTOR 17]: Não, tudo certo. Ah, desculpa, aproveitando, eu acho que acessei no lugar errado. É melhor pelo meu gestor financeiro, né? Porque eu fui em contas a receber. Droga.\n[LOCUTOR 6]: O lugar onde você localiza a quantidade de boletos?\n[LOCUTOR 6]: Sabe, [PESSOA], senão vou ter que pedir ajuda para\n[LOCUTOR 11]: o evento. Senão fica geralmente no gestor financeiro. Atualmente, né?\n[LOCUTOR 17]: Porque o contas a receber vai ter de tudo, né? Vai ter...\n[LOCUTOR 11]: Vai ter\n[LOCUTOR 17]: um pouquinho de tudo.\n[LOCUTOR 17]: [EMPRESA] e tal, né?\n[LOCUTOR 11]: Vai no gestor financeiro ali, você consegue ter acesso nos boletos que vocês demitiram e dá pra ter uma noção da média, digamos assim. Tá. Agora, aonde do gestor financeiro, aí já foge um pouquinho do meu escofo.\n[LOCUTOR 17]: Deve ser no menu de cobrança. Enfim, da... Foi implementado ano passado eu acho né.\n[LOCUTOR 6]: Beleza. Vou perguntar essa informação para a engenharia de valor e até para o time do techfim eu também saber quando vocês perguntarem. Mas como a gente não acaba não utilizando o sistema a gente não tem isso na ponta da linha.\n[LOCUTOR 6]: mas enfim\n[LOCUTOR 17]: quando\n[LOCUTOR 11]: fica tranquilo pode\n[LOCUTOR 6]: mandar tranquilo responde dali para mim o encaminho para eles a gente já manda para\n[LOCUTOR 11]: o [LOCAL]. Isso, perfeito.\n[LOCUTOR 17]: Show.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:18.805949+00:00",
+    "total_linhas": 127,
+    "linhas_mantidas": 95,
+    "linhas_removidas": 32,
+    "percentual_mantido": 74.8,
+    "confianca_media": 0.4818
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 6]: [EMPRESA] [PESSOA], tudo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4843,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: bem? [EMPRESA] [PESSOA], tudo e você?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4636,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tudo ótimo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA] me falou que você vai estar acompanhando. O [PESSOA] deve estar entrando em [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4916,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Sem problema. A gente vai falar sobre sobre o baleto híbrido.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA]. Inclusive o [PESSOA] tem uma outra agenda que ele disse que ele não poderia participar, que já estava marcada com a cliente. Se tu tiver disponibilidade a gente não altera. Deixa eu ver aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que dia é.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Dia 10 dos 2 às 9.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4773,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Se você quiser pode mandar um invoice sem problema. Só deixa eu confirmar aqui rapidinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É porque ele até pediu uma nova sugestão mas como eu sei que a agenda da minha cliente é bem complicada se a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: ficaria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: 10 às 9.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: pode mandar às 9 horas por incrível que pareça do dia 10 eu não tenho nada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4893,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tá bom ent",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: você pode mandar sim sem problema. E",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: aí E a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [EMPRESA], pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.445,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tudo bem? Bom dia. Tudo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Tem outro ali ou não? Compartilhamento de tela.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4392,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Ali é a nossa intelig",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: artificial",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que vai estar acompanhando. Depois ela faz um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4956,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: resumo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: e encaminha para a gente. Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Bom, [PESSOA], eu convidei aqui o time da [PESSOA], então, para conversar um pouquinho com você sobre o boleto híbrido. O [PESSOA] vai estar nos acompanhando, então, explicando um pouquinho mais aí para a gente conduzir essa conversa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4878,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Obrigado, [PESSOA]. Fala, [PESSOA]. Tudo bem por aí? Muito corrido? Tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3735,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [LOCUTOR 5]: bem também. Acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCUTOR 8]: mal de todo mundo, né? [PESSOA] XXI aí. Faz parte, não tem jeito, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: prazer em falar contigo. Obrigado pela disponibilidade. Prazer é meu. Deixa eu perguntar. Já ouviu falar sobre o [PESSOA]? Já ouviu falar sobre o [EMPRESA]? Viu alguma coisa? Não? Só para",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4323,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: direcionar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: melhor a reunião.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Nada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: zerado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: nesse assunto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá bom, beleza. Vamos começar do início então. Cara, a [PESSOA] veio da junção de dois monstros aí do mercado, que é a própria Totus e a gente teve a JoyVenture com o [EMPRESA]. Tem cerca de 3 anos essa união, muito estável, estável né? E a gente está tendo, na verdade, bastante sucesso com alguns clientes. A gente tem algumas soluções, tanto na parte de crédito, que eu não vou entrar muito em detalhes, eu vou fazer um breve overview, para você entender quais as soluções e como funciona. A gente tem na parte de crédito antecipação de recebíveis, famoso desconto de duplicata, mais prazo, capital de giro. Todas essas soluções são integradas diretamente no teu [EMPRESA], não tem custo de implantação, mensalidade ou adesão, somente o custo da taxa se utilizar. Caso contrário, fica disponível para você fazer a utilização,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: E além disso, a gente tem a parte de Payments. Eu acabo nem compartilhando a tela porque é muito simples e aí eu vou mais na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4359,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: conversa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tá? Mas se quiser, eu mando o material para você, eu apresento, fica tranquilo. E aí a gente entra um pouco na parte do boleto híbrido, que é o foco da reunião de hoje. O que acontece? A gente vai ter a descontinuação dessa comunicação via API do [EMPRESA] com o banco. E o que a gente vai fazer? Para os clientes que já utilizam, querendo fazer o tombamento para o boleto híbrido. O que é o boleto híbrido da [PESSOA]? No boleto tradicional que vocês emitem para o cliente, ele vai com um código de barras para ele fazer o pagamento. A gente pega esse boleto, faz adição de mais duas formas de pagamento, que é o [LOCAL] e o [EMPRESA] e [LOCAL], para o seu cliente ter mais duas opções de pagamento. E o que acontece quando o cliente paga pelo [LOCAL] ou pelo [EMPRESA] e [LOCAL]? A gente tem a baixa confirmação daquele pagamento e a conciliação dentro do teu [EMPRESA] em tempo real, tá bom? Isso reduz o operacional absurdo, digamos assim. E se ele faz o pagamento pelo código de base, a gente tem a confirmação do pagamento e a liberação de crédito pro seu cliente, porque muitas vezes fica impactado, fica parado aquele pedido, né? Porque, ah, eu não sei se ele pagou, mesmo mandando o comprovante a gente fica meio receoso de mandar, né? Com essa ferramenta a gente tem a confirmação de pagamento, porém a baixa só é feita no D1. Depende muito de cada banco. Várias exceções em [LOCAL], tá? Mas isso a gente tem um ganho operacional muito grande. E todas as soluções, independente de qual for a forma de pagamento, que eu comentei um pouquinho anteriormente, digamos assim, Tem a conciliação, baixa, envio e retorno de informações, tudo feito dentro do teu [EMPRESA] de forma automática. Então aquele operacional de envio de informações para o seu banco, retorno, remessa, [PESSOA], isso não existe mais. Você tem todo o teu operacional, todo o teu financeiro, digamos assim. dentro de uma única plataforma e muito mais arrisca aqueles pagamentos dos seus clientes, aquele cliente que demora um pouquinho mais para pagar, que é um pouco mais demorado, que é um pouco mais complicada a relação, você consegue ter isso dentro de uma plataforma só, tá? E ali tudo em tempo real e como eu comentei, né, fica muito mais fácil a liberação de crédito da de um cliente para fazer um novo pedido e assim por diante, confirmação de pagamento, não precisa mais mandar comprovante, Então isso traz uma facilidade para vocês, para o operacional, tanto do financeiro quanto do [EMPRESA] e afins, muito grande. [PESSOA], dúvidas? Eu sei que eu acho que eu falei um pouco rápido, mas deu para entender um pouquinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Está compreendido até a API que a gente utiliza, ela está fazendo a comunicação com o [EMPRESA]. E aí, no boleto do [EMPRESA], se eu não me engano, já vinha a opção de [LOCAL], né? Quando eu imprimi, é pelo gestor financeiro, ou seja, mudou o local da impressão, né? Enfim, mas beleza. O Kiki precisa ir para dar continuidade, como é que funciona o Kiki?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Na verdade, eu preciso saber, [PESSOA], quantos boletos vocês emitem mês para conseguir fazer uma proposta, solicitar uma proposta mais voltada para o teu negócio, que faça mais sentido, tá? Porque a gente tem algumas faixas de emissão de boletos, tá? De 500, 1000, 2000 e assim por diante. Com isso, eu consigo chegar numa precificação mais correta para você. Eu entendo que um cliente que emite 100, 200 boletos, não pode ter a mesma precificação, né, de um cliente que emite 2 mil, 5 mil, 10 mil e assim por diante. E aí a gente consegue chegar no melhor dos mundos para ambas as partes.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [LOCAL]. Tu quer que eu já coleta essa informação agora?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Cara, o que for melhor para ti. Se você quiser passar, pegar e mandar para a [PESSOA], a [PESSOA] me encaminha, não tem problema nenhum. Porque aí eu consigo solicitar a proposta, Com isso, eu encaminho o e-mail sem... não tem nenhuma obrigatoriedade de assinar aquela proposta, tá? Eu encaminho só pra você ver os termos, você dando ok, a gente sobe pra assinatura. Mas eu vou encaminhar, junto com a proposta, todas as informações do boleto híbrido, a descontinuação da [LOCAL], as informações da TOTAS, a demanda, tudo certinho dentro de um e-mail pra vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É importante sinalizar que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCUTOR 4]: não vai estar mais trabalhando com essa API. Então da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.447,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: forma que você trabalha hoje e até por isso que eu chamei a conversa com você e mais alguns clientes que já estavam trabalhando. Então a gente chamou para avisar dessa forma a [EMPRESA] não vai mais estar trabalhando. A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: essa opção via TECFIM aqui para vocês continuarem e daí é um entendimento de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5077,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Exatamente. Obrigado, [PESSOA]. E até, eu não sei se você chegou a ver esse comunicado, eu posso encaminhar no e-mail também no [EMPRESA], tá? Dia 31 de março é o deadline pra fazer esse tombamento, tá? Era pra ser feito, ter sido feito em setembro, porém a gente entendeu que é muito pouco tempo pra fazer esse tombamento, prorrogou pra dezembro, mesmo assim ficou muito em cima e agora realmente não vai ter mais prorrogação, agora em março realmente acaba, dia 31.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Uma dúvida que eu tenho, por que que tá sendo descontinuada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5023,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: essa API? Na verdade foi uma demanda da [EMPRESA] fazer essa descontinuação, porque teve alguns avanços nessa API. além da própria solução que é feita dentro de casa. Em questão de tempo de envio, retorno de informações, atualização, tudo isso teve algumas atualizações, por isso que a gente vai fazer esse tombamento para a nossa solução aqui da [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Eu vi que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [EMPRESA] até mandou um e-mail para mim, eu acho que ontem, referente ao vencimento do Token. Vence dia 12 agora, 12 do 2.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5219,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Imagino que vai ser necessário a mesma coisa, vai lá no [EMPRESA] e aí cadastra o [LOCAL] ou algo do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: gênero? Cara, não necessariamente, porque nossa solução é integrada diretamente no [EMPRESA], né, via [LOCAL]. Na verdade a gente só vai fazer a configuração e a parametrização das contas que você utiliza, seja [EMPRESA], [EMPRESA], [LOCAL] e assim por diante. Porém o operacional, o layout, essas coisas, fica tudo sendo feito de forma automática. Não necessariamente precisa do token, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: O token não seria para validação com o banco das informações e troca",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: de arquivos? Sim, isso sim. Mas por exemplo, o [LOCAL] que você já tem com o banco vai ser... substituído pelo nosso. Justamente porque quando ele faz o pagamento pelo banco, você não tem a confirmação dentro do sistema. O pagamento, baixa e conciliação é feito de forma automática. Com o nosso irá ter. Entendeu? É só basicamente isso que muda e o tempo de envio e retorno das informações.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Beleza. E para emitir os boletos então vai ter um menuzinho diferente ali?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4747,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Não. A rotina que você já utiliza isso vai permanecer.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [PESSOA] financeiro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tudo igual? Isso. Não vai ter alteração nenhuma. Justamente porque a gente não quer dar mais trabalho para você. A gente quer facilitar o teu dia a dia.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Tá bom. Entendido. Show. Beleza. Eu tô vendo aqui eu mando por [PESSOA] tentando localizar o e-mail da nossa troca da reunião. Eu posso mandar por ali",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4588,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ou quer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: que eu mande",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: direto pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Whats?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Você viu mais ou menos a média de boletos? Se você quiser me falar, eu deixo anotado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4586,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [PESSOA] olhando agora,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tô olhando agora. Sem problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [LOCAL]. Ah, aqui. Ah, botou no caso o senhor, seu [PESSOA], o senhor tem e-mail ruim? Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4397,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: né? Não, esse é o e-mail do meu gestor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4556,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É o colega. Se quiser mandar para mim, eu encaminho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5155,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aqui para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: os dois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: também, não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: precisa... É, pode ser. Beleza.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4924,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: É a [LOCAL]. Mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: fácil. [LOCAL], daí já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tem o meu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: contato, meu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: aí eu encaminho para os meninos e se você não lembrar, eu cobro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4705,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Show, beleza. Eu tô",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4268,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: acessando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: aqui, então depois eu mando assim que finalizar a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: reunião e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: puxar os dados,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: eu tiro os",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4841,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: prints",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: mando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA] e [LOCAL] tudo certo? Preciso de algum apoio, demonstração de alguma coisa, alguma conversa que eu possa te apoiar?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Não, tudo certo. Ah, desculpa, aproveitando, eu acho que acessei no lugar errado. É melhor pelo meu gestor financeiro, né? Porque eu fui em contas a receber. Droga.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: O lugar onde você localiza a quantidade de boletos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Sabe, [PESSOA], senão vou ter que pedir ajuda para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4926,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: o evento. Senão fica geralmente no gestor financeiro. Atualmente, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Porque o contas a receber vai ter de tudo, né? Vai ter...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Vai ter",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: um pouquinho de tudo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4972,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: VA,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 17]: [EMPRESA] e tal, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Vai no gestor financeiro ali, você consegue ter acesso nos boletos que vocês demitiram e dá pra ter uma noção da média, digamos assim. Tá. Agora, aonde do gestor financeiro, aí já foge um pouquinho do meu escofo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Deve ser no menu de cobrança. Enfim, da... Foi implementado ano passado eu acho né.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5611,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Beleza. Vou perguntar essa informação para a engenharia de valor e até para o time do techfim eu também saber quando vocês perguntarem. Mas como a gente não acaba não utilizando o sistema a gente não tem isso na ponta da linha.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: está carregando aqui está demorado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: mas enfim",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: fica tranquilo pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: mandar tranquilo responde dali para mim o encaminho para eles a gente já manda para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: o [LOCAL]. Isso, perfeito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Show.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Obrigada,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: pessoal. Obrigada, [PESSOA], e tchau, tchau. Tchau,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3977,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

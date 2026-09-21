@@ -1,0 +1,1807 @@
+{
+  "id_reuniao": "1126974",
+  "codt": "CXHKJK",
+  "data_reuniao": "2026-03-03 09:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 31]: [PESSOA] agora?\n[LOCUTOR 3]: [PESSOA]. Bom dia, [PESSOA] [PESSOA].\n[LOCUTOR 57]: Olá, bom dia. Tudo bem?\n[LOCUTOR 3]: Tudo bem.\n[LOCUTOR 31]: Tudo bom?\n[LOCUTOR 57]: Que joia. Bom dia, [LOCAL].\n[LOCUTOR 31]: [LOCUTOR 6]: dia. Vamos\n[LOCUTOR 3]: aguardar mais um minutinho para dar o Enai para o [PESSOA]? Se eles não entrarem, eu vou lá bater na porta deles.\n[LOCUTOR 31]: Tem essa vantagem de estar pertinho.\n[LOCUTOR 3]: Exatamente. Esse que tá como consultor de vendas é quem? \n[LOCUTOR 22]: robôzinho. Ele é um\n[LOCUTOR 3]: rob\n[LOCUTOR 12]: que eu acho que é da Amanda, porque ele é consultor de vendas, né?\n[LOCUTOR 3]: Amanda.\n[LOCUTOR 31]: [EMPRESA]. E acho que ele vai recolhendo informações pra melhorar o atendimento do time.\n[LOCUTOR 3]: Ah, tá.\n[LOCUTOR 31]: Não,\n[LOCUTOR 3]: então tá faltando na [EMPRESA] o [PESSOA] e o [PESSOA] também, né?\n[LOCUTOR 31]: Deixa\n[LOCUTOR 3]: eu chamar eles aqui. Eu vou lá no RH, enquanto isso eu vou chamando o [EMPRESA], já volto, peraí.\n[LOCUTOR 31]: Vai lá, tá bom. Eu vi uma explicação desse robozinho, mas eu não lembro onde. Ah, tá aqui no próprio chat. Essa medida é um IA da [EMPRESA], [EMPRESA], com a finalidade de gerar atas.\n[LOCUTOR 57]: Ah, tipo o Gemini, né? As anotações do Gemini, na verdade.\n[LOCUTOR 31]: Mas tem esse Tots, consultor de vendas, tá vendo? \n[LOCUTOR 21]: é\n[LOCUTOR 31]: um assistente de AI. Eu não tive tempo ainda de estudar na Unity os assistentes de AI. Eu queria tanto começar a construir alguns aqui. Não tenho tempo.\n[LOCUTOR 57]: É muita coisa, né? A gente tem que fazer o que dá, e o que a gente quer, a gente não tem tempo para fazer.\n[LOCUTOR 31]: É, eu queria, mas chegando o fim do dia, minha cabeça está tão amiga, não consigo nem me concentrar. Nem na agenda de [LOCAL] eu\n[LOCUTOR 57]: não posso\n[LOCUTOR 31]: usar para isso.\n[LOCUTOR 57]: Mas\n[LOCUTOR 31]: eu queria muito que\n[LOCUTOR 57]: construíssemos\n[LOCUTOR 31]: agentes de água para ajudar nossas vidas aqui. Bom dia, [PESSOA].\n[LOCUTOR 27]: Bom dia,\n[LOCUTOR 31]: [PESSOA].\n[LOCUTOR 57]: Bom dia.\n[LOCUTOR 61]: Bom dia.\n[LOCUTOR 31]: Ah, ele manda um recado ainda, olha. Educado ele, muito fino.\n[LOCUTOR 3]: Voltei, tá faltando só o Tainá.\n[LOCUTOR 27]: Pessoal,\n[LOCUTOR 61]: eu mandei um teste para o Tainá aqui. Nós tivemos algumas mudanças internas na empresa que até o [PESSOA] não faz mais parte do grupo, tá? E a Tainá agora que tá no editorial não vai poder participar da reunião, né? Tá\n[LOCUTOR 3]: bom,\n[LOCUTOR 61]: mas\n[LOCUTOR 3]: a gente consegue seguir sem ela?\n[LOCUTOR 27]: Ou\n[LOCUTOR 3]: ela que é que remarca?\n[LOCUTOR 61]: É, porque a [PESSOA] que fala que vai fazer mais a parte dela do sistema, ela tem recrutamento agora também.\n[LOCUTOR 3]: Entendeu?\n[LOCUTOR 61]: Eu acho que ninguém vai conseguir fazer agora a parte dela, a não ser que alguém simule a parte dela aí.\n[LOCUTOR 3]: Tá, mas como é só status, eu pego as demandas que estão com ela, porque eu acho que a parte dela com [PESSOA] [PESSOA], está faltando só ela mandar as evidências, né, [PESSOA] [PESSOA]? Então, eu anoto aqui\n[LOCUTOR 57]: o que\n[LOCUTOR 3]: estiver dependente para a Tainá e eu passo para ela depois, não tem problema.\n[LOCUTOR 61]: Então,\n[LOCUTOR 3]: vamos começar pelo\n[LOCUTOR 27]: [LOCUTOR 1]: [PESSOA], da [EMPRESA]. Bom, a gente fez as configurações, a Tainá fez o cadastro dos gestores e, mesmo assim, a integração não puxou. a [PESSOA] [PESSOA] mandou o manual para eu poder refazer a integração, a gente refez e ainda assim não está puxando. Até sugeri a gente fazer uma reunião junto com a equipe técnica, que aí junta a infra, junta todo mundo para poder fazer, mas [PESSOA] [PESSOA] parece comentou que não tem como, que a gente precisa mandar as evidências para ela poder mandar para abrir um chamado, eu acho, para a gente conseguir analisar. Só que eu preciso que ela envie essas evidências, então eu não consegui mandar ainda. Não tem outra forma, [PESSOA], não tem como, [PESSOA], desculpa, [PESSOA] [PESSOA], Não tem como a gente conectar? Vocês dão uma olhada no ambiente aqui ou alguma coisa do tipo?\n[LOCUTOR 57]: Então, tu não tem acesso ao RM para coletar essas... É só a Tainá que tem mesmo, tá? Porque, assim, a gente só consegue chamar a equipe técnica para a agenda depois que a gente fizer a abertura do chamado, eles constatarem\n[LOCUTOR 3]: que\n[LOCUTOR 57]: realmente tem alguma questão e aí, sim, a gente consegue trazer eles para a reunião. Antes disso, eu não consigo trazer ninguém do time técnico para a agenda, tá? É um procedimento aqui que a gente tem mesmo, enfim. Então, preciso passar pela abertura do ticket para eles validarem. Por quê? Pode ser que seja algo relativamente tranquilo e eles consigam resolver lá, mas a gente precisa das evidências para validar se as integrações estão de forma correta, os IDs estão inseridos de forma correta lá dentro do RM, se está tudo ativado, parametrizado, enfim. Se a ativação foi, de fato, realizada. Aí, preciso também dos prints ali, das requisições que foram criadas e que estejam com o status de aprovada para a gente validar realmente se é se tá no fluxo correto, se foi aprovado, se deu tudo certo. E aí, pra gente levar essas evidências pro time, pra eles validarem. Se tá tudo certo, por que não tá subindo? Aí eles investigam e eles vão trazendo devolutivos pra nós. Se for algo muito crítico, sem resolução, a gente vai pra reunião. Mas,\n[LOCUTOR 3]: normalmente,\n[LOCUTOR 57]: eles conseguem resolver ali a partir do ticketing aberto. \n[LOCUTOR 2]: vou ver se eu consigo contar as evidências hoje. Só pra eu ter uma noção,\n[LOCUTOR 57]: eu\n[LOCUTOR 3]: te mandando isso hoje, você consegue dar retorno pra gente quando?\n[LOCUTOR 57]: Então, eu vou abrir o chamado hoje, pode ser que eles respondam amanhã, enfim, né? Eu vou tentar priorizar, tá? Eu já vou abrir com priorização máxima, enfim, que está impactando o uso, para priorizarem essa questão do ticket, tá?\n[LOCUTOR 3]: Tá bom.\n[LOCUTOR 57]: E aí, conforme eu trouxe para vocês já na semana passada, né? A partir de segunda-feira, eu já não estou mais aqui no time de on-board, né? \n[LOCUTOR 2]: vou\n[LOCUTOR 57]: migrar para um outro time.\n[LOCUTOR 3]: Ent\n[LOCUTOR 16]: vocês ficarão com um outro analista. Então eu já quero encaminhar tudo isso antes de passar para essa nova pessoa, meio caminho andado, pelo menos, para que vocês não precisem também ficar, a gente não fique nessa questão de vai e vem, enfim, já deixar tudo encaminhado para essa pessoa fazer apenas o acompanhamento e as devolutivas para vocês, tá? Já adianto também que esse novo analista, ele não vai fazer atendimento por WhatsApp, tá? Eu abri uma sessão para vocês, mas aqui a gente não atende de fato, tá? Estou lá no grupo, enfim, né? Eu abri essa sessão, é uma coisa totalmente minha, tá? Só para que você entenda que, né, se vier uma outra pessoa e a gente tem... [LOCAL], mas a... Enfim, a [PESSOA] não quis entrar no grupo... de opção, assim, é o que eu tenho por entrar e fazer esse atendimento com vocês, tá? É totalmente iniciativa minha. Então, no geral, o padrão de atendimento segue por e-mail aqui, tá?\n[LOCUTOR 3]: A gente tinha planejado pra fazer a virada, né, praticamente o Google Live no dia 4 ou 5, não tô me lembrando agora. Só que como a integração não deu certo, a gente provavelmente vai atrasar isso aí. Meu plano é fazer essa virada essa semana ainda, então...\n[LOCUTOR 57]: Como\n[LOCUTOR 3]: você falou, vai priorizar junto com o suporte, a gente vai priorizar aqui também.\n[LOCUTOR 57]: Só para\n[LOCUTOR 3]: a gente tentar virar isso igual você falou antes e você sair, porque senão tem que fazer todo o repasse, outra pessoa vai chegar, vai estar perdida\n[LOCUTOR 57]: e\n[LOCUTOR 3]: não é o nosso planejamento e eu não posso deixar o projeto atrasar, embora já esteja atrasado. Então, eu vou pedir as evidências para a [EMPRESA] hoje, se ela n\n[LOCUTOR 16]: conseguir\n[LOCUTOR 3]: me mandar, eu vejo uma outra forma, vejo outra pessoa que tenha acesso e te mando isso ainda hoje, se possível pela manhã.\n[LOCUTOR 57]: [LOCAL]. O Teupar, que eu esqueci o nome dele da [EMPRESA] aí também, o [EMPRESA],\n[LOCUTOR 3]: ele\n[LOCUTOR 57]: tem acesso ao RM também. Talvez ele pudesse apoiar a gente nessa ponta de pegar as informações ali. Enfim, acredito que ele tenha, porque a primeira integração foi ele que rodou\n[LOCUTOR 3]: ali.\n[LOCUTOR 57]: Então, pode ser que ele tenha esse acesso ali para pegar essas evidências para a gente, caso a [EMPRESA] não consiga, enfim.\n[LOCUTOR 3]: \n[LOCUTOR 36]: para a gente tentar acelerar, tá? O [PESSOA] veio hoje, [PESSOA]? Eu fui\n[LOCUTOR 61]: e nem reparei. Ele vem amanhã.\n[LOCUTOR 3]: Ah, tá bom. Fechou. Dia 10 é isso. Vamos para\n[LOCUTOR 57]: a\n[LOCUTOR 3]: admissão.\n[LOCUTOR 57]: Só rapidinho, a gente estava com a questão ali do acesso da Tainá, que foi normalizado também. Na verdade,\n[LOCUTOR 3]: era um redirecionamento do site, que ele estava direcionando para uma parte, quando já está alugado. Por isso que eu não ia nem para frente, nem para trás. Mas aí eu mostrei para ela, e aí está funcionando normal.\n[LOCUTOR 57]: [LOCAL]. Show de bola. Vou atualizar então. Obrigada. De\n[LOCUTOR 3]: nada. Agora é [PESSOA], admissão. Não, estamos te ouvindo. Estou\n[LOCUTOR 27]: ouvindo.\n[LOCUTOR 3]: Agora foi. [LOCAL].\n[LOCUTOR 27]: Bom, pessoal, estou retornando ao projeto. Estava com duas semaninhas aí de descanso, de férias. Retornando agora, peguei lá, fiz um resumo com o [EMPRESA]. O [EMPRESA] estava apoiando vocês aí.\n[LOCUTOR 3]: \n[LOCUTOR 17]: a gente está na fase da admissão digital agora de grado em produção, fazendo os testes finais. O\n[LOCUTOR 27]: time aqui agora está com Fazer uma configuração, ter um probleminha nas jornadas públicas Foi resolvido, tá? Então, eles estão finalizando hoje esses testes lá com o time O time tá finalizando, e assim, hoje, no final do dia Eu consigo ter uma posição realmente da virada Estou tudo certinho, tudo correndo Vê se o e-mail tá à margem em relação ao tal do [EMPRESA] de mim Passei pro consultor fluído pra validar, tá? Então, pendente faltava só essa questão do tal do [EMPRESA] de mim E a questão do TAI, não sei se você conseguiu ver, se ele conseguiu\n[LOCUTOR 3]: acessar... Eu\n[LOCUTOR 27]: pedi,\n[LOCUTOR 3]: mas não me mandou. Eu vou cobrar\n[LOCUTOR 27]: aí. Tá? É simples, tá? Se quiser depois... Tá complicado, você me ajuda comigo agora, mas tem problema, você me chama.\n[LOCUTOR 3]: \n[LOCUTOR 17]: aí a gente pode resetar a senha dele, tá? Eu\n[LOCUTOR 27]: te mando o link do Thai, ele acessa, pede pra restatar a senha, ele restata. E aí, com o usuário e a senha dele, a gente configura na aplicação o Thai, tá? Mas\n[LOCUTOR 3]: a gente comentou o Thai\n[LOCUTOR 27]: na semana\n[LOCUTOR 3]: passada, ele sabe eu loguei a senha, porque ele não conseguiu me\n[LOCUTOR 27]: passar, então\n[LOCUTOR 3]: eu só\n[LOCUTOR 27]: preciso que\n[LOCUTOR 3]: ele me responda. Eu vou cobrar ele hoje? E o admissão tá no mesmo cenário do [EMPRESA]. A gente tava com o [PESSOA] planejado pra essa semana, porque a virada pra produção era pra ser de sexta. Não sei se de quinta pra sexta, ou sexta pra segunda, não sei. Sei que tá atrasado, que a gente teve uns problemas. Mas estamos na mesma situação. Se a gente conseguir configurar a produção de hoje pra amanhã, tá tudo certo o nosso [PESSOA] na quinta.\n[LOCUTOR 27]: Legal, legal. Aí a gente faz um... Os\n[LOCUTOR 3]: mock-tests\n[LOCUTOR 27]: na\n[LOCUTOR 3]: quinta,\n[LOCUTOR 27]: né? E aí...\n[LOCUTOR 3]: Vira\n[LOCUTOR 27]: na quinta. Isso.\n[LOCUTOR 3]: Tá? \n[LOCUTOR 17]: aí...\n[LOCUTOR 3]: Em relaç\n[LOCUTOR 7]: à admissão, é isso. Tem alguma coisa que está pendente ainda mais? Alguma coisa que está faltando?\n[LOCUTOR 3]: Nossa, só o Thai. E seus é validar aquele update do WCM admin. O resto é configuração com vocês. Não temos nada não. [PESSOA], você tem alguma pendente em relação à admissão?\n[LOCUTOR 61]: Alguma coisa\n[LOCUTOR 3]: que você precisa saber?\n[LOCUTOR 27]: Tudo\n[LOCUTOR 3]: certo, configurado essa semana. Está tudo ok para o Go Live na sexta, né?\n[LOCUTOR 61]: Isso.\n[LOCUTOR 3]: [LOCAL]. [PESSOA], com você também a demissão digital. Tinha mandado um\n[LOCUTOR 27]: e-mail para o\n[LOCUTOR 3]: [EMPRESA] pedindo um cronograma, não sei se foi você ou se foi ele que mandou, e ele mandou um cronograma que termina em julho. Nós não conseguimos um cronograma que termine em julho, na verdade estou com cobrança e a gente precisa de um cronograma que termine no máximo em abril.\n[LOCUTOR 27]: Eu vi que\n[LOCUTOR 3]: ele pediu no e-mail para eu justificar, é por isso, o projeto já está atrasado.\n[LOCUTOR 27]: Não fui eu, na verdade.\n[LOCUTOR 3]: Todas as jornadas a gente precisa que termine no máximo, em abril. Só que em relação a quais demandas eu acho que podem ser alteradas em relação à data, aí é com você. Se você falar\n[LOCUTOR 27]: que\n[LOCUTOR 3]: reunião de trabalho, refinamento 1, 2 e 3 pode ser só uma, cara, o que você falar? Desde que a gente termine em abril, a gente está priorizando o projeto, então, Se tiver que reduzir bem as datas, se tiver que dar um gás, não tem problema, a gente vai, t\n[LOCUTOR 14]: disponível.\n[LOCUTOR 3]: Então, pode diminuir o cronograma até abril.\n[LOCUTOR 27]: Você tá vendo minha telinha aqui?\n[LOCUTOR 3]: Tô.\n[LOCUTOR 27]: Tá, perfeito. Isso aqui é o status, essas são as fases aqui, os\n[LOCUTOR 3]: marcos\n[LOCUTOR 27]: e projetos, tá? Do cronograma. Parte de levantamento, configuração, homologação, go live e pause, né? Parte de levantamento aqui, praticamente, a gente vai iniciar só com copy mesmo, só para realmente formalizar, né? Teoricamente, tá aqui na próxima tela, eu vou mostrar, se não me engano, tá aproximando aqui, vem o kick-off.\n[LOCUTOR 3]: A gente,\n[LOCUTOR 27]: fim de ano, tá? O que foi acordado lá atrás não tem como sair, ser quebrado. Pra iniciar o kick-off do DEMISSÃO, realmente a gente tem que estar em produção com a gente emissão digital. Acredito que essa semana a gente consegue matar isso, maravilha, semana que vem a gente faz o kick-off. que é uma parte de aguentamento só essa, porque as questões de credenciais, essas questões aqui todinhas, já temos.\n[LOCUTOR 3]: É\n[LOCUTOR 27]: a\n[LOCUTOR 3]: mesma\n[LOCUTOR 27]: da admissão, né? A pergunta que eu preciso fazer é, os usuários serão os mesmos? O pessoal da admissão e da admissão serão os mesmos?\n[LOCUTOR 3]: [PESSOA],\n[LOCUTOR 27]: por favor.\n[LOCUTOR 61]: É que acontece, nós temos um responsável para admissão e outro para demissão, mas, assim, esses, todos os usuários que a gente passou, vai utilizar a\n[LOCUTOR 27]: Então, não tem nenhum\n[LOCUTOR 61]: usu\n[LOCUTOR 23]: novo, né, [PESSOA]?\n[LOCUTOR 61]: Não, nenhum.\n[LOCUTOR 27]: [LOCAL]. Então, a única exigência que seria a questão dos usuários já estar todos configurados, sem problema, vida que segue. E aqui vem a parte de configuração, tá? Já vou passar para a próxima tela, vou explicar aqui, que é a parte mais demorada, realmente, braçal da configuração. Bom, aqui é uma telinha do cronograma, tá? Eu trouxe justamente mais detalhado esse passo a passo justamente por causa dessa parte, tá? Eu marquei aqui em vermelho, tá? A homagem. Essa questão de teste de homologação de jornadas, porque ele, infelizmente, é nessa faixa de mais ou menos 25 dias, tá? Não tem como fugir pé, braçal. É configuração, testa, QA, volta, erra, acerta, manda pessoal de produto, não tem como diminuir esses 25 dias, tá? Aqui no cronograma que foi passado, acho que foi a [PESSOA], não sei se foi o [PESSOA] que passou esse cronograma, tá? É uma previsão, realmente. Tá aqui, esses prazos aqui, tá do dia 1 do 4 a 5 do 5, tá? Isso inicia no 1 do 4, porque tem outras atividades aqui de validação, que são várias reuniões contínuas, tá? Então,\n[LOCUTOR 3]: quando\n[LOCUTOR 27]: você falou que eu saberia dizer, então realmente nesse sentido, tá? Aqui tem as validações de requisitos de processos, tá? No cronograma, colocaram um para cada dia, cada semana seria uma validação. Eu acredito que, dependendo do tamanho do processo, aí eu não sei se é com o [EMPRESA], se já está bem desenhada essa questão do processo de emissão, se estiver bem desenhada, a gente marca isso aqui num dia.\n[LOCUTOR 3]: \n[LOCUTOR 4]: depender da maturidade, do conhecimento do processo mesmo de vocês. Entre vocês mesmos, o processo ao máximo está desenhado, está redondinho, é isso. se estiver bem redondinha a questão de processo de demissão sem\n[LOCUTOR 27]: justa causa, processo de demissão com justa causa, processo de solicitação de demissão pelo funcionário, tudo isso estiver mapeado, redondinho, isso é um pulo. Então, essa validação a gente consegue matar em uma semana e já sobe os dias. Então,\n[LOCUTOR 3]: s\n[LOCUTOR 7]: as duas contas, né? A gente tem que dar as mãos aqui, um com o outro, dar as mãos aqui e seguir nesse sentido, né? Então, a diminuição de tempo vai se caindo muito nesse sentido, tá? Então, a gente pode subir aqui, caso essa validação esteja bem mapeada, a gente pega, vai passar toda essa validação para dentro da aplicação. fazendo as configurações do nosso QR aqui dentro, e aí a gente faz uma demonstração da jornada, e aí,\n[LOCUTOR 3]: tendo\n[LOCUTOR 27]: essa demonstração dando ok, a gente vai passar para fazer os testes de todas as jornadas, todas as configurações, né?\n[LOCUTOR 3]: \n[LOCUTOR 17]: aí a gente vai ter reunião de refinamento. Essa é uma reunião com o time de vocês também. Então, o refinamento de ajustes, configuração, de campos, de formulários, etc., de processo, tá? Tem\n[LOCUTOR 27]: que ter essas reuniões também. Aqui, mais uma vez, vai depender aqui do processo para ver se realmente já está bem mapeado, está de acordo com o que foi desenhado, está atendendo a expectativa, etc. Então, aqui temos cinco agendas, um para cada refinamento, dependendo da expectativa\n[LOCUTOR 3]: de\n[LOCUTOR 27]: processo, a gente consegue também diminuir esse tempo dentro dessas milhões de refinamentos. Mais uma vez, vai depender o andamento e o processo aqui das duas\n[LOCUTOR 3]: pontas.\n[LOCUTOR 27]: Finalizando de novo, depois que fizer todo esse refinamento lá e todos os testes, é feito o que há, né, e finalizando as duas últimas jornadas, assim, mais uma vez, tá, os refinamentos 1, 2 e 3,\n[LOCUTOR 3]: que\n[LOCUTOR 27]: são mais aproximadamente 15 dias também, que eu coloquei em vermelho, tá, porque é onde se faz as configurações das solicitações, né, o do [EMPRESA], identifica algum ajuste. Pode ser que esse ajuste seja algo simples, que é feito até na hora, em real-time, na agenda, mas pode ser alguma coisa que exija a atuação do time de produto, onde vai para a esteira, vai para o roadmap, pode ser demorado. Então, essas são as duas atividades que realmente demandam tempo, fora as agendas que a gente vai ter durante todo o andamento do projeto. Passando aqui para a parte de [PESSOA], realmente é o final de configuração, tá? Isso é com o time que vai dar o suporte interno aí, como em vocês, de participação durante a produção. Isso aqui pode ser a qualquer tempo, porque tá 9 dos 6, mas pode ser a qualquer tempo assim que entrar em produção. E o [PESSOA] mesmo estava marcado aqui para o dia 11 dos 6, mas acredito que dá para subir isso aqui assim que a gente já tiver iniciado o projeto, tá? Então... Aqui eu posso dizer que esse bolado aqui já é, a reprodução já tá funcionando, tá? Então, acredito que dá pra subir isso aqui lá pro finalzinho de maio, né, maio.\n[LOCUTOR 3]: Tá bom.\n[LOCUTOR 27]: Você\n[LOCUTOR 3]: manda com os ajustes que você conseguir, reduzindo o máximo entre as datas? Considerando que nós vamos fazer o início no dia 9, que seria semana que vem, já que sexta a gente tá planejando a live do... a admissão. Só pra eu passar pro meu coordenador e pro meu gerente pra eles darem uma olhada, tá bom?\n[LOCUTOR 27]: [LOCAL].\n[LOCUTOR 3]: Tá, então, que estamos de pendência do [EMPRESA], eu passar o TAI, vocês verificarem o ACM Admin, e [EMPRESA], o ajuste do cronograma com a redução das datas que você conseguir.\n[LOCUTOR 27]: Agora,\n[LOCUTOR 3]: [PESSOA] apontou. Como estamos? Não estamos te ouvindo. Tá mudo. Seu microfone tá fechado.\n[LOCUTOR 31]: Agora\n[LOCUTOR 3]: eu vou.\n[LOCUTOR 31]: Adoro uma novidade aqui.\n[LOCUTOR 3]: Cada\n[LOCUTOR 31]: mergulho é um flash. Eu peguei um slide aqui. Eu tenho uma apresentação maior, mas assim, como a gente aqui é um resumo, vamos focar\n[LOCUTOR 3]: nisso,\n[LOCUTOR 31]: tá? Então, nesse momento, a gente tem 31% do projeto como um todo concluído, ou seja, a gente já ultrapassou toda a primeira parte. A gente fez todos os workshops, então, nesse momento, Faz uma configuração ainda após o workshop de todas essas regras que foram validadas e parametrizadas. O nosso próximo agenda que é amanhã é treinamento inicial.\n[LOCUTOR 3]: \n[LOCUTOR 24]: gente está dentro do nosso segundo ou terceiro cronograma, não lembro mais. A gente\n[LOCUTOR 31]: está dentro da expectativa. Está indo tudo bem. Então, olhando aqui aquele outro cronograma que você pediu para eu fazer, a gente ultrapassou essa etapa aqui do explorar. já posso pôr\n[LOCUTOR 3]: aqui\n[LOCUTOR 31]: como concluído, e a gente começa o treinamento inicial,\n[LOCUTOR 3]: que\n[LOCUTOR 31]: é uma primeira agenda que vai ensinar como o time vai fazer os testes,\n[LOCUTOR 3]: e\n[LOCUTOR 31]: depois a gente segue aqui para os testes unitários, testes integrados, o último treinamento, e após isso tem o [LOCAL], aquela mudança, o [EMPRESA] da empresa.\n[LOCUTOR 3]: O [EMPRESA] da empresa?\n[LOCUTOR 31]: A mudança de...\n[LOCUTOR 3]: \n[LOCUTOR 20]: assim, aí é uma questão também de como o time consegue harmonizar as duas atividades, que seria começar a fazer um treinamento interno para os gestores e para os colaboradores, como eles vão acessar o ponto e continuar as agendas conosco. [LOCUTOR 24]: gente recomenda que pelo menos a gente passe pela fase\n[LOCUTOR 31]: dos testes, porque a visão do próprio time amplia, né? Consegue enxergar melhor início e fim de processo ali. para poder começar a fazer essa mudança. A questão dos dispositivos lá que você me perguntou, a gente já fez ali um teste com o pessoal, já conseguiu habilitar um\n[LOCUTOR 3]: dispositivo.\n[LOCUTOR 31]: É uma etapa já vencida de conhecimento. A coletada facial, eu te respondi ontem, dá para fazer a coleta já pelo celular, mas a partir do momento que faz a coleta pelo celular,\n[LOCUTOR 3]: você\n[LOCUTOR 31]: abre a possibilidade de bater, o ponto via celular. Então preciso entender o que é mais interessante para vocês. E isso o próprio time técnico consegue orientar. Mas do nosso ponto de vista, estamos dentro do cronograma, as atividades estão sendo seguidas. Eu fiz um estudo ali com as datas que você abriu, mas eu não consegui adiantar o suficiente\n[LOCUTOR 3]: para\n[LOCUTOR 31]: recuperarmos o que perdemos. Então, mantivem\n[LOCUTOR 3]: as\n[LOCUTOR 31]: agendas, porque já está planejado. Qualquer coisa que a gente\n[LOCUTOR 3]: conseguir\n[LOCUTOR 31]: adiantar, a gente vai usar, na verdade, para ajustes internos,\n[LOCUTOR 3]: para a\n[LOCUTOR 31]: tetragemia de\n[LOCUTOR 3]: vocês. [EMPRESA]. [PESSOA], eu vou precisar da sua ajuda. Olhando hoje o cronograma, aí com recomendação sua. Beleza, [PESSOA] [PESSOA], obrigada. Recomendação sua, porque vocês vão ter mais experiência que a gente. Vai ter um momento que a gente vai precisar chamar todos os colaboradores para poder coletar o ponto, a facial e outras coisas assim. Em que momento do cronograma você acha que é o recomendado a gente fazer isso?\n[LOCUTOR 31]: A gente indica normalmente nesse momento de cutover, que seria entre 7 de abril e 15 de abril. Mas, a depender da maturidade do time nesse momento, está vendo, acabou o treinamento final, a gente entende que já é um momento que vocês já podem começar...\n[LOCUTOR 3]: Fazer os cadastros.\n[LOCUTOR 31]: Criar o plano e já começar a fazer os cadastros, porque aqui nesse período, Eu marquei algumas reuniões de plantão de dúvidas para vocês.\n[LOCUTOR 3]: \n[LOCUTOR 20]: vão surgir dúvidas e aí a gente já tem ali um tempo separado. E lógico, vocês têm o e-mail como comunicação, qualquer coisa, qualquer dor, pode ir mandando que a gente vai respondendo. Mas\n[LOCUTOR 31]: a gente costuma utilizar esse período aqui, tá? É muito de empresa para empresa, depende. Às vezes vocês têm muita gente para coletar e precisa começar antes. O que acontece? Para fazer a coleta, a gente tem que estar com a liberação da base de produção feita já. E a gente só libera essa base quando a gente está pronto para fazer o cutover, porque uma vez que a gente começa o cutover, a gente não mexe mais no que a gente já fez em homologação. Por isso que esse costuma ser o momento de liberação da coleta da facial. Mas, a depender da urgência, dá para a gente fazer um combinamento ali. entre o time técnico e o time operacional, olha, a gente vai liberar, mas é só para a coleta da facial, não mexam na base para a gente não ter nenhum problema ali de ter que limpar\n[LOCUTOR 3]: de\n[LOCUTOR 31]: novo a base.\n[LOCUTOR 3]: [EMPRESA]. [PESSOA], você tem dúvida de algum outro processo que você sabe que vai ser feito? Só para você ter ideia de em que momento ou ainda não? Que a minha preocupação era\n[LOCUTOR 61]: essa,\n[LOCUTOR 3]: quando que a gente vai fazer o cadastro de facial. Mas você tem mais alguma dúvida, algum outro ponto?\n[LOCUTOR 61]: A gente está levantado sobre fazer a transferência, o início de cada processo, com fases, né? Como um comédia, depois um hospital, uma químice [LOCAL].\n[LOCUTOR 3]: \n[LOCUTOR 10]: dúvida é a seguinte, quando, por exemplo, se a gente liberar somente na unidade que a gente tem o nome [EMPRESA], A gente consegue usar o [PESSOA] aqui em separado para fechar a nossa Folha do Mês, por exemplo? E esse outro, o Agora, para fechar só o Comet? Tem algum problema nisso? É\n[LOCUTOR 31]: trabalho de vocês, né? Trabalho braçal de vocês. Você pode usar dois pontos em paralelo. O problema é assim, você não pode ter batida nos dois em produção ao mesmo tempo, porque você vai gerar [PESSOA]\n[LOCUTOR 3]: nos\n[LOCUTOR 31]: dois. Você não pode gerar [PESSOA] nos dois.\n[LOCUTOR 61]: Ah, não, minha dupla não é os do [LOCAL], por exemplo,\n[LOCUTOR 31]: s\n[LOCUTOR 33]: quatro filiais. \n[LOCUTOR 15]: s\n[LOCUTOR 9]: uma delas está usando o [LOCAL] no momento.\n[LOCUTOR 3]: Tá,\n[LOCUTOR 31]: isso eu expliquei para a [PESSOA] também. O que acontece? A gente aqui, como implantação, o contrato de vocês prevê um\n[LOCUTOR 3]: Go\n[LOCUTOR 31]: Live e uma operação assistida. Então, assim, vocês podem optar por fazer o projeto, fazer um Go Live com menos vidas, com uma unidade só. Porém, eu vou acompanhar vocês em produção nesse único Go Live. Os próximos, as próximas viradas vocês terão que fazer com o conhecimento de vocês internamente, com o time de vocês. A gente só acompanha a primeira onda, porque isso está em contrato. Em contrato não foi previsto um faseamento, porque aí o time ficaria\n[LOCUTOR 3]: dispon\n[LOCUTOR 19]: mais tempo do que o previsto. Não sei se vale ter uma conversa com a Amanda, se for o caso, se acrescentaria essas novas ondas, mas nesse momento o que eu tenho com vocês é um contrato de fazer a virada em produção uma única vez, não por fases.\n[LOCUTOR 61]: [EMPRESA]. Talvez tenha confiança, então, do macho. Imagino. Mas [LOCAL] é o maior...\n[LOCUTOR 3]: É.\n[LOCUTOR 31]: Não deveria, porque assim, vocês estarão treinados para utilizar o ponto. Então, a virada... Na verdade, o que é a virada? A virada é você iniciar a batida dos colaboradores no ponto no dia da competência. Essa é a virada. A questão é, se você teve uma primeira experiência e você teve alguns bugs ou algumas dificuldades ali, normalmente é o que acontece, tá? O que acontece de incidente durante a operação assistida? 99% é a usabilidade da solução. Quase nada é... 1% pode ser uma questão técnica, mas 99% é a usabilidade. É dificuldade de acesso, de batida, a descoberta do novo aplicativo, a curva de aprendizado. Normalmente é o que a gente passa ali. Só que a nossa operação assiste o time do DP. Então, o time do DP vai ter dificuldades. Você precisa incluir uma pessoa nova. Não está integrando. Onde pode estar o problema? Coisas desse gênero. A gente acompanha a primeira onda de vocês. A operação assistida nossa vai do início. da batida até o fechamento. Então a gente faz o fechamento com vocês para enviar para a folha. Então a gente faz o processo inteiro. Então, em teoria, vocês teriam já essa experiência para aplicar em novas ondas. Mas a gente não recomenda, realmente, a gente não recomenda. Se é sobre... A gente quer fazer um teste antes de colocar todo mundo em produção, é um argumento válido. Mas se vocês estiverem tranquilos, o time já tiver com conhecimento, estiver seguro, porque é uma plataforma SaaS. Então, a longo prazo, ela realmente vai se tornar a ferramenta de vocês. O objetivo dos nossos treinamentos é que vocês se tornem proprietários da sua operação dentro do agora. Que ela se torne realmente uma ferramenta para que vocês tenham independência. São raríssimos os casos que os clientes fazem em ondas. É bem raro mesmo. Normalmente, isso independe da quantidade de vidas, porque o nosso calcanhar nunca é a quantidade de vidas, é sempre a quantidade de regras que vocês têm, principalmente quando se refere a sindicatos. Então, se vocês têm muitos modelos de escala, muitas regras sindicais, muitos tipos diferentes de jornadas, e eu sei que vocês têm uma quantidade considerável, é onde está realmente a dor. Nunca é na quantidade de vidas. A quantidade de pessoas não é o nosso grande impacto. É sempre a quantidade de regras.\n[LOCUTOR 3]: Beleza.\n[LOCUTOR 31]: Beleza. Expliquei ou compliquei?\n[LOCUTOR 3]: [LOCAL] muito.\n[LOCUTOR 31]: Desculpa. Deu\n[LOCUTOR 3]: pra entender, Siliki? Tranquilo? \n[LOCUTOR 5]: falando aqui\n[LOCUTOR 31]: e t\n[LOCUTOR 42]: no mundo.\n[LOCUTOR 31]: Mas é isso. Qualquer coisa também, [PESSOA], pode ir combinando ali com o time, com o [PESSOA], com o [PESSOA]. Eles são pessoas técnicas, então assim, eles podem até te apresentar um ponto de vista mais técnico, porque eles agora estão imersos nas suas regras, eles sabem muito mais do que eu. Eles conseguem te dar um cenário melhor, tá?\n[LOCUTOR 61]: Você não pode deixar que a nossa dúvida era mais sobre precaução mesmo, dessa questão de pluralidade.\n[LOCUTOR 31]: [EMPRESA]. Então\n[LOCUTOR 3]: é isso, acho que\n[LOCUTOR 31]: fechamos.\n[LOCUTOR 3]: [PESSOA] e [PESSOA], eu vou pedir o cronograma atualizado, que vocês já marcaram lá as datas que já foram, tudo certinho, no dia que foi. Só para eu\n[LOCUTOR 27]: anotar\n[LOCUTOR 3]: o meu cronograma e passar para o meu condenador,\n[LOCUTOR 27]: por\n[LOCUTOR 3]: favor.\n[LOCUTOR 27]: [LOCAL], eu te passo esse cronograma amanhã, tá?\n[LOCUTOR 31]: Tá.\n[LOCUTOR 3]: [EMPRESA], [PESSOA].\n[LOCUTOR 31]: Eu vou incluir todo mundo em todas as rendas ali que eu enviei as datas, tá?\n[LOCUTOR 3]: Tá bom.\n[LOCUTOR 31]: [LOCUTOR 2]: não tenho o mesmo time, vai entrar mais gente? Alguém saiu do time? do time? Do que eu tenho ali nas agendas? Você quer validar comigo quem são as pessoas?\n[LOCUTOR 3]: O\n[LOCUTOR 31]: que eu tô\n[LOCUTOR 3]: vendo nas agendas daqui, tá eu, [PESSOA],\n[LOCUTOR 61]: e\n[LOCUTOR 3]: só o [PESSOA]. Vai precisar colocar mais alguém, [PESSOA]?\n[LOCUTOR 61]: Essa agenda que ela fala é do ponto, né?\n[LOCUTOR 3]: É. Não, precisa não, [PESSOA]. Qualquer coisa a gente encaminha\n[LOCUTOR 31]: A agenda está aberta para vocês acrescentarem pessoas também, então fiquem à vontade se quiser incluir mais gente, tá bom?\n[LOCUTOR 3]: Tá bom.\n[LOCUTOR 31]: Então vou enviar hoje os convites e\n[LOCUTOR 3]: vou\n[LOCUTOR 31]: te mandar atualizado aqui\n[LOCUTOR 3]: com\n[LOCUTOR 31]: a data, tá bom?\n[LOCUTOR 3]: Tá bom.\n[LOCUTOR 31]: E o termo de aceite da fase, como a gente ultrapassou a primeira fase, eu mando sempre um termo de aceite\n[LOCUTOR 3]: por\n[LOCUTOR 31]: fase, porque nessa fase foi concluída. Ah,\n[LOCUTOR 3]: tá. Tá bom? Bom\n[LOCUTOR 31]: dia, gente. Bom dia para vocês. Boa semana. Para\n[LOCUTOR 3]: vocês também.\n[LOCUTOR 31]: [PESSOA], tchau.",
+  "texto_filtrado": "[LOCUTOR 31]: [PESSOA] agora?\n[LOCUTOR 31]: Tem essa vantagem de estar pertinho.\n[LOCUTOR 3]: Exatamente. Esse que tá como consultor de vendas é quem?\n[LOCUTOR 22]: robôzinho. Ele é um\n[LOCUTOR 12]: que eu acho que é da Amanda, porque ele é consultor de vendas, né?\n[LOCUTOR 3]: Amanda.\n[LOCUTOR 31]: [EMPRESA]. E acho que ele vai recolhendo informações pra melhorar o atendimento do time.\n[LOCUTOR 3]: Ah, tá.\n[LOCUTOR 3]: então tá faltando na [EMPRESA] o [PESSOA] e o [PESSOA] também, né?\n[LOCUTOR 3]: eu chamar eles aqui. Eu vou lá no RH, enquanto isso eu vou chamando o [EMPRESA], já volto, peraí.\n[LOCUTOR 31]: Vai lá, tá bom. Eu vi uma explicação desse robozinho, mas eu não lembro onde. Ah, tá aqui no próprio chat. Essa medida é um IA da [EMPRESA], [EMPRESA], com a finalidade de gerar atas.\n[LOCUTOR 57]: Ah, tipo o Gemini, né? As anotações do Gemini, na verdade.\n[LOCUTOR 31]: Mas tem esse Tots, consultor de vendas, tá vendo?\n[LOCUTOR 31]: um assistente de AI. Eu não tive tempo ainda de estudar na Unity os assistentes de AI. Eu queria tanto começar a construir alguns aqui. Não tenho tempo.\n[LOCUTOR 57]: É muita coisa, né? A gente tem que fazer o que dá, e o que a gente quer, a gente não tem tempo para fazer.\n[LOCUTOR 31]: usar para isso.\n[LOCUTOR 31]: eu queria muito que\n[LOCUTOR 57]: construíssemos\n[LOCUTOR 31]: [PESSOA].\n[LOCUTOR 31]: Ah, ele manda um recado ainda, olha. Educado ele, muito fino.\n[LOCUTOR 3]: Voltei, tá faltando só o Tainá.\n[LOCUTOR 61]: eu mandei um teste para o Tainá aqui. Nós tivemos algumas mudanças internas na empresa que até o [PESSOA] não faz mais parte do grupo, tá? E a Tainá agora que tá no editorial não vai poder participar da reunião, né? Tá\n[LOCUTOR 3]: a gente consegue seguir sem ela?\n[LOCUTOR 3]: ela que é que remarca?\n[LOCUTOR 61]: É, porque a [PESSOA] que fala que vai fazer mais a parte dela do sistema, ela tem recrutamento agora também.\n[LOCUTOR 3]: Entendeu?\n[LOCUTOR 61]: Eu acho que ninguém vai conseguir fazer agora a parte dela, a não ser que alguém simule a parte dela aí.\n[LOCUTOR 3]: Tá, mas como é só status, eu pego as demandas que estão com ela, porque eu acho que a parte dela com [PESSOA] [PESSOA], está faltando só ela mandar as evidências, né, [PESSOA] [PESSOA]? Então, eu anoto aqui\n[LOCUTOR 57]: o que\n[LOCUTOR 3]: estiver dependente para a Tainá e eu passo para ela depois, não tem problema.\n[LOCUTOR 61]: Então,\n[LOCUTOR 3]: vamos começar pelo\n[LOCUTOR 27]: [LOCUTOR 1]: [PESSOA], da [EMPRESA]. Bom, a gente fez as configurações, a Tainá fez o cadastro dos gestores e, mesmo assim, a integração não puxou. a [PESSOA] [PESSOA] mandou o manual para eu poder refazer a integração, a gente refez e ainda assim não está puxando. Até sugeri a gente fazer uma reunião junto com a equipe técnica, que aí junta a infra, junta todo mundo para poder fazer, mas [PESSOA] [PESSOA] parece comentou que não tem como, que a gente precisa mandar as evidências para ela poder mandar para abrir um chamado, eu acho, para a gente conseguir analisar. Só que eu preciso que ela envie essas evidências, então eu não consegui mandar ainda. Não tem outra forma, [PESSOA], não tem como, [PESSOA], desculpa, [PESSOA] [PESSOA], Não tem como a gente conectar? Vocês dão uma olhada no ambiente aqui ou alguma coisa do tipo?\n[LOCUTOR 57]: Então, tu não tem acesso ao RM para coletar essas... É só a Tainá que tem mesmo, tá? Porque, assim, a gente só consegue chamar a equipe técnica para a agenda depois que a gente fizer a abertura do chamado, eles constatarem\n[LOCUTOR 57]: realmente tem alguma questão e aí, sim, a gente consegue trazer eles para a reunião. Antes disso, eu não consigo trazer ninguém do time técnico para a agenda, tá? É um procedimento aqui que a gente tem mesmo, enfim. Então, preciso passar pela abertura do ticket para eles validarem. Por quê? Pode ser que seja algo relativamente tranquilo e eles consigam resolver lá, mas a gente precisa das evidências para validar se as integrações estão de forma correta, os IDs estão inseridos de forma correta lá dentro do RM, se está tudo ativado, parametrizado, enfim. Se a ativação foi, de fato, realizada. Aí, preciso também dos prints ali, das requisições que foram criadas e que estejam com o status de aprovada para a gente validar realmente se é se tá no fluxo correto, se foi aprovado, se deu tudo certo. E aí, pra gente levar essas evidências pro time, pra eles validarem. Se tá tudo certo, por que não tá subindo? Aí eles investigam e eles vão trazendo devolutivos pra nós. Se for algo muito crítico, sem resolução, a gente vai pra reunião. Mas,\n[LOCUTOR 3]: normalmente,\n[LOCUTOR 57]: eles conseguem resolver ali a partir do ticketing aberto.\n[LOCUTOR 57]: Então, eu vou abrir o chamado hoje, pode ser que eles respondam amanhã, enfim, né? Eu vou tentar priorizar, tá? Eu já vou abrir com priorização máxima, enfim, que está impactando o uso, para priorizarem essa questão do ticket, tá?\n[LOCUTOR 57]: E aí, conforme eu trouxe para vocês já na semana passada, né? A partir de segunda-feira, eu já não estou mais aqui no time de on-board, né?\n[LOCUTOR 57]: migrar para um outro time.\n[LOCUTOR 16]: vocês ficarão com um outro analista. Então eu já quero encaminhar tudo isso antes de passar para essa nova pessoa, meio caminho andado, pelo menos, para que vocês não precisem também ficar, a gente não fique nessa questão de vai e vem, enfim, já deixar tudo encaminhado para essa pessoa fazer apenas o acompanhamento e as devolutivas para vocês, tá? Já adianto também que esse novo analista, ele não vai fazer atendimento por WhatsApp, tá? Eu abri uma sessão para vocês, mas aqui a gente não atende de fato, tá? Estou lá no grupo, enfim, né? Eu abri essa sessão, é uma coisa totalmente minha, tá? Só para que você entenda que, né, se vier uma outra pessoa e a gente tem... [LOCAL], mas a... Enfim, a [PESSOA] não quis entrar no grupo... de opção, assim, é o que eu tenho por entrar e fazer esse atendimento com vocês, tá? É totalmente iniciativa minha. Então, no geral, o padrão de atendimento segue por e-mail aqui, tá?\n[LOCUTOR 3]: A gente tinha planejado pra fazer a virada, né, praticamente o Google Live no dia 4 ou 5, não tô me lembrando agora. Só que como a integração não deu certo, a gente provavelmente vai atrasar isso aí. Meu plano é fazer essa virada essa semana ainda, então...\n[LOCUTOR 3]: você falou, vai priorizar junto com o suporte, a gente vai priorizar aqui também.\n[LOCUTOR 57]: Só para\n[LOCUTOR 3]: a gente tentar virar isso igual você falou antes e você sair, porque senão tem que fazer todo o repasse, outra pessoa vai chegar, vai estar perdida\n[LOCUTOR 16]: conseguir\n[LOCUTOR 3]: me mandar, eu vejo uma outra forma, vejo outra pessoa que tenha acesso e te mando isso ainda hoje, se possível pela manhã.\n[LOCUTOR 57]: [LOCAL]. O Teupar, que eu esqueci o nome dele da [EMPRESA] aí também, o [EMPRESA],\n[LOCUTOR 57]: tem acesso ao RM também. Talvez ele pudesse apoiar a gente nessa ponta de pegar as informações ali. Enfim, acredito que ele tenha, porque a primeira integração foi ele que rodou\n[LOCUTOR 57]: Então, pode ser que ele tenha esse acesso ali para pegar essas evidências para a gente, caso a [EMPRESA] não consiga, enfim.\n[LOCUTOR 36]: para a gente tentar acelerar, tá? O [PESSOA] veio hoje, [PESSOA]? Eu fui\n[LOCUTOR 61]: e nem reparei. Ele vem amanhã.\n[LOCUTOR 3]: admissão.\n[LOCUTOR 57]: Só rapidinho, a gente estava com a questão ali do acesso da Tainá, que foi normalizado também. Na verdade,\n[LOCUTOR 3]: era um redirecionamento do site, que ele estava direcionando para uma parte, quando já está alugado. Por isso que eu não ia nem para frente, nem para trás. Mas aí eu mostrei para ela, e aí está funcionando normal.\n[LOCUTOR 57]: [LOCAL]. Show de bola. Vou atualizar então. Obrigada. De\n[LOCUTOR 3]: Agora foi. [LOCAL].\n[LOCUTOR 27]: Bom, pessoal, estou retornando ao projeto. Estava com duas semaninhas aí de descanso, de férias. Retornando agora, peguei lá, fiz um resumo com o [EMPRESA]. O [EMPRESA] estava apoiando vocês aí.\n[LOCUTOR 17]: a gente está na fase da admissão digital agora de grado em produção, fazendo os testes finais. O\n[LOCUTOR 27]: time aqui agora está com Fazer uma configuração, ter um probleminha nas jornadas públicas Foi resolvido, tá? Então, eles estão finalizando hoje esses testes lá com o time O time tá finalizando, e assim, hoje, no final do dia Eu consigo ter uma posição realmente da virada Estou tudo certinho, tudo correndo Vê se o e-mail tá à margem em relação ao tal do [EMPRESA] de mim Passei pro consultor fluído pra validar, tá? Então, pendente faltava só essa questão do tal do [EMPRESA] de mim E a questão do TAI, não sei se você conseguiu ver, se ele conseguiu\n[LOCUTOR 27]: pedi,\n[LOCUTOR 27]: aí. Tá? É simples, tá? Se quiser depois... Tá complicado, você me ajuda comigo agora, mas tem problema, você me chama.\n[LOCUTOR 17]: aí a gente pode resetar a senha dele, tá? Eu\n[LOCUTOR 27]: te mando o link do Thai, ele acessa, pede pra restatar a senha, ele restata. E aí, com o usuário e a senha dele, a gente configura na aplicação o Thai, tá? Mas\n[LOCUTOR 3]: a gente comentou o Thai\n[LOCUTOR 27]: na semana\n[LOCUTOR 27]: passar, então\n[LOCUTOR 27]: preciso que\n[LOCUTOR 3]: ele me responda. Eu vou cobrar ele hoje? E o admissão tá no mesmo cenário do [EMPRESA]. A gente tava com o [PESSOA] planejado pra essa semana, porque a virada pra produção era pra ser de sexta. Não sei se de quinta pra sexta, ou sexta pra segunda, não sei. Sei que tá atrasado, que a gente teve uns problemas. Mas estamos na mesma situação. Se a gente conseguir configurar a produção de hoje pra amanhã, tá tudo certo o nosso [PESSOA] na quinta.\n[LOCUTOR 27]: Legal, legal. Aí a gente faz um... Os\n[LOCUTOR 3]: mock-tests\n[LOCUTOR 3]: quinta,\n[LOCUTOR 27]: né? E aí...\n[LOCUTOR 3]: Vira\n[LOCUTOR 27]: na quinta. Isso.\n[LOCUTOR 3]: Em relaç\n[LOCUTOR 3]: Nossa, só o Thai. E seus é validar aquele update do WCM admin. O resto é configuração com vocês. Não temos nada não. [PESSOA], você tem alguma pendente em relação à admissão?\n[LOCUTOR 61]: Alguma coisa\n[LOCUTOR 3]: que você precisa saber?\n[LOCUTOR 61]: Isso.\n[LOCUTOR 3]: [LOCAL]. [PESSOA], com você também a demissão digital. Tinha mandado um\n[LOCUTOR 27]: e-mail para o\n[LOCUTOR 3]: [EMPRESA] pedindo um cronograma, não sei se foi você ou se foi ele que mandou, e ele mandou um cronograma que termina em julho. Nós não conseguimos um cronograma que termine em julho, na verdade estou com cobrança e a gente precisa de um cronograma que termine no máximo em abril.\n[LOCUTOR 27]: Eu vi que\n[LOCUTOR 3]: ele pediu no e-mail para eu justificar, é por isso, o projeto já está atrasado.\n[LOCUTOR 3]: Todas as jornadas a gente precisa que termine no máximo, em abril. Só que em relação a quais demandas eu acho que podem ser alteradas em relação à data, aí é com você. Se você falar\n[LOCUTOR 3]: reunião de trabalho, refinamento 1, 2 e 3 pode ser só uma, cara, o que você falar? Desde que a gente termine em abril, a gente está priorizando o projeto, então, Se tiver que reduzir bem as datas, se tiver que dar um gás, não tem problema, a gente vai, t\n[LOCUTOR 14]: disponível.\n[LOCUTOR 3]: Então, pode diminuir o cronograma até abril.\n[LOCUTOR 27]: Você tá vendo minha telinha aqui?\n[LOCUTOR 27]: Tá, perfeito. Isso aqui é o status, essas são as fases aqui, os\n[LOCUTOR 3]: marcos\n[LOCUTOR 27]: e projetos, tá? Do cronograma. Parte de levantamento, configuração, homologação, go live e pause, né? Parte de levantamento aqui, praticamente, a gente vai iniciar só com copy mesmo, só para realmente formalizar, né? Teoricamente, tá aqui na próxima tela, eu vou mostrar, se não me engano, tá aproximando aqui, vem o kick-off.\n[LOCUTOR 3]: A gente,\n[LOCUTOR 27]: fim de ano, tá? O que foi acordado lá atrás não tem como sair, ser quebrado. Pra iniciar o kick-off do DEMISSÃO, realmente a gente tem que estar em produção com a gente emissão digital. Acredito que essa semana a gente consegue matar isso, maravilha, semana que vem a gente faz o kick-off. que é uma parte de aguentamento só essa, porque as questões de credenciais, essas questões aqui todinhas, já temos.\n[LOCUTOR 3]: mesma\n[LOCUTOR 27]: da admissão, né? A pergunta que eu preciso fazer é, os usuários serão os mesmos? O pessoal da admissão e da admissão serão os mesmos?\n[LOCUTOR 3]: [PESSOA],\n[LOCUTOR 61]: É que acontece, nós temos um responsável para admissão e outro para demissão, mas, assim, esses, todos os usuários que a gente passou, vai utilizar a\n[LOCUTOR 23]: novo, né, [PESSOA]?\n[LOCUTOR 27]: [LOCAL]. Então, a única exigência que seria a questão dos usuários já estar todos configurados, sem problema, vida que segue. E aqui vem a parte de configuração, tá? Já vou passar para a próxima tela, vou explicar aqui, que é a parte mais demorada, realmente, braçal da configuração. Bom, aqui é uma telinha do cronograma, tá? Eu trouxe justamente mais detalhado esse passo a passo justamente por causa dessa parte, tá? Eu marquei aqui em vermelho, tá? A homagem. Essa questão de teste de homologação de jornadas, porque ele, infelizmente, é nessa faixa de mais ou menos 25 dias, tá? Não tem como fugir pé, braçal. É configuração, testa, QA, volta, erra, acerta, manda pessoal de produto, não tem como diminuir esses 25 dias, tá? Aqui no cronograma que foi passado, acho que foi a [PESSOA], não sei se foi o [PESSOA] que passou esse cronograma, tá? É uma previsão, realmente. Tá aqui, esses prazos aqui, tá do dia 1 do 4 a 5 do 5, tá? Isso inicia no 1 do 4, porque tem outras atividades aqui de validação, que são várias reuniões contínuas, tá? Então,\n[LOCUTOR 3]: quando\n[LOCUTOR 27]: você falou que eu saberia dizer, então realmente nesse sentido, tá? Aqui tem as validações de requisitos de processos, tá? No cronograma, colocaram um para cada dia, cada semana seria uma validação. Eu acredito que, dependendo do tamanho do processo, aí eu não sei se é com o [EMPRESA], se já está bem desenhada essa questão do processo de emissão, se estiver bem desenhada, a gente marca isso aqui num dia.\n[LOCUTOR 4]: depender da maturidade, do conhecimento do processo mesmo de vocês. Entre vocês mesmos, o processo ao máximo está desenhado, está redondinho, é isso. se estiver bem redondinha a questão de processo de demissão sem\n[LOCUTOR 27]: justa causa, processo de demissão com justa causa, processo de solicitação de demissão pelo funcionário, tudo isso estiver mapeado, redondinho, isso é um pulo. Então, essa validação a gente consegue matar em uma semana e já sobe os dias. Então,\n[LOCUTOR 7]: as duas contas, né? A gente tem que dar as mãos aqui, um com o outro, dar as mãos aqui e seguir nesse sentido, né? Então, a diminuição de tempo vai se caindo muito nesse sentido, tá? Então, a gente pode subir aqui, caso essa validação esteja bem mapeada, a gente pega, vai passar toda essa validação para dentro da aplicação. fazendo as configurações do nosso QR aqui dentro, e aí a gente faz uma demonstração da jornada, e aí,\n[LOCUTOR 3]: tendo\n[LOCUTOR 27]: essa demonstração dando ok, a gente vai passar para fazer os testes de todas as jornadas, todas as configurações, né?\n[LOCUTOR 17]: aí a gente vai ter reunião de refinamento. Essa é uma reunião com o time de vocês também. Então, o refinamento de ajustes, configuração, de campos, de formulários, etc., de processo, tá? Tem\n[LOCUTOR 27]: que ter essas reuniões também. Aqui, mais uma vez, vai depender aqui do processo para ver se realmente já está bem mapeado, está de acordo com o que foi desenhado, está atendendo a expectativa, etc. Então, aqui temos cinco agendas, um para cada refinamento, dependendo da expectativa\n[LOCUTOR 27]: processo, a gente consegue também diminuir esse tempo dentro dessas milhões de refinamentos. Mais uma vez, vai depender o andamento e o processo aqui das duas\n[LOCUTOR 3]: pontas.\n[LOCUTOR 27]: Finalizando de novo, depois que fizer todo esse refinamento lá e todos os testes, é feito o que há, né, e finalizando as duas últimas jornadas, assim, mais uma vez, tá, os refinamentos 1, 2 e 3,\n[LOCUTOR 27]: são mais aproximadamente 15 dias também, que eu coloquei em vermelho, tá, porque é onde se faz as configurações das solicitações, né, o do [EMPRESA], identifica algum ajuste. Pode ser que esse ajuste seja algo simples, que é feito até na hora, em real-time, na agenda, mas pode ser alguma coisa que exija a atuação do time de produto, onde vai para a esteira, vai para o roadmap, pode ser demorado. Então, essas são as duas atividades que realmente demandam tempo, fora as agendas que a gente vai ter durante todo o andamento do projeto. Passando aqui para a parte de [PESSOA], realmente é o final de configuração, tá? Isso é com o time que vai dar o suporte interno aí, como em vocês, de participação durante a produção. Isso aqui pode ser a qualquer tempo, porque tá 9 dos 6, mas pode ser a qualquer tempo assim que entrar em produção. E o [PESSOA] mesmo estava marcado aqui para o dia 11 dos 6, mas acredito que dá para subir isso aqui assim que a gente já tiver iniciado o projeto, tá? Então... Aqui eu posso dizer que esse bolado aqui já é, a reprodução já tá funcionando, tá? Então, acredito que dá pra subir isso aqui lá pro finalzinho de maio, né, maio.\n[LOCUTOR 27]: Você\n[LOCUTOR 3]: manda com os ajustes que você conseguir, reduzindo o máximo entre as datas? Considerando que nós vamos fazer o início no dia 9, que seria semana que vem, já que sexta a gente tá planejando a live do... a admissão. Só pra eu passar pro meu coordenador e pro meu gerente pra eles darem uma olhada, tá bom?\n[LOCUTOR 27]: [LOCAL].\n[LOCUTOR 3]: Tá, então, que estamos de pendência do [EMPRESA], eu passar o TAI, vocês verificarem o ACM Admin, e [EMPRESA], o ajuste do cronograma com a redução das datas que você conseguir.\n[LOCUTOR 27]: Agora,\n[LOCUTOR 31]: Agora\n[LOCUTOR 31]: Adoro uma novidade aqui.\n[LOCUTOR 3]: Cada\n[LOCUTOR 31]: mergulho é um flash. Eu peguei um slide aqui. Eu tenho uma apresentação maior, mas assim, como a gente aqui é um resumo, vamos focar\n[LOCUTOR 3]: nisso,\n[LOCUTOR 31]: tá? Então, nesse momento, a gente tem 31% do projeto como um todo concluído, ou seja, a gente já ultrapassou toda a primeira parte. A gente fez todos os workshops, então, nesse momento, Faz uma configuração ainda após o workshop de todas essas regras que foram validadas e parametrizadas. O nosso próximo agenda que é amanhã é treinamento inicial.\n[LOCUTOR 31]: está dentro da expectativa. Está indo tudo bem. Então, olhando aqui aquele outro cronograma que você pediu para eu fazer, a gente ultrapassou essa etapa aqui do explorar. já posso pôr\n[LOCUTOR 3]: aqui\n[LOCUTOR 31]: é uma primeira agenda que vai ensinar como o time vai fazer os testes,\n[LOCUTOR 31]: depois a gente segue aqui para os testes unitários, testes integrados, o último treinamento, e após isso tem o [LOCAL], aquela mudança, o [EMPRESA] da empresa.\n[LOCUTOR 3]: O [EMPRESA] da empresa?\n[LOCUTOR 31]: A mudança de...\n[LOCUTOR 20]: assim, aí é uma questão também de como o time consegue harmonizar as duas atividades, que seria começar a fazer um treinamento interno para os gestores e para os colaboradores, como eles vão acessar o ponto e continuar as agendas conosco. [LOCUTOR 24]: gente recomenda que pelo menos a gente passe pela fase\n[LOCUTOR 31]: dos testes, porque a visão do próprio time amplia, né? Consegue enxergar melhor início e fim de processo ali. para poder começar a fazer essa mudança. A questão dos dispositivos lá que você me perguntou, a gente já fez ali um teste com o pessoal, já conseguiu habilitar um\n[LOCUTOR 3]: dispositivo.\n[LOCUTOR 31]: É uma etapa já vencida de conhecimento. A coletada facial, eu te respondi ontem, dá para fazer a coleta já pelo celular, mas a partir do momento que faz a coleta pelo celular,\n[LOCUTOR 3]: você\n[LOCUTOR 31]: abre a possibilidade de bater, o ponto via celular. Então preciso entender o que é mais interessante para vocês. E isso o próprio time técnico consegue orientar. Mas do nosso ponto de vista, estamos dentro do cronograma, as atividades estão sendo seguidas. Eu fiz um estudo ali com as datas que você abriu, mas eu não consegui adiantar o suficiente\n[LOCUTOR 3]: para\n[LOCUTOR 31]: recuperarmos o que perdemos. Então, mantivem\n[LOCUTOR 31]: agendas, porque já está planejado. Qualquer coisa que a gente\n[LOCUTOR 3]: conseguir\n[LOCUTOR 31]: adiantar, a gente vai usar, na verdade, para ajustes internos,\n[LOCUTOR 3]: para a\n[LOCUTOR 31]: tetragemia de\n[LOCUTOR 3]: vocês. [EMPRESA]. [PESSOA], eu vou precisar da sua ajuda. Olhando hoje o cronograma, aí com recomendação sua. Beleza, [PESSOA] [PESSOA], obrigada. Recomendação sua, porque vocês vão ter mais experiência que a gente. Vai ter um momento que a gente vai precisar chamar todos os colaboradores para poder coletar o ponto, a facial e outras coisas assim. Em que momento do cronograma você acha que é o recomendado a gente fazer isso?\n[LOCUTOR 31]: A gente indica normalmente nesse momento de cutover, que seria entre 7 de abril e 15 de abril. Mas, a depender da maturidade do time nesse momento, está vendo, acabou o treinamento final, a gente entende que já é um momento que vocês já podem começar...\n[LOCUTOR 3]: Fazer os cadastros.\n[LOCUTOR 31]: Criar o plano e já começar a fazer os cadastros, porque aqui nesse período, Eu marquei algumas reuniões de plantão de dúvidas para vocês.\n[LOCUTOR 20]: vão surgir dúvidas e aí a gente já tem ali um tempo separado. E lógico, vocês têm o e-mail como comunicação, qualquer coisa, qualquer dor, pode ir mandando que a gente vai respondendo. Mas\n[LOCUTOR 31]: a gente costuma utilizar esse período aqui, tá? É muito de empresa para empresa, depende. Às vezes vocês têm muita gente para coletar e precisa começar antes. O que acontece? Para fazer a coleta, a gente tem que estar com a liberação da base de produção feita já. E a gente só libera essa base quando a gente está pronto para fazer o cutover, porque uma vez que a gente começa o cutover, a gente não mexe mais no que a gente já fez em homologação. Por isso que esse costuma ser o momento de liberação da coleta da facial. Mas, a depender da urgência, dá para a gente fazer um combinamento ali. entre o time técnico e o time operacional, olha, a gente vai liberar, mas é só para a coleta da facial, não mexam na base para a gente não ter nenhum problema ali de ter que limpar\n[LOCUTOR 31]: novo a base.\n[LOCUTOR 3]: [EMPRESA]. [PESSOA], você tem dúvida de algum outro processo que você sabe que vai ser feito? Só para você ter ideia de em que momento ou ainda não? Que a minha preocupação era\n[LOCUTOR 61]: essa,\n[LOCUTOR 3]: quando que a gente vai fazer o cadastro de facial. Mas você tem mais alguma dúvida, algum outro ponto?\n[LOCUTOR 61]: A gente está levantado sobre fazer a transferência, o início de cada processo, com fases, né? Como um comédia, depois um hospital, uma químice [LOCAL].\n[LOCUTOR 10]: dúvida é a seguinte, quando, por exemplo, se a gente liberar somente na unidade que a gente tem o nome [EMPRESA], A gente consegue usar o [PESSOA] aqui em separado para fechar a nossa Folha do Mês, por exemplo? E esse outro, o Agora, para fechar só o Comet? Tem algum problema nisso? É\n[LOCUTOR 31]: trabalho de vocês, né? Trabalho braçal de vocês. Você pode usar dois pontos em paralelo. O problema é assim, você não pode ter batida nos dois em produção ao mesmo tempo, porque você vai gerar [PESSOA]\n[LOCUTOR 61]: Ah, não, minha dupla não é os do [LOCAL], por exemplo,\n[LOCUTOR 33]: quatro filiais.\n[LOCUTOR 9]: uma delas está usando o [LOCAL] no momento.\n[LOCUTOR 31]: isso eu expliquei para a [PESSOA] também. O que acontece? A gente aqui, como implantação, o contrato de vocês prevê um\n[LOCUTOR 31]: Live e uma operação assistida. Então, assim, vocês podem optar por fazer o projeto, fazer um Go Live com menos vidas, com uma unidade só. Porém, eu vou acompanhar vocês em produção nesse único Go Live. Os próximos, as próximas viradas vocês terão que fazer com o conhecimento de vocês internamente, com o time de vocês. A gente só acompanha a primeira onda, porque isso está em contrato. Em contrato não foi previsto um faseamento, porque aí o time ficaria\n[LOCUTOR 3]: dispon\n[LOCUTOR 19]: mais tempo do que o previsto. Não sei se vale ter uma conversa com a Amanda, se for o caso, se acrescentaria essas novas ondas, mas nesse momento o que eu tenho com vocês é um contrato de fazer a virada em produção uma única vez, não por fases.\n[LOCUTOR 61]: [EMPRESA]. Talvez tenha confiança, então, do macho. Imagino. Mas [LOCAL] é o maior...\n[LOCUTOR 31]: Não deveria, porque assim, vocês estarão treinados para utilizar o ponto. Então, a virada... Na verdade, o que é a virada? A virada é você iniciar a batida dos colaboradores no ponto no dia da competência. Essa é a virada. A questão é, se você teve uma primeira experiência e você teve alguns bugs ou algumas dificuldades ali, normalmente é o que acontece, tá? O que acontece de incidente durante a operação assistida? 99% é a usabilidade da solução. Quase nada é... 1% pode ser uma questão técnica, mas 99% é a usabilidade. É dificuldade de acesso, de batida, a descoberta do novo aplicativo, a curva de aprendizado. Normalmente é o que a gente passa ali. Só que a nossa operação assiste o time do DP. Então, o time do DP vai ter dificuldades. Você precisa incluir uma pessoa nova. Não está integrando. Onde pode estar o problema? Coisas desse gênero. A gente acompanha a primeira onda de vocês. A operação assistida nossa vai do início. da batida até o fechamento. Então a gente faz o fechamento com vocês para enviar para a folha. Então a gente faz o processo inteiro. Então, em teoria, vocês teriam já essa experiência para aplicar em novas ondas. Mas a gente não recomenda, realmente, a gente não recomenda. Se é sobre... A gente quer fazer um teste antes de colocar todo mundo em produção, é um argumento válido. Mas se vocês estiverem tranquilos, o time já tiver com conhecimento, estiver seguro, porque é uma plataforma SaaS. Então, a longo prazo, ela realmente vai se tornar a ferramenta de vocês. O objetivo dos nossos treinamentos é que vocês se tornem proprietários da sua operação dentro do agora. Que ela se torne realmente uma ferramenta para que vocês tenham independência. São raríssimos os casos que os clientes fazem em ondas. É bem raro mesmo. Normalmente, isso independe da quantidade de vidas, porque o nosso calcanhar nunca é a quantidade de vidas, é sempre a quantidade de regras que vocês têm, principalmente quando se refere a sindicatos. Então, se vocês têm muitos modelos de escala, muitas regras sindicais, muitos tipos diferentes de jornadas, e eu sei que vocês têm uma quantidade considerável, é onde está realmente a dor. Nunca é na quantidade de vidas. A quantidade de pessoas não é o nosso grande impacto. É sempre a quantidade de regras.\n[LOCUTOR 3]: [LOCAL] muito.\n[LOCUTOR 3]: pra entender, Siliki? Tranquilo?\n[LOCUTOR 5]: falando aqui\n[LOCUTOR 42]: no mundo.\n[LOCUTOR 31]: Mas é isso. Qualquer coisa também, [PESSOA], pode ir combinando ali com o time, com o [PESSOA], com o [PESSOA]. Eles são pessoas técnicas, então assim, eles podem até te apresentar um ponto de vista mais técnico, porque eles agora estão imersos nas suas regras, eles sabem muito mais do que eu. Eles conseguem te dar um cenário melhor, tá?\n[LOCUTOR 61]: Você não pode deixar que a nossa dúvida era mais sobre precaução mesmo, dessa questão de pluralidade.\n[LOCUTOR 31]: [EMPRESA]. Então\n[LOCUTOR 3]: é isso, acho que\n[LOCUTOR 31]: fechamos.\n[LOCUTOR 3]: [PESSOA] e [PESSOA], eu vou pedir o cronograma atualizado, que vocês já marcaram lá as datas que já foram, tudo certinho, no dia que foi. Só para eu\n[LOCUTOR 27]: anotar\n[LOCUTOR 3]: o meu cronograma e passar para o meu condenador,\n[LOCUTOR 27]: [LOCAL], eu te passo esse cronograma amanhã, tá?\n[LOCUTOR 3]: [EMPRESA], [PESSOA].\n[LOCUTOR 31]: Eu vou incluir todo mundo em todas as rendas ali que eu enviei as datas, tá?\n[LOCUTOR 31]: [LOCUTOR 2]: não tenho o mesmo time, vai entrar mais gente? Alguém saiu do time? do time? Do que eu tenho ali nas agendas? Você quer validar comigo quem são as pessoas?\n[LOCUTOR 31]: que eu tô\n[LOCUTOR 61]: Essa agenda que ela fala é do ponto, né?\n[LOCUTOR 31]: te mandar atualizado aqui\n[LOCUTOR 31]: E o termo de aceite da fase, como a gente ultrapassou a primeira fase, eu mando sempre um termo de aceite\n[LOCUTOR 31]: fase, porque nessa fase foi concluída. Ah,",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:22.443581+00:00",
+    "total_linhas": 297,
+    "linhas_mantidas": 187,
+    "linhas_removidas": 110,
+    "percentual_mantido": 62.96,
+    "confianca_media": 0.4813
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 31]: [PESSOA] agora?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA]. Bom dia, [PESSOA] [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Olá, bom dia. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3758,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tudo bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Tudo bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Que joia. Bom dia, [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4157,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [LOCUTOR 6]: dia. Vamos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: aguardar mais um minutinho para dar o Enai para o [PESSOA]? Se eles não entrarem, eu vou lá bater na porta deles.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4451,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Tem essa vantagem de estar pertinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Exatamente. Esse que tá como consultor de vendas é quem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: robôzinho. Ele é um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: rob",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que eu acho que é da Amanda, porque ele é consultor de vendas, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Amanda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [EMPRESA]. E acho que ele vai recolhendo informações pra melhorar o atendimento do time.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: então tá faltando na [EMPRESA] o [PESSOA] e o [PESSOA] também, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Deixa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: eu chamar eles aqui. Eu vou lá no RH, enquanto isso eu vou chamando o [EMPRESA], já volto, peraí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Vai lá, tá bom. Eu vi uma explicação desse robozinho, mas eu não lembro onde. Ah, tá aqui no próprio chat. Essa medida é um IA da [EMPRESA], [EMPRESA], com a finalidade de gerar atas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Ah, tipo o Gemini, né? As anotações do Gemini, na verdade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5848,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Mas tem esse Tots, consultor de vendas, tá vendo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 31]: um assistente de AI. Eu não tive tempo ainda de estudar na Unity os assistentes de AI. Eu queria tanto começar a construir alguns aqui. Não tenho tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4743,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: É muita coisa, né? A gente tem que fazer o que dá, e o que a gente quer, a gente não tem tempo para fazer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5191,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: É, eu queria, mas chegando o fim do dia, minha cabeça está tão amiga, não consigo nem me concentrar. Nem na agenda de [LOCAL] eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4328,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: não posso",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: usar para isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: eu queria muito que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: construíssemos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: agentes de água para ajudar nossas vidas aqui. Bom dia, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4512,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Bom dia,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Ah, ele manda um recado ainda, olha. Educado ele, muito fino.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Voltei, tá faltando só o Tainá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Pessoal,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: eu mandei um teste para o Tainá aqui. Nós tivemos algumas mudanças internas na empresa que até o [PESSOA] não faz mais parte do grupo, tá? E a Tainá agora que tá no editorial não vai poder participar da reunião, né? Tá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4889,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 61]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: a gente consegue seguir sem ela?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ela que é que remarca?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: É, porque a [PESSOA] que fala que vai fazer mais a parte dela do sistema, ela tem recrutamento agora também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5364,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Eu acho que ninguém vai conseguir fazer agora a parte dela, a não ser que alguém simule a parte dela aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4626,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá, mas como é só status, eu pego as demandas que estão com ela, porque eu acho que a parte dela com [PESSOA] [PESSOA], está faltando só ela mandar as evidências, né, [PESSOA] [PESSOA]? Então, eu anoto aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4897,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: estiver dependente para a Tainá e eu passo para ela depois, não tem problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vamos começar pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCUTOR 1]: [PESSOA], da [EMPRESA]. Bom, a gente fez as configurações, a Tainá fez o cadastro dos gestores e, mesmo assim, a integração não puxou. a [PESSOA] [PESSOA] mandou o manual para eu poder refazer a integração, a gente refez e ainda assim não está puxando. Até sugeri a gente fazer uma reunião junto com a equipe técnica, que aí junta a infra, junta todo mundo para poder fazer, mas [PESSOA] [PESSOA] parece comentou que não tem como, que a gente precisa mandar as evidências para ela poder mandar para abrir um chamado, eu acho, para a gente conseguir analisar. Só que eu preciso que ela envie essas evidências, então eu não consegui mandar ainda. Não tem outra forma, [PESSOA], não tem como, [PESSOA], desculpa, [PESSOA] [PESSOA], Não tem como a gente conectar? Vocês dão uma olhada no ambiente aqui ou alguma coisa do tipo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Então, tu não tem acesso ao RM para coletar essas... É só a Tainá que tem mesmo, tá? Porque, assim, a gente só consegue chamar a equipe técnica para a agenda depois que a gente fizer a abertura do chamado, eles constatarem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 57]: realmente tem alguma questão e aí, sim, a gente consegue trazer eles para a reunião. Antes disso, eu não consigo trazer ninguém do time técnico para a agenda, tá? É um procedimento aqui que a gente tem mesmo, enfim. Então, preciso passar pela abertura do ticket para eles validarem. Por quê? Pode ser que seja algo relativamente tranquilo e eles consigam resolver lá, mas a gente precisa das evidências para validar se as integrações estão de forma correta, os IDs estão inseridos de forma correta lá dentro do RM, se está tudo ativado, parametrizado, enfim. Se a ativação foi, de fato, realizada. Aí, preciso também dos prints ali, das requisições que foram criadas e que estejam com o status de aprovada para a gente validar realmente se é se tá no fluxo correto, se foi aprovado, se deu tudo certo. E aí, pra gente levar essas evidências pro time, pra eles validarem. Se tá tudo certo, por que não tá subindo? Aí eles investigam e eles vão trazendo devolutivos pra nós. Se for algo muito crítico, sem resolução, a gente vai pra reunião. Mas,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: normalmente,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 57]: eles conseguem resolver ali a partir do ticketing aberto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vou ver se eu consigo contar as evidências hoje. Só pra eu ter uma noção,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4539,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: te mandando isso hoje, você consegue dar retorno pra gente quando?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Então, eu vou abrir o chamado hoje, pode ser que eles respondam amanhã, enfim, né? Eu vou tentar priorizar, tá? Eu já vou abrir com priorização máxima, enfim, que está impactando o uso, para priorizarem essa questão do ticket, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: E aí, conforme eu trouxe para vocês já na semana passada, né? A partir de segunda-feira, eu já não estou mais aqui no time de on-board, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 57]: migrar para um outro time.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5215,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ent",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: vocês ficarão com um outro analista. Então eu já quero encaminhar tudo isso antes de passar para essa nova pessoa, meio caminho andado, pelo menos, para que vocês não precisem também ficar, a gente não fique nessa questão de vai e vem, enfim, já deixar tudo encaminhado para essa pessoa fazer apenas o acompanhamento e as devolutivas para vocês, tá? Já adianto também que esse novo analista, ele não vai fazer atendimento por WhatsApp, tá? Eu abri uma sessão para vocês, mas aqui a gente não atende de fato, tá? Estou lá no grupo, enfim, né? Eu abri essa sessão, é uma coisa totalmente minha, tá? Só para que você entenda que, né, se vier uma outra pessoa e a gente tem... [LOCAL], mas a... Enfim, a [PESSOA] não quis entrar no grupo... de opção, assim, é o que eu tenho por entrar e fazer esse atendimento com vocês, tá? É totalmente iniciativa minha. Então, no geral, o padrão de atendimento segue por e-mail aqui, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: A gente tinha planejado pra fazer a virada, né, praticamente o Google Live no dia 4 ou 5, não tô me lembrando agora. Só que como a integração não deu certo, a gente provavelmente vai atrasar isso aí. Meu plano é fazer essa virada essa semana ainda, então...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: você falou, vai priorizar junto com o suporte, a gente vai priorizar aqui também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5441,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Só para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: a gente tentar virar isso igual você falou antes e você sair, porque senão tem que fazer todo o repasse, outra pessoa vai chegar, vai estar perdida",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: não é o nosso planejamento e eu não posso deixar o projeto atrasar, embora já esteja atrasado. Então, eu vou pedir as evidências para a [EMPRESA] hoje, se ela n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4344,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: conseguir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: me mandar, eu vejo uma outra forma, vejo outra pessoa que tenha acesso e te mando isso ainda hoje, se possível pela manhã.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 57]: [LOCAL]. O Teupar, que eu esqueci o nome dele da [EMPRESA] aí também, o [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5192,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 57]: tem acesso ao RM também. Talvez ele pudesse apoiar a gente nessa ponta de pegar as informações ali. Enfim, acredito que ele tenha, porque a primeira integração foi ele que rodou",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ali.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Então, pode ser que ele tenha esse acesso ali para pegar essas evidências para a gente, caso a [EMPRESA] não consiga, enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.516,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 36]: para a gente tentar acelerar, tá? O [PESSOA] veio hoje, [PESSOA]? Eu fui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4725,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: e nem reparei. Ele vem amanhã.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, tá bom. Fechou. Dia 10 é isso. Vamos para",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: admissão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 57]: Só rapidinho, a gente estava com a questão ali do acesso da Tainá, que foi normalizado também. Na verdade,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: era um redirecionamento do site, que ele estava direcionando para uma parte, quando já está alugado. Por isso que eu não ia nem para frente, nem para trás. Mas aí eu mostrei para ela, e aí está funcionando normal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 57]: [LOCAL]. Show de bola. Vou atualizar então. Obrigada. De",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5136,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: nada. Agora é [PESSOA], admissão. Não, estamos te ouvindo. Estou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: ouvindo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Agora foi. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Bom, pessoal, estou retornando ao projeto. Estava com duas semaninhas aí de descanso, de férias. Retornando agora, peguei lá, fiz um resumo com o [EMPRESA]. O [EMPRESA] estava apoiando vocês aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.502,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 17]: a gente está na fase da admissão digital agora de grado em produção, fazendo os testes finais. O",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5581,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: time aqui agora está com Fazer uma configuração, ter um probleminha nas jornadas públicas Foi resolvido, tá? Então, eles estão finalizando hoje esses testes lá com o time O time tá finalizando, e assim, hoje, no final do dia Eu consigo ter uma posição realmente da virada Estou tudo certinho, tudo correndo Vê se o e-mail tá à margem em relação ao tal do [EMPRESA] de mim Passei pro consultor fluído pra validar, tá? Então, pendente faltava só essa questão do tal do [EMPRESA] de mim E a questão do TAI, não sei se você conseguiu ver, se ele conseguiu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: acessar... Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: pedi,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mas não me mandou. Eu vou cobrar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3545,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: aí. Tá? É simples, tá? Se quiser depois... Tá complicado, você me ajuda comigo agora, mas tem problema, você me chama.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 17]: aí a gente pode resetar a senha dele, tá? Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4834,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: te mando o link do Thai, ele acessa, pede pra restatar a senha, ele restata. E aí, com o usuário e a senha dele, a gente configura na aplicação o Thai, tá? Mas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: a gente comentou o Thai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: na semana",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: passada, ele sabe eu loguei a senha, porque ele não conseguiu me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.376,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: passar, então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: eu só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: preciso que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ele me responda. Eu vou cobrar ele hoje? E o admissão tá no mesmo cenário do [EMPRESA]. A gente tava com o [PESSOA] planejado pra essa semana, porque a virada pra produção era pra ser de sexta. Não sei se de quinta pra sexta, ou sexta pra segunda, não sei. Sei que tá atrasado, que a gente teve uns problemas. Mas estamos na mesma situação. Se a gente conseguir configurar a produção de hoje pra amanhã, tá tudo certo o nosso [PESSOA] na quinta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Legal, legal. Aí a gente faz um... Os",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5001,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mock-tests",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: quinta,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: né? E aí...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Vira",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: na quinta. Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 17]: aí...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Em relaç",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: à admissão, é isso. Tem alguma coisa que está pendente ainda mais? Alguma coisa que está faltando?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4563,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Nossa, só o Thai. E seus é validar aquele update do WCM admin. O resto é configuração com vocês. Não temos nada não. [PESSOA], você tem alguma pendente em relação à admissão?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Alguma coisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que você precisa saber?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: certo, configurado essa semana. Está tudo ok para o Go Live na sexta, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.459,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. [PESSOA], com você também a demissão digital. Tinha mandado um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5115,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: e-mail para o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [EMPRESA] pedindo um cronograma, não sei se foi você ou se foi ele que mandou, e ele mandou um cronograma que termina em julho. Nós não conseguimos um cronograma que termine em julho, na verdade estou com cobrança e a gente precisa de um cronograma que termine no máximo em abril.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Eu vi que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ele pediu no e-mail para eu justificar, é por isso, o projeto já está atrasado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Não fui eu, na verdade.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Todas as jornadas a gente precisa que termine no máximo, em abril. Só que em relação a quais demandas eu acho que podem ser alteradas em relação à data, aí é com você. Se você falar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: reunião de trabalho, refinamento 1, 2 e 3 pode ser só uma, cara, o que você falar? Desde que a gente termine em abril, a gente está priorizando o projeto, então, Se tiver que reduzir bem as datas, se tiver que dar um gás, não tem problema, a gente vai, t",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: disponível.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então, pode diminuir o cronograma até abril.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4678,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Você tá vendo minha telinha aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tô.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Tá, perfeito. Isso aqui é o status, essas são as fases aqui, os",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5414,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: marcos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: e projetos, tá? Do cronograma. Parte de levantamento, configuração, homologação, go live e pause, né? Parte de levantamento aqui, praticamente, a gente vai iniciar só com copy mesmo, só para realmente formalizar, né? Teoricamente, tá aqui na próxima tela, eu vou mostrar, se não me engano, tá aproximando aqui, vem o kick-off.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: A gente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: fim de ano, tá? O que foi acordado lá atrás não tem como sair, ser quebrado. Pra iniciar o kick-off do DEMISSÃO, realmente a gente tem que estar em produção com a gente emissão digital. Acredito que essa semana a gente consegue matar isso, maravilha, semana que vem a gente faz o kick-off. que é uma parte de aguentamento só essa, porque as questões de credenciais, essas questões aqui todinhas, já temos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5462,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 27]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mesma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: da admissão, né? A pergunta que eu preciso fazer é, os usuários serão os mesmos? O pessoal da admissão e da admissão serão os mesmos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4953,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: por favor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4444,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: É que acontece, nós temos um responsável para admissão e outro para demissão, mas, assim, esses, todos os usuários que a gente passou, vai utilizar a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Então, não tem nenhum",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: usu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: novo, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Não, nenhum.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCAL]. Então, a única exigência que seria a questão dos usuários já estar todos configurados, sem problema, vida que segue. E aqui vem a parte de configuração, tá? Já vou passar para a próxima tela, vou explicar aqui, que é a parte mais demorada, realmente, braçal da configuração. Bom, aqui é uma telinha do cronograma, tá? Eu trouxe justamente mais detalhado esse passo a passo justamente por causa dessa parte, tá? Eu marquei aqui em vermelho, tá? A homagem. Essa questão de teste de homologação de jornadas, porque ele, infelizmente, é nessa faixa de mais ou menos 25 dias, tá? Não tem como fugir pé, braçal. É configuração, testa, QA, volta, erra, acerta, manda pessoal de produto, não tem como diminuir esses 25 dias, tá? Aqui no cronograma que foi passado, acho que foi a [PESSOA], não sei se foi o [PESSOA] que passou esse cronograma, tá? É uma previsão, realmente. Tá aqui, esses prazos aqui, tá do dia 1 do 4 a 5 do 5, tá? Isso inicia no 1 do 4, porque tem outras atividades aqui de validação, que são várias reuniões contínuas, tá? Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: você falou que eu saberia dizer, então realmente nesse sentido, tá? Aqui tem as validações de requisitos de processos, tá? No cronograma, colocaram um para cada dia, cada semana seria uma validação. Eu acredito que, dependendo do tamanho do processo, aí eu não sei se é com o [EMPRESA], se já está bem desenhada essa questão do processo de emissão, se estiver bem desenhada, a gente marca isso aqui num dia.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 4]: depender da maturidade, do conhecimento do processo mesmo de vocês. Entre vocês mesmos, o processo ao máximo está desenhado, está redondinho, é isso. se estiver bem redondinha a questão de processo de demissão sem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: justa causa, processo de demissão com justa causa, processo de solicitação de demissão pelo funcionário, tudo isso estiver mapeado, redondinho, isso é um pulo. Então, essa validação a gente consegue matar em uma semana e já sobe os dias. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: s",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: as duas contas, né? A gente tem que dar as mãos aqui, um com o outro, dar as mãos aqui e seguir nesse sentido, né? Então, a diminuição de tempo vai se caindo muito nesse sentido, tá? Então, a gente pode subir aqui, caso essa validação esteja bem mapeada, a gente pega, vai passar toda essa validação para dentro da aplicação. fazendo as configurações do nosso QR aqui dentro, e aí a gente faz uma demonstração da jornada, e aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tendo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: essa demonstração dando ok, a gente vai passar para fazer os testes de todas as jornadas, todas as configurações, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 17]: aí a gente vai ter reunião de refinamento. Essa é uma reunião com o time de vocês também. Então, o refinamento de ajustes, configuração, de campos, de formulários, etc., de processo, tá? Tem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: que ter essas reuniões também. Aqui, mais uma vez, vai depender aqui do processo para ver se realmente já está bem mapeado, está de acordo com o que foi desenhado, está atendendo a expectativa, etc. Então, aqui temos cinco agendas, um para cada refinamento, dependendo da expectativa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 27]: processo, a gente consegue também diminuir esse tempo dentro dessas milhões de refinamentos. Mais uma vez, vai depender o andamento e o processo aqui das duas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pontas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Finalizando de novo, depois que fizer todo esse refinamento lá e todos os testes, é feito o que há, né, e finalizando as duas últimas jornadas, assim, mais uma vez, tá, os refinamentos 1, 2 e 3,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5464,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 27]: são mais aproximadamente 15 dias também, que eu coloquei em vermelho, tá, porque é onde se faz as configurações das solicitações, né, o do [EMPRESA], identifica algum ajuste. Pode ser que esse ajuste seja algo simples, que é feito até na hora, em real-time, na agenda, mas pode ser alguma coisa que exija a atuação do time de produto, onde vai para a esteira, vai para o roadmap, pode ser demorado. Então, essas são as duas atividades que realmente demandam tempo, fora as agendas que a gente vai ter durante todo o andamento do projeto. Passando aqui para a parte de [PESSOA], realmente é o final de configuração, tá? Isso é com o time que vai dar o suporte interno aí, como em vocês, de participação durante a produção. Isso aqui pode ser a qualquer tempo, porque tá 9 dos 6, mas pode ser a qualquer tempo assim que entrar em produção. E o [PESSOA] mesmo estava marcado aqui para o dia 11 dos 6, mas acredito que dá para subir isso aqui assim que a gente já tiver iniciado o projeto, tá? Então... Aqui eu posso dizer que esse bolado aqui já é, a reprodução já tá funcionando, tá? Então, acredito que dá pra subir isso aqui lá pro finalzinho de maio, né, maio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: manda com os ajustes que você conseguir, reduzindo o máximo entre as datas? Considerando que nós vamos fazer o início no dia 9, que seria semana que vem, já que sexta a gente tá planejando a live do... a admissão. Só pra eu passar pro meu coordenador e pro meu gerente pra eles darem uma olhada, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá, então, que estamos de pendência do [EMPRESA], eu passar o TAI, vocês verificarem o ACM Admin, e [EMPRESA], o ajuste do cronograma com a redução das datas que você conseguir.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5727,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Agora,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] apontou. Como estamos? Não estamos te ouvindo. Tá mudo. Seu microfone tá fechado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3898,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Agora",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: eu vou.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Adoro uma novidade aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Cada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: mergulho é um flash. Eu peguei um slide aqui. Eu tenho uma apresentação maior, mas assim, como a gente aqui é um resumo, vamos focar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: nisso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: tá? Então, nesse momento, a gente tem 31% do projeto como um todo concluído, ou seja, a gente já ultrapassou toda a primeira parte. A gente fez todos os workshops, então, nesse momento, Faz uma configuração ainda após o workshop de todas essas regras que foram validadas e parametrizadas. O nosso próximo agenda que é amanhã é treinamento inicial.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 24]: gente está dentro do nosso segundo ou terceiro cronograma, não lembro mais. A gente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.43,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: está dentro da expectativa. Está indo tudo bem. Então, olhando aqui aquele outro cronograma que você pediu para eu fazer, a gente ultrapassou essa etapa aqui do explorar. já posso pôr",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4877,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: como concluído, e a gente começa o treinamento inicial,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: é uma primeira agenda que vai ensinar como o time vai fazer os testes,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5029,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: depois a gente segue aqui para os testes unitários, testes integrados, o último treinamento, e após isso tem o [LOCAL], aquela mudança, o [EMPRESA] da empresa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5601,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: O [EMPRESA] da empresa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5311,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: A mudança de...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 20]: assim, aí é uma questão também de como o time consegue harmonizar as duas atividades, que seria começar a fazer um treinamento interno para os gestores e para os colaboradores, como eles vão acessar o ponto e continuar as agendas conosco. [LOCUTOR 24]: gente recomenda que pelo menos a gente passe pela fase",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 31]: dos testes, porque a visão do próprio time amplia, né? Consegue enxergar melhor início e fim de processo ali. para poder começar a fazer essa mudança. A questão dos dispositivos lá que você me perguntou, a gente já fez ali um teste com o pessoal, já conseguiu habilitar um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: dispositivo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: É uma etapa já vencida de conhecimento. A coletada facial, eu te respondi ontem, dá para fazer a coleta já pelo celular, mas a partir do momento que faz a coleta pelo celular,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5891,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: abre a possibilidade de bater, o ponto via celular. Então preciso entender o que é mais interessante para vocês. E isso o próprio time técnico consegue orientar. Mas do nosso ponto de vista, estamos dentro do cronograma, as atividades estão sendo seguidas. Eu fiz um estudo ali com as datas que você abriu, mas eu não consegui adiantar o suficiente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.529,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: recuperarmos o que perdemos. Então, mantivem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: as",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: agendas, porque já está planejado. Qualquer coisa que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: conseguir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: adiantar, a gente vai usar, na verdade, para ajustes internos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5474,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: para a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: tetragemia de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vocês. [EMPRESA]. [PESSOA], eu vou precisar da sua ajuda. Olhando hoje o cronograma, aí com recomendação sua. Beleza, [PESSOA] [PESSOA], obrigada. Recomendação sua, porque vocês vão ter mais experiência que a gente. Vai ter um momento que a gente vai precisar chamar todos os colaboradores para poder coletar o ponto, a facial e outras coisas assim. Em que momento do cronograma você acha que é o recomendado a gente fazer isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 31]: A gente indica normalmente nesse momento de cutover, que seria entre 7 de abril e 15 de abril. Mas, a depender da maturidade do time nesse momento, está vendo, acabou o treinamento final, a gente entende que já é um momento que vocês já podem começar...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Fazer os cadastros.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Criar o plano e já começar a fazer os cadastros, porque aqui nesse período, Eu marquei algumas reuniões de plantão de dúvidas para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5428,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 20]: vão surgir dúvidas e aí a gente já tem ali um tempo separado. E lógico, vocês têm o e-mail como comunicação, qualquer coisa, qualquer dor, pode ir mandando que a gente vai respondendo. Mas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 31]: a gente costuma utilizar esse período aqui, tá? É muito de empresa para empresa, depende. Às vezes vocês têm muita gente para coletar e precisa começar antes. O que acontece? Para fazer a coleta, a gente tem que estar com a liberação da base de produção feita já. E a gente só libera essa base quando a gente está pronto para fazer o cutover, porque uma vez que a gente começa o cutover, a gente não mexe mais no que a gente já fez em homologação. Por isso que esse costuma ser o momento de liberação da coleta da facial. Mas, a depender da urgência, dá para a gente fazer um combinamento ali. entre o time técnico e o time operacional, olha, a gente vai liberar, mas é só para a coleta da facial, não mexam na base para a gente não ter nenhum problema ali de ter que limpar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: novo a base.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [EMPRESA]. [PESSOA], você tem dúvida de algum outro processo que você sabe que vai ser feito? Só para você ter ideia de em que momento ou ainda não? Que a minha preocupação era",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: essa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: quando que a gente vai fazer o cadastro de facial. Mas você tem mais alguma dúvida, algum outro ponto?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5079,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: A gente está levantado sobre fazer a transferência, o início de cada processo, com fases, né? Como um comédia, depois um hospital, uma químice [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 10]: dúvida é a seguinte, quando, por exemplo, se a gente liberar somente na unidade que a gente tem o nome [EMPRESA], A gente consegue usar o [PESSOA] aqui em separado para fechar a nossa Folha do Mês, por exemplo? E esse outro, o Agora, para fechar só o Comet? Tem algum problema nisso? É",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 31]: trabalho de vocês, né? Trabalho braçal de vocês. Você pode usar dois pontos em paralelo. O problema é assim, você não pode ter batida nos dois em produção ao mesmo tempo, porque você vai gerar [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: nos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: dois. Você não pode gerar [PESSOA] nos dois.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Ah, não, minha dupla não é os do [LOCAL], por exemplo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4695,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: s",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 33]: quatro filiais.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: s",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: uma delas está usando o [LOCAL] no momento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4923,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 31]: isso eu expliquei para a [PESSOA] também. O que acontece? A gente aqui, como implantação, o contrato de vocês prevê um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Go",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Live e uma operação assistida. Então, assim, vocês podem optar por fazer o projeto, fazer um Go Live com menos vidas, com uma unidade só. Porém, eu vou acompanhar vocês em produção nesse único Go Live. Os próximos, as próximas viradas vocês terão que fazer com o conhecimento de vocês internamente, com o time de vocês. A gente só acompanha a primeira onda, porque isso está em contrato. Em contrato não foi previsto um faseamento, porque aí o time ficaria",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: dispon",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: mais tempo do que o previsto. Não sei se vale ter uma conversa com a Amanda, se for o caso, se acrescentaria essas novas ondas, mas nesse momento o que eu tenho com vocês é um contrato de fazer a virada em produção uma única vez, não por fases.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: [EMPRESA]. Talvez tenha confiança, então, do macho. Imagino. Mas [LOCAL] é o maior...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5806,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Não deveria, porque assim, vocês estarão treinados para utilizar o ponto. Então, a virada... Na verdade, o que é a virada? A virada é você iniciar a batida dos colaboradores no ponto no dia da competência. Essa é a virada. A questão é, se você teve uma primeira experiência e você teve alguns bugs ou algumas dificuldades ali, normalmente é o que acontece, tá? O que acontece de incidente durante a operação assistida? 99% é a usabilidade da solução. Quase nada é... 1% pode ser uma questão técnica, mas 99% é a usabilidade. É dificuldade de acesso, de batida, a descoberta do novo aplicativo, a curva de aprendizado. Normalmente é o que a gente passa ali. Só que a nossa operação assiste o time do DP. Então, o time do DP vai ter dificuldades. Você precisa incluir uma pessoa nova. Não está integrando. Onde pode estar o problema? Coisas desse gênero. A gente acompanha a primeira onda de vocês. A operação assistida nossa vai do início. da batida até o fechamento. Então a gente faz o fechamento com vocês para enviar para a folha. Então a gente faz o processo inteiro. Então, em teoria, vocês teriam já essa experiência para aplicar em novas ondas. Mas a gente não recomenda, realmente, a gente não recomenda. Se é sobre... A gente quer fazer um teste antes de colocar todo mundo em produção, é um argumento válido. Mas se vocês estiverem tranquilos, o time já tiver com conhecimento, estiver seguro, porque é uma plataforma SaaS. Então, a longo prazo, ela realmente vai se tornar a ferramenta de vocês. O objetivo dos nossos treinamentos é que vocês se tornem proprietários da sua operação dentro do agora. Que ela se torne realmente uma ferramenta para que vocês tenham independência. São raríssimos os casos que os clientes fazem em ondas. É bem raro mesmo. Normalmente, isso independe da quantidade de vidas, porque o nosso calcanhar nunca é a quantidade de vidas, é sempre a quantidade de regras que vocês têm, principalmente quando se refere a sindicatos. Então, se vocês têm muitos modelos de escala, muitas regras sindicais, muitos tipos diferentes de jornadas, e eu sei que vocês têm uma quantidade considerável, é onde está realmente a dor. Nunca é na quantidade de vidas. A quantidade de pessoas não é o nosso grande impacto. É sempre a quantidade de regras.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Beleza. Expliquei ou compliquei?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL] muito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Desculpa. Deu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pra entender, Siliki? Tranquilo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: falando aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: e t",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 42]: no mundo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Mas é isso. Qualquer coisa também, [PESSOA], pode ir combinando ali com o time, com o [PESSOA], com o [PESSOA]. Eles são pessoas técnicas, então assim, eles podem até te apresentar um ponto de vista mais técnico, porque eles agora estão imersos nas suas regras, eles sabem muito mais do que eu. Eles conseguem te dar um cenário melhor, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5015,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Você não pode deixar que a nossa dúvida era mais sobre precaução mesmo, dessa questão de pluralidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.471,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [EMPRESA]. Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: é isso, acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: fechamos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] e [PESSOA], eu vou pedir o cronograma atualizado, que vocês já marcaram lá as datas que já foram, tudo certinho, no dia que foi. Só para eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4788,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: anotar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o meu cronograma e passar para o meu condenador,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: favor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4467,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCAL], eu te passo esse cronograma amanhã, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [EMPRESA], [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Eu vou incluir todo mundo em todas as rendas ali que eu enviei as datas, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [LOCUTOR 2]: não tenho o mesmo time, vai entrar mais gente? Alguém saiu do time? do time? Do que eu tenho ali nas agendas? Você quer validar comigo quem são as pessoas?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5255,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: que eu tô",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4962,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vendo nas agendas daqui, tá eu, [PESSOA],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: só o [PESSOA]. Vai precisar colocar mais alguém, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Essa agenda que ela fala é do ponto, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É. Não, precisa não, [PESSOA]. Qualquer coisa a gente encaminha",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4265,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: A agenda está aberta para vocês acrescentarem pessoas também, então fiquem à vontade se quiser incluir mais gente, tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4433,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Então vou enviar hoje os convites e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4366,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: te mandar atualizado aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: a data, tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: E o termo de aceite da fase, como a gente ultrapassou a primeira fase, eu mando sempre um termo de aceite",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: fase, porque nessa fase foi concluída. Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tá. Tá bom? Bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: dia, gente. Bom dia para vocês. Boa semana. Para",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vocês também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [PESSOA], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id_reuniao": "723102",
+  "codt": "TFEHII",
+  "data_reuniao": "2025-11-17 17:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "A:  Não, não. Opa, [PESSOA]. Tudo bem, [PESSOA] Beleza. Já mandei uma mensagem aqui pro cliente, só um minutinho, tá? [PESSOA], tava conversando com a [PESSOA] aqui. Eles estão com dúvida onde fazer o piloto, né? Entre dois hospitais, não é isso? Não. Não? Não. Ah, espera um pouquinho, só um minutinho. Vamos lá. É o seguinte, [PESSOA]. A gente colocou uma proposta lá pra eles, tá? E... E a ideia inicial ali não é piloto, tá? Vamos lá. É que pra eles é piloto, pra nós não é, tá? Pra nós a gente pode considerar como um contrato de risco. O que é um contrato de risco? Só um minutinho, tá? [PESSOA], eu vou tirar aqui a... Tá. Eu te ligue? Não, só um minutinho.",
+  "texto_filtrado": "A:  Não, não. Opa, [PESSOA]. Tudo bem, [PESSOA] Beleza. Já mandei uma mensagem aqui pro cliente, só um minutinho, tá? [PESSOA], tava conversando com a [PESSOA] aqui. Eles estão com dúvida onde fazer o piloto, né? Entre dois hospitais, não é isso? Não. Não? Não. Ah, espera um pouquinho, só um minutinho. Vamos lá. É o seguinte, [PESSOA]. A gente colocou uma proposta lá pra eles, tá? E... E a ideia inicial ali não é piloto, tá? Vamos lá. É que pra eles é piloto, pra nós não é, tá? Pra nós a gente pode considerar como um contrato de risco. O que é um contrato de risco? Só um minutinho, tá? [PESSOA], eu vou tirar aqui a... Tá. Eu te ligue? Não, só um minutinho.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:26.298043+00:00",
+    "total_linhas": 1,
+    "linhas_mantidas": 1,
+    "linhas_removidas": 0,
+    "percentual_mantido": 100.0,
+    "confianca_media": 1.0
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "A:  Não, não. Opa, [PESSOA]. Tudo bem, [PESSOA] Beleza. Já mandei uma mensagem aqui pro cliente, só um minutinho, tá? [PESSOA], tava conversando com a [PESSOA] aqui. Eles estão com dúvida onde fazer o piloto, né? Entre dois hospitais, não é isso? Não. Não? Não. Ah, espera um pouquinho, só um minutinho. Vamos lá. É o seguinte, [PESSOA]. A gente colocou uma proposta lá pra eles, tá? E... E a ideia inicial ali não é piloto, tá? Vamos lá. É que pra eles é piloto, pra nós não é, tá? Pra nós a gente pode considerar como um contrato de risco. O que é um contrato de risco? Só um minutinho, tá? [PESSOA], eu vou tirar aqui a... Tá. Eu te ligue? Não, só um minutinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    }
+  ]
+}

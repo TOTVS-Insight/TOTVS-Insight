@@ -1,0 +1,157 @@
+{
+  "id_reuniao": "1216223",
+  "codt": "T06345",
+  "data_reuniao": "2026-03-10 15:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 1]: Beleza, cara?\n[LOCUTOR 3]: Beleza, e você? Bom,\n[LOCUTOR 1]: tô numa outra call aqui também, que é um treinamento l\n[LOCUTOR 2]: do\n[LOCUTOR 1]: ARL.\n[LOCUTOR 3]: Ah, boa. Não, tranquilo. Na hora que o [PESSOA] chegar, a gente conversa. Eu acho que vai ser rápido também, não vai ser nada amoroso, não.\n[LOCUTOR 1]: Sim, fechou. Ó, pode confirmar a data lá, tá?\n[LOCUTOR 3]: pra vencer. Sim. Isso. Isso. Isso. Isso. Isso. Isso. Isso. E aí E aí E aí Paz. [PESSOA],\n[LOCUTOR 1]: te mandei um ok aí da data. Pode mandar um invite aí.\n[LOCUTOR 3]: Ah, boa. [LOCAL].\n[LOCUTOR 1]: Eu, a [PESSOA] e o [PESSOA]. Você tem um e-mail de todo mundo aí?\n[LOCUTOR 3]: Deixa eu dar uma olhada da última agenda que eles estavam.\n[LOCUTOR 1]: Deixa eu ver o que eu também te mando aqui.\n[LOCUTOR 3]: Não, manda aqui que eu acho que é mais fácil. Se você puder. Eu vou mandar\n[LOCUTOR 1]: agora o invite. O [PESSOA], vamos colocar se ele conseguir. [PESSOA],\n[LOCUTOR 3]: vou mandar um invite agora. Mas o [PESSOA] acabou de mandar mensagem e disse que o diretor pediu uma agenda de suprimentos agora em cima da hora e terminando ele me retorna. Que ele não vai conseguir entrar na reunião agora. Mas eu tenho fé, eu tenho fé que a gente mata isso hoje.\n[LOCUTOR 1]: [LOCAL], fechou. Você me\n[LOCUTOR 3]: avisa\n[LOCUTOR 1]: aqui.\n[LOCUTOR 3]: [LOCAL] aviso, obrigado viu.\n[LOCUTOR 1]: [LOCAL], até mais,\n[LOCUTOR 3]: tchau. Um abraço.",
+  "texto_filtrado": "[LOCUTOR 1]: tô numa outra call aqui também, que é um treinamento l\n[LOCUTOR 1]: Sim, fechou. Ó, pode confirmar a data lá, tá?\n[LOCUTOR 1]: te mandei um ok aí da data. Pode mandar um invite aí.\n[LOCUTOR 1]: Eu, a [PESSOA] e o [PESSOA]. Você tem um e-mail de todo mundo aí?\n[LOCUTOR 3]: Deixa eu dar uma olhada da última agenda que eles estavam.\n[LOCUTOR 1]: agora o invite. O [PESSOA], vamos colocar se ele conseguir. [PESSOA],\n[LOCUTOR 3]: vou mandar um invite agora. Mas o [PESSOA] acabou de mandar mensagem e disse que o diretor pediu uma agenda de suprimentos agora em cima da hora e terminando ele me retorna. Que ele não vai conseguir entrar na reunião agora. Mas eu tenho fé, eu tenho fé que a gente mata isso hoje.\n[LOCUTOR 3]: avisa\n[LOCUTOR 1]: aqui.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:32.654770+00:00",
+    "total_linhas": 22,
+    "linhas_mantidas": 9,
+    "linhas_removidas": 13,
+    "percentual_mantido": 40.91,
+    "confianca_media": 0.4462
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: Beleza, cara?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Beleza, e você? Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: tô numa outra call aqui também, que é um treinamento l",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5095,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ARL.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, boa. Não, tranquilo. Na hora que o [PESSOA] chegar, a gente conversa. Eu acho que vai ser rápido também, não vai ser nada amoroso, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4441,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, fechou. Ó, pode confirmar a data lá, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pra vencer. Sim. Isso. Isso. Isso. Isso. Isso. Isso. Isso. E aí E aí E aí Paz. [PESSOA],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: te mandei um ok aí da data. Pode mandar um invite aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5057,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, boa. [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu, a [PESSOA] e o [PESSOA]. Você tem um e-mail de todo mundo aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4993,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Deixa eu dar uma olhada da última agenda que eles estavam.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4733,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Deixa eu ver o que eu também te mando aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4454,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, manda aqui que eu acho que é mais fácil. Se você puder. Eu vou mandar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4188,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: agora o invite. O [PESSOA], vamos colocar se ele conseguir. [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vou mandar um invite agora. Mas o [PESSOA] acabou de mandar mensagem e disse que o diretor pediu uma agenda de suprimentos agora em cima da hora e terminando ele me retorna. Que ele não vai conseguir entrar na reunião agora. Mas eu tenho fé, eu tenho fé que a gente mata isso hoje.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], fechou. Você me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: avisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL] aviso, obrigado viu.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], até mais,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tchau. Um abraço.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4369,
+      "motivo": "ml"
+    }
+  ]
+}

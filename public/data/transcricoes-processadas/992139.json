@@ -1,0 +1,139 @@
+{
+  "id_reuniao": "992139",
+  "codt": "118588",
+  "data_reuniao": "2026-02-04 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 2]: Eu vou nesse. E meu trabalho. E aí. A [PESSOA], que é a coordenadora, está de férias. Aí é para a [PESSOA]. Estou perguntando\n[LOCUTOR 3]: para ela se ela está.\n[LOCUTOR 2]: Tá bom. [LOCAL]. [PESSOA].\n[LOCUTOR 3]: Elas tiveram entrevista.\n[LOCUTOR 2]: Tiveram entrevista lá segunda\n[LOCUTOR 3]: às 15h. Tá. Segunda às 15h. Cara, eu tô com uma pré-reserva aqui. Deixa eu ver. Esses caras aqui me deixaram com uma pré-reserva. É, só que essa pré-reserva aqui, pode, eu consigo mudar. Deixa eu só ver se é o que eu tô pensando. Ah, não. Essa dá de boa pra mudar.\n[LOCUTOR 2]: Pode\n[LOCUTOR 3]: confirmar. Manda o convite pra mim.\n[LOCUTOR 2]: Opa,\n[LOCUTOR 3]: maravilha. Então,\n[LOCUTOR 2]: segunda, dia\n[LOCUTOR 3]: 9,\n[LOCUTOR 2]: [LOCUTOR 1]: 15 horas.\n[LOCUTOR 3]: Isso.\n[LOCUTOR 2]: Fechou? Fechou.\n[LOCUTOR 3]: Fechou,\n[LOCUTOR 2]: [PESSOA].\n[LOCUTOR 3]: Obrigado, cara. De nada. Um abraço.\n[LOCUTOR 2]: [LOCAL], tchau.",
+  "texto_filtrado": "[LOCUTOR 2]: Eu vou nesse. E meu trabalho. E aí. A [PESSOA], que é a coordenadora, está de férias. Aí é para a [PESSOA]. Estou perguntando\n[LOCUTOR 3]: para ela se ela está.\n[LOCUTOR 3]: Elas tiveram entrevista.\n[LOCUTOR 2]: Tiveram entrevista lá segunda\n[LOCUTOR 3]: às 15h. Tá. Segunda às 15h. Cara, eu tô com uma pré-reserva aqui. Deixa eu ver. Esses caras aqui me deixaram com uma pré-reserva. É, só que essa pré-reserva aqui, pode, eu consigo mudar. Deixa eu só ver se é o que eu tô pensando. Ah, não. Essa dá de boa pra mudar.\n[LOCUTOR 2]: Pode\n[LOCUTOR 3]: confirmar. Manda o convite pra mim.\n[LOCUTOR 3]: maravilha. Então,\n[LOCUTOR 2]: [LOCUTOR 1]: 15 horas.\n[LOCUTOR 3]: Isso.\n[LOCUTOR 2]: Fechou? Fechou.\n[LOCUTOR 3]: Fechou,\n[LOCUTOR 2]: [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:05.865337+00:00",
+    "total_linhas": 19,
+    "linhas_mantidas": 13,
+    "linhas_removidas": 6,
+    "percentual_mantido": 68.42,
+    "confianca_media": 0.4771
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: Eu vou nesse. E meu trabalho. E aí. A [PESSOA], que é a coordenadora, está de férias. Aí é para a [PESSOA]. Estou perguntando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: para ela se ela está.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá bom. [LOCAL]. [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Elas tiveram entrevista.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tiveram entrevista lá segunda",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: às 15h. Tá. Segunda às 15h. Cara, eu tô com uma pré-reserva aqui. Deixa eu ver. Esses caras aqui me deixaram com uma pré-reserva. É, só que essa pré-reserva aqui, pode, eu consigo mudar. Deixa eu só ver se é o que eu tô pensando. Ah, não. Essa dá de boa pra mudar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.49,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: confirmar. Manda o convite pra mim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Opa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: maravilha. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: segunda, dia",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: 9,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCUTOR 1]: 15 horas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Fechou? Fechou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Fechou,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Obrigado, cara. De nada. Um abraço.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4578,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

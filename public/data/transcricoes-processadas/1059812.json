@@ -1,0 +1,2629 @@
+{
+  "id_reuniao": "1059812",
+  "codt": "TFDBLE",
+  "data_reuniao": "2026-02-10 16:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 12]: Permitir três convidados. Tá, eu vou... Vamos deixar os assistentes aqui e tal. Eu vou permitir ele aqui. Tá conectado ali? Quero ligar a TV. Controle direto aqui? [EMPRESA], [PESSOA].\n[LOCUTOR 10]: Boa tarde. Tudo bem,\n[LOCUTOR 12]: [LOCAL]? Tudo\n[LOCUTOR 10]: bem? Tudo, cara.\n[LOCUTOR 12]: Deixa só, nós estamos numa sala aqui. Deixa o [PESSOA] botar ali o... Deixa eu... Aí,\n[LOCUTOR 10]: deixa eu\n[LOCUTOR 12]: botar o meu aqui, que senão vai dar\n[LOCUTOR 10]: pior. Problemático,\n[LOCUTOR 12]: né, [PESSOA]? Só um pouquinho aí, [LOCAL]. Nós estamos todos numa sala aqui, aproveitando que está todo mundo na\n[LOCUTOR 10]: Tots.\n[LOCUTOR 12]: E aí, um dos notebooks nós vamos colocar na... Eu vou entrar só pra aparecer aqui. Ah, sim, mas qualquer... Não, mas daí eu boto ali,\n[LOCUTOR 10]: ó.\n[LOCUTOR 12]: Ah, tu vai botar a câmera aqui? Sim.\n[LOCUTOR 10]: Só\n[LOCUTOR 12]: bota o teu armudo daí ali,\n[LOCUTOR 10]: tá?\n[LOCUTOR 12]: A gente se organiza, vamos ver se vai rolar agora.\n[LOCUTOR 10]: Vamos\n[LOCUTOR 12]: lá, vamos lá. [EMPRESA] [PESSOA].\n[LOCUTOR 10]: Opa.\n[LOCUTOR 12]: O meu tá bizarro aqui. Tu tem que tirar o som do computador. Mas tá saindo a minha câmera. Só um pouquinho aí meu querido. mas o meu som não poderia mais tá saindo aqui tá saindo? vou entrar mas eu vou mudar o meu, tirei o som do\n[LOCUTOR 10]: meu aqui\n[LOCUTOR 12]: agora tá saindo lá vem pra cá se não tinha aparecido pode sair, a gente fica ali, todo mundo\n[LOCUTOR 10]: ali\n[LOCUTOR 12]: nos enxerga aí,\n[LOCUTOR 10]: [PESSOA]? tô enxergando\n[LOCUTOR 12]: Então tá. Eu tô aqui, mas apareço\n[LOCUTOR 10]: aqui\n[LOCUTOR 12]: também, [PESSOA]. Eu\n[LOCUTOR 10]: tô aqui, mas tô ali.\n[LOCUTOR 12]: É, é. Mas eu voltei e não tá dando microfonia aí, né? Não,\n[LOCUTOR 10]: não.\n[LOCUTOR 12]: Tá meio bagunçado o som.\n[LOCUTOR 10]: Não, tá\n[LOCUTOR 12]: super bem. Então, [PESSOA], obrigado aí, né, pelo convite que eu te fiz aí de última hora, mas que nem eu te comentei por áudios, né? A gente teve aquele evento que eu até tinha te mandado o convite, né? A gente tem o [PESSOA], que é nosso especialista aí, totos dessas soluções cross. E o [PESSOA], que tá aqui com a gente,\n[LOCUTOR 10]: é um\n[LOCUTOR 12]: parceiro que tem uma experiência aí em algumas integrações [PESSOA], enfim, esses... Vou chamar assim, né, galera? Me corrija aí. Produtos cross,\n[LOCUTOR 10]: tá?\n[LOCUTOR 12]: Então, eu promover essa agenda meio de última hora, para que a gente de fato consiga entender a tua demanda, para entender se o caminho é, tu tinha me passado lá a questão de [EMPRESA], entender se [EMPRESA] vai te atender, então tem algumas questões aí que daqui a pouco o [PESSOA] e o [PESSOA] tem, para a gente entender se vai conseguir te atender ou não, e poder te propor alguma coisa que vá te atender, não vai te deixar a pé ou no meio do caminho. Você quer comentar qual que é a demanda, como é que vocês acham melhor? Eu quero,\n[LOCUTOR 10]: eu quero. Na verdade, pessoal, a nossa demanda é começar a operar no mercado livre\n[LOCUTOR 12]: [EMPRESA].\n[LOCUTOR 10]: Então nós somos uma indústria moveleira, a gente vende imóvel desmontado na caixa, já\n[LOCUTOR 12]: trabalhamos\n[LOCUTOR 10]: com o\n[LOCUTOR 12]: mercado\n[LOCUTOR 10]: livre, porém a gente quer dar um passo extra e trabalhar com o mercado livre [EMPRESA], aí a gente tem um estreitamento de lead time de frete, a gente tem um ramp up de venda prometido muito grande caso a gente entre nessa modalidade, porém a gente não vai conseguir entrar com o nosso mix completo, a gente vai ter que entrar com o mix bem mais diminuto, porque existem algumas restrições de cubagem, de tamanho, etc. Visto que a gente vai estar usando a estrutura de armazenamento do mercado livre para estocar essa mercadoria, e quando ela for vendida, quem vai cuidar de todo o handling e despacho disso é o mercado livre. Então, pelo que eu observei, como é que funciona a dinâmica deles? A gente cede uma cópia do nosso certificado digital para e eles vão ser responsáveis pela emissão de três notas em nosso nome. Então, a gente precisa criar uma série específica dentro do\n[LOCUTOR 12]: [PESSOA],\n[LOCUTOR 10]: exclusiva para o mercado livre, e eles vão fazer uma nota de remessa. \n[LOCUTOR 1]: vender,\n[LOCUTOR 10]: eles fazem uma nota de retorno e uma nota de venda. Então, no início, eu nem sei o quanto vai ser isso. Pode ser que seja uma, cinco, dez,\n[LOCUTOR 12]: quinze,\n[LOCUTOR 10]: vinte notas. A gente não sabe ainda o volume que isso e o tamanho, a proporção que isso vai ter. Para vocês terem uma ideia, hoje o nosso e-commerce inteiro vem de 250 mil meses. Então também não é um negócio muito grande. Então eu queria uma solução que, primeiro, não fosse tão\n[LOCUTOR 12]: custódica,\n[LOCUTOR 10]: não fosse tão difícil de implementar e que me permitisse integrar essas três\n[LOCUTOR 12]: notas.\n[LOCUTOR 10]: Por quê? Eu quero fugir do lançamento manual. Eu não quero alguém do fiscal aí tendo que lançar três notas e se não lançada aí o estoque tá furado, começa a não condizer. Então eu gostaria que conforme o mercado livre fosse processando essas vendas, a gente automaticamente já\n[LOCUTOR 12]: fosse\n[LOCUTOR 10]: lançando. E lançando de forma automática. Pode ser que vocês me digam, não, não existe essa solução barata e rápida de implantar e talvez faça sentido no início tu realmente mexer um pouco ali no [EMPRESA] e lançar. Pode ser\n[LOCUTOR 12]: que sim.\n[LOCUTOR 10]: Mas talvez tenha alguma sugestão que seja um pouco mais simpória.\n[LOCUTOR 12]: Não, beleza. Essa parte, [PESSOA], das notas fiscais e todo esse controle não só do mercado livre, caso vocês queiram depois começar a trabalhar com outros marketplaces, o Lexo não é a minha especialidade. Eu estou mais aqui por causa da parte das integrações. mas o [EMPRESA] ele faria, ele seria o\n[LOCUTOR 10]: hub\n[LOCUTOR 12]: que conectaria para facilitar isso para vocês. É claro que, como tu falou, tu vai ter que personalizar dentro [LOCAL]. E essa parte tu talvez não vai ter como fugir para poder integrar com o [EMPRESA]. E aí no [EMPRESA] tu vai ter essa gestão, dá para dizer\n[LOCUTOR 10]: assim,\n[LOCUTOR 12]: das notas fiscais, de pedido, de produto, de estoque, de cliente, Até a questão, quero separar estoque, não quero separar estoque, vou ter um estoque só para o marketplace ou não,\n[LOCUTOR 10]: se\n[LOCUTOR 12]: você depois trabalhar com outros marketplaces. além do [EMPRESA], quanto te libera para cada um ou não. Então aí dentro do [EMPRESA] vocês conseguiriam ter essa solução. Ainda assim, se vocês não querem ter trabalho manual, aí tu poderia integrar o [EMPRESA] com o [PESSOA].\n[LOCUTOR 10]: E\n[LOCUTOR 12]: aí sim pegar tudo isso, por exemplo, tabela de preços, produto, estoque, integrar pedido e tudo mais, então os [PESSOA] integram tudo no [EMPRESA] e do [EMPRESA] tu faz uma conexão única com o DataSoup.\n[LOCUTOR 10]: Sim.\n[LOCUTOR 12]: Aí tu não tem que conectar cada um,\n[LOCUTOR 10]: né?\n[LOCUTOR 12]: Eu\n[LOCUTOR 10]: fico um pouco confuso com o tamanho e o escopo porque hoje a gente usa NMarketing já para\n[LOCUTOR 12]: ser\n[LOCUTOR 10]: o middleware ali\n[LOCUTOR 12]: entre\n[LOCUTOR 10]: os nossos [PESSOA] e... Mas a gente não tem ele integrado no [LOCAL], né? A gente não tem. Ele é basicamente a ponte para itens, [PESSOA], esse tipo de coisa. Mas ele não tem sincronismo nenhum com o sistema hoje. Não ativa, né? Então pode ser que sim, talvez a solução seja realmente migrar a plataforma para ter uma integração um pouco mais fluida entre esta plataforma intermediária e o [EMPRESA]. Sim. Em consequência, pode ser que comece por causa do [LOCAL].\n[LOCUTOR 12]: E depois faça os outros,\n[LOCUTOR 10]: né? E depois lá para os outros.\n[LOCUTOR 12]: Você já tem outros [PESSOA] hoje operando\n[LOCUTOR 10]: ou não? Hoje a gente tem a plataforma do e-commerce, hoje roda em [LOCAL]. Daí a gente tem o nosso próprio e-commerce, né? E além deste canal, a gente está no [LOCAL], na [EMPRESA], no [LOCAL].\n[LOCUTOR 12]: só.\n[LOCUTOR 10]: E aí, claro, no [LOCAL] a [LOCAL], só que aí no [LOCAL] a [LOCAL], que nem eu falei para o [LOCAL], é uma integração nativa, desenvolvida em Progress mesmo, que está rodando e\n[LOCUTOR 12]: fazendo toda a integração. Ah, não está passando pela AnyMarket?\n[LOCUTOR 10]: Não.\n[LOCUTOR 12]: Tá. Essa talvez não se mexeria, né? É, essa não tem, assim... A gente já conversou no passado algumas vezes, né, [PESSOA]? Eu lembro de a gente já ter falado, [PESSOA] trouxe essa demanda e a gente faz muita questão de\n[LOCUTOR 10]: entender\n[LOCUTOR 12]: antes de sugerir qualquer coisa,\n[LOCUTOR 10]: tá?\n[LOCUTOR 12]: Um dos passos mais importantes nesse projeto é justamente a integração, que é um diferencial para ti, tendo o [PESSOA]. No [EMPRESA], a gente não tem isso de prateleira,\n[LOCUTOR 10]: tá? A\n[LOCUTOR 12]: gente tem aqui um especialista que está conversando com a gente, que é o Thiago, que tem toda a linguagem [PESSOA],\n[LOCUTOR 10]: tem\n[LOCUTOR 12]: construções de outras áreas e validou essa\n[LOCUTOR 10]: integração, né?\n[LOCUTOR 12]: fez o estudo e pode fazer sob medida, vamos integrar quais pontos\n[LOCUTOR 10]: aí\n[LOCUTOR 12]: que a gente\n[LOCUTOR 10]: construir.\n[LOCUTOR 12]: E já antecipando algo que é um investimento que é factível pelo tamanho da operação, bem reduzido. Nesse caso, o [PESSOA], que está conosco aqui, eu pedi para ele entrar aqui porque ele é um especialista em [EMPRESA] e também um consultor homologado de mercado livre, conhece muito dessa área. Saber que a tua operação está indo para essa linha do Full, essa questão das notas que te preocupa\n[LOCUTOR 10]: aí,\n[LOCUTOR 12]: então,\n[LOCUTOR 10]: como ele\n[LOCUTOR 12]: estava disponível, eu pedi para ele entrar, até para, tecnicamente, de repente, já superar algo\n[LOCUTOR 10]: assim.\n[LOCUTOR 12]: Vai ou não vai? Dá ou não dá? [LOCAL] a pena a gente marcar uma apresentação? Entendendo que você já está com um N Marketing hoje, o grande diferencial de [EMPRESA] seria trabalhar mais do que um CNPJ, teriam alguns diferenciais que a gente\n[LOCUTOR 10]: já tem,\n[LOCUTOR 12]: e está com um fornecedor, que é a TOTUS, que é o principal fornecedor de tecnologia. Então, nessa linha, alguma dúvida específica, além daquilo que eu te passei das notas?\n[LOCUTOR 19]: Não, bem rapidinho. Boa tarde [PESSOA],\n[LOCUTOR 10]: tudo bem com você? Tudo bem, e\n[LOCUTOR 19]: você [PESSOA]? Tudo ótimo. Vamos lá, via de regra o [EMPRESA] Hub traz a mesma premissa do que o [PESSOA], gerar a sincronização de estoque, produto e preço do que você tem no seu\n[LOCUTOR 10]: ERP\n[LOCUTOR 19]: com as plataformas. Eu entendi que hoje você não tem integração do\n[LOCUTOR 10]: [LOCUTOR 7]: com o [PESSOA], certo? [PESSOA].\n[LOCUTOR 19]: [PESSOA], então eu ia trazer essa proposta de integração entre o ERP e o [LOCAL] e ia poder sincronizar todo esse estoque, produto e preço com cada plataforma que você vende e também o recebimento de pedidos dessa plataforma integrando com\n[LOCUTOR 12]: o seu\n[LOCUTOR 19]: ERP, gerando faturamento, baixa de estoque,\n[LOCUTOR 12]: etc.\n[LOCUTOR 19]: No quesito do\n[LOCUTOR 12]: [EMPRESA],\n[LOCUTOR 19]: eu tenho isso rodando muito com clientes de proteus, tá, [PESSOA]? E aí é aquela necessidade\n[LOCUTOR 10]: padrão.\n[LOCUTOR 19]: Cliente de proteus, a grande maioria das vezes, tem incorporado dentro do [PESSOA] toda parte contábil e fiscal da\n[LOCUTOR 10]: empresa,\n[LOCUTOR 19]: e aí ele necessita que\n[LOCUTOR 10]: as notas\n[LOCUTOR 19]: que foram emitidas externamente ao\n[LOCUTOR 10]: [PESSOA]\n[LOCUTOR 19]: sejam integradas e\n[LOCUTOR 10]: alimente\n[LOCUTOR 19]: toda parte fiscal e contábil, ou se tiver seus PED fiscal e etc.\n[LOCUTOR 10]: Acho que\n[LOCUTOR 19]: é essa a\n[LOCUTOR 10]: procura. É,\n[LOCUTOR 19]: é\n[LOCUTOR 10]: a procura.\n[LOCUTOR 19]: procura padrão de quem tem [EMPRESA] aí\n[LOCUTOR 10]: e\n[LOCUTOR 19]: acaba gerindo toda a parte fiscal e contábil dentro do\n[LOCUTOR 10]: [EMPRESA].\n[LOCUTOR 19]: A [EMPRESA] já está integrada com o [LOCAL], [LOCAL], [LOCAL] e [EMPRESA] no quesito de [EMPRESA] da\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 19]: Eu já recebo os pedidos e as notas fiscais, cada pedido de [EMPRESA] tendo, no mínimo, os três [EMPRESA], uma\n[LOCUTOR 10]: de\n[LOCUTOR 19]: venda, uma CTR e uma de movimentação simbólica entre depósitos e eu já tenho isso armazenado na API do\n[LOCUTOR 10]: [EMPRESA].\n[LOCUTOR 19]: A grande\n[LOCUTOR 12]: questão\n[LOCUTOR 19]: é que para o Proteus foi desenvolvida uma solução em [LOCAL] dentro do Proteus para poder atender essa necessidade. Dentro [LOCAL] é a mesma\n[LOCUTOR 10]: questão.\n[LOCUTOR 19]: Tem que ter um desenvolvimento dentro [LOCAL] para poder pegar essas\n[LOCUTOR 10]: notas\n[LOCUTOR 19]: e escriturar, digamos assim, dentro [LOCAL],\n[LOCUTOR 10]: entendeu?\n[LOCUTOR 19]: Tudo\n[LOCUTOR 10]: de forma automática. Pelo que eu entendi, essa pavimentação entre [PESSOA] e [EMPRESA], por mais que sejam produtos da mesma empresa, não existe nada de prateleira já pré-pronta.\n[LOCUTOR 19]: Gosto de ser honesto, [PESSOA],\n[LOCUTOR 12]: não.\n[LOCUTOR 19]: Não tem. Tem\n[LOCUTOR 10]: estudos\n[LOCUTOR 19]: para poder desenvolver isso, mas nesse momento eu não tenho nenhum case para te passar. Eu tenho inúmeros cases de proteção. de Windows, de Windows, de Windows, de Windows, de Windows, de Windows, de Windows,\n[LOCUTOR 10]: de Windows, de de Windows, de Windows, de Windows, de de Windows, de de Windows, de Windows,\n[LOCUTOR 19]: de\n[LOCUTOR 10]: Windows, de\n[LOCUTOR 19]: de Windows, de de Windows, de Windows,\n[LOCUTOR 12]: de\n[LOCUTOR 10]: Windows,\n[LOCUTOR 19]: de Windows, de Windows,\n[LOCUTOR 10]: de Windows, de Windows, de Windows, de Windows, de Windows, Windows Entendo. Mas só de saber que ele já tem a ponta que o mercado livre já é grande coisa já é metade do caminho andado.\n[LOCUTOR 19]: Como eu te falei isso é uma necessidade muito grande de grandes players que trabalham com o filme. Tem muitas empresas de manufatura que não trabalham como seller sabe\n[LOCUTOR 10]: [PESSOA]\n[LOCUTOR 19]: anunciando seu produto e vendendo só trabalham com o\n[LOCUTOR 10]: filme.\n[LOCUTOR 19]: E aí tem empresas que quando vão se pôr para trabalhar com o filme não iniciam sem ter\n[LOCUTOR 12]: isso já\n[LOCUTOR 19]: desenvolvido já projetado dentro do seu próprio\n[LOCUTOR 10]: [EMPRESA] porque\n[LOCUTOR 19]: Quem trabalha com o [LOCAL] sabe que isso é uma necessidade\n[LOCUTOR 10]: extrema\n[LOCUTOR 19]: para poder organizar\n[LOCUTOR 10]: toda a\n[LOCUTOR 19]: parte fiscal e contábil da\n[LOCUTOR 10]: empresa. Eu não sei se tu estava aí quando eu mencionei números. Hoje a nossa operação de e-commerce gira mais ou menos uns 250 mil meses.\n[LOCUTOR 19]: Pedidos ou\n[LOCUTOR 10]: faturamento? Em faturamento.\n[LOCUTOR 12]: Pedidos,\n[LOCUTOR 19]: que seria\n[LOCUTOR 10]: o quê? Em quantidade\n[LOCUTOR 19]: de\n[LOCUTOR 10]: pedidos?\n[LOCUTOR 19]: Isso, em volumetria\n[LOCUTOR 10]: de pedidos. Não tem esse número na cabeça, mas o tíquete médio hoje nosso dá mais\n[LOCUTOR 12]: ou menos\n[LOCUTOR 10]: uns 700.\n[LOCUTOR 19]: Divide aí para nós, então, [PESSOA],\n[LOCUTOR 10]: vamos ver como é que dá.\n[LOCUTOR 19]: Divide o seu total de faturamento mensal pelo seu ticket\n[LOCUTOR 12]: médio.\n[LOCUTOR 10]: Divide por 749, dá uns 333 pedidos, mais ou menos, tá,\n[LOCUTOR 12]: mês.\n[LOCUTOR 19]: Não é desmerecendo a operação. Pelo amor de [PESSOA], seu ticket médio é extremamente alto para quem trabalha com\n[LOCUTOR 12]: marketplace.\n[LOCUTOR 19]: E essa é na base de plano de entrada. Porque essa volumetria,\n[LOCUTOR 10]: que é\n[LOCUTOR 19]: o que realmente importa dentro da nossa ferramenta,\n[LOCUTOR 10]: ela\n[LOCUTOR 19]: é... Não me interprete errado, [PESSOA], pelo amor de [PESSOA], mas é\n[LOCUTOR 10]: baixa. [PESSOA] exato não por isso que eu estou fazendo a pergunta porque\n[LOCUTOR 19]: não\n[LOCUTOR 10]: é um negócio grande e aí o meu vai ser de repente a gente está querendo matar uma mosca com um canhão.\n[LOCUTOR 19]: [LOCUTOR 4]: botar aqui [EMPRESA] vamos gastar desenvolver uma integração\n[LOCUTOR 12]: etc.\n[LOCUTOR 10]: E pode ser que não vinde\n[LOCUTOR 19]: o Full. Mas vamos\n[LOCUTOR 10]: lá\n[LOCUTOR 19]: o online de vocês representa quanto do faturamento da empresa.\n[LOCUTOR 10]: Representa 5 por\n[LOCUTOR 12]: cento.\n[LOCUTOR 19]: Você acha que vai crescer mais com\n[LOCUTOR 12]: o Full ou\n[LOCUTOR 10]: não. Eu acho que cresce mais o nosso o nosso produto é móvel e o fogo ele vai pegar uma fatia muito pequena porque eles têm limitações de dimensão\n[LOCUTOR 19]: e [LOCAL].\n[LOCUTOR 10]: Então é então sei lá mesa de cabeceira sapateira nós vamos ter que orbitar nessa. Então é difícil até de precisar o quanto vai crescer\n[LOCUTOR 19]: porque\n[LOCUTOR 10]: o nosso forte não é\n[LOCUTOR 19]: esse.\n[LOCUTOR 10]: Eu entendo uma pequena parte do mídia então. É complexo, sabe,\n[LOCUTOR 19]: a gente\n[LOCUTOR 10]: avaliar talvez uma solução muito grande para algo que a gente não sabe que tamanho que vai ter.\n[LOCUTOR 19]: Quanto à volumetria só de mercado livre coleta,\n[LOCUTOR 12]: o que voc\n[LOCUTOR 9]: tem? De receita?\n[LOCUTOR 19]: [LOCUTOR 6]: ser. Eu acho que desses 250, cara, eu acho que uns 135 são mercado livre. Mas dois quartos é um pouquinho mais do que dois\n[LOCUTOR 10]: quartos.\n[LOCUTOR 19]: O faturamento total é só mercado livre. Assim, eu tenho por experiência de mercado já o [PESSOA], que Full Filament gera um aumento de 100%, 70% de pedidos de venda na sua\n[LOCUTOR 10]: operação.\n[LOCUTOR 19]: Você ia sair desses cento e poucos mil que você comentou para uns 200. Eu gosto muito, eu sou muito, muito... Faltou o termo agora?\n[LOCUTOR 12]: Transparente, [PESSOA]?\n[LOCUTOR 19]: Também, pode ser transparente. Eu gosto de que o cliente\n[LOCUTOR 10]: comece meio\n[LOCUTOR 19]: que de forma manual, para sentir a dor\n[LOCUTOR 10]: que\n[LOCUTOR 19]: é fazer isso manualmente, [PESSOA], para saber se de fato aquilo que ele vai estar contratando vai agregar valor para ele ou não,\n[LOCUTOR 10]: entendeu? Sim. Mas aí a alternativa do manual seria realmente lançar a nota de saída no sistema...\n[LOCUTOR 19]: É, voc\n[LOCUTOR 9]: teria\n[LOCUTOR 19]: que\n[LOCUTOR 10]: pegar\n[LOCUTOR 19]: o XML que foi emitido lá,\n[LOCUTOR 10]: os\n[LOCUTOR 19]: XMLs, melhor dizendo, né, fazer download deles e, de alguma forma, fazer isso\n[LOCUTOR 12]: ser\n[LOCUTOR 19]: conspirado dentro do seu data\n[LOCUTOR 12]: source.\n[LOCUTOR 19]: Dentro do Proteus, por exemplo, a gente faz toda essa integração e dá uma maquiada na hora do faturamento, entendeu, [PESSOA]? A gente pega as chaves que foram emitidas dentro do mercado livre e colocamos na\n[LOCUTOR 10]: nota,\n[LOCUTOR 19]: para que o Proteus fale, beleza, essa nota fui eu que emiti, mas na verdade não foi, já\n[LOCUTOR 10]: está sendo\n[LOCUTOR 19]: validada pelo próprio CFAZ,\n[LOCUTOR 10]: entendeu?\n[LOCUTOR 19]: Já está validada pelo [EMPRESA]\n[LOCUTOR 5]: CFAZ.\n[LOCUTOR 19]: E aí ele internaliza isso, alimentando toda a parte fiscal e contábil do próprio Proteus,\n[LOCUTOR 10]: entendeu? Sim. E isso eu concordo contigo, acho que, sei lá, talvez nos primeiros três meses seja o\n[LOCUTOR 19]: caminho.\n[LOCUTOR 10]: Eu acho\n[LOCUTOR 19]: que no primeiro mês você já pede\n[LOCUTOR 10]: a\n[LOCUTOR 19]: regra. \n[LOCUTOR 6]: ser\n[LOCUTOR 19]: que o troço\n[LOCUTOR 10]: tracionou, pode ser que o troço [PESSOA] e ganhe um volume e aí fique insustentável\n[LOCUTOR 19]: porque\n[LOCUTOR 10]: não consiga lançar tudo. E ótimo se chegarmos nesse\n[LOCUTOR 19]: ponto. é um problema bom de resolver né\n[LOCUTOR 10]: [PESSOA]? é um problema bom de resolver aí a gente pode pensar um plano B e essa questão do lançamento\n[LOCUTOR 12]: manual\n[LOCUTOR 10]: a gente consegue fazer nativamente no DataSue ou a gente vai precisar de alguma customização alguma coisa de consultoria?\n[LOCUTOR 19]: quem que manja de \n[LOCUTOR 3]: aqui?\n[LOCUTOR 19]: [LOCUTOR 2]: o\n[LOCUTOR 10]: Thiago.\n[LOCUTOR 12]: Mas eu não sou dev, tá?\n[LOCUTOR 19]: [LOCUTOR 11]: tenho que botar alguém do time. Mas assim, sobre propostas, padrões, o próprio Tem como fazer upload de alguma nota externa emitida a\n[LOCUTOR 10]: ele?\n[LOCUTOR 12]: Cara, até onde a gente testou, sim. Tem como fazer isso.\n[LOCUTOR 19]: Basicamente,\n[LOCUTOR 10]: seria\n[LOCUTOR 19]: isso. É uma nota que foi emitida externamente\n[LOCUTOR 12]: do seu... Mas precisa de customização, né? Vai ter que mexer lá dentro do [PESSOA],\n[LOCUTOR 10]: né?\n[LOCUTOR 19]: Ah, então teria uma customização.\n[LOCUTOR 10]: Teria que\n[LOCUTOR 12]: fazer uma customização.\n[LOCUTOR 10]: Tem\n[LOCUTOR 12]: coisas ali que não adianta, a gente não consegue... [LOCAL], eu não tenho acesso ainda ao da... Então, a gente não chegou a olhar. Hoje é a primeira conversa que eu tô\n[LOCUTOR 10]: participando.\n[LOCUTOR 12]: Mas aquilo que a gente já analisou e estudou em outros casos, teria que fazer uma customização. Então, teria que ter ali\n[LOCUTOR 19]: um...\n[LOCUTOR 12]: vai ter um custo,\n[LOCUTOR 10]: querendo\n[LOCUTOR 12]: ou não, para fazer isso acontecer dentro do\n[LOCUTOR 19]: [LOCAL].\n[LOCUTOR 10]: Sim. Eu não posso simplesmente combar no XML e importar ele de alguma forma, lançar no modo de recebimento, não.\n[LOCUTOR 19]: É, é por isso que eu fiz uma pergunta\n[LOCUTOR 12]: para quem\n[LOCUTOR 19]: mande, tá? \n[LOCUTOR 11]: particularmente não mando. O que pode acontecer ali, [PESSOA], é que dependendo como é que tu fizer isso, vai travar talvez a tua operação, né? A questão toda é também, tu vai ter três notas.\n[LOCUTOR 19]: Então,\n[LOCUTOR 12]: essa parte, querendo ou não, se ela não resolver, por\n[LOCUTOR 19]: exemplo,\n[LOCUTOR 12]: toda ela dentro do [PESSOA] ou se tu tem que replicar ela para dentro da [LOCAL], hoje tu não tem isso,\n[LOCUTOR 10]: né? Não.\n[LOCUTOR 12]: Sim.\n[LOCUTOR 10]: Entendeu?\n[LOCUTOR 12]: Então a gente teria que fazer uma customização,\n[LOCUTOR 19]: não\n[LOCUTOR 12]: adianta.\n[LOCUTOR 19]: Não\n[LOCUTOR 12]: consegue fugir muito\n[LOCUTOR 19]: dessa\n[LOCUTOR 12]: parte.\n[LOCUTOR 19]: Mas assim, [PESSOA], vocês não deixariam de ter essa operação de vendas e marketplace? Porque querendo ou não, esse total de faturamento que vocês\n[LOCUTOR 12]: têm\n[LOCUTOR 19]: querendo ou\n[LOCUTOR 12]: não,\n[LOCUTOR 19]: já está agregado na\n[LOCUTOR 10]: empresa.\n[LOCUTOR 19]: Você não gostaria de perder essa operação que vocês têm,\n[LOCUTOR 12]: certo?\n[LOCUTOR 10]: Sim. Não, de modo algum. A questão é que a gente não sabe o quanto vai ser por [EMPRESA], né? O quanto vai ser de [EMPRESA], o quanto isso vai representar de volume, o quanto vai custar uma integração também pra gente conseguir lançar os XMRs na\n[LOCUTOR 19]: mão, né? Ah, não sei mesmo. Tô enchendo o saco,\n[LOCUTOR 12]: óbvio, pelo amor de [PESSOA]. Bem parceladinho.\n[LOCUTOR 19]: Bem parceladinho, vai embora,\n[LOCUTOR 10]: né? Em 100 mil, daí a gente ter vendido dois criados-nudos por\n[LOCUTOR 19]: mês.\n[LOCUTOR 10]: \n[LOCUTOR 11]: acho que vai ser ótimo de calcular.\n[LOCUTOR 19]: Vai\n[LOCUTOR 10]: demorar 100 anos pra parar o negócio.\n[LOCUTOR 19]: Acho que é legal você começar assim. Começa com [EMPRESA],\n[LOCUTOR 10]: cara.\n[LOCUTOR 19]: Começa\n[LOCUTOR 12]: com [EMPRESA].\n[LOCUTOR 19]: [LOCUTOR 8]: ele. Porque assim, se você tiver dor de\n[LOCUTOR 10]: cabeça,\n[LOCUTOR 19]: você vai ter que assumir a dor de cabeça da quantidade que você mandou pro [EMPRESA] até zerar o\n[LOCUTOR 10]: estoque lá.\n[LOCUTOR 19]: Aí você fala,\n[LOCUTOR 10]: legal,\n[LOCUTOR 19]: vou dar uma pausa agora no\n[LOCUTOR 10]: Full,\n[LOCUTOR 19]: vou evoluir para criar uma integração para poder seguir adiante, porque teve\n[LOCUTOR 10]: tração.\n[LOCUTOR 19]: Se você é fabricante ou se você é distribuidor, tem imagem sobre o produto\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 19]: você consegue ser muito competitivo em plataforma de marketplace. Essa que é a grande questão. Se você já está lá no depósito\n[LOCUTOR 10]: do\n[LOCUTOR 19]: [EMPRESA], então é muito fácil\n[LOCUTOR 10]: ainda. A grande\n[LOCUTOR 19]: questão é o preço do seu produto, cara. Sendo honesto, sendo objetivo.\n[LOCUTOR 10]: Sim, sim. É a mesma leitura que a gente tem, né? Mas muito, muito é preço nesse mercado também, sabe? Não, eu acho que a gente pode combinar\n[LOCUTOR 19]: assim,\n[LOCUTOR 10]: eu acho que vocês podem alinhar, o [LOCAL] pode puxar isso, vê o quanto que estamos falando em termos de horas e valor. pra gente começar agora nesse primeiro momento exportando os XMLs lá do [LOCAL] que ele vai emitir e importando no DataSuite. Nada de [EMPRESA] nesse primeiro momento e nenhum outro middleware. E a gente tenta girar o primeiro mês, mês e meio assim. E vamos sentindo. Se o troço começar a tracionar a gente começa a discutir uma solução um pouco mais robusta e aí na minha cabeça Se for os para [EMPRESA] e se [EMPRESA] é um análogo a\n[LOCUTOR 19]: NMarket,\n[LOCUTOR 10]: aí eu vejo que faz sentido pensar em algo um pouco mais grande e tombando o NMarket e pegar uma solução\n[LOCUTOR 19]: em\n[LOCUTOR 10]: fotos, né?\n[LOCUTOR 19]: [PESSOA]. Eu acho super... A mesma palavra que eu tava tentando falar aquela vez, eu tô esquecendo agora. [EMPRESA]? Não, é... Eu vou lembrar. Mas eu acho que a forma mais tranquila de você iniciar, sendo bem honesto para você,\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 19]: porque, assim, aí você vai ter visibilidade de como vai estar a sua operação hoje de [LOCAL], de [LOCAL], desculpa, das plataformas que você trabalha\n[LOCUTOR 10]: integrado,\n[LOCUTOR 19]: e aí você vai falar, pô, você está tracionando assim, você já está integrando, está reduzindo um monte de trabalho, se você não tem isso\n[LOCUTOR 10]: feito\n[LOCUTOR 19]: de forma automatizada,\n[LOCUTOR 10]: integrada,\n[LOCUTOR 19]: acho que você começa a ver muito valor nessas ferramentas\n[LOCUTOR 10]: aí. Ótimo. Combinado.\n[LOCUTOR 12]: Explica a\n[LOCUTOR 19]: disposição.\n[LOCUTOR 12]: [PESSOA], time.\n[LOCUTOR 19]: Tamo junto,\n[LOCUTOR 12]: viu,\n[LOCUTOR 10]: gente? No\n[LOCUTOR 12]: [LOCAL] aqui tá centralizado o contato. Valeu, [PESSOA]. Valeu, [PESSOA]. [PESSOA], [PESSOA]. Até daqui a pouquinho.\n[LOCUTOR 19]: Até daqui a pouco. Eu tô indo pra outra\n[LOCUTOR 12]: lá.\n[LOCUTOR 19]: Abraço,\n[LOCUTOR 12]: tchau. Valeu. Valeu, obrigado.\n[LOCUTOR 10]: E o... Desculpa, enquanto eu tava falando cortou ali. Eu não entendi\n[LOCUTOR 12]: o que tu falou. Não, eu acho que centralizamos aqui no [LOCAL], então, mas um passo importante para a gente avançar e validar é o Thiago poder montar essa visão de investimento e de integração, para poder ter esse número. Ele\n[LOCUTOR 10]: vai\n[LOCUTOR 12]: precisar, provavelmente, de algumas questões técnicas que ele vai envolver um técnico dele também. Aí o [LOCAL] combina essa agenda contigo, e se tiver que envolver mais alguém aí também, só para verificar algumas situações do teu [PESSOA], ele poder verificar qual o esforço, mas o valor é... O [PESSOA] vai te passar, mas a gente acredita que... [LOCAL] até no [LOCAL] daí. É, exato. É mais se a gente ter uma noção de como é que está o data source de vocês,\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 12]: e aí poder projetar, né? Nós vamos projetar, olha, o custo vai sair mais ou menos isso, se for para fazer a entrega. integração com\n[LOCUTOR 10]: o\n[LOCUTOR 12]: [EMPRESA], aí tu já consegue ver, eu acho que da [EMPRESA] também consegue ter uma noção da implantação, né? Sim, sim. Então aí tu já vai mais ou menos ter ali\n[LOCUTOR 10]: uma\n[LOCUTOR 12]: projeção. Aí até mesmo assim, tu vai estar tateando ali o sistema rodando lá no Fulc, a gente sabe que tu vai mandar para o mercado livre, eles vão priorizar vender a tua mercadoria para liberar espaço, né cara, e tu mandar mais ali, fora que tracionar isso é muito rápido. E aí a gente já tem isso pronto, pelo menos, para se tu dizer, cara, eu vou precisar melhorar, porque tá dando bastante trabalho e tá validado. A\n[LOCUTOR 10]: gente já\n[LOCUTOR 12]: tem organizado aqui como te atender também.\n[LOCUTOR 10]: Sim, os dois cenários postos, né?\n[LOCUTOR 12]: [PESSOA]. Mas como o [PESSOA] falou, não vai dar mais que 100 mil, né? Pode estar perto, né? É, mas passado 100 mil não vai passar, não.\n[LOCUTOR 10]: At\n[LOCUTOR 2]: para te entender, tem integrações, claro. Depende muito de como está o ambiente de vocês, tá? Eu não quero criar aqui uma expectativa. Mas tem projetos desses que saem 20, 25 mil para fazer, tu consegue botar a rodar. Então, claro que, de novo, a gente precisa ter acesso ao ambiente de vocês, falando só da parte de integração, né? Depois tem implantação e\n[LOCUTOR 10]: tudo mais.\n[LOCUTOR 12]: Mas tem projetos que a gente faz que fica mais ou menos nesse ticket médio aí. Então, não é um... um valor absurdo versus o que talvez vocês ganham aí de performance pra não ter que ficar fazendo manual. O ganho, né?\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 12]: Depois dá uma olhada aí, tem que ver também o iPaaS, né? Que a gente fez considerando o\n[LOCUTOR 10]: iPaaS.\n[LOCUTOR 12]: O iPaaS a gente tinha visto no passado, né, [PESSOA]? Lembra\n[LOCUTOR 10]: pra...\n[LOCUTOR 12]: Aqui que foi que a gente viu no ano passado, ao retrasado, a questão do iPaaS,\n[LOCUTOR 10]: né?\n[LOCUTOR 12]: Então\n[LOCUTOR 10]: a\n[LOCUTOR 12]: gente tem\n[LOCUTOR 10]: que... O\n[LOCUTOR 12]: iPaaS a gente usa só pra fazer a troca entre o DataSue e o [EMPRESA].\n[LOCUTOR 10]: [EMPRESA], agora\n[LOCUTOR 12]: me lembrei. Aí também muita coisa a gente resolve ali no\n[LOCUTOR 10]: iPaaS.\n[LOCUTOR 12]: Por isso que tem que ver como é que tá o DataSue, a gente analisa com o iPaaS, porque se for direto o [EMPRESA] com o DataSue, daí é mais complexo, aí a coisa fica mais difícil. Mas se a gente botar o iPaaS ali no meio, a gente consegue resolver muita coisa\n[LOCUTOR 10]: no iPaaS. [LOCAL], senhores.\n[LOCUTOR 12]: Tá, tá. [PESSOA], foi um prazer,\n[LOCUTOR 10]: obrigado pelo seu tempo. Igualmente. Obrigado pela atenção de vocês aí também, tá?\n[LOCUTOR 12]: Um abraço. [PESSOA], obrigado. Te aciono aí amanhã ou depois pra gente marcar uma ida aí. Quero levar as minhas aí pra te conhecer pessoalmente. Aí a gente marca ali, de repente, pra semana do dia 23, eu acho que é, 24\n[LOCUTOR 10]: ali. Mas aí\n[LOCUTOR 12]: a gente fala com mais calma aí pelo\n[LOCUTOR 10]: WhatsApp. Fechou, quando tiver agenda me sinaliza.\n[LOCUTOR 12]: Show, maravilha. Obrigado, filho. Um abraço, fica bem aí.\n[LOCUTOR 10]: Igualmente,\n[LOCUTOR 12]: tchau, tchau. Tchau. Missão da onde? Eu ia olhar, mas não deu tempo. Deixa eu trazer o mouse para cá. Arte mobile.",
+  "texto_filtrado": "[LOCUTOR 12]: Permitir três convidados. Tá, eu vou... Vamos deixar os assistentes aqui e tal. Eu vou permitir ele aqui. Tá conectado ali? Quero ligar a TV. Controle direto aqui? [EMPRESA], [PESSOA].\n[LOCUTOR 12]: botar o meu aqui, que senão vai dar\n[LOCUTOR 10]: pior. Problemático,\n[LOCUTOR 12]: né, [PESSOA]? Só um pouquinho aí, [LOCAL]. Nós estamos todos numa sala aqui, aproveitando que está todo mundo na\n[LOCUTOR 10]: Tots.\n[LOCUTOR 12]: bota o teu armudo daí ali,\n[LOCUTOR 12]: A gente se organiza, vamos ver se vai rolar agora.\n[LOCUTOR 10]: Vamos\n[LOCUTOR 12]: lá, vamos lá. [EMPRESA] [PESSOA].\n[LOCUTOR 12]: O meu tá bizarro aqui. Tu tem que tirar o som do computador. Mas tá saindo a minha câmera. Só um pouquinho aí meu querido. mas o meu som não poderia mais tá saindo aqui tá saindo? vou entrar mas eu vou mudar o meu, tirei o som do\n[LOCUTOR 12]: agora tá saindo lá vem pra cá se não tinha aparecido pode sair, a gente fica ali, todo mundo\n[LOCUTOR 12]: nos enxerga aí,\n[LOCUTOR 10]: [PESSOA]? tô enxergando\n[LOCUTOR 12]: Então tá. Eu tô aqui, mas apareço\n[LOCUTOR 10]: aqui\n[LOCUTOR 10]: tô aqui, mas tô ali.\n[LOCUTOR 12]: Tá meio bagunçado o som.\n[LOCUTOR 12]: super bem. Então, [PESSOA], obrigado aí, né, pelo convite que eu te fiz aí de última hora, mas que nem eu te comentei por áudios, né? A gente teve aquele evento que eu até tinha te mandado o convite, né? A gente tem o [PESSOA], que é nosso especialista aí, totos dessas soluções cross. E o [PESSOA], que tá aqui com a gente,\n[LOCUTOR 12]: parceiro que tem uma experiência aí em algumas integrações [PESSOA], enfim, esses... Vou chamar assim, né, galera? Me corrija aí. Produtos cross,\n[LOCUTOR 12]: Então, eu promover essa agenda meio de última hora, para que a gente de fato consiga entender a tua demanda, para entender se o caminho é, tu tinha me passado lá a questão de [EMPRESA], entender se [EMPRESA] vai te atender, então tem algumas questões aí que daqui a pouco o [PESSOA] e o [PESSOA] tem, para a gente entender se vai conseguir te atender ou não, e poder te propor alguma coisa que vá te atender, não vai te deixar a pé ou no meio do caminho. Você quer comentar qual que é a demanda, como é que vocês acham melhor? Eu quero,\n[LOCUTOR 12]: [EMPRESA].\n[LOCUTOR 10]: Então nós somos uma indústria moveleira, a gente vende imóvel desmontado na caixa, já\n[LOCUTOR 12]: trabalhamos\n[LOCUTOR 10]: com o\n[LOCUTOR 12]: mercado\n[LOCUTOR 10]: livre, porém a gente quer dar um passo extra e trabalhar com o mercado livre [EMPRESA], aí a gente tem um estreitamento de lead time de frete, a gente tem um ramp up de venda prometido muito grande caso a gente entre nessa modalidade, porém a gente não vai conseguir entrar com o nosso mix completo, a gente vai ter que entrar com o mix bem mais diminuto, porque existem algumas restrições de cubagem, de tamanho, etc. Visto que a gente vai estar usando a estrutura de armazenamento do mercado livre para estocar essa mercadoria, e quando ela for vendida, quem vai cuidar de todo o handling e despacho disso é o mercado livre. Então, pelo que eu observei, como é que funciona a dinâmica deles? A gente cede uma cópia do nosso certificado digital para e eles vão ser responsáveis pela emissão de três notas em nosso nome. Então, a gente precisa criar uma série específica dentro do\n[LOCUTOR 12]: [PESSOA],\n[LOCUTOR 10]: exclusiva para o mercado livre, e eles vão fazer uma nota de remessa.\n[LOCUTOR 1]: vender,\n[LOCUTOR 10]: eles fazem uma nota de retorno e uma nota de venda. Então, no início, eu nem sei o quanto vai ser isso. Pode ser que seja uma, cinco, dez,\n[LOCUTOR 12]: quinze,\n[LOCUTOR 10]: vinte notas. A gente não sabe ainda o volume que isso e o tamanho, a proporção que isso vai ter. Para vocês terem uma ideia, hoje o nosso e-commerce inteiro vem de 250 mil meses. Então também não é um negócio muito grande. Então eu queria uma solução que, primeiro, não fosse tão\n[LOCUTOR 12]: custódica,\n[LOCUTOR 10]: não fosse tão difícil de implementar e que me permitisse integrar essas três\n[LOCUTOR 12]: notas.\n[LOCUTOR 10]: Por quê? Eu quero fugir do lançamento manual. Eu não quero alguém do fiscal aí tendo que lançar três notas e se não lançada aí o estoque tá furado, começa a não condizer. Então eu gostaria que conforme o mercado livre fosse processando essas vendas, a gente automaticamente já\n[LOCUTOR 12]: fosse\n[LOCUTOR 10]: lançando. E lançando de forma automática. Pode ser que vocês me digam, não, não existe essa solução barata e rápida de implantar e talvez faça sentido no início tu realmente mexer um pouco ali no [EMPRESA] e lançar. Pode ser\n[LOCUTOR 10]: Mas talvez tenha alguma sugestão que seja um pouco mais simpória.\n[LOCUTOR 12]: que conectaria para facilitar isso para vocês. É claro que, como tu falou, tu vai ter que personalizar dentro [LOCAL]. E essa parte tu talvez não vai ter como fugir para poder integrar com o [EMPRESA]. E aí no [EMPRESA] tu vai ter essa gestão, dá para dizer\n[LOCUTOR 12]: das notas fiscais, de pedido, de produto, de estoque, de cliente, Até a questão, quero separar estoque, não quero separar estoque, vou ter um estoque só para o marketplace ou não,\n[LOCUTOR 12]: você depois trabalhar com outros marketplaces. além do [EMPRESA], quanto te libera para cada um ou não. Então aí dentro do [EMPRESA] vocês conseguiriam ter essa solução. Ainda assim, se vocês não querem ter trabalho manual, aí tu poderia integrar o [EMPRESA] com o [PESSOA].\n[LOCUTOR 12]: aí sim pegar tudo isso, por exemplo, tabela de preços, produto, estoque, integrar pedido e tudo mais, então os [PESSOA] integram tudo no [EMPRESA] e do [EMPRESA] tu faz uma conexão única com o DataSoup.\n[LOCUTOR 10]: fico um pouco confuso com o tamanho e o escopo porque hoje a gente usa NMarketing já para\n[LOCUTOR 10]: o middleware ali\n[LOCUTOR 12]: entre\n[LOCUTOR 10]: os nossos [PESSOA] e... Mas a gente não tem ele integrado no [LOCAL], né? A gente não tem. Ele é basicamente a ponte para itens, [PESSOA], esse tipo de coisa. Mas ele não tem sincronismo nenhum com o sistema hoje. Não ativa, né? Então pode ser que sim, talvez a solução seja realmente migrar a plataforma para ter uma integração um pouco mais fluida entre esta plataforma intermediária e o [EMPRESA]. Sim. Em consequência, pode ser que comece por causa do [LOCAL].\n[LOCUTOR 12]: E depois faça os outros,\n[LOCUTOR 10]: né? E depois lá para os outros.\n[LOCUTOR 10]: ou não? Hoje a gente tem a plataforma do e-commerce, hoje roda em [LOCAL]. Daí a gente tem o nosso próprio e-commerce, né? E além deste canal, a gente está no [LOCAL], na [EMPRESA], no [LOCAL].\n[LOCUTOR 10]: E aí, claro, no [LOCAL] a [LOCAL], só que aí no [LOCAL] a [LOCAL], que nem eu falei para o [LOCAL], é uma integração nativa, desenvolvida em Progress mesmo, que está rodando e\n[LOCUTOR 12]: fazendo toda a integração. Ah, não está passando pela AnyMarket?\n[LOCUTOR 12]: Tá. Essa talvez não se mexeria, né? É, essa não tem, assim... A gente já conversou no passado algumas vezes, né, [PESSOA]? Eu lembro de a gente já ter falado, [PESSOA] trouxe essa demanda e a gente faz muita questão de\n[LOCUTOR 10]: entender\n[LOCUTOR 12]: antes de sugerir qualquer coisa,\n[LOCUTOR 12]: Um dos passos mais importantes nesse projeto é justamente a integração, que é um diferencial para ti, tendo o [PESSOA]. No [EMPRESA], a gente não tem isso de prateleira,\n[LOCUTOR 12]: gente tem aqui um especialista que está conversando com a gente, que é o Thiago, que tem toda a linguagem [PESSOA],\n[LOCUTOR 12]: construções de outras áreas e validou essa\n[LOCUTOR 10]: integração, né?\n[LOCUTOR 12]: fez o estudo e pode fazer sob medida, vamos integrar quais pontos\n[LOCUTOR 12]: que a gente\n[LOCUTOR 10]: construir.\n[LOCUTOR 12]: E já antecipando algo que é um investimento que é factível pelo tamanho da operação, bem reduzido. Nesse caso, o [PESSOA], que está conosco aqui, eu pedi para ele entrar aqui porque ele é um especialista em [EMPRESA] e também um consultor homologado de mercado livre, conhece muito dessa área. Saber que a tua operação está indo para essa linha do Full, essa questão das notas que te preocupa\n[LOCUTOR 12]: então,\n[LOCUTOR 12]: estava disponível, eu pedi para ele entrar, até para, tecnicamente, de repente, já superar algo\n[LOCUTOR 12]: Vai ou não vai? Dá ou não dá? [LOCAL] a pena a gente marcar uma apresentação? Entendendo que você já está com um N Marketing hoje, o grande diferencial de [EMPRESA] seria trabalhar mais do que um CNPJ, teriam alguns diferenciais que a gente\n[LOCUTOR 10]: já tem,\n[LOCUTOR 12]: e está com um fornecedor, que é a TOTUS, que é o principal fornecedor de tecnologia. Então, nessa linha, alguma dúvida específica, além daquilo que eu te passei das notas?\n[LOCUTOR 19]: você [PESSOA]? Tudo ótimo. Vamos lá, via de regra o [EMPRESA] Hub traz a mesma premissa do que o [PESSOA], gerar a sincronização de estoque, produto e preço do que você tem no seu\n[LOCUTOR 10]: ERP\n[LOCUTOR 19]: com as plataformas. Eu entendi que hoje você não tem integração do\n[LOCUTOR 19]: [PESSOA], então eu ia trazer essa proposta de integração entre o ERP e o [LOCAL] e ia poder sincronizar todo esse estoque, produto e preço com cada plataforma que você vende e também o recebimento de pedidos dessa plataforma integrando com\n[LOCUTOR 12]: o seu\n[LOCUTOR 19]: ERP, gerando faturamento, baixa de estoque,\n[LOCUTOR 19]: No quesito do\n[LOCUTOR 12]: [EMPRESA],\n[LOCUTOR 19]: eu tenho isso rodando muito com clientes de proteus, tá, [PESSOA]? E aí é aquela necessidade\n[LOCUTOR 10]: padrão.\n[LOCUTOR 19]: Cliente de proteus, a grande maioria das vezes, tem incorporado dentro do [PESSOA] toda parte contábil e fiscal da\n[LOCUTOR 10]: empresa,\n[LOCUTOR 19]: e aí ele necessita que\n[LOCUTOR 10]: as notas\n[LOCUTOR 19]: que foram emitidas externamente ao\n[LOCUTOR 10]: [PESSOA]\n[LOCUTOR 19]: sejam integradas e\n[LOCUTOR 10]: alimente\n[LOCUTOR 19]: toda parte fiscal e contábil, ou se tiver seus PED fiscal e etc.\n[LOCUTOR 10]: Acho que\n[LOCUTOR 19]: é essa a\n[LOCUTOR 10]: procura. É,\n[LOCUTOR 10]: a procura.\n[LOCUTOR 19]: procura padrão de quem tem [EMPRESA] aí\n[LOCUTOR 19]: acaba gerindo toda a parte fiscal e contábil dentro do\n[LOCUTOR 10]: [EMPRESA].\n[LOCUTOR 19]: A [EMPRESA] já está integrada com o [LOCAL], [LOCAL], [LOCAL] e [EMPRESA] no quesito de [EMPRESA] da\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 19]: Eu já recebo os pedidos e as notas fiscais, cada pedido de [EMPRESA] tendo, no mínimo, os três [EMPRESA], uma\n[LOCUTOR 19]: venda, uma CTR e uma de movimentação simbólica entre depósitos e eu já tenho isso armazenado na API do\n[LOCUTOR 10]: [EMPRESA].\n[LOCUTOR 19]: A grande\n[LOCUTOR 12]: questão\n[LOCUTOR 19]: é que para o Proteus foi desenvolvida uma solução em [LOCAL] dentro do Proteus para poder atender essa necessidade. Dentro [LOCAL] é a mesma\n[LOCUTOR 10]: questão.\n[LOCUTOR 19]: Tem que ter um desenvolvimento dentro [LOCAL] para poder pegar essas\n[LOCUTOR 10]: notas\n[LOCUTOR 19]: e escriturar, digamos assim, dentro [LOCAL],\n[LOCUTOR 10]: entendeu?\n[LOCUTOR 10]: de forma automática. Pelo que eu entendi, essa pavimentação entre [PESSOA] e [EMPRESA], por mais que sejam produtos da mesma empresa, não existe nada de prateleira já pré-pronta.\n[LOCUTOR 19]: Gosto de ser honesto, [PESSOA],\n[LOCUTOR 10]: estudos\n[LOCUTOR 19]: para poder desenvolver isso, mas nesse momento eu não tenho nenhum case para te passar. Eu tenho inúmeros cases de proteção. de Windows, de Windows, de Windows, de Windows, de Windows, de Windows, de Windows,\n[LOCUTOR 10]: de Windows, de de Windows, de Windows, de Windows, de de Windows, de de Windows, de Windows,\n[LOCUTOR 10]: Windows, de\n[LOCUTOR 19]: de Windows, de de Windows, de Windows,\n[LOCUTOR 10]: Windows,\n[LOCUTOR 19]: de Windows, de Windows,\n[LOCUTOR 10]: de Windows, de Windows, de Windows, de Windows, de Windows, Windows Entendo. Mas só de saber que ele já tem a ponta que o mercado livre já é grande coisa já é metade do caminho andado.\n[LOCUTOR 19]: Como eu te falei isso é uma necessidade muito grande de grandes players que trabalham com o filme. Tem muitas empresas de manufatura que não trabalham como seller sabe\n[LOCUTOR 10]: [PESSOA]\n[LOCUTOR 19]: anunciando seu produto e vendendo só trabalham com o\n[LOCUTOR 10]: filme.\n[LOCUTOR 19]: E aí tem empresas que quando vão se pôr para trabalhar com o filme não iniciam sem ter\n[LOCUTOR 12]: isso já\n[LOCUTOR 19]: desenvolvido já projetado dentro do seu próprio\n[LOCUTOR 10]: [EMPRESA] porque\n[LOCUTOR 19]: Quem trabalha com o [LOCAL] sabe que isso é uma necessidade\n[LOCUTOR 10]: extrema\n[LOCUTOR 19]: para poder organizar\n[LOCUTOR 10]: toda a\n[LOCUTOR 19]: parte fiscal e contábil da\n[LOCUTOR 10]: empresa. Eu não sei se tu estava aí quando eu mencionei números. Hoje a nossa operação de e-commerce gira mais ou menos uns 250 mil meses.\n[LOCUTOR 19]: Pedidos ou\n[LOCUTOR 10]: faturamento? Em faturamento.\n[LOCUTOR 12]: Pedidos,\n[LOCUTOR 19]: que seria\n[LOCUTOR 10]: o quê? Em quantidade\n[LOCUTOR 10]: pedidos?\n[LOCUTOR 19]: Isso, em volumetria\n[LOCUTOR 12]: ou menos\n[LOCUTOR 10]: uns 700.\n[LOCUTOR 19]: Divide aí para nós, então, [PESSOA],\n[LOCUTOR 10]: vamos ver como é que dá.\n[LOCUTOR 19]: Divide o seu total de faturamento mensal pelo seu ticket\n[LOCUTOR 12]: médio.\n[LOCUTOR 10]: Divide por 749, dá uns 333 pedidos, mais ou menos, tá,\n[LOCUTOR 19]: Não é desmerecendo a operação. Pelo amor de [PESSOA], seu ticket médio é extremamente alto para quem trabalha com\n[LOCUTOR 12]: marketplace.\n[LOCUTOR 19]: E essa é na base de plano de entrada. Porque essa volumetria,\n[LOCUTOR 10]: que é\n[LOCUTOR 19]: o que realmente importa dentro da nossa ferramenta,\n[LOCUTOR 19]: é... Não me interprete errado, [PESSOA], pelo amor de [PESSOA], mas é\n[LOCUTOR 10]: é um negócio grande e aí o meu vai ser de repente a gente está querendo matar uma mosca com um canhão.\n[LOCUTOR 19]: [LOCUTOR 4]: botar aqui [EMPRESA] vamos gastar desenvolver uma integração\n[LOCUTOR 10]: E pode ser que não vinde\n[LOCUTOR 19]: o Full. Mas vamos\n[LOCUTOR 19]: o online de vocês representa quanto do faturamento da empresa.\n[LOCUTOR 10]: Representa 5 por\n[LOCUTOR 12]: cento.\n[LOCUTOR 19]: Você acha que vai crescer mais com\n[LOCUTOR 12]: o Full ou\n[LOCUTOR 19]: e [LOCAL].\n[LOCUTOR 10]: Então é então sei lá mesa de cabeceira sapateira nós vamos ter que orbitar nessa. Então é difícil até de precisar o quanto vai crescer\n[LOCUTOR 19]: porque\n[LOCUTOR 19]: esse.\n[LOCUTOR 10]: Eu entendo uma pequena parte do mídia então. É complexo, sabe,\n[LOCUTOR 19]: a gente\n[LOCUTOR 10]: avaliar talvez uma solução muito grande para algo que a gente não sabe que tamanho que vai ter.\n[LOCUTOR 19]: Quanto à volumetria só de mercado livre coleta,\n[LOCUTOR 12]: o que voc\n[LOCUTOR 9]: tem? De receita?\n[LOCUTOR 19]: [LOCUTOR 6]: ser. Eu acho que desses 250, cara, eu acho que uns 135 são mercado livre. Mas dois quartos é um pouquinho mais do que dois\n[LOCUTOR 10]: quartos.\n[LOCUTOR 19]: O faturamento total é só mercado livre. Assim, eu tenho por experiência de mercado já o [PESSOA], que Full Filament gera um aumento de 100%, 70% de pedidos de venda na sua\n[LOCUTOR 10]: operação.\n[LOCUTOR 19]: Você ia sair desses cento e poucos mil que você comentou para uns 200. Eu gosto muito, eu sou muito, muito... Faltou o termo agora?\n[LOCUTOR 12]: Transparente, [PESSOA]?\n[LOCUTOR 19]: Também, pode ser transparente. Eu gosto de que o cliente\n[LOCUTOR 10]: comece meio\n[LOCUTOR 19]: que de forma manual, para sentir a dor\n[LOCUTOR 19]: é fazer isso manualmente, [PESSOA], para saber se de fato aquilo que ele vai estar contratando vai agregar valor para ele ou não,\n[LOCUTOR 10]: entendeu? Sim. Mas aí a alternativa do manual seria realmente lançar a nota de saída no sistema...\n[LOCUTOR 19]: É, voc\n[LOCUTOR 9]: teria\n[LOCUTOR 19]: o XML que foi emitido lá,\n[LOCUTOR 19]: XMLs, melhor dizendo, né, fazer download deles e, de alguma forma, fazer isso\n[LOCUTOR 19]: conspirado dentro do seu data\n[LOCUTOR 12]: source.\n[LOCUTOR 19]: Dentro do Proteus, por exemplo, a gente faz toda essa integração e dá uma maquiada na hora do faturamento, entendeu, [PESSOA]? A gente pega as chaves que foram emitidas dentro do mercado livre e colocamos na\n[LOCUTOR 10]: nota,\n[LOCUTOR 19]: para que o Proteus fale, beleza, essa nota fui eu que emiti, mas na verdade não foi, já\n[LOCUTOR 19]: validada pelo próprio CFAZ,\n[LOCUTOR 10]: entendeu?\n[LOCUTOR 19]: Já está validada pelo [EMPRESA]\n[LOCUTOR 5]: CFAZ.\n[LOCUTOR 19]: E aí ele internaliza isso, alimentando toda a parte fiscal e contábil do próprio Proteus,\n[LOCUTOR 19]: caminho.\n[LOCUTOR 19]: que no primeiro mês você já pede\n[LOCUTOR 19]: regra.\n[LOCUTOR 19]: que o troço\n[LOCUTOR 10]: tracionou, pode ser que o troço [PESSOA] e ganhe um volume e aí fique insustentável\n[LOCUTOR 19]: porque\n[LOCUTOR 10]: não consiga lançar tudo. E ótimo se chegarmos nesse\n[LOCUTOR 19]: ponto. é um problema bom de resolver né\n[LOCUTOR 10]: [PESSOA]? é um problema bom de resolver aí a gente pode pensar um plano B e essa questão do lançamento\n[LOCUTOR 12]: manual\n[LOCUTOR 10]: a gente consegue fazer nativamente no DataSue ou a gente vai precisar de alguma customização alguma coisa de consultoria?\n[LOCUTOR 19]: quem que manja de\n[LOCUTOR 3]: aqui?\n[LOCUTOR 19]: [LOCUTOR 2]: o\n[LOCUTOR 10]: Thiago.\n[LOCUTOR 19]: [LOCUTOR 11]: tenho que botar alguém do time. Mas assim, sobre propostas, padrões, o próprio Tem como fazer upload de alguma nota externa emitida a\n[LOCUTOR 19]: Basicamente,\n[LOCUTOR 10]: seria\n[LOCUTOR 19]: isso. É uma nota que foi emitida externamente\n[LOCUTOR 12]: do seu... Mas precisa de customização, né? Vai ter que mexer lá dentro do [PESSOA],\n[LOCUTOR 19]: Ah, então teria uma customização.\n[LOCUTOR 10]: Teria que\n[LOCUTOR 12]: fazer uma customização.\n[LOCUTOR 10]: participando.\n[LOCUTOR 12]: Mas aquilo que a gente já analisou e estudou em outros casos, teria que fazer uma customização. Então, teria que ter ali\n[LOCUTOR 12]: vai ter um custo,\n[LOCUTOR 10]: querendo\n[LOCUTOR 12]: ou não, para fazer isso acontecer dentro do\n[LOCUTOR 19]: [LOCAL].\n[LOCUTOR 10]: Sim. Eu não posso simplesmente combar no XML e importar ele de alguma forma, lançar no modo de recebimento, não.\n[LOCUTOR 19]: É, é por isso que eu fiz uma pergunta\n[LOCUTOR 12]: para quem\n[LOCUTOR 19]: mande, tá?\n[LOCUTOR 11]: particularmente não mando. O que pode acontecer ali, [PESSOA], é que dependendo como é que tu fizer isso, vai travar talvez a tua operação, né? A questão toda é também, tu vai ter três notas.\n[LOCUTOR 19]: Então,\n[LOCUTOR 19]: exemplo,\n[LOCUTOR 12]: toda ela dentro do [PESSOA] ou se tu tem que replicar ela para dentro da [LOCAL], hoje tu não tem isso,\n[LOCUTOR 10]: Entendeu?\n[LOCUTOR 12]: Então a gente teria que fazer uma customização,\n[LOCUTOR 12]: adianta.\n[LOCUTOR 12]: consegue fugir muito\n[LOCUTOR 19]: dessa\n[LOCUTOR 12]: parte.\n[LOCUTOR 19]: Mas assim, [PESSOA], vocês não deixariam de ter essa operação de vendas e marketplace? Porque querendo ou não, esse total de faturamento que vocês\n[LOCUTOR 19]: querendo ou\n[LOCUTOR 19]: já está agregado na\n[LOCUTOR 10]: empresa.\n[LOCUTOR 19]: Você não gostaria de perder essa operação que vocês têm,\n[LOCUTOR 10]: Sim. Não, de modo algum. A questão é que a gente não sabe o quanto vai ser por [EMPRESA], né? O quanto vai ser de [EMPRESA], o quanto isso vai representar de volume, o quanto vai custar uma integração também pra gente conseguir lançar os XMRs na\n[LOCUTOR 12]: óbvio, pelo amor de [PESSOA]. Bem parceladinho.\n[LOCUTOR 10]: né? Em 100 mil, daí a gente ter vendido dois criados-nudos por\n[LOCUTOR 11]: acho que vai ser ótimo de calcular.\n[LOCUTOR 10]: demorar 100 anos pra parar o negócio.\n[LOCUTOR 19]: Acho que é legal você começar assim. Começa com [EMPRESA],\n[LOCUTOR 10]: cara.\n[LOCUTOR 19]: Começa\n[LOCUTOR 12]: com [EMPRESA].\n[LOCUTOR 19]: [LOCUTOR 8]: ele. Porque assim, se você tiver dor de\n[LOCUTOR 10]: cabeça,\n[LOCUTOR 19]: você vai ter que assumir a dor de cabeça da quantidade que você mandou pro [EMPRESA] até zerar o\n[LOCUTOR 10]: estoque lá.\n[LOCUTOR 19]: Aí você fala,\n[LOCUTOR 10]: legal,\n[LOCUTOR 19]: vou dar uma pausa agora no\n[LOCUTOR 10]: Full,\n[LOCUTOR 19]: vou evoluir para criar uma integração para poder seguir adiante, porque teve\n[LOCUTOR 10]: tração.\n[LOCUTOR 19]: Se você é fabricante ou se você é distribuidor, tem imagem sobre o produto\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 19]: você consegue ser muito competitivo em plataforma de marketplace. Essa que é a grande questão. Se você já está lá no depósito\n[LOCUTOR 19]: [EMPRESA], então é muito fácil\n[LOCUTOR 10]: ainda. A grande\n[LOCUTOR 19]: questão é o preço do seu produto, cara. Sendo honesto, sendo objetivo.\n[LOCUTOR 10]: Sim, sim. É a mesma leitura que a gente tem, né? Mas muito, muito é preço nesse mercado também, sabe? Não, eu acho que a gente pode combinar\n[LOCUTOR 10]: eu acho que vocês podem alinhar, o [LOCAL] pode puxar isso, vê o quanto que estamos falando em termos de horas e valor. pra gente começar agora nesse primeiro momento exportando os XMLs lá do [LOCAL] que ele vai emitir e importando no DataSuite. Nada de [EMPRESA] nesse primeiro momento e nenhum outro middleware. E a gente tenta girar o primeiro mês, mês e meio assim. E vamos sentindo. Se o troço começar a tracionar a gente começa a discutir uma solução um pouco mais robusta e aí na minha cabeça Se for os para [EMPRESA] e se [EMPRESA] é um análogo a\n[LOCUTOR 19]: NMarket,\n[LOCUTOR 10]: aí eu vejo que faz sentido pensar em algo um pouco mais grande e tombando o NMarket e pegar uma solução\n[LOCUTOR 10]: fotos, né?\n[LOCUTOR 19]: [PESSOA]. Eu acho super... A mesma palavra que eu tava tentando falar aquela vez, eu tô esquecendo agora. [EMPRESA]? Não, é... Eu vou lembrar. Mas eu acho que a forma mais tranquila de você iniciar, sendo bem honesto para você,\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 19]: porque, assim, aí você vai ter visibilidade de como vai estar a sua operação hoje de [LOCAL], de [LOCAL], desculpa, das plataformas que você trabalha\n[LOCUTOR 10]: integrado,\n[LOCUTOR 10]: feito\n[LOCUTOR 19]: de forma automatizada,\n[LOCUTOR 10]: integrada,\n[LOCUTOR 19]: acho que você começa a ver muito valor nessas ferramentas\n[LOCUTOR 10]: aí. Ótimo. Combinado.\n[LOCUTOR 12]: Explica a\n[LOCUTOR 19]: disposição.\n[LOCUTOR 12]: [PESSOA], time.\n[LOCUTOR 19]: Tamo junto,\n[LOCUTOR 10]: gente? No\n[LOCUTOR 19]: Abraço,\n[LOCUTOR 12]: o que tu falou. Não, eu acho que centralizamos aqui no [LOCAL], então, mas um passo importante para a gente avançar e validar é o Thiago poder montar essa visão de investimento e de integração, para poder ter esse número. Ele\n[LOCUTOR 12]: precisar, provavelmente, de algumas questões técnicas que ele vai envolver um técnico dele também. Aí o [LOCAL] combina essa agenda contigo, e se tiver que envolver mais alguém aí também, só para verificar algumas situações do teu [PESSOA], ele poder verificar qual o esforço, mas o valor é... O [PESSOA] vai te passar, mas a gente acredita que... [LOCAL] até no [LOCAL] daí. É, exato. É mais se a gente ter uma noção de como é que está o data source de vocês,\n[LOCUTOR 10]: [PESSOA],\n[LOCUTOR 12]: e aí poder projetar, né? Nós vamos projetar, olha, o custo vai sair mais ou menos isso, se for para fazer a entrega. integração com\n[LOCUTOR 12]: [EMPRESA], aí tu já consegue ver, eu acho que da [EMPRESA] também consegue ter uma noção da implantação, né? Sim, sim. Então aí tu já vai mais ou menos ter ali\n[LOCUTOR 12]: projeção. Aí até mesmo assim, tu vai estar tateando ali o sistema rodando lá no Fulc, a gente sabe que tu vai mandar para o mercado livre, eles vão priorizar vender a tua mercadoria para liberar espaço, né cara, e tu mandar mais ali, fora que tracionar isso é muito rápido. E aí a gente já tem isso pronto, pelo menos, para se tu dizer, cara, eu vou precisar melhorar, porque tá dando bastante trabalho e tá validado. A\n[LOCUTOR 10]: gente já\n[LOCUTOR 2]: para te entender, tem integrações, claro. Depende muito de como está o ambiente de vocês, tá? Eu não quero criar aqui uma expectativa. Mas tem projetos desses que saem 20, 25 mil para fazer, tu consegue botar a rodar. Então, claro que, de novo, a gente precisa ter acesso ao ambiente de vocês, falando só da parte de integração, né? Depois tem implantação e\n[LOCUTOR 12]: Mas tem projetos que a gente faz que fica mais ou menos nesse ticket médio aí. Então, não é um... um valor absurdo versus o que talvez vocês ganham aí de performance pra não ter que ficar fazendo manual. O ganho, né?\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 12]: Depois dá uma olhada aí, tem que ver também o iPaaS, né? Que a gente fez considerando o\n[LOCUTOR 10]: iPaaS.\n[LOCUTOR 12]: O iPaaS a gente tinha visto no passado, né, [PESSOA]? Lembra\n[LOCUTOR 12]: Aqui que foi que a gente viu no ano passado, ao retrasado, a questão do iPaaS,\n[LOCUTOR 12]: Então\n[LOCUTOR 12]: gente tem\n[LOCUTOR 10]: que... O\n[LOCUTOR 12]: iPaaS a gente usa só pra fazer a troca entre o DataSue e o [EMPRESA].\n[LOCUTOR 10]: [EMPRESA], agora\n[LOCUTOR 12]: me lembrei. Aí também muita coisa a gente resolve ali no\n[LOCUTOR 10]: iPaaS.\n[LOCUTOR 12]: Por isso que tem que ver como é que tá o DataSue, a gente analisa com o iPaaS, porque se for direto o [EMPRESA] com o DataSue, daí é mais complexo, aí a coisa fica mais difícil. Mas se a gente botar o iPaaS ali no meio, a gente consegue resolver muita coisa\n[LOCUTOR 10]: no iPaaS. [LOCAL], senhores.\n[LOCUTOR 12]: Tá, tá. [PESSOA], foi um prazer,\n[LOCUTOR 12]: Um abraço. [PESSOA], obrigado. Te aciono aí amanhã ou depois pra gente marcar uma ida aí. Quero levar as minhas aí pra te conhecer pessoalmente. Aí a gente marca ali, de repente, pra semana do dia 23, eu acho que é, 24\n[LOCUTOR 10]: ali. Mas aí\n[LOCUTOR 12]: a gente fala com mais calma aí pelo\n[LOCUTOR 10]: WhatsApp. Fechou, quando tiver agenda me sinaliza.\n[LOCUTOR 10]: Igualmente,",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:36.018000+00:00",
+    "total_linhas": 434,
+    "linhas_mantidas": 317,
+    "linhas_removidas": 117,
+    "percentual_mantido": 73.04,
+    "confianca_media": 0.4911
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 12]: Permitir três convidados. Tá, eu vou... Vamos deixar os assistentes aqui e tal. Eu vou permitir ele aqui. Tá conectado ali? Quero ligar a TV. Controle direto aqui? [EMPRESA], [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Boa tarde. Tudo bem,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL]? Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: bem? Tudo, cara.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4346,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Deixa só, nós estamos numa sala aqui. Deixa o [PESSOA] botar ali o... Deixa eu... Aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4321,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: deixa eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: botar o meu aqui, que senão vai dar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: pior. Problemático,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: né, [PESSOA]? Só um pouquinho aí, [LOCAL]. Nós estamos todos numa sala aqui, aproveitando que está todo mundo na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tots.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: E aí, um dos notebooks nós vamos colocar na... Eu vou entrar só pra aparecer aqui. Ah, sim, mas qualquer... Não, mas daí eu boto ali,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.377,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ó.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Ah, tu vai botar a câmera aqui? Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3894,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: bota o teu armudo daí ali,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: A gente se organiza, vamos ver se vai rolar agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: lá, vamos lá. [EMPRESA] [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Opa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: O meu tá bizarro aqui. Tu tem que tirar o som do computador. Mas tá saindo a minha câmera. Só um pouquinho aí meu querido. mas o meu som não poderia mais tá saindo aqui tá saindo? vou entrar mas eu vou mudar o meu, tirei o som do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: meu aqui",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: agora tá saindo lá vem pra cá se não tinha aparecido pode sair, a gente fica ali, todo mundo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.463,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ali",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: nos enxerga aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]? tô enxergando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então tá. Eu tô aqui, mas apareço",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4809,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: também, [PESSOA]. Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tô aqui, mas tô ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: É, é. Mas eu voltei e não tá dando microfonia aí, né? Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tá meio bagunçado o som.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Não, tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: super bem. Então, [PESSOA], obrigado aí, né, pelo convite que eu te fiz aí de última hora, mas que nem eu te comentei por áudios, né? A gente teve aquele evento que eu até tinha te mandado o convite, né? A gente tem o [PESSOA], que é nosso especialista aí, totos dessas soluções cross. E o [PESSOA], que tá aqui com a gente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4738,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: é um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: parceiro que tem uma experiência aí em algumas integrações [PESSOA], enfim, esses... Vou chamar assim, né, galera? Me corrija aí. Produtos cross,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4755,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então, eu promover essa agenda meio de última hora, para que a gente de fato consiga entender a tua demanda, para entender se o caminho é, tu tinha me passado lá a questão de [EMPRESA], entender se [EMPRESA] vai te atender, então tem algumas questões aí que daqui a pouco o [PESSOA] e o [PESSOA] tem, para a gente entender se vai conseguir te atender ou não, e poder te propor alguma coisa que vá te atender, não vai te deixar a pé ou no meio do caminho. Você quer comentar qual que é a demanda, como é que vocês acham melhor? Eu quero,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.531,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: eu quero. Na verdade, pessoal, a nossa demanda é começar a operar no mercado livre",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4515,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então nós somos uma indústria moveleira, a gente vende imóvel desmontado na caixa, já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5156,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: trabalhamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: com o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: mercado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: livre, porém a gente quer dar um passo extra e trabalhar com o mercado livre [EMPRESA], aí a gente tem um estreitamento de lead time de frete, a gente tem um ramp up de venda prometido muito grande caso a gente entre nessa modalidade, porém a gente não vai conseguir entrar com o nosso mix completo, a gente vai ter que entrar com o mix bem mais diminuto, porque existem algumas restrições de cubagem, de tamanho, etc. Visto que a gente vai estar usando a estrutura de armazenamento do mercado livre para estocar essa mercadoria, e quando ela for vendida, quem vai cuidar de todo o handling e despacho disso é o mercado livre. Então, pelo que eu observei, como é que funciona a dinâmica deles? A gente cede uma cópia do nosso certificado digital para e eles vão ser responsáveis pela emissão de três notas em nosso nome. Então, a gente precisa criar uma série específica dentro do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: exclusiva para o mercado livre, e eles vão fazer uma nota de remessa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5839,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: vender,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: eles fazem uma nota de retorno e uma nota de venda. Então, no início, eu nem sei o quanto vai ser isso. Pode ser que seja uma, cinco, dez,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: quinze,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: vinte notas. A gente não sabe ainda o volume que isso e o tamanho, a proporção que isso vai ter. Para vocês terem uma ideia, hoje o nosso e-commerce inteiro vem de 250 mil meses. Então também não é um negócio muito grande. Então eu queria uma solução que, primeiro, não fosse tão",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: custódica,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: não fosse tão difícil de implementar e que me permitisse integrar essas três",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: notas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Por quê? Eu quero fugir do lançamento manual. Eu não quero alguém do fiscal aí tendo que lançar três notas e se não lançada aí o estoque tá furado, começa a não condizer. Então eu gostaria que conforme o mercado livre fosse processando essas vendas, a gente automaticamente já",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: fosse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: lançando. E lançando de forma automática. Pode ser que vocês me digam, não, não existe essa solução barata e rápida de implantar e talvez faça sentido no início tu realmente mexer um pouco ali no [EMPRESA] e lançar. Pode ser",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Mas talvez tenha alguma sugestão que seja um pouco mais simpória.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4607,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não, beleza. Essa parte, [PESSOA], das notas fiscais e todo esse controle não só do mercado livre, caso vocês queiram depois começar a trabalhar com outros marketplaces, o Lexo não é a minha especialidade. Eu estou mais aqui por causa da parte das integrações. mas o [EMPRESA] ele faria, ele seria o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4427,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: hub",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que conectaria para facilitar isso para vocês. É claro que, como tu falou, tu vai ter que personalizar dentro [LOCAL]. E essa parte tu talvez não vai ter como fugir para poder integrar com o [EMPRESA]. E aí no [EMPRESA] tu vai ter essa gestão, dá para dizer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5339,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: assim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: das notas fiscais, de pedido, de produto, de estoque, de cliente, Até a questão, quero separar estoque, não quero separar estoque, vou ter um estoque só para o marketplace ou não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: você depois trabalhar com outros marketplaces. além do [EMPRESA], quanto te libera para cada um ou não. Então aí dentro do [EMPRESA] vocês conseguiriam ter essa solução. Ainda assim, se vocês não querem ter trabalho manual, aí tu poderia integrar o [EMPRESA] com o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5389,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: aí sim pegar tudo isso, por exemplo, tabela de preços, produto, estoque, integrar pedido e tudo mais, então os [PESSOA] integram tudo no [EMPRESA] e do [EMPRESA] tu faz uma conexão única com o DataSoup.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Aí tu não tem que conectar cada um,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4368,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: fico um pouco confuso com o tamanho e o escopo porque hoje a gente usa NMarketing já para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o middleware ali",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: entre",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5133,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: os nossos [PESSOA] e... Mas a gente não tem ele integrado no [LOCAL], né? A gente não tem. Ele é basicamente a ponte para itens, [PESSOA], esse tipo de coisa. Mas ele não tem sincronismo nenhum com o sistema hoje. Não ativa, né? Então pode ser que sim, talvez a solução seja realmente migrar a plataforma para ter uma integração um pouco mais fluida entre esta plataforma intermediária e o [EMPRESA]. Sim. Em consequência, pode ser que comece por causa do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: E depois faça os outros,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né? E depois lá para os outros.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Você já tem outros [PESSOA] hoje operando",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ou não? Hoje a gente tem a plataforma do e-commerce, hoje roda em [LOCAL]. Daí a gente tem o nosso próprio e-commerce, né? E além deste canal, a gente está no [LOCAL], na [EMPRESA], no [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: só.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E aí, claro, no [LOCAL] a [LOCAL], só que aí no [LOCAL] a [LOCAL], que nem eu falei para o [LOCAL], é uma integração nativa, desenvolvida em Progress mesmo, que está rodando e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: fazendo toda a integração. Ah, não está passando pela AnyMarket?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tá. Essa talvez não se mexeria, né? É, essa não tem, assim... A gente já conversou no passado algumas vezes, né, [PESSOA]? Eu lembro de a gente já ter falado, [PESSOA] trouxe essa demanda e a gente faz muita questão de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4752,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: entender",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: antes de sugerir qualquer coisa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Um dos passos mais importantes nesse projeto é justamente a integração, que é um diferencial para ti, tendo o [PESSOA]. No [EMPRESA], a gente não tem isso de prateleira,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tá? A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: gente tem aqui um especialista que está conversando com a gente, que é o Thiago, que tem toda a linguagem [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5054,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: construções de outras áreas e validou essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: integração, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: fez o estudo e pode fazer sob medida, vamos integrar quais pontos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5529,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: construir.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: E já antecipando algo que é um investimento que é factível pelo tamanho da operação, bem reduzido. Nesse caso, o [PESSOA], que está conosco aqui, eu pedi para ele entrar aqui porque ele é um especialista em [EMPRESA] e também um consultor homologado de mercado livre, conhece muito dessa área. Saber que a tua operação está indo para essa linha do Full, essa questão das notas que te preocupa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: como ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: estava disponível, eu pedi para ele entrar, até para, tecnicamente, de repente, já superar algo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5193,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: assim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Vai ou não vai? Dá ou não dá? [LOCAL] a pena a gente marcar uma apresentação? Entendendo que você já está com um N Marketing hoje, o grande diferencial de [EMPRESA] seria trabalhar mais do que um CNPJ, teriam alguns diferenciais que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: já tem,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: e está com um fornecedor, que é a TOTUS, que é o principal fornecedor de tecnologia. Então, nessa linha, alguma dúvida específica, além daquilo que eu te passei das notas?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Não, bem rapidinho. Boa tarde [PESSOA],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.38,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tudo bem com você? Tudo bem, e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4403,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: você [PESSOA]? Tudo ótimo. Vamos lá, via de regra o [EMPRESA] Hub traz a mesma premissa do que o [PESSOA], gerar a sincronização de estoque, produto e preço do que você tem no seu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ERP",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: com as plataformas. Eu entendi que hoje você não tem integração do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCUTOR 7]: com o [PESSOA], certo? [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA], então eu ia trazer essa proposta de integração entre o ERP e o [LOCAL] e ia poder sincronizar todo esse estoque, produto e preço com cada plataforma que você vende e também o recebimento de pedidos dessa plataforma integrando com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o seu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: ERP, gerando faturamento, baixa de estoque,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: etc.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: No quesito do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: eu tenho isso rodando muito com clientes de proteus, tá, [PESSOA]? E aí é aquela necessidade",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: padrão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Cliente de proteus, a grande maioria das vezes, tem incorporado dentro do [PESSOA] toda parte contábil e fiscal da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: empresa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e aí ele necessita que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: as notas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que foram emitidas externamente ao",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: sejam integradas e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: alimente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: toda parte fiscal e contábil, ou se tiver seus PED fiscal e etc.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: é essa a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: procura. É,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a procura.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: procura padrão de quem tem [EMPRESA] aí",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5679,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: acaba gerindo toda a parte fiscal e contábil dentro do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: A [EMPRESA] já está integrada com o [LOCAL], [LOCAL], [LOCAL] e [EMPRESA] no quesito de [EMPRESA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5578,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Eu já recebo os pedidos e as notas fiscais, cada pedido de [EMPRESA] tendo, no mínimo, os três [EMPRESA], uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5599,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: venda, uma CTR e uma de movimentação simbólica entre depósitos e eu já tenho isso armazenado na API do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: A grande",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: questão",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: é que para o Proteus foi desenvolvida uma solução em [LOCAL] dentro do Proteus para poder atender essa necessidade. Dentro [LOCAL] é a mesma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: questão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Tem que ter um desenvolvimento dentro [LOCAL] para poder pegar essas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5049,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: notas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e escriturar, digamos assim, dentro [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: de forma automática. Pelo que eu entendi, essa pavimentação entre [PESSOA] e [EMPRESA], por mais que sejam produtos da mesma empresa, não existe nada de prateleira já pré-pronta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Gosto de ser honesto, [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.565,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Não tem. Tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: estudos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: para poder desenvolver isso, mas nesse momento eu não tenho nenhum case para te passar. Eu tenho inúmeros cases de proteção. de Windows, de Windows, de Windows, de Windows, de Windows, de Windows, de Windows,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: de Windows, de de Windows, de Windows, de Windows, de de Windows, de de Windows, de Windows,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Windows, de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: de Windows, de de Windows, de Windows,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Windows,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: de Windows, de Windows,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: de Windows, de Windows, de Windows, de Windows, de Windows, Windows Entendo. Mas só de saber que ele já tem a ponta que o mercado livre já é grande coisa já é metade do caminho andado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6013,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Como eu te falei isso é uma necessidade muito grande de grandes players que trabalham com o filme. Tem muitas empresas de manufatura que não trabalham como seller sabe",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: anunciando seu produto e vendendo só trabalham com o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5372,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: filme.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E aí tem empresas que quando vão se pôr para trabalhar com o filme não iniciam sem ter",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5146,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: isso já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: desenvolvido já projetado dentro do seu próprio",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [EMPRESA] porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Quem trabalha com o [LOCAL] sabe que isso é uma necessidade",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: extrema",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: para poder organizar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: toda a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: parte fiscal e contábil da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: empresa. Eu não sei se tu estava aí quando eu mencionei números. Hoje a nossa operação de e-commerce gira mais ou menos uns 250 mil meses.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Pedidos ou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: faturamento? Em faturamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Pedidos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que seria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o quê? Em quantidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5366,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: pedidos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Isso, em volumetria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: de pedidos. Não tem esse número na cabeça, mas o tíquete médio hoje nosso dá mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.454,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: ou menos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: uns 700.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Divide aí para nós, então, [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: vamos ver como é que dá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4967,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Divide o seu total de faturamento mensal pelo seu ticket",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: médio.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Divide por 749, dá uns 333 pedidos, mais ou menos, tá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: mês.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Não é desmerecendo a operação. Pelo amor de [PESSOA], seu ticket médio é extremamente alto para quem trabalha com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: marketplace.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E essa é na base de plano de entrada. Porque essa volumetria,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5743,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: o que realmente importa dentro da nossa ferramenta,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ela",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: é... Não me interprete errado, [PESSOA], pelo amor de [PESSOA], mas é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: baixa. [PESSOA] exato não por isso que eu estou fazendo a pergunta porque",
+      "mantida": false,
+      "probabilidade_relevancia": 0.437,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: é um negócio grande e aí o meu vai ser de repente a gente está querendo matar uma mosca com um canhão.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCUTOR 4]: botar aqui [EMPRESA] vamos gastar desenvolver uma integração",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: etc.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E pode ser que não vinde",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4807,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: o Full. Mas vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: lá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: o online de vocês representa quanto do faturamento da empresa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5748,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Representa 5 por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: cento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Você acha que vai crescer mais com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4941,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o Full ou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: não. Eu acho que cresce mais o nosso o nosso produto é móvel e o fogo ele vai pegar uma fatia muito pequena porque eles têm limitações de dimensão",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4433,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então é então sei lá mesa de cabeceira sapateira nós vamos ter que orbitar nessa. Então é difícil até de precisar o quanto vai crescer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o nosso forte não é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: esse.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu entendo uma pequena parte do mídia então. É complexo, sabe,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5292,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: avaliar talvez uma solução muito grande para algo que a gente não sabe que tamanho que vai ter.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5063,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Quanto à volumetria só de mercado livre coleta,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o que voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tem? De receita?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCUTOR 6]: ser. Eu acho que desses 250, cara, eu acho que uns 135 são mercado livre. Mas dois quartos é um pouquinho mais do que dois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4994,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: quartos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: O faturamento total é só mercado livre. Assim, eu tenho por experiência de mercado já o [PESSOA], que Full Filament gera um aumento de 100%, 70% de pedidos de venda na sua",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: operação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Você ia sair desses cento e poucos mil que você comentou para uns 200. Eu gosto muito, eu sou muito, muito... Faltou o termo agora?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Transparente, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Também, pode ser transparente. Eu gosto de que o cliente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: comece meio",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que de forma manual, para sentir a dor",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: é fazer isso manualmente, [PESSOA], para saber se de fato aquilo que ele vai estar contratando vai agregar valor para ele ou não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: entendeu? Sim. Mas aí a alternativa do manual seria realmente lançar a nota de saída no sistema...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5516,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: É, voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: teria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: pegar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: o XML que foi emitido lá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5415,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: os",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: XMLs, melhor dizendo, né, fazer download deles e, de alguma forma, fazer isso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: conspirado dentro do seu data",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: source.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Dentro do Proteus, por exemplo, a gente faz toda essa integração e dá uma maquiada na hora do faturamento, entendeu, [PESSOA]? A gente pega as chaves que foram emitidas dentro do mercado livre e colocamos na",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: nota,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: para que o Proteus fale, beleza, essa nota fui eu que emiti, mas na verdade não foi, já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4656,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: está sendo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: validada pelo próprio CFAZ,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Já está validada pelo [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4856,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: CFAZ.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E aí ele internaliza isso, alimentando toda a parte fiscal e contábil do próprio Proteus,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: entendeu? Sim. E isso eu concordo contigo, acho que, sei lá, talvez nos primeiros três meses seja o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: caminho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu acho",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que no primeiro mês você já pede",
+      "mantida": true,
+      "probabilidade_relevancia": 0.525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: regra.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que o troço",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tracionou, pode ser que o troço [PESSOA] e ganhe um volume e aí fique insustentável",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5238,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: não consiga lançar tudo. E ótimo se chegarmos nesse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: ponto. é um problema bom de resolver né",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]? é um problema bom de resolver aí a gente pode pensar um plano B e essa questão do lançamento",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: manual",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a gente consegue fazer nativamente no DataSue ou a gente vai precisar de alguma customização alguma coisa de consultoria?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: quem que manja de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCUTOR 2]: o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Thiago.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Mas eu não sou dev, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCUTOR 11]: tenho que botar alguém do time. Mas assim, sobre propostas, padrões, o próprio Tem como fazer upload de alguma nota externa emitida a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ele?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Cara, até onde a gente testou, sim. Tem como fazer isso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3792,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Basicamente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: seria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: isso. É uma nota que foi emitida externamente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5414,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: do seu... Mas precisa de customização, né? Vai ter que mexer lá dentro do [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Ah, então teria uma customização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Teria que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: fazer uma customização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: coisas ali que não adianta, a gente não consegue... [LOCAL], eu não tenho acesso ainda ao da... Então, a gente não chegou a olhar. Hoje é a primeira conversa que eu tô",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4257,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: participando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Mas aquilo que a gente já analisou e estudou em outros casos, teria que fazer uma customização. Então, teria que ter ali",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: um...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: vai ter um custo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: querendo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: ou não, para fazer isso acontecer dentro do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5153,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim. Eu não posso simplesmente combar no XML e importar ele de alguma forma, lançar no modo de recebimento, não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: É, é por isso que eu fiz uma pergunta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4943,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: para quem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: mande, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: particularmente não mando. O que pode acontecer ali, [PESSOA], é que dependendo como é que tu fizer isso, vai travar talvez a tua operação, né? A questão toda é também, tu vai ter três notas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: essa parte, querendo ou não, se ela não resolver, por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4272,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: exemplo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: toda ela dentro do [PESSOA] ou se tu tem que replicar ela para dentro da [LOCAL], hoje tu não tem isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5189,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né? Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então a gente teria que fazer uma customização,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: adianta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: consegue fugir muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: dessa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: parte.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Mas assim, [PESSOA], vocês não deixariam de ter essa operação de vendas e marketplace? Porque querendo ou não, esse total de faturamento que vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: têm",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: querendo ou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: já está agregado na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: empresa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Você não gostaria de perder essa operação que vocês têm,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: certo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim. Não, de modo algum. A questão é que a gente não sabe o quanto vai ser por [EMPRESA], né? O quanto vai ser de [EMPRESA], o quanto isso vai representar de volume, o quanto vai custar uma integração também pra gente conseguir lançar os XMRs na",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: mão, né? Ah, não sei mesmo. Tô enchendo o saco,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4368,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: óbvio, pelo amor de [PESSOA]. Bem parceladinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Bem parceladinho, vai embora,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né? Em 100 mil, daí a gente ter vendido dois criados-nudos por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5293,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: mês.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 11]: acho que vai ser ótimo de calcular.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5627,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: demorar 100 anos pra parar o negócio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Acho que é legal você começar assim. Começa com [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5475,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Começa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: com [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5441,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCUTOR 8]: ele. Porque assim, se você tiver dor de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: cabeça,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: você vai ter que assumir a dor de cabeça da quantidade que você mandou pro [EMPRESA] até zerar o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: estoque lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Aí você fala,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: legal,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: vou dar uma pausa agora no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4699,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Full,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: vou evoluir para criar uma integração para poder seguir adiante, porque teve",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Se você é fabricante ou se você é distribuidor, tem imagem sobre o produto",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: você consegue ser muito competitivo em plataforma de marketplace. Essa que é a grande questão. Se você já está lá no depósito",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [EMPRESA], então é muito fácil",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ainda. A grande",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: questão é o preço do seu produto, cara. Sendo honesto, sendo objetivo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim, sim. É a mesma leitura que a gente tem, né? Mas muito, muito é preço nesse mercado também, sabe? Não, eu acho que a gente pode combinar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: assim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: eu acho que vocês podem alinhar, o [LOCAL] pode puxar isso, vê o quanto que estamos falando em termos de horas e valor. pra gente começar agora nesse primeiro momento exportando os XMLs lá do [LOCAL] que ele vai emitir e importando no DataSuite. Nada de [EMPRESA] nesse primeiro momento e nenhum outro middleware. E a gente tenta girar o primeiro mês, mês e meio assim. E vamos sentindo. Se o troço começar a tracionar a gente começa a discutir uma solução um pouco mais robusta e aí na minha cabeça Se for os para [EMPRESA] e se [EMPRESA] é um análogo a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: NMarket,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aí eu vejo que faz sentido pensar em algo um pouco mais grande e tombando o NMarket e pegar uma solução",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4676,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: em",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: fotos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA]. Eu acho super... A mesma palavra que eu tava tentando falar aquela vez, eu tô esquecendo agora. [EMPRESA]? Não, é... Eu vou lembrar. Mas eu acho que a forma mais tranquila de você iniciar, sendo bem honesto para você,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: porque, assim, aí você vai ter visibilidade de como vai estar a sua operação hoje de [LOCAL], de [LOCAL], desculpa, das plataformas que você trabalha",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: integrado,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e aí você vai falar, pô, você está tracionando assim, você já está integrando, está reduzindo um monte de trabalho, se você não tem isso",
+      "mantida": false,
+      "probabilidade_relevancia": 0.451,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: feito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: de forma automatizada,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: integrada,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: acho que você começa a ver muito valor nessas ferramentas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aí. Ótimo. Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Explica a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: disposição.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA], time.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Tamo junto,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: viu,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: gente? No",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL] aqui tá centralizado o contato. Valeu, [PESSOA]. Valeu, [PESSOA]. [PESSOA], [PESSOA]. Até daqui a pouquinho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Até daqui a pouco. Eu tô indo pra outra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4499,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Abraço,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tchau. Valeu. Valeu, obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3813,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E o... Desculpa, enquanto eu tava falando cortou ali. Eu não entendi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3625,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o que tu falou. Não, eu acho que centralizamos aqui no [LOCAL], então, mas um passo importante para a gente avançar e validar é o Thiago poder montar essa visão de investimento e de integração, para poder ter esse número. Ele",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: precisar, provavelmente, de algumas questões técnicas que ele vai envolver um técnico dele também. Aí o [LOCAL] combina essa agenda contigo, e se tiver que envolver mais alguém aí também, só para verificar algumas situações do teu [PESSOA], ele poder verificar qual o esforço, mas o valor é... O [PESSOA] vai te passar, mas a gente acredita que... [LOCAL] até no [LOCAL] daí. É, exato. É mais se a gente ter uma noção de como é que está o data source de vocês,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: e aí poder projetar, né? Nós vamos projetar, olha, o custo vai sair mais ou menos isso, se for para fazer a entrega. integração com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [EMPRESA], aí tu já consegue ver, eu acho que da [EMPRESA] também consegue ter uma noção da implantação, né? Sim, sim. Então aí tu já vai mais ou menos ter ali",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: projeção. Aí até mesmo assim, tu vai estar tateando ali o sistema rodando lá no Fulc, a gente sabe que tu vai mandar para o mercado livre, eles vão priorizar vender a tua mercadoria para liberar espaço, né cara, e tu mandar mais ali, fora que tracionar isso é muito rápido. E aí a gente já tem isso pronto, pelo menos, para se tu dizer, cara, eu vou precisar melhorar, porque tá dando bastante trabalho e tá validado. A",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: gente já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tem organizado aqui como te atender também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim, os dois cenários postos, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.44,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA]. Mas como o [PESSOA] falou, não vai dar mais que 100 mil, né? Pode estar perto, né? É, mas passado 100 mil não vai passar, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4044,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: At",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: para te entender, tem integrações, claro. Depende muito de como está o ambiente de vocês, tá? Eu não quero criar aqui uma expectativa. Mas tem projetos desses que saem 20, 25 mil para fazer, tu consegue botar a rodar. Então, claro que, de novo, a gente precisa ter acesso ao ambiente de vocês, falando só da parte de integração, né? Depois tem implantação e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tudo mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Mas tem projetos que a gente faz que fica mais ou menos nesse ticket médio aí. Então, não é um... um valor absurdo versus o que talvez vocês ganham aí de performance pra não ter que ficar fazendo manual. O ganho, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Depois dá uma olhada aí, tem que ver também o iPaaS, né? Que a gente fez considerando o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5266,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: iPaaS.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: O iPaaS a gente tinha visto no passado, né, [PESSOA]? Lembra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: pra...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Aqui que foi que a gente viu no ano passado, ao retrasado, a questão do iPaaS,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5759,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que... O",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: iPaaS a gente usa só pra fazer a troca entre o DataSue e o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5296,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [EMPRESA], agora",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: me lembrei. Aí também muita coisa a gente resolve ali no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4645,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: iPaaS.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Por isso que tem que ver como é que tá o DataSue, a gente analisa com o iPaaS, porque se for direto o [EMPRESA] com o DataSue, daí é mais complexo, aí a coisa fica mais difícil. Mas se a gente botar o iPaaS ali no meio, a gente consegue resolver muita coisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5148,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: no iPaaS. [LOCAL], senhores.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tá, tá. [PESSOA], foi um prazer,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.514,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: obrigado pelo seu tempo. Igualmente. Obrigado pela atenção de vocês aí também, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4405,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Um abraço. [PESSOA], obrigado. Te aciono aí amanhã ou depois pra gente marcar uma ida aí. Quero levar as minhas aí pra te conhecer pessoalmente. Aí a gente marca ali, de repente, pra semana do dia 23, eu acho que é, 24",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4858,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ali. Mas aí",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: a gente fala com mais calma aí pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: WhatsApp. Fechou, quando tiver agenda me sinaliza.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Show, maravilha. Obrigado, filho. Um abraço, fica bem aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4012,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Igualmente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tchau, tchau. Tchau. Missão da onde? Eu ia olhar, mas não deu tempo. Deixa eu trazer o mouse para cá. Arte mobile.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4152,
+      "motivo": "ml"
+    }
+  ]
+}

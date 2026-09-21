@@ -1,0 +1,1399 @@
+{
+  "id_reuniao": "1260021",
+  "codt": "DALSUN",
+  "data_reuniao": "2026-03-24 10:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 11]: [LOCAL] dia. [LOCAL] dia, [PESSOA].\n[LOCUTOR 8]: [LOCAL] dia.[PESSOA] de \n[LOCUTOR 9]: [LOCAL] dia.\n[LOCUTOR 11]: [LOCAL] dia. Sabe, eu ontem pensei que o [PESSOA] tinha te enviado o PowerPoint e eu acho que ele acabou não te enviando, ele enviou uma mensagem agora que disse que não vai participar da reunião e eu te encaminhei o PowerPoint no WhatsApp, no grupo de gestãoSade [PESSOA] de \n[LOCUTOR 9]: do\n[LOCUTOR 11]: PowerPoint que a gente vai apresentar.[PESSOA] de \n[LOCUTOR 9]: [PESSOA], eu não sei se você estava falando, eu não te ouvi, porque estava no meu som aqui.\n[LOCUTOR 11]: Você está me ouvindo agora?[PESSOA] de \n[LOCUTOR 9]: Sim.\n[LOCUTOR 11]: Tá bem. Então,[PESSOA] de \n[LOCUTOR 9]: ontem\n[LOCUTOR 11]: eu pensei que o [PESSOA] tinha te enviado o PowerPoint da apresentação e eu acredito que ele não te enviouSade [PESSOA] de \n[LOCUTOR 9]: e\n[LOCUTOR 11]: hoje também ele não vai poder participar.[PESSOA] de \n[LOCUTOR 9]: Eu te\n[LOCUTOR 11]: enviei agora ali no grupo o PowerPoint, não sei se você viu.[PESSOA] de \n[LOCUTOR 9]: Não.\n[LOCUTOR 11]: Tá ali no grupo de gestãoSade [PESSOA] de \n[LOCUTOR 9]: do\n[LOCUTOR 11]: projeto.[PESSOA] de \n[LOCUTOR 9]: [LOCAL],\n[LOCUTOR 11]: tchau.[PESSOA] da \n[LOCUTOR 23]: [LOCAL] dia, pessoal. [LOCAL] dia.\n[LOCUTOR 11]: [LOCAL] dia, gente.\n[LOCUTOR 2]: [PESSOA] de \n[LOCUTOR 9]: dia.\n[LOCUTOR 11]: [LOCAL].[PESSOA] de \n[LOCUTOR 9]: [LOCAL], [PESSOA], podemos começar.\n[LOCUTOR 11]: Podemos. Vocês estão vendo, então?[PESSOA] de \n[LOCUTOR 9]: Sim.\n[LOCUTOR 11]: [LOCAL], nós estamos avançando aqui no cronograma, né? Estamos agora no final de março aqui. As principais atividades. A [LOCAL] testou ali a tela de cadastro de média, né? Ela já passou ali diversos ajustes para fazermos, né? e nós fizemos ajustes, o Marcos chegou a encaminhar a tela ontem. [PESSOA] da \n[LOCUTOR 23]: ele falou só que tinha\n[LOCUTOR 11]: feitoRayane [PESSOA] da \n[LOCUTOR 23]: as alterações e que eu podia conferir. Eu ainda não cheguei a olhar como é que ficou\n[LOCUTOR 11]: a [LOCAL] [PESSOA] da \n[LOCUTOR 23]: depois.\n[LOCUTOR 11]: [PESSOA] da \n[LOCUTOR 23]: falou comigo E qualquer dúvida ou outro ajuste que eu achasse, poderia falar direto com ele.\n[LOCUTOR 11]: Ah, perfeito.[PESSOA] da \n[LOCUTOR 23]: Então,\n[LOCUTOR 11]: a gente... Agora, depois você olha lá, para você falar que a gente deixamos a tela mais simplificada ali da parte do responsável. Você consegue ver todos os pets que estão relacionados ao responsável. Ficou mais organizada, mais fácil de cadastrar. A gente achou A gente está curioso para saber o que você também vai achar depois que você olhar. Mas aí depois você passa o feedback para nós, tá? [LOCAL], nós também essa semana, esse período que passou aqui, até a última reunião agora, nós ajustamos o ambiente de produção, né? Então, o ambiente de produção, ele está agora com todas as parametrizações feitas se vocês acessarem, vocês verão lá que tem todas as prêmios que foram feitos, já estão refletindo lá no ambiente de produção, para ele já ficar pronto para o momento da virada. O ambiente de produção ele ainda está na versão 2506, mas no ambiente de homologação a gente virou para a versão 2602, a gente virou esse final de semana, especificamente, exatamente na e o ambiente já tá, já está disponível. A [PESSOA], ela está ali, valendo todas as novidades que nós temos na versão 2602, e ela vai montar uma lista resumida, tá? No site da TOTUS, toda vez que é atualizado um pacote de correção da versão, ou da própria versão, ele sai ali um documento com com todas as informações de atualização. Eu vou enviar esse link de como verificar essa documentação, tanto no grupo de gestão quanto no grupo de sprint, para vocês terem ali o link para poder consultar, independente de qualquer coisa, quais são as mudanças que ocorrem aí nas atualizações de versões da Tots, tá bom? Quais são as melhorias que são feitas, as correções, ele está ali bem detalhado. O [PESSOA] também, ele fechou ali, com a [LOCAL], o padrão de codificação do faturamento, né, para que a [LOCAL] possa fazer a baraterização dos lançamentos de procedimentos. Certo, [LOCAL]? Essa parte...[PESSOA] da \n[LOCUTOR 23]: É... Assim, que eu tenha falado com o [PESSOA] foi um tempo atrás em relação a\n[LOCUTOR 11]: comoRayane [PESSOA] da \n[LOCUTOR 23]: é que ficaria, né? que\n[LOCUTOR 11]: nãoRayane [PESSOA] da \n[LOCUTOR 23]: tinha um código específico, e aí precisou fazer um DEPARA. Era isso? Ah, tá.\n[LOCUTOR 11]: É isso, né, [PESSOA]?\n[LOCUTOR 8]: Isso. [EMPRESA], [PESSOA], tudo bem? [LOCAL] dia. A [PESSOA] te passou o que deveria ser feito num padrão de codificação e faturamento, que era a lista dos procedimentos, eu associei, fiz o DEPARA, só que eu não tenho conhecimento do que é procedimento, o que é exames, essas partes, entendeu? Aí precisava que colocasse essas faixas de código, se você quiser depois a gente pode marcar uma reunião, se tiver alguma dúvida, no padrão de faturamento correto. Se você não souber onde é, eu te chamo no WhatsApp e te mando o sprint direitinho, mas eu tinha passado isso para a [PESSOA] e ela tinha te passado.[PESSOA] da \n[LOCUTOR 23]: Não, não, não, verdade, esse ponto estava aqui na minha pendência.\n[LOCUTOR 8]: Tá bom.[PESSOA] de \n[LOCUTOR 9]: Isso é uma dúvida que está criando alguma inteligência de código, porque o [PESSOA] citou que o intervalo de procedimentos que são exames, alguma coisa assim,\n[LOCUTOR 11]: sóSade [PESSOA] de \n[LOCUTOR 9]: para eu entender.\n[LOCUTOR 8]: Como assim são inteligência de códigos, para eu entender?\n[LOCUTOR 11]: [PESSOA] de \n[LOCUTOR 9]: exemplo, foi definido que do código 1 a 100 é exame.\n[LOCUTOR 8]: Então o que eu fiz? Eu associei... os procedimentos daquela lista, parecido com o código TUS, utilizado na medicina humana.[PESSOA] de \n[LOCUTOR 9]: Só\n[LOCUTOR 8]: que eu não sei o que é exame, entendeu? Um exemplo, só foi um exemplo citado. Então, dentro lá do quadrão de faturamento, necessita estar a faixa correta, só para quando for solicitado esse exame, cair na aba de exame lá no faturamento, entendeu?[PESSOA] de \n[LOCUTOR 9]: Tá bom, é porque hoje a gente acaba não usando nenhuma inteligência ou qualquer ordem específica de procedimentos, tá?\n[LOCUTOR 8]: Tá bom. Eu associei parecido com o código [PESSOA] mesmo. Eu mandei essa lista para a [PESSOA] e que mandou para a [LOCAL].\n[LOCUTOR 11]: [PESSOA] da \n[LOCUTOR 23]: compartilhar também por e-mail com o pessoal aqui internamente.\n[LOCUTOR 11]: Em andamento, nós temos a parametrização da teleconsulta, tá? Inclusive, a teleconsulta, ela já está funcionando, ela já está funcional.[PESSOA] de \n[LOCUTOR 9]: [LOCUTOR 7]: já homologamos, né, no nosso teste voluntário. Então, é possível você criar uma agenda ali e você dizer na agenda se ela vai ser presencial ou se ela vai ser para o atendimento de teleconsulta.[PESSOA] de  A\n[LOCUTOR 11]: pessoa do outro lado, ela recebe ali uma agenda o paciente, na verdade, ela recebe ali a agenda com o link e ele, no momento da agenda, o médico acessa pelo PEP, acessa o link, abre ali o prontuário, mas a câmera está do lado e do outro lado o paciente também acessa, né. Só um minutinho, pessoal. Então, o que, por que está indo a mento ainda, né? Através do portal do paciente, a gente não conseguiu executar o teste unitário completo, tá? Então, de saúde unitária completa no portal do paciente, a gente já passa para vocês validarem ali. Qual a particularidade da teleconsulta? Por exemplo, a gente configurouSade [PESSOA] de \n[LOCUTOR 9]: um\n[LOCUTOR 11]: e-mail nosso de teste, tá? ASade [PESSOA] de \n[LOCUTOR 9]: gente criou\n[LOCUTOR 11]: uma conta no Gmail e nós configuramos essa conta do Gmail lá, que é a conta que dispara o e-mail para o paciente. Então, a gente vai precisar de uma conta de e-mail mais [EMPRESA] para que o paciente, o responsável pelo [EMPRESA], que receba ali o e-mail identificado correto com a identificação da [LOCAL]. E também é necessário cadastrar um cartão de crédito, porque esses serviços de teleconsulta, acima de X minutos, se não me engano, são 3 mil minutos. Só vou confirmar lá. Exatamente, você tem uma cobrança de 0,03 centavos, ele tem uma tarifação por minuto de atendimento, entendeu? Um mecanismo fora da [EMPRESA], um serviço à parte. Não sei se você estava sabendo desse ponto, [PESSOA], sobre essa questão da teleconsulta. [LOCAL] de \n[LOCUTOR 9]: não me recordava do valor, [PESSOA], mas eu estava ciente que não era ilimitado.\n[LOCUTOR 11]: Sim, mas quando a gente for validar isso, Eu vou passar direitinho isso, tá? Eu posso fazer o teste, por exemplo, no [PESSOA], né? Mas depois a gente pode testar, validar isso junto, mostrar ali no site do parceiro também Toda essa parte a gente documenta direitinho pra você Nós estamos aqui no processo de desenvolvimento das integrações, né? É um processo agora que que é um pouco mais demorado, mas a gente já está bem avançado. Eu só vou precisar da sua ajuda, [PESSOA], porque a gente tem um especialista novo que nós trouxemos para o time. E aí eu vou precisar criar os acessos para ele, tá? Eu vou te chamar daqui a pouco para você me ajudar com isso, para a gente poder acelerar esse processo aqui.[PESSOA] da \n[LOCUTOR 23]: Tá, me manda os dados dele por e-mail, [PESSOA]. copiando essa dica,\n[LOCUTOR 11]: euJemesson [LOCAL] da \n[LOCUTOR 23]: já peço o pessoal do Teams aí para criar aqui para nós.\n[LOCUTOR 11]: Só me refresca, eu preciso mandar o nome completo, [LOCAL] da \n[LOCUTOR 23]: Nome, e-mail e CPF.\n[LOCUTOR 11]: Nome, e-mail e CPF, né? Tá bem. Já te passo já isso.[PESSOA] da \n[LOCUTOR 23]: Ok.\n[LOCUTOR 11]: [LOCAL], sobre elegibilidade, a gente também já avançou, assim como a teleconsulta, Quando a gente faz o teste de elegibilidade usando alguns mecanismos, por exemplo, se a gente usa o Ghost, que é uma forma de a gente testar a API junto ao [EMPRESA], e a gente faz alguns testes internos ali por dentro do RM, a gente consegue, mas no procedimento padrão ali da elegibilidade, passando pelas telas que o usuário vai acessar, apresentou erro ou abriu chamado. Agora mesmo de manhã, eu vi o chamado no dia 18, agora mesmo de manhã eu vi que eles acabaram de responder, tá? Então a gente vai executar o que eles pediram no chamado, acredito que isso também já vai ficar pronto. para vocês poderem validar, tá? A parte de elegibilidade, tanto no momento de agendar uma consulta, quando o [EMPRESA] chega para ser atendido na unidade, ele também faz a elegibilidade automaticamente ali no Proteus, tá? Com o Proteus, com o [EMPRESA], na verdade, né? [LOCAL], de próximos passos aqui, nós temos a aprovação das customizações, que eu acredito que foi o [PESSOA] [PESSOA] me disse.[PESSOA] da \n[LOCUTOR 23]: Acho\n[LOCUTOR 11]: que é parcial. [EMPRESA], Gênesis.[PESSOA] da \n[LOCUTOR 23]: Desculpa atrapalhar. Deixa eu só te fazer uma pergunta, voltando ainda ao ponto da elegibilidade. Se eu não me engano, esse novo contratado seu se chama [PESSOA], não é isso? Essa pessoa que está na\n[LOCUTOR 11]: composiçãoJemesson [LOCAL] da \n[LOCUTOR 23]: do seu time aí?\n[LOCUTOR 11]: Não, não. Na verdade é o [PESSOA]. [PESSOA] da \n[LOCUTOR 23]: estive falando com o [PESSOA], ele e o [LOCAL],\n[LOCUTOR 11]: o [PESSOA],[PESSOA] da \n[LOCUTOR 23]: eles\n[LOCUTOR 11]: fizeramJemesson [LOCAL] da \n[LOCUTOR 23]: uma observação na API do Proteus de elegibilidade e não era através do portal [EMPRESA]. Está correto isso? A elegibilidade\n[LOCUTOR 11]: vai serJemesson [LOCAL] da \n[LOCUTOR 23]: do portal [EMPRESA] e não do Proteus?\n[LOCUTOR 11]: Não, na verdade você tem razão, é do Proteus mesmo. é que ele usa um serviço, nessa legibilidade, ele usa um serviço do [EMPRESA] ali, tá? Fica no mesmo servidor, vamos dizer assim, tá? Por isso que eu mencionei a questão do [EMPRESA], tá? Mas é exatamente o que você passou ali pra nós, tá? Através daquele usuário, sem... Todas aquelas orientações que você passou, a gente seguiu por aquele caminho lá mesmo.[PESSOA] da \n[LOCUTOR 23]: Ah, beleza.\n[LOCUTOR 11]: E aí, pelo que você... por tudo que você passou ali pra nós, está funcional. Ou seja, da sua parte, tudo que você passou funciona. Ele tem ali um problema interno no RM, e aí a gente passou esse chamado e eles nos passaram uma nova orientação. A gente vai precisar fazer alguns ajustes ali pra funcionar 100%, tá? Então o problema agora tá do lado de cá do RM. Depois eu até, se eu não me engano, eu tenho quase certeza, eu até te copiei nesse chamado da Gemson, para você também acompanhar as orientações técnicas deles, para você ter um conhecimento também. [LOCAL], então a gente tem os próximos passos aprovados nas publicações. Ah, esse aqui estava com o próximo passo, mas já foi finalizado, tá? Esse segundo da [EMPRESA]. A gente só precisa agora, depois de a gente validar a 2602 completamente em homologação, a gente subir lá para a produção, então a gente vai ficar na última versão disponível do mercado. A parte aqui dos ajustes do cadastro Batch, né, então depois a e vai validar, né, a tela, ver se realmente agora tá 100%, se precisa de mais algum ajuste, a gente ajusta rapidamente. Os formulários de ficha clínica, médica e ficha de emergência, nós executamos testes por aqui e a gente viu que tá funcional, tá? Depois, só a [PESSOA] podendo testar também, a gente já conclui e aí eu informalizo essa conclusão aqui por e-mail, a gente registra, [EMPRESA], [PESSOA]. [EMPRESA],[PESSOA] de \n[LOCUTOR 9]: [PESSOA]. Sobre o formulário, vocês vão chamar a [PESSOA] para validar?\n[LOCUTOR 11]: Sim, se na verdade a [PESSOA] puder validar, mas a gente está à disposição também, tá, [PESSOA]? Se você quiser fazer a validação em conjunto.\n[LOCUTOR 2]: Beleza, condenado.[PESSOA] de \n[LOCUTOR 9]: [PESSOA], resolve o [EMPRESA], por favor, tá? Que ele passou para a gente.\n[LOCUTOR 11]: No caso, a [PESSOA] chamou o [EMPRESA], você diz, ou eu mesmo chamo?[PESSOA] de \n[LOCUTOR 9]: Não, a [PESSOA] envolveu.\n[LOCUTOR 11]: Ah, tá bom.[PESSOA] de \n[LOCUTOR 9]: Então\n[LOCUTOR 11]: tá bom.[PESSOA] de \n[LOCUTOR 9]: Então\n[LOCUTOR 11]: eu te aguardo, tá, [PESSOA]? Se você precisar, a gente faz junto contigo.\n[LOCUTOR 2]: Tá bom, combinado.\n[LOCUTOR 11]: [LOCAL], a gente precisa também... A gente ficou focado aqui na liberação da teleconsulta e da elegibilidade, E acabamos ainda não ligando o painel de chamada, mas faremos isso também agora, essa semana, tá? Pra passar isso tudo pra vocês validarem, né? A gente também ficou com pendência da definição do processo de folha de sala cirúrgica. E aí, nesses casos finais...[PESSOA] de \n[LOCUTOR 9]: Ah,\n[LOCUTOR 11]: a gente nãoSade [PESSOA] de \n[LOCUTOR 9]: tinha definido esses pontos aí.\n[LOCUTOR 11]: [PESSOA] de \n[LOCUTOR 9]: exemplo, a gente não vai usar triagem. Como não tem que ser obrigatório ou não, Em nosso caso, por exemplo, é opcional, conforme não é parametrizável a obrigatoriedade, entendeu? Então a gente não vai usar triage.\n[LOCUTOR 11]: [LOCAL], vou remover aqui já, então.[PESSOA] de \n[LOCUTOR 9]: A folha de células cirúrgicas, qual que era a dúvida?\n[LOCUTOR 11]: Não, daí a gente precisaria de um prazo para a gente poder colocar aqui no documento, para a gente ter um prazo aqui de quando a gente consegueSade [PESSOA] de \n[LOCUTOR 9]: a\n[LOCUTOR 11]: conclusão da definição desse processo. [LOCAL] de \n[LOCUTOR 9]: qual que é o ponto de definição exatamente aí?\n[LOCUTOR 11]: Sim, aqui no Folha de Salas Cirúrgicas a gente tem um processo ali que envolve a parte do centro cirúrgico, a gente tem ali a parte de farmácia, a gente precisaria realmente... ter um desenho desse processo para a gente poder ter o sistema bem alinhado com esse processo aqui. Se a [PESSOA] achar interessante, eu posso já deixar marcado um alinhamento da [PESSOA] com a [PESSOA], para a [PESSOA] passar todas as etapas desse processo contigo, [PESSOA]. E também já aproveitar e testar também o formulário aqui de cima, a gente consegue matar as duas coisas numa agenda só. É só você me dizer uma data, um horário.\n[LOCUTOR 2]: Se você está, [PESSOA], amanhã de manhã, depois das nove, pra mim eu posso, tá? Qualquer\n[LOCUTOR 11]: horário. Tá bom. Eu vou confirmar contigo, então, pelo WhatsApp, tá?\n[LOCUTOR 2]: Tá.\n[LOCUTOR 11]: [LOCAL]. [LOCAL], e a gente tem aqui também um último, que é a definição sobre as responsabilidades e etapas do processo. Então, por exemplo, né, quem faz a requisição de multimédia, quem dá alta ou troca de leito, né, a gente precisa também ter ali quem...[PESSOA] de \n[LOCUTOR 9]: A gente tem isso\n[LOCUTOR 11]: também,[PESSOA] de \n[LOCUTOR 9]: [PESSOA].\n[LOCUTOR 11]: Esse já tá pronto também?[PESSOA] de \n[LOCUTOR 9]: Já, já.\n[LOCUTOR 11]: Esse foi encaminhado para nós? [LOCAL] de \n[LOCUTOR 9]: vou formalizar, a gente falou tudo numa reunião que a gente fez quando tava presencial duas semanas atrás, entendeu? Mas eu\n[LOCUTOR 11]: vouSade [PESSOA] de \n[LOCUTOR 9]: formalizar para o navegador.\n[LOCUTOR 11]: [LOCAL], combinado. Só para a gente poder deixar alinhado aqui, ajustar perfil, deixar tudo prontinho, tá? [LOCAL], por fim, aqui temos de ponto de atenção, nós temos alguns itens que entraram aqui no atraso, né? Então, a gente tem essa parte aqui de exames, tá? que precisa da criação dos vínculos ainda, né, tais como a preparação para exames, padrões de medidas, etc. Nós temos a parte de produto, né, essa parte de exame e a parte de produção que são grandes aqui, né, então essa aqui deve ser feita como, por exemplo, o tipo de material, se são pela equipe auxiliar, se é medicação controlada, se é multidose. Então, esses dois aqui também a gente avançar, né, e a gente tá à disposição aqui, tá, se a [PESSOA], no caso aqui, de exames, né, e a [PESSOA] precisarem do nosso apoio, a gente fazer isso a quatro mãos, também é só colocar aqui uma data que a gente já consegue entrar no apoio para fazer isso com vocês e acelerar, porque isso vai, pode impactar, né, se a gente não atuar nisso nos próximos dias, no caso final do cronograma, tá.[PESSOA] de \n[LOCUTOR 9]: que produtos eu acredito que tem que envolver o time da farmácia e também do estoque. E a gente tem que fazer uma agenda a parte, entendeu? Envolvendo a [PESSOA].\n[LOCUTOR 11]: Sim.[PESSOA] de \n[LOCUTOR 9]: A dele e a [PESSOA], hein?\n[LOCUTOR 11]: Tá. Então, a parte de produto, né? Você já consegue imaginar uma data para a gente\n[LOCUTOR 10]: marcar?\n[LOCUTOR 11]: Ou você prefere que a gente marca...[PESSOA] de \n[LOCUTOR 9]: [LOCUTOR 1]: táSade [PESSOA] de  aí?\n[LOCUTOR 10]: Podemos marcar.\n[LOCUTOR 11]: Se você quer\n[LOCUTOR 10]: procurar\n[LOCUTOR 11]: uma data, vai marcar? Acho\n[LOCUTOR 10]: que fica mais tranquilo a partir de quinta-feira.\n[LOCUTOR 11]: Quinta-feira?\n[LOCUTOR 10]: É.\n[LOCUTOR 11]: Tá, tá bem. Quinta-feira. Você tá em algum grupo comigo? Não me recordo. Pra gente poder... Se você quiser deixar marcado aqui também, eu consigo te mandar pelo e-mail. Por exemplo, na quinta-feira, na parte da meia ou da tarde, eu consigo marcar com o Lucas também. Pode\n[LOCUTOR 10]: ser. Qualquer um dos dois horários. Quinta eu tô com a agenda mais tranquila.\n[LOCUTOR 11]: [PESSOA] de \n[LOCUTOR 9]: tá no grupo do ARN, lá do sprint, [LOCAL].\n[LOCUTOR 11]: Ah, fechado. Então, vou colocar ali, na quinta-feira já mando um invite ali. Vou deixar um invite de um pouco mais de tempo, porque isso vai demorar\n[LOCUTOR 10]: mais\n[LOCUTOR 11]: tempo.\n[LOCUTOR 10]: Tá, beleza.\n[LOCUTOR 11]: Por exemplo, de duas a três horas. Pode ser que... Só pra gente já imaginar uma reserva durante isso. Se por acaso a gente for mais rápido, não tem problema. Esse aqui, na verdade, essa aprovação das especificações das atualizações, na verdade, faltou só aquela questão da integração do produto na parte de serviço versus procedimento, que a gente conversou, lembra, [PESSOA]? Nesse ponto aqui, eu vou falar contigo, [PESSOA], pelo WhatsApp, para a gente poder botar um martelo.[PESSOA] de \n[LOCUTOR 9]: [PESSOA], arrepete para mim.\n[LOCUTOR 11]: Sim, sem problemas. Esse item aqui que está a aprovação de justificação que a gente desenvolveu, que está na LibreJaps, já que a senhora vai saber,\n[LOCUTOR 10]: foi\n[LOCUTOR 11]: o que a gente conversou aquele dia sobre a vinculação de servi\n[LOCUTOR 5]: com\n[LOCUTOR 11]: o procedimento em si. Lembra que a gente tinha conversado que a gente tinha uma deficiência em relação à tabela, né? Eu só não, eu só não me recordo sinceramente se a gente tinha batido o martelo já nessa questão.[PESSOA] de \n[LOCUTOR 9]: Integrações e procedimentos, é isso?\n[LOCUTOR 11]: Isso.[PESSOA] de \n[LOCUTOR 9]: Eu tô ainda validando com o time se a gente vai eliminar o cadastro por plano de saúde, porque dependendo, essa decisão da integração depende dessa segunda decisão. Então essa\n[LOCUTOR 11]: tendência táSade [PESSOA] de \n[LOCUTOR 9]: comigo, [PESSOA].\n[LOCUTOR 11]: Então fechado, denominado. E temos aqui o vínculo de intensidade do Esse... Tá faltando o responsável do prazo aqui. É da [PESSOA]. Tô escutando\n[LOCUTOR 8]: aqui.\n[LOCUTOR 11]: O vínculo de itens de débito foi você que tava tocando essa frente?\n[LOCUTOR 8]: Era a [PESSOA] que tava vendo. A gente conseguiu importar lá conforme a lista. Vai precisar vincular os itens de débito. A [PESSOA] que tá\n[LOCUTOR 11]: na faixa\n[LOCUTOR 8]: de itens de débito.\n[LOCUTOR 11]: Você quer só dar uma... uma explicada rápida do que é o vínculo que a gente deve ter com o procuramento, só para a gente poderSade [PESSOA] de \n[LOCUTOR 9]: definir. É, para a\n[LOCUTOR 11]: gente saber.[PESSOA] de \n[LOCUTOR 9]: Dentro do item de lançamento, não é?\n[LOCUTOR 8]: [PESSOA]. Isso mesmo.\n[LOCUTOR 11]: [PESSOA] de \n[LOCUTOR 9]: tem o nome ainda, [PESSOA]. Está pendente quem é o responsável mesmo.\n[LOCUTOR 11]: Tá. Tá bem.\n[LOCUTOR 10]: [LOCAL].\n[LOCUTOR 11]: [LOCAL], a gente tem também a questão do roteiro de testes, sabe? Esse também é um ponto que, se você quiser marcar uma cópia, que a gente já está chegando nesse momento do cronograma, de a gente começar a trabalhar os testes unitários, principalmente, tá? Junto com vocês. Ô, [PESSOA], se você quiser fazer uma call comigo, tá bem? Que essa etapa aqui é importante a gente já deixar organizada Pra gente também não sofrer atraso de cronograma, que a gente já tá pr\n[LOCUTOR 3]: Ok,[PESSOA] da \n[LOCUTOR 23]: depois a gente vai\n[LOCUTOR 11]: conversarJemesson [LOCAL] da \n[LOCUTOR 23]: [LOCUTOR 4]: me chamar Ah, só um ponto que não está aqui, mas eu acabei de me recordar agora O Alexandre, do time, me chamou sobre a questão da migração do Legado Eu não atuei não\n[LOCUTOR 10]: colocando\n[LOCUTOR 11]: aqui\n[LOCUTOR 10]: na\n[LOCUTOR 11]: apresentação, depois eu posso colocar aqui para próximo, mas ele tinha ficado também pendente de tratar ali alguns com o OnePatch, para a gente poder ter ali um mecanismo de como exportar ali o prontuário, de forma que a gente conseguisse cadastrar no R&D. Depois desse ponto, a gente discutiu algumasSade [PESSOA] de \n[LOCUTOR 9]: formas\n[LOCUTOR 11]: de fazer isso e ficou\n[LOCUTOR 10]: faltando\n[LOCUTOR 11]: o retorno dele\n[LOCUTOR 10]: também\n[LOCUTOR 11]: sobre esse ponto. [PESSOA] da \n[LOCUTOR 23]: estou junto com ele, [PESSOA], nessa demanda aí, acompanhando ele também. E a gente tá verificando aqui a forma de extração do [EMPRESA], porque isso é o nosso maior impeditivo hoje de trazer esse legado pro RM, tá? Porque perceber que no RM a gente pode fazer ali diversas formas, [EMPRESA], banco, dá pra fazer muita coisa, só que a extra\n[LOCUTOR 6]: do nossoJemesson [LOCAL] da \n[LOCUTOR 23]: [EMPRESA] tá sendo o único problema. Tirar as informações de lá. Mas a gente já tá cuidando disso aí já.\n[LOCUTOR 11]: Tá bom. Se você também precisar de algum apoio, tá? Eu tô te pedindo novos cadastros de profissionais porque a gente tá com um time dev bem reforçado. A gente tá com seis desenvolvedores agora ao mesmo tempo, tá? Então se você precisa de qualquer apoio, você me dá um toque. É,[PESSOA] da \n[LOCUTOR 23]: mas a limitação tá girando mais em torno do armpit, [PESSOA]. Sim, do\n[LOCUTOR 11]: ladoJemesson [LOCAL] da \n[LOCUTOR 23]: de\n[LOCUTOR 11]: lá, né?[PESSOA] da \n[LOCUTOR 23]: Mas vamos conseguir romper isso.\n[LOCUTOR 10]: TáJemesson [LOCAL] da \n[LOCUTOR 23]: bom,\n[LOCUTOR 11]: convidado. parametrizações para repasse veterinário, a gente tinha ficado o responsável [PESSOA],\n[LOCUTOR 10]: o\n[LOCUTOR 11]: prazo inicial era 10 em 3, mas a gente acabou passando do prazo. Queria ver com vocês se a gente consegue definir aqui o novo prazo dessa etapa. Esse é um ponto que não atrasa, não atrasaria o projeto, porque ele não trava uma outra etapa, ele atrasa o processo de repasso veterinário, de isso ficar automatizado a ponto de a gente conseguir fazer a etapa de testes. AindaSade [PESSOA] de \n[LOCUTOR 9]: não tenho o meu prazo, eu ia realmente fazer essa pergunta, se isso é um impeditivo para nós.\n[LOCUTOR 11]: Não, ele só ele só atrasa ele mesmo, né? Se não tiver parametrizado, não conseguimos executar o repasse veterinário\n[LOCUTOR 10]: de\n[LOCUTOR 11]: forma automática,[PESSOA] de \n[LOCUTOR 9]: e\n[LOCUTOR 11]: aí o processo fica manual ainda, né? Mas é só isso o ponto, tá? [LOCAL], passando aqui essa etapa, a gente tem aqui só a questão dos riscos, né? Então a gente tem aqui ainda a questão da aprovação dos gaps, Que isso? esse processo tá parcial. A definição sobre PDV, essa parte infelizmente eu não tenho histórico, porque o [PESSOA] tava tratando diretamente contigo e ele teve um problema onde eu não conseguia alinhar essa parte do PDV com ele, mas ele deixou aqui sob riscoSade [PESSOA] de \n[LOCUTOR 9]: [PESSOA], hoje mesmo eu recebi uma proposta da [EMPRESA], tá? A gente tava em negociação já faz bastante tempo e eu acho que chegamos aí num senso comum e vai avançar, tá bom?\n[LOCUTOR 11]: Ah, que ótimo, excelente. A gente, dessa parte, [PESSOA], a gente tá trabalhando ali nas integrações e a gente já tá prevendo na integração que a gente alimente ali as tabelas do Então,\n[LOCUTOR 10]: pelo\n[LOCUTOR 11]: lado de... No background ali, no processo de integração de dados, a gente já avançou nesse sentido. Então, definindo ali a parte do sistema mesmo, a parte de integração já está, não parou, acredito. [LOCAL], a gente... O [PESSOA] também colocou aqui atraso de [PESSOA] no sentido desse... desses pontos que estão aqui. Eu até mandei a visitação para saber. Esses pontos que estão aqui, eles podem gerar atraso de [PESSOA], tá? Principalmente esses dois que a gente tratou aqui. O da [EMPRESA] e esse da... Então, esses pontos aqui, mais o vínculo de itens de débito também, a gente tem que gerar riscos, tá? Na questão\n[LOCUTOR 10]: do\n[LOCUTOR 11]: [PESSOA], da data do [PESSOA]. [LOCAL], basicamente é isso. Podemos colocar um ponto,\n[LOCUTOR 10]: alguma\n[LOCUTOR 11]: necessidade específica. agradeço aí o tempo de vocês e fico à disposição. Vou marcar as agendas ali com a [PESSOA] e a [PESSOA] Teixeira. Também. Também.\n[LOCUTOR 2]: Um\n[LOCUTOR 11]: dia pra você.",
+  "texto_filtrado": "[LOCUTOR 8]: [LOCAL] dia.[PESSOA] de\n[LOCUTOR 11]: [LOCAL] dia. Sabe, eu ontem pensei que o [PESSOA] tinha te enviado o PowerPoint e eu acho que ele acabou não te enviando, ele enviou uma mensagem agora que disse que não vai participar da reunião e eu te encaminhei o PowerPoint no WhatsApp, no grupo de gestãoSade [PESSOA] de\n[LOCUTOR 11]: PowerPoint que a gente vai apresentar.[PESSOA] de\n[LOCUTOR 11]: Tá bem. Então,[PESSOA] de\n[LOCUTOR 9]: ontem\n[LOCUTOR 11]: eu pensei que o [PESSOA] tinha te enviado o PowerPoint da apresentação e eu acredito que ele não te enviouSade [PESSOA] de\n[LOCUTOR 11]: enviei agora ali no grupo o PowerPoint, não sei se você viu.[PESSOA] de\n[LOCUTOR 11]: Tá ali no grupo de gestãoSade [PESSOA] de\n[LOCUTOR 11]: projeto.[PESSOA] de\n[LOCUTOR 9]: [LOCAL],\n[LOCUTOR 11]: tchau.[PESSOA] da\n[LOCUTOR 2]: [PESSOA] de\n[LOCUTOR 11]: [LOCAL].[PESSOA] de\n[LOCUTOR 9]: [LOCAL], [PESSOA], podemos começar.\n[LOCUTOR 11]: Podemos. Vocês estão vendo, então?[PESSOA] de\n[LOCUTOR 11]: [LOCAL], nós estamos avançando aqui no cronograma, né? Estamos agora no final de março aqui. As principais atividades. A [LOCAL] testou ali a tela de cadastro de média, né? Ela já passou ali diversos ajustes para fazermos, né? e nós fizemos ajustes, o Marcos chegou a encaminhar a tela ontem. [PESSOA] da\n[LOCUTOR 23]: ele falou só que tinha\n[LOCUTOR 11]: feitoRayane [PESSOA] da\n[LOCUTOR 23]: as alterações e que eu podia conferir. Eu ainda não cheguei a olhar como é que ficou\n[LOCUTOR 11]: a [LOCAL] [PESSOA] da\n[LOCUTOR 23]: depois.\n[LOCUTOR 11]: [PESSOA] da\n[LOCUTOR 23]: falou comigo E qualquer dúvida ou outro ajuste que eu achasse, poderia falar direto com ele.\n[LOCUTOR 11]: Ah, perfeito.[PESSOA] da\n[LOCUTOR 23]: Então,\n[LOCUTOR 11]: a gente... Agora, depois você olha lá, para você falar que a gente deixamos a tela mais simplificada ali da parte do responsável. Você consegue ver todos os pets que estão relacionados ao responsável. Ficou mais organizada, mais fácil de cadastrar. A gente achou A gente está curioso para saber o que você também vai achar depois que você olhar. Mas aí depois você passa o feedback para nós, tá? [LOCAL], nós também essa semana, esse período que passou aqui, até a última reunião agora, nós ajustamos o ambiente de produção, né? Então, o ambiente de produção, ele está agora com todas as parametrizações feitas se vocês acessarem, vocês verão lá que tem todas as prêmios que foram feitos, já estão refletindo lá no ambiente de produção, para ele já ficar pronto para o momento da virada. O ambiente de produção ele ainda está na versão 2506, mas no ambiente de homologação a gente virou para a versão 2602, a gente virou esse final de semana, especificamente, exatamente na e o ambiente já tá, já está disponível. A [PESSOA], ela está ali, valendo todas as novidades que nós temos na versão 2602, e ela vai montar uma lista resumida, tá? No site da TOTUS, toda vez que é atualizado um pacote de correção da versão, ou da própria versão, ele sai ali um documento com com todas as informações de atualização. Eu vou enviar esse link de como verificar essa documentação, tanto no grupo de gestão quanto no grupo de sprint, para vocês terem ali o link para poder consultar, independente de qualquer coisa, quais são as mudanças que ocorrem aí nas atualizações de versões da Tots, tá bom? Quais são as melhorias que são feitas, as correções, ele está ali bem detalhado. O [PESSOA] também, ele fechou ali, com a [LOCAL], o padrão de codificação do faturamento, né, para que a [LOCAL] possa fazer a baraterização dos lançamentos de procedimentos. Certo, [LOCAL]? Essa parte...[PESSOA] da\n[LOCUTOR 23]: É... Assim, que eu tenha falado com o [PESSOA] foi um tempo atrás em relação a\n[LOCUTOR 11]: comoRayane [PESSOA] da\n[LOCUTOR 23]: é que ficaria, né? que\n[LOCUTOR 11]: nãoRayane [PESSOA] da\n[LOCUTOR 23]: tinha um código específico, e aí precisou fazer um DEPARA. Era isso? Ah, tá.\n[LOCUTOR 11]: É isso, né, [PESSOA]?\n[LOCUTOR 8]: Isso. [EMPRESA], [PESSOA], tudo bem? [LOCAL] dia. A [PESSOA] te passou o que deveria ser feito num padrão de codificação e faturamento, que era a lista dos procedimentos, eu associei, fiz o DEPARA, só que eu não tenho conhecimento do que é procedimento, o que é exames, essas partes, entendeu? Aí precisava que colocasse essas faixas de código, se você quiser depois a gente pode marcar uma reunião, se tiver alguma dúvida, no padrão de faturamento correto. Se você não souber onde é, eu te chamo no WhatsApp e te mando o sprint direitinho, mas eu tinha passado isso para a [PESSOA] e ela tinha te passado.[PESSOA] da\n[LOCUTOR 8]: Tá bom.[PESSOA] de\n[LOCUTOR 9]: Isso é uma dúvida que está criando alguma inteligência de código, porque o [PESSOA] citou que o intervalo de procedimentos que são exames, alguma coisa assim,\n[LOCUTOR 11]: sóSade [PESSOA] de\n[LOCUTOR 9]: para eu entender.\n[LOCUTOR 8]: Como assim são inteligência de códigos, para eu entender?\n[LOCUTOR 11]: [PESSOA] de\n[LOCUTOR 9]: exemplo, foi definido que do código 1 a 100 é exame.\n[LOCUTOR 8]: Então o que eu fiz? Eu associei... os procedimentos daquela lista, parecido com o código TUS, utilizado na medicina humana.[PESSOA] de\n[LOCUTOR 8]: que eu não sei o que é exame, entendeu? Um exemplo, só foi um exemplo citado. Então, dentro lá do quadrão de faturamento, necessita estar a faixa correta, só para quando for solicitado esse exame, cair na aba de exame lá no faturamento, entendeu?[PESSOA] de\n[LOCUTOR 8]: Tá bom. Eu associei parecido com o código [PESSOA] mesmo. Eu mandei essa lista para a [PESSOA] e que mandou para a [LOCAL].\n[LOCUTOR 11]: [PESSOA] da\n[LOCUTOR 11]: Em andamento, nós temos a parametrização da teleconsulta, tá? Inclusive, a teleconsulta, ela já está funcionando, ela já está funcional.[PESSOA] de\n[LOCUTOR 9]: [LOCUTOR 7]: já homologamos, né, no nosso teste voluntário. Então, é possível você criar uma agenda ali e você dizer na agenda se ela vai ser presencial ou se ela vai ser para o atendimento de teleconsulta.[PESSOA] de  A\n[LOCUTOR 11]: pessoa do outro lado, ela recebe ali uma agenda o paciente, na verdade, ela recebe ali a agenda com o link e ele, no momento da agenda, o médico acessa pelo PEP, acessa o link, abre ali o prontuário, mas a câmera está do lado e do outro lado o paciente também acessa, né. Só um minutinho, pessoal. Então, o que, por que está indo a mento ainda, né? Através do portal do paciente, a gente não conseguiu executar o teste unitário completo, tá? Então, de saúde unitária completa no portal do paciente, a gente já passa para vocês validarem ali. Qual a particularidade da teleconsulta? Por exemplo, a gente configurouSade [PESSOA] de\n[LOCUTOR 11]: e-mail nosso de teste, tá? ASade [PESSOA] de\n[LOCUTOR 9]: gente criou\n[LOCUTOR 11]: uma conta no Gmail e nós configuramos essa conta do Gmail lá, que é a conta que dispara o e-mail para o paciente. Então, a gente vai precisar de uma conta de e-mail mais [EMPRESA] para que o paciente, o responsável pelo [EMPRESA], que receba ali o e-mail identificado correto com a identificação da [LOCAL]. E também é necessário cadastrar um cartão de crédito, porque esses serviços de teleconsulta, acima de X minutos, se não me engano, são 3 mil minutos. Só vou confirmar lá. Exatamente, você tem uma cobrança de 0,03 centavos, ele tem uma tarifação por minuto de atendimento, entendeu? Um mecanismo fora da [EMPRESA], um serviço à parte. Não sei se você estava sabendo desse ponto, [PESSOA], sobre essa questão da teleconsulta. [LOCAL] de\n[LOCUTOR 9]: não me recordava do valor, [PESSOA], mas eu estava ciente que não era ilimitado.\n[LOCUTOR 11]: Sim, mas quando a gente for validar isso, Eu vou passar direitinho isso, tá? Eu posso fazer o teste, por exemplo, no [PESSOA], né? Mas depois a gente pode testar, validar isso junto, mostrar ali no site do parceiro também Toda essa parte a gente documenta direitinho pra você Nós estamos aqui no processo de desenvolvimento das integrações, né? É um processo agora que que é um pouco mais demorado, mas a gente já está bem avançado. Eu só vou precisar da sua ajuda, [PESSOA], porque a gente tem um especialista novo que nós trouxemos para o time. E aí eu vou precisar criar os acessos para ele, tá? Eu vou te chamar daqui a pouco para você me ajudar com isso, para a gente poder acelerar esse processo aqui.[PESSOA] da\n[LOCUTOR 23]: Tá, me manda os dados dele por e-mail, [PESSOA]. copiando essa dica,\n[LOCUTOR 11]: euJemesson [LOCAL] da\n[LOCUTOR 23]: já peço o pessoal do Teams aí para criar aqui para nós.\n[LOCUTOR 23]: Nome, e-mail e CPF.\n[LOCUTOR 11]: Nome, e-mail e CPF, né? Tá bem. Já te passo já isso.[PESSOA] da\n[LOCUTOR 11]: [LOCAL], sobre elegibilidade, a gente também já avançou, assim como a teleconsulta, Quando a gente faz o teste de elegibilidade usando alguns mecanismos, por exemplo, se a gente usa o Ghost, que é uma forma de a gente testar a API junto ao [EMPRESA], e a gente faz alguns testes internos ali por dentro do RM, a gente consegue, mas no procedimento padrão ali da elegibilidade, passando pelas telas que o usuário vai acessar, apresentou erro ou abriu chamado. Agora mesmo de manhã, eu vi o chamado no dia 18, agora mesmo de manhã eu vi que eles acabaram de responder, tá? Então a gente vai executar o que eles pediram no chamado, acredito que isso também já vai ficar pronto. para vocês poderem validar, tá? A parte de elegibilidade, tanto no momento de agendar uma consulta, quando o [EMPRESA] chega para ser atendido na unidade, ele também faz a elegibilidade automaticamente ali no Proteus, tá? Com o Proteus, com o [EMPRESA], na verdade, né? [LOCAL], de próximos passos aqui, nós temos a aprovação das customizações, que eu acredito que foi o [PESSOA] [PESSOA] me disse.[PESSOA] da\n[LOCUTOR 23]: Acho\n[LOCUTOR 11]: que é parcial. [EMPRESA], Gênesis.[PESSOA] da\n[LOCUTOR 11]: composiçãoJemesson [LOCAL] da\n[LOCUTOR 23]: do seu time aí?\n[LOCUTOR 23]: estive falando com o [PESSOA], ele e o [LOCAL],\n[LOCUTOR 11]: o [PESSOA],[PESSOA] da\n[LOCUTOR 23]: eles\n[LOCUTOR 11]: fizeramJemesson [LOCAL] da\n[LOCUTOR 23]: uma observação na API do Proteus de elegibilidade e não era através do portal [EMPRESA]. Está correto isso? A elegibilidade\n[LOCUTOR 11]: vai serJemesson [LOCAL] da\n[LOCUTOR 23]: do portal [EMPRESA] e não do Proteus?\n[LOCUTOR 11]: Não, na verdade você tem razão, é do Proteus mesmo. é que ele usa um serviço, nessa legibilidade, ele usa um serviço do [EMPRESA] ali, tá? Fica no mesmo servidor, vamos dizer assim, tá? Por isso que eu mencionei a questão do [EMPRESA], tá? Mas é exatamente o que você passou ali pra nós, tá? Através daquele usuário, sem... Todas aquelas orientações que você passou, a gente seguiu por aquele caminho lá mesmo.[PESSOA] da\n[LOCUTOR 11]: E aí, pelo que você... por tudo que você passou ali pra nós, está funcional. Ou seja, da sua parte, tudo que você passou funciona. Ele tem ali um problema interno no RM, e aí a gente passou esse chamado e eles nos passaram uma nova orientação. A gente vai precisar fazer alguns ajustes ali pra funcionar 100%, tá? Então o problema agora tá do lado de cá do RM. Depois eu até, se eu não me engano, eu tenho quase certeza, eu até te copiei nesse chamado da Gemson, para você também acompanhar as orientações técnicas deles, para você ter um conhecimento também. [LOCAL], então a gente tem os próximos passos aprovados nas publicações. Ah, esse aqui estava com o próximo passo, mas já foi finalizado, tá? Esse segundo da [EMPRESA]. A gente só precisa agora, depois de a gente validar a 2602 completamente em homologação, a gente subir lá para a produção, então a gente vai ficar na última versão disponível do mercado. A parte aqui dos ajustes do cadastro Batch, né, então depois a e vai validar, né, a tela, ver se realmente agora tá 100%, se precisa de mais algum ajuste, a gente ajusta rapidamente. Os formulários de ficha clínica, médica e ficha de emergência, nós executamos testes por aqui e a gente viu que tá funcional, tá? Depois, só a [PESSOA] podendo testar também, a gente já conclui e aí eu informalizo essa conclusão aqui por e-mail, a gente registra, [EMPRESA], [PESSOA]. [EMPRESA],[PESSOA] de\n[LOCUTOR 9]: [PESSOA]. Sobre o formulário, vocês vão chamar a [PESSOA] para validar?\n[LOCUTOR 11]: Sim, se na verdade a [PESSOA] puder validar, mas a gente está à disposição também, tá, [PESSOA]? Se você quiser fazer a validação em conjunto.\n[LOCUTOR 2]: Beleza, condenado.[PESSOA] de\n[LOCUTOR 9]: [PESSOA], resolve o [EMPRESA], por favor, tá? Que ele passou para a gente.\n[LOCUTOR 11]: No caso, a [PESSOA] chamou o [EMPRESA], você diz, ou eu mesmo chamo?[PESSOA] de\n[LOCUTOR 11]: Ah, tá bom.[PESSOA] de\n[LOCUTOR 9]: Então\n[LOCUTOR 11]: tá bom.[PESSOA] de\n[LOCUTOR 9]: Então\n[LOCUTOR 11]: eu te aguardo, tá, [PESSOA]? Se você precisar, a gente faz junto contigo.\n[LOCUTOR 11]: [LOCAL], a gente precisa também... A gente ficou focado aqui na liberação da teleconsulta e da elegibilidade, E acabamos ainda não ligando o painel de chamada, mas faremos isso também agora, essa semana, tá? Pra passar isso tudo pra vocês validarem, né? A gente também ficou com pendência da definição do processo de folha de sala cirúrgica. E aí, nesses casos finais...[PESSOA] de\n[LOCUTOR 11]: a gente nãoSade [PESSOA] de\n[LOCUTOR 9]: tinha definido esses pontos aí.\n[LOCUTOR 11]: [PESSOA] de\n[LOCUTOR 9]: exemplo, a gente não vai usar triagem. Como não tem que ser obrigatório ou não, Em nosso caso, por exemplo, é opcional, conforme não é parametrizável a obrigatoriedade, entendeu? Então a gente não vai usar triage.\n[LOCUTOR 11]: [LOCAL], vou remover aqui já, então.[PESSOA] de\n[LOCUTOR 9]: A folha de células cirúrgicas, qual que era a dúvida?\n[LOCUTOR 11]: Não, daí a gente precisaria de um prazo para a gente poder colocar aqui no documento, para a gente ter um prazo aqui de quando a gente consegueSade [PESSOA] de\n[LOCUTOR 11]: conclusão da definição desse processo. [LOCAL] de\n[LOCUTOR 9]: qual que é o ponto de definição exatamente aí?\n[LOCUTOR 11]: Sim, aqui no Folha de Salas Cirúrgicas a gente tem um processo ali que envolve a parte do centro cirúrgico, a gente tem ali a parte de farmácia, a gente precisaria realmente... ter um desenho desse processo para a gente poder ter o sistema bem alinhado com esse processo aqui. Se a [PESSOA] achar interessante, eu posso já deixar marcado um alinhamento da [PESSOA] com a [PESSOA], para a [PESSOA] passar todas as etapas desse processo contigo, [PESSOA]. E também já aproveitar e testar também o formulário aqui de cima, a gente consegue matar as duas coisas numa agenda só. É só você me dizer uma data, um horário.\n[LOCUTOR 2]: Se você está, [PESSOA], amanhã de manhã, depois das nove, pra mim eu posso, tá? Qualquer\n[LOCUTOR 11]: horário. Tá bom. Eu vou confirmar contigo, então, pelo WhatsApp, tá?\n[LOCUTOR 11]: [LOCAL]. [LOCAL], e a gente tem aqui também um último, que é a definição sobre as responsabilidades e etapas do processo. Então, por exemplo, né, quem faz a requisição de multimédia, quem dá alta ou troca de leito, né, a gente precisa também ter ali quem...[PESSOA] de\n[LOCUTOR 9]: A gente tem isso\n[LOCUTOR 11]: também,[PESSOA] de\n[LOCUTOR 9]: [PESSOA].\n[LOCUTOR 11]: Esse já tá pronto também?[PESSOA] de\n[LOCUTOR 9]: Já, já.\n[LOCUTOR 11]: Esse foi encaminhado para nós? [LOCAL] de\n[LOCUTOR 9]: vou formalizar, a gente falou tudo numa reunião que a gente fez quando tava presencial duas semanas atrás, entendeu? Mas eu\n[LOCUTOR 11]: vouSade [PESSOA] de\n[LOCUTOR 9]: formalizar para o navegador.\n[LOCUTOR 11]: [LOCAL], combinado. Só para a gente poder deixar alinhado aqui, ajustar perfil, deixar tudo prontinho, tá? [LOCAL], por fim, aqui temos de ponto de atenção, nós temos alguns itens que entraram aqui no atraso, né? Então, a gente tem essa parte aqui de exames, tá? que precisa da criação dos vínculos ainda, né, tais como a preparação para exames, padrões de medidas, etc. Nós temos a parte de produto, né, essa parte de exame e a parte de produção que são grandes aqui, né, então essa aqui deve ser feita como, por exemplo, o tipo de material, se são pela equipe auxiliar, se é medicação controlada, se é multidose. Então, esses dois aqui também a gente avançar, né, e a gente tá à disposição aqui, tá, se a [PESSOA], no caso aqui, de exames, né, e a [PESSOA] precisarem do nosso apoio, a gente fazer isso a quatro mãos, também é só colocar aqui uma data que a gente já consegue entrar no apoio para fazer isso com vocês e acelerar, porque isso vai, pode impactar, né, se a gente não atuar nisso nos próximos dias, no caso final do cronograma, tá.[PESSOA] de\n[LOCUTOR 9]: que produtos eu acredito que tem que envolver o time da farmácia e também do estoque. E a gente tem que fazer uma agenda a parte, entendeu? Envolvendo a [PESSOA].\n[LOCUTOR 11]: Sim.[PESSOA] de\n[LOCUTOR 9]: A dele e a [PESSOA], hein?\n[LOCUTOR 11]: Tá. Então, a parte de produto, né? Você já consegue imaginar uma data para a gente\n[LOCUTOR 10]: marcar?\n[LOCUTOR 11]: Ou você prefere que a gente marca...[PESSOA] de\n[LOCUTOR 9]: [LOCUTOR 1]: táSade [PESSOA] de  aí?\n[LOCUTOR 10]: Podemos marcar.\n[LOCUTOR 11]: Se você quer\n[LOCUTOR 10]: procurar\n[LOCUTOR 11]: uma data, vai marcar? Acho\n[LOCUTOR 10]: que fica mais tranquilo a partir de quinta-feira.\n[LOCUTOR 11]: Quinta-feira?\n[LOCUTOR 11]: Tá, tá bem. Quinta-feira. Você tá em algum grupo comigo? Não me recordo. Pra gente poder... Se você quiser deixar marcado aqui também, eu consigo te mandar pelo e-mail. Por exemplo, na quinta-feira, na parte da meia ou da tarde, eu consigo marcar com o Lucas também. Pode\n[LOCUTOR 10]: ser. Qualquer um dos dois horários. Quinta eu tô com a agenda mais tranquila.\n[LOCUTOR 11]: [PESSOA] de\n[LOCUTOR 9]: tá no grupo do ARN, lá do sprint, [LOCAL].\n[LOCUTOR 11]: Ah, fechado. Então, vou colocar ali, na quinta-feira já mando um invite ali. Vou deixar um invite de um pouco mais de tempo, porque isso vai demorar\n[LOCUTOR 11]: tempo.\n[LOCUTOR 11]: Por exemplo, de duas a três horas. Pode ser que... Só pra gente já imaginar uma reserva durante isso. Se por acaso a gente for mais rápido, não tem problema. Esse aqui, na verdade, essa aprovação das especificações das atualizações, na verdade, faltou só aquela questão da integração do produto na parte de serviço versus procedimento, que a gente conversou, lembra, [PESSOA]? Nesse ponto aqui, eu vou falar contigo, [PESSOA], pelo WhatsApp, para a gente poder botar um martelo.[PESSOA] de\n[LOCUTOR 9]: [PESSOA], arrepete para mim.\n[LOCUTOR 11]: Sim, sem problemas. Esse item aqui que está a aprovação de justificação que a gente desenvolveu, que está na LibreJaps, já que a senhora vai saber,\n[LOCUTOR 11]: o que a gente conversou aquele dia sobre a vinculação de servi\n[LOCUTOR 11]: o procedimento em si. Lembra que a gente tinha conversado que a gente tinha uma deficiência em relação à tabela, né? Eu só não, eu só não me recordo sinceramente se a gente tinha batido o martelo já nessa questão.[PESSOA] de\n[LOCUTOR 9]: Integrações e procedimentos, é isso?\n[LOCUTOR 11]: Isso.[PESSOA] de\n[LOCUTOR 9]: Eu tô ainda validando com o time se a gente vai eliminar o cadastro por plano de saúde, porque dependendo, essa decisão da integração depende dessa segunda decisão. Então essa\n[LOCUTOR 11]: tendência táSade [PESSOA] de\n[LOCUTOR 9]: comigo, [PESSOA].\n[LOCUTOR 11]: Então fechado, denominado. E temos aqui o vínculo de intensidade do Esse... Tá faltando o responsável do prazo aqui. É da [PESSOA]. Tô escutando\n[LOCUTOR 8]: aqui.\n[LOCUTOR 11]: O vínculo de itens de débito foi você que tava tocando essa frente?\n[LOCUTOR 8]: Era a [PESSOA] que tava vendo. A gente conseguiu importar lá conforme a lista. Vai precisar vincular os itens de débito. A [PESSOA] que tá\n[LOCUTOR 11]: na faixa\n[LOCUTOR 8]: de itens de débito.\n[LOCUTOR 11]: Você quer só dar uma... uma explicada rápida do que é o vínculo que a gente deve ter com o procuramento, só para a gente poderSade [PESSOA] de\n[LOCUTOR 9]: definir. É, para a\n[LOCUTOR 11]: gente saber.[PESSOA] de\n[LOCUTOR 9]: Dentro do item de lançamento, não é?\n[LOCUTOR 8]: [PESSOA]. Isso mesmo.\n[LOCUTOR 11]: [PESSOA] de\n[LOCUTOR 9]: tem o nome ainda, [PESSOA]. Está pendente quem é o responsável mesmo.\n[LOCUTOR 10]: [LOCAL].\n[LOCUTOR 11]: [LOCAL], a gente tem também a questão do roteiro de testes, sabe? Esse também é um ponto que, se você quiser marcar uma cópia, que a gente já está chegando nesse momento do cronograma, de a gente começar a trabalhar os testes unitários, principalmente, tá? Junto com vocês. Ô, [PESSOA], se você quiser fazer uma call comigo, tá bem? Que essa etapa aqui é importante a gente já deixar organizada Pra gente também não sofrer atraso de cronograma, que a gente já tá pr\n[LOCUTOR 3]: Ok,[PESSOA] da\n[LOCUTOR 23]: depois a gente vai\n[LOCUTOR 11]: conversarJemesson [LOCAL] da\n[LOCUTOR 23]: [LOCUTOR 4]: me chamar Ah, só um ponto que não está aqui, mas eu acabei de me recordar agora O Alexandre, do time, me chamou sobre a questão da migração do Legado Eu não atuei não\n[LOCUTOR 10]: colocando\n[LOCUTOR 11]: aqui\n[LOCUTOR 11]: apresentação, depois eu posso colocar aqui para próximo, mas ele tinha ficado também pendente de tratar ali alguns com o OnePatch, para a gente poder ter ali um mecanismo de como exportar ali o prontuário, de forma que a gente conseguisse cadastrar no R&D. Depois desse ponto, a gente discutiu algumasSade [PESSOA] de\n[LOCUTOR 9]: formas\n[LOCUTOR 11]: de fazer isso e ficou\n[LOCUTOR 10]: faltando\n[LOCUTOR 11]: o retorno dele\n[LOCUTOR 10]: também\n[LOCUTOR 11]: sobre esse ponto. [PESSOA] da\n[LOCUTOR 23]: estou junto com ele, [PESSOA], nessa demanda aí, acompanhando ele também. E a gente tá verificando aqui a forma de extração do [EMPRESA], porque isso é o nosso maior impeditivo hoje de trazer esse legado pro RM, tá? Porque perceber que no RM a gente pode fazer ali diversas formas, [EMPRESA], banco, dá pra fazer muita coisa, só que a extra\n[LOCUTOR 6]: do nossoJemesson [LOCAL] da\n[LOCUTOR 23]: [EMPRESA] tá sendo o único problema. Tirar as informações de lá. Mas a gente já tá cuidando disso aí já.\n[LOCUTOR 11]: Tá bom. Se você também precisar de algum apoio, tá? Eu tô te pedindo novos cadastros de profissionais porque a gente tá com um time dev bem reforçado. A gente tá com seis desenvolvedores agora ao mesmo tempo, tá? Então se você precisa de qualquer apoio, você me dá um toque. É,[PESSOA] da\n[LOCUTOR 23]: mas a limitação tá girando mais em torno do armpit, [PESSOA]. Sim, do\n[LOCUTOR 11]: ladoJemesson [LOCAL] da\n[LOCUTOR 11]: lá, né?[PESSOA] da\n[LOCUTOR 23]: Mas vamos conseguir romper isso.\n[LOCUTOR 10]: TáJemesson [LOCAL] da\n[LOCUTOR 11]: convidado. parametrizações para repasse veterinário, a gente tinha ficado o responsável [PESSOA],\n[LOCUTOR 11]: prazo inicial era 10 em 3, mas a gente acabou passando do prazo. Queria ver com vocês se a gente consegue definir aqui o novo prazo dessa etapa. Esse é um ponto que não atrasa, não atrasaria o projeto, porque ele não trava uma outra etapa, ele atrasa o processo de repasso veterinário, de isso ficar automatizado a ponto de a gente conseguir fazer a etapa de testes. AindaSade [PESSOA] de\n[LOCUTOR 9]: não tenho o meu prazo, eu ia realmente fazer essa pergunta, se isso é um impeditivo para nós.\n[LOCUTOR 11]: forma automática,[PESSOA] de\n[LOCUTOR 11]: aí o processo fica manual ainda, né? Mas é só isso o ponto, tá? [LOCAL], passando aqui essa etapa, a gente tem aqui só a questão dos riscos, né? Então a gente tem aqui ainda a questão da aprovação dos gaps, Que isso? esse processo tá parcial. A definição sobre PDV, essa parte infelizmente eu não tenho histórico, porque o [PESSOA] tava tratando diretamente contigo e ele teve um problema onde eu não conseguia alinhar essa parte do PDV com ele, mas ele deixou aqui sob riscoSade [PESSOA] de\n[LOCUTOR 9]: [PESSOA], hoje mesmo eu recebi uma proposta da [EMPRESA], tá? A gente tava em negociação já faz bastante tempo e eu acho que chegamos aí num senso comum e vai avançar, tá bom?\n[LOCUTOR 11]: Ah, que ótimo, excelente. A gente, dessa parte, [PESSOA], a gente tá trabalhando ali nas integrações e a gente já tá prevendo na integração que a gente alimente ali as tabelas do Então,\n[LOCUTOR 10]: pelo\n[LOCUTOR 11]: lado de... No background ali, no processo de integração de dados, a gente já avançou nesse sentido. Então, definindo ali a parte do sistema mesmo, a parte de integração já está, não parou, acredito. [LOCAL], a gente... O [PESSOA] também colocou aqui atraso de [PESSOA] no sentido desse... desses pontos que estão aqui. Eu até mandei a visitação para saber. Esses pontos que estão aqui, eles podem gerar atraso de [PESSOA], tá? Principalmente esses dois que a gente tratou aqui. O da [EMPRESA] e esse da... Então, esses pontos aqui, mais o vínculo de itens de débito também, a gente tem que gerar riscos, tá? Na questão\n[LOCUTOR 11]: [PESSOA], da data do [PESSOA]. [LOCAL], basicamente é isso. Podemos colocar um ponto,\n[LOCUTOR 10]: alguma\n[LOCUTOR 11]: necessidade específica. agradeço aí o tempo de vocês e fico à disposição. Vou marcar as agendas ali com a [PESSOA] e a [PESSOA] Teixeira. Também. Também.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:26.661016+00:00",
+    "total_linhas": 229,
+    "linhas_mantidas": 183,
+    "linhas_removidas": 46,
+    "percentual_mantido": 79.91,
+    "confianca_media": 0.5072
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL] dia. [LOCAL] dia, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL] dia.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL] dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL] dia. Sabe, eu ontem pensei que o [PESSOA] tinha te enviado o PowerPoint e eu acho que ele acabou não te enviando, ele enviou uma mensagem agora que disse que não vai participar da reunião e eu te encaminhei o PowerPoint no WhatsApp, no grupo de gestãoSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: PowerPoint que a gente vai apresentar.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA], eu não sei se você estava falando, eu não te ouvi, porque estava no meu som aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4191,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Você está me ouvindo agora?[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá bem. Então,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ontem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: eu pensei que o [PESSOA] tinha te enviado o PowerPoint da apresentação e eu acredito que ele não te enviouSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: hoje também ele não vai poder participar.[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4382,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Eu te",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: enviei agora ali no grupo o PowerPoint, não sei se você viu.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá ali no grupo de gestãoSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5779,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: projeto.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tchau.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.469,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL] dia, pessoal. [LOCAL] dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3918,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL] dia, gente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL].[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL], [PESSOA], podemos começar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Podemos. Vocês estão vendo, então?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4626,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL], nós estamos avançando aqui no cronograma, né? Estamos agora no final de março aqui. As principais atividades. A [LOCAL] testou ali a tela de cadastro de média, né? Ela já passou ali diversos ajustes para fazermos, né? e nós fizemos ajustes, o Marcos chegou a encaminhar a tela ontem. [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: ele falou só que tinha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: feitoRayane [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: as alterações e que eu podia conferir. Eu ainda não cheguei a olhar como é que ficou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4606,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: a [LOCAL] [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: depois.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: falou comigo E qualquer dúvida ou outro ajuste que eu achasse, poderia falar direto com ele.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5073,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Ah, perfeito.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: a gente... Agora, depois você olha lá, para você falar que a gente deixamos a tela mais simplificada ali da parte do responsável. Você consegue ver todos os pets que estão relacionados ao responsável. Ficou mais organizada, mais fácil de cadastrar. A gente achou A gente está curioso para saber o que você também vai achar depois que você olhar. Mas aí depois você passa o feedback para nós, tá? [LOCAL], nós também essa semana, esse período que passou aqui, até a última reunião agora, nós ajustamos o ambiente de produção, né? Então, o ambiente de produção, ele está agora com todas as parametrizações feitas se vocês acessarem, vocês verão lá que tem todas as prêmios que foram feitos, já estão refletindo lá no ambiente de produção, para ele já ficar pronto para o momento da virada. O ambiente de produção ele ainda está na versão 2506, mas no ambiente de homologação a gente virou para a versão 2602, a gente virou esse final de semana, especificamente, exatamente na e o ambiente já tá, já está disponível. A [PESSOA], ela está ali, valendo todas as novidades que nós temos na versão 2602, e ela vai montar uma lista resumida, tá? No site da TOTUS, toda vez que é atualizado um pacote de correção da versão, ou da própria versão, ele sai ali um documento com com todas as informações de atualização. Eu vou enviar esse link de como verificar essa documentação, tanto no grupo de gestão quanto no grupo de sprint, para vocês terem ali o link para poder consultar, independente de qualquer coisa, quais são as mudanças que ocorrem aí nas atualizações de versões da Tots, tá bom? Quais são as melhorias que são feitas, as correções, ele está ali bem detalhado. O [PESSOA] também, ele fechou ali, com a [LOCAL], o padrão de codificação do faturamento, né, para que a [LOCAL] possa fazer a baraterização dos lançamentos de procedimentos. Certo, [LOCAL]? Essa parte...[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: É... Assim, que eu tenha falado com o [PESSOA] foi um tempo atrás em relação a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: comoRayane [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: é que ficaria, né? que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: nãoRayane [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: tinha um código específico, e aí precisou fazer um DEPARA. Era isso? Ah, tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: É isso, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Isso. [EMPRESA], [PESSOA], tudo bem? [LOCAL] dia. A [PESSOA] te passou o que deveria ser feito num padrão de codificação e faturamento, que era a lista dos procedimentos, eu associei, fiz o DEPARA, só que eu não tenho conhecimento do que é procedimento, o que é exames, essas partes, entendeu? Aí precisava que colocasse essas faixas de código, se você quiser depois a gente pode marcar uma reunião, se tiver alguma dúvida, no padrão de faturamento correto. Se você não souber onde é, eu te chamo no WhatsApp e te mando o sprint direitinho, mas eu tinha passado isso para a [PESSOA] e ela tinha te passado.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Não, não, não, verdade, esse ponto estava aqui na minha pendência.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá bom.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Isso é uma dúvida que está criando alguma inteligência de código, porque o [PESSOA] citou que o intervalo de procedimentos que são exames, alguma coisa assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5391,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: sóSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: para eu entender.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5029,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Como assim são inteligência de códigos, para eu entender?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5143,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: exemplo, foi definido que do código 1 a 100 é exame.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5858,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então o que eu fiz? Eu associei... os procedimentos daquela lista, parecido com o código TUS, utilizado na medicina humana.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.536,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que eu não sei o que é exame, entendeu? Um exemplo, só foi um exemplo citado. Então, dentro lá do quadrão de faturamento, necessita estar a faixa correta, só para quando for solicitado esse exame, cair na aba de exame lá no faturamento, entendeu?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5662,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá bom, é porque hoje a gente acaba não usando nenhuma inteligência ou qualquer ordem específica de procedimentos, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá bom. Eu associei parecido com o código [PESSOA] mesmo. Eu mandei essa lista para a [PESSOA] e que mandou para a [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5045,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: compartilhar também por e-mail com o pessoal aqui internamente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4435,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Em andamento, nós temos a parametrização da teleconsulta, tá? Inclusive, a teleconsulta, ela já está funcionando, ela já está funcional.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCUTOR 7]: já homologamos, né, no nosso teste voluntário. Então, é possível você criar uma agenda ali e você dizer na agenda se ela vai ser presencial ou se ela vai ser para o atendimento de teleconsulta.[PESSOA] de  A",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5922,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: pessoa do outro lado, ela recebe ali uma agenda o paciente, na verdade, ela recebe ali a agenda com o link e ele, no momento da agenda, o médico acessa pelo PEP, acessa o link, abre ali o prontuário, mas a câmera está do lado e do outro lado o paciente também acessa, né. Só um minutinho, pessoal. Então, o que, por que está indo a mento ainda, né? Através do portal do paciente, a gente não conseguiu executar o teste unitário completo, tá? Então, de saúde unitária completa no portal do paciente, a gente já passa para vocês validarem ali. Qual a particularidade da teleconsulta? Por exemplo, a gente configurouSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: e-mail nosso de teste, tá? ASade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: gente criou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: uma conta no Gmail e nós configuramos essa conta do Gmail lá, que é a conta que dispara o e-mail para o paciente. Então, a gente vai precisar de uma conta de e-mail mais [EMPRESA] para que o paciente, o responsável pelo [EMPRESA], que receba ali o e-mail identificado correto com a identificação da [LOCAL]. E também é necessário cadastrar um cartão de crédito, porque esses serviços de teleconsulta, acima de X minutos, se não me engano, são 3 mil minutos. Só vou confirmar lá. Exatamente, você tem uma cobrança de 0,03 centavos, ele tem uma tarifação por minuto de atendimento, entendeu? Um mecanismo fora da [EMPRESA], um serviço à parte. Não sei se você estava sabendo desse ponto, [PESSOA], sobre essa questão da teleconsulta. [LOCAL] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: não me recordava do valor, [PESSOA], mas eu estava ciente que não era ilimitado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Sim, mas quando a gente for validar isso, Eu vou passar direitinho isso, tá? Eu posso fazer o teste, por exemplo, no [PESSOA], né? Mas depois a gente pode testar, validar isso junto, mostrar ali no site do parceiro também Toda essa parte a gente documenta direitinho pra você Nós estamos aqui no processo de desenvolvimento das integrações, né? É um processo agora que que é um pouco mais demorado, mas a gente já está bem avançado. Eu só vou precisar da sua ajuda, [PESSOA], porque a gente tem um especialista novo que nós trouxemos para o time. E aí eu vou precisar criar os acessos para ele, tá? Eu vou te chamar daqui a pouco para você me ajudar com isso, para a gente poder acelerar esse processo aqui.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Tá, me manda os dados dele por e-mail, [PESSOA]. copiando essa dica,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4743,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: euJemesson [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: já peço o pessoal do Teams aí para criar aqui para nós.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5344,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Só me refresca, eu preciso mandar o nome completo, [LOCAL] da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Nome, e-mail e CPF.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Nome, e-mail e CPF, né? Tá bem. Já te passo já isso.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.497,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL], sobre elegibilidade, a gente também já avançou, assim como a teleconsulta, Quando a gente faz o teste de elegibilidade usando alguns mecanismos, por exemplo, se a gente usa o Ghost, que é uma forma de a gente testar a API junto ao [EMPRESA], e a gente faz alguns testes internos ali por dentro do RM, a gente consegue, mas no procedimento padrão ali da elegibilidade, passando pelas telas que o usuário vai acessar, apresentou erro ou abriu chamado. Agora mesmo de manhã, eu vi o chamado no dia 18, agora mesmo de manhã eu vi que eles acabaram de responder, tá? Então a gente vai executar o que eles pediram no chamado, acredito que isso também já vai ficar pronto. para vocês poderem validar, tá? A parte de elegibilidade, tanto no momento de agendar uma consulta, quando o [EMPRESA] chega para ser atendido na unidade, ele também faz a elegibilidade automaticamente ali no Proteus, tá? Com o Proteus, com o [EMPRESA], na verdade, né? [LOCAL], de próximos passos aqui, nós temos a aprovação das customizações, que eu acredito que foi o [PESSOA] [PESSOA] me disse.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que é parcial. [EMPRESA], Gênesis.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5379,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Desculpa atrapalhar. Deixa eu só te fazer uma pergunta, voltando ainda ao ponto da elegibilidade. Se eu não me engano, esse novo contratado seu se chama [PESSOA], não é isso? Essa pessoa que está na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.414,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: composiçãoJemesson [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: do seu time aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Não, não. Na verdade é o [PESSOA]. [PESSOA] da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4377,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: estive falando com o [PESSOA], ele e o [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: o [PESSOA],[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: eles",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: fizeramJemesson [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: uma observação na API do Proteus de elegibilidade e não era através do portal [EMPRESA]. Está correto isso? A elegibilidade",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: vai serJemesson [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: do portal [EMPRESA] e não do Proteus?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5289,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Não, na verdade você tem razão, é do Proteus mesmo. é que ele usa um serviço, nessa legibilidade, ele usa um serviço do [EMPRESA] ali, tá? Fica no mesmo servidor, vamos dizer assim, tá? Por isso que eu mencionei a questão do [EMPRESA], tá? Mas é exatamente o que você passou ali pra nós, tá? Através daquele usuário, sem... Todas aquelas orientações que você passou, a gente seguiu por aquele caminho lá mesmo.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Ah, beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: E aí, pelo que você... por tudo que você passou ali pra nós, está funcional. Ou seja, da sua parte, tudo que você passou funciona. Ele tem ali um problema interno no RM, e aí a gente passou esse chamado e eles nos passaram uma nova orientação. A gente vai precisar fazer alguns ajustes ali pra funcionar 100%, tá? Então o problema agora tá do lado de cá do RM. Depois eu até, se eu não me engano, eu tenho quase certeza, eu até te copiei nesse chamado da Gemson, para você também acompanhar as orientações técnicas deles, para você ter um conhecimento também. [LOCAL], então a gente tem os próximos passos aprovados nas publicações. Ah, esse aqui estava com o próximo passo, mas já foi finalizado, tá? Esse segundo da [EMPRESA]. A gente só precisa agora, depois de a gente validar a 2602 completamente em homologação, a gente subir lá para a produção, então a gente vai ficar na última versão disponível do mercado. A parte aqui dos ajustes do cadastro Batch, né, então depois a e vai validar, né, a tela, ver se realmente agora tá 100%, se precisa de mais algum ajuste, a gente ajusta rapidamente. Os formulários de ficha clínica, médica e ficha de emergência, nós executamos testes por aqui e a gente viu que tá funcional, tá? Depois, só a [PESSOA] podendo testar também, a gente já conclui e aí eu informalizo essa conclusão aqui por e-mail, a gente registra, [EMPRESA], [PESSOA]. [EMPRESA],[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA]. Sobre o formulário, vocês vão chamar a [PESSOA] para validar?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Sim, se na verdade a [PESSOA] puder validar, mas a gente está à disposição também, tá, [PESSOA]? Se você quiser fazer a validação em conjunto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Beleza, condenado.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA], resolve o [EMPRESA], por favor, tá? Que ele passou para a gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.506,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: No caso, a [PESSOA] chamou o [EMPRESA], você diz, ou eu mesmo chamo?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5379,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Não, a [PESSOA] envolveu.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Ah, tá bom.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tá bom.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: eu te aguardo, tá, [PESSOA]? Se você precisar, a gente faz junto contigo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá bom, combinado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL], a gente precisa também... A gente ficou focado aqui na liberação da teleconsulta e da elegibilidade, E acabamos ainda não ligando o painel de chamada, mas faremos isso também agora, essa semana, tá? Pra passar isso tudo pra vocês validarem, né? A gente também ficou com pendência da definição do processo de folha de sala cirúrgica. E aí, nesses casos finais...[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: a gente nãoSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tinha definido esses pontos aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: exemplo, a gente não vai usar triagem. Como não tem que ser obrigatório ou não, Em nosso caso, por exemplo, é opcional, conforme não é parametrizável a obrigatoriedade, entendeu? Então a gente não vai usar triage.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL], vou remover aqui já, então.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4817,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A folha de células cirúrgicas, qual que era a dúvida?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Não, daí a gente precisaria de um prazo para a gente poder colocar aqui no documento, para a gente ter um prazo aqui de quando a gente consegueSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: conclusão da definição desse processo. [LOCAL] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: qual que é o ponto de definição exatamente aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Sim, aqui no Folha de Salas Cirúrgicas a gente tem um processo ali que envolve a parte do centro cirúrgico, a gente tem ali a parte de farmácia, a gente precisaria realmente... ter um desenho desse processo para a gente poder ter o sistema bem alinhado com esse processo aqui. Se a [PESSOA] achar interessante, eu posso já deixar marcado um alinhamento da [PESSOA] com a [PESSOA], para a [PESSOA] passar todas as etapas desse processo contigo, [PESSOA]. E também já aproveitar e testar também o formulário aqui de cima, a gente consegue matar as duas coisas numa agenda só. É só você me dizer uma data, um horário.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Se você está, [PESSOA], amanhã de manhã, depois das nove, pra mim eu posso, tá? Qualquer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4992,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: horário. Tá bom. Eu vou confirmar contigo, então, pelo WhatsApp, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL]. [LOCAL], e a gente tem aqui também um último, que é a definição sobre as responsabilidades e etapas do processo. Então, por exemplo, né, quem faz a requisição de multimédia, quem dá alta ou troca de leito, né, a gente precisa também ter ali quem...[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A gente tem isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: também,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Esse já tá pronto também?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Já, já.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Esse foi encaminhado para nós? [LOCAL] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6105,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: vou formalizar, a gente falou tudo numa reunião que a gente fez quando tava presencial duas semanas atrás, entendeu? Mas eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: vouSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: formalizar para o navegador.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL], combinado. Só para a gente poder deixar alinhado aqui, ajustar perfil, deixar tudo prontinho, tá? [LOCAL], por fim, aqui temos de ponto de atenção, nós temos alguns itens que entraram aqui no atraso, né? Então, a gente tem essa parte aqui de exames, tá? que precisa da criação dos vínculos ainda, né, tais como a preparação para exames, padrões de medidas, etc. Nós temos a parte de produto, né, essa parte de exame e a parte de produção que são grandes aqui, né, então essa aqui deve ser feita como, por exemplo, o tipo de material, se são pela equipe auxiliar, se é medicação controlada, se é multidose. Então, esses dois aqui também a gente avançar, né, e a gente tá à disposição aqui, tá, se a [PESSOA], no caso aqui, de exames, né, e a [PESSOA] precisarem do nosso apoio, a gente fazer isso a quatro mãos, também é só colocar aqui uma data que a gente já consegue entrar no apoio para fazer isso com vocês e acelerar, porque isso vai, pode impactar, né, se a gente não atuar nisso nos próximos dias, no caso final do cronograma, tá.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que produtos eu acredito que tem que envolver o time da farmácia e também do estoque. E a gente tem que fazer uma agenda a parte, entendeu? Envolvendo a [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Sim.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A dele e a [PESSOA], hein?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá. Então, a parte de produto, né? Você já consegue imaginar uma data para a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5797,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: marcar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Ou você prefere que a gente marca...[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCUTOR 1]: táSade [PESSOA] de  aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Podemos marcar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Se você quer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5428,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: procurar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: uma data, vai marcar? Acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que fica mais tranquilo a partir de quinta-feira.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5179,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Quinta-feira?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá, tá bem. Quinta-feira. Você tá em algum grupo comigo? Não me recordo. Pra gente poder... Se você quiser deixar marcado aqui também, eu consigo te mandar pelo e-mail. Por exemplo, na quinta-feira, na parte da meia ou da tarde, eu consigo marcar com o Lucas também. Pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4876,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ser. Qualquer um dos dois horários. Quinta eu tô com a agenda mais tranquila.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4865,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tá no grupo do ARN, lá do sprint, [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5928,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Ah, fechado. Então, vou colocar ali, na quinta-feira já mando um invite ali. Vou deixar um invite de um pouco mais de tempo, porque isso vai demorar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4741,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá, beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Por exemplo, de duas a três horas. Pode ser que... Só pra gente já imaginar uma reserva durante isso. Se por acaso a gente for mais rápido, não tem problema. Esse aqui, na verdade, essa aprovação das especificações das atualizações, na verdade, faltou só aquela questão da integração do produto na parte de serviço versus procedimento, que a gente conversou, lembra, [PESSOA]? Nesse ponto aqui, eu vou falar contigo, [PESSOA], pelo WhatsApp, para a gente poder botar um martelo.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA], arrepete para mim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Sim, sem problemas. Esse item aqui que está a aprovação de justificação que a gente desenvolveu, que está na LibreJaps, já que a senhora vai saber,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: o que a gente conversou aquele dia sobre a vinculação de servi",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: o procedimento em si. Lembra que a gente tinha conversado que a gente tinha uma deficiência em relação à tabela, né? Eu só não, eu só não me recordo sinceramente se a gente tinha batido o martelo já nessa questão.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Integrações e procedimentos, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Isso.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Eu tô ainda validando com o time se a gente vai eliminar o cadastro por plano de saúde, porque dependendo, essa decisão da integração depende dessa segunda decisão. Então essa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tendência táSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: comigo, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Então fechado, denominado. E temos aqui o vínculo de intensidade do Esse... Tá faltando o responsável do prazo aqui. É da [PESSOA]. Tô escutando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: O vínculo de itens de débito foi você que tava tocando essa frente?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5912,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Era a [PESSOA] que tava vendo. A gente conseguiu importar lá conforme a lista. Vai precisar vincular os itens de débito. A [PESSOA] que tá",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: na faixa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: de itens de débito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Você quer só dar uma... uma explicada rápida do que é o vínculo que a gente deve ter com o procuramento, só para a gente poderSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6119,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: definir. É, para a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: gente saber.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Dentro do item de lançamento, não é?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5237,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]. Isso mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tem o nome ainda, [PESSOA]. Está pendente quem é o responsável mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá. Tá bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL], a gente tem também a questão do roteiro de testes, sabe? Esse também é um ponto que, se você quiser marcar uma cópia, que a gente já está chegando nesse momento do cronograma, de a gente começar a trabalhar os testes unitários, principalmente, tá? Junto com vocês. Ô, [PESSOA], se você quiser fazer uma call comigo, tá bem? Que essa etapa aqui é importante a gente já deixar organizada Pra gente também não sofrer atraso de cronograma, que a gente já tá pr",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5385,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ok,[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: depois a gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: conversarJemesson [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCUTOR 4]: me chamar Ah, só um ponto que não está aqui, mas eu acabei de me recordar agora O Alexandre, do time, me chamou sobre a questão da migração do Legado Eu não atuei não",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: colocando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: apresentação, depois eu posso colocar aqui para próximo, mas ele tinha ficado também pendente de tratar ali alguns com o OnePatch, para a gente poder ter ali um mecanismo de como exportar ali o prontuário, de forma que a gente conseguisse cadastrar no R&D. Depois desse ponto, a gente discutiu algumasSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: formas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: de fazer isso e ficou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: faltando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: o retorno dele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: também",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: sobre esse ponto. [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: estou junto com ele, [PESSOA], nessa demanda aí, acompanhando ele também. E a gente tá verificando aqui a forma de extração do [EMPRESA], porque isso é o nosso maior impeditivo hoje de trazer esse legado pro RM, tá? Porque perceber que no RM a gente pode fazer ali diversas formas, [EMPRESA], banco, dá pra fazer muita coisa, só que a extra",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: do nossoJemesson [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5779,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [EMPRESA] tá sendo o único problema. Tirar as informações de lá. Mas a gente já tá cuidando disso aí já.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá bom. Se você também precisar de algum apoio, tá? Eu tô te pedindo novos cadastros de profissionais porque a gente tá com um time dev bem reforçado. A gente tá com seis desenvolvedores agora ao mesmo tempo, tá? Então se você precisa de qualquer apoio, você me dá um toque. É,[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: mas a limitação tá girando mais em torno do armpit, [PESSOA]. Sim, do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ladoJemesson [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: lá, né?[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Mas vamos conseguir romper isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: TáJemesson [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: convidado. parametrizações para repasse veterinário, a gente tinha ficado o responsável [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: prazo inicial era 10 em 3, mas a gente acabou passando do prazo. Queria ver com vocês se a gente consegue definir aqui o novo prazo dessa etapa. Esse é um ponto que não atrasa, não atrasaria o projeto, porque ele não trava uma outra etapa, ele atrasa o processo de repasso veterinário, de isso ficar automatizado a ponto de a gente conseguir fazer a etapa de testes. AindaSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: não tenho o meu prazo, eu ia realmente fazer essa pergunta, se isso é um impeditivo para nós.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Não, ele só ele só atrasa ele mesmo, né? Se não tiver parametrizado, não conseguimos executar o repasse veterinário",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4112,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: forma automática,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aí o processo fica manual ainda, né? Mas é só isso o ponto, tá? [LOCAL], passando aqui essa etapa, a gente tem aqui só a questão dos riscos, né? Então a gente tem aqui ainda a questão da aprovação dos gaps, Que isso? esse processo tá parcial. A definição sobre PDV, essa parte infelizmente eu não tenho histórico, porque o [PESSOA] tava tratando diretamente contigo e ele teve um problema onde eu não conseguia alinhar essa parte do PDV com ele, mas ele deixou aqui sob riscoSade [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA], hoje mesmo eu recebi uma proposta da [EMPRESA], tá? A gente tava em negociação já faz bastante tempo e eu acho que chegamos aí num senso comum e vai avançar, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Ah, que ótimo, excelente. A gente, dessa parte, [PESSOA], a gente tá trabalhando ali nas integrações e a gente já tá prevendo na integração que a gente alimente ali as tabelas do Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: lado de... No background ali, no processo de integração de dados, a gente já avançou nesse sentido. Então, definindo ali a parte do sistema mesmo, a parte de integração já está, não parou, acredito. [LOCAL], a gente... O [PESSOA] também colocou aqui atraso de [PESSOA] no sentido desse... desses pontos que estão aqui. Eu até mandei a visitação para saber. Esses pontos que estão aqui, eles podem gerar atraso de [PESSOA], tá? Principalmente esses dois que a gente tratou aqui. O da [EMPRESA] e esse da... Então, esses pontos aqui, mais o vínculo de itens de débito também, a gente tem que gerar riscos, tá? Na questão",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA], da data do [PESSOA]. [LOCAL], basicamente é isso. Podemos colocar um ponto,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5532,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: necessidade específica. agradeço aí o tempo de vocês e fico à disposição. Vou marcar as agendas ali com a [PESSOA] e a [PESSOA] Teixeira. Também. Também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: dia pra você.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    }
+  ]
+}

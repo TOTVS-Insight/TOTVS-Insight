@@ -1,0 +1,1363 @@
+{
+  "id_reuniao": "1254076",
+  "codt": "T03873",
+  "data_reuniao": "2026-03-23 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 21]: Ô [PESSOA], só mais uns dois minutinhos que ele tá terminando uma call com outro cliente, tá bom? Tá\n[LOCUTOR 27]: bom, a gente aguarda daí.\n[LOCUTOR 24]: Boa tarde, pessoal.\n[LOCUTOR 21]: Boa tarde.\n[LOCUTOR 33]: Boa tarde.\n[LOCUTOR 21]: Bom, gente, o [PESSOA] é o nosso especialista aqui de [PESSOA]. Ele vai apresentar para vocês. Eu vou continuar aqui da sala, mas qualquer coisa vocês podem falar e levantar a mão, tá bom?\n[LOCUTOR 27]: Tá certo.\n[LOCUTOR 24]: E aí, galerinha, como é que vocês estão? [EMPRESA] jóia com vocês? Desculpa a demora. Estava numa outra azena ali. Acabou atrasando uns minutinhos.\n[LOCUTOR 27]: Ah, tranquilo.\n[LOCUTOR 24]: O [PESSOA] pediu pra avisar que não vai conseguir entrar, cara. Ele tá...\n[LOCUTOR 27]: Ele me... Ele\n[LOCUTOR 24]: me testou lá também.\n[LOCUTOR 27]: [PESSOA] falou, assim, que ele vai se atrasar um pouco, que ele está em outra reunião, parece, também, mas tranquilo. Que a ideia hoje, na verdade, é mais a gente conhecer também o TotsCloud. A gente não tem, assim, nenhum projeto em vias de... ou necessidades de troca, pelo menos não a curto prazo, né? Mas aí o [PESSOA] comentou também, a [PESSOA], na outra oportunidade, comentou se seria interessante a gente, de repente, conhecer o TotsCloud, ver o que tem de ferramenta, o que tem de recurso aí, para a gente já conhecer e saber o que se tem de opção.\n[LOCUTOR 24]: Boa, show de bola. Cara, muito prazer. Eu sou especialista em nuvem aqui na [EMPRESA], atendo o território do [LOCAL]. Até para dar uma direcionada num papo que eu queria entender quem está na sala. Tem galera de segurança e informação, é todo mundo de infra?\n[LOCUTOR 27]: É todo mundo de infra. Eu trabalho na parte de coordenação. Aí o [EMPRESA] também é da parte de infra, e ajuda bastante na parte com o Proteus, também, e cuida da parte de infraestrutura. E o [PESSOA], também, que trabalha e atua na parte de infraestrutura e está iniciando agora no Proteus com a gente também. [PESSOA], basicamente, nós três, assim, que mais lidamos com o Proteus e a parte de infraestrutura. [PESSOA], mais anos de casa dentro do Proteus é comigo, mas, assim, em termos de conhecimentos gerais, ali, o [EMPRESA] e o [PESSOA], eles estão já meio que dominando também, [PESSOA].\n[LOCUTOR 24]: Boa. Eu tenho uma apresentação padrão que eu posso fazer para vocês, tá? Mas ela é muito monóloga, assim. Vocês preferem que eu apresente o PowerPoint ou a gente siga no bate-papo, assim? Eu vou trazendo para vocês o que a gente tem. Como é que fica melhor aí?\n[LOCUTOR 27]: Cara, acho que pode apresentar, assim, de forma geral, direta, assim. Não tem muito... O que mais que a gente falou? É mais a ideia da gente saber, conhecer como é que funciona, como é que funciona acesso, como é que é hospedagem, como é que é, sei lá, atualização, como é que... Enfim, uma abrangência, assim, de forma geral. Hoje, nós temos o on-premise, né? [PESSOA], aqui, a\n[LOCUTOR 24]: gente\n[LOCUTOR 27]: faz tudo. A gente tem que fazer a instalação, tem que fazer a atualização, precisa fazer alguma alteração, criar campo, [PESSOA], esse tipo de coisa. É isso que a gente gostaria de ver, de entender como é que funciona a questão de hospedagem, planos, espaço, processamento, esse tipo de coisa. Mas o que a gente gostaria de... de conhecer, ver como é que funciona, né?\n[LOCUTOR 24]: Boa, show de bola. Vou compartilhar a matéria [PESSOA] com vocês, tá? Hoje vocês rodam tudo local ou vocês rodam em alguma nuvem já?\n[LOCUTOR 27]: [EMPRESA] em nuvem. É em nuvem, mas dá para se considerar que é local, porque é um parceiro nosso aqui na região, né? E aí a gente tem praticamente uma extensão da nossa rede aqui, mas é uma nuvem. Boa,\n[LOCUTOR 24]: é um co-location, [PESSOA] é isso.\n[LOCUTOR 27]: Isso, basicamente isso daí.\n[LOCUTOR 24]: Show de bola. Vocês estão usando em cima de VE? Bora o Hyper-V.\n[LOCUTOR 27]: Ô,\n[LOCUTOR 33]: [PESSOA], a gente tá usando em cima de\n[LOCUTOR 27]: [EMPRESA], tá?\n[LOCUTOR 24]: [EMPRESA], legal.\n[LOCUTOR 27]: E\n[LOCUTOR 24]: vocês usam SQL ou vocês usam Oracle?\n[LOCUTOR 33]: SQL.\n[LOCUTOR 27]: [LOCAL].\n[LOCUTOR 24]: O que é a nuvem da [EMPRESA], [PESSOA]? Eu vou tentar ser bem breve e resumido nessa parte mais conceitual. A gente tem um produto de nuvem da companhia, que é o maior negócio da [EMPRESA] hoje. A [EMPRESA] tem mais de 600 negócios, o maior é o de nuvem. Nós somos a maior nuvem brasileira. Acho que todo mundo sabe que a [EMPRESA] é a maior empresa de tecnologia da [LOCAL]. Mas nem todo mundo sabe que a gente tem a maior nuvem do [LOCAL]. Para vocês terem ideia, a gente tem hoje mais ou menos na faixa de quase 100 mil servidores virtuais. Esse é o tamanho da nossa nuvem em números. [PESSOA] é quase 100 mil VMs. A gente está falando de 7 peta de dados. um time de pouco menos de mil pessoas para gerenciar tudo isso. [PESSOA] a gente acaba tendo muita automação por trás. A nossa nuvem hoje ela fica em três data centers espalhados pelo [LOCAL]. Ficam dois em [LOCAL] e um no [LOCAL]. O datacenter do [LOCAL] é mais para clientes que no [LOCAL] a gente tem uma base muito forte de [LOCAL], tem muito conector de baixa latência e tudo mais. [PESSOA] funciona específico para lá. Restante, todo mundo se conecta nos datacenters que a gente tem em [LOCAL], tá? E tem um em [LOCAL] e outro em [LOCAL]. Nossos datacenters, eles ficam rodando em... complexos de grande porte, que são os mesmos onde roda a AWS, onde roda a Azure, onde roda a [EMPRESA], onde roda vários concorrentes. E a gente tem um espaço lá dentro. O que é a da [LOCAL]? A tecnologia e os equipamentos. [PESSOA] a [LOCAL] tem seus equipamentos próprios, que a gente troca isso a cada ano. A nossa infraestrutura toda hoje é baseada em [EMPRESA]. Somos um dos maiores compradores da [EMPRESA] da [LOCAL]. E a gente tem uma estrutura muito robusta para poder atender. E aí sim, voltando às novidades que eu coloquei aqui. para atender a premissa do mercado. O mercado fala que o futuro vai ser nuvens de propósito específico. A [EMPRESA] rodando nuvem da [EMPRESA], o Proteus da TASURA rodando nuvem da TOTUS, a [EMPRESA] rodando nuvem da [EMPRESA], [LOCAL] rodando nuvem da [LOCAL]. Esse é o futuro do mercado. É o que o [EMPRESA] já preveu há uns anos atrás e o [EMPRESA] continua prevendo que isso está se concretizando. [PESSOA] a [LOCAL], para entrar nessa jornada, a [LOCAL] construiu toda essa nuvem. A gente já tem essa nuvem há muito tempo, há mais de 10 anos, mas agora que a gente tem uma oferta robusta, nem sempre foi assim, a gente teve muito problema no começo, mas agora a gente tem um modelo muito estruturado. Tem um estudo de viabilidade para que a gente tenha um data center no sul do [LOCAL], em breve, acredito que por volta de 2030. E hoje a gente tem um modelo separado em todas as três ofertas de cloud de mercado, pessoal. O primeiro deles é o [EMPRESA] [PESSOA] eu já tenho alguns produtos SaaS, como é o caso do WMS, SaaS, é o caso do [EMPRESA] Station. Não sei se vocês usam alguma coisa SaaS da [EMPRESA], [EMPRESA] Station, Feeds.\n[LOCUTOR 27]: Não, não, hoje não. \n[LOCUTOR 14]: gente tem vários produtos da [EMPRESA] que já são SaaS, tá? [EMPRESA] é um caso, né? [PESSOA], [EMPRESA] você contratou, você bota o login e sai usando. Você não tem acesso ao banco, você não versiona nada, você não customiza arquivos, tudo fica com a [EMPRESA]. E a TOTOS tem o modelo do meio, que é o PASS, que é o Plataformas da Service, para rodar produtos da TOTOS que a gente não pode amarrar no [EMPRESA] É o caso do Proteus, DataSuite, Tor, [LOCAL], que são produtos onde são RPs dos clientes. Eu não posso obrigar o seu [EMPRESA] a atualizar a versão de forma automática e você não ter o controle disso, porque tem muita coisa customizada, tem muita coisa que é específica para cada negócio. [PESSOA] a gente coloca isso num modelo que é PASS Por que ele é um PAS e não um IAS? Porque a TOTUS gerencia tudo para você. O que fica na responsabilidade do cliente? O que a TOTUS não faz? Customizados. [PESSOA] aquilo que é a [EMPRESA], enfim, vocês continuam mantendo o suporte de vocês. E a janela de atualização. A TOTUS atualiza para você até a revista. Atualiza a ficha, atualiza tudo. Mas a TOTUS não diz quando vai atualizar. Você escolhe a janela. Você fala vou atualizar a produção agora homologação X. A gente vai lá e atualiza na janela que vocês programarem geralmente no final de semana fora de horário para não impactar a produção. Mas essa decisão fica com você. O resto é tudo com a [LOCAL] [LOCAL] atualização de patch manutenção do S.O. tudo com a [LOCAL] parte de EDR e XDR processão de borda Firewall tudo com a [LOCAL]. A disponibilidade do datacenter enfim é uma\n[LOCUTOR 27]: camada Essa atualização que tu falas, ela gera algum custo para o cliente?\n[LOCUTOR 24]: Não gera nenhum\n[LOCUTOR 27]: custo. Não. \n[LOCUTOR 10]: falando das releases, né?\n[LOCUTOR 27]: Isso, isso. \n[LOCUTOR 14]: gente não gera nenhum custo, tá? Isso tudo por parte da top. A TOTUS atualiza pra vocês isso, porque a gente tem muita automação por trás, [PESSOA] o processo não é caro pra TOTUS pra fazer, tá?\n[LOCUTOR 27]: [EMPRESA],\n[LOCUTOR 24]: o cliente tem que testar. [PESSOA] você vai falar, [PESSOA], atualiza a homologação, eu vou atualizar. Aí você vai fazer os testes, e você vai dizer, ó, testei, ajustei o que tiver que ajustar no customizado, pode virar a produção domingo, três da manhã. A gente vai lá domingo, três da manhã, e vira a produção pra você, tá? Mas isso não tem custo nenhum. Nenhum tipo de atualização tem custo, tá? A gente tem um modelo muito simplificado, que toda essa parte de serviço já está embarcado junto, você não paga nada mais. [PESSOA] ele só não é um SaaS, porque tem essa questão de customização, você tem acesso ao banco de dados para você fazer consultas, conectar um Power BI, fazer uma integração [PESSOA], você tem essa permissão, que no SaaS você não teria, por isso que eu não posso dizer que é um SaaS, [PESSOA] ele é esse modelo intermediário que é um [EMPRESA] Para sistemas que não são da TOTOS, eu tenho uma terceira oferta que é o IaaS, que é uma infraestrutura convencional, como se você contrata uma VPS da AWS, do Wave, de uma nuvem privada, enfim, que é onde eu te comercializo a VM e você coloca o que você quiser, para você instalar as coisas que são satélites. A gente fala que não pode levar a mãe sem levar outro filhinho, né? Senão ele fica chorando. [PESSOA], a mesma coisa. Aí eu tenho o Proteus aqui, mas eu tenho um sistema de catraca, que é meu, que ele é embutido no Proteus. Pra não ficar ele no local ou numa outra nuvem e o sistema do Proteus na top dessa latência atrapalhar a performance, você pode contratar uma VM extra junto pra trazer e instalar esse outro sistema como sistema de concorrente, AD, file server, o que você quiser, tá? Inclusive, isso é legal porque exemplifica muito o nosso modelo. A TOTUS hoje, no PaaS, faz tudo para você. Ela gerencia tudo. E quando a gente vai para o IaaS, você não tem tudo. No IaaS, eu te comercializo a VM, mas você atualiza o sistema operacional, você gerencia o acesso, você cuida do FIRO, você tem a obrigação de instalar um antivirus, de configurar o backup, apesar de a gente fazer de forma automática. [PESSOA], tudo isso fica com o cliente. Beleza, pessoal? Alguma dúvida? Consegui ser claro aí nesse modelo?\n[LOCUTOR 27]: Esse do PAS, a gente consegue acesso ao banco normal, [PESSOA]. Por exemplo, eu vou fazer a instalação lá dentro e vai seguir toda a parte de atualização, mas que nem a gente também tem. Trabalha com Power BI e a gente tem algumas outras aplicações internas. Esse acesso ao banco de dados, eu continuo com ele. Continuo tendo esse acesso como se eu tivesse ele num VPS, em algum endereço separado.\n[LOCUTOR 24]: Mais ou menos. O acesso ao banco é somente para mexer nos dados. Você não consegue mexer na estrutura do banco a não ser através de chamado. A gente não permite tabelas de dados que não são do Proteus. Você fala mas eu tenho um banco de um customizado que eu faço que não é no [LOCAL]. Aí teria que vir no modelo de [LOCAL]. A gente traz uma VM extra para esse banco. Mas dentro do PAS o [LOCAL] é somente para o Proteus. E o seu acesso vai ser um acesso de CRUD.\n[LOCUTOR 27]: Sim, isso sim. Mas, por exemplo, se eu criei uma tabela lá interna, criei lá pelo configurador normal, a tabela está dentro do sistema, eu consigo fazer o acesso dela via uma conexão externa tranquila. Isso?\n[LOCUTOR 24]: Isso aí. Mas aí você tem que mexer pelo configurador. \n[LOCUTOR 15]: você entrar...\n[LOCUTOR 24]: Vou logar direto no banco aqui no [EMPRESA], acessar com o System Admin, esse acerto você não teria, né? \n[LOCUTOR 16]: a gente já tem, até porque a gente sabe que o Proteus é bem complicado na questão de tamanho de campo, campos, caracteres, [PESSOA] tem toda aquela questão. Já não se tem aplicações rodando em cima dele que fazem inserção no banco ou exclusão diretamente no banco, o que a gente faz é realmente acesso para consultas, digamos.\n[LOCUTOR 24]: [PESSOA]. [LOCAL]. [PESSOA] funcionaria da mesma forma.\n[LOCUTOR 27]: Hoje\n[LOCUTOR 24]: vocês têm autenticação via LDAP?\n[LOCUTOR 27]: [LOCUTOR 25]: nossa autenticação é pelo AD.\n[LOCUTOR 24]: [PESSOA]. [PESSOA]. Continua da mesma forma. Não muda nada. Quando você vem pra [LOCAL], a única coisa que a gente habilita um identity no meio, que é o Totos Identity. Não sei se vocês têm isso contratado hoje ou não.\n[LOCUTOR 27]: Não, não.\n[LOCUTOR 24]: Vocês não tem Fluid hoje na base de você?\n[LOCUTOR 27]: Não, Fluid não.\n[LOCUTOR 24]: [PESSOA], mas isso é algo que a gente coloca junto na proposta, o Fluid para o Identity apenas, porque aí ele vai fazer a parte do SSO, tá? [PESSOA] não só integrar com AD, mas qualquer SSO que vocês queiram ter, como o [EMPRESA] 365, ou com o Google Workspace, né? [EMPRESA] isso, mas a gente coloca junto no projeto, tá? Não tem gávea. E é coisa que é barata também, achei R$ 400 essa licença. O que mais que eu ia comentar com vocês? A parte de licença de banco, tá? A gente já entrega o banco licenciado, no caso do PASC, que é o [LOCAL], eu já te entrego ele licenciado com o SQL Enterprise, tá? Quando a gente vai para o IaaS, aí você pode escolher, ah, eu quero ter um banco extra para o meu sênior. Aí você escolhe se você quer já a máquina licenciada com SQL Standard ou Enterprise ou se você quer fazer o buy-all da sua licença que você já comprou, tá? Se vocês, no projeto, se vocês vislumbrarem um projeto mais pra frente, ele englobaria os outros servidores também, ou não? Ou seria só Proteus?\n[LOCUTOR 27]: Não, a princípio seria só Proteus daí.\n[LOCUTOR 24]: Ah, perfeito. Eu pergunto porque aí eu direciono mais o nosso papo, se eu vou falar bastante do IaaS ou se eu vou falar mais do PaaS mesmo.\n[LOCUTOR 27]: E dentro do PaaS, por exemplo, o modelo que eu mais vejo pra nós, se a gente... se for evoluir, seria algo para o Paz, tá? Dentro do Paz, a questão do gerenciamento das licenças, eu subo um serviço lá, interno, com as licenças que a gente tem, e isso continua tudo igual, porque hoje, na verdade, a gente tem um serviço rodando, a gente tem lá o license rodando, eu tenho as minhas licenças lá atreladas, com a conta da [EMPRESA], e aí o Proteus está conectado nele. Esse serviço continua existindo lá dentro? Como é que ele valida isso?\n[LOCUTOR 24]: [LOCUTOR 18]: licenças continuam sendo minhas, no caso, porque a gente não tem um modelo de licenciamento que você não compra a licença, você passa pelo faturamento. Isso é o faturamento?\n[LOCUTOR 27]: Não, a gente tem as licenças, digamos, compradas ainda. Fugiu o nome agora, como é que chama?\n[LOCUTOR 24]: O tradicional é corporativo.\n[LOCUTOR 27]: É tradicional daí no caso. É\n[LOCUTOR 24]: tradicional.\n[LOCUTOR 27]: [LOCUTOR 5]: legal se continuar a partir da licença não muda nada. [PESSOA] que você tem e você quiser comprar mais você compra mais os mesmos preços. Isso não muda nada com relação aos ambientes. Quando você vem para o [EMPRESA] eu te entrego dois ambientes de produção e um de homologação na parte do Proteus um de homologação e um de produção na parte do TSS. Se você tem TSS transmite. [PESSOA], a gente entrega da mesma forma e eu te entrego um servidor de License Server. [PESSOA] você só loga com a sua conta no servidor de License Server, a conta da [EMPRESA], e traz as licenças pra lá. [PESSOA], dessa forma. Tem um License Server igual, mas ele roda num servidor de License Server da [EMPRESA] também. Ah, entendi.\n[LOCUTOR 24]: Como que é a precificação, tá, [PESSOA]? Hoje vocês contratam a [EMPRESA] por licença de usuários, certo? Isso,\n[LOCUTOR 27]: a gente compra licenças no caso, a gente tem licenças Lite, licenças Full lá, e hoje ele é esse.\n[LOCUTOR 24]: Tá, perfeito. Quando você vai para a novidade da [EMPRESA], isso continua da mesma forma, mas a [EMPRESA] é precificada por conexão de usuário. A gente fala que tem três métricas na [EMPRESA], que é cobrado no [PESSOA], que a gente chama. É por conexão de usuário e conexão de API. E lembrando que cada usuário pode ter três ou quatro conexões, que ele pode abrir o compras, pode abrir o manufatura, pode abrir o financeiro, cada módulo conta uma conexão. [PESSOA] a gente faz um estudo, e isso tudo a gente levanta tecnicamente com vocês um acerto, para a gente não vender conexão a mais ou a menos do que vocês precisam. Mas o modelo funciona assim. Conexão de usuário, [PESSOA] eu vou te cobrar para 100 conexões de usuário. Quanto de CPU e quanto de RAM vai estar na máquina? A tops que se virem, vai ser o suficiente desses 100 usuários. Ah, mas se eu tiver uns usuários aqui que geram 10 relatórios ao mesmo tempo e tranca todo o sistema, tem que botar mais CPU e mais RAM. A TOTOS vai colocar. [PESSOA] o modelo de especificação da TOTOS já prevê isso, que a gente vai ter que colocar o que precisar de recurso para a quantidade de conexões que vocês contratarem. [PESSOA] são as conexões do usuário, as conexões de API, [PESSOA] quantos servers de API você vai ter, [EMPRESA], POP, né? tamanho de dados do banco, [PESSOA] quantos gigas tem o seu banco de dados, e volume de documentos trafegados no TSS. Essas são as métricas que você vai ter, tá? Quanto ao uso de recurso, a [EMPRESA] vai empregar o que precisar para entregar dentro dessas métricas contratado, tá bom?\n[LOCUTOR 27]: [PESSOA] as licenças que eu tenho, na verdade, elas deixam de ter validade, isso?\n[LOCUTOR 24]: Elas têm validade igual, uma coisa não tem nada a ver com a outra. Você tem os dois limitadores.\n[LOCUTOR 27]: Por exemplo, hoje eu tenho 103 licenças ao total, certo?\n[LOCUTOR 24]: Vou dar um exemplo. Você tem 103 licenças, legal. fica limitado a 103 usuários conectarem simultaneamente dentro do protesto.\n[LOCUTOR 27]: Se\n[LOCUTOR 24]: a gente vender três conexões por usuário, a gente tá falando que cada usuário poderá abrir três módulos ao mesmo tempo. Se todos os seus 103 usuários abrirem três módulos ao mesmo tempo, cada um, você atinge os 319. E aí você tá no limite de conexão. Da mesma forma que você pode ter 103 usuários conectados, [PESSOA] você tá no limite de usuários conectados, você precisaria de mais licença para ter mais usuários. Mas cada usuário seu acessou um único módulo cada um. [PESSOA] você tem 103 usuários, 103 conexões. Ainda tem 200 e poucas disponíveis. São duas métricas diferentes.\n[LOCUTOR 27]: [LOCUTOR 14]: dos usuários continua valendo por usuários conectados. E da mesma forma, você pode ter 10 usuários conectados. e cada usuário abriu 50 módulos cada um. Não tem isso, mas se fosse, excederia as 300 conexões contratadas. Entendeu? Sim, entendi.\n[LOCUTOR 24]: Você vê que é bem complexo, mas a métrica acaba sendo assim. Os licenças que você tem limitam seus usuários a serem conectados e as conexões de cloud limitam a quantidade de módulos que vão ser abertos ao todo.\n[LOCUTOR 27]: Sim. É, hoje a gente faz essa limitação, na verdade, mas aí, claro, ele acaba consumindo uma licença de cada usuário. Eu limito o usuário a acessar, por exemplo, duas abas ou três abas ao mesmo tempo. [PESSOA], sim, se ele entra em três abas, ele tá consumindo três licenças.\n[LOCUTOR 24]: Ah,\n[LOCUTOR 27]: entendi.\n[LOCUTOR 24]: Tá, porque nem todas são full, né?\n[LOCUTOR 27]: Não, não, eu tenho 40 licenças full e o restante são lights daí, né?\n[LOCUTOR 24]: [EMPRESA]. É, esse exemplo, eu dei se fossem todas full, né?\n[LOCUTOR 27]: Sim,\n[LOCUTOR 24]: sim,\n[LOCUTOR 27]: sim.\n[LOCUTOR 24]: Mas a lógica é essa, tá? E aí quando a gente fala de TSS, [PESSOA] é pelo volume de documentos, né? Ah, 200 mil notas ao ano. [PESSOA]. Você tem 200 mil para emitir durante o ano e a [EMPRESA] vai\n[LOCUTOR 27]: também... O TSS eu\n[LOCUTOR 24]: preciso\n[LOCUTOR 27]: contratar ele por volume de nota fiscal dele. \n[LOCUTOR 11]: de\n[LOCUTOR 27]: documento. [LOCAL].\n[LOCUTOR 24]: No [PESSOA], o TSS era pelo volume total de documentos transmitidos no ano.\n[LOCUTOR 27]: E esse documento vocês contam no TSS, por exemplo, as transmissões do [EMPRESA]. Entra também nesse pacote?\n[LOCUTOR 24]: Entra também, tá? A gente tem\n[LOCUTOR 27]: tudo\n[LOCUTOR 24]: que passa pelo TSS, transmit, \n[LOCUTOR 7]: e\n[LOCUTOR 24]: pelo CPF.\n[LOCUTOR 27]: RH também cai [PESSOA] dentro dessas transmissões, hein? Porque o [EMPRESA] acaba passando pelo... o RH\n[LOCUTOR 24]: acaba\n[LOCUTOR 27]: passando pelo [EMPRESA], né?\n[LOCUTOR 24]: Eu não sei a lista exata de quais são os documentos, mas eu sei que tudo passa pelos três,\n[LOCUTOR 27]: vai\n[LOCUTOR 24]: ser contabilizado.\n[LOCUTOR 27]: [EMPRESA]. Bom,\n[LOCUTOR 24]: a gente faz um assessment. Isso é algo que não tem custo. A gente faz uma agenda de uma hora, entra o nosso especialista em Proteus e o nosso especialista em SQL. Eles vão pedir pra vocês rodarem alguns comandos lá no License Server, enfim, pra levantar essa volumetria. E aí a gente já fala, ó, você tá utilizando 300 mil documentos por ano. A gente vai montar um projeto pra 350, [PESSOA], pra ter uma gordurinha.\n[LOCUTOR 27]: [LOCUTOR 22]: não vender\n[LOCUTOR 24]: a mais e nem a menos e depois faltar também.\n[LOCUTOR 27]: Ah, entendi. Antes a gente comentou a questão do banco de dados. A gente comentou, vou precisar de um processamento X ou Y, vou precisar, por exemplo, base de dados. Hoje a nossa base está em 1.3 terra. Essa base aumentando, isso é o custo que está dentro? A gente não precisa se preocupar com isso? Como é que funciona?\n[LOCUTOR 24]: O tamanho do banco que você fala?\n[LOCUTOR 27]: Isso.\n[LOCUTOR 24]: [PESSOA], a gente faz sempre um projeto com uma gordura,\n[LOCUTOR 27]: tá?\n[LOCUTOR 24]: [PESSOA] o time ele vai dizer\n[LOCUTOR 27]: ó,\n[LOCUTOR 24]: geralmente eu que vou apresentar pra\n[LOCUTOR 27]: você,\n[LOCUTOR 24]: tá? Eu vou te dizer ó [PESSOA], a gente olhou aqui pro time de [LOCAL], teu banco tem 1.3, eu vou te vender 1.5, você tem uma gordurinha. Quando tiver 1.45 a gente te liga. Fala [PESSOA], tudo bem? Tá aumentando o teu banco, vou botar mais 6GB, mais de 100GB. [PESSOA] a gente vai\n[LOCUTOR 27]: aumentando isso. acaba impactando no valor da licença também. [PESSOA] o valor do mensal do recorrente mensal.\n[LOCUTOR 24]: Exatamente isso aí.\n[LOCUTOR 27]: Da mesma forma processador também ou não processador memória\n[LOCUTOR 24]: processamento e memória a gente não limita a usar o quanto precisar. Por isso que a gestão do banco é nossa e o nosso [LOCAL] também vai otimizar o banco de vocês provavelmente gastar menos recurso e ter mais performance com menos. para que a gente também possa ter esse equilíbrio financeiro dos projetos.\n[LOCUTOR 27]: [EMPRESA].\n[LOCUTOR 33]: Ô, [PESSOA], só uma pergunta. Essa limitação de memória, processamento, isso fica alocado para o servidor? Ou ele é compartilhado com outras VMs que estão dentro da nuvem?\n[LOCUTOR 24]: [PESSOA], essa é uma pergunta muito boa, sua pergunta, que nem palestrante agora. Qualquer pergunta, você é muito boa, sua pergunta. Mas isso é legal porque eu já ia chegar nessa parte. A gente tem, dentro do nosso modelo aqui, três modelos de oferta. Deixa eu achar onde é que estão os modelos de oferta. Acho que não estou nesses slides, mas enfim. A gente tem três modelos de oferta. O modelo standard, compartilhado, que é para cliente que tem 4 ou 5 usuários, onde ele divide o banco, divide a aplicação com outros caras. Aí está cinco empresas na linha da VM, tem esse modelo, mas ele é modelo para pequenas empresas. Depois a gente tem o modelo intermediário, que é o modelo dedicado, onde você tem VM exclusiva para aplicação e para banco e você não divide recurso com outros clientes. E a gente tem o terceiro modelo, que é o modelo Prime, onde além de você ter servidores eu te entrego autodisponibilidade. [PESSOA] eu te entrego replicação do nó primário para o nó secundário, na camada do meu virtualizador, para que você tenha esse HA. E aí se cair o nó primário por qualquer motivo, falha de hardware, enfim, o nó secundário assume e você tem um [EMPRESA] e um [EMPRESA] muito rápido nisso. Em poucos segundos você volta a operar e você não tem perda de dados. O que a gente fala é que os dois estão ativo-ativo, os dois ligados ao mesmo tempo, com os dados replicados que fazem o tempo real. [PESSOA] no Prime eu te entrego essa questão de alta disponibilidade e tudo mais. E aí já muda um pouco o nível do negócio. Você pode inclusive contratar uma replicação geográfica para um outro datacenter. Quem contrata é mais quem tem a obrigação legal de ter isso. Porque o nosso auto-disponibilidade, ele já, por mais que é no mesmo data center, ele já é em zonas separadas, ou seja, eu já tenho andares separados no mesmo prédio, já tem todo um isolamento físico dos ambientes. Mas eventualmente pode um hardware parar, enfim, e aí por isso que a gente oferta o auto-disponibilidade no Prime. Outra coisa que é interessante no Prime é que no modelo estándar, seja compartilhado ou seja dedicado, o atendimento ele via portal de chamada. Quando a gente vai para o Prime, o atendimento não é via portal de chamadas. Ele é através do WhatsApp do Engenheiro Prime. [PESSOA], você tem o telefone do Engenheiro Prime, que ele é um líder do time de suporte, você fala somente com ele direto no WhatsApp. E você tem o número do cara. Você pode ligar direto para o cara, pode chamar ele no WhatsApp, a hora que for, 24 horas, se ele não te atender, ele está de plantão, ou ele já te direciona a casa esse final de semana, eu estou fora do plantão, o fulano está no meu lugar. [PESSOA], você tem o Engenheiro Prime que vai te atender. [PESSOA] muda o [EMPRESA], é bem mais rápido, é sempre a mesma pessoa. Esse grande problema hoje de abrir chamada é cair no [LOCAL], que chegou ontem na [LOCAL], não sabe nem se é de comer ou de passar no cabelo, né? Até ele descobrir que ele não sabe chamar o [LOCAL], já deu um BO danado e você tá muito tempo parado. [PESSOA] o Prime, ele te dá essa senioridade de você falar com a mesma pessoa, é um cara super experiente e ele agiliza pra você sem precisar abrir chamada e tudo mais, tá? [PESSOA] tem esses três modelos, né? Pra você, eu já vejo que o Prime é o mais recomendado pelo tamanho do pote da empresa e tudo mais. [PESSOA] já pensa em ir. Alta disponibilidade e atendimento de engenheiro Prime, tá? Beleza, pessoal. Posso dar sequência aqui?\n[LOCUTOR 27]: Pode.\n[LOCUTOR 24]: Isso aqui é só uma exemplificação, [PESSOA], do modelo que a gente falou, tá? Quando você vai pra qualquer nuvem, todo mundo vai te entregar um modelo de [PESSOA] Eu te subo a VM aqui na AWS, a AWS tem a EC2 lá. Deu pau no Proteus, não adianta nem se ligar lá, os caras vão dizer ó, meu contrato é da EC2, a EC2 tá rodando e você vai botar lá dentro a responsa sua. No nosso modelo [EMPRESA], é tudo com a [LOCAL]. A [LOCAL] ela vai assumir uma responsabilidade contratual com vocês, de performance e disponibilidade da aplicação, não dos servidores. [PESSOA] a [EMPRESA], você vai ter a garantia que o Proteus vai estar rodando com as telas carregando em poucos milissegundos. Se isso não acontecer, você pode já chamar um engenheiro prime ou incomodar a [EMPRESA], que a [EMPRESA] tem a obrigação de manter isso funcionando. Bom, a gente tem uma console de segurança completa, tá, galera? Mas falando de forma rápida sobre isso, eu te entrego várias certificações. Primeiro o Tier 3, que é uma certificação de disponibilidade, mas eu também te entrego o [EMPRESA], a própria [LOCAL] de privacidade de dados, várias certificações de processo, 27001, 27001, 9001, várias isos de processo eu te entrego também. E isso tudo eu te entrego num documento dizendo que você tem o seu ambiente certificado. Se por ventura vocês precisarem certificar alguma coisa internamente e vocês olharem e me falarem, espera aí. Boa parte das coisas que estão me pedindo para eu validar na [EMPRESA], eu já tenho certificado pela ISO 9001. Você pode usar um documento da [EMPRESA] falando isso aqui, já está feito. [PESSOA], se você precisar, as certificações valem para vocês também, tá? Bom, parte de file. Todo o nosso file de borda hoje é baseado em [LOCAL]. Eu te entrego o gerenciamento todo através da console do [PESSOA], tá? A gente trabalha com [EMPRESA], [PESSOA] é tudo bloqueado o tempo todo para todo mundo, mas vocês podem ir definindo algumas permissões, tá? Abrir uma porta de banco, abrir um acesso lá, você pode criar acessos no [PESSOA] para a parte de infraestrutura. E a gente tem uma equipe, no caso, essa equipe vai montar um relatório periódico, vai passar para o Engenheiro Prime de vocês. O Engenheiro Prime vai apresentar para vocês periodicamente, falando, olha, [PESSOA], Lembra que você falou que pediu para ter mais acesso no [PESSOA]? Cara, tem um usuário que não acessa seis meses. Vamos derrubar o acesso desse cara? Você abriu a porta do banco para a internet. Vamos fechar e colocar por uma VPN, o acesso é certamente pela sua unidade, de forma controlada. [PESSOA], esse tipo de recomendação a gente trata para vocês. O que mais? Parte de proteção de borda, a gente também trabalha com a Cloudflare. [PESSOA], hoje a gente tem uma proteção muito completa da Cloudflare para a parte de anti-DDOS, o WAF. Porventura vocês falam, ah, eu quero abrir o meu acesso ao Proteus, eu quero abrir eles para a internet. [PESSOA] a gente aplica uma parte de WAF na borda, você tem controle de quais países vão ter acesso, você tem vários tipos de proteção. Parte de EDR e XDR, proteção dentro dos servidores. A gente trabalha com o CrowdStrike hoje, que é o nosso grande parceiro. E a gente aplica vários recursos, tá? Um deles que é muito avançado, e isso é muito legal, só rodam scripts executáveis que são na transferência da TOTOS. Se você quiser rodar qualquer coisa, ela não vai rodar. Se não estiver na transferência da TOTOS, assinado pela TOTOS, não vai rodar. [PESSOA], isso é uma proteção muito legal que a gente traz. Parte de backup. O backup é feito em três zonas apartadas. Eu faço o backup e a disco quente, que é o mesmo disco de produção, para que eu possa fazer um restore de forma rápida. Eu também faço um backup num outro datacenter separado e uma cópia no outro fornecedor fora do [LOCAL]. Esse backup tem retenção de cinco anos. Você pode voltar no tempo qualquer dia, seja a VM inteira, seja um documento, seja um registro do banco, de qualquer data dos últimos cinco anos. O nosso backup também tem imutabilidade. [PESSOA], se porventura o [PESSOA] pegar os servidores, não vai chegar nos backups, eles são imutáveis. Se der a louca lá também no CTO da [LOCAL], ele fala, ah, vou deletar tudo de todo mundo. Não vai conseguir, ninguém consegue deletar os nossos backups. O que mais? A gente entrega também a parte de... Estava falando da parte dos backups e fugiu agora o que é. Mas eu vou lembrar logo, eu falo para vocês. Questão de gerenciamento, sustentação da TOTOS. Todos os dados, eles têm uma proteção muito forte. A TOTOS, ela não tem acesso aos dados de vocês, seja no time de suporte, seja outro cliente, enfim. [PESSOA], tem uma parte de criptografia também e somente vocês com as chaves de vocês vão poder acessar os dados, tá? Pessoal, a gente tem um, enfim, é uma gama completa de serviços de segurança, tá? Hoje é o maior investimento da companhia. A companhia investe muito. Para vocês terem ideia, o ecossistema de cloud como um todo tem pouco mais de 10 anos e a gente vai chegar ao final de 2026 com 1 trilhão de reais investidos. E não é balela do [PESSOA] não. Isso está no relatório que vai para a [EMPRESA]. A gente é uma empresa de capital aberto. No último relatório a gente está na projeção de um trilhão de reais investidos em cloud até o final de 2016. Isso é muita, muita grana. É muita coisa de ponta. Lembrei o que eu ia falar. A gente tem uma proteção a [PESSOA] a nível do [EMPRESA]. Nossas [EMPRESA] dois são da [EMPRESA], a gente tem um recurso de anti-[PESSOA] da [EMPRESA], que ele detecta uma anomalia na taxa de gravação e subscrição de dados no disco. Se for compatível com o [PESSOA], ele isola o disco e tira da rede. [PESSOA], a gente atende... Isso tudo aqui pra vocês terem uma ideia, é pra que a gente possa fazer isso aqui, cara. Pra que a gente possa atender essas grandes contas. [PESSOA] a gente atende muito clientes de grande porte. [LOCAL] acaba de sair um novo case no mercado do [LOCAL]. Vocês lembram que o [LOCAL] foi invadido e teve renda por um tempo atrás, né? A partir daí eles tomaram a decisão de migrar para o 90 [LOCAL]. Hoje a gente tem um ambiente muito robusto. Para vocês terem ideia, eles têm todas as agências do [LOCAL] conectadas com uma fibra direta no 90 [LOCAL]. Para cada uma das agências do [LOCAL], que eles precisam de baixíssima latência, tem uma interconexão direta com a [EMPRESA], [EMPRESA] isso é possível porque a gente tem um ecossistema muito robusto. A gente atende a embaixada americana. Vocês têm ideia? [PESSOA] você fala, mas isso tudo vocês fizeram para atender todos os clientes? É, boa parte foi por causa da embaixada americana, porque esses caras são muito criticos. Seria a ideia de um dos poucos clientes que eles fizeram um pen-test muito agressivo nos ambientes antes de fazer a migração. Aposto que não faz pen-test, mas ela permite que o cliente faça. É\n[LOCUTOR 33]: um\n[LOCUTOR 24]: negócio muito robusto.\n[LOCUTOR 33]: Essa questão da latência que você comentou, [PESSOA], Qual que seria a latência, a máxima que a gente poderia chegar? E outra pergunta é se vocês têm alguma parceria com alguma operadora para ter essa latência o mais baixa possível, né? Por exemplo, um [EMPRESA], alguma coisa desse tipo, né?\n[LOCUTOR 24]: [PESSOA]. Quando a gente fala de latência, não tem como eu te dizer a máxima, né? Vai dar uma louca no link aí e você tem uma latência altíssima. A média hoje no [LOCAL] tem em torno de 30 milissegundos, tá? A latência média que a gente tem é entre 30 e 40. Agora, com relação à parte de conectividade, qual é a vantagem disso, de ter ido para o Nubida [LOCAL]? É porque a [LOCAL] roda no maior complexo de data centers da [LOCAL]. 50% do tráfego da internet passa por esses data centers. [PESSOA], eu tenho uma interconexão de nível absurdo. A gente tem mais de 300 operadoras interconectadas e a gente tem uma coisa chamada [EMPRESA], que é um produto que a [LOCAL] comprou da rede de data centers que a gente tem, onde a gente não tem um operador específico. Eu tenho todas as trezentas e poucas operadoras que estão conectadas. A que tiver a menor latência para a sua conexão vai ser a que a gente vai utilizar. [PESSOA], periodicamente, esse [EMPRESA] faz testes de latência com várias rotas e se ele descobre que a rota agora da [PESSOA], melhor que a da [EMPRESA], todas as suas conexões vão passar a sair pela rota da [PESSOA]. [PESSOA] tem isso. [EMPRESA], tem muita coisa por trás, mas, por exemplo, o que que traz velocidade no Proteus rodando? Agora aqui a gente está na versão web, né? A gente tem a borda com a Cloudflare que tem aceleração de conteúdo. Não sei se vocês já ouviram falar sobre CDN, aceleração de conteúdo. Você mantém praticamente o cache dos dados que são estáticos, né? E quando a gente fala de um Proteus da vida, é tudo estático. O que que é? Não é estático. É os dados do banco, né? É os dados do cliente, mas as telas, elas são estáticas praticamente. [PESSOA] a gente trabalha com uma vantagem de aceleração de contudo muito forte também. Enfim, a gente vem tendo uma boa experiência, tá? Não era tão boa assim quando a gente tinha um modelo na versão 23 para trás, né? Aí você ainda tinha o Smart Client, tinha alguns problemas. Hoje, quando a gente vai para 2510, que é o Web, funciona que é uma maravilha. Talvez você tenha que ter alguns pontos de atenção. Se você tem alguma coisa de [LOCAL] com máquinas integradas, com algum robô integrado, isso a gente pede um ponto de atenção. Mas o nosso assessment, quando a gente faz com vocês, o nosso time roda vários scripts e mapas. ele mapeia tudo isso pra vocês. Ele traz todos os\n[LOCUTOR 27]: pontos\n[LOCUTOR 24]: de atenção.\n[LOCUTOR 27]: Ele\n[LOCUTOR 24]: fala, cara, vê que você tem uma conexão aqui que é sensível à latência. Essa conexão aqui pode ser que dê problema. Esse tudo a gente traz pra vocês também.\n[LOCUTOR 27]: Dentro dessa parte do [LOCAL], agora que tu tocou no assunto, na verdade, hoje a gente não tem. Mas a gente até tem uma apresentação da [EMPRESA] sobre a questão de [LOCAL]. O que a gente deveria cuidar nesse sentido.\n[LOCUTOR 24]: Qual que é a utilidade da [LOCAL] que vocês vão ter?\n[LOCUTOR 27]: Na verdade, é para automatização. Hoje, o nosso processo é muito manual. Aqui na [EMPRESA], a gente tem Proteus, [LOCAL], a gente tem há mais de 30 anos. A gente vem lá da época do [EMPRESA] ainda, que eram telas DOS, [PESSOA] a gente vem nesse caminho. Só que, nos últimos anos, a gente veio deixando de fazer ou implantar alguns serviços e a gente vem ficando um pouco desatualizado na questão de utilização do Proteus. [PESSOA] agora a gente quer dar um trabalho bem forte para se, não vou dizer implantar o Proteus, mas passar a implantar ou começar a utilizar algumas ferramentas que a gente não vem utilizando e vem subutilizando o Proteus. [PESSOA], uma das etapas é justamente automatizar algumas tarefas que a gente sabe que pode ser feita via um robô ou alguma coisa que eu estou com um usuário, estou pagando uma pessoa para estar ali na frente da máquina e está fazendo uma tarefa que eu poderia automatizar. [PESSOA], muito nesse sentido. Tá,\n[LOCUTOR 24]: boa. Qual que é o ponto de preocupação? Se você tiver no plano de ter um [EMPRESA] conectado nas máquinas e aí você ter o IoT que comunica direto com o Proteus. A gente recomenda que você tenha uma conexão direta. E não quer dizer puxar um cabo de fibra da [EMPRESA] até o data center. É ter uma rota exclusiva. Tem várias empresas que vendem isso no mercado hoje. [LOCAL], por exemplo, é uma delas. É um produto que vai custar na faixa de uns mil reais por mês. Mas você tem uma rota exclusiva. Isso resolve esses problemas. A gente tem vários clientes no [LOCAL] que utilizam. Se não me engano, a própria [LOCAL] trabalha nesse modelo também, [EMPRESA]. E aí, quando você contrata isso, você resolve esses problemas de rota. Que não é que não funciona, mas você não pode ficar mal, gente, e daqui a pouco o link de internet deu pau, e aí você não consegue operar a máquina, né? [PESSOA], você ter a rota exclusiva te traz uma vantagem muito melhor pra esse ponto, tá? Já te deixo falar, [PESSOA], outra coisa que eu acho importante é, quando você vem pra nuvem da [LOCAL], você tem muita coisa que você pode automatizar com o [LOCAL]. E aí você não precisa do [LOCAL] propriamente dito, tá? A [LOCAL] é muito mais barata do que o [LOCAL] e ela automatiza pra você muita coisa. [EMPRESA], com a exceção do [EMPRESA]. Se eu quero conectar dados da fábrica, eu quero que... a minha máquina esteja integrada com o Proteus, eu não preciso ter que imprimir uma OP, entregar para o operador e tudo mais, aí tem que ser [LOCAL]. Mas se há uma automação lógica dentro do sistema que não comunica com as máquinas da fábrica, AIA tem um monte de coisa. Acho que o pessoal que vai te apresentar o [LOCAL], eles vão comentar sobre isso. Obviamente migrar pra nuvem é um dos passos antes de ter a [LOCAL], né? Mas tem muita\n[LOCUTOR 27]: coisa\n[LOCUTOR 24]: legal, cara. Tem até um slide sobre isso aqui, ó. Que a gente fala sobre o que já tem pronto, tá? Supervisão financeira, auditoria de folha. Hoje o RH deve perder um tempo pra verificar as folhas por amostagem antes de liberar o pagamento no dia 25,\n[LOCUTOR 27]: pra ver\n[LOCUTOR 24]: se não tem nenhuma cagada, nada, né?\n[LOCUTOR 27]: Sim, sim. Hoje é tudo na mão. Na planilha\n[LOCUTOR 24]: um pouco\n[LOCUTOR 27]: ainda.\n[LOCUTOR 24]: Você elimina o risco. Primeiro que o gerente de RH, ele não tem o olho de águia. Às vezes ele pode passar abatido alguma coisa e depois o funcionário, [PESSOA], cara, eu recebi isso e não tinha. Faltou tal coisa na minha folha. Esse tipo de coisa, a gente já faz tudo isso para você de forma automatizada. E aí, como ele é por demanda, ele é mais barato do que o [LOCAL] para fazer isso. [PESSOA], mas o pessoal do [LOCAL] explica isso no detalhe para vocês aí quando for visitar vocês. Fale [PESSOA]! T\n[LOCUTOR 4]: me ouvindo agora? Show!\n[LOCUTOR 24]: Ah, agora?\n[LOCUTOR 35]: Aproveitando o gancho ali do [EMPRESA], que ele perguntou sobre a latência, né? E até a questão que tu colocou da [LOCAL] ali com ligação de fibra, né? O que que é a minha dúvida? Ou por exemplo, a gente tá ligado, provavelmente deve estar no X ali, os colocations de vocês, o hardware, enfim, X [LOCAL], por ali, né?\n[LOCUTOR 24]: Na verdade não, porque o [LOCAL] não tem processamento de dados. Hoje esse complexo pertence a [LOCAL], que é o maior consultorio do centro da [LOCAL].\n[LOCUTOR 35]: [LOCUTOR 17]: [LOCAL] só conecta. Só faz o ponto de troca.\n[LOCUTOR 24]: \n[LOCUTOR 28]: exemplo, rompeu a fibra no meio do caminho. Como é que funciona essa questão de redundância, tempo de subito? Tem alguma coisa nesse sentido? Porque hoje, como o [PESSOA] falou no início, Nós temos aqui local, cara, nós temos tripla abordagem ali, temos o contato direto do cara, sobe a fibra, faz a fusão ali, é pipe 1, tá tudo certo. Como é que é essa parte também de segurança? Você fala da parte de conexão dos links?\n[LOCUTOR 35]: [PESSOA].\n[LOCUTOR 24]: Como a gente tem o [EMPRESA], é tudo automatizado. Seguido cai. Cara, a gente tem 300 operadoras justamente porque seguido vai cair, tá? Todo dia cai uma ou duas, arrebenta um cabo, enfim. Automaticamente ele já faz com milissegundos. O teu usuário tá conectado no link A, o link A caiu. Vai deslogar os proteus dele, ele só dá um logar de novo e já voltou no link B. [PESSOA] isso tudo é automatizado do nosso lado, tá? Do lado de vocês, imagino que vocês vão querer ter [EMPRESA] e IPsec pra criptografar o tráfego. e a gente libera o acesso através da VPN para vocês. Minha recomendação é que vocês tenham dois ou três túneis, um para cada operadora e trabalhe com o BGP ativado no Firewall de vocês.\n[LOCUTOR 35]: Aí\n[LOCUTOR 24]: você tem o balanceamento automático, você tem a troca automática dos túneis. Pelo menos essa é a melhor estratégia.\n[LOCUTOR 35]: Não, perfeito. Muito obrigado.\n[LOCUTOR 33]: O maior problema vai estar na nossa ponta com a operadora que a gente trabalha. E onde que a gente precisaria ter, hoje a gente tem duas operadoras, na verdade teria que ter no mínimo três, né, pra que consiga ter o serviço sempre no ar, né.\n[LOCUTOR 24]: Vocês têm um mapa de ponto das operadoras?\n[LOCUTOR 33]: Não, não temos.\n[LOCUTOR 24]: Isso é uma coisa que seria legal, de pedir pras operadoras e falar, cara, quais são os mapas de ponto de contato? Porque assim, às vezes você tem duas operadoras, mas chegou em [LOCAL] e junta tudo só um tronco da [EMPRESA]. Se aquele tronco da [EMPRESA] cair, você perde as duas. Para você ter operadoras que tenham rotas bem distintas. E principalmente quando a gente falar da serra, tem muito isso. Tem cinco operadoras, mas todo mundo usa velã de uma rota da [EMPRESA] e sai só dela, de [PESSOA], por exemplo. \n[LOCUTOR 1]: eu te conseguir o SN, a gente pode olhar ali. Eu consigo ver o mapeamento hoje que eles estão ocupando.\n[LOCUTOR 24]: Tá boa.\n[LOCUTOR 35]: Já j\n[LOCUTOR 19]: j\n[LOCUTOR 4]: mata um pedaço aí. É\n[LOCUTOR 24]: isso aí porque no final das contas não quer dizer que vai cair mas é bom que você tenha isso mapeado para você saber qual que é o seu risco.\n[LOCUTOR 35]: É\n[LOCUTOR 24]: para você. Todo o estado do [LOCAL] e tem apenas três conexões com [LOCAL]. São apenas três rotas com [LOCAL].\n[LOCUTOR 35]: [LOCUTOR 6]: rotas pertencem a [EMPRESA] a [EMPRESA] e a [EMPRESA]. Todos os outros ficam abaixo dessas três rotas. Não tem outras conexões fora do estado que não sejam essas três. [PESSOA] a gente no final das contas vai acabar ficando na mão de três. Mas ainda assim muita gente aqui consegue melhorar para a nuvem. Essas três são muito bem estruturadas. Mas está melhorando bastante. Cada vez mais eles estão evoluindo nisso. Algum ponto mais? Ficou faltando eu falar um pouco a respeito de alguma coisa?\n[LOCUTOR 27]: Acho que assim, de forma geral, deu para entender como funciona, qual é a estrutura, quais as opções de imigração, porque a gente viu bastante coisa, alguma coisa com outros consultores, outras coisas no YouTube, mas agora deu para entender bem, que eu acho que O plano que se encaixaria para nós seria o quase mesmo, dentro do que a gente viu. [PESSOA], eu acho que, de repente, a gente poderia fazer um trabalho de, pelo menos, a gente ter uma noção de investimento, que aí, de repente, se torne algo que a gente poderia estar evoluindo, talvez, colocar num orçamento no próximo ano, para a gente pensar em evoluir essa questão. A gente falou hoje, a gente está com um parceiro local aqui, a gente tem um acesso direto com ele, a gente tem toda uma infraestrutura montada com ele, mas nada impede de a gente estar evoluindo, até porque a gente precisa colocar na balança essa questão da automatização, também com o [LOCAL], [PESSOA], tem\n[LOCUTOR 24]: v\n[LOCUTOR 2]: pontos aí que a gente, de repente, tem um investimento um pouco maior, mas que a gente vai ganhar na outra ponta.\n[LOCUTOR 24]: Exatamente. Eu acho que assim não custa nada vocês terem isso na mão. A gente precisa para montar uma proposta para você a gente passar pela etapa de acesso a uma agenda de uma hora com o nosso time técnico. A única coisa que precisa é que quem esteja na agenda do lado de você seja quem tem acesso ao banco acessar o servidor de aplicação ou license server em si. para a gente poder rodar alguns comandos em conjunto e poder mapear o tamanho do banco, as conexões que tem, se tem algum ponto de atenção. E aí com isso gera um relatório que a gente senta, eu e o [PESSOA] com calma, a gente apresenta isso aí para vocês, para vocês saberem quanto vai custar, at\n[LOCUTOR 23]: para\n[LOCUTOR 24]: saber...\n[LOCUTOR 27]: Eu tenho noção de quanto tudo vai custar. [EMPRESA] é bonito, tudo é legal, mas tudo tem um custo, né?\n[LOCUTOR 24]: Exatamente, [PESSOA]...\n[LOCUTOR 27]: Não adianta eu chegar na mesa do... da direção lá, isso vai me custar R$3 milhão, aí vai me jogar na janela abaixo.\n[LOCUTOR 24]: [LOCUTOR 8]: falar que a [EMPRESA] sempre quer tudo, não é, cara? Vai facilitar para mim? Vai. [PESSOA] manda para dentro, tudo eu quero. Agora quem\n[LOCUTOR 27]: paga\n[LOCUTOR 24]: a conta tem que fazer o\n[LOCUTOR 27]: cálculo. É complicado. Mas acho que faz sentido a gente levantar e ter uma noção de investimento, disso tudo. E aí, quem sabe a gente está levando adiante, porque a gente sabe que o risco A questão de estrutura, a questão de segurança sempre existe. [PESSOA], acho que um dos maiores temores hoje de todo o pessoal de [EMPRESA] é essa questão de invasão. E a [LOCAL] é uma empresa bem conceituada, [PESSOA], acredito que essa parte de segurança, que nem o [EMPRESA] já apresentou algumas coisas, é bem importante. E a questão de expansão, sim, também. A empresa também tem alguns projetos de expansão e a gente precisa também pensar nisso. Quem está por trás, digamos, de como eu vou conseguir... Ah, eu preciso aumentar espaço, eu preciso de mais processamento, [PESSOA], quem está nos aportando lá precisa também ter uma capacidade de nos fornecer isso de uma forma rápida, né? Teve... as nossas hospedagens sempre eram internas, a gente tinha um data center interno, mas a gente passou por um sinistro aí faz quatro anos, três anos atrás, acho que lá faz, do incêndio, E aí a gente acabou perdendo o nosso data center e a partir dali a gente foi para a nuvem e a gente viu que é um modelo legal, é um modelo interessante, a questão de escalabilidade também, hoje eu preciso de mais discos, preciso de mais processamento, [PESSOA] eu não tenho mais a preocupação de [PESSOA] de ar-condicionado, de energia, cuidado de no break. [PESSOA] tem os seus benefícios sim.\n[LOCUTOR 24]: E assim a gente tem uma bolha do mercado começando agora. Não sei se você está acompanhando mas obviamente tem o cenário de guerra e tudo mais e os [LOCAL] estando presente na guerra a gente sabe que afeta muito o mercado mundial ainda mais que eles são o maior fornecedor de tecnologia do mundo mas principalmente a questão de terras raras. [PESSOA] a gente vê... Isso é um alerta inclusive interno aqui da [EMPRESA], tá? Pessoal, vamos acelerar os projetos e tudo mais. Isso obviamente de clientes que já tem proposta na mesa. Aí o cara fala, ah, eu vou assinar mês que vem. O cara não assina mês que vem. Por quê? Porque a [EMPRESA], ela muda a tabela todo mês de março, abril. Tá faltando chip no mercado. Não sei se você cotou o [EMPRESA]. Cara, absurdo. Eu fui cotar o [EMPRESA] com um cliente esses dias lá. Na verdade, eu não fui cotar, mas o cliente me deu o cenário que ele cotou, né? Ele falou, cara, eu não vou pra nuvem e tudo mais, mas eu quero olhar. Ele tinha comprado o [EMPRESA], pagou 600 e poucos mil ano passado, meio do ano passado, foi cotar mês passado, deu 1 milhão e 200. Por quê? Porque está faltando chip, está faltando muita matéria-prima no mercado. Essa bolha está recém começando. O [EMPRESA] prevê que o auge dela vai ser em 2017 e depois os preços começam a cair de novo. [PESSOA] tem essa preocupação toda, né? E quando você miga para a nuvem, cara, aí você tem proteção de preço no contrato, após que puderem.\n[LOCUTOR 27]: Sim, sim.\n[LOCUTOR 24]: Só que já preveja isso no seu cálculo,\n[LOCUTOR 27]: né? \n[LOCUTOR 3]: marcar o acesso mesmo?\n[LOCUTOR 27]: Sim, pode ser. Acho que vamos marcar uma agenda aí. E aí, eu não sei, o [EMPRESA] que provavelmente vai mais participar aí também, como é que tá de agenda, mas acho que gera uma sugestão de\n[LOCUTOR 33]: data, de\n[LOCUTOR 27]: horário, e aí a gente encaixa. A gente pode\n[LOCUTOR 24]: fazer\n[LOCUTOR 27]: esse levantamento aí sim, sem problema.\n[LOCUTOR 24]: Semana que vem, cara, deixa eu dar uma olhada aqui. \n[LOCUTOR 26]: é que t\n[LOCUTOR 19]: dizendo a semana que vem?\n[LOCUTOR 27]: Semana que vem para mim fica mais complicado. Mês de fechamento [PESSOA] de repente eu ia sugerir ali na semana do dia 6. Não sei se o [PESSOA] também puder. Como é que fica para vocês também. 6 do 4 ali naquela semana.\n[LOCUTOR 24]: No dia 6 inclusive eu tenho duas agendas liberadas de acesso às 11 e às quatro horas da tarde.\n[LOCUTOR 27]: Quatro horas da tarde de repente pode ser [PESSOA]. \n[LOCUTOR 12]: ser para mim.\n[LOCUTOR 24]: dia 6 às 4 horas da tarde, uma agenda de 45 minutos,\n[LOCUTOR 27]: tranquilo,\n[LOCUTOR 24]: e se ficar faltando alguma coisa, vocês não conseguirem rodar na hora, não tem problema, o time manda por e-mail e depois vocês executam.\n[LOCUTOR 27]: [PESSOA]. \n[LOCUTOR 9]: confirma para quais e-mails que eu mando, eu mando para o teu só ou te mando para mais alguém?\n[LOCUTOR 33]: [LOCUTOR 20]: mandar para [LOCAL] também. O meu ali é informática a roupa florestal ponto com.\n[LOCUTOR 24]: e [PESSOA].coelestal.com. [LOCAL]. Acabei de enviar aqui para vocês. Aí já deve estar chegando alguns minutinhos para vocês. Se vocês quiserem remarcar, se tiver algum imprevisto, não tem problema. Só dá um toque no [PESSOA], lá a gente remarca. Não tem galho, tá, pessoal? E aí na hora de apresentar, veio com um evento assim, que não marca de tomar um café, vocês conhecerem o novo escritório da [LOCAL], a [LOCAL] é o escritório novo, top, de ser a muito bala, ali no prédio do Bourbon, da [LOCAL], tem um shopping novo, bem legal. Cara, desce no terceiro andar, tem vista de toda a [LOCAL], bem massa ali.\n[LOCUTOR 27]: [EMPRESA], não combinar. Beleza,\n[LOCUTOR 24]: pessoal, é isso aí, [PESSOA]?\n[LOCUTOR 27]: [PESSOA], da nossa parte seria isso.\n[LOCUTOR 24]: Fechou. [PESSOA] não sei se faltou algum ponto é isso\n[LOCUTOR 21]: aí. Não é isso mesmo [PESSOA]. É\n[LOCUTOR 24]: isso galera. [PESSOA] obrigado pelo tempo de vocês aí e vamos se falando.\n[LOCUTOR 21]: Obrigada gente\n[LOCUTOR 27]: pela\n[LOCUTOR 33]: informação.\n[LOCUTOR 24]: [LOCUTOR 13]: tchau\n[LOCUTOR 27]: tchau.",
+  "texto_filtrado": "[LOCUTOR 21]: Ô [PESSOA], só mais uns dois minutinhos que ele tá terminando uma call com outro cliente, tá bom? Tá\n[LOCUTOR 27]: Ah, tranquilo.\n[LOCUTOR 27]: [PESSOA] falou, assim, que ele vai se atrasar um pouco, que ele está em outra reunião, parece, também, mas tranquilo. Que a ideia hoje, na verdade, é mais a gente conhecer também o TotsCloud. A gente não tem, assim, nenhum projeto em vias de... ou necessidades de troca, pelo menos não a curto prazo, né? Mas aí o [PESSOA] comentou também, a [PESSOA], na outra oportunidade, comentou se seria interessante a gente, de repente, conhecer o TotsCloud, ver o que tem de ferramenta, o que tem de recurso aí, para a gente já conhecer e saber o que se tem de opção.\n[LOCUTOR 24]: Boa, show de bola. Cara, muito prazer. Eu sou especialista em nuvem aqui na [EMPRESA], atendo o território do [LOCAL]. Até para dar uma direcionada num papo que eu queria entender quem está na sala. Tem galera de segurança e informação, é todo mundo de infra?\n[LOCUTOR 27]: É todo mundo de infra. Eu trabalho na parte de coordenação. Aí o [EMPRESA] também é da parte de infra, e ajuda bastante na parte com o Proteus, também, e cuida da parte de infraestrutura. E o [PESSOA], também, que trabalha e atua na parte de infraestrutura e está iniciando agora no Proteus com a gente também. [PESSOA], basicamente, nós três, assim, que mais lidamos com o Proteus e a parte de infraestrutura. [PESSOA], mais anos de casa dentro do Proteus é comigo, mas, assim, em termos de conhecimentos gerais, ali, o [EMPRESA] e o [PESSOA], eles estão já meio que dominando também, [PESSOA].\n[LOCUTOR 24]: Boa. Eu tenho uma apresentação padrão que eu posso fazer para vocês, tá? Mas ela é muito monóloga, assim. Vocês preferem que eu apresente o PowerPoint ou a gente siga no bate-papo, assim? Eu vou trazendo para vocês o que a gente tem. Como é que fica melhor aí?\n[LOCUTOR 27]: Cara, acho que pode apresentar, assim, de forma geral, direta, assim. Não tem muito... O que mais que a gente falou? É mais a ideia da gente saber, conhecer como é que funciona, como é que funciona acesso, como é que é hospedagem, como é que é, sei lá, atualização, como é que... Enfim, uma abrangência, assim, de forma geral. Hoje, nós temos o on-premise, né? [PESSOA], aqui, a\n[LOCUTOR 24]: gente\n[LOCUTOR 27]: faz tudo. A gente tem que fazer a instalação, tem que fazer a atualização, precisa fazer alguma alteração, criar campo, [PESSOA], esse tipo de coisa. É isso que a gente gostaria de ver, de entender como é que funciona a questão de hospedagem, planos, espaço, processamento, esse tipo de coisa. Mas o que a gente gostaria de... de conhecer, ver como é que funciona, né?\n[LOCUTOR 27]: [EMPRESA] em nuvem. É em nuvem, mas dá para se considerar que é local, porque é um parceiro nosso aqui na região, né? E aí a gente tem praticamente uma extensão da nossa rede aqui, mas é uma nuvem. Boa,\n[LOCUTOR 24]: é um co-location, [PESSOA] é isso.\n[LOCUTOR 27]: Isso, basicamente isso daí.\n[LOCUTOR 24]: Show de bola. Vocês estão usando em cima de VE? Bora o Hyper-V.\n[LOCUTOR 33]: [PESSOA], a gente tá usando em cima de\n[LOCUTOR 27]: [EMPRESA], tá?\n[LOCUTOR 24]: [EMPRESA], legal.\n[LOCUTOR 24]: vocês usam SQL ou vocês usam Oracle?\n[LOCUTOR 27]: [LOCAL].\n[LOCUTOR 24]: O que é a nuvem da [EMPRESA], [PESSOA]? Eu vou tentar ser bem breve e resumido nessa parte mais conceitual. A gente tem um produto de nuvem da companhia, que é o maior negócio da [EMPRESA] hoje. A [EMPRESA] tem mais de 600 negócios, o maior é o de nuvem. Nós somos a maior nuvem brasileira. Acho que todo mundo sabe que a [EMPRESA] é a maior empresa de tecnologia da [LOCAL]. Mas nem todo mundo sabe que a gente tem a maior nuvem do [LOCAL]. Para vocês terem ideia, a gente tem hoje mais ou menos na faixa de quase 100 mil servidores virtuais. Esse é o tamanho da nossa nuvem em números. [PESSOA] é quase 100 mil VMs. A gente está falando de 7 peta de dados. um time de pouco menos de mil pessoas para gerenciar tudo isso. [PESSOA] a gente acaba tendo muita automação por trás. A nossa nuvem hoje ela fica em três data centers espalhados pelo [LOCAL]. Ficam dois em [LOCAL] e um no [LOCAL]. O datacenter do [LOCAL] é mais para clientes que no [LOCAL] a gente tem uma base muito forte de [LOCAL], tem muito conector de baixa latência e tudo mais. [PESSOA] funciona específico para lá. Restante, todo mundo se conecta nos datacenters que a gente tem em [LOCAL], tá? E tem um em [LOCAL] e outro em [LOCAL]. Nossos datacenters, eles ficam rodando em... complexos de grande porte, que são os mesmos onde roda a AWS, onde roda a Azure, onde roda a [EMPRESA], onde roda vários concorrentes. E a gente tem um espaço lá dentro. O que é a da [LOCAL]? A tecnologia e os equipamentos. [PESSOA] a [LOCAL] tem seus equipamentos próprios, que a gente troca isso a cada ano. A nossa infraestrutura toda hoje é baseada em [EMPRESA]. Somos um dos maiores compradores da [EMPRESA] da [LOCAL]. E a gente tem uma estrutura muito robusta para poder atender. E aí sim, voltando às novidades que eu coloquei aqui. para atender a premissa do mercado. O mercado fala que o futuro vai ser nuvens de propósito específico. A [EMPRESA] rodando nuvem da [EMPRESA], o Proteus da TASURA rodando nuvem da TOTUS, a [EMPRESA] rodando nuvem da [EMPRESA], [LOCAL] rodando nuvem da [LOCAL]. Esse é o futuro do mercado. É o que o [EMPRESA] já preveu há uns anos atrás e o [EMPRESA] continua prevendo que isso está se concretizando. [PESSOA] a [LOCAL], para entrar nessa jornada, a [LOCAL] construiu toda essa nuvem. A gente já tem essa nuvem há muito tempo, há mais de 10 anos, mas agora que a gente tem uma oferta robusta, nem sempre foi assim, a gente teve muito problema no começo, mas agora a gente tem um modelo muito estruturado. Tem um estudo de viabilidade para que a gente tenha um data center no sul do [LOCAL], em breve, acredito que por volta de 2030. E hoje a gente tem um modelo separado em todas as três ofertas de cloud de mercado, pessoal. O primeiro deles é o [EMPRESA] [PESSOA] eu já tenho alguns produtos SaaS, como é o caso do WMS, SaaS, é o caso do [EMPRESA] Station. Não sei se vocês usam alguma coisa SaaS da [EMPRESA], [EMPRESA] Station, Feeds.\n[LOCUTOR 14]: gente tem vários produtos da [EMPRESA] que já são SaaS, tá? [EMPRESA] é um caso, né? [PESSOA], [EMPRESA] você contratou, você bota o login e sai usando. Você não tem acesso ao banco, você não versiona nada, você não customiza arquivos, tudo fica com a [EMPRESA]. E a TOTOS tem o modelo do meio, que é o PASS, que é o Plataformas da Service, para rodar produtos da TOTOS que a gente não pode amarrar no [EMPRESA] É o caso do Proteus, DataSuite, Tor, [LOCAL], que são produtos onde são RPs dos clientes. Eu não posso obrigar o seu [EMPRESA] a atualizar a versão de forma automática e você não ter o controle disso, porque tem muita coisa customizada, tem muita coisa que é específica para cada negócio. [PESSOA] a gente coloca isso num modelo que é PASS Por que ele é um PAS e não um IAS? Porque a TOTUS gerencia tudo para você. O que fica na responsabilidade do cliente? O que a TOTUS não faz? Customizados. [PESSOA] aquilo que é a [EMPRESA], enfim, vocês continuam mantendo o suporte de vocês. E a janela de atualização. A TOTUS atualiza para você até a revista. Atualiza a ficha, atualiza tudo. Mas a TOTUS não diz quando vai atualizar. Você escolhe a janela. Você fala vou atualizar a produção agora homologação X. A gente vai lá e atualiza na janela que vocês programarem geralmente no final de semana fora de horário para não impactar a produção. Mas essa decisão fica com você. O resto é tudo com a [LOCAL] [LOCAL] atualização de patch manutenção do S.O. tudo com a [LOCAL] parte de EDR e XDR processão de borda Firewall tudo com a [LOCAL]. A disponibilidade do datacenter enfim é uma\n[LOCUTOR 27]: camada Essa atualização que tu falas, ela gera algum custo para o cliente?\n[LOCUTOR 10]: falando das releases, né?\n[LOCUTOR 27]: Isso, isso.\n[LOCUTOR 14]: gente não gera nenhum custo, tá? Isso tudo por parte da top. A TOTUS atualiza pra vocês isso, porque a gente tem muita automação por trás, [PESSOA] o processo não é caro pra TOTUS pra fazer, tá?\n[LOCUTOR 27]: [EMPRESA],\n[LOCUTOR 24]: o cliente tem que testar. [PESSOA] você vai falar, [PESSOA], atualiza a homologação, eu vou atualizar. Aí você vai fazer os testes, e você vai dizer, ó, testei, ajustei o que tiver que ajustar no customizado, pode virar a produção domingo, três da manhã. A gente vai lá domingo, três da manhã, e vira a produção pra você, tá? Mas isso não tem custo nenhum. Nenhum tipo de atualização tem custo, tá? A gente tem um modelo muito simplificado, que toda essa parte de serviço já está embarcado junto, você não paga nada mais. [PESSOA] ele só não é um SaaS, porque tem essa questão de customização, você tem acesso ao banco de dados para você fazer consultas, conectar um Power BI, fazer uma integração [PESSOA], você tem essa permissão, que no SaaS você não teria, por isso que eu não posso dizer que é um SaaS, [PESSOA] ele é esse modelo intermediário que é um [EMPRESA] Para sistemas que não são da TOTOS, eu tenho uma terceira oferta que é o IaaS, que é uma infraestrutura convencional, como se você contrata uma VPS da AWS, do Wave, de uma nuvem privada, enfim, que é onde eu te comercializo a VM e você coloca o que você quiser, para você instalar as coisas que são satélites. A gente fala que não pode levar a mãe sem levar outro filhinho, né? Senão ele fica chorando. [PESSOA], a mesma coisa. Aí eu tenho o Proteus aqui, mas eu tenho um sistema de catraca, que é meu, que ele é embutido no Proteus. Pra não ficar ele no local ou numa outra nuvem e o sistema do Proteus na top dessa latência atrapalhar a performance, você pode contratar uma VM extra junto pra trazer e instalar esse outro sistema como sistema de concorrente, AD, file server, o que você quiser, tá? Inclusive, isso é legal porque exemplifica muito o nosso modelo. A TOTUS hoje, no PaaS, faz tudo para você. Ela gerencia tudo. E quando a gente vai para o IaaS, você não tem tudo. No IaaS, eu te comercializo a VM, mas você atualiza o sistema operacional, você gerencia o acesso, você cuida do FIRO, você tem a obrigação de instalar um antivirus, de configurar o backup, apesar de a gente fazer de forma automática. [PESSOA], tudo isso fica com o cliente. Beleza, pessoal? Alguma dúvida? Consegui ser claro aí nesse modelo?\n[LOCUTOR 27]: Esse do PAS, a gente consegue acesso ao banco normal, [PESSOA]. Por exemplo, eu vou fazer a instalação lá dentro e vai seguir toda a parte de atualização, mas que nem a gente também tem. Trabalha com Power BI e a gente tem algumas outras aplicações internas. Esse acesso ao banco de dados, eu continuo com ele. Continuo tendo esse acesso como se eu tivesse ele num VPS, em algum endereço separado.\n[LOCUTOR 24]: Mais ou menos. O acesso ao banco é somente para mexer nos dados. Você não consegue mexer na estrutura do banco a não ser através de chamado. A gente não permite tabelas de dados que não são do Proteus. Você fala mas eu tenho um banco de um customizado que eu faço que não é no [LOCAL]. Aí teria que vir no modelo de [LOCAL]. A gente traz uma VM extra para esse banco. Mas dentro do PAS o [LOCAL] é somente para o Proteus. E o seu acesso vai ser um acesso de CRUD.\n[LOCUTOR 27]: Sim, isso sim. Mas, por exemplo, se eu criei uma tabela lá interna, criei lá pelo configurador normal, a tabela está dentro do sistema, eu consigo fazer o acesso dela via uma conexão externa tranquila. Isso?\n[LOCUTOR 24]: Isso aí. Mas aí você tem que mexer pelo configurador.\n[LOCUTOR 15]: você entrar...\n[LOCUTOR 24]: Vou logar direto no banco aqui no [EMPRESA], acessar com o System Admin, esse acerto você não teria, né?\n[LOCUTOR 16]: a gente já tem, até porque a gente sabe que o Proteus é bem complicado na questão de tamanho de campo, campos, caracteres, [PESSOA] tem toda aquela questão. Já não se tem aplicações rodando em cima dele que fazem inserção no banco ou exclusão diretamente no banco, o que a gente faz é realmente acesso para consultas, digamos.\n[LOCUTOR 24]: [PESSOA]. [LOCAL]. [PESSOA] funcionaria da mesma forma.\n[LOCUTOR 24]: vocês têm autenticação via LDAP?\n[LOCUTOR 27]: [LOCUTOR 25]: nossa autenticação é pelo AD.\n[LOCUTOR 24]: [PESSOA]. [PESSOA]. Continua da mesma forma. Não muda nada. Quando você vem pra [LOCAL], a única coisa que a gente habilita um identity no meio, que é o Totos Identity. Não sei se vocês têm isso contratado hoje ou não.\n[LOCUTOR 24]: [PESSOA], mas isso é algo que a gente coloca junto na proposta, o Fluid para o Identity apenas, porque aí ele vai fazer a parte do SSO, tá? [PESSOA] não só integrar com AD, mas qualquer SSO que vocês queiram ter, como o [EMPRESA] 365, ou com o Google Workspace, né? [EMPRESA] isso, mas a gente coloca junto no projeto, tá? Não tem gávea. E é coisa que é barata também, achei R$ 400 essa licença. O que mais que eu ia comentar com vocês? A parte de licença de banco, tá? A gente já entrega o banco licenciado, no caso do PASC, que é o [LOCAL], eu já te entrego ele licenciado com o SQL Enterprise, tá? Quando a gente vai para o IaaS, aí você pode escolher, ah, eu quero ter um banco extra para o meu sênior. Aí você escolhe se você quer já a máquina licenciada com SQL Standard ou Enterprise ou se você quer fazer o buy-all da sua licença que você já comprou, tá? Se vocês, no projeto, se vocês vislumbrarem um projeto mais pra frente, ele englobaria os outros servidores também, ou não? Ou seria só Proteus?\n[LOCUTOR 27]: E dentro do PaaS, por exemplo, o modelo que eu mais vejo pra nós, se a gente... se for evoluir, seria algo para o Paz, tá? Dentro do Paz, a questão do gerenciamento das licenças, eu subo um serviço lá, interno, com as licenças que a gente tem, e isso continua tudo igual, porque hoje, na verdade, a gente tem um serviço rodando, a gente tem lá o license rodando, eu tenho as minhas licenças lá atreladas, com a conta da [EMPRESA], e aí o Proteus está conectado nele. Esse serviço continua existindo lá dentro? Como é que ele valida isso?\n[LOCUTOR 24]: [LOCUTOR 18]: licenças continuam sendo minhas, no caso, porque a gente não tem um modelo de licenciamento que você não compra a licença, você passa pelo faturamento. Isso é o faturamento?\n[LOCUTOR 27]: Não, a gente tem as licenças, digamos, compradas ainda. Fugiu o nome agora, como é que chama?\n[LOCUTOR 24]: O tradicional é corporativo.\n[LOCUTOR 27]: É tradicional daí no caso. É\n[LOCUTOR 24]: tradicional.\n[LOCUTOR 27]: [LOCUTOR 5]: legal se continuar a partir da licença não muda nada. [PESSOA] que você tem e você quiser comprar mais você compra mais os mesmos preços. Isso não muda nada com relação aos ambientes. Quando você vem para o [EMPRESA] eu te entrego dois ambientes de produção e um de homologação na parte do Proteus um de homologação e um de produção na parte do TSS. Se você tem TSS transmite. [PESSOA], a gente entrega da mesma forma e eu te entrego um servidor de License Server. [PESSOA] você só loga com a sua conta no servidor de License Server, a conta da [EMPRESA], e traz as licenças pra lá. [PESSOA], dessa forma. Tem um License Server igual, mas ele roda num servidor de License Server da [EMPRESA] também. Ah, entendi.\n[LOCUTOR 24]: Como que é a precificação, tá, [PESSOA]? Hoje vocês contratam a [EMPRESA] por licença de usuários, certo? Isso,\n[LOCUTOR 27]: a gente compra licenças no caso, a gente tem licenças Lite, licenças Full lá, e hoje ele é esse.\n[LOCUTOR 24]: Tá, perfeito. Quando você vai para a novidade da [EMPRESA], isso continua da mesma forma, mas a [EMPRESA] é precificada por conexão de usuário. A gente fala que tem três métricas na [EMPRESA], que é cobrado no [PESSOA], que a gente chama. É por conexão de usuário e conexão de API. E lembrando que cada usuário pode ter três ou quatro conexões, que ele pode abrir o compras, pode abrir o manufatura, pode abrir o financeiro, cada módulo conta uma conexão. [PESSOA] a gente faz um estudo, e isso tudo a gente levanta tecnicamente com vocês um acerto, para a gente não vender conexão a mais ou a menos do que vocês precisam. Mas o modelo funciona assim. Conexão de usuário, [PESSOA] eu vou te cobrar para 100 conexões de usuário. Quanto de CPU e quanto de RAM vai estar na máquina? A tops que se virem, vai ser o suficiente desses 100 usuários. Ah, mas se eu tiver uns usuários aqui que geram 10 relatórios ao mesmo tempo e tranca todo o sistema, tem que botar mais CPU e mais RAM. A TOTOS vai colocar. [PESSOA] o modelo de especificação da TOTOS já prevê isso, que a gente vai ter que colocar o que precisar de recurso para a quantidade de conexões que vocês contratarem. [PESSOA] são as conexões do usuário, as conexões de API, [PESSOA] quantos servers de API você vai ter, [EMPRESA], POP, né? tamanho de dados do banco, [PESSOA] quantos gigas tem o seu banco de dados, e volume de documentos trafegados no TSS. Essas são as métricas que você vai ter, tá? Quanto ao uso de recurso, a [EMPRESA] vai empregar o que precisar para entregar dentro dessas métricas contratado, tá bom?\n[LOCUTOR 27]: [PESSOA] as licenças que eu tenho, na verdade, elas deixam de ter validade, isso?\n[LOCUTOR 24]: Elas têm validade igual, uma coisa não tem nada a ver com a outra. Você tem os dois limitadores.\n[LOCUTOR 24]: Vou dar um exemplo. Você tem 103 licenças, legal. fica limitado a 103 usuários conectarem simultaneamente dentro do protesto.\n[LOCUTOR 24]: a gente vender três conexões por usuário, a gente tá falando que cada usuário poderá abrir três módulos ao mesmo tempo. Se todos os seus 103 usuários abrirem três módulos ao mesmo tempo, cada um, você atinge os 319. E aí você tá no limite de conexão. Da mesma forma que você pode ter 103 usuários conectados, [PESSOA] você tá no limite de usuários conectados, você precisaria de mais licença para ter mais usuários. Mas cada usuário seu acessou um único módulo cada um. [PESSOA] você tem 103 usuários, 103 conexões. Ainda tem 200 e poucas disponíveis. São duas métricas diferentes.\n[LOCUTOR 27]: [LOCUTOR 14]: dos usuários continua valendo por usuários conectados. E da mesma forma, você pode ter 10 usuários conectados. e cada usuário abriu 50 módulos cada um. Não tem isso, mas se fosse, excederia as 300 conexões contratadas. Entendeu? Sim, entendi.\n[LOCUTOR 24]: Você vê que é bem complexo, mas a métrica acaba sendo assim. Os licenças que você tem limitam seus usuários a serem conectados e as conexões de cloud limitam a quantidade de módulos que vão ser abertos ao todo.\n[LOCUTOR 27]: Sim. É, hoje a gente faz essa limitação, na verdade, mas aí, claro, ele acaba consumindo uma licença de cada usuário. Eu limito o usuário a acessar, por exemplo, duas abas ou três abas ao mesmo tempo. [PESSOA], sim, se ele entra em três abas, ele tá consumindo três licenças.\n[LOCUTOR 24]: Tá, porque nem todas são full, né?\n[LOCUTOR 24]: [EMPRESA]. É, esse exemplo, eu dei se fossem todas full, né?\n[LOCUTOR 24]: Mas a lógica é essa, tá? E aí quando a gente fala de TSS, [PESSOA] é pelo volume de documentos, né? Ah, 200 mil notas ao ano. [PESSOA]. Você tem 200 mil para emitir durante o ano e a [EMPRESA] vai\n[LOCUTOR 27]: também... O TSS eu\n[LOCUTOR 24]: preciso\n[LOCUTOR 27]: contratar ele por volume de nota fiscal dele.\n[LOCUTOR 27]: documento. [LOCAL].\n[LOCUTOR 24]: No [PESSOA], o TSS era pelo volume total de documentos transmitidos no ano.\n[LOCUTOR 27]: E esse documento vocês contam no TSS, por exemplo, as transmissões do [EMPRESA]. Entra também nesse pacote?\n[LOCUTOR 24]: Entra também, tá? A gente tem\n[LOCUTOR 24]: que passa pelo TSS, transmit,\n[LOCUTOR 24]: pelo CPF.\n[LOCUTOR 27]: RH também cai [PESSOA] dentro dessas transmissões, hein? Porque o [EMPRESA] acaba passando pelo... o RH\n[LOCUTOR 24]: acaba\n[LOCUTOR 27]: passando pelo [EMPRESA], né?\n[LOCUTOR 24]: Eu não sei a lista exata de quais são os documentos, mas eu sei que tudo passa pelos três,\n[LOCUTOR 24]: ser contabilizado.\n[LOCUTOR 27]: [EMPRESA]. Bom,\n[LOCUTOR 24]: a gente faz um assessment. Isso é algo que não tem custo. A gente faz uma agenda de uma hora, entra o nosso especialista em Proteus e o nosso especialista em SQL. Eles vão pedir pra vocês rodarem alguns comandos lá no License Server, enfim, pra levantar essa volumetria. E aí a gente já fala, ó, você tá utilizando 300 mil documentos por ano. A gente vai montar um projeto pra 350, [PESSOA], pra ter uma gordurinha.\n[LOCUTOR 27]: Ah, entendi. Antes a gente comentou a questão do banco de dados. A gente comentou, vou precisar de um processamento X ou Y, vou precisar, por exemplo, base de dados. Hoje a nossa base está em 1.3 terra. Essa base aumentando, isso é o custo que está dentro? A gente não precisa se preocupar com isso? Como é que funciona?\n[LOCUTOR 24]: O tamanho do banco que você fala?\n[LOCUTOR 27]: Isso.\n[LOCUTOR 24]: [PESSOA], a gente faz sempre um projeto com uma gordura,\n[LOCUTOR 24]: [PESSOA] o time ele vai dizer\n[LOCUTOR 27]: você,\n[LOCUTOR 27]: aumentando isso. acaba impactando no valor da licença também. [PESSOA] o valor do mensal do recorrente mensal.\n[LOCUTOR 24]: Exatamente isso aí.\n[LOCUTOR 27]: Da mesma forma processador também ou não processador memória\n[LOCUTOR 24]: processamento e memória a gente não limita a usar o quanto precisar. Por isso que a gestão do banco é nossa e o nosso [LOCAL] também vai otimizar o banco de vocês provavelmente gastar menos recurso e ter mais performance com menos. para que a gente também possa ter esse equilíbrio financeiro dos projetos.\n[LOCUTOR 27]: [EMPRESA].\n[LOCUTOR 33]: Ô, [PESSOA], só uma pergunta. Essa limitação de memória, processamento, isso fica alocado para o servidor? Ou ele é compartilhado com outras VMs que estão dentro da nuvem?\n[LOCUTOR 24]: [PESSOA], essa é uma pergunta muito boa, sua pergunta, que nem palestrante agora. Qualquer pergunta, você é muito boa, sua pergunta. Mas isso é legal porque eu já ia chegar nessa parte. A gente tem, dentro do nosso modelo aqui, três modelos de oferta. Deixa eu achar onde é que estão os modelos de oferta. Acho que não estou nesses slides, mas enfim. A gente tem três modelos de oferta. O modelo standard, compartilhado, que é para cliente que tem 4 ou 5 usuários, onde ele divide o banco, divide a aplicação com outros caras. Aí está cinco empresas na linha da VM, tem esse modelo, mas ele é modelo para pequenas empresas. Depois a gente tem o modelo intermediário, que é o modelo dedicado, onde você tem VM exclusiva para aplicação e para banco e você não divide recurso com outros clientes. E a gente tem o terceiro modelo, que é o modelo Prime, onde além de você ter servidores eu te entrego autodisponibilidade. [PESSOA] eu te entrego replicação do nó primário para o nó secundário, na camada do meu virtualizador, para que você tenha esse HA. E aí se cair o nó primário por qualquer motivo, falha de hardware, enfim, o nó secundário assume e você tem um [EMPRESA] e um [EMPRESA] muito rápido nisso. Em poucos segundos você volta a operar e você não tem perda de dados. O que a gente fala é que os dois estão ativo-ativo, os dois ligados ao mesmo tempo, com os dados replicados que fazem o tempo real. [PESSOA] no Prime eu te entrego essa questão de alta disponibilidade e tudo mais. E aí já muda um pouco o nível do negócio. Você pode inclusive contratar uma replicação geográfica para um outro datacenter. Quem contrata é mais quem tem a obrigação legal de ter isso. Porque o nosso auto-disponibilidade, ele já, por mais que é no mesmo data center, ele já é em zonas separadas, ou seja, eu já tenho andares separados no mesmo prédio, já tem todo um isolamento físico dos ambientes. Mas eventualmente pode um hardware parar, enfim, e aí por isso que a gente oferta o auto-disponibilidade no Prime. Outra coisa que é interessante no Prime é que no modelo estándar, seja compartilhado ou seja dedicado, o atendimento ele via portal de chamada. Quando a gente vai para o Prime, o atendimento não é via portal de chamadas. Ele é através do WhatsApp do Engenheiro Prime. [PESSOA], você tem o telefone do Engenheiro Prime, que ele é um líder do time de suporte, você fala somente com ele direto no WhatsApp. E você tem o número do cara. Você pode ligar direto para o cara, pode chamar ele no WhatsApp, a hora que for, 24 horas, se ele não te atender, ele está de plantão, ou ele já te direciona a casa esse final de semana, eu estou fora do plantão, o fulano está no meu lugar. [PESSOA], você tem o Engenheiro Prime que vai te atender. [PESSOA] muda o [EMPRESA], é bem mais rápido, é sempre a mesma pessoa. Esse grande problema hoje de abrir chamada é cair no [LOCAL], que chegou ontem na [LOCAL], não sabe nem se é de comer ou de passar no cabelo, né? Até ele descobrir que ele não sabe chamar o [LOCAL], já deu um BO danado e você tá muito tempo parado. [PESSOA] o Prime, ele te dá essa senioridade de você falar com a mesma pessoa, é um cara super experiente e ele agiliza pra você sem precisar abrir chamada e tudo mais, tá? [PESSOA] tem esses três modelos, né? Pra você, eu já vejo que o Prime é o mais recomendado pelo tamanho do pote da empresa e tudo mais. [PESSOA] já pensa em ir. Alta disponibilidade e atendimento de engenheiro Prime, tá? Beleza, pessoal. Posso dar sequência aqui?\n[LOCUTOR 27]: Pode.\n[LOCUTOR 24]: Isso aqui é só uma exemplificação, [PESSOA], do modelo que a gente falou, tá? Quando você vai pra qualquer nuvem, todo mundo vai te entregar um modelo de [PESSOA] Eu te subo a VM aqui na AWS, a AWS tem a EC2 lá. Deu pau no Proteus, não adianta nem se ligar lá, os caras vão dizer ó, meu contrato é da EC2, a EC2 tá rodando e você vai botar lá dentro a responsa sua. No nosso modelo [EMPRESA], é tudo com a [LOCAL]. A [LOCAL] ela vai assumir uma responsabilidade contratual com vocês, de performance e disponibilidade da aplicação, não dos servidores. [PESSOA] a [EMPRESA], você vai ter a garantia que o Proteus vai estar rodando com as telas carregando em poucos milissegundos. Se isso não acontecer, você pode já chamar um engenheiro prime ou incomodar a [EMPRESA], que a [EMPRESA] tem a obrigação de manter isso funcionando. Bom, a gente tem uma console de segurança completa, tá, galera? Mas falando de forma rápida sobre isso, eu te entrego várias certificações. Primeiro o Tier 3, que é uma certificação de disponibilidade, mas eu também te entrego o [EMPRESA], a própria [LOCAL] de privacidade de dados, várias certificações de processo, 27001, 27001, 9001, várias isos de processo eu te entrego também. E isso tudo eu te entrego num documento dizendo que você tem o seu ambiente certificado. Se por ventura vocês precisarem certificar alguma coisa internamente e vocês olharem e me falarem, espera aí. Boa parte das coisas que estão me pedindo para eu validar na [EMPRESA], eu já tenho certificado pela ISO 9001. Você pode usar um documento da [EMPRESA] falando isso aqui, já está feito. [PESSOA], se você precisar, as certificações valem para vocês também, tá? Bom, parte de file. Todo o nosso file de borda hoje é baseado em [LOCAL]. Eu te entrego o gerenciamento todo através da console do [PESSOA], tá? A gente trabalha com [EMPRESA], [PESSOA] é tudo bloqueado o tempo todo para todo mundo, mas vocês podem ir definindo algumas permissões, tá? Abrir uma porta de banco, abrir um acesso lá, você pode criar acessos no [PESSOA] para a parte de infraestrutura. E a gente tem uma equipe, no caso, essa equipe vai montar um relatório periódico, vai passar para o Engenheiro Prime de vocês. O Engenheiro Prime vai apresentar para vocês periodicamente, falando, olha, [PESSOA], Lembra que você falou que pediu para ter mais acesso no [PESSOA]? Cara, tem um usuário que não acessa seis meses. Vamos derrubar o acesso desse cara? Você abriu a porta do banco para a internet. Vamos fechar e colocar por uma VPN, o acesso é certamente pela sua unidade, de forma controlada. [PESSOA], esse tipo de recomendação a gente trata para vocês. O que mais? Parte de proteção de borda, a gente também trabalha com a Cloudflare. [PESSOA], hoje a gente tem uma proteção muito completa da Cloudflare para a parte de anti-DDOS, o WAF. Porventura vocês falam, ah, eu quero abrir o meu acesso ao Proteus, eu quero abrir eles para a internet. [PESSOA] a gente aplica uma parte de WAF na borda, você tem controle de quais países vão ter acesso, você tem vários tipos de proteção. Parte de EDR e XDR, proteção dentro dos servidores. A gente trabalha com o CrowdStrike hoje, que é o nosso grande parceiro. E a gente aplica vários recursos, tá? Um deles que é muito avançado, e isso é muito legal, só rodam scripts executáveis que são na transferência da TOTOS. Se você quiser rodar qualquer coisa, ela não vai rodar. Se não estiver na transferência da TOTOS, assinado pela TOTOS, não vai rodar. [PESSOA], isso é uma proteção muito legal que a gente traz. Parte de backup. O backup é feito em três zonas apartadas. Eu faço o backup e a disco quente, que é o mesmo disco de produção, para que eu possa fazer um restore de forma rápida. Eu também faço um backup num outro datacenter separado e uma cópia no outro fornecedor fora do [LOCAL]. Esse backup tem retenção de cinco anos. Você pode voltar no tempo qualquer dia, seja a VM inteira, seja um documento, seja um registro do banco, de qualquer data dos últimos cinco anos. O nosso backup também tem imutabilidade. [PESSOA], se porventura o [PESSOA] pegar os servidores, não vai chegar nos backups, eles são imutáveis. Se der a louca lá também no CTO da [LOCAL], ele fala, ah, vou deletar tudo de todo mundo. Não vai conseguir, ninguém consegue deletar os nossos backups. O que mais? A gente entrega também a parte de... Estava falando da parte dos backups e fugiu agora o que é. Mas eu vou lembrar logo, eu falo para vocês. Questão de gerenciamento, sustentação da TOTOS. Todos os dados, eles têm uma proteção muito forte. A TOTOS, ela não tem acesso aos dados de vocês, seja no time de suporte, seja outro cliente, enfim. [PESSOA], tem uma parte de criptografia também e somente vocês com as chaves de vocês vão poder acessar os dados, tá? Pessoal, a gente tem um, enfim, é uma gama completa de serviços de segurança, tá? Hoje é o maior investimento da companhia. A companhia investe muito. Para vocês terem ideia, o ecossistema de cloud como um todo tem pouco mais de 10 anos e a gente vai chegar ao final de 2026 com 1 trilhão de reais investidos. E não é balela do [PESSOA] não. Isso está no relatório que vai para a [EMPRESA]. A gente é uma empresa de capital aberto. No último relatório a gente está na projeção de um trilhão de reais investidos em cloud até o final de 2016. Isso é muita, muita grana. É muita coisa de ponta. Lembrei o que eu ia falar. A gente tem uma proteção a [PESSOA] a nível do [EMPRESA]. Nossas [EMPRESA] dois são da [EMPRESA], a gente tem um recurso de anti-[PESSOA] da [EMPRESA], que ele detecta uma anomalia na taxa de gravação e subscrição de dados no disco. Se for compatível com o [PESSOA], ele isola o disco e tira da rede. [PESSOA], a gente atende... Isso tudo aqui pra vocês terem uma ideia, é pra que a gente possa fazer isso aqui, cara. Pra que a gente possa atender essas grandes contas. [PESSOA] a gente atende muito clientes de grande porte. [LOCAL] acaba de sair um novo case no mercado do [LOCAL]. Vocês lembram que o [LOCAL] foi invadido e teve renda por um tempo atrás, né? A partir daí eles tomaram a decisão de migrar para o 90 [LOCAL]. Hoje a gente tem um ambiente muito robusto. Para vocês terem ideia, eles têm todas as agências do [LOCAL] conectadas com uma fibra direta no 90 [LOCAL]. Para cada uma das agências do [LOCAL], que eles precisam de baixíssima latência, tem uma interconexão direta com a [EMPRESA], [EMPRESA] isso é possível porque a gente tem um ecossistema muito robusto. A gente atende a embaixada americana. Vocês têm ideia? [PESSOA] você fala, mas isso tudo vocês fizeram para atender todos os clientes? É, boa parte foi por causa da embaixada americana, porque esses caras são muito criticos. Seria a ideia de um dos poucos clientes que eles fizeram um pen-test muito agressivo nos ambientes antes de fazer a migração. Aposto que não faz pen-test, mas ela permite que o cliente faça. É\n[LOCUTOR 24]: negócio muito robusto.\n[LOCUTOR 33]: Essa questão da latência que você comentou, [PESSOA], Qual que seria a latência, a máxima que a gente poderia chegar? E outra pergunta é se vocês têm alguma parceria com alguma operadora para ter essa latência o mais baixa possível, né? Por exemplo, um [EMPRESA], alguma coisa desse tipo, né?\n[LOCUTOR 24]: [PESSOA]. Quando a gente fala de latência, não tem como eu te dizer a máxima, né? Vai dar uma louca no link aí e você tem uma latência altíssima. A média hoje no [LOCAL] tem em torno de 30 milissegundos, tá? A latência média que a gente tem é entre 30 e 40. Agora, com relação à parte de conectividade, qual é a vantagem disso, de ter ido para o Nubida [LOCAL]? É porque a [LOCAL] roda no maior complexo de data centers da [LOCAL]. 50% do tráfego da internet passa por esses data centers. [PESSOA], eu tenho uma interconexão de nível absurdo. A gente tem mais de 300 operadoras interconectadas e a gente tem uma coisa chamada [EMPRESA], que é um produto que a [LOCAL] comprou da rede de data centers que a gente tem, onde a gente não tem um operador específico. Eu tenho todas as trezentas e poucas operadoras que estão conectadas. A que tiver a menor latência para a sua conexão vai ser a que a gente vai utilizar. [PESSOA], periodicamente, esse [EMPRESA] faz testes de latência com várias rotas e se ele descobre que a rota agora da [PESSOA], melhor que a da [EMPRESA], todas as suas conexões vão passar a sair pela rota da [PESSOA]. [PESSOA] tem isso. [EMPRESA], tem muita coisa por trás, mas, por exemplo, o que que traz velocidade no Proteus rodando? Agora aqui a gente está na versão web, né? A gente tem a borda com a Cloudflare que tem aceleração de conteúdo. Não sei se vocês já ouviram falar sobre CDN, aceleração de conteúdo. Você mantém praticamente o cache dos dados que são estáticos, né? E quando a gente fala de um Proteus da vida, é tudo estático. O que que é? Não é estático. É os dados do banco, né? É os dados do cliente, mas as telas, elas são estáticas praticamente. [PESSOA] a gente trabalha com uma vantagem de aceleração de contudo muito forte também. Enfim, a gente vem tendo uma boa experiência, tá? Não era tão boa assim quando a gente tinha um modelo na versão 23 para trás, né? Aí você ainda tinha o Smart Client, tinha alguns problemas. Hoje, quando a gente vai para 2510, que é o Web, funciona que é uma maravilha. Talvez você tenha que ter alguns pontos de atenção. Se você tem alguma coisa de [LOCAL] com máquinas integradas, com algum robô integrado, isso a gente pede um ponto de atenção. Mas o nosso assessment, quando a gente faz com vocês, o nosso time roda vários scripts e mapas. ele mapeia tudo isso pra vocês. Ele traz todos os\n[LOCUTOR 27]: pontos\n[LOCUTOR 24]: de atenção.\n[LOCUTOR 24]: fala, cara, vê que você tem uma conexão aqui que é sensível à latência. Essa conexão aqui pode ser que dê problema. Esse tudo a gente traz pra vocês também.\n[LOCUTOR 27]: Dentro dessa parte do [LOCAL], agora que tu tocou no assunto, na verdade, hoje a gente não tem. Mas a gente até tem uma apresentação da [EMPRESA] sobre a questão de [LOCAL]. O que a gente deveria cuidar nesse sentido.\n[LOCUTOR 24]: Qual que é a utilidade da [LOCAL] que vocês vão ter?\n[LOCUTOR 27]: Na verdade, é para automatização. Hoje, o nosso processo é muito manual. Aqui na [EMPRESA], a gente tem Proteus, [LOCAL], a gente tem há mais de 30 anos. A gente vem lá da época do [EMPRESA] ainda, que eram telas DOS, [PESSOA] a gente vem nesse caminho. Só que, nos últimos anos, a gente veio deixando de fazer ou implantar alguns serviços e a gente vem ficando um pouco desatualizado na questão de utilização do Proteus. [PESSOA] agora a gente quer dar um trabalho bem forte para se, não vou dizer implantar o Proteus, mas passar a implantar ou começar a utilizar algumas ferramentas que a gente não vem utilizando e vem subutilizando o Proteus. [PESSOA], uma das etapas é justamente automatizar algumas tarefas que a gente sabe que pode ser feita via um robô ou alguma coisa que eu estou com um usuário, estou pagando uma pessoa para estar ali na frente da máquina e está fazendo uma tarefa que eu poderia automatizar. [PESSOA], muito nesse sentido. Tá,\n[LOCUTOR 24]: boa. Qual que é o ponto de preocupação? Se você tiver no plano de ter um [EMPRESA] conectado nas máquinas e aí você ter o IoT que comunica direto com o Proteus. A gente recomenda que você tenha uma conexão direta. E não quer dizer puxar um cabo de fibra da [EMPRESA] até o data center. É ter uma rota exclusiva. Tem várias empresas que vendem isso no mercado hoje. [LOCAL], por exemplo, é uma delas. É um produto que vai custar na faixa de uns mil reais por mês. Mas você tem uma rota exclusiva. Isso resolve esses problemas. A gente tem vários clientes no [LOCAL] que utilizam. Se não me engano, a própria [LOCAL] trabalha nesse modelo também, [EMPRESA]. E aí, quando você contrata isso, você resolve esses problemas de rota. Que não é que não funciona, mas você não pode ficar mal, gente, e daqui a pouco o link de internet deu pau, e aí você não consegue operar a máquina, né? [PESSOA], você ter a rota exclusiva te traz uma vantagem muito melhor pra esse ponto, tá? Já te deixo falar, [PESSOA], outra coisa que eu acho importante é, quando você vem pra nuvem da [LOCAL], você tem muita coisa que você pode automatizar com o [LOCAL]. E aí você não precisa do [LOCAL] propriamente dito, tá? A [LOCAL] é muito mais barata do que o [LOCAL] e ela automatiza pra você muita coisa. [EMPRESA], com a exceção do [EMPRESA]. Se eu quero conectar dados da fábrica, eu quero que... a minha máquina esteja integrada com o Proteus, eu não preciso ter que imprimir uma OP, entregar para o operador e tudo mais, aí tem que ser [LOCAL]. Mas se há uma automação lógica dentro do sistema que não comunica com as máquinas da fábrica, AIA tem um monte de coisa. Acho que o pessoal que vai te apresentar o [LOCAL], eles vão comentar sobre isso. Obviamente migrar pra nuvem é um dos passos antes de ter a [LOCAL], né? Mas tem muita\n[LOCUTOR 27]: coisa\n[LOCUTOR 24]: legal, cara. Tem até um slide sobre isso aqui, ó. Que a gente fala sobre o que já tem pronto, tá? Supervisão financeira, auditoria de folha. Hoje o RH deve perder um tempo pra verificar as folhas por amostagem antes de liberar o pagamento no dia 25,\n[LOCUTOR 27]: pra ver\n[LOCUTOR 24]: um pouco\n[LOCUTOR 27]: ainda.\n[LOCUTOR 24]: Você elimina o risco. Primeiro que o gerente de RH, ele não tem o olho de águia. Às vezes ele pode passar abatido alguma coisa e depois o funcionário, [PESSOA], cara, eu recebi isso e não tinha. Faltou tal coisa na minha folha. Esse tipo de coisa, a gente já faz tudo isso para você de forma automatizada. E aí, como ele é por demanda, ele é mais barato do que o [LOCAL] para fazer isso. [PESSOA], mas o pessoal do [LOCAL] explica isso no detalhe para vocês aí quando for visitar vocês. Fale [PESSOA]! T\n[LOCUTOR 24]: Ah, agora?\n[LOCUTOR 35]: Aproveitando o gancho ali do [EMPRESA], que ele perguntou sobre a latência, né? E até a questão que tu colocou da [LOCAL] ali com ligação de fibra, né? O que que é a minha dúvida? Ou por exemplo, a gente tá ligado, provavelmente deve estar no X ali, os colocations de vocês, o hardware, enfim, X [LOCAL], por ali, né?\n[LOCUTOR 24]: Na verdade não, porque o [LOCAL] não tem processamento de dados. Hoje esse complexo pertence a [LOCAL], que é o maior consultorio do centro da [LOCAL].\n[LOCUTOR 35]: [LOCUTOR 17]: [LOCAL] só conecta. Só faz o ponto de troca.\n[LOCUTOR 28]: exemplo, rompeu a fibra no meio do caminho. Como é que funciona essa questão de redundância, tempo de subito? Tem alguma coisa nesse sentido? Porque hoje, como o [PESSOA] falou no início, Nós temos aqui local, cara, nós temos tripla abordagem ali, temos o contato direto do cara, sobe a fibra, faz a fusão ali, é pipe 1, tá tudo certo. Como é que é essa parte também de segurança? Você fala da parte de conexão dos links?\n[LOCUTOR 35]: [PESSOA].\n[LOCUTOR 24]: Como a gente tem o [EMPRESA], é tudo automatizado. Seguido cai. Cara, a gente tem 300 operadoras justamente porque seguido vai cair, tá? Todo dia cai uma ou duas, arrebenta um cabo, enfim. Automaticamente ele já faz com milissegundos. O teu usuário tá conectado no link A, o link A caiu. Vai deslogar os proteus dele, ele só dá um logar de novo e já voltou no link B. [PESSOA] isso tudo é automatizado do nosso lado, tá? Do lado de vocês, imagino que vocês vão querer ter [EMPRESA] e IPsec pra criptografar o tráfego. e a gente libera o acesso através da VPN para vocês. Minha recomendação é que vocês tenham dois ou três túneis, um para cada operadora e trabalhe com o BGP ativado no Firewall de vocês.\n[LOCUTOR 24]: você tem o balanceamento automático, você tem a troca automática dos túneis. Pelo menos essa é a melhor estratégia.\n[LOCUTOR 33]: O maior problema vai estar na nossa ponta com a operadora que a gente trabalha. E onde que a gente precisaria ter, hoje a gente tem duas operadoras, na verdade teria que ter no mínimo três, né, pra que consiga ter o serviço sempre no ar, né.\n[LOCUTOR 24]: Vocês têm um mapa de ponto das operadoras?\n[LOCUTOR 24]: Isso é uma coisa que seria legal, de pedir pras operadoras e falar, cara, quais são os mapas de ponto de contato? Porque assim, às vezes você tem duas operadoras, mas chegou em [LOCAL] e junta tudo só um tronco da [EMPRESA]. Se aquele tronco da [EMPRESA] cair, você perde as duas. Para você ter operadoras que tenham rotas bem distintas. E principalmente quando a gente falar da serra, tem muito isso. Tem cinco operadoras, mas todo mundo usa velã de uma rota da [EMPRESA] e sai só dela, de [PESSOA], por exemplo.\n[LOCUTOR 4]: mata um pedaço aí. É\n[LOCUTOR 24]: isso aí porque no final das contas não quer dizer que vai cair mas é bom que você tenha isso mapeado para você saber qual que é o seu risco.\n[LOCUTOR 24]: para você. Todo o estado do [LOCAL] e tem apenas três conexões com [LOCAL]. São apenas três rotas com [LOCAL].\n[LOCUTOR 35]: [LOCUTOR 6]: rotas pertencem a [EMPRESA] a [EMPRESA] e a [EMPRESA]. Todos os outros ficam abaixo dessas três rotas. Não tem outras conexões fora do estado que não sejam essas três. [PESSOA] a gente no final das contas vai acabar ficando na mão de três. Mas ainda assim muita gente aqui consegue melhorar para a nuvem. Essas três são muito bem estruturadas. Mas está melhorando bastante. Cada vez mais eles estão evoluindo nisso. Algum ponto mais? Ficou faltando eu falar um pouco a respeito de alguma coisa?\n[LOCUTOR 27]: Acho que assim, de forma geral, deu para entender como funciona, qual é a estrutura, quais as opções de imigração, porque a gente viu bastante coisa, alguma coisa com outros consultores, outras coisas no YouTube, mas agora deu para entender bem, que eu acho que O plano que se encaixaria para nós seria o quase mesmo, dentro do que a gente viu. [PESSOA], eu acho que, de repente, a gente poderia fazer um trabalho de, pelo menos, a gente ter uma noção de investimento, que aí, de repente, se torne algo que a gente poderia estar evoluindo, talvez, colocar num orçamento no próximo ano, para a gente pensar em evoluir essa questão. A gente falou hoje, a gente está com um parceiro local aqui, a gente tem um acesso direto com ele, a gente tem toda uma infraestrutura montada com ele, mas nada impede de a gente estar evoluindo, até porque a gente precisa colocar na balança essa questão da automatização, também com o [LOCAL], [PESSOA], tem\n[LOCUTOR 2]: pontos aí que a gente, de repente, tem um investimento um pouco maior, mas que a gente vai ganhar na outra ponta.\n[LOCUTOR 24]: Exatamente. Eu acho que assim não custa nada vocês terem isso na mão. A gente precisa para montar uma proposta para você a gente passar pela etapa de acesso a uma agenda de uma hora com o nosso time técnico. A única coisa que precisa é que quem esteja na agenda do lado de você seja quem tem acesso ao banco acessar o servidor de aplicação ou license server em si. para a gente poder rodar alguns comandos em conjunto e poder mapear o tamanho do banco, as conexões que tem, se tem algum ponto de atenção. E aí com isso gera um relatório que a gente senta, eu e o [PESSOA] com calma, a gente apresenta isso aí para vocês, para vocês saberem quanto vai custar, at\n[LOCUTOR 23]: para\n[LOCUTOR 24]: saber...\n[LOCUTOR 27]: Eu tenho noção de quanto tudo vai custar. [EMPRESA] é bonito, tudo é legal, mas tudo tem um custo, né?\n[LOCUTOR 24]: Exatamente, [PESSOA]...\n[LOCUTOR 27]: Não adianta eu chegar na mesa do... da direção lá, isso vai me custar R$3 milhão, aí vai me jogar na janela abaixo.\n[LOCUTOR 24]: [LOCUTOR 8]: falar que a [EMPRESA] sempre quer tudo, não é, cara? Vai facilitar para mim? Vai. [PESSOA] manda para dentro, tudo eu quero. Agora quem\n[LOCUTOR 27]: paga\n[LOCUTOR 24]: a conta tem que fazer o\n[LOCUTOR 27]: cálculo. É complicado. Mas acho que faz sentido a gente levantar e ter uma noção de investimento, disso tudo. E aí, quem sabe a gente está levando adiante, porque a gente sabe que o risco A questão de estrutura, a questão de segurança sempre existe. [PESSOA], acho que um dos maiores temores hoje de todo o pessoal de [EMPRESA] é essa questão de invasão. E a [LOCAL] é uma empresa bem conceituada, [PESSOA], acredito que essa parte de segurança, que nem o [EMPRESA] já apresentou algumas coisas, é bem importante. E a questão de expansão, sim, também. A empresa também tem alguns projetos de expansão e a gente precisa também pensar nisso. Quem está por trás, digamos, de como eu vou conseguir... Ah, eu preciso aumentar espaço, eu preciso de mais processamento, [PESSOA], quem está nos aportando lá precisa também ter uma capacidade de nos fornecer isso de uma forma rápida, né? Teve... as nossas hospedagens sempre eram internas, a gente tinha um data center interno, mas a gente passou por um sinistro aí faz quatro anos, três anos atrás, acho que lá faz, do incêndio, E aí a gente acabou perdendo o nosso data center e a partir dali a gente foi para a nuvem e a gente viu que é um modelo legal, é um modelo interessante, a questão de escalabilidade também, hoje eu preciso de mais discos, preciso de mais processamento, [PESSOA] eu não tenho mais a preocupação de [PESSOA] de ar-condicionado, de energia, cuidado de no break. [PESSOA] tem os seus benefícios sim.\n[LOCUTOR 24]: E assim a gente tem uma bolha do mercado começando agora. Não sei se você está acompanhando mas obviamente tem o cenário de guerra e tudo mais e os [LOCAL] estando presente na guerra a gente sabe que afeta muito o mercado mundial ainda mais que eles são o maior fornecedor de tecnologia do mundo mas principalmente a questão de terras raras. [PESSOA] a gente vê... Isso é um alerta inclusive interno aqui da [EMPRESA], tá? Pessoal, vamos acelerar os projetos e tudo mais. Isso obviamente de clientes que já tem proposta na mesa. Aí o cara fala, ah, eu vou assinar mês que vem. O cara não assina mês que vem. Por quê? Porque a [EMPRESA], ela muda a tabela todo mês de março, abril. Tá faltando chip no mercado. Não sei se você cotou o [EMPRESA]. Cara, absurdo. Eu fui cotar o [EMPRESA] com um cliente esses dias lá. Na verdade, eu não fui cotar, mas o cliente me deu o cenário que ele cotou, né? Ele falou, cara, eu não vou pra nuvem e tudo mais, mas eu quero olhar. Ele tinha comprado o [EMPRESA], pagou 600 e poucos mil ano passado, meio do ano passado, foi cotar mês passado, deu 1 milhão e 200. Por quê? Porque está faltando chip, está faltando muita matéria-prima no mercado. Essa bolha está recém começando. O [EMPRESA] prevê que o auge dela vai ser em 2017 e depois os preços começam a cair de novo. [PESSOA] tem essa preocupação toda, né? E quando você miga para a nuvem, cara, aí você tem proteção de preço no contrato, após que puderem.\n[LOCUTOR 24]: Só que já preveja isso no seu cálculo,\n[LOCUTOR 3]: marcar o acesso mesmo?\n[LOCUTOR 27]: Sim, pode ser. Acho que vamos marcar uma agenda aí. E aí, eu não sei, o [EMPRESA] que provavelmente vai mais participar aí também, como é que tá de agenda, mas acho que gera uma sugestão de\n[LOCUTOR 33]: data, de\n[LOCUTOR 27]: horário, e aí a gente encaixa. A gente pode\n[LOCUTOR 24]: fazer\n[LOCUTOR 27]: esse levantamento aí sim, sem problema.\n[LOCUTOR 26]: é que t\n[LOCUTOR 19]: dizendo a semana que vem?\n[LOCUTOR 27]: Semana que vem para mim fica mais complicado. Mês de fechamento [PESSOA] de repente eu ia sugerir ali na semana do dia 6. Não sei se o [PESSOA] também puder. Como é que fica para vocês também. 6 do 4 ali naquela semana.\n[LOCUTOR 24]: No dia 6 inclusive eu tenho duas agendas liberadas de acesso às 11 e às quatro horas da tarde.\n[LOCUTOR 27]: Quatro horas da tarde de repente pode ser [PESSOA].\n[LOCUTOR 12]: ser para mim.\n[LOCUTOR 24]: dia 6 às 4 horas da tarde, uma agenda de 45 minutos,\n[LOCUTOR 27]: tranquilo,\n[LOCUTOR 24]: e se ficar faltando alguma coisa, vocês não conseguirem rodar na hora, não tem problema, o time manda por e-mail e depois vocês executam.\n[LOCUTOR 27]: [PESSOA].\n[LOCUTOR 9]: confirma para quais e-mails que eu mando, eu mando para o teu só ou te mando para mais alguém?\n[LOCUTOR 33]: [LOCUTOR 20]: mandar para [LOCAL] também. O meu ali é informática a roupa florestal ponto com.\n[LOCUTOR 24]: e [PESSOA].coelestal.com. [LOCAL]. Acabei de enviar aqui para vocês. Aí já deve estar chegando alguns minutinhos para vocês. Se vocês quiserem remarcar, se tiver algum imprevisto, não tem problema. Só dá um toque no [PESSOA], lá a gente remarca. Não tem galho, tá, pessoal? E aí na hora de apresentar, veio com um evento assim, que não marca de tomar um café, vocês conhecerem o novo escritório da [LOCAL], a [LOCAL] é o escritório novo, top, de ser a muito bala, ali no prédio do Bourbon, da [LOCAL], tem um shopping novo, bem legal. Cara, desce no terceiro andar, tem vista de toda a [LOCAL], bem massa ali.\n[LOCUTOR 27]: [PESSOA], da nossa parte seria isso.\n[LOCUTOR 24]: isso galera. [PESSOA] obrigado pelo tempo de vocês aí e vamos se falando.\n[LOCUTOR 21]: Obrigada gente\n[LOCUTOR 27]: pela\n[LOCUTOR 33]: informação.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:39.903468+00:00",
+    "total_linhas": 223,
+    "linhas_mantidas": 158,
+    "linhas_removidas": 65,
+    "percentual_mantido": 70.85,
+    "confianca_media": 0.4759
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 21]: Ô [PESSOA], só mais uns dois minutinhos que ele tá terminando uma call com outro cliente, tá bom? Tá",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: bom, a gente aguarda daí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Boa tarde, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3861,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Bom, gente, o [PESSOA] é o nosso especialista aqui de [PESSOA]. Ele vai apresentar para vocês. Eu vou continuar aqui da sala, mas qualquer coisa vocês podem falar e levantar a mão, tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4518,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Tá certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: E aí, galerinha, como é que vocês estão? [EMPRESA] jóia com vocês? Desculpa a demora. Estava numa outra azena ali. Acabou atrasando uns minutinhos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4458,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Ah, tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: O [PESSOA] pediu pra avisar que não vai conseguir entrar, cara. Ele tá...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Ele me... Ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: me testou lá também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [PESSOA] falou, assim, que ele vai se atrasar um pouco, que ele está em outra reunião, parece, também, mas tranquilo. Que a ideia hoje, na verdade, é mais a gente conhecer também o TotsCloud. A gente não tem, assim, nenhum projeto em vias de... ou necessidades de troca, pelo menos não a curto prazo, né? Mas aí o [PESSOA] comentou também, a [PESSOA], na outra oportunidade, comentou se seria interessante a gente, de repente, conhecer o TotsCloud, ver o que tem de ferramenta, o que tem de recurso aí, para a gente já conhecer e saber o que se tem de opção.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Boa, show de bola. Cara, muito prazer. Eu sou especialista em nuvem aqui na [EMPRESA], atendo o território do [LOCAL]. Até para dar uma direcionada num papo que eu queria entender quem está na sala. Tem galera de segurança e informação, é todo mundo de infra?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: É todo mundo de infra. Eu trabalho na parte de coordenação. Aí o [EMPRESA] também é da parte de infra, e ajuda bastante na parte com o Proteus, também, e cuida da parte de infraestrutura. E o [PESSOA], também, que trabalha e atua na parte de infraestrutura e está iniciando agora no Proteus com a gente também. [PESSOA], basicamente, nós três, assim, que mais lidamos com o Proteus e a parte de infraestrutura. [PESSOA], mais anos de casa dentro do Proteus é comigo, mas, assim, em termos de conhecimentos gerais, ali, o [EMPRESA] e o [PESSOA], eles estão já meio que dominando também, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Boa. Eu tenho uma apresentação padrão que eu posso fazer para vocês, tá? Mas ela é muito monóloga, assim. Vocês preferem que eu apresente o PowerPoint ou a gente siga no bate-papo, assim? Eu vou trazendo para vocês o que a gente tem. Como é que fica melhor aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Cara, acho que pode apresentar, assim, de forma geral, direta, assim. Não tem muito... O que mais que a gente falou? É mais a ideia da gente saber, conhecer como é que funciona, como é que funciona acesso, como é que é hospedagem, como é que é, sei lá, atualização, como é que... Enfim, uma abrangência, assim, de forma geral. Hoje, nós temos o on-premise, né? [PESSOA], aqui, a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: faz tudo. A gente tem que fazer a instalação, tem que fazer a atualização, precisa fazer alguma alteração, criar campo, [PESSOA], esse tipo de coisa. É isso que a gente gostaria de ver, de entender como é que funciona a questão de hospedagem, planos, espaço, processamento, esse tipo de coisa. Mas o que a gente gostaria de... de conhecer, ver como é que funciona, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Boa, show de bola. Vou compartilhar a matéria [PESSOA] com vocês, tá? Hoje vocês rodam tudo local ou vocês rodam em alguma nuvem já?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4309,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [EMPRESA] em nuvem. É em nuvem, mas dá para se considerar que é local, porque é um parceiro nosso aqui na região, né? E aí a gente tem praticamente uma extensão da nossa rede aqui, mas é uma nuvem. Boa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5582,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: é um co-location, [PESSOA] é isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Isso, basicamente isso daí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Show de bola. Vocês estão usando em cima de VE? Bora o Hyper-V.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5061,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Ô,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [PESSOA], a gente tá usando em cima de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5815,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [EMPRESA], tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [EMPRESA], legal.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: vocês usam SQL ou vocês usam Oracle?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: SQL.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: O que é a nuvem da [EMPRESA], [PESSOA]? Eu vou tentar ser bem breve e resumido nessa parte mais conceitual. A gente tem um produto de nuvem da companhia, que é o maior negócio da [EMPRESA] hoje. A [EMPRESA] tem mais de 600 negócios, o maior é o de nuvem. Nós somos a maior nuvem brasileira. Acho que todo mundo sabe que a [EMPRESA] é a maior empresa de tecnologia da [LOCAL]. Mas nem todo mundo sabe que a gente tem a maior nuvem do [LOCAL]. Para vocês terem ideia, a gente tem hoje mais ou menos na faixa de quase 100 mil servidores virtuais. Esse é o tamanho da nossa nuvem em números. [PESSOA] é quase 100 mil VMs. A gente está falando de 7 peta de dados. um time de pouco menos de mil pessoas para gerenciar tudo isso. [PESSOA] a gente acaba tendo muita automação por trás. A nossa nuvem hoje ela fica em três data centers espalhados pelo [LOCAL]. Ficam dois em [LOCAL] e um no [LOCAL]. O datacenter do [LOCAL] é mais para clientes que no [LOCAL] a gente tem uma base muito forte de [LOCAL], tem muito conector de baixa latência e tudo mais. [PESSOA] funciona específico para lá. Restante, todo mundo se conecta nos datacenters que a gente tem em [LOCAL], tá? E tem um em [LOCAL] e outro em [LOCAL]. Nossos datacenters, eles ficam rodando em... complexos de grande porte, que são os mesmos onde roda a AWS, onde roda a Azure, onde roda a [EMPRESA], onde roda vários concorrentes. E a gente tem um espaço lá dentro. O que é a da [LOCAL]? A tecnologia e os equipamentos. [PESSOA] a [LOCAL] tem seus equipamentos próprios, que a gente troca isso a cada ano. A nossa infraestrutura toda hoje é baseada em [EMPRESA]. Somos um dos maiores compradores da [EMPRESA] da [LOCAL]. E a gente tem uma estrutura muito robusta para poder atender. E aí sim, voltando às novidades que eu coloquei aqui. para atender a premissa do mercado. O mercado fala que o futuro vai ser nuvens de propósito específico. A [EMPRESA] rodando nuvem da [EMPRESA], o Proteus da TASURA rodando nuvem da TOTUS, a [EMPRESA] rodando nuvem da [EMPRESA], [LOCAL] rodando nuvem da [LOCAL]. Esse é o futuro do mercado. É o que o [EMPRESA] já preveu há uns anos atrás e o [EMPRESA] continua prevendo que isso está se concretizando. [PESSOA] a [LOCAL], para entrar nessa jornada, a [LOCAL] construiu toda essa nuvem. A gente já tem essa nuvem há muito tempo, há mais de 10 anos, mas agora que a gente tem uma oferta robusta, nem sempre foi assim, a gente teve muito problema no começo, mas agora a gente tem um modelo muito estruturado. Tem um estudo de viabilidade para que a gente tenha um data center no sul do [LOCAL], em breve, acredito que por volta de 2030. E hoje a gente tem um modelo separado em todas as três ofertas de cloud de mercado, pessoal. O primeiro deles é o [EMPRESA] [PESSOA] eu já tenho alguns produtos SaaS, como é o caso do WMS, SaaS, é o caso do [EMPRESA] Station. Não sei se vocês usam alguma coisa SaaS da [EMPRESA], [EMPRESA] Station, Feeds.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Não, não, hoje não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3821,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: gente tem vários produtos da [EMPRESA] que já são SaaS, tá? [EMPRESA] é um caso, né? [PESSOA], [EMPRESA] você contratou, você bota o login e sai usando. Você não tem acesso ao banco, você não versiona nada, você não customiza arquivos, tudo fica com a [EMPRESA]. E a TOTOS tem o modelo do meio, que é o PASS, que é o Plataformas da Service, para rodar produtos da TOTOS que a gente não pode amarrar no [EMPRESA] É o caso do Proteus, DataSuite, Tor, [LOCAL], que são produtos onde são RPs dos clientes. Eu não posso obrigar o seu [EMPRESA] a atualizar a versão de forma automática e você não ter o controle disso, porque tem muita coisa customizada, tem muita coisa que é específica para cada negócio. [PESSOA] a gente coloca isso num modelo que é PASS Por que ele é um PAS e não um IAS? Porque a TOTUS gerencia tudo para você. O que fica na responsabilidade do cliente? O que a TOTUS não faz? Customizados. [PESSOA] aquilo que é a [EMPRESA], enfim, vocês continuam mantendo o suporte de vocês. E a janela de atualização. A TOTUS atualiza para você até a revista. Atualiza a ficha, atualiza tudo. Mas a TOTUS não diz quando vai atualizar. Você escolhe a janela. Você fala vou atualizar a produção agora homologação X. A gente vai lá e atualiza na janela que vocês programarem geralmente no final de semana fora de horário para não impactar a produção. Mas essa decisão fica com você. O resto é tudo com a [LOCAL] [LOCAL] atualização de patch manutenção do S.O. tudo com a [LOCAL] parte de EDR e XDR processão de borda Firewall tudo com a [LOCAL]. A disponibilidade do datacenter enfim é uma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: camada Essa atualização que tu falas, ela gera algum custo para o cliente?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Não gera nenhum",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: custo. Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: falando das releases, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Isso, isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: gente não gera nenhum custo, tá? Isso tudo por parte da top. A TOTUS atualiza pra vocês isso, porque a gente tem muita automação por trás, [PESSOA] o processo não é caro pra TOTUS pra fazer, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: o cliente tem que testar. [PESSOA] você vai falar, [PESSOA], atualiza a homologação, eu vou atualizar. Aí você vai fazer os testes, e você vai dizer, ó, testei, ajustei o que tiver que ajustar no customizado, pode virar a produção domingo, três da manhã. A gente vai lá domingo, três da manhã, e vira a produção pra você, tá? Mas isso não tem custo nenhum. Nenhum tipo de atualização tem custo, tá? A gente tem um modelo muito simplificado, que toda essa parte de serviço já está embarcado junto, você não paga nada mais. [PESSOA] ele só não é um SaaS, porque tem essa questão de customização, você tem acesso ao banco de dados para você fazer consultas, conectar um Power BI, fazer uma integração [PESSOA], você tem essa permissão, que no SaaS você não teria, por isso que eu não posso dizer que é um SaaS, [PESSOA] ele é esse modelo intermediário que é um [EMPRESA] Para sistemas que não são da TOTOS, eu tenho uma terceira oferta que é o IaaS, que é uma infraestrutura convencional, como se você contrata uma VPS da AWS, do Wave, de uma nuvem privada, enfim, que é onde eu te comercializo a VM e você coloca o que você quiser, para você instalar as coisas que são satélites. A gente fala que não pode levar a mãe sem levar outro filhinho, né? Senão ele fica chorando. [PESSOA], a mesma coisa. Aí eu tenho o Proteus aqui, mas eu tenho um sistema de catraca, que é meu, que ele é embutido no Proteus. Pra não ficar ele no local ou numa outra nuvem e o sistema do Proteus na top dessa latência atrapalhar a performance, você pode contratar uma VM extra junto pra trazer e instalar esse outro sistema como sistema de concorrente, AD, file server, o que você quiser, tá? Inclusive, isso é legal porque exemplifica muito o nosso modelo. A TOTUS hoje, no PaaS, faz tudo para você. Ela gerencia tudo. E quando a gente vai para o IaaS, você não tem tudo. No IaaS, eu te comercializo a VM, mas você atualiza o sistema operacional, você gerencia o acesso, você cuida do FIRO, você tem a obrigação de instalar um antivirus, de configurar o backup, apesar de a gente fazer de forma automática. [PESSOA], tudo isso fica com o cliente. Beleza, pessoal? Alguma dúvida? Consegui ser claro aí nesse modelo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Esse do PAS, a gente consegue acesso ao banco normal, [PESSOA]. Por exemplo, eu vou fazer a instalação lá dentro e vai seguir toda a parte de atualização, mas que nem a gente também tem. Trabalha com Power BI e a gente tem algumas outras aplicações internas. Esse acesso ao banco de dados, eu continuo com ele. Continuo tendo esse acesso como se eu tivesse ele num VPS, em algum endereço separado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Mais ou menos. O acesso ao banco é somente para mexer nos dados. Você não consegue mexer na estrutura do banco a não ser através de chamado. A gente não permite tabelas de dados que não são do Proteus. Você fala mas eu tenho um banco de um customizado que eu faço que não é no [LOCAL]. Aí teria que vir no modelo de [LOCAL]. A gente traz uma VM extra para esse banco. Mas dentro do PAS o [LOCAL] é somente para o Proteus. E o seu acesso vai ser um acesso de CRUD.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Sim, isso sim. Mas, por exemplo, se eu criei uma tabela lá interna, criei lá pelo configurador normal, a tabela está dentro do sistema, eu consigo fazer o acesso dela via uma conexão externa tranquila. Isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Isso aí. Mas aí você tem que mexer pelo configurador.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: você entrar...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Vou logar direto no banco aqui no [EMPRESA], acessar com o System Admin, esse acerto você não teria, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.472,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: a gente já tem, até porque a gente sabe que o Proteus é bem complicado na questão de tamanho de campo, campos, caracteres, [PESSOA] tem toda aquela questão. Já não se tem aplicações rodando em cima dele que fazem inserção no banco ou exclusão diretamente no banco, o que a gente faz é realmente acesso para consultas, digamos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5316,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [PESSOA]. [LOCAL]. [PESSOA] funcionaria da mesma forma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Hoje",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: vocês têm autenticação via LDAP?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCUTOR 25]: nossa autenticação é pelo AD.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [PESSOA]. [PESSOA]. Continua da mesma forma. Não muda nada. Quando você vem pra [LOCAL], a única coisa que a gente habilita um identity no meio, que é o Totos Identity. Não sei se vocês têm isso contratado hoje ou não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Não, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Vocês não tem Fluid hoje na base de você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4452,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Não, Fluid não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [PESSOA], mas isso é algo que a gente coloca junto na proposta, o Fluid para o Identity apenas, porque aí ele vai fazer a parte do SSO, tá? [PESSOA] não só integrar com AD, mas qualquer SSO que vocês queiram ter, como o [EMPRESA] 365, ou com o Google Workspace, né? [EMPRESA] isso, mas a gente coloca junto no projeto, tá? Não tem gávea. E é coisa que é barata também, achei R$ 400 essa licença. O que mais que eu ia comentar com vocês? A parte de licença de banco, tá? A gente já entrega o banco licenciado, no caso do PASC, que é o [LOCAL], eu já te entrego ele licenciado com o SQL Enterprise, tá? Quando a gente vai para o IaaS, aí você pode escolher, ah, eu quero ter um banco extra para o meu sênior. Aí você escolhe se você quer já a máquina licenciada com SQL Standard ou Enterprise ou se você quer fazer o buy-all da sua licença que você já comprou, tá? Se vocês, no projeto, se vocês vislumbrarem um projeto mais pra frente, ele englobaria os outros servidores também, ou não? Ou seria só Proteus?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Não, a princípio seria só Proteus daí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Ah, perfeito. Eu pergunto porque aí eu direciono mais o nosso papo, se eu vou falar bastante do IaaS ou se eu vou falar mais do PaaS mesmo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4594,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: E dentro do PaaS, por exemplo, o modelo que eu mais vejo pra nós, se a gente... se for evoluir, seria algo para o Paz, tá? Dentro do Paz, a questão do gerenciamento das licenças, eu subo um serviço lá, interno, com as licenças que a gente tem, e isso continua tudo igual, porque hoje, na verdade, a gente tem um serviço rodando, a gente tem lá o license rodando, eu tenho as minhas licenças lá atreladas, com a conta da [EMPRESA], e aí o Proteus está conectado nele. Esse serviço continua existindo lá dentro? Como é que ele valida isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5376,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [LOCUTOR 18]: licenças continuam sendo minhas, no caso, porque a gente não tem um modelo de licenciamento que você não compra a licença, você passa pelo faturamento. Isso é o faturamento?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Não, a gente tem as licenças, digamos, compradas ainda. Fugiu o nome agora, como é que chama?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: O tradicional é corporativo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: É tradicional daí no caso. É",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: tradicional.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCUTOR 5]: legal se continuar a partir da licença não muda nada. [PESSOA] que você tem e você quiser comprar mais você compra mais os mesmos preços. Isso não muda nada com relação aos ambientes. Quando você vem para o [EMPRESA] eu te entrego dois ambientes de produção e um de homologação na parte do Proteus um de homologação e um de produção na parte do TSS. Se você tem TSS transmite. [PESSOA], a gente entrega da mesma forma e eu te entrego um servidor de License Server. [PESSOA] você só loga com a sua conta no servidor de License Server, a conta da [EMPRESA], e traz as licenças pra lá. [PESSOA], dessa forma. Tem um License Server igual, mas ele roda num servidor de License Server da [EMPRESA] também. Ah, entendi.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Como que é a precificação, tá, [PESSOA]? Hoje vocês contratam a [EMPRESA] por licença de usuários, certo? Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: a gente compra licenças no caso, a gente tem licenças Lite, licenças Full lá, e hoje ele é esse.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Tá, perfeito. Quando você vai para a novidade da [EMPRESA], isso continua da mesma forma, mas a [EMPRESA] é precificada por conexão de usuário. A gente fala que tem três métricas na [EMPRESA], que é cobrado no [PESSOA], que a gente chama. É por conexão de usuário e conexão de API. E lembrando que cada usuário pode ter três ou quatro conexões, que ele pode abrir o compras, pode abrir o manufatura, pode abrir o financeiro, cada módulo conta uma conexão. [PESSOA] a gente faz um estudo, e isso tudo a gente levanta tecnicamente com vocês um acerto, para a gente não vender conexão a mais ou a menos do que vocês precisam. Mas o modelo funciona assim. Conexão de usuário, [PESSOA] eu vou te cobrar para 100 conexões de usuário. Quanto de CPU e quanto de RAM vai estar na máquina? A tops que se virem, vai ser o suficiente desses 100 usuários. Ah, mas se eu tiver uns usuários aqui que geram 10 relatórios ao mesmo tempo e tranca todo o sistema, tem que botar mais CPU e mais RAM. A TOTOS vai colocar. [PESSOA] o modelo de especificação da TOTOS já prevê isso, que a gente vai ter que colocar o que precisar de recurso para a quantidade de conexões que vocês contratarem. [PESSOA] são as conexões do usuário, as conexões de API, [PESSOA] quantos servers de API você vai ter, [EMPRESA], POP, né? tamanho de dados do banco, [PESSOA] quantos gigas tem o seu banco de dados, e volume de documentos trafegados no TSS. Essas são as métricas que você vai ter, tá? Quanto ao uso de recurso, a [EMPRESA] vai empregar o que precisar para entregar dentro dessas métricas contratado, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [PESSOA] as licenças que eu tenho, na verdade, elas deixam de ter validade, isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5467,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Elas têm validade igual, uma coisa não tem nada a ver com a outra. Você tem os dois limitadores.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Por exemplo, hoje eu tenho 103 licenças ao total, certo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.402,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Vou dar um exemplo. Você tem 103 licenças, legal. fica limitado a 103 usuários conectarem simultaneamente dentro do protesto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: a gente vender três conexões por usuário, a gente tá falando que cada usuário poderá abrir três módulos ao mesmo tempo. Se todos os seus 103 usuários abrirem três módulos ao mesmo tempo, cada um, você atinge os 319. E aí você tá no limite de conexão. Da mesma forma que você pode ter 103 usuários conectados, [PESSOA] você tá no limite de usuários conectados, você precisaria de mais licença para ter mais usuários. Mas cada usuário seu acessou um único módulo cada um. [PESSOA] você tem 103 usuários, 103 conexões. Ainda tem 200 e poucas disponíveis. São duas métricas diferentes.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCUTOR 14]: dos usuários continua valendo por usuários conectados. E da mesma forma, você pode ter 10 usuários conectados. e cada usuário abriu 50 módulos cada um. Não tem isso, mas se fosse, excederia as 300 conexões contratadas. Entendeu? Sim, entendi.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Você vê que é bem complexo, mas a métrica acaba sendo assim. Os licenças que você tem limitam seus usuários a serem conectados e as conexões de cloud limitam a quantidade de módulos que vão ser abertos ao todo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5609,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Sim. É, hoje a gente faz essa limitação, na verdade, mas aí, claro, ele acaba consumindo uma licença de cada usuário. Eu limito o usuário a acessar, por exemplo, duas abas ou três abas ao mesmo tempo. [PESSOA], sim, se ele entra em três abas, ele tá consumindo três licenças.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 27]: entendi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Tá, porque nem todas são full, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Não, não, eu tenho 40 licenças full e o restante são lights daí, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [EMPRESA]. É, esse exemplo, eu dei se fossem todas full, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5016,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 24]: sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 27]: sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Mas a lógica é essa, tá? E aí quando a gente fala de TSS, [PESSOA] é pelo volume de documentos, né? Ah, 200 mil notas ao ano. [PESSOA]. Você tem 200 mil para emitir durante o ano e a [EMPRESA] vai",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: também... O TSS eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: preciso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: contratar ele por volume de nota fiscal dele.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 27]: documento. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: No [PESSOA], o TSS era pelo volume total de documentos transmitidos no ano.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: E esse documento vocês contam no TSS, por exemplo, as transmissões do [EMPRESA]. Entra também nesse pacote?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Entra também, tá? A gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: que passa pelo TSS, transmit,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: pelo CPF.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: RH também cai [PESSOA] dentro dessas transmissões, hein? Porque o [EMPRESA] acaba passando pelo... o RH",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: acaba",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: passando pelo [EMPRESA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Eu não sei a lista exata de quais são os documentos, mas eu sei que tudo passa pelos três,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4609,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: ser contabilizado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [EMPRESA]. Bom,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4708,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: a gente faz um assessment. Isso é algo que não tem custo. A gente faz uma agenda de uma hora, entra o nosso especialista em Proteus e o nosso especialista em SQL. Eles vão pedir pra vocês rodarem alguns comandos lá no License Server, enfim, pra levantar essa volumetria. E aí a gente já fala, ó, você tá utilizando 300 mil documentos por ano. A gente vai montar um projeto pra 350, [PESSOA], pra ter uma gordurinha.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5089,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCUTOR 22]: não vender",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: a mais e nem a menos e depois faltar também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Ah, entendi. Antes a gente comentou a questão do banco de dados. A gente comentou, vou precisar de um processamento X ou Y, vou precisar, por exemplo, base de dados. Hoje a nossa base está em 1.3 terra. Essa base aumentando, isso é o custo que está dentro? A gente não precisa se preocupar com isso? Como é que funciona?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4803,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: O tamanho do banco que você fala?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [PESSOA], a gente faz sempre um projeto com uma gordura,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [PESSOA] o time ele vai dizer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: ó,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: geralmente eu que vou apresentar pra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4394,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: você,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: tá? Eu vou te dizer ó [PESSOA], a gente olhou aqui pro time de [LOCAL], teu banco tem 1.3, eu vou te vender 1.5, você tem uma gordurinha. Quando tiver 1.45 a gente te liga. Fala [PESSOA], tudo bem? Tá aumentando o teu banco, vou botar mais 6GB, mais de 100GB. [PESSOA] a gente vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: aumentando isso. acaba impactando no valor da licença também. [PESSOA] o valor do mensal do recorrente mensal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Exatamente isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Da mesma forma processador também ou não processador memória",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: processamento e memória a gente não limita a usar o quanto precisar. Por isso que a gestão do banco é nossa e o nosso [LOCAL] também vai otimizar o banco de vocês provavelmente gastar menos recurso e ter mais performance com menos. para que a gente também possa ter esse equilíbrio financeiro dos projetos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Ô, [PESSOA], só uma pergunta. Essa limitação de memória, processamento, isso fica alocado para o servidor? Ou ele é compartilhado com outras VMs que estão dentro da nuvem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [PESSOA], essa é uma pergunta muito boa, sua pergunta, que nem palestrante agora. Qualquer pergunta, você é muito boa, sua pergunta. Mas isso é legal porque eu já ia chegar nessa parte. A gente tem, dentro do nosso modelo aqui, três modelos de oferta. Deixa eu achar onde é que estão os modelos de oferta. Acho que não estou nesses slides, mas enfim. A gente tem três modelos de oferta. O modelo standard, compartilhado, que é para cliente que tem 4 ou 5 usuários, onde ele divide o banco, divide a aplicação com outros caras. Aí está cinco empresas na linha da VM, tem esse modelo, mas ele é modelo para pequenas empresas. Depois a gente tem o modelo intermediário, que é o modelo dedicado, onde você tem VM exclusiva para aplicação e para banco e você não divide recurso com outros clientes. E a gente tem o terceiro modelo, que é o modelo Prime, onde além de você ter servidores eu te entrego autodisponibilidade. [PESSOA] eu te entrego replicação do nó primário para o nó secundário, na camada do meu virtualizador, para que você tenha esse HA. E aí se cair o nó primário por qualquer motivo, falha de hardware, enfim, o nó secundário assume e você tem um [EMPRESA] e um [EMPRESA] muito rápido nisso. Em poucos segundos você volta a operar e você não tem perda de dados. O que a gente fala é que os dois estão ativo-ativo, os dois ligados ao mesmo tempo, com os dados replicados que fazem o tempo real. [PESSOA] no Prime eu te entrego essa questão de alta disponibilidade e tudo mais. E aí já muda um pouco o nível do negócio. Você pode inclusive contratar uma replicação geográfica para um outro datacenter. Quem contrata é mais quem tem a obrigação legal de ter isso. Porque o nosso auto-disponibilidade, ele já, por mais que é no mesmo data center, ele já é em zonas separadas, ou seja, eu já tenho andares separados no mesmo prédio, já tem todo um isolamento físico dos ambientes. Mas eventualmente pode um hardware parar, enfim, e aí por isso que a gente oferta o auto-disponibilidade no Prime. Outra coisa que é interessante no Prime é que no modelo estándar, seja compartilhado ou seja dedicado, o atendimento ele via portal de chamada. Quando a gente vai para o Prime, o atendimento não é via portal de chamadas. Ele é através do WhatsApp do Engenheiro Prime. [PESSOA], você tem o telefone do Engenheiro Prime, que ele é um líder do time de suporte, você fala somente com ele direto no WhatsApp. E você tem o número do cara. Você pode ligar direto para o cara, pode chamar ele no WhatsApp, a hora que for, 24 horas, se ele não te atender, ele está de plantão, ou ele já te direciona a casa esse final de semana, eu estou fora do plantão, o fulano está no meu lugar. [PESSOA], você tem o Engenheiro Prime que vai te atender. [PESSOA] muda o [EMPRESA], é bem mais rápido, é sempre a mesma pessoa. Esse grande problema hoje de abrir chamada é cair no [LOCAL], que chegou ontem na [LOCAL], não sabe nem se é de comer ou de passar no cabelo, né? Até ele descobrir que ele não sabe chamar o [LOCAL], já deu um BO danado e você tá muito tempo parado. [PESSOA] o Prime, ele te dá essa senioridade de você falar com a mesma pessoa, é um cara super experiente e ele agiliza pra você sem precisar abrir chamada e tudo mais, tá? [PESSOA] tem esses três modelos, né? Pra você, eu já vejo que o Prime é o mais recomendado pelo tamanho do pote da empresa e tudo mais. [PESSOA] já pensa em ir. Alta disponibilidade e atendimento de engenheiro Prime, tá? Beleza, pessoal. Posso dar sequência aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Pode.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Isso aqui é só uma exemplificação, [PESSOA], do modelo que a gente falou, tá? Quando você vai pra qualquer nuvem, todo mundo vai te entregar um modelo de [PESSOA] Eu te subo a VM aqui na AWS, a AWS tem a EC2 lá. Deu pau no Proteus, não adianta nem se ligar lá, os caras vão dizer ó, meu contrato é da EC2, a EC2 tá rodando e você vai botar lá dentro a responsa sua. No nosso modelo [EMPRESA], é tudo com a [LOCAL]. A [LOCAL] ela vai assumir uma responsabilidade contratual com vocês, de performance e disponibilidade da aplicação, não dos servidores. [PESSOA] a [EMPRESA], você vai ter a garantia que o Proteus vai estar rodando com as telas carregando em poucos milissegundos. Se isso não acontecer, você pode já chamar um engenheiro prime ou incomodar a [EMPRESA], que a [EMPRESA] tem a obrigação de manter isso funcionando. Bom, a gente tem uma console de segurança completa, tá, galera? Mas falando de forma rápida sobre isso, eu te entrego várias certificações. Primeiro o Tier 3, que é uma certificação de disponibilidade, mas eu também te entrego o [EMPRESA], a própria [LOCAL] de privacidade de dados, várias certificações de processo, 27001, 27001, 9001, várias isos de processo eu te entrego também. E isso tudo eu te entrego num documento dizendo que você tem o seu ambiente certificado. Se por ventura vocês precisarem certificar alguma coisa internamente e vocês olharem e me falarem, espera aí. Boa parte das coisas que estão me pedindo para eu validar na [EMPRESA], eu já tenho certificado pela ISO 9001. Você pode usar um documento da [EMPRESA] falando isso aqui, já está feito. [PESSOA], se você precisar, as certificações valem para vocês também, tá? Bom, parte de file. Todo o nosso file de borda hoje é baseado em [LOCAL]. Eu te entrego o gerenciamento todo através da console do [PESSOA], tá? A gente trabalha com [EMPRESA], [PESSOA] é tudo bloqueado o tempo todo para todo mundo, mas vocês podem ir definindo algumas permissões, tá? Abrir uma porta de banco, abrir um acesso lá, você pode criar acessos no [PESSOA] para a parte de infraestrutura. E a gente tem uma equipe, no caso, essa equipe vai montar um relatório periódico, vai passar para o Engenheiro Prime de vocês. O Engenheiro Prime vai apresentar para vocês periodicamente, falando, olha, [PESSOA], Lembra que você falou que pediu para ter mais acesso no [PESSOA]? Cara, tem um usuário que não acessa seis meses. Vamos derrubar o acesso desse cara? Você abriu a porta do banco para a internet. Vamos fechar e colocar por uma VPN, o acesso é certamente pela sua unidade, de forma controlada. [PESSOA], esse tipo de recomendação a gente trata para vocês. O que mais? Parte de proteção de borda, a gente também trabalha com a Cloudflare. [PESSOA], hoje a gente tem uma proteção muito completa da Cloudflare para a parte de anti-DDOS, o WAF. Porventura vocês falam, ah, eu quero abrir o meu acesso ao Proteus, eu quero abrir eles para a internet. [PESSOA] a gente aplica uma parte de WAF na borda, você tem controle de quais países vão ter acesso, você tem vários tipos de proteção. Parte de EDR e XDR, proteção dentro dos servidores. A gente trabalha com o CrowdStrike hoje, que é o nosso grande parceiro. E a gente aplica vários recursos, tá? Um deles que é muito avançado, e isso é muito legal, só rodam scripts executáveis que são na transferência da TOTOS. Se você quiser rodar qualquer coisa, ela não vai rodar. Se não estiver na transferência da TOTOS, assinado pela TOTOS, não vai rodar. [PESSOA], isso é uma proteção muito legal que a gente traz. Parte de backup. O backup é feito em três zonas apartadas. Eu faço o backup e a disco quente, que é o mesmo disco de produção, para que eu possa fazer um restore de forma rápida. Eu também faço um backup num outro datacenter separado e uma cópia no outro fornecedor fora do [LOCAL]. Esse backup tem retenção de cinco anos. Você pode voltar no tempo qualquer dia, seja a VM inteira, seja um documento, seja um registro do banco, de qualquer data dos últimos cinco anos. O nosso backup também tem imutabilidade. [PESSOA], se porventura o [PESSOA] pegar os servidores, não vai chegar nos backups, eles são imutáveis. Se der a louca lá também no CTO da [LOCAL], ele fala, ah, vou deletar tudo de todo mundo. Não vai conseguir, ninguém consegue deletar os nossos backups. O que mais? A gente entrega também a parte de... Estava falando da parte dos backups e fugiu agora o que é. Mas eu vou lembrar logo, eu falo para vocês. Questão de gerenciamento, sustentação da TOTOS. Todos os dados, eles têm uma proteção muito forte. A TOTOS, ela não tem acesso aos dados de vocês, seja no time de suporte, seja outro cliente, enfim. [PESSOA], tem uma parte de criptografia também e somente vocês com as chaves de vocês vão poder acessar os dados, tá? Pessoal, a gente tem um, enfim, é uma gama completa de serviços de segurança, tá? Hoje é o maior investimento da companhia. A companhia investe muito. Para vocês terem ideia, o ecossistema de cloud como um todo tem pouco mais de 10 anos e a gente vai chegar ao final de 2026 com 1 trilhão de reais investidos. E não é balela do [PESSOA] não. Isso está no relatório que vai para a [EMPRESA]. A gente é uma empresa de capital aberto. No último relatório a gente está na projeção de um trilhão de reais investidos em cloud até o final de 2016. Isso é muita, muita grana. É muita coisa de ponta. Lembrei o que eu ia falar. A gente tem uma proteção a [PESSOA] a nível do [EMPRESA]. Nossas [EMPRESA] dois são da [EMPRESA], a gente tem um recurso de anti-[PESSOA] da [EMPRESA], que ele detecta uma anomalia na taxa de gravação e subscrição de dados no disco. Se for compatível com o [PESSOA], ele isola o disco e tira da rede. [PESSOA], a gente atende... Isso tudo aqui pra vocês terem uma ideia, é pra que a gente possa fazer isso aqui, cara. Pra que a gente possa atender essas grandes contas. [PESSOA] a gente atende muito clientes de grande porte. [LOCAL] acaba de sair um novo case no mercado do [LOCAL]. Vocês lembram que o [LOCAL] foi invadido e teve renda por um tempo atrás, né? A partir daí eles tomaram a decisão de migrar para o 90 [LOCAL]. Hoje a gente tem um ambiente muito robusto. Para vocês terem ideia, eles têm todas as agências do [LOCAL] conectadas com uma fibra direta no 90 [LOCAL]. Para cada uma das agências do [LOCAL], que eles precisam de baixíssima latência, tem uma interconexão direta com a [EMPRESA], [EMPRESA] isso é possível porque a gente tem um ecossistema muito robusto. A gente atende a embaixada americana. Vocês têm ideia? [PESSOA] você fala, mas isso tudo vocês fizeram para atender todos os clientes? É, boa parte foi por causa da embaixada americana, porque esses caras são muito criticos. Seria a ideia de um dos poucos clientes que eles fizeram um pen-test muito agressivo nos ambientes antes de fazer a migração. Aposto que não faz pen-test, mas ela permite que o cliente faça. É",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: negócio muito robusto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Essa questão da latência que você comentou, [PESSOA], Qual que seria a latência, a máxima que a gente poderia chegar? E outra pergunta é se vocês têm alguma parceria com alguma operadora para ter essa latência o mais baixa possível, né? Por exemplo, um [EMPRESA], alguma coisa desse tipo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [PESSOA]. Quando a gente fala de latência, não tem como eu te dizer a máxima, né? Vai dar uma louca no link aí e você tem uma latência altíssima. A média hoje no [LOCAL] tem em torno de 30 milissegundos, tá? A latência média que a gente tem é entre 30 e 40. Agora, com relação à parte de conectividade, qual é a vantagem disso, de ter ido para o Nubida [LOCAL]? É porque a [LOCAL] roda no maior complexo de data centers da [LOCAL]. 50% do tráfego da internet passa por esses data centers. [PESSOA], eu tenho uma interconexão de nível absurdo. A gente tem mais de 300 operadoras interconectadas e a gente tem uma coisa chamada [EMPRESA], que é um produto que a [LOCAL] comprou da rede de data centers que a gente tem, onde a gente não tem um operador específico. Eu tenho todas as trezentas e poucas operadoras que estão conectadas. A que tiver a menor latência para a sua conexão vai ser a que a gente vai utilizar. [PESSOA], periodicamente, esse [EMPRESA] faz testes de latência com várias rotas e se ele descobre que a rota agora da [PESSOA], melhor que a da [EMPRESA], todas as suas conexões vão passar a sair pela rota da [PESSOA]. [PESSOA] tem isso. [EMPRESA], tem muita coisa por trás, mas, por exemplo, o que que traz velocidade no Proteus rodando? Agora aqui a gente está na versão web, né? A gente tem a borda com a Cloudflare que tem aceleração de conteúdo. Não sei se vocês já ouviram falar sobre CDN, aceleração de conteúdo. Você mantém praticamente o cache dos dados que são estáticos, né? E quando a gente fala de um Proteus da vida, é tudo estático. O que que é? Não é estático. É os dados do banco, né? É os dados do cliente, mas as telas, elas são estáticas praticamente. [PESSOA] a gente trabalha com uma vantagem de aceleração de contudo muito forte também. Enfim, a gente vem tendo uma boa experiência, tá? Não era tão boa assim quando a gente tinha um modelo na versão 23 para trás, né? Aí você ainda tinha o Smart Client, tinha alguns problemas. Hoje, quando a gente vai para 2510, que é o Web, funciona que é uma maravilha. Talvez você tenha que ter alguns pontos de atenção. Se você tem alguma coisa de [LOCAL] com máquinas integradas, com algum robô integrado, isso a gente pede um ponto de atenção. Mas o nosso assessment, quando a gente faz com vocês, o nosso time roda vários scripts e mapas. ele mapeia tudo isso pra vocês. Ele traz todos os",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: pontos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: de atenção.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: fala, cara, vê que você tem uma conexão aqui que é sensível à latência. Essa conexão aqui pode ser que dê problema. Esse tudo a gente traz pra vocês também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Dentro dessa parte do [LOCAL], agora que tu tocou no assunto, na verdade, hoje a gente não tem. Mas a gente até tem uma apresentação da [EMPRESA] sobre a questão de [LOCAL]. O que a gente deveria cuidar nesse sentido.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Qual que é a utilidade da [LOCAL] que vocês vão ter?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5026,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Na verdade, é para automatização. Hoje, o nosso processo é muito manual. Aqui na [EMPRESA], a gente tem Proteus, [LOCAL], a gente tem há mais de 30 anos. A gente vem lá da época do [EMPRESA] ainda, que eram telas DOS, [PESSOA] a gente vem nesse caminho. Só que, nos últimos anos, a gente veio deixando de fazer ou implantar alguns serviços e a gente vem ficando um pouco desatualizado na questão de utilização do Proteus. [PESSOA] agora a gente quer dar um trabalho bem forte para se, não vou dizer implantar o Proteus, mas passar a implantar ou começar a utilizar algumas ferramentas que a gente não vem utilizando e vem subutilizando o Proteus. [PESSOA], uma das etapas é justamente automatizar algumas tarefas que a gente sabe que pode ser feita via um robô ou alguma coisa que eu estou com um usuário, estou pagando uma pessoa para estar ali na frente da máquina e está fazendo uma tarefa que eu poderia automatizar. [PESSOA], muito nesse sentido. Tá,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: boa. Qual que é o ponto de preocupação? Se você tiver no plano de ter um [EMPRESA] conectado nas máquinas e aí você ter o IoT que comunica direto com o Proteus. A gente recomenda que você tenha uma conexão direta. E não quer dizer puxar um cabo de fibra da [EMPRESA] até o data center. É ter uma rota exclusiva. Tem várias empresas que vendem isso no mercado hoje. [LOCAL], por exemplo, é uma delas. É um produto que vai custar na faixa de uns mil reais por mês. Mas você tem uma rota exclusiva. Isso resolve esses problemas. A gente tem vários clientes no [LOCAL] que utilizam. Se não me engano, a própria [LOCAL] trabalha nesse modelo também, [EMPRESA]. E aí, quando você contrata isso, você resolve esses problemas de rota. Que não é que não funciona, mas você não pode ficar mal, gente, e daqui a pouco o link de internet deu pau, e aí você não consegue operar a máquina, né? [PESSOA], você ter a rota exclusiva te traz uma vantagem muito melhor pra esse ponto, tá? Já te deixo falar, [PESSOA], outra coisa que eu acho importante é, quando você vem pra nuvem da [LOCAL], você tem muita coisa que você pode automatizar com o [LOCAL]. E aí você não precisa do [LOCAL] propriamente dito, tá? A [LOCAL] é muito mais barata do que o [LOCAL] e ela automatiza pra você muita coisa. [EMPRESA], com a exceção do [EMPRESA]. Se eu quero conectar dados da fábrica, eu quero que... a minha máquina esteja integrada com o Proteus, eu não preciso ter que imprimir uma OP, entregar para o operador e tudo mais, aí tem que ser [LOCAL]. Mas se há uma automação lógica dentro do sistema que não comunica com as máquinas da fábrica, AIA tem um monte de coisa. Acho que o pessoal que vai te apresentar o [LOCAL], eles vão comentar sobre isso. Obviamente migrar pra nuvem é um dos passos antes de ter a [LOCAL], né? Mas tem muita",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: coisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: legal, cara. Tem até um slide sobre isso aqui, ó. Que a gente fala sobre o que já tem pronto, tá? Supervisão financeira, auditoria de folha. Hoje o RH deve perder um tempo pra verificar as folhas por amostagem antes de liberar o pagamento no dia 25,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: pra ver",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: se não tem nenhuma cagada, nada, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Sim, sim. Hoje é tudo na mão. Na planilha",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4143,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: um pouco",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Você elimina o risco. Primeiro que o gerente de RH, ele não tem o olho de águia. Às vezes ele pode passar abatido alguma coisa e depois o funcionário, [PESSOA], cara, eu recebi isso e não tinha. Faltou tal coisa na minha folha. Esse tipo de coisa, a gente já faz tudo isso para você de forma automatizada. E aí, como ele é por demanda, ele é mais barato do que o [LOCAL] para fazer isso. [PESSOA], mas o pessoal do [LOCAL] explica isso no detalhe para vocês aí quando for visitar vocês. Fale [PESSOA]! T",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: me ouvindo agora? Show!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4084,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Ah, agora?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: Aproveitando o gancho ali do [EMPRESA], que ele perguntou sobre a latência, né? E até a questão que tu colocou da [LOCAL] ali com ligação de fibra, né? O que que é a minha dúvida? Ou por exemplo, a gente tá ligado, provavelmente deve estar no X ali, os colocations de vocês, o hardware, enfim, X [LOCAL], por ali, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Na verdade não, porque o [LOCAL] não tem processamento de dados. Hoje esse complexo pertence a [LOCAL], que é o maior consultorio do centro da [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4944,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: [LOCUTOR 17]: [LOCAL] só conecta. Só faz o ponto de troca.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 28]: exemplo, rompeu a fibra no meio do caminho. Como é que funciona essa questão de redundância, tempo de subito? Tem alguma coisa nesse sentido? Porque hoje, como o [PESSOA] falou no início, Nós temos aqui local, cara, nós temos tripla abordagem ali, temos o contato direto do cara, sobe a fibra, faz a fusão ali, é pipe 1, tá tudo certo. Como é que é essa parte também de segurança? Você fala da parte de conexão dos links?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5256,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Como a gente tem o [EMPRESA], é tudo automatizado. Seguido cai. Cara, a gente tem 300 operadoras justamente porque seguido vai cair, tá? Todo dia cai uma ou duas, arrebenta um cabo, enfim. Automaticamente ele já faz com milissegundos. O teu usuário tá conectado no link A, o link A caiu. Vai deslogar os proteus dele, ele só dá um logar de novo e já voltou no link B. [PESSOA] isso tudo é automatizado do nosso lado, tá? Do lado de vocês, imagino que vocês vão querer ter [EMPRESA] e IPsec pra criptografar o tráfego. e a gente libera o acesso através da VPN para vocês. Minha recomendação é que vocês tenham dois ou três túneis, um para cada operadora e trabalhe com o BGP ativado no Firewall de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 35]: Aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: você tem o balanceamento automático, você tem a troca automática dos túneis. Pelo menos essa é a melhor estratégia.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: Não, perfeito. Muito obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: O maior problema vai estar na nossa ponta com a operadora que a gente trabalha. E onde que a gente precisaria ter, hoje a gente tem duas operadoras, na verdade teria que ter no mínimo três, né, pra que consiga ter o serviço sempre no ar, né.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Vocês têm um mapa de ponto das operadoras?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não, não temos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Isso é uma coisa que seria legal, de pedir pras operadoras e falar, cara, quais são os mapas de ponto de contato? Porque assim, às vezes você tem duas operadoras, mas chegou em [LOCAL] e junta tudo só um tronco da [EMPRESA]. Se aquele tronco da [EMPRESA] cair, você perde as duas. Para você ter operadoras que tenham rotas bem distintas. E principalmente quando a gente falar da serra, tem muito isso. Tem cinco operadoras, mas todo mundo usa velã de uma rota da [EMPRESA] e sai só dela, de [PESSOA], por exemplo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: eu te conseguir o SN, a gente pode olhar ali. Eu consigo ver o mapeamento hoje que eles estão ocupando.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4547,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Tá boa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: Já j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: mata um pedaço aí. É",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: isso aí porque no final das contas não quer dizer que vai cair mas é bom que você tenha isso mapeado para você saber qual que é o seu risco.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 35]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 24]: para você. Todo o estado do [LOCAL] e tem apenas três conexões com [LOCAL]. São apenas três rotas com [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: [LOCUTOR 6]: rotas pertencem a [EMPRESA] a [EMPRESA] e a [EMPRESA]. Todos os outros ficam abaixo dessas três rotas. Não tem outras conexões fora do estado que não sejam essas três. [PESSOA] a gente no final das contas vai acabar ficando na mão de três. Mas ainda assim muita gente aqui consegue melhorar para a nuvem. Essas três são muito bem estruturadas. Mas está melhorando bastante. Cada vez mais eles estão evoluindo nisso. Algum ponto mais? Ficou faltando eu falar um pouco a respeito de alguma coisa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4968,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Acho que assim, de forma geral, deu para entender como funciona, qual é a estrutura, quais as opções de imigração, porque a gente viu bastante coisa, alguma coisa com outros consultores, outras coisas no YouTube, mas agora deu para entender bem, que eu acho que O plano que se encaixaria para nós seria o quase mesmo, dentro do que a gente viu. [PESSOA], eu acho que, de repente, a gente poderia fazer um trabalho de, pelo menos, a gente ter uma noção de investimento, que aí, de repente, se torne algo que a gente poderia estar evoluindo, talvez, colocar num orçamento no próximo ano, para a gente pensar em evoluir essa questão. A gente falou hoje, a gente está com um parceiro local aqui, a gente tem um acesso direto com ele, a gente tem toda uma infraestrutura montada com ele, mas nada impede de a gente estar evoluindo, até porque a gente precisa colocar na balança essa questão da automatização, também com o [LOCAL], [PESSOA], tem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: v",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: pontos aí que a gente, de repente, tem um investimento um pouco maior, mas que a gente vai ganhar na outra ponta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5295,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Exatamente. Eu acho que assim não custa nada vocês terem isso na mão. A gente precisa para montar uma proposta para você a gente passar pela etapa de acesso a uma agenda de uma hora com o nosso time técnico. A única coisa que precisa é que quem esteja na agenda do lado de você seja quem tem acesso ao banco acessar o servidor de aplicação ou license server em si. para a gente poder rodar alguns comandos em conjunto e poder mapear o tamanho do banco, as conexões que tem, se tem algum ponto de atenção. E aí com isso gera um relatório que a gente senta, eu e o [PESSOA] com calma, a gente apresenta isso aí para vocês, para vocês saberem quanto vai custar, at",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: saber...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Eu tenho noção de quanto tudo vai custar. [EMPRESA] é bonito, tudo é legal, mas tudo tem um custo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.478,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Exatamente, [PESSOA]...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Não adianta eu chegar na mesa do... da direção lá, isso vai me custar R$3 milhão, aí vai me jogar na janela abaixo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [LOCUTOR 8]: falar que a [EMPRESA] sempre quer tudo, não é, cara? Vai facilitar para mim? Vai. [PESSOA] manda para dentro, tudo eu quero. Agora quem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4902,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: paga",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: a conta tem que fazer o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: cálculo. É complicado. Mas acho que faz sentido a gente levantar e ter uma noção de investimento, disso tudo. E aí, quem sabe a gente está levando adiante, porque a gente sabe que o risco A questão de estrutura, a questão de segurança sempre existe. [PESSOA], acho que um dos maiores temores hoje de todo o pessoal de [EMPRESA] é essa questão de invasão. E a [LOCAL] é uma empresa bem conceituada, [PESSOA], acredito que essa parte de segurança, que nem o [EMPRESA] já apresentou algumas coisas, é bem importante. E a questão de expansão, sim, também. A empresa também tem alguns projetos de expansão e a gente precisa também pensar nisso. Quem está por trás, digamos, de como eu vou conseguir... Ah, eu preciso aumentar espaço, eu preciso de mais processamento, [PESSOA], quem está nos aportando lá precisa também ter uma capacidade de nos fornecer isso de uma forma rápida, né? Teve... as nossas hospedagens sempre eram internas, a gente tinha um data center interno, mas a gente passou por um sinistro aí faz quatro anos, três anos atrás, acho que lá faz, do incêndio, E aí a gente acabou perdendo o nosso data center e a partir dali a gente foi para a nuvem e a gente viu que é um modelo legal, é um modelo interessante, a questão de escalabilidade também, hoje eu preciso de mais discos, preciso de mais processamento, [PESSOA] eu não tenho mais a preocupação de [PESSOA] de ar-condicionado, de energia, cuidado de no break. [PESSOA] tem os seus benefícios sim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: E assim a gente tem uma bolha do mercado começando agora. Não sei se você está acompanhando mas obviamente tem o cenário de guerra e tudo mais e os [LOCAL] estando presente na guerra a gente sabe que afeta muito o mercado mundial ainda mais que eles são o maior fornecedor de tecnologia do mundo mas principalmente a questão de terras raras. [PESSOA] a gente vê... Isso é um alerta inclusive interno aqui da [EMPRESA], tá? Pessoal, vamos acelerar os projetos e tudo mais. Isso obviamente de clientes que já tem proposta na mesa. Aí o cara fala, ah, eu vou assinar mês que vem. O cara não assina mês que vem. Por quê? Porque a [EMPRESA], ela muda a tabela todo mês de março, abril. Tá faltando chip no mercado. Não sei se você cotou o [EMPRESA]. Cara, absurdo. Eu fui cotar o [EMPRESA] com um cliente esses dias lá. Na verdade, eu não fui cotar, mas o cliente me deu o cenário que ele cotou, né? Ele falou, cara, eu não vou pra nuvem e tudo mais, mas eu quero olhar. Ele tinha comprado o [EMPRESA], pagou 600 e poucos mil ano passado, meio do ano passado, foi cotar mês passado, deu 1 milhão e 200. Por quê? Porque está faltando chip, está faltando muita matéria-prima no mercado. Essa bolha está recém começando. O [EMPRESA] prevê que o auge dela vai ser em 2017 e depois os preços começam a cair de novo. [PESSOA] tem essa preocupação toda, né? E quando você miga para a nuvem, cara, aí você tem proteção de preço no contrato, após que puderem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Sim, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Só que já preveja isso no seu cálculo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: marcar o acesso mesmo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Sim, pode ser. Acho que vamos marcar uma agenda aí. E aí, eu não sei, o [EMPRESA] que provavelmente vai mais participar aí também, como é que tá de agenda, mas acho que gera uma sugestão de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4789,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: data, de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: horário, e aí a gente encaixa. A gente pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: esse levantamento aí sim, sem problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Semana que vem, cara, deixa eu dar uma olhada aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.445,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: é que t",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: dizendo a semana que vem?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Semana que vem para mim fica mais complicado. Mês de fechamento [PESSOA] de repente eu ia sugerir ali na semana do dia 6. Não sei se o [PESSOA] também puder. Como é que fica para vocês também. 6 do 4 ali naquela semana.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4973,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: No dia 6 inclusive eu tenho duas agendas liberadas de acesso às 11 e às quatro horas da tarde.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5133,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Quatro horas da tarde de repente pode ser [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.543,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: ser para mim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5519,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: dia 6 às 4 horas da tarde, uma agenda de 45 minutos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5139,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: tranquilo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: e se ficar faltando alguma coisa, vocês não conseguirem rodar na hora, não tem problema, o time manda por e-mail e depois vocês executam.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: confirma para quais e-mails que eu mando, eu mando para o teu só ou te mando para mais alguém?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 20]: mandar para [LOCAL] também. O meu ali é informática a roupa florestal ponto com.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: e [PESSOA].coelestal.com. [LOCAL]. Acabei de enviar aqui para vocês. Aí já deve estar chegando alguns minutinhos para vocês. Se vocês quiserem remarcar, se tiver algum imprevisto, não tem problema. Só dá um toque no [PESSOA], lá a gente remarca. Não tem galho, tá, pessoal? E aí na hora de apresentar, veio com um evento assim, que não marca de tomar um café, vocês conhecerem o novo escritório da [LOCAL], a [LOCAL] é o escritório novo, top, de ser a muito bala, ali no prédio do Bourbon, da [LOCAL], tem um shopping novo, bem legal. Cara, desce no terceiro andar, tem vista de toda a [LOCAL], bem massa ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [EMPRESA], não combinar. Beleza,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3961,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: pessoal, é isso aí, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [PESSOA], da nossa parte seria isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: Fechou. [PESSOA] não sei se faltou algum ponto é isso",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: aí. Não é isso mesmo [PESSOA]. É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: isso galera. [PESSOA] obrigado pelo tempo de vocês aí e vamos se falando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.464,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: Obrigada gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: pela",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5142,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: informação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: [LOCUTOR 13]: tchau",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

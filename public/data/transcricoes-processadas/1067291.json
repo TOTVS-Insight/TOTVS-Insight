@@ -1,0 +1,115 @@
+{
+  "id_reuniao": "1067291",
+  "codt": "A93937",
+  "data_reuniao": "2026-02-13 13:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 4]: [EMPRESA], [LOCAL].\n[LOCUTOR 1]: [EMPRESA], tudo bem?\n[LOCUTOR 4]: Tudo, e você?\n[LOCUTOR 1]: Nossa, tudo bem. Meu computador tá quase sem bateria, peraí. Nem tinha visto.\n[LOCUTOR 4]: Ah,\n[LOCUTOR 1]: então, essa [LOCAL] aqui, ela era duas gerentes lá na empresa, e aí uma delas não podia, a [PESSOA], ela pediu pra fazer com a [PESSOA]. Eu combinei com a Cybele, beleza, e aí hoje de manhã ela falou, ah, mas eu estava esperando a [PESSOA]. Eu falei, não, mas a [PESSOA] falou que pode fazer, pode tocar sozinha essa e depois, se tu achar pertinente, tu chama ela para a próxima.\n[LOCUTOR 4]: E\n[LOCUTOR 1]: ela não me respondeu mais? Eu vou tentar ligar para ela, tá?\n[LOCUTOR 4]: Eu\n[LOCUTOR 1]: tenho uma reunião para ir lá que o Gustavo está na sala, mas espere um pouquinho. Ela me atendeu.\n[LOCUTOR 4]: Me avisa. Eu\n[LOCUTOR 1]: vou lá pra nossa. Qualquer coisa se ela entrar eu te aviso. Pode deixar tá.\n[LOCUTOR 4]: Tá bom.\n[LOCUTOR 1]: Beijo obrigada tá.\n[LOCUTOR 4]: [PESSOA].",
+  "texto_filtrado": "[LOCUTOR 4]: [EMPRESA], [LOCAL].\n[LOCUTOR 1]: Nossa, tudo bem. Meu computador tá quase sem bateria, peraí. Nem tinha visto.\n[LOCUTOR 1]: então, essa [LOCAL] aqui, ela era duas gerentes lá na empresa, e aí uma delas não podia, a [PESSOA], ela pediu pra fazer com a [PESSOA]. Eu combinei com a Cybele, beleza, e aí hoje de manhã ela falou, ah, mas eu estava esperando a [PESSOA]. Eu falei, não, mas a [PESSOA] falou que pode fazer, pode tocar sozinha essa e depois, se tu achar pertinente, tu chama ela para a próxima.\n[LOCUTOR 1]: tenho uma reunião para ir lá que o Gustavo está na sala, mas espere um pouquinho. Ela me atendeu.\n[LOCUTOR 1]: vou lá pra nossa. Qualquer coisa se ela entrar eu te aviso. Pode deixar tá.\n[LOCUTOR 1]: Beijo obrigada tá.\n[LOCUTOR 4]: [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:07:57.712818+00:00",
+    "total_linhas": 15,
+    "linhas_mantidas": 7,
+    "linhas_removidas": 8,
+    "percentual_mantido": 46.67,
+    "confianca_media": 0.4609
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 4]: [EMPRESA], [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tudo, e você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Nossa, tudo bem. Meu computador tá quase sem bateria, peraí. Nem tinha visto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: então, essa [LOCAL] aqui, ela era duas gerentes lá na empresa, e aí uma delas não podia, a [PESSOA], ela pediu pra fazer com a [PESSOA]. Eu combinei com a Cybele, beleza, e aí hoje de manhã ela falou, ah, mas eu estava esperando a [PESSOA]. Eu falei, não, mas a [PESSOA] falou que pode fazer, pode tocar sozinha essa e depois, se tu achar pertinente, tu chama ela para a próxima.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ela não me respondeu mais? Eu vou tentar ligar para ela, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3766,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: tenho uma reunião para ir lá que o Gustavo está na sala, mas espere um pouquinho. Ela me atendeu.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5018,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Me avisa. Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4178,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: vou lá pra nossa. Qualquer coisa se ela entrar eu te aviso. Pode deixar tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.462,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Beijo obrigada tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

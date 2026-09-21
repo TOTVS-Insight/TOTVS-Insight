@@ -1,0 +1,37 @@
+{
+  "id_reuniao": "711579",
+  "codt": "TFEHII",
+  "data_reuniao": "2025-11-17 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "[PESSOA] da \n[LOCUTOR 1]: [EMPRESA], [PESSOA]. Tudo bem? Tudo bem. Deixa eu mandar uma mensagem aqui já para o [PESSOA]. Tá. É só o [PESSOA] que vai participar hoje, o [PESSOA] também ou não? Não sei, eu mandei o convite para o [PESSOA], eu não sei Se ele chamar mais alguém. Sim. Bom dia a todos. Obrigada, galera. Só vou passar umas orientações pra vocês, pra vocês aprenderem no futuro. Pra vocês também. Mas, enfim, a gente vai levar esse projeto que a gente vai apresentar, que é a [LOCAL]. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A tem de vocês. A gente tem tem de vocês. A que é o processo criativo e tecnológico de meios de proteção social. Esse é o único trabalho que a [LOCAL] tem que fazer, e é o que nós queremos fazer aqui na [LOCAL]. A [LOCAL] tem que fazer um trabalho de proteção social e de meios proteção social e de meios de proteção social e de meios de proteção social e de meios de proteção social e meios de proteção social e de meios de proteção social e e de meios de proteção social e de meios de proteção social e de meios de proteção social e de meios de proteção social e de [PESSOA], acabei de falar com ele aqui. Ele falou que está resolvendo uma intercorrência urgente e já mandou uma mensagem para a gente tentar remarcar ainda para hoje. Beleza. Aí eu te aviso. Vou te chamar. Beleza. [PESSOA].",
+  "texto_filtrado": "[PESSOA] da\n[LOCUTOR 1]: [EMPRESA], [PESSOA]. Tudo bem? Tudo bem. Deixa eu mandar uma mensagem aqui já para o [PESSOA]. Tá. É só o [PESSOA] que vai participar hoje, o [PESSOA] também ou não? Não sei, eu mandei o convite para o [PESSOA], eu não sei Se ele chamar mais alguém. Sim. Bom dia a todos. Obrigada, galera. Só vou passar umas orientações pra vocês, pra vocês aprenderem no futuro. Pra vocês também. Mas, enfim, a gente vai levar esse projeto que a gente vai apresentar, que é a [LOCAL]. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A tem de vocês. A gente tem tem de vocês. A que é o processo criativo e tecnológico de meios de proteção social. Esse é o único trabalho que a [LOCAL] tem que fazer, e é o que nós queremos fazer aqui na [LOCAL]. A [LOCAL] tem que fazer um trabalho de proteção social e de meios proteção social e de meios de proteção social e de meios de proteção social e de meios de proteção social e meios de proteção social e de meios de proteção social e e de meios de proteção social e de meios de proteção social e de meios de proteção social e de meios de proteção social e de [PESSOA], acabei de falar com ele aqui. Ele falou que está resolvendo uma intercorrência urgente e já mandou uma mensagem para a gente tentar remarcar ainda para hoje. Beleza. Aí eu te aviso. Vou te chamar. Beleza. [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:26.296335+00:00",
+    "total_linhas": 2,
+    "linhas_mantidas": 2,
+    "linhas_removidas": 0,
+    "percentual_mantido": 100.0,
+    "confianca_media": 0.5167
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA], [PESSOA]. Tudo bem? Tudo bem. Deixa eu mandar uma mensagem aqui já para o [PESSOA]. Tá. É só o [PESSOA] que vai participar hoje, o [PESSOA] também ou não? Não sei, eu mandei o convite para o [PESSOA], eu não sei Se ele chamar mais alguém. Sim. Bom dia a todos. Obrigada, galera. Só vou passar umas orientações pra vocês, pra vocês aprenderem no futuro. Pra vocês também. Mas, enfim, a gente vai levar esse projeto que a gente vai apresentar, que é a [LOCAL]. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A gente tem de vocês. A tem de vocês. A gente tem tem de vocês. A que é o processo criativo e tecnológico de meios de proteção social. Esse é o único trabalho que a [LOCAL] tem que fazer, e é o que nós queremos fazer aqui na [LOCAL]. A [LOCAL] tem que fazer um trabalho de proteção social e de meios proteção social e de meios de proteção social e de meios de proteção social e de meios de proteção social e meios de proteção social e de meios de proteção social e e de meios de proteção social e de meios de proteção social e de meios de proteção social e de meios de proteção social e de [PESSOA], acabei de falar com ele aqui. Ele falou que está resolvendo uma intercorrência urgente e já mandou uma mensagem para a gente tentar remarcar ainda para hoje. Beleza. Aí eu te aviso. Vou te chamar. Beleza. [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    }
+  ]
+}

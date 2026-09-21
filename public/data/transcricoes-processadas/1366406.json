@@ -1,0 +1,1477 @@
+{
+  "id_reuniao": "1366406",
+  "codt": "CYHXRR",
+  "data_reuniao": "2026-04-01 17:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 8]: Boa tarde.\n[LOCUTOR 9]: Boa tarde.\n[LOCUTOR 14]: Tudo\n[LOCUTOR 13]: bom? [PESSOA] - \n[LOCUTOR 15]: tarde, pessoal.\n[LOCUTOR 8]: \n[LOCUTOR 12]: tarde.[PESSOA] ([PESSOA]): Boa tarde, pessoal.\n[LOCUTOR 9]: Boa tarde. [PESSOA] - \n[LOCUTOR 15]: tarde.\n[LOCUTOR 9]: [PESSOA] - \n[LOCUTOR 20]: tarde.\n[LOCUTOR 9]: [LOCUTOR 5]: tarde. Boa tarde, pessoal. Boa tarde.\n[LOCUTOR 8]: Olá,[PESSOA] \n[LOCUTOR 22]: boa tarde.\n[LOCUTOR 9]: Pessoal da TOTUS, da [PESSOA] e [PESSOA], tá todo mundo que vai participar da reunião?\n[LOCUTOR 13]: Aqui da [PESSOA] e [PESSOA]. TOTUS\n[LOCUTOR 9]: [LOCAL] - \n[LOCUTOR 20]: Aqui da TOTUS também.\n[LOCUTOR 9]: Tá. Eu acho que a gente pode começar, eu já falei aqui, comprar se ele puder, ele entra, tá? Mas acho que a gente já pode começar, confere? Tem mais alguém não, né, [EMPRESA] da \n[LOCUTOR 22]: Que vocês\n[LOCUTOR 9]: chamaram não, né? Então, pessoal, o objetivo hoje da reunião é a gente entender a arquitetura de segurança que vocês têm em relação a todo o ecossistema da hotelaria, [LOCAL], [LOCAL] e [EMPRESA], para que a nossa equipe de segurança aqui também possa entender como as questões estão configuradas e até tirar algumas dúvidas que porventura surjam ou que eles já tenham feito algum tipo de levantamento.\n[LOCUTOR 13]: [EMPRESA]. Hoje...\n[LOCUTOR 9]: \n[LOCUTOR 11]: só vou pedir licença, [LOCAL], só um instantinho, para a gente colocar a reunião para gravar, todo mundo de acordo?\n[LOCUTOR 13]: De acordo, de acordo.\n[LOCUTOR 9]: Então vou iniciar aqui a gravação. Oi, [LOCAL], pode falar.\n[LOCUTOR 13]: Obrigado, [PESSOA]. Então, Eu vim mais preparado na parte do motor. E aí, primeiro, eu queria perguntar até tudo mais pra gente eventualmente fazer uma segunda rodada aqui pra gente pegar mais detalhes e documentar melhor algumas necessidades que vocês têm. Então, por exemplo, o que hoje eu vim mais preparado é pra explicar como que funciona essa parte que é apresentada para os visitantes do nosso motor, que vão acessar o viagemcomsesc.com.br. Então, como que isso funciona, um pouco a arquitetura, como que as pessoas vão acessar, um pouco dessa infraestrutura para facilitar até mesmo a avaliação de segurança, de fazer escândalo de segurança, que é um trabalho que a gente já faz aqui. Agora, algo além disso, a gente pode se preparar melhor e depois trazer para vocês, tá bom? Por exemplo, você citou sobre o [EMPRESA], eu não tenho essas informações, eu não conheço esse panorama inteiro aí dentro do projeto e a gente pode trazer para você\n[LOCUTOR 9]: depois\n[LOCUTOR 13]: de alguma maneira.\n[LOCUTOR 9]: Então, [LOCAL], eu acho que a gente pode começar aí pela arquitetura de segurança do [LOCAL], para que a gente entenda, e depois a gente vai passando a [LOCAL], Totos, ver se realmente todo mundo que pode responder pelo assunto está na reunião. Se precisar, a gente marca um outro fórum e continua. Mas eu acho que podemos começar aí com você mesmo, [LOCAL], falando um pouquinho da sua arquitetura.\n[LOCUTOR 13]: Tá legal. Obrigado. Então, gente, o que a gente tem? Vou até pedir desculpa aí, eu vou colocar aqui o compartilhar tela, eu não tenho aqui os diagramas, mas eu vou desenhar aqui para vocês, tá bom? Eu espero que vocês peçam, me doem aí pelos meus dotes aqui artísticos, mas o que que acontece, né? Quando a gente vai acessar a partir do... Hoje vamos falar assim, a gente vai entrar no www.viaje.com.com. Então, eu estou aqui no meu navegador ou no meu celular. O primeiro acesso é feito dentro de uma estrutura do AWS o CloudFront, que é o nosso CDN. Essa URL aqui, via HTTPS, ele tem acesso aqui a todos os nossos arquivos estáticos. Então, nos nossos arquivos estáticos aqui, e aí eu prometo para vocês que eu mando um diagrama mais profissional para vocês depois, mas a gente tem os nossos arquivos JavaScript, os nossos arquivos HTML, algumas imagens, ícones, esse tipo de coisa, E na primeira acessa que ele faz, ele faz o download aqui do nosso... desses arquivos necessários para abrir. Então, a gente tem centenas aqui de arquivos JS que a gente dividiu. [PESSOA], ele vai fazer a ROM. Então, ele puxa e ele monta aqui a tela dentro do... do navegador, seja via browser, seja via mobile. E a partir daí, ele começa a fazer uma série de... de chamadas ao nosso back-end. Eu vou depois passar toda uma lista de todas as URLs e domínios que nós utilizamos, mas a gente tem aqui um endpoint de autenticação, que é o nyara-alph. Mesmo que a pessoa não fez o login, daqui a partir daqui ele consegue um token de out, para a gente ter... Esse token [PESSOA] de segurança, ele é utilizado para todas as chamadas aos nossos backends. Então, aqui a gente guarda no [PESSOA]... A gente consegue rastrear disso a partir desse [PESSOA], qual é o IP em que ele começou a acessar, qual o momento em que ele fez a primeira visita e a gente tem uma renovação, ele tem uma validade a cada... Eu pego lá depois, mas quando termina essa validade, a gente faz a renovação desse token.\n[LOCUTOR 9]: E\n[LOCUTOR 13]: esse token é utilizado dentro das nossas APIs. Então, nós temos as APIs de back-end, entre elas uma [PESSOA] GraphQL, que utiliza por trás dela o AWS AppSync. Essa...[PESSOA] \n[LOCUTOR 22]: Foi o [PESSOA], é isso?\n[LOCUTOR 13]: [LOCAL]. A gente chamaLeonardo da \n[LOCUTOR 22]: de\n[LOCUTOR 13]: irata, mas ninguém me chama de irata.[PESSOA] \n[LOCUTOR 22]: Tudo bom, [PESSOA]? Acho que tu vai explicando e talvez a gente vai tirando as dúvidas e se deixar para o final talvez o que perca, porque\n[LOCUTOR 13]: tu estáLeonardo da \n[LOCUTOR 22]: criando uma linha de raciocínio e eu acho que é importante essa linha de raciocínio. Tu comentou ali que tem um front door que responde, que é um... E esse front door, ele pode ou não pode ter um WAF atrelado a ele? E a minha pergunta é se existe um WAF atrelado a ele ou ele é só um front door que ele responde o CDN? Hoje\n[LOCUTOR 13]: nós estamos avaliando, e eu vou falar para vocês, a gente está avaliando a aplicação do WAF em todas essas interfaces. Essa a gente tem, a gente tem um WAF aqui. Essa daqui a gente está vendo, porque, por exemplo, por mais que a gente só tenha aqui dados, coisas estáticas, tem como que a tabela, a fonte, estilo, CSS, esse tipo de coisa, não existem dados aqui de verdade para o cara poder explorar. Mas, de qualquer maneira, no momento que a gente colocar um WAF, isso vai ajudar numa investigação posterior. Então, a gente está hoje numa análise de custo dessa implementação. É uma coisa super fácil para a gente implementar, é só uma questão da gente analisar se a gente coloca ou não nesse cara.[PESSOA] \n[LOCUTOR 22]: E daqui para\n[LOCUTOR 13]: a pauta?[PESSOA] \n[LOCUTOR 22]: Só quero saber o que tem hoje, né? Porque daí a\n[LOCUTOR 13]: gente consegueLeonardo da \n[LOCUTOR 22]: fazer uma avaliação. Hoje\n[LOCUTOR 13]: não temos WAF aqui nesse exato momento.[PESSOA] \n[LOCUTOR 22]: Não tem\n[LOCUTOR 13]: WAF.[PESSOA] \n[LOCUTOR 22]: Nessa primeira página.\n[LOCUTOR 13]: [PESSOA].[PESSOA] \n[LOCUTOR 22]: E aí, no segundo, tu tem um WAF habilitado e aí tu tem essas regras de WAF. O que que tem habilitado nessas regras de WAF? Porque eu posso ter o WAF ali...\n[LOCUTOR 13]: Sim, hoje é bem simples e a gente tá cada vez evoluindo ele. Hoje a gente tá fazendo na base de verificação de Rate Limit, esse tipo de coisa. Não pega muita coisa aí hoje, mas,[PESSOA] \n[LOCUTOR 22]: puxa, \n[LOCUTOR 6]: isso, aLeonardo da \n[LOCUTOR 22]: gente precisa\n[LOCUTOR 13]: evoluir. Tu tem os KellyLeonardo da \n[LOCUTOR 22]: [LOCAL] habilitado?\n[LOCUTOR 13]: Não nesse momento. Mas eu posso... se vocês me passarem, ó, puxa, a gente precisa ter esse tipoLeonardo da \n[LOCUTOR 22]: de\n[LOCUTOR 13]: validação, a gente coloca aqui também.[PESSOA] \n[LOCUTOR 22]: Se tu nos passar quais são as regras, a gente consegue te dizer o que tu precisa ter pelo menos implementado, porque senão a gente fica, às vezes, chovendo no molhado, dizendo, ah, faz\n[LOCUTOR 13]: isso,[PESSOA] \n[LOCUTOR 22]: mas tu já tá fazendo, né. Então, assim, se tu me disser quais as regras que estão implementadas, com esse padrão aqui, com essas regras habilitadas.\n[LOCUTOR 13]: [LOCAL]. OLeonardo da \n[LOCUTOR 22]: [PESSOA]\n[LOCUTOR 13]: tambémLeonardo da \n[LOCUTOR 22]: levantou a mão aí.\n[LOCUTOR 13]: Tá bom. Outro [PESSOA] também.[PESSOA] \n[LOCUTOR 22]: Agora o [PESSOA] pra. Aí é [LOCAL] pra [LOCAL]. Tá\n[LOCUTOR 13]: no mundo, não seiLeonardo da \n[LOCUTOR 22]: o que\n[LOCUTOR 13]: você tá falando.[PESSOA] \n[LOCUTOR 22]: Tá bom,\n[LOCUTOR 13]: a gente manda isso no documento aqui que eu tô preparando aqui pra vocês. O que a gente tá fazendo assim exatamente nesse momento tá, [PESSOA]? Eu vou mostrar aqui, temos uma outra série de APIs aqui.\n[LOCUTOR 25]: Desculpa pessoal,\n[LOCUTOR 13]: voc\n[LOCUTOR 16]: estão me ouvindo agora? Agora\n[LOCUTOR 13]: sim, sim senhor, pode falar\n[LOCUTOR 25]: já. [LOCAL], é o [PESSOA] falando aqui da [EMPRESA] também. É que na verdade assim, acho que o principal é a gente entender quais, né, e aí como o [PESSOA] trouxe, quais são as regras hoje que estão implementadas. É assim, a\n[LOCUTOR 13]: gente... É\n[LOCUTOR 25]: interessante... É óbvio, né? A parte de segurança, a gente sempre tem um roadmap de implementar melhorias, mas a gente quer\n[LOCUTOR 13]: ter...\n[LOCUTOR 25]: E aí, o objetivo dessa reunião é a gente ter exatamente o que existe hoje. Então, assim, se eu puder demonstrar quais são as regras, quais são os filtros que hoje essa camada tá... A gente identifica que existe essa camada. Mas eu quero saber o que ela hoje faz, porque... A gente tá aqui... Tentando fazer um deep dive nesse ecossistema para entender melhor o que está acontecendo. Se você puder abrir hoje e mostrar quais são as regras, ou se existe alguma regra ou se não existe. Isso é super importante.[PESSOA] - \n[LOCUTOR 20]: Tá\n[LOCUTOR 13]: bom. Hoje, eu sei que tem uma regra de limite de acesso, de 100 acessos por cada cinco segundos. Mas eu preciso perguntar aqui para o pessoal que implementou isso mais detalhes dessa regra, tá? Eu prometo para vocês que eu mando para vocês. Eu não tenho aqui o acesso, não consigo abrir aqui, mas eu vejo aqui e tiro. E a gente combina, manda por e-mail e depois combina. Pode ser assim, frase... [PESSOA], desculpa não poder responder isso agora. Eu sei que isso, a gente está falando de segurança, é uma informação importante aqui. Mas eu vou ficar devendo para vocês neste momento, tá bom?[PESSOA] \n[LOCUTOR 22]: Uma outra pergunta que tu falou ali do token, né? Tu falou que tem uma\n[LOCUTOR 13]: questãoLeonardo da \n[LOCUTOR 22]: de um token. Esse token, ele é gravado via cookie no navegador usuário?\n[LOCUTOR 13]: Ele fica gravado no local storage dele, dentro do browser, para eventualmente quando ele voltar, a gente consegue rastrear que ele está voltando ou alguma coisa disso. Eu não sei como está, no caso, a implementação aqui, mas como no nosso sistema a gente tem a parte de autenticação. O cara faz a reserva e depois ele pode voltar. e ver as minhas reservas. Aí, a partir disso, a gente tem o token autenticado também, que passa por esse mesmo endpoint. Mas... [LOCAL], a sua repergunta é sim. A gente grava isso no local storage do browser. Posso continuar?[PESSOA] \n[LOCUTOR 22]: Acho que o [PESSOA] tinha uma pergunta, não é isso?\n[LOCUTOR 13]: Ah, abriu a... É, vi que ele levantou a mão.\n[LOCUTOR 26]: Não, eu ia perguntar mais coisas, mas é como o [PESSOA] falou. Eu acho que... Eu vou entender essa questão aí do funcionamento assim por alto ali da aplicação e, como ele falou, tem algumas informações que seriam mais interessantes aqui para a gente, mas ele não consegue trazer agora. As\n[LOCUTOR 13]: regras não, mas se\n[LOCUTOR 26]: tiver\n[LOCUTOR 13]: dúvida de alguma coisa do que que é, nem que eu tenha que levantar aqui da lista de coisas que eu preciso responder e documentar e mandar para vocês depois.\n[LOCUTOR 26]: Porque até quando eu estava falando do token de acesso para\n[LOCUTOR 13]: ele,\n[LOCUTOR 26]: beleza, normal o funcionamento ali. ainda mais a utilização do [EMPRESA] ali para essa inspiração. Só que quando que é utilizado esse cara? E assim, é porque eu estou aprofundando o\n[LOCUTOR 13]: conhecimento\n[LOCUTOR 26]: até na arquitetura hoje que a gente tem do [LOCAL], agora no desenvolvimento desse problema que nós tivemos. Mas eu tenho o motor de reservas que é o [LOCAL]. [PESSOA],\n[LOCUTOR 13]: correto. Beleza.\n[LOCUTOR 26]: E que é um sistema onde eu tenho também a geração desses tokens, porque eu tenho uma autenticação nesse sistema.\n[LOCUTOR 13]: [PESSOA], do [LOCAL].\n[LOCUTOR 26]: E ele tem uma integração direta com o [EMPRESA]. Eles se conversam.\n[LOCUTOR 13]: Tá bom. Sim, sim. Tá uma conversa... Agora, isso... A gente tem vários modos, tá? Como eu não sei especificamente do [LOCAL], Mas existem dois maneiras de comunicação com o PNS. Toda a reserva que é feita via motor, ela entra dentro do sistema da [LOCAL]. A gente tem o ecossistema [LOCAL]. Temos o ecossistema [LOCAL]. E temos o ecossistema da TOTOS. O que eu posso me informar aqui é se é se essa conversa é aqui ou minibiz via TOTUS ou essa comunicação é feita por aqui, tá bom? Existem duas, algumas maneiras que a gente pode implementar isso dependendo da permissão do cliente. E eu particularmenteTOTVS - \n[LOCUTOR 27]: não\n[LOCUTOR 13]: sei. Pode falar.[PESSOA] - \n[LOCUTOR 27]: O [LOCAL], o [PESSOA] [LOCAL] também. Hoje o [LOCAL] recebe a reserva, lá do hospede, que está fazendo o cliente, que está fazendo a reserva, passa para o minibiz e o minibiz desce para todos, tá?\n[LOCUTOR 13]: Beleza.[PESSOA] - \n[LOCUTOR 27]: Esse é o cenário.\n[LOCUTOR 13]: [EMPRESA] - \n[LOCUTOR 27]: gente vai direto no [LOCAL] só para pegar os dados de hospede, no caso, um [PESSOA] direto do [LOCAL].\n[LOCUTOR 13]: Ah, tá bom. Então, deixa eu anotar aqui, isso é interessante. Eu, como não participei dessa parte aqui, então é isso. Então, nós OLeonardo da \n[LOCUTOR 22]: [PESSOA] já tá com a mão levantada também, porque o [EMPRESA] e a P.I. os dois já... Opa! Para! Vai, [PESSOA]!\n[LOCUTOR 26]: É, aí justamente, né, porque... Essa é porque, provavelmente, ou talvez a gente não tenha essa informação agora, mas essa comunicação da [PESSOA], porque assim, a gente tem outras aplicações [PESSOA] aqui. Então, a gente realmente tem uma aplicação [PESSOA] que eu tenho um ambiente on-premise e tem um ambiente em cloud. E eu tenho uma [PESSOA] que ela, mesmo que eu faça todo o meu sistema via cloud, ele é todo o cloud, ele é o [PESSOA] cloud, mas ele ainda vai também buscar alguma parte de informação no ambiente on-premise via [PESSOA], ou vice-versa. O meu ambiente on-premise, ele vai lá e busca essa comunicação via [PESSOA]. Aí, entrando nesse ponto dessa comunicação, dessa solução, uma das questões é que, inicialmente, essa [PESSOA] que ia no meu ambiente on-premise, aí eu estou trazendo um exemplo aqui do meu ambiente, da minha experiência com a [PESSOA], Era uma [PESSOA], beleza, vamos criar uma [PESSOA] para fazer essa integração, beleza, mas não existia um controle, e aí vou falar de segurança diretamente, uma restrição de quem, de fim a fim, para estabelecer essa comunicação. Então nós não, vamos criar, eu só vou receber comunicação desses IPs, quais são os IPs de vocês para poder estabelecer, vou colocar uma camada de proteção ali. Hoje, Nessa comunicação via [PESSOA], a gente tem proteção até dessa questão da TOTUS, que vai buscar informação do [LOCAL] também, dessas APIs, das APIs que são utilizadas hoje no sistema, todas elas, até não só essa, a gente tem também essas camadas de proteções, eu poder definir, restringir as comunicações.\n[LOCUTOR 13]: Tá bom, hoje aqui a gente só tem na base de autenticação via tokens, né? Então, como eu disse, a gente tá fazendo todo esse estudo de segurança recentemente. É um cara que, se vocês falam, puxa, e assim, né? Só de falar, agora fica claro, né? [PESSOA], que tipo de controle eu posso colocar aqui, né? Porque, de qualquer maneira, isso aqui é feito pela internet. Por mais que aqui a gente tenha segurança e tudo mais, a gente faz via HTTP, tudo via criptografado, mas, contra o [EMPRESA] tanto, é bom a gente ter um monitoramento desse lado aqui, para vocês poderem ver, para a gente se proteger contra isso. Vai que, de repente, a [LOCAL] que está aqui vaza ou coisa parecida e eu consigo acessar por aqui. É isso que você está falando, né? Essa preocupação, certo?[PESSOA] \n[LOCUTOR 22]: Apesar\n[LOCUTOR 13]: dasLeonardo da \n[LOCUTOR 22]: grandes famílias.\n[LOCUTOR 26]: [PESSOA], exato.\n[LOCUTOR 13]: Tá bom, eu vou... A gente não tem nenhum plano aqui específico desse, né? Eu vou montar um plano pra esse cara aqui. Tá bom? O que a gente tem hoje? A gente tem aqui uma segurança das chaves, toda essa parte aqui, assim, a gente pode... Eu vou falar com o pessoal aqui pra poder talvez dar mais algum detalhe, mas... No momento que essa chave vazar e ter um acesso, o máximo que eu tenho aqui é... Eu tenho vários logs, eu consigo ver, puxa, de que IP está acessando, mas isso de uma forma mais criativa. Mas já está dentro aqui do nosso... A gente tem todo um plano aqui de seguranças aqui dessas partes das nossas interfaces. Hoje eu não tenho o WAF aqui, mas é o cara que precisa, principalmente para vocês aqui. A gente faz esse trabalho aqui desse lado, tá bom?[PESSOA] \n[LOCUTOR 22]: Hoje a [PESSOA] então ela não passa pelo WAF, a comunicação do [PESSOA] com a [LOCAL] não passa pelo WAF, e a [PESSOA] \n[LOCUTOR 6]: uma questãoLeonardo da \n[LOCUTOR 22]: de usuário e senha, é isso? Tem\n[LOCUTOR 13]: um token de segurança, sim. É um token de segurança de out.[PESSOA] \n[LOCUTOR 22]: Mas é um token...\n[LOCUTOR 13]: Que é basicamente usuário e senha, né? Vai lá, gravado, manda aqui, criptografado e é esse.[PESSOA] \n[LOCUTOR 22]: Se\n[LOCUTOR 13]: esse daí vazar, é usuário e senha. Não tem... NãoLeonardo da \n[LOCUTOR 22]: tem nenhum outro fator que não for esse usuário sense. Hoje\n[LOCUTOR 13]: não tem. Voltando aqui mais do motor. Nós temos aqui as nossas APIs, certo? Que a gente consegue consultar. Essa [PESSOA] de GraphQL é usada para capturar dados de configuração e, no caso de... E a gente usa também para ver atualização de status da reserva. Então, no fluxo da reserva, ele faz a reserva. Como que está a reserva? Aqui eu consigo trafegar dentro desse dado aqui detalhes de hotel, confirmação da reserva, qual hotel, qual as datas, esse tipo de coisa. Eu consigo ver, talvez, eu preciso do e-mail para poder consultar esses dados, né? Então ele usa o e-mail e esse jout para poder consultar os dados da própria venda. mas a gente está... Anteriormente, até recentemente, a gente colocava alguns dados pessoais e estamos removendo dados pessoais do usuário aqui dentro dessa comunicação. E aqui dentro dessas APIs, e são várias, nós temos as APIs para os diferentes serviços. Então, eu tenho uma [PESSOA], uma URL específica para Pesquisa de disponibilidade. Eu tenho uma outra [PESSOA] para realização do checkout. Eu tenho uma outra [PESSOA]... Essa mesma da realização do checkout é utilizada para, por exemplo, pagamentos, trocar cartão de crédito, esse tipo de coisa. E é essa aqui que a gente também... O que a gente vai fazer? Hoje não tem WAF nessas APIs. E o que a gente está fazendo nessa versão, na versão que vai subir na semana que vem? A gente vai mover atrás desse CloudFront, que hoje carrega aqui e não tem o WAF. Nós vamos mover todo esse acesso, ao invés de acessar essas APIs por aqui, eles vão acessar por aqui. Então, isso aqui vai ser movido daqui e vai mover por aqui. e dessas internamente, por rede, ele vai poder acessar dentro da rede da AWS, que essas APIs serão acessadas. Todas essas chamadas vão ser feitas a partir do mesmo endpoint que a gente vai acessar. Eu vou colocar o WAF dentro de todas as conversas. Eu vou fazer algumas regras específicas. Se for arquivo estático, eu tenho uma certa regra. Se for via [PESSOA], eu tenho uma outra. Isso que a gente está implementando. Primeiro estou movendo para cá, colocando essas portas por aqui, para que durante o próximo mês a gente faça uma proteção extra dentro dessas APIs super importantes, que são as APIs utilizadas para reserva, para pegar os dados de pagamento, os dados dos usuários e tudo mais. Nós estamos passando aqui também por uma série de verificações atualizações de cabeçalhos de segurança, que hoje a gente, nessa versão, na segunda-feira, já vai entrar. Então, tem algumas que não, que poderiam ser exploradas em certos cenários. Então, a gente está colocando o [EMPRESA], estamos colocando o [LOCAL], vários, vários, nesse momento, os críticos de alta, né, dos CVEs mais críticos. e a gente está implementando aos poucos e já vai sair uma versão dessa semana que vem com essa atualização. Neste momento, de WAF mesmo, é só esse. Se a gente entrar, eu vou divulgar isso. Mas a gente já está fazendo todo esse plano aqui de proteger essas APIs também. contra ataques de fora, tá? Fala, [PESSOA].\n[LOCUTOR 26]: É, [PESSOA]. Eu acho que, assim, é normal hoje em dia a gente ter essas várias integrações com várias aplicações diferentes, com soluções para... E tudo [PESSOA], né? Hoje o nosso grande problema de segurança são as APIs, realmente. Isso é fato. Mas é que... Por que até quando a gente falou da última vez, não lembro se foi semana\n[LOCUTOR 13]: passada, foi uma\n[LOCUTOR 26]: semana\n[LOCUTOR 13]: que\n[LOCUTOR 26]: eu falei assim [PESSOA] vocês têm uma uma uma arquitetura ali para um diagrama para poder me mostrar porque eu pedi isso porque assim é complexo já para a gente entender porque assim a gente vai saber muito assim da solução da implantação ou eu tenho aqui a nossa equipe eles vão saber a gente vai conhecer muito da solução e se não a gente tem aqui o motor de reserva eu tenho Ele faz essa integração mas realmente essa questão dessa comunicação das APIs é importante a gente entender até para poder apoiar e desenvolver melhor o incidente que a gente teve. Porque assim tem várias perguntas ali que não foram respondidas e em cima do que aconteceu foram\n[LOCUTOR 13]: detectados\n[LOCUTOR 26]: ali alguns pontos. que beleza, tem vazamento de informação e tudo mais que até um certo nível de exposição é considerado até não, é normal, depende muito do tempo daquele dado ali, daquela informação também que ela está lazada porque existem hoje medidas que você... Ah, vazou? Beleza, você corrige, faz senha, multifator. Só que existem alguns rastreamentos e algumas informações que a gente precisa até para poder fechar a diagnóstica. que faltam né e por isso até que eu peço e quero ver com vocês esse entendimento até para gente proteger mais porque até pelo pelo as informações que eu tenho a gente continua com um problema acontecendo e que até certo ponto é grave do ponto de vista de eu estar tendo vazamento de informação e por isso que a gente está procurando fazer essas reuniões para ver se a gente consegue identificar possíveis, ter mais condições de ser mais assertivos naquilo que é o problema hoje e do que a gente pode corrigir, seja do lado do [LOCAL], seja do lado da Totus, da [EMPRESA], ou das outras integrações que a gente tem, justamente para que a gente não impacte o nosso usuário final.\n[LOCUTOR 13]: E\n[LOCUTOR 26]: até por conta disso que a gente está fazendo essa reunião. Ainda, como você mesmo trouxe, eu acho que a gente acaba tendo um entendimento maior. Eu agora já sei essa questão dessas APIs. que ela\n[LOCUTOR 13]: faz\n[LOCUTOR 26]: essa comunicação direta para trazer parte da informação de um dado do usuário da reserva para poder fazer a consulta porque até pelo que eu entendi esse [EMPRESA] é o que vai ficar ali com a operação realmente dos hotéis ali\n[LOCUTOR 13]: que\n[LOCUTOR 26]: vê as reservas e tudo mais. Mas a reserva online quando ela é feita ela acontece direto pelo motor de reserva e até uma primeira visão, a gente tem ali um certo nível de segurança maior, mas eu acho que o resto do organograma ainda é invisível pra mim, né, de comunicação, e eu não posso garantir ou até fechar diagnósticos sem ter essas informações, né, por isso que a gente tá pedindo pra vocês isso, né, dessas\n[LOCUTOR 13]: informações.\n[LOCUTOR 26]: [EMPRESA].\n[LOCUTOR 13]: Não, você tem razão, assim, acho que todo mundo aqui, nós estamos nessas semanas todas, assim, com várias frentes aqui dentro de investigação. Eu, infelizmente, eu posso, eu entendo, como você pode ver, a gente tem aqui três pilares, essa mesma reserva trafegou no mínimo, trafegou por aqui, com certeza, os dados da reserva, os dados do passageiro, por todo esse fluxo. Eu sei responder bem por aqui e a gente pode, Essa parte aqui eu já posso explicar e mostrar um pouco alguns detalhes também sobre essa parte, porque aqui dentro do [LOCAL] nós temos tanto o motor de reservas como a central de reservas. Então, a central de reservas é um outro painel dentro do [LOCAL] que os usuários podem acessar utilizando o [LOCAL] do SESC. E a partir daqui ele consegue também consultar as reservas aqui dentro. E a arquitetura é bem parecida. Ela também acessa via GraphQL. Eu também acesso esse [PESSOA], mas agora com uma autenticação via o [LOCAL]. E a partir desse token do [LOCAL], nós fazemos as consultas das reservas por essa interface aqui do GraphQL, que aqui também tem as reservas. E aí, claro, apesar de ser a mesma [PESSOA] que a gente usa no motor, ou seja, pelas pessoas de fora, a gente faz uma verificação desse token que vem por aqui. Não, esse daqui é só o token que passou autenticado dentro dessa mesma plataforma de autenticação, validado com o [LOCAL] do AD que foi configurado no SESC, aí sim eu tenho a permissão de acessar os detalhes das reservas. Então... DeixaLeonardo da \n[LOCUTOR 22]: eu\n[LOCUTOR 13]: fazerLeonardo da \n[LOCUTOR 22]: uma pergunta aqui em rela\n[LOCUTOR 2]: aLeonardo da \n[LOCUTOR 22]: essas questões de todas as APIs com os tokens que elas se comunicam, após o incidente que aconteceu lá no dia 9 do 2, desculpa 12, 12 do 2, foi feita uma revalidação de todos esses tokens ou não?\n[LOCUTOR 13]: Esses tokens tem validade de aproximadamente 4 horas, então eles só conseguem manter por esse tempo e ele é atualizado todo dia, conforme vai chegando ao final da segurança. E no dia seguinte ele precisa fazer o login de novo. MasLeonardo da \n[LOCUTOR 22]: o\n[LOCUTOR 13]: login comLeonardo da \n[LOCUTOR 22]: usuário e senha, certo?\n[LOCUTOR 13]: Ou via [LOCAL]. Tem que fazer um novo login com usuário e senha. Isso dentro dessa interface central de reserva, certo? Que utiliza,[PESSOA] \n[LOCUTOR 22]: por\n[LOCUTOR 13]: sua vez, aLeonardo da \n[LOCUTOR 22]: mesma [PESSOA]. A [PESSOA] comunica com a [PESSOA] Vocês\n[LOCUTOR 13]: fizeramLeonardo da \n[LOCUTOR 22]: um cliente de senha desses tokens?\n[LOCUTOR 13]: Esse daqui, né? Esse daqui... Eu não sei dizer. Vou ter que levantar isso aí pra você, não é?[PESSOA] \n[LOCUTOR 22]: Porque isso é importante, porque assim, se alguém conseguiu interceptar essa comunicação e conseguiu coletar dados através dessa [PESSOA], pode estar coletando\n[LOCUTOR 3]: dadosLeonardo da \n[LOCUTOR 22]: da [PESSOA]...\n[LOCUTOR 3]: Eu posso interromper aqui e comentar com vocês como o papel meu se tirou aqui do grupo de forma geral, tá? O incidente teve o primeiro relato para nós no dia 17 de fevereiro. No dia 17 de fevereiro, por volta das 11 horas, nós recebemos um grande reset geral de todas as senhas dentro da organização, grupo ou minibis, bem como chave de [PESSOA]. O que o [PESSOA] tá explicando a vocês é a comunicação que vocês tem via [EMPRESA]. Então eu vi que vocês estão questionando sobre questões de WAF, questões de conexões, proteções e camadas. E essa camada que ele tá explicando a vocês é a camada mais inicial que é praticamente o hoteleiro acionando para poder ver uma reserva. Toda a comunicação interna que se dá de transações e interconexões entre sistemas e distribuição, está na camada [EMPRESA]. O [EMPRESA] conta com todas as APIs de baixo de Cloudflare, o off, ativos e dinâmicos colocados protegidos, E todas as APIs, exceto o [EMPRESA], que é uma [PESSOA] pública que a gente tem que compartilhar, todas elas são protegidas através de whitelist dentro da nossa operação. Temos um datacenter on-prem e toda a nossa infraestrutura fica [LOCAL] no nosso datacenter. Então, eles são duplamente protegidos por acesso via Cloudflare e o whitelist dentro do nosso escritório. Então, isso daí que ele pôs os dois traços [LOCAL].\n[LOCUTOR 13]: Isso. E\n[LOCUTOR 3]: aí, no dia do incidente, a primeira ação que eu tenho aqui no nosso procedimento, a gente não sabia de onde viria, é importante reforçar que no dia Apareceu para a gente em torno de uns 10 casos, 10, 15 casos. E nós tomamos a primeira ação, o que nós fizemos foi o reset geral dos usuários da nossa operação, bem como também as principais chaves de [LOCAL] são de integrações. Integrações essas entre agências digitais como [EMPRESA], [PESSOA], etc., que são tokens fixos, todos eles foram rotacionados nessa data. e operações APIs que têm tokens, como o que o [LOCAL] está explicando, eles são tokens descartáveis gerados para o login e senha dos usuários.\n[LOCUTOR 13]: Então,\n[LOCUTOR 3]: só para não confundir e misturar todos os assuntos aí, para não deixar uma impressão errônea. Outro ponto, só intervindo um pouco. É legal que estão querendo analisar e entender, etc. Mas eu vejo que a gente não vai ser produtivo analisando e querendo fazer uma auditoria interna, sendo que eu tenho consultorias externas fazendo todos os nossos testes para poder divulgar a mercado, porque o nosso nome está sendo colocado diversas vezes em questionamento. Então a gente já tem. E nós deveríamos estar trabalhando aqui, talvez no pedido que o [PESSOA] fez para mim, nós deveríamos estar trabalhando aqui em conjunto para colocar nos reservas do estilo [PESSOA] em cada um dos nossos pontos, incluindo o [EMPRESA], incluindo o hotel, incluindo sistemas de integração, pra gente ficar monitorando e tentar identificar possíveis pontos, tá? Então acho que vocês ficarem explicando, querendo ver regras, etc., não me oponham, né? Não tenho problema. Mas eu acho que a gente não vai chegar muito longe, tá? Eu procuraria muito mais a gente pegar esse desenho aqui e falar que era legal. Dá pra gente fazer um teste aqui bem assertivo, se a gente colocar aqui a reserva A, chamando o A lá dentro do [EMPRESA], chamando o [EMPRESA] dentro lá da NAR, chamando o C dentro do conector, chamando o D dentro do SESC. Tipo de vazamento de informação que trafega, tá? Quando a gente fala dos casos de phishing, o comportamento típico do caso, ele tem um ciclo de dia de quatro dias. A reserva é inserida. Geralmente um phishing, quando acontece, ele acontece dentro de uma janela de 14 a 17 horas. Geralmente o hóspede tende a demorar mais meio dia ou um dia para se comunicar com o hotel e o hotel abre um chamado aqui com a gente. Então esse geralmente é o prazo que a gente teria se tivesse uns testes, colocasse testes aqui em conjunto. com a equipe, aproveitando a expertise do pessoal que tá aqui. Eu acho que dentro de quatro dias a gente teria já uma boa janela, uma boa análise do que a gente pode caçar aqui ou não, tá? Esse é o mecanismo que a gente também tem feito com diversas redes loteireiras. Nós temos casos de redes de hotéis que e que nós aplicamos um reset global generalizado na rede de hotel. E o problema varou, e eu tenho redes que tem essa dificuldade. Inclusive, a gente está executando amanhã. uma ação centralizada, independente da vontade dos hotéis, nós, [EMPRESA], iremos resetar globalmente todos os nossos usuários da rede de hotel, por exemplo, no iHotel. Então, por exemplo, as pessoas lá no [LOCAL] amanhã terão as senhas expiradas e eles terão que fazer uma nova senha. Isso vai ser uma ação globalizada em todos os nossos clientes. Só pra volume de informações, a gente sabe que publicamente a gente tem de 6 mil a 9 mil. hotéis dentro da nossa rede, você pode imaginar que cada hotel aí em média vai pedir 5 a 10 usuários, você pode imaginar a quantidade de usuários que nós temos. Lembrando que toda a gestão de acesso e saúde e governança dos usuários cabem aos hotéis. A [LOCAL] não tem condições de gerenciar se um hoteleiro demitiu ou alguém saiu da recepção, se eles estão compartilhando seninhas ou não, tá? Então só passando um pouco de informações para vocês, também para vocês não ficarem muito preocupados com a apresentação do [LOCAL], porque a gente conta aqui com uma camada bem robusta, como um grupo de [LOCAL] geral.\n[LOCUTOR 13]: Quer falar, [PESSOA]? \n[LOCUTOR 10]: levantou a mão aí? Sim, sim. Não, eu acho que foi... É importante, eu acho, que passar essas informações, porque eu não sei se existe essa troca de... Essas informações que foram trazidas agora já estão sendo repassadas de alguma outra forma aqui para o SESC, porque eu acho que, como eu falei no início, acho que o objetivo principal aqui é a gente conseguir identificar o que está acontecendo, porque existiu um incidente Eu acho que foram tomadas ali algumas medidas, sim, foram informadas. Nós também verificamos a nossa parte aqui naquilo que cabe a verificar a questão dos acessos. Onde, se é possível, foi feito, as medidas também. Em outros pontos não existia essa questão. porque já existe a proteção da própria autenticação que é utilizada por [LOCAL], que aí é quem utiliza a própria [EMPRESA], enfim. Mas é que eu acho que o grande ponto é realmente assim, continua acontecendo, a gente tem vazamento de dados mais recentes, eu acho que tem toda essa preocupação e tudo mais, só que a gente ainda tem um problema, que ainda não foi possível, pelo menos com os os relatórios chegaram até aqui para a área de segurança nenhum dos relatórios foram conclusivos foi detectada uma campanha de phishing Sim, foi detectada uma campanha de fiche com dados reais e dados recentes da época dos primeiros relatórios e agora tem a informação de que continua uma campanha de fiche, mas com dados mais recentes ainda do que já foi daquele incidente dos relatórios que eu possuo. Eu acho que a grande questão é realmente a gente tentar descobrir em conjunto o que pode estar acontecendo, aonde pode estar acontecendo esse problema. Hoje nós fizemos testes aqui também internos com a aplicação da forma que está hoje, de uso, de uso não de ferramenta ou de tentar fazer qualquer pen test não, mas de uso real. Beleza, teve um vazamento de informação, vou tentar fazer uma autenticação aqui com esse perfil. conseguiria fazer. Enfim, eu acho que a gente precisa saber, inclusive, dessas informações, não de todos os casos, porque é o negócio da empresa, mas especificamente do que a gente precisa. De novo, eu não sei se essas informações estão sendo repassadas aqui a mais alto nível aqui dentro do [LOCAL]. Eu não tinha essas informações daquilo que está sendo feito. Eu acho que o que o [PESSOA] está fazendo é importante, sim, e os questionamentos são realmente para a gente ajudar. A gente não está procurando aqui ninguém para culpar, tá? Isso aqui realmente é para ajudar e, se possível, para melhorar, para a gente tentar identificar uma possível falha,\n[LOCUTOR 3]: mesmo\n[LOCUTOR 26]: que tenham aí outras formas de verificação, com quais empresas tem testes e tudo mais. Porque assim, gente, a gente vê aí grandes empresas com investimentos muito altos, empresas mundiais e que acontecem aí problemas de segurança. Acho que isso é seguro. A gente nunca vai estar 100% seguro. Então a gente precisa sim. Hoje eu tenho um problema. Eu continuo com vazamento. Eu só quero resolver essa questão realmente.\n[LOCUTOR 3]: Já chegou a vocês o artigo que nós compartilhamos. Tem diversos artigos globais sobre o phishing que está acontecendo na rede global. Eu compartilho aqui pra vocês, é um artigo muito interessante que disseca como que acontece todo esse, esse mecanismo de FICH. E é um phishing descentralizado e genérico. Nós temos vários testes que a gente realizou aqui. A gente já sabe que eles não desduplicam os celulares. A gente sabe que eles não estão nem aí para qual é o código, qual é o nome. É simplesmente automatizado. E ele é de uma fonte muito fina que acontece através de phishing em gênero social. E, by the way, só vou mostrar aqui na tela para vocês, porque eu não sei se isso chega ao nível de vocês.\n[LOCUTOR 25]: Eu vou\n[LOCUTOR 3]: compartilhar aqui na tela, peço permissão. Só para vocês entenderem aí como que é o nível, infelizmente, como que é o nível geral de que nós temos nas redes hoteleiras, tá? Essa aqui é uma listagem tirada de Deep Web de dados vazados de usuários do [LOCAL]. Aqui, na segunda coluna, ela tem a senha. Eu só tô deixando aqui oculto por questão de privacidade dos próprios e que é muito importante. Então, oLeonardo da \n[LOCUTOR 22]: que vocês podem\n[LOCUTOR 3]: ver aqui? ALeonardo da \n[LOCUTOR 22]: gente até avaliou já essa...\n[LOCUTOR 25]: DeixaLeonardo da \n[LOCUTOR 22]: eu\n[LOCUTOR 25]: comentar sobre esse ponto. Essa lista, eu acho que a gente está desfocando aqui com relação ao processo. A gente sabe que a engenharia social, a gente entende isso. Essa lista foi compartilhada com a gente. A gente tem um padrão de senhas que essa lista não atende. A gente, inclusive, pegou essa lista para entender se os usuários dessas aplicações, das aplicações da rede hoteleira, utilizam o sistema de hotelaria e isso não foi comprovado. Fomentando o que o [PESSOA] estava dizendo, a gente tem uma preocupação com a parte de segurança, existem termos lá No nosso edital, e aí assim, [PESSOA], desculpa, eu entendi o ponto que você quis trazer, dizendo que ações estão sendo realizadas A gente não está aqui no processo de fazer uma auditoria ou tentar identificar o motivo disso O motivo desse incidente não é achar um culpado O ponto é que a gente tem requisitos do nosso edital que têm que ser cumpridos E aí, o questionamento que a gente faz é A gente pede para que existam asas, a gente pede para que camadas de segurança sejam atendidas. E aí, nesse levantamento que a gente está fazendo aqui para poder... O processo aqui não é punitivo, não é identificar, não é fazer nenhuma punição, mas fazer os acertos Então a\n[LOCUTOR 13]: gente\n[LOCUTOR 25]: pede que camadas de segurança existam e que vocês estão comprovando [LOCAL], pelo menos, vocês trouxeram até agora [LOCAL] do nosso esquema, tem camadas que não estão habilitadas ou não estão configuradas E esse é o ponto que a gente quer corrigir A gente não tá aqui pra poder fazer uma auditoria ou sinalizar, achar um culpado Eu entendo que isso é o cor de vocês, vocês têm equipes dedicadas, debruçadas em cima disso para resolver o problema. E aí o nosso papel aqui é colaborativo, só que eu preciso, eu tenho hoje um relatório e aí a gente está trabalhando, são três empresas aqui. Eu tenho um relatório dizendo que o incidente foi realizado, que não conseguiram identificar o ofensor, não conseguiram identificar qual é o ponto, e isso está acontecendo até agora. A gente voltar com um cenário que se pode ser em gênero e reverso, que se pode ser dado vazado de credenciais, cara, a gente já tirou esse cenário. É óbvio, todas as hipóteses têm que ser levantadas. O ponto específico, só para concluir, o ponto específico é, a gente quer entender se dentro do nosso processo, dentro do nosso ecossistema, a gente sabe que tem ataques, esse tipo de ataques difíceis acontecem em grandes redes, Isso é comum dentro do mercado. A gente quer olhar para o nosso cenário. [LOCAL] do nosso cenário, o que a gente preconizou dentro do nosso edital está sendo cumprido? Se não, vamos pedir para ser cumprido. Esse é o ponto. Então, assim, a gente falar, vier a credencial esvazada, se a gente, no mesmo cenário, se eu for lá na [PESSOA], na Deep Web, buscar domínios [PESSOA], se a esvazada vai aparecer, não necessariamente a lista é verdadeira. Então, assim, o ponto é, o que essa reunião está trazendo é, existem camadas de segurança que deveriam existir dentro do que preconizam digital e a camada não tá lá. Ou tá lá e não tá configurado. É o que a gente identificou aqui. Por isso que eu pedi a reunião. E eu quero, na verdade, resolver. Eu sei que vocês estão trabalhando pra isso. Sei que vocês estão evoluindo a parte de segurança. O [LOCAL] trouxe aqui, tem evoluções que têm que acontecer E a reunião, ela é pra isso, ela não é pra achar ocupado e sim pra gente poder prosseguir com segurança Hoje eu tô com um projeto parado de implementação de uma rede de mais 50 hotéis porque eu tenho um vazamento de segurança e eu tenho um estreito de segurança que eu não consegui ainda estancar e ele está acontecendo. O nosso papel aqui é trabalhar em conjunto para poder equalizar isso e entender quais foram os próximos passos. O senhor hoje trouxe uma situação que o [LOCAL] disse aí, de todas as credenciais vão ser realizadas. Isso não foi passado em nenhum momento para a gente. Uma ação que a gente entende que tem que ser feita. Então, assim, se eu não sei ainda, se eu não consigo identificar qual é o ponto, tem que se fazer uma campanha dessa. Então, o ponto da reunião é exatamente para isso, é colaborativo para a gente poder evoluir com os próximos passos. E aí, dou a palavra aí.\n[LOCUTOR 3]: Conte comigo, conte com o grupo de forma geral e vamos separar então em dois assuntos. Acho que é importante ir para o [PESSOA] para estar mais preparado para a reunião. O edital. [PESSOA], você conhece o edital e os requisitos de segurança?\n[LOCUTOR 13]: Eu particularmente não. Então eu\n[LOCUTOR 3]: posso fazer\n[LOCUTOR 13]: isso\n[LOCUTOR 3]: daí. Eu também não. Então acho que eu peço uma ajuda de vocês, pessoal da [LOCAL], compartilhar com a gente. Dá pra gente uma semana pra gente poder analisar o que tá sendo pedido no edital, a gente vem cobrindo exatamente o que tá no edital, o que tá sendo feito, o que está concluído, o que não tem feito, de forma bem transparente com vocês na questão de parceria. Eu acho que sim, vai ser extremamente produtivo pra gente poder chegar em conjunto, vocês ganharam o edital, contam com os nossos produtos para poder fazer a entrega, e assim a gente vai focar para que ele seja cumprido. Mas a gente precisa entender exatamente o que são esses pedidos, tá? Tudo que não for viável, acho que é legal, né, de o Renata poder anotar e mostrar. Então, por exemplo, Colocar um offer aqui que vai cobrar a gente por tráfego para proteger um dado estático, talvez ele não pareça ser uma solução tão estratégica assim. Aí o [PESSOA] pode trazer isso para vocês. E o ponto 2 da discussão, que é o phishing em andamento, que eu estou falando a vocês que realmente é um phishing, nós temos aqui exaustivamente com a nossa equipe de ofensiva e defensiva, olhando para esse Desde o dia 17 de fevereiro, a gente praticamente vive aqui em 1 a 1, nós não temos nenhuma evidência de que nós temos algo comprometido. Nossos volumes são monstruosos, os casos são de números muito baixos, perto da quantidade que a gente faz. Obviamente eu quero zero, todos nós buscamos zero. Mas isso mostra pra gente que não existe um vazamento síncrono, massivo, etc e tal. Isso pode vazar nas pontas. Nós temos um phishing global que dá pra vocês verem em artigos na internet, espalhado por tudo. Adoraria aí o [EMPRESA] ter o tamanho de afetar o mundo, tá? De forma geral. Longe disso, né? Nós somos irrelevante perto do mundo de forma geral. No [LOCAL] somos forte, só que irrelevante no restante. E o que eu proponho para vocês na questão do phishing é, nós faremos esse reset centralizado e global, infelizmente sem a aprovação necessária do hotel ou não, não vamos ficar comunicando com os hotéis, não fizemos um grande alarde sobre isso também, porque se você for fazer uma iniciativa e falar, olha vou trocar a senha de todo mundo e deixar isso avisado para todos os atacantes que vai ser trocado, que eles têm que correr para buscar novas janelas, não faz muito sentido. O reset vai acontecer amanhã em todas as redes, e aí o que eu proponho a vocês de forma geral é, logo após o reset geral, a gente colocar nossas armadilhas e colocar vários testes de reservas em conjunto entre nós. Reservas essas que a gente pode controlar para cancelar no futuro. As reservas que a gente pode deixar, ou vocês colocam sem contar pra gente, ou a gente coloca aí em conjunto, a gente coloca em nomes distintos em diversos pontos e a gente vai assistir isso por um período. Se feito um resetão, e se a gente não conseguir identificar nenhuma reserva dentro de uma gama que a gente pode colocar aí 30, 40, 50 reservas nossas de análise,[PESSOA] - \n[LOCUTOR 20]: a\n[LOCUTOR 3]: gente vai ter uma evidência bem forte do porquê que não tá batendo. Passado 20, 30 dias, começa a vir um caso ou outro de novo? Eu falo, cara, ei, vamos redator a senha de novo, tá? Então acho que são dois assuntos bem instintos. Não necessariamente o cumprimento ou não cumprimento do edital vai garantir o [PESSOA] na [LOCAL].\n[LOCUTOR 25]: O\n[LOCUTOR 3]: [PESSOA] é muita disciplina.\n[LOCUTOR 25]: [EMPRESA]. concordo, mas a gente precisa garantir o mínimo e esse é o ponto.\n[LOCUTOR 3]: Isso aí, vamos fazer passo edital pra gente, cara. O maior prazer. Eu não sou novo na companhia, eu preciso até estudar pra entender isso daí, o [PESSOA] também possivelmente não conhece, né, o edital. Acho que dá pra gente preparar um material bem bacana pra vocês e um plano de ação caso ele não esteja sendo cumprido, tá?\n[LOCUTOR 13]: Isso, em conjunto aí, o [PESSOA], outro [PESSOA] aí levantou a mão.[PESSOA] - \n[LOCUTOR 27]: Sim, só um ponto sobre o edital, né? A [LOCAL] participou da [EMPRESA], participou do edital, o [PESSOA] [LOCAL] tem o conhecimento desses pontos, tá, [PESSOA]?\n[LOCUTOR 13]: ETOTVS - \n[LOCUTOR 27]: [PESSOA]?\n[LOCUTOR 3]: Beleza. Ele tá de férias,\n[LOCUTOR 13]: tá\n[LOCUTOR 3]: aqui hoje.\n[LOCUTOR 13]: Você que tá deTOTVS - \n[LOCUTOR 27]: férias...\n[LOCUTOR 13]: Eu,\n[LOCUTOR 3]: mais pra\n[LOCUTOR 13]: gente, não tenho, mas sim, acho que o quanto antes eu conseguir adiantar mesmo nas férias dele, melhor.[PESSOA] - \n[LOCUTOR 27]: [LOCAL],\n[LOCUTOR 13]: nãoTOTVS - \n[LOCUTOR 27]: tem problema. Quando eu vou mandar o edital pra vocês, eu tenho sim mãos aqui, mando, os casos que avisei também que dos casos que a gente teve recentemente, principalmente nesse final de semana de 27, 28 e 29, tivemos casos reportados pelo [LOCAL], especificamente ali, essa estratégia das reservas iscas, acho que a gente sim precisa fazer, então passos aqui que a gente precisa fazer, do nosso lado, acho que nem deu o tempo de a gente apresentar os itens de segurança que o ecossistema TOTUS tem. E isso foi apresentado também na [EMPRESA] e temos os dados nossos aqui, o time de engenharia também está participando, mas entendo que não vai dar tempo de a gente ver isso hoje. Mas acho interessante também do nosso lado, posteriormente, o time do SESC, a gente mostrar para vocês os itens de segurança que foram feitos aqui, o que a gente já tinha, o que a gente vem implementando de novo também para todo mundo ter essa ciência, tá? E próximo passo aqui, mando\n[LOCUTOR 25]: o editalTOTVS - \n[LOCUTOR 27]: para vocês, tá?[LOCAL] - \n[LOCUTOR 15]: [PESSOA] eTOTVS - \n[LOCUTOR 27]: [[LOCAL] - \n[LOCUTOR 15]: [LOCAL] - \n[LOCUTOR 27]: ouvindo.[LOCAL] - \n[LOCUTOR 15]: Ah, desculpa, cara. É, a gente pode... [LOCAL], tem uma imagem aqui rápida, a gente pode mostrar rapidão sobre o tipo de engenharia aqui, [PESSOA], a gente pode mostrar rapidão, se for o caso.[PESSOA] - \n[LOCUTOR 27]: Tá, deixa eu só terminar a fala aqui...[LOCAL] - \n[LOCUTOR 15]: Não, tranquilo, tranquilo.[PESSOA] - \n[LOCUTOR 27]: Beleza, a gente vê se o pessoal consegue ficar mais um pouquinho. Os próximos passos aqui, mando o edital pra vocês, [PESSOA] e [PESSOA], direciono isso pra vocês, tá bom?\n[LOCUTOR 13]: ETOTVS - \n[LOCUTOR 27]: entendo que vocês vão precisar de um tempo pra verificar esses itens, né? Revalidarmos, na verdade. e a gente formar um plano de ação em conjunto para acessar ou identificar se temos alguma vulnerabilidade em qualquer que seja os lados. Beleza?\n[LOCUTOR 13]: [LOCAL]. Tem todos os passos de cumpridez do que está estabelecido, que foi combinado. Eu tenho algumas coisas aqui que, como o [PESSOA] comentou, a gente precisa colocar aqui para cumprir o edital. E tem todo esse ponto do trabalho conjunto, dessa investigação em andamento desses casos, até mesmo esses reportados recentemente. A [PESSOA] tinha levantado a mão. Eu\n[LOCUTOR 9]: não sei se todos podem continuar, ou a gente continua aqui, ou a gente agenda uma novaGihan [LOCAL] - \n[LOCUTOR 15]: reuni\n[LOCUTOR 1]: para que a TOTUS possa apresentar o que eles têm de arquitetura de segurança.[PESSOA] - \n[LOCUTOR 27]: É, eu interro\n[LOCUTOR 9]: praTOTVS - \n[LOCUTOR 27]: ser com mais qualidade da [PESSOA].\n[LOCUTOR 9]: Vamos marcar uma outra, né?[PESSOA] - \n[LOCUTOR 27]: Muito corrido.\n[LOCUTOR 9]: Tá bom.[PESSOA] - \n[LOCUTOR 27]: Isso, eu aviso a vocês. Eu vou mandar esse digital hoje pra eles, tá? Pra todo mundo ficar na mesma página aqui. E a gente marca uma outra agenda pra fazer a agenda com qualidade, tá? Acho que é importante.\n[LOCUTOR 9]: Tá ok.\n[LOCUTOR 13]: Obrigado,\n[LOCUTOR 25]: pessoal. [LOCAL], bom trabalho pra todo mundo. [LOCAL].\n[LOCUTOR 26]: Falou gente,\n[LOCUTOR 13]: valeu.[LOCAL] - \n[LOCUTOR 15]: [LOCAL].",
+  "texto_filtrado": "[LOCUTOR 9]: [PESSOA] -\n[LOCUTOR 8]: Olá,[PESSOA]\n[LOCUTOR 9]: Pessoal da TOTUS, da [PESSOA] e [PESSOA], tá todo mundo que vai participar da reunião?\n[LOCUTOR 13]: Aqui da [PESSOA] e [PESSOA]. TOTUS\n[LOCUTOR 9]: [LOCAL] -\n[LOCUTOR 20]: Aqui da TOTUS também.\n[LOCUTOR 9]: Tá. Eu acho que a gente pode começar, eu já falei aqui, comprar se ele puder, ele entra, tá? Mas acho que a gente já pode começar, confere? Tem mais alguém não, né, [EMPRESA] da\n[LOCUTOR 22]: Que vocês\n[LOCUTOR 9]: chamaram não, né? Então, pessoal, o objetivo hoje da reunião é a gente entender a arquitetura de segurança que vocês têm em relação a todo o ecossistema da hotelaria, [LOCAL], [LOCAL] e [EMPRESA], para que a nossa equipe de segurança aqui também possa entender como as questões estão configuradas e até tirar algumas dúvidas que porventura surjam ou que eles já tenham feito algum tipo de levantamento.\n[LOCUTOR 13]: [EMPRESA]. Hoje...\n[LOCUTOR 11]: só vou pedir licença, [LOCAL], só um instantinho, para a gente colocar a reunião para gravar, todo mundo de acordo?\n[LOCUTOR 13]: De acordo, de acordo.\n[LOCUTOR 9]: Então vou iniciar aqui a gravação. Oi, [LOCAL], pode falar.\n[LOCUTOR 13]: Obrigado, [PESSOA]. Então, Eu vim mais preparado na parte do motor. E aí, primeiro, eu queria perguntar até tudo mais pra gente eventualmente fazer uma segunda rodada aqui pra gente pegar mais detalhes e documentar melhor algumas necessidades que vocês têm. Então, por exemplo, o que hoje eu vim mais preparado é pra explicar como que funciona essa parte que é apresentada para os visitantes do nosso motor, que vão acessar o viagemcomsesc.com.br. Então, como que isso funciona, um pouco a arquitetura, como que as pessoas vão acessar, um pouco dessa infraestrutura para facilitar até mesmo a avaliação de segurança, de fazer escândalo de segurança, que é um trabalho que a gente já faz aqui. Agora, algo além disso, a gente pode se preparar melhor e depois trazer para vocês, tá bom? Por exemplo, você citou sobre o [EMPRESA], eu não tenho essas informações, eu não conheço esse panorama inteiro aí dentro do projeto e a gente pode trazer para você\n[LOCUTOR 9]: depois\n[LOCUTOR 13]: de alguma maneira.\n[LOCUTOR 9]: Então, [LOCAL], eu acho que a gente pode começar aí pela arquitetura de segurança do [LOCAL], para que a gente entenda, e depois a gente vai passando a [LOCAL], Totos, ver se realmente todo mundo que pode responder pelo assunto está na reunião. Se precisar, a gente marca um outro fórum e continua. Mas eu acho que podemos começar aí com você mesmo, [LOCAL], falando um pouquinho da sua arquitetura.\n[LOCUTOR 13]: Tá legal. Obrigado. Então, gente, o que a gente tem? Vou até pedir desculpa aí, eu vou colocar aqui o compartilhar tela, eu não tenho aqui os diagramas, mas eu vou desenhar aqui para vocês, tá bom? Eu espero que vocês peçam, me doem aí pelos meus dotes aqui artísticos, mas o que que acontece, né? Quando a gente vai acessar a partir do... Hoje vamos falar assim, a gente vai entrar no www.viaje.com.com. Então, eu estou aqui no meu navegador ou no meu celular. O primeiro acesso é feito dentro de uma estrutura do AWS o CloudFront, que é o nosso CDN. Essa URL aqui, via HTTPS, ele tem acesso aqui a todos os nossos arquivos estáticos. Então, nos nossos arquivos estáticos aqui, e aí eu prometo para vocês que eu mando um diagrama mais profissional para vocês depois, mas a gente tem os nossos arquivos JavaScript, os nossos arquivos HTML, algumas imagens, ícones, esse tipo de coisa, E na primeira acessa que ele faz, ele faz o download aqui do nosso... desses arquivos necessários para abrir. Então, a gente tem centenas aqui de arquivos JS que a gente dividiu. [PESSOA], ele vai fazer a ROM. Então, ele puxa e ele monta aqui a tela dentro do... do navegador, seja via browser, seja via mobile. E a partir daí, ele começa a fazer uma série de... de chamadas ao nosso back-end. Eu vou depois passar toda uma lista de todas as URLs e domínios que nós utilizamos, mas a gente tem aqui um endpoint de autenticação, que é o nyara-alph. Mesmo que a pessoa não fez o login, daqui a partir daqui ele consegue um token de out, para a gente ter... Esse token [PESSOA] de segurança, ele é utilizado para todas as chamadas aos nossos backends. Então, aqui a gente guarda no [PESSOA]... A gente consegue rastrear disso a partir desse [PESSOA], qual é o IP em que ele começou a acessar, qual o momento em que ele fez a primeira visita e a gente tem uma renovação, ele tem uma validade a cada... Eu pego lá depois, mas quando termina essa validade, a gente faz a renovação desse token.\n[LOCUTOR 13]: esse token é utilizado dentro das nossas APIs. Então, nós temos as APIs de back-end, entre elas uma [PESSOA] GraphQL, que utiliza por trás dela o AWS AppSync. Essa...[PESSOA]\n[LOCUTOR 22]: Foi o [PESSOA], é isso?\n[LOCUTOR 13]: [LOCAL]. A gente chamaLeonardo da\n[LOCUTOR 13]: irata, mas ninguém me chama de irata.[PESSOA]\n[LOCUTOR 22]: Tudo bom, [PESSOA]? Acho que tu vai explicando e talvez a gente vai tirando as dúvidas e se deixar para o final talvez o que perca, porque\n[LOCUTOR 13]: tu estáLeonardo da\n[LOCUTOR 22]: criando uma linha de raciocínio e eu acho que é importante essa linha de raciocínio. Tu comentou ali que tem um front door que responde, que é um... E esse front door, ele pode ou não pode ter um WAF atrelado a ele? E a minha pergunta é se existe um WAF atrelado a ele ou ele é só um front door que ele responde o CDN? Hoje\n[LOCUTOR 13]: nós estamos avaliando, e eu vou falar para vocês, a gente está avaliando a aplicação do WAF em todas essas interfaces. Essa a gente tem, a gente tem um WAF aqui. Essa daqui a gente está vendo, porque, por exemplo, por mais que a gente só tenha aqui dados, coisas estáticas, tem como que a tabela, a fonte, estilo, CSS, esse tipo de coisa, não existem dados aqui de verdade para o cara poder explorar. Mas, de qualquer maneira, no momento que a gente colocar um WAF, isso vai ajudar numa investigação posterior. Então, a gente está hoje numa análise de custo dessa implementação. É uma coisa super fácil para a gente implementar, é só uma questão da gente analisar se a gente coloca ou não nesse cara.[PESSOA]\n[LOCUTOR 22]: E daqui para\n[LOCUTOR 13]: a pauta?[PESSOA]\n[LOCUTOR 22]: Só quero saber o que tem hoje, né? Porque daí a\n[LOCUTOR 13]: gente consegueLeonardo da\n[LOCUTOR 22]: fazer uma avaliação. Hoje\n[LOCUTOR 13]: WAF.[PESSOA]\n[LOCUTOR 22]: Nessa primeira página.\n[LOCUTOR 13]: [PESSOA].[PESSOA]\n[LOCUTOR 22]: E aí, no segundo, tu tem um WAF habilitado e aí tu tem essas regras de WAF. O que que tem habilitado nessas regras de WAF? Porque eu posso ter o WAF ali...\n[LOCUTOR 13]: Sim, hoje é bem simples e a gente tá cada vez evoluindo ele. Hoje a gente tá fazendo na base de verificação de Rate Limit, esse tipo de coisa. Não pega muita coisa aí hoje, mas,[PESSOA]\n[LOCUTOR 22]: puxa,\n[LOCUTOR 6]: isso, aLeonardo da\n[LOCUTOR 22]: gente precisa\n[LOCUTOR 13]: evoluir. Tu tem os KellyLeonardo da\n[LOCUTOR 22]: [LOCAL] habilitado?\n[LOCUTOR 13]: validação, a gente coloca aqui também.[PESSOA]\n[LOCUTOR 22]: Se tu nos passar quais são as regras, a gente consegue te dizer o que tu precisa ter pelo menos implementado, porque senão a gente fica, às vezes, chovendo no molhado, dizendo, ah, faz\n[LOCUTOR 13]: isso,[PESSOA]\n[LOCUTOR 22]: mas tu já tá fazendo, né. Então, assim, se tu me disser quais as regras que estão implementadas, com esse padrão aqui, com essas regras habilitadas.\n[LOCUTOR 13]: [LOCAL]. OLeonardo da\n[LOCUTOR 22]: [PESSOA]\n[LOCUTOR 13]: tambémLeonardo da\n[LOCUTOR 22]: levantou a mão aí.\n[LOCUTOR 22]: Agora o [PESSOA] pra. Aí é [LOCAL] pra [LOCAL]. Tá\n[LOCUTOR 13]: no mundo, não seiLeonardo da\n[LOCUTOR 22]: o que\n[LOCUTOR 13]: você tá falando.[PESSOA]\n[LOCUTOR 13]: a gente manda isso no documento aqui que eu tô preparando aqui pra vocês. O que a gente tá fazendo assim exatamente nesse momento tá, [PESSOA]? Eu vou mostrar aqui, temos uma outra série de APIs aqui.\n[LOCUTOR 25]: já. [LOCAL], é o [PESSOA] falando aqui da [EMPRESA] também. É que na verdade assim, acho que o principal é a gente entender quais, né, e aí como o [PESSOA] trouxe, quais são as regras hoje que estão implementadas. É assim, a\n[LOCUTOR 13]: gente... É\n[LOCUTOR 25]: interessante... É óbvio, né? A parte de segurança, a gente sempre tem um roadmap de implementar melhorias, mas a gente quer\n[LOCUTOR 25]: E aí, o objetivo dessa reunião é a gente ter exatamente o que existe hoje. Então, assim, se eu puder demonstrar quais são as regras, quais são os filtros que hoje essa camada tá... A gente identifica que existe essa camada. Mas eu quero saber o que ela hoje faz, porque... A gente tá aqui... Tentando fazer um deep dive nesse ecossistema para entender melhor o que está acontecendo. Se você puder abrir hoje e mostrar quais são as regras, ou se existe alguma regra ou se não existe. Isso é super importante.[PESSOA] -\n[LOCUTOR 13]: bom. Hoje, eu sei que tem uma regra de limite de acesso, de 100 acessos por cada cinco segundos. Mas eu preciso perguntar aqui para o pessoal que implementou isso mais detalhes dessa regra, tá? Eu prometo para vocês que eu mando para vocês. Eu não tenho aqui o acesso, não consigo abrir aqui, mas eu vejo aqui e tiro. E a gente combina, manda por e-mail e depois combina. Pode ser assim, frase... [PESSOA], desculpa não poder responder isso agora. Eu sei que isso, a gente está falando de segurança, é uma informação importante aqui. Mas eu vou ficar devendo para vocês neste momento, tá bom?[PESSOA]\n[LOCUTOR 22]: Uma outra pergunta que tu falou ali do token, né? Tu falou que tem uma\n[LOCUTOR 13]: questãoLeonardo da\n[LOCUTOR 22]: de um token. Esse token, ele é gravado via cookie no navegador usuário?\n[LOCUTOR 13]: Ele fica gravado no local storage dele, dentro do browser, para eventualmente quando ele voltar, a gente consegue rastrear que ele está voltando ou alguma coisa disso. Eu não sei como está, no caso, a implementação aqui, mas como no nosso sistema a gente tem a parte de autenticação. O cara faz a reserva e depois ele pode voltar. e ver as minhas reservas. Aí, a partir disso, a gente tem o token autenticado também, que passa por esse mesmo endpoint. Mas... [LOCAL], a sua repergunta é sim. A gente grava isso no local storage do browser. Posso continuar?[PESSOA]\n[LOCUTOR 13]: Ah, abriu a... É, vi que ele levantou a mão.\n[LOCUTOR 26]: Não, eu ia perguntar mais coisas, mas é como o [PESSOA] falou. Eu acho que... Eu vou entender essa questão aí do funcionamento assim por alto ali da aplicação e, como ele falou, tem algumas informações que seriam mais interessantes aqui para a gente, mas ele não consegue trazer agora. As\n[LOCUTOR 26]: tiver\n[LOCUTOR 13]: dúvida de alguma coisa do que que é, nem que eu tenha que levantar aqui da lista de coisas que eu preciso responder e documentar e mandar para vocês depois.\n[LOCUTOR 26]: Porque até quando eu estava falando do token de acesso para\n[LOCUTOR 26]: beleza, normal o funcionamento ali. ainda mais a utilização do [EMPRESA] ali para essa inspiração. Só que quando que é utilizado esse cara? E assim, é porque eu estou aprofundando o\n[LOCUTOR 13]: conhecimento\n[LOCUTOR 26]: até na arquitetura hoje que a gente tem do [LOCAL], agora no desenvolvimento desse problema que nós tivemos. Mas eu tenho o motor de reservas que é o [LOCAL]. [PESSOA],\n[LOCUTOR 26]: E que é um sistema onde eu tenho também a geração desses tokens, porque eu tenho uma autenticação nesse sistema.\n[LOCUTOR 13]: [PESSOA], do [LOCAL].\n[LOCUTOR 26]: E ele tem uma integração direta com o [EMPRESA]. Eles se conversam.\n[LOCUTOR 13]: Tá bom. Sim, sim. Tá uma conversa... Agora, isso... A gente tem vários modos, tá? Como eu não sei especificamente do [LOCAL], Mas existem dois maneiras de comunicação com o PNS. Toda a reserva que é feita via motor, ela entra dentro do sistema da [LOCAL]. A gente tem o ecossistema [LOCAL]. Temos o ecossistema [LOCAL]. E temos o ecossistema da TOTOS. O que eu posso me informar aqui é se é se essa conversa é aqui ou minibiz via TOTUS ou essa comunicação é feita por aqui, tá bom? Existem duas, algumas maneiras que a gente pode implementar isso dependendo da permissão do cliente. E eu particularmenteTOTVS -\n[LOCUTOR 13]: sei. Pode falar.[PESSOA] -\n[LOCUTOR 27]: O [LOCAL], o [PESSOA] [LOCAL] também. Hoje o [LOCAL] recebe a reserva, lá do hospede, que está fazendo o cliente, que está fazendo a reserva, passa para o minibiz e o minibiz desce para todos, tá?\n[LOCUTOR 27]: Esse é o cenário.\n[LOCUTOR 13]: [EMPRESA] -\n[LOCUTOR 27]: gente vai direto no [LOCAL] só para pegar os dados de hospede, no caso, um [PESSOA] direto do [LOCAL].\n[LOCUTOR 22]: [PESSOA] já tá com a mão levantada também, porque o [EMPRESA] e a P.I. os dois já... Opa! Para! Vai, [PESSOA]!\n[LOCUTOR 26]: É, aí justamente, né, porque... Essa é porque, provavelmente, ou talvez a gente não tenha essa informação agora, mas essa comunicação da [PESSOA], porque assim, a gente tem outras aplicações [PESSOA] aqui. Então, a gente realmente tem uma aplicação [PESSOA] que eu tenho um ambiente on-premise e tem um ambiente em cloud. E eu tenho uma [PESSOA] que ela, mesmo que eu faça todo o meu sistema via cloud, ele é todo o cloud, ele é o [PESSOA] cloud, mas ele ainda vai também buscar alguma parte de informação no ambiente on-premise via [PESSOA], ou vice-versa. O meu ambiente on-premise, ele vai lá e busca essa comunicação via [PESSOA]. Aí, entrando nesse ponto dessa comunicação, dessa solução, uma das questões é que, inicialmente, essa [PESSOA] que ia no meu ambiente on-premise, aí eu estou trazendo um exemplo aqui do meu ambiente, da minha experiência com a [PESSOA], Era uma [PESSOA], beleza, vamos criar uma [PESSOA] para fazer essa integração, beleza, mas não existia um controle, e aí vou falar de segurança diretamente, uma restrição de quem, de fim a fim, para estabelecer essa comunicação. Então nós não, vamos criar, eu só vou receber comunicação desses IPs, quais são os IPs de vocês para poder estabelecer, vou colocar uma camada de proteção ali. Hoje, Nessa comunicação via [PESSOA], a gente tem proteção até dessa questão da TOTUS, que vai buscar informação do [LOCAL] também, dessas APIs, das APIs que são utilizadas hoje no sistema, todas elas, até não só essa, a gente tem também essas camadas de proteções, eu poder definir, restringir as comunicações.\n[LOCUTOR 13]: Tá bom, hoje aqui a gente só tem na base de autenticação via tokens, né? Então, como eu disse, a gente tá fazendo todo esse estudo de segurança recentemente. É um cara que, se vocês falam, puxa, e assim, né? Só de falar, agora fica claro, né? [PESSOA], que tipo de controle eu posso colocar aqui, né? Porque, de qualquer maneira, isso aqui é feito pela internet. Por mais que aqui a gente tenha segurança e tudo mais, a gente faz via HTTP, tudo via criptografado, mas, contra o [EMPRESA] tanto, é bom a gente ter um monitoramento desse lado aqui, para vocês poderem ver, para a gente se proteger contra isso. Vai que, de repente, a [LOCAL] que está aqui vaza ou coisa parecida e eu consigo acessar por aqui. É isso que você está falando, né? Essa preocupação, certo?[PESSOA]\n[LOCUTOR 22]: Apesar\n[LOCUTOR 13]: dasLeonardo da\n[LOCUTOR 22]: grandes famílias.\n[LOCUTOR 26]: [PESSOA], exato.\n[LOCUTOR 13]: Tá bom, eu vou... A gente não tem nenhum plano aqui específico desse, né? Eu vou montar um plano pra esse cara aqui. Tá bom? O que a gente tem hoje? A gente tem aqui uma segurança das chaves, toda essa parte aqui, assim, a gente pode... Eu vou falar com o pessoal aqui pra poder talvez dar mais algum detalhe, mas... No momento que essa chave vazar e ter um acesso, o máximo que eu tenho aqui é... Eu tenho vários logs, eu consigo ver, puxa, de que IP está acessando, mas isso de uma forma mais criativa. Mas já está dentro aqui do nosso... A gente tem todo um plano aqui de seguranças aqui dessas partes das nossas interfaces. Hoje eu não tenho o WAF aqui, mas é o cara que precisa, principalmente para vocês aqui. A gente faz esse trabalho aqui desse lado, tá bom?[PESSOA]\n[LOCUTOR 22]: Hoje a [PESSOA] então ela não passa pelo WAF, a comunicação do [PESSOA] com a [LOCAL] não passa pelo WAF, e a [PESSOA]\n[LOCUTOR 6]: uma questãoLeonardo da\n[LOCUTOR 22]: de usuário e senha, é isso? Tem\n[LOCUTOR 13]: um token de segurança, sim. É um token de segurança de out.[PESSOA]\n[LOCUTOR 22]: Mas é um token...\n[LOCUTOR 13]: Que é basicamente usuário e senha, né? Vai lá, gravado, manda aqui, criptografado e é esse.[PESSOA]\n[LOCUTOR 13]: não tem. Voltando aqui mais do motor. Nós temos aqui as nossas APIs, certo? Que a gente consegue consultar. Essa [PESSOA] de GraphQL é usada para capturar dados de configuração e, no caso de... E a gente usa também para ver atualização de status da reserva. Então, no fluxo da reserva, ele faz a reserva. Como que está a reserva? Aqui eu consigo trafegar dentro desse dado aqui detalhes de hotel, confirmação da reserva, qual hotel, qual as datas, esse tipo de coisa. Eu consigo ver, talvez, eu preciso do e-mail para poder consultar esses dados, né? Então ele usa o e-mail e esse jout para poder consultar os dados da própria venda. mas a gente está... Anteriormente, até recentemente, a gente colocava alguns dados pessoais e estamos removendo dados pessoais do usuário aqui dentro dessa comunicação. E aqui dentro dessas APIs, e são várias, nós temos as APIs para os diferentes serviços. Então, eu tenho uma [PESSOA], uma URL específica para Pesquisa de disponibilidade. Eu tenho uma outra [PESSOA] para realização do checkout. Eu tenho uma outra [PESSOA]... Essa mesma da realização do checkout é utilizada para, por exemplo, pagamentos, trocar cartão de crédito, esse tipo de coisa. E é essa aqui que a gente também... O que a gente vai fazer? Hoje não tem WAF nessas APIs. E o que a gente está fazendo nessa versão, na versão que vai subir na semana que vem? A gente vai mover atrás desse CloudFront, que hoje carrega aqui e não tem o WAF. Nós vamos mover todo esse acesso, ao invés de acessar essas APIs por aqui, eles vão acessar por aqui. Então, isso aqui vai ser movido daqui e vai mover por aqui. e dessas internamente, por rede, ele vai poder acessar dentro da rede da AWS, que essas APIs serão acessadas. Todas essas chamadas vão ser feitas a partir do mesmo endpoint que a gente vai acessar. Eu vou colocar o WAF dentro de todas as conversas. Eu vou fazer algumas regras específicas. Se for arquivo estático, eu tenho uma certa regra. Se for via [PESSOA], eu tenho uma outra. Isso que a gente está implementando. Primeiro estou movendo para cá, colocando essas portas por aqui, para que durante o próximo mês a gente faça uma proteção extra dentro dessas APIs super importantes, que são as APIs utilizadas para reserva, para pegar os dados de pagamento, os dados dos usuários e tudo mais. Nós estamos passando aqui também por uma série de verificações atualizações de cabeçalhos de segurança, que hoje a gente, nessa versão, na segunda-feira, já vai entrar. Então, tem algumas que não, que poderiam ser exploradas em certos cenários. Então, a gente está colocando o [EMPRESA], estamos colocando o [LOCAL], vários, vários, nesse momento, os críticos de alta, né, dos CVEs mais críticos. e a gente está implementando aos poucos e já vai sair uma versão dessa semana que vem com essa atualização. Neste momento, de WAF mesmo, é só esse. Se a gente entrar, eu vou divulgar isso. Mas a gente já está fazendo todo esse plano aqui de proteger essas APIs também. contra ataques de fora, tá? Fala, [PESSOA].\n[LOCUTOR 26]: É, [PESSOA]. Eu acho que, assim, é normal hoje em dia a gente ter essas várias integrações com várias aplicações diferentes, com soluções para... E tudo [PESSOA], né? Hoje o nosso grande problema de segurança são as APIs, realmente. Isso é fato. Mas é que... Por que até quando a gente falou da última vez, não lembro se foi semana\n[LOCUTOR 13]: passada, foi uma\n[LOCUTOR 26]: eu falei assim [PESSOA] vocês têm uma uma uma arquitetura ali para um diagrama para poder me mostrar porque eu pedi isso porque assim é complexo já para a gente entender porque assim a gente vai saber muito assim da solução da implantação ou eu tenho aqui a nossa equipe eles vão saber a gente vai conhecer muito da solução e se não a gente tem aqui o motor de reserva eu tenho Ele faz essa integração mas realmente essa questão dessa comunicação das APIs é importante a gente entender até para poder apoiar e desenvolver melhor o incidente que a gente teve. Porque assim tem várias perguntas ali que não foram respondidas e em cima do que aconteceu foram\n[LOCUTOR 13]: detectados\n[LOCUTOR 26]: ali alguns pontos. que beleza, tem vazamento de informação e tudo mais que até um certo nível de exposição é considerado até não, é normal, depende muito do tempo daquele dado ali, daquela informação também que ela está lazada porque existem hoje medidas que você... Ah, vazou? Beleza, você corrige, faz senha, multifator. Só que existem alguns rastreamentos e algumas informações que a gente precisa até para poder fechar a diagnóstica. que faltam né e por isso até que eu peço e quero ver com vocês esse entendimento até para gente proteger mais porque até pelo pelo as informações que eu tenho a gente continua com um problema acontecendo e que até certo ponto é grave do ponto de vista de eu estar tendo vazamento de informação e por isso que a gente está procurando fazer essas reuniões para ver se a gente consegue identificar possíveis, ter mais condições de ser mais assertivos naquilo que é o problema hoje e do que a gente pode corrigir, seja do lado do [LOCAL], seja do lado da Totus, da [EMPRESA], ou das outras integrações que a gente tem, justamente para que a gente não impacte o nosso usuário final.\n[LOCUTOR 26]: essa comunicação direta para trazer parte da informação de um dado do usuário da reserva para poder fazer a consulta porque até pelo que eu entendi esse [EMPRESA] é o que vai ficar ali com a operação realmente dos hotéis ali\n[LOCUTOR 26]: vê as reservas e tudo mais. Mas a reserva online quando ela é feita ela acontece direto pelo motor de reserva e até uma primeira visão, a gente tem ali um certo nível de segurança maior, mas eu acho que o resto do organograma ainda é invisível pra mim, né, de comunicação, e eu não posso garantir ou até fechar diagnósticos sem ter essas informações, né, por isso que a gente tá pedindo pra vocês isso, né, dessas\n[LOCUTOR 13]: informações.\n[LOCUTOR 26]: [EMPRESA].\n[LOCUTOR 13]: Não, você tem razão, assim, acho que todo mundo aqui, nós estamos nessas semanas todas, assim, com várias frentes aqui dentro de investigação. Eu, infelizmente, eu posso, eu entendo, como você pode ver, a gente tem aqui três pilares, essa mesma reserva trafegou no mínimo, trafegou por aqui, com certeza, os dados da reserva, os dados do passageiro, por todo esse fluxo. Eu sei responder bem por aqui e a gente pode, Essa parte aqui eu já posso explicar e mostrar um pouco alguns detalhes também sobre essa parte, porque aqui dentro do [LOCAL] nós temos tanto o motor de reservas como a central de reservas. Então, a central de reservas é um outro painel dentro do [LOCAL] que os usuários podem acessar utilizando o [LOCAL] do SESC. E a partir daqui ele consegue também consultar as reservas aqui dentro. E a arquitetura é bem parecida. Ela também acessa via GraphQL. Eu também acesso esse [PESSOA], mas agora com uma autenticação via o [LOCAL]. E a partir desse token do [LOCAL], nós fazemos as consultas das reservas por essa interface aqui do GraphQL, que aqui também tem as reservas. E aí, claro, apesar de ser a mesma [PESSOA] que a gente usa no motor, ou seja, pelas pessoas de fora, a gente faz uma verificação desse token que vem por aqui. Não, esse daqui é só o token que passou autenticado dentro dessa mesma plataforma de autenticação, validado com o [LOCAL] do AD que foi configurado no SESC, aí sim eu tenho a permissão de acessar os detalhes das reservas. Então... DeixaLeonardo da\n[LOCUTOR 13]: fazerLeonardo da\n[LOCUTOR 22]: uma pergunta aqui em rela\n[LOCUTOR 2]: aLeonardo da\n[LOCUTOR 22]: essas questões de todas as APIs com os tokens que elas se comunicam, após o incidente que aconteceu lá no dia 9 do 2, desculpa 12, 12 do 2, foi feita uma revalidação de todos esses tokens ou não?\n[LOCUTOR 13]: Esses tokens tem validade de aproximadamente 4 horas, então eles só conseguem manter por esse tempo e ele é atualizado todo dia, conforme vai chegando ao final da segurança. E no dia seguinte ele precisa fazer o login de novo. MasLeonardo da\n[LOCUTOR 13]: login comLeonardo da\n[LOCUTOR 13]: Ou via [LOCAL]. Tem que fazer um novo login com usuário e senha. Isso dentro dessa interface central de reserva, certo? Que utiliza,[PESSOA]\n[LOCUTOR 13]: sua vez, aLeonardo da\n[LOCUTOR 22]: mesma [PESSOA]. A [PESSOA] comunica com a [PESSOA] Vocês\n[LOCUTOR 13]: fizeramLeonardo da\n[LOCUTOR 22]: um cliente de senha desses tokens?\n[LOCUTOR 22]: Porque isso é importante, porque assim, se alguém conseguiu interceptar essa comunicação e conseguiu coletar dados através dessa [PESSOA], pode estar coletando\n[LOCUTOR 3]: dadosLeonardo da\n[LOCUTOR 22]: da [PESSOA]...\n[LOCUTOR 3]: Eu posso interromper aqui e comentar com vocês como o papel meu se tirou aqui do grupo de forma geral, tá? O incidente teve o primeiro relato para nós no dia 17 de fevereiro. No dia 17 de fevereiro, por volta das 11 horas, nós recebemos um grande reset geral de todas as senhas dentro da organização, grupo ou minibis, bem como chave de [PESSOA]. O que o [PESSOA] tá explicando a vocês é a comunicação que vocês tem via [EMPRESA]. Então eu vi que vocês estão questionando sobre questões de WAF, questões de conexões, proteções e camadas. E essa camada que ele tá explicando a vocês é a camada mais inicial que é praticamente o hoteleiro acionando para poder ver uma reserva. Toda a comunicação interna que se dá de transações e interconexões entre sistemas e distribuição, está na camada [EMPRESA]. O [EMPRESA] conta com todas as APIs de baixo de Cloudflare, o off, ativos e dinâmicos colocados protegidos, E todas as APIs, exceto o [EMPRESA], que é uma [PESSOA] pública que a gente tem que compartilhar, todas elas são protegidas através de whitelist dentro da nossa operação. Temos um datacenter on-prem e toda a nossa infraestrutura fica [LOCAL] no nosso datacenter. Então, eles são duplamente protegidos por acesso via Cloudflare e o whitelist dentro do nosso escritório. Então, isso daí que ele pôs os dois traços [LOCAL].\n[LOCUTOR 13]: Isso. E\n[LOCUTOR 3]: aí, no dia do incidente, a primeira ação que eu tenho aqui no nosso procedimento, a gente não sabia de onde viria, é importante reforçar que no dia Apareceu para a gente em torno de uns 10 casos, 10, 15 casos. E nós tomamos a primeira ação, o que nós fizemos foi o reset geral dos usuários da nossa operação, bem como também as principais chaves de [LOCAL] são de integrações. Integrações essas entre agências digitais como [EMPRESA], [PESSOA], etc., que são tokens fixos, todos eles foram rotacionados nessa data. e operações APIs que têm tokens, como o que o [LOCAL] está explicando, eles são tokens descartáveis gerados para o login e senha dos usuários.\n[LOCUTOR 13]: Então,\n[LOCUTOR 3]: só para não confundir e misturar todos os assuntos aí, para não deixar uma impressão errônea. Outro ponto, só intervindo um pouco. É legal que estão querendo analisar e entender, etc. Mas eu vejo que a gente não vai ser produtivo analisando e querendo fazer uma auditoria interna, sendo que eu tenho consultorias externas fazendo todos os nossos testes para poder divulgar a mercado, porque o nosso nome está sendo colocado diversas vezes em questionamento. Então a gente já tem. E nós deveríamos estar trabalhando aqui, talvez no pedido que o [PESSOA] fez para mim, nós deveríamos estar trabalhando aqui em conjunto para colocar nos reservas do estilo [PESSOA] em cada um dos nossos pontos, incluindo o [EMPRESA], incluindo o hotel, incluindo sistemas de integração, pra gente ficar monitorando e tentar identificar possíveis pontos, tá? Então acho que vocês ficarem explicando, querendo ver regras, etc., não me oponham, né? Não tenho problema. Mas eu acho que a gente não vai chegar muito longe, tá? Eu procuraria muito mais a gente pegar esse desenho aqui e falar que era legal. Dá pra gente fazer um teste aqui bem assertivo, se a gente colocar aqui a reserva A, chamando o A lá dentro do [EMPRESA], chamando o [EMPRESA] dentro lá da NAR, chamando o C dentro do conector, chamando o D dentro do SESC. Tipo de vazamento de informação que trafega, tá? Quando a gente fala dos casos de phishing, o comportamento típico do caso, ele tem um ciclo de dia de quatro dias. A reserva é inserida. Geralmente um phishing, quando acontece, ele acontece dentro de uma janela de 14 a 17 horas. Geralmente o hóspede tende a demorar mais meio dia ou um dia para se comunicar com o hotel e o hotel abre um chamado aqui com a gente. Então esse geralmente é o prazo que a gente teria se tivesse uns testes, colocasse testes aqui em conjunto. com a equipe, aproveitando a expertise do pessoal que tá aqui. Eu acho que dentro de quatro dias a gente teria já uma boa janela, uma boa análise do que a gente pode caçar aqui ou não, tá? Esse é o mecanismo que a gente também tem feito com diversas redes loteireiras. Nós temos casos de redes de hotéis que e que nós aplicamos um reset global generalizado na rede de hotel. E o problema varou, e eu tenho redes que tem essa dificuldade. Inclusive, a gente está executando amanhã. uma ação centralizada, independente da vontade dos hotéis, nós, [EMPRESA], iremos resetar globalmente todos os nossos usuários da rede de hotel, por exemplo, no iHotel. Então, por exemplo, as pessoas lá no [LOCAL] amanhã terão as senhas expiradas e eles terão que fazer uma nova senha. Isso vai ser uma ação globalizada em todos os nossos clientes. Só pra volume de informações, a gente sabe que publicamente a gente tem de 6 mil a 9 mil. hotéis dentro da nossa rede, você pode imaginar que cada hotel aí em média vai pedir 5 a 10 usuários, você pode imaginar a quantidade de usuários que nós temos. Lembrando que toda a gestão de acesso e saúde e governança dos usuários cabem aos hotéis. A [LOCAL] não tem condições de gerenciar se um hoteleiro demitiu ou alguém saiu da recepção, se eles estão compartilhando seninhas ou não, tá? Então só passando um pouco de informações para vocês, também para vocês não ficarem muito preocupados com a apresentação do [LOCAL], porque a gente conta aqui com uma camada bem robusta, como um grupo de [LOCAL] geral.\n[LOCUTOR 13]: Quer falar, [PESSOA]?\n[LOCUTOR 10]: levantou a mão aí? Sim, sim. Não, eu acho que foi... É importante, eu acho, que passar essas informações, porque eu não sei se existe essa troca de... Essas informações que foram trazidas agora já estão sendo repassadas de alguma outra forma aqui para o SESC, porque eu acho que, como eu falei no início, acho que o objetivo principal aqui é a gente conseguir identificar o que está acontecendo, porque existiu um incidente Eu acho que foram tomadas ali algumas medidas, sim, foram informadas. Nós também verificamos a nossa parte aqui naquilo que cabe a verificar a questão dos acessos. Onde, se é possível, foi feito, as medidas também. Em outros pontos não existia essa questão. porque já existe a proteção da própria autenticação que é utilizada por [LOCAL], que aí é quem utiliza a própria [EMPRESA], enfim. Mas é que eu acho que o grande ponto é realmente assim, continua acontecendo, a gente tem vazamento de dados mais recentes, eu acho que tem toda essa preocupação e tudo mais, só que a gente ainda tem um problema, que ainda não foi possível, pelo menos com os os relatórios chegaram até aqui para a área de segurança nenhum dos relatórios foram conclusivos foi detectada uma campanha de phishing Sim, foi detectada uma campanha de fiche com dados reais e dados recentes da época dos primeiros relatórios e agora tem a informação de que continua uma campanha de fiche, mas com dados mais recentes ainda do que já foi daquele incidente dos relatórios que eu possuo. Eu acho que a grande questão é realmente a gente tentar descobrir em conjunto o que pode estar acontecendo, aonde pode estar acontecendo esse problema. Hoje nós fizemos testes aqui também internos com a aplicação da forma que está hoje, de uso, de uso não de ferramenta ou de tentar fazer qualquer pen test não, mas de uso real. Beleza, teve um vazamento de informação, vou tentar fazer uma autenticação aqui com esse perfil. conseguiria fazer. Enfim, eu acho que a gente precisa saber, inclusive, dessas informações, não de todos os casos, porque é o negócio da empresa, mas especificamente do que a gente precisa. De novo, eu não sei se essas informações estão sendo repassadas aqui a mais alto nível aqui dentro do [LOCAL]. Eu não tinha essas informações daquilo que está sendo feito. Eu acho que o que o [PESSOA] está fazendo é importante, sim, e os questionamentos são realmente para a gente ajudar. A gente não está procurando aqui ninguém para culpar, tá? Isso aqui realmente é para ajudar e, se possível, para melhorar, para a gente tentar identificar uma possível falha,\n[LOCUTOR 3]: mesmo\n[LOCUTOR 26]: que tenham aí outras formas de verificação, com quais empresas tem testes e tudo mais. Porque assim, gente, a gente vê aí grandes empresas com investimentos muito altos, empresas mundiais e que acontecem aí problemas de segurança. Acho que isso é seguro. A gente nunca vai estar 100% seguro. Então a gente precisa sim. Hoje eu tenho um problema. Eu continuo com vazamento. Eu só quero resolver essa questão realmente.\n[LOCUTOR 3]: Já chegou a vocês o artigo que nós compartilhamos. Tem diversos artigos globais sobre o phishing que está acontecendo na rede global. Eu compartilho aqui pra vocês, é um artigo muito interessante que disseca como que acontece todo esse, esse mecanismo de FICH. E é um phishing descentralizado e genérico. Nós temos vários testes que a gente realizou aqui. A gente já sabe que eles não desduplicam os celulares. A gente sabe que eles não estão nem aí para qual é o código, qual é o nome. É simplesmente automatizado. E ele é de uma fonte muito fina que acontece através de phishing em gênero social. E, by the way, só vou mostrar aqui na tela para vocês, porque eu não sei se isso chega ao nível de vocês.\n[LOCUTOR 3]: compartilhar aqui na tela, peço permissão. Só para vocês entenderem aí como que é o nível, infelizmente, como que é o nível geral de que nós temos nas redes hoteleiras, tá? Essa aqui é uma listagem tirada de Deep Web de dados vazados de usuários do [LOCAL]. Aqui, na segunda coluna, ela tem a senha. Eu só tô deixando aqui oculto por questão de privacidade dos próprios e que é muito importante. Então, oLeonardo da\n[LOCUTOR 22]: que vocês podem\n[LOCUTOR 3]: ver aqui? ALeonardo da\n[LOCUTOR 25]: DeixaLeonardo da\n[LOCUTOR 25]: comentar sobre esse ponto. Essa lista, eu acho que a gente está desfocando aqui com relação ao processo. A gente sabe que a engenharia social, a gente entende isso. Essa lista foi compartilhada com a gente. A gente tem um padrão de senhas que essa lista não atende. A gente, inclusive, pegou essa lista para entender se os usuários dessas aplicações, das aplicações da rede hoteleira, utilizam o sistema de hotelaria e isso não foi comprovado. Fomentando o que o [PESSOA] estava dizendo, a gente tem uma preocupação com a parte de segurança, existem termos lá No nosso edital, e aí assim, [PESSOA], desculpa, eu entendi o ponto que você quis trazer, dizendo que ações estão sendo realizadas A gente não está aqui no processo de fazer uma auditoria ou tentar identificar o motivo disso O motivo desse incidente não é achar um culpado O ponto é que a gente tem requisitos do nosso edital que têm que ser cumpridos E aí, o questionamento que a gente faz é A gente pede para que existam asas, a gente pede para que camadas de segurança sejam atendidas. E aí, nesse levantamento que a gente está fazendo aqui para poder... O processo aqui não é punitivo, não é identificar, não é fazer nenhuma punição, mas fazer os acertos Então a\n[LOCUTOR 13]: gente\n[LOCUTOR 25]: pede que camadas de segurança existam e que vocês estão comprovando [LOCAL], pelo menos, vocês trouxeram até agora [LOCAL] do nosso esquema, tem camadas que não estão habilitadas ou não estão configuradas E esse é o ponto que a gente quer corrigir A gente não tá aqui pra poder fazer uma auditoria ou sinalizar, achar um culpado Eu entendo que isso é o cor de vocês, vocês têm equipes dedicadas, debruçadas em cima disso para resolver o problema. E aí o nosso papel aqui é colaborativo, só que eu preciso, eu tenho hoje um relatório e aí a gente está trabalhando, são três empresas aqui. Eu tenho um relatório dizendo que o incidente foi realizado, que não conseguiram identificar o ofensor, não conseguiram identificar qual é o ponto, e isso está acontecendo até agora. A gente voltar com um cenário que se pode ser em gênero e reverso, que se pode ser dado vazado de credenciais, cara, a gente já tirou esse cenário. É óbvio, todas as hipóteses têm que ser levantadas. O ponto específico, só para concluir, o ponto específico é, a gente quer entender se dentro do nosso processo, dentro do nosso ecossistema, a gente sabe que tem ataques, esse tipo de ataques difíceis acontecem em grandes redes, Isso é comum dentro do mercado. A gente quer olhar para o nosso cenário. [LOCAL] do nosso cenário, o que a gente preconizou dentro do nosso edital está sendo cumprido? Se não, vamos pedir para ser cumprido. Esse é o ponto. Então, assim, a gente falar, vier a credencial esvazada, se a gente, no mesmo cenário, se eu for lá na [PESSOA], na Deep Web, buscar domínios [PESSOA], se a esvazada vai aparecer, não necessariamente a lista é verdadeira. Então, assim, o ponto é, o que essa reunião está trazendo é, existem camadas de segurança que deveriam existir dentro do que preconizam digital e a camada não tá lá. Ou tá lá e não tá configurado. É o que a gente identificou aqui. Por isso que eu pedi a reunião. E eu quero, na verdade, resolver. Eu sei que vocês estão trabalhando pra isso. Sei que vocês estão evoluindo a parte de segurança. O [LOCAL] trouxe aqui, tem evoluções que têm que acontecer E a reunião, ela é pra isso, ela não é pra achar ocupado e sim pra gente poder prosseguir com segurança Hoje eu tô com um projeto parado de implementação de uma rede de mais 50 hotéis porque eu tenho um vazamento de segurança e eu tenho um estreito de segurança que eu não consegui ainda estancar e ele está acontecendo. O nosso papel aqui é trabalhar em conjunto para poder equalizar isso e entender quais foram os próximos passos. O senhor hoje trouxe uma situação que o [LOCAL] disse aí, de todas as credenciais vão ser realizadas. Isso não foi passado em nenhum momento para a gente. Uma ação que a gente entende que tem que ser feita. Então, assim, se eu não sei ainda, se eu não consigo identificar qual é o ponto, tem que se fazer uma campanha dessa. Então, o ponto da reunião é exatamente para isso, é colaborativo para a gente poder evoluir com os próximos passos. E aí, dou a palavra aí.\n[LOCUTOR 3]: Conte comigo, conte com o grupo de forma geral e vamos separar então em dois assuntos. Acho que é importante ir para o [PESSOA] para estar mais preparado para a reunião. O edital. [PESSOA], você conhece o edital e os requisitos de segurança?\n[LOCUTOR 13]: Eu particularmente não. Então eu\n[LOCUTOR 3]: posso fazer\n[LOCUTOR 13]: isso\n[LOCUTOR 3]: daí. Eu também não. Então acho que eu peço uma ajuda de vocês, pessoal da [LOCAL], compartilhar com a gente. Dá pra gente uma semana pra gente poder analisar o que tá sendo pedido no edital, a gente vem cobrindo exatamente o que tá no edital, o que tá sendo feito, o que está concluído, o que não tem feito, de forma bem transparente com vocês na questão de parceria. Eu acho que sim, vai ser extremamente produtivo pra gente poder chegar em conjunto, vocês ganharam o edital, contam com os nossos produtos para poder fazer a entrega, e assim a gente vai focar para que ele seja cumprido. Mas a gente precisa entender exatamente o que são esses pedidos, tá? Tudo que não for viável, acho que é legal, né, de o Renata poder anotar e mostrar. Então, por exemplo, Colocar um offer aqui que vai cobrar a gente por tráfego para proteger um dado estático, talvez ele não pareça ser uma solução tão estratégica assim. Aí o [PESSOA] pode trazer isso para vocês. E o ponto 2 da discussão, que é o phishing em andamento, que eu estou falando a vocês que realmente é um phishing, nós temos aqui exaustivamente com a nossa equipe de ofensiva e defensiva, olhando para esse Desde o dia 17 de fevereiro, a gente praticamente vive aqui em 1 a 1, nós não temos nenhuma evidência de que nós temos algo comprometido. Nossos volumes são monstruosos, os casos são de números muito baixos, perto da quantidade que a gente faz. Obviamente eu quero zero, todos nós buscamos zero. Mas isso mostra pra gente que não existe um vazamento síncrono, massivo, etc e tal. Isso pode vazar nas pontas. Nós temos um phishing global que dá pra vocês verem em artigos na internet, espalhado por tudo. Adoraria aí o [EMPRESA] ter o tamanho de afetar o mundo, tá? De forma geral. Longe disso, né? Nós somos irrelevante perto do mundo de forma geral. No [LOCAL] somos forte, só que irrelevante no restante. E o que eu proponho para vocês na questão do phishing é, nós faremos esse reset centralizado e global, infelizmente sem a aprovação necessária do hotel ou não, não vamos ficar comunicando com os hotéis, não fizemos um grande alarde sobre isso também, porque se você for fazer uma iniciativa e falar, olha vou trocar a senha de todo mundo e deixar isso avisado para todos os atacantes que vai ser trocado, que eles têm que correr para buscar novas janelas, não faz muito sentido. O reset vai acontecer amanhã em todas as redes, e aí o que eu proponho a vocês de forma geral é, logo após o reset geral, a gente colocar nossas armadilhas e colocar vários testes de reservas em conjunto entre nós. Reservas essas que a gente pode controlar para cancelar no futuro. As reservas que a gente pode deixar, ou vocês colocam sem contar pra gente, ou a gente coloca aí em conjunto, a gente coloca em nomes distintos em diversos pontos e a gente vai assistir isso por um período. Se feito um resetão, e se a gente não conseguir identificar nenhuma reserva dentro de uma gama que a gente pode colocar aí 30, 40, 50 reservas nossas de análise,[PESSOA] -\n[LOCUTOR 3]: gente vai ter uma evidência bem forte do porquê que não tá batendo. Passado 20, 30 dias, começa a vir um caso ou outro de novo? Eu falo, cara, ei, vamos redator a senha de novo, tá? Então acho que são dois assuntos bem instintos. Não necessariamente o cumprimento ou não cumprimento do edital vai garantir o [PESSOA] na [LOCAL].\n[LOCUTOR 3]: [PESSOA] é muita disciplina.\n[LOCUTOR 25]: [EMPRESA]. concordo, mas a gente precisa garantir o mínimo e esse é o ponto.\n[LOCUTOR 3]: Isso aí, vamos fazer passo edital pra gente, cara. O maior prazer. Eu não sou novo na companhia, eu preciso até estudar pra entender isso daí, o [PESSOA] também possivelmente não conhece, né, o edital. Acho que dá pra gente preparar um material bem bacana pra vocês e um plano de ação caso ele não esteja sendo cumprido, tá?\n[LOCUTOR 13]: Isso, em conjunto aí, o [PESSOA], outro [PESSOA] aí levantou a mão.[PESSOA] -\n[LOCUTOR 27]: Sim, só um ponto sobre o edital, né? A [LOCAL] participou da [EMPRESA], participou do edital, o [PESSOA] [LOCAL] tem o conhecimento desses pontos, tá, [PESSOA]?\n[LOCUTOR 13]: ETOTVS -\n[LOCUTOR 27]: [PESSOA]?\n[LOCUTOR 3]: Beleza. Ele tá de férias,\n[LOCUTOR 13]: Você que tá deTOTVS -\n[LOCUTOR 27]: férias...\n[LOCUTOR 27]: [LOCAL],\n[LOCUTOR 13]: nãoTOTVS -\n[LOCUTOR 27]: tem problema. Quando eu vou mandar o edital pra vocês, eu tenho sim mãos aqui, mando, os casos que avisei também que dos casos que a gente teve recentemente, principalmente nesse final de semana de 27, 28 e 29, tivemos casos reportados pelo [LOCAL], especificamente ali, essa estratégia das reservas iscas, acho que a gente sim precisa fazer, então passos aqui que a gente precisa fazer, do nosso lado, acho que nem deu o tempo de a gente apresentar os itens de segurança que o ecossistema TOTUS tem. E isso foi apresentado também na [EMPRESA] e temos os dados nossos aqui, o time de engenharia também está participando, mas entendo que não vai dar tempo de a gente ver isso hoje. Mas acho interessante também do nosso lado, posteriormente, o time do SESC, a gente mostrar para vocês os itens de segurança que foram feitos aqui, o que a gente já tinha, o que a gente vem implementando de novo também para todo mundo ter essa ciência, tá? E próximo passo aqui, mando\n[LOCUTOR 25]: o editalTOTVS -\n[LOCUTOR 27]: para vocês, tá?[LOCAL] -\n[LOCUTOR 15]: [PESSOA] eTOTVS -\n[LOCUTOR 27]: [[LOCAL] -\n[LOCUTOR 15]: [LOCAL] -\n[LOCUTOR 15]: Ah, desculpa, cara. É, a gente pode... [LOCAL], tem uma imagem aqui rápida, a gente pode mostrar rapidão sobre o tipo de engenharia aqui, [PESSOA], a gente pode mostrar rapidão, se for o caso.[PESSOA] -\n[LOCUTOR 27]: Tá, deixa eu só terminar a fala aqui...[LOCAL] -\n[LOCUTOR 13]: ETOTVS -\n[LOCUTOR 27]: entendo que vocês vão precisar de um tempo pra verificar esses itens, né? Revalidarmos, na verdade. e a gente formar um plano de ação em conjunto para acessar ou identificar se temos alguma vulnerabilidade em qualquer que seja os lados. Beleza?\n[LOCUTOR 13]: [LOCAL]. Tem todos os passos de cumpridez do que está estabelecido, que foi combinado. Eu tenho algumas coisas aqui que, como o [PESSOA] comentou, a gente precisa colocar aqui para cumprir o edital. E tem todo esse ponto do trabalho conjunto, dessa investigação em andamento desses casos, até mesmo esses reportados recentemente. A [PESSOA] tinha levantado a mão. Eu\n[LOCUTOR 15]: reuni\n[LOCUTOR 1]: para que a TOTUS possa apresentar o que eles têm de arquitetura de segurança.[PESSOA] -\n[LOCUTOR 9]: praTOTVS -\n[LOCUTOR 27]: ser com mais qualidade da [PESSOA].\n[LOCUTOR 9]: Vamos marcar uma outra, né?[PESSOA] -\n[LOCUTOR 27]: Muito corrido.\n[LOCUTOR 9]: Tá ok.\n[LOCUTOR 26]: Falou gente,\n[LOCUTOR 13]: valeu.[LOCAL] -\n[LOCUTOR 15]: [LOCAL].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:31.802279+00:00",
+    "total_linhas": 242,
+    "linhas_mantidas": 175,
+    "linhas_removidas": 67,
+    "percentual_mantido": 72.31,
+    "confianca_media": 0.4852
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 8]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: bom? [PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: tarde, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3939,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tarde.[PESSOA] ([PESSOA]): Boa tarde, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3934,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Boa tarde. [PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCUTOR 5]: tarde. Boa tarde, pessoal. Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3997,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Olá,[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Pessoal da TOTUS, da [PESSOA] e [PESSOA], tá todo mundo que vai participar da reunião?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4959,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Aqui da [PESSOA] e [PESSOA]. TOTUS",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Aqui da TOTUS também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá. Eu acho que a gente pode começar, eu já falei aqui, comprar se ele puder, ele entra, tá? Mas acho que a gente já pode começar, confere? Tem mais alguém não, né, [EMPRESA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Que vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: chamaram não, né? Então, pessoal, o objetivo hoje da reunião é a gente entender a arquitetura de segurança que vocês têm em relação a todo o ecossistema da hotelaria, [LOCAL], [LOCAL] e [EMPRESA], para que a nossa equipe de segurança aqui também possa entender como as questões estão configuradas e até tirar algumas dúvidas que porventura surjam ou que eles já tenham feito algum tipo de levantamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [EMPRESA]. Hoje...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4787,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 11]: só vou pedir licença, [LOCAL], só um instantinho, para a gente colocar a reunião para gravar, todo mundo de acordo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5322,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: De acordo, de acordo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então vou iniciar aqui a gravação. Oi, [LOCAL], pode falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Obrigado, [PESSOA]. Então, Eu vim mais preparado na parte do motor. E aí, primeiro, eu queria perguntar até tudo mais pra gente eventualmente fazer uma segunda rodada aqui pra gente pegar mais detalhes e documentar melhor algumas necessidades que vocês têm. Então, por exemplo, o que hoje eu vim mais preparado é pra explicar como que funciona essa parte que é apresentada para os visitantes do nosso motor, que vão acessar o viagemcomsesc.com.br. Então, como que isso funciona, um pouco a arquitetura, como que as pessoas vão acessar, um pouco dessa infraestrutura para facilitar até mesmo a avaliação de segurança, de fazer escândalo de segurança, que é um trabalho que a gente já faz aqui. Agora, algo além disso, a gente pode se preparar melhor e depois trazer para vocês, tá bom? Por exemplo, você citou sobre o [EMPRESA], eu não tenho essas informações, eu não conheço esse panorama inteiro aí dentro do projeto e a gente pode trazer para você",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: depois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: de alguma maneira.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então, [LOCAL], eu acho que a gente pode começar aí pela arquitetura de segurança do [LOCAL], para que a gente entenda, e depois a gente vai passando a [LOCAL], Totos, ver se realmente todo mundo que pode responder pelo assunto está na reunião. Se precisar, a gente marca um outro fórum e continua. Mas eu acho que podemos começar aí com você mesmo, [LOCAL], falando um pouquinho da sua arquitetura.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5687,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá legal. Obrigado. Então, gente, o que a gente tem? Vou até pedir desculpa aí, eu vou colocar aqui o compartilhar tela, eu não tenho aqui os diagramas, mas eu vou desenhar aqui para vocês, tá bom? Eu espero que vocês peçam, me doem aí pelos meus dotes aqui artísticos, mas o que que acontece, né? Quando a gente vai acessar a partir do... Hoje vamos falar assim, a gente vai entrar no www.viaje.com.com. Então, eu estou aqui no meu navegador ou no meu celular. O primeiro acesso é feito dentro de uma estrutura do AWS o CloudFront, que é o nosso CDN. Essa URL aqui, via HTTPS, ele tem acesso aqui a todos os nossos arquivos estáticos. Então, nos nossos arquivos estáticos aqui, e aí eu prometo para vocês que eu mando um diagrama mais profissional para vocês depois, mas a gente tem os nossos arquivos JavaScript, os nossos arquivos HTML, algumas imagens, ícones, esse tipo de coisa, E na primeira acessa que ele faz, ele faz o download aqui do nosso... desses arquivos necessários para abrir. Então, a gente tem centenas aqui de arquivos JS que a gente dividiu. [PESSOA], ele vai fazer a ROM. Então, ele puxa e ele monta aqui a tela dentro do... do navegador, seja via browser, seja via mobile. E a partir daí, ele começa a fazer uma série de... de chamadas ao nosso back-end. Eu vou depois passar toda uma lista de todas as URLs e domínios que nós utilizamos, mas a gente tem aqui um endpoint de autenticação, que é o nyara-alph. Mesmo que a pessoa não fez o login, daqui a partir daqui ele consegue um token de out, para a gente ter... Esse token [PESSOA] de segurança, ele é utilizado para todas as chamadas aos nossos backends. Então, aqui a gente guarda no [PESSOA]... A gente consegue rastrear disso a partir desse [PESSOA], qual é o IP em que ele começou a acessar, qual o momento em que ele fez a primeira visita e a gente tem uma renovação, ele tem uma validade a cada... Eu pego lá depois, mas quando termina essa validade, a gente faz a renovação desse token.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: esse token é utilizado dentro das nossas APIs. Então, nós temos as APIs de back-end, entre elas uma [PESSOA] GraphQL, que utiliza por trás dela o AWS AppSync. Essa...[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5768,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Foi o [PESSOA], é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCAL]. A gente chamaLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: irata, mas ninguém me chama de irata.[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4911,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Tudo bom, [PESSOA]? Acho que tu vai explicando e talvez a gente vai tirando as dúvidas e se deixar para o final talvez o que perca, porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5141,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tu estáLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: criando uma linha de raciocínio e eu acho que é importante essa linha de raciocínio. Tu comentou ali que tem um front door que responde, que é um... E esse front door, ele pode ou não pode ter um WAF atrelado a ele? E a minha pergunta é se existe um WAF atrelado a ele ou ele é só um front door que ele responde o CDN? Hoje",
+      "mantida": true,
+      "probabilidade_relevancia": 0.505,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: nós estamos avaliando, e eu vou falar para vocês, a gente está avaliando a aplicação do WAF em todas essas interfaces. Essa a gente tem, a gente tem um WAF aqui. Essa daqui a gente está vendo, porque, por exemplo, por mais que a gente só tenha aqui dados, coisas estáticas, tem como que a tabela, a fonte, estilo, CSS, esse tipo de coisa, não existem dados aqui de verdade para o cara poder explorar. Mas, de qualquer maneira, no momento que a gente colocar um WAF, isso vai ajudar numa investigação posterior. Então, a gente está hoje numa análise de custo dessa implementação. É uma coisa super fácil para a gente implementar, é só uma questão da gente analisar se a gente coloca ou não nesse cara.[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E daqui para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: a pauta?[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Só quero saber o que tem hoje, né? Porque daí a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4721,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: gente consegueLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: fazer uma avaliação. Hoje",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: não temos WAF aqui nesse exato momento.[PESSOA]",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Não tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: WAF.[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Nessa primeira página.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [PESSOA].[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E aí, no segundo, tu tem um WAF habilitado e aí tu tem essas regras de WAF. O que que tem habilitado nessas regras de WAF? Porque eu posso ter o WAF ali...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5381,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Sim, hoje é bem simples e a gente tá cada vez evoluindo ele. Hoje a gente tá fazendo na base de verificação de Rate Limit, esse tipo de coisa. Não pega muita coisa aí hoje, mas,[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: puxa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: isso, aLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: gente precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5387,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: evoluir. Tu tem os KellyLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5296,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: [LOCAL] habilitado?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Não nesse momento. Mas eu posso... se vocês me passarem, ó, puxa, a gente precisa ter esse tipoLeonardo da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: validação, a gente coloca aqui também.[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Se tu nos passar quais são as regras, a gente consegue te dizer o que tu precisa ter pelo menos implementado, porque senão a gente fica, às vezes, chovendo no molhado, dizendo, ah, faz",
+      "mantida": true,
+      "probabilidade_relevancia": 0.568,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: isso,[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: mas tu já tá fazendo, né. Então, assim, se tu me disser quais as regras que estão implementadas, com esse padrão aqui, com essas regras habilitadas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5144,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCAL]. OLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tambémLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: levantou a mão aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá bom. Outro [PESSOA] também.[PESSOA]",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Agora o [PESSOA] pra. Aí é [LOCAL] pra [LOCAL]. Tá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: no mundo, não seiLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4659,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: você tá falando.[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Tá bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: a gente manda isso no documento aqui que eu tô preparando aqui pra vocês. O que a gente tá fazendo assim exatamente nesse momento tá, [PESSOA]? Eu vou mostrar aqui, temos uma outra série de APIs aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4908,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Desculpa pessoal,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: estão me ouvindo agora? Agora",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3945,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: sim, sim senhor, pode falar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.419,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: já. [LOCAL], é o [PESSOA] falando aqui da [EMPRESA] também. É que na verdade assim, acho que o principal é a gente entender quais, né, e aí como o [PESSOA] trouxe, quais são as regras hoje que estão implementadas. É assim, a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5066,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: gente... É",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: interessante... É óbvio, né? A parte de segurança, a gente sempre tem um roadmap de implementar melhorias, mas a gente quer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5724,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ter...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 25]: E aí, o objetivo dessa reunião é a gente ter exatamente o que existe hoje. Então, assim, se eu puder demonstrar quais são as regras, quais são os filtros que hoje essa camada tá... A gente identifica que existe essa camada. Mas eu quero saber o que ela hoje faz, porque... A gente tá aqui... Tentando fazer um deep dive nesse ecossistema para entender melhor o que está acontecendo. Se você puder abrir hoje e mostrar quais são as regras, ou se existe alguma regra ou se não existe. Isso é super importante.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.499,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 13]: bom. Hoje, eu sei que tem uma regra de limite de acesso, de 100 acessos por cada cinco segundos. Mas eu preciso perguntar aqui para o pessoal que implementou isso mais detalhes dessa regra, tá? Eu prometo para vocês que eu mando para vocês. Eu não tenho aqui o acesso, não consigo abrir aqui, mas eu vejo aqui e tiro. E a gente combina, manda por e-mail e depois combina. Pode ser assim, frase... [PESSOA], desculpa não poder responder isso agora. Eu sei que isso, a gente está falando de segurança, é uma informação importante aqui. Mas eu vou ficar devendo para vocês neste momento, tá bom?[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Uma outra pergunta que tu falou ali do token, né? Tu falou que tem uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5502,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: questãoLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: de um token. Esse token, ele é gravado via cookie no navegador usuário?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Ele fica gravado no local storage dele, dentro do browser, para eventualmente quando ele voltar, a gente consegue rastrear que ele está voltando ou alguma coisa disso. Eu não sei como está, no caso, a implementação aqui, mas como no nosso sistema a gente tem a parte de autenticação. O cara faz a reserva e depois ele pode voltar. e ver as minhas reservas. Aí, a partir disso, a gente tem o token autenticado também, que passa por esse mesmo endpoint. Mas... [LOCAL], a sua repergunta é sim. A gente grava isso no local storage do browser. Posso continuar?[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Acho que o [PESSOA] tinha uma pergunta, não é isso?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4511,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Ah, abriu a... É, vi que ele levantou a mão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Não, eu ia perguntar mais coisas, mas é como o [PESSOA] falou. Eu acho que... Eu vou entender essa questão aí do funcionamento assim por alto ali da aplicação e, como ele falou, tem algumas informações que seriam mais interessantes aqui para a gente, mas ele não consegue trazer agora. As",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: regras não, mas se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tiver",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: dúvida de alguma coisa do que que é, nem que eu tenha que levantar aqui da lista de coisas que eu preciso responder e documentar e mandar para vocês depois.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5531,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Porque até quando eu estava falando do token de acesso para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5463,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ele,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: beleza, normal o funcionamento ali. ainda mais a utilização do [EMPRESA] ali para essa inspiração. Só que quando que é utilizado esse cara? E assim, é porque eu estou aprofundando o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: conhecimento",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: até na arquitetura hoje que a gente tem do [LOCAL], agora no desenvolvimento desse problema que nós tivemos. Mas eu tenho o motor de reservas que é o [LOCAL]. [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: correto. Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E que é um sistema onde eu tenho também a geração desses tokens, porque eu tenho uma autenticação nesse sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [PESSOA], do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E ele tem uma integração direta com o [EMPRESA]. Eles se conversam.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá bom. Sim, sim. Tá uma conversa... Agora, isso... A gente tem vários modos, tá? Como eu não sei especificamente do [LOCAL], Mas existem dois maneiras de comunicação com o PNS. Toda a reserva que é feita via motor, ela entra dentro do sistema da [LOCAL]. A gente tem o ecossistema [LOCAL]. Temos o ecossistema [LOCAL]. E temos o ecossistema da TOTOS. O que eu posso me informar aqui é se é se essa conversa é aqui ou minibiz via TOTUS ou essa comunicação é feita por aqui, tá bom? Existem duas, algumas maneiras que a gente pode implementar isso dependendo da permissão do cliente. E eu particularmenteTOTVS -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 13]: sei. Pode falar.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: O [LOCAL], o [PESSOA] [LOCAL] também. Hoje o [LOCAL] recebe a reserva, lá do hospede, que está fazendo o cliente, que está fazendo a reserva, passa para o minibiz e o minibiz desce para todos, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Beleza.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Esse é o cenário.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [EMPRESA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: gente vai direto no [LOCAL] só para pegar os dados de hospede, no caso, um [PESSOA] direto do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5749,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Ah, tá bom. Então, deixa eu anotar aqui, isso é interessante. Eu, como não participei dessa parte aqui, então é isso. Então, nós OLeonardo da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3932,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: [PESSOA] já tá com a mão levantada também, porque o [EMPRESA] e a P.I. os dois já... Opa! Para! Vai, [PESSOA]!",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5736,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É, aí justamente, né, porque... Essa é porque, provavelmente, ou talvez a gente não tenha essa informação agora, mas essa comunicação da [PESSOA], porque assim, a gente tem outras aplicações [PESSOA] aqui. Então, a gente realmente tem uma aplicação [PESSOA] que eu tenho um ambiente on-premise e tem um ambiente em cloud. E eu tenho uma [PESSOA] que ela, mesmo que eu faça todo o meu sistema via cloud, ele é todo o cloud, ele é o [PESSOA] cloud, mas ele ainda vai também buscar alguma parte de informação no ambiente on-premise via [PESSOA], ou vice-versa. O meu ambiente on-premise, ele vai lá e busca essa comunicação via [PESSOA]. Aí, entrando nesse ponto dessa comunicação, dessa solução, uma das questões é que, inicialmente, essa [PESSOA] que ia no meu ambiente on-premise, aí eu estou trazendo um exemplo aqui do meu ambiente, da minha experiência com a [PESSOA], Era uma [PESSOA], beleza, vamos criar uma [PESSOA] para fazer essa integração, beleza, mas não existia um controle, e aí vou falar de segurança diretamente, uma restrição de quem, de fim a fim, para estabelecer essa comunicação. Então nós não, vamos criar, eu só vou receber comunicação desses IPs, quais são os IPs de vocês para poder estabelecer, vou colocar uma camada de proteção ali. Hoje, Nessa comunicação via [PESSOA], a gente tem proteção até dessa questão da TOTUS, que vai buscar informação do [LOCAL] também, dessas APIs, das APIs que são utilizadas hoje no sistema, todas elas, até não só essa, a gente tem também essas camadas de proteções, eu poder definir, restringir as comunicações.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá bom, hoje aqui a gente só tem na base de autenticação via tokens, né? Então, como eu disse, a gente tá fazendo todo esse estudo de segurança recentemente. É um cara que, se vocês falam, puxa, e assim, né? Só de falar, agora fica claro, né? [PESSOA], que tipo de controle eu posso colocar aqui, né? Porque, de qualquer maneira, isso aqui é feito pela internet. Por mais que aqui a gente tenha segurança e tudo mais, a gente faz via HTTP, tudo via criptografado, mas, contra o [EMPRESA] tanto, é bom a gente ter um monitoramento desse lado aqui, para vocês poderem ver, para a gente se proteger contra isso. Vai que, de repente, a [LOCAL] que está aqui vaza ou coisa parecida e eu consigo acessar por aqui. É isso que você está falando, né? Essa preocupação, certo?[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Apesar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: dasLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: grandes famílias.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA], exato.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá bom, eu vou... A gente não tem nenhum plano aqui específico desse, né? Eu vou montar um plano pra esse cara aqui. Tá bom? O que a gente tem hoje? A gente tem aqui uma segurança das chaves, toda essa parte aqui, assim, a gente pode... Eu vou falar com o pessoal aqui pra poder talvez dar mais algum detalhe, mas... No momento que essa chave vazar e ter um acesso, o máximo que eu tenho aqui é... Eu tenho vários logs, eu consigo ver, puxa, de que IP está acessando, mas isso de uma forma mais criativa. Mas já está dentro aqui do nosso... A gente tem todo um plano aqui de seguranças aqui dessas partes das nossas interfaces. Hoje eu não tenho o WAF aqui, mas é o cara que precisa, principalmente para vocês aqui. A gente faz esse trabalho aqui desse lado, tá bom?[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Hoje a [PESSOA] então ela não passa pelo WAF, a comunicação do [PESSOA] com a [LOCAL] não passa pelo WAF, e a [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: uma questãoLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5202,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: de usuário e senha, é isso? Tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: um token de segurança, sim. É um token de segurança de out.[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.495,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Mas é um token...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Que é basicamente usuário e senha, né? Vai lá, gravado, manda aqui, criptografado e é esse.[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: esse daí vazar, é usuário e senha. Não tem... NãoLeonardo da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.44,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: tem nenhum outro fator que não for esse usuário sense. Hoje",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4198,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: não tem. Voltando aqui mais do motor. Nós temos aqui as nossas APIs, certo? Que a gente consegue consultar. Essa [PESSOA] de GraphQL é usada para capturar dados de configuração e, no caso de... E a gente usa também para ver atualização de status da reserva. Então, no fluxo da reserva, ele faz a reserva. Como que está a reserva? Aqui eu consigo trafegar dentro desse dado aqui detalhes de hotel, confirmação da reserva, qual hotel, qual as datas, esse tipo de coisa. Eu consigo ver, talvez, eu preciso do e-mail para poder consultar esses dados, né? Então ele usa o e-mail e esse jout para poder consultar os dados da própria venda. mas a gente está... Anteriormente, até recentemente, a gente colocava alguns dados pessoais e estamos removendo dados pessoais do usuário aqui dentro dessa comunicação. E aqui dentro dessas APIs, e são várias, nós temos as APIs para os diferentes serviços. Então, eu tenho uma [PESSOA], uma URL específica para Pesquisa de disponibilidade. Eu tenho uma outra [PESSOA] para realização do checkout. Eu tenho uma outra [PESSOA]... Essa mesma da realização do checkout é utilizada para, por exemplo, pagamentos, trocar cartão de crédito, esse tipo de coisa. E é essa aqui que a gente também... O que a gente vai fazer? Hoje não tem WAF nessas APIs. E o que a gente está fazendo nessa versão, na versão que vai subir na semana que vem? A gente vai mover atrás desse CloudFront, que hoje carrega aqui e não tem o WAF. Nós vamos mover todo esse acesso, ao invés de acessar essas APIs por aqui, eles vão acessar por aqui. Então, isso aqui vai ser movido daqui e vai mover por aqui. e dessas internamente, por rede, ele vai poder acessar dentro da rede da AWS, que essas APIs serão acessadas. Todas essas chamadas vão ser feitas a partir do mesmo endpoint que a gente vai acessar. Eu vou colocar o WAF dentro de todas as conversas. Eu vou fazer algumas regras específicas. Se for arquivo estático, eu tenho uma certa regra. Se for via [PESSOA], eu tenho uma outra. Isso que a gente está implementando. Primeiro estou movendo para cá, colocando essas portas por aqui, para que durante o próximo mês a gente faça uma proteção extra dentro dessas APIs super importantes, que são as APIs utilizadas para reserva, para pegar os dados de pagamento, os dados dos usuários e tudo mais. Nós estamos passando aqui também por uma série de verificações atualizações de cabeçalhos de segurança, que hoje a gente, nessa versão, na segunda-feira, já vai entrar. Então, tem algumas que não, que poderiam ser exploradas em certos cenários. Então, a gente está colocando o [EMPRESA], estamos colocando o [LOCAL], vários, vários, nesse momento, os críticos de alta, né, dos CVEs mais críticos. e a gente está implementando aos poucos e já vai sair uma versão dessa semana que vem com essa atualização. Neste momento, de WAF mesmo, é só esse. Se a gente entrar, eu vou divulgar isso. Mas a gente já está fazendo todo esse plano aqui de proteger essas APIs também. contra ataques de fora, tá? Fala, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É, [PESSOA]. Eu acho que, assim, é normal hoje em dia a gente ter essas várias integrações com várias aplicações diferentes, com soluções para... E tudo [PESSOA], né? Hoje o nosso grande problema de segurança são as APIs, realmente. Isso é fato. Mas é que... Por que até quando a gente falou da última vez, não lembro se foi semana",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: passada, foi uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.538,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: semana",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: eu falei assim [PESSOA] vocês têm uma uma uma arquitetura ali para um diagrama para poder me mostrar porque eu pedi isso porque assim é complexo já para a gente entender porque assim a gente vai saber muito assim da solução da implantação ou eu tenho aqui a nossa equipe eles vão saber a gente vai conhecer muito da solução e se não a gente tem aqui o motor de reserva eu tenho Ele faz essa integração mas realmente essa questão dessa comunicação das APIs é importante a gente entender até para poder apoiar e desenvolver melhor o incidente que a gente teve. Porque assim tem várias perguntas ali que não foram respondidas e em cima do que aconteceu foram",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: detectados",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ali alguns pontos. que beleza, tem vazamento de informação e tudo mais que até um certo nível de exposição é considerado até não, é normal, depende muito do tempo daquele dado ali, daquela informação também que ela está lazada porque existem hoje medidas que você... Ah, vazou? Beleza, você corrige, faz senha, multifator. Só que existem alguns rastreamentos e algumas informações que a gente precisa até para poder fechar a diagnóstica. que faltam né e por isso até que eu peço e quero ver com vocês esse entendimento até para gente proteger mais porque até pelo pelo as informações que eu tenho a gente continua com um problema acontecendo e que até certo ponto é grave do ponto de vista de eu estar tendo vazamento de informação e por isso que a gente está procurando fazer essas reuniões para ver se a gente consegue identificar possíveis, ter mais condições de ser mais assertivos naquilo que é o problema hoje e do que a gente pode corrigir, seja do lado do [LOCAL], seja do lado da Totus, da [EMPRESA], ou das outras integrações que a gente tem, justamente para que a gente não impacte o nosso usuário final.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: até por conta disso que a gente está fazendo essa reunião. Ainda, como você mesmo trouxe, eu acho que a gente acaba tendo um entendimento maior. Eu agora já sei essa questão dessas APIs. que ela",
+      "mantida": false,
+      "probabilidade_relevancia": 0.456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: faz",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: essa comunicação direta para trazer parte da informação de um dado do usuário da reserva para poder fazer a consulta porque até pelo que eu entendi esse [EMPRESA] é o que vai ficar ali com a operação realmente dos hotéis ali",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vê as reservas e tudo mais. Mas a reserva online quando ela é feita ela acontece direto pelo motor de reserva e até uma primeira visão, a gente tem ali um certo nível de segurança maior, mas eu acho que o resto do organograma ainda é invisível pra mim, né, de comunicação, e eu não posso garantir ou até fechar diagnósticos sem ter essas informações, né, por isso que a gente tá pedindo pra vocês isso, né, dessas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: informações.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Não, você tem razão, assim, acho que todo mundo aqui, nós estamos nessas semanas todas, assim, com várias frentes aqui dentro de investigação. Eu, infelizmente, eu posso, eu entendo, como você pode ver, a gente tem aqui três pilares, essa mesma reserva trafegou no mínimo, trafegou por aqui, com certeza, os dados da reserva, os dados do passageiro, por todo esse fluxo. Eu sei responder bem por aqui e a gente pode, Essa parte aqui eu já posso explicar e mostrar um pouco alguns detalhes também sobre essa parte, porque aqui dentro do [LOCAL] nós temos tanto o motor de reservas como a central de reservas. Então, a central de reservas é um outro painel dentro do [LOCAL] que os usuários podem acessar utilizando o [LOCAL] do SESC. E a partir daqui ele consegue também consultar as reservas aqui dentro. E a arquitetura é bem parecida. Ela também acessa via GraphQL. Eu também acesso esse [PESSOA], mas agora com uma autenticação via o [LOCAL]. E a partir desse token do [LOCAL], nós fazemos as consultas das reservas por essa interface aqui do GraphQL, que aqui também tem as reservas. E aí, claro, apesar de ser a mesma [PESSOA] que a gente usa no motor, ou seja, pelas pessoas de fora, a gente faz uma verificação desse token que vem por aqui. Não, esse daqui é só o token que passou autenticado dentro dessa mesma plataforma de autenticação, validado com o [LOCAL] do AD que foi configurado no SESC, aí sim eu tenho a permissão de acessar os detalhes das reservas. Então... DeixaLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: fazerLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: uma pergunta aqui em rela",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5326,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: essas questões de todas as APIs com os tokens que elas se comunicam, após o incidente que aconteceu lá no dia 9 do 2, desculpa 12, 12 do 2, foi feita uma revalidação de todos esses tokens ou não?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Esses tokens tem validade de aproximadamente 4 horas, então eles só conseguem manter por esse tempo e ele é atualizado todo dia, conforme vai chegando ao final da segurança. E no dia seguinte ele precisa fazer o login de novo. MasLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: login comLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: usuário e senha, certo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Ou via [LOCAL]. Tem que fazer um novo login com usuário e senha. Isso dentro dessa interface central de reserva, certo? Que utiliza,[PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5148,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: sua vez, aLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: mesma [PESSOA]. A [PESSOA] comunica com a [PESSOA] Vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4919,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: fizeramLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: um cliente de senha desses tokens?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Esse daqui, né? Esse daqui... Eu não sei dizer. Vou ter que levantar isso aí pra você, não é?[PESSOA]",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3867,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Porque isso é importante, porque assim, se alguém conseguiu interceptar essa comunicação e conseguiu coletar dados através dessa [PESSOA], pode estar coletando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: dadosLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: da [PESSOA]...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Eu posso interromper aqui e comentar com vocês como o papel meu se tirou aqui do grupo de forma geral, tá? O incidente teve o primeiro relato para nós no dia 17 de fevereiro. No dia 17 de fevereiro, por volta das 11 horas, nós recebemos um grande reset geral de todas as senhas dentro da organização, grupo ou minibis, bem como chave de [PESSOA]. O que o [PESSOA] tá explicando a vocês é a comunicação que vocês tem via [EMPRESA]. Então eu vi que vocês estão questionando sobre questões de WAF, questões de conexões, proteções e camadas. E essa camada que ele tá explicando a vocês é a camada mais inicial que é praticamente o hoteleiro acionando para poder ver uma reserva. Toda a comunicação interna que se dá de transações e interconexões entre sistemas e distribuição, está na camada [EMPRESA]. O [EMPRESA] conta com todas as APIs de baixo de Cloudflare, o off, ativos e dinâmicos colocados protegidos, E todas as APIs, exceto o [EMPRESA], que é uma [PESSOA] pública que a gente tem que compartilhar, todas elas são protegidas através de whitelist dentro da nossa operação. Temos um datacenter on-prem e toda a nossa infraestrutura fica [LOCAL] no nosso datacenter. Então, eles são duplamente protegidos por acesso via Cloudflare e o whitelist dentro do nosso escritório. Então, isso daí que ele pôs os dois traços [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Isso. E",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: aí, no dia do incidente, a primeira ação que eu tenho aqui no nosso procedimento, a gente não sabia de onde viria, é importante reforçar que no dia Apareceu para a gente em torno de uns 10 casos, 10, 15 casos. E nós tomamos a primeira ação, o que nós fizemos foi o reset geral dos usuários da nossa operação, bem como também as principais chaves de [LOCAL] são de integrações. Integrações essas entre agências digitais como [EMPRESA], [PESSOA], etc., que são tokens fixos, todos eles foram rotacionados nessa data. e operações APIs que têm tokens, como o que o [LOCAL] está explicando, eles são tokens descartáveis gerados para o login e senha dos usuários.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: só para não confundir e misturar todos os assuntos aí, para não deixar uma impressão errônea. Outro ponto, só intervindo um pouco. É legal que estão querendo analisar e entender, etc. Mas eu vejo que a gente não vai ser produtivo analisando e querendo fazer uma auditoria interna, sendo que eu tenho consultorias externas fazendo todos os nossos testes para poder divulgar a mercado, porque o nosso nome está sendo colocado diversas vezes em questionamento. Então a gente já tem. E nós deveríamos estar trabalhando aqui, talvez no pedido que o [PESSOA] fez para mim, nós deveríamos estar trabalhando aqui em conjunto para colocar nos reservas do estilo [PESSOA] em cada um dos nossos pontos, incluindo o [EMPRESA], incluindo o hotel, incluindo sistemas de integração, pra gente ficar monitorando e tentar identificar possíveis pontos, tá? Então acho que vocês ficarem explicando, querendo ver regras, etc., não me oponham, né? Não tenho problema. Mas eu acho que a gente não vai chegar muito longe, tá? Eu procuraria muito mais a gente pegar esse desenho aqui e falar que era legal. Dá pra gente fazer um teste aqui bem assertivo, se a gente colocar aqui a reserva A, chamando o A lá dentro do [EMPRESA], chamando o [EMPRESA] dentro lá da NAR, chamando o C dentro do conector, chamando o D dentro do SESC. Tipo de vazamento de informação que trafega, tá? Quando a gente fala dos casos de phishing, o comportamento típico do caso, ele tem um ciclo de dia de quatro dias. A reserva é inserida. Geralmente um phishing, quando acontece, ele acontece dentro de uma janela de 14 a 17 horas. Geralmente o hóspede tende a demorar mais meio dia ou um dia para se comunicar com o hotel e o hotel abre um chamado aqui com a gente. Então esse geralmente é o prazo que a gente teria se tivesse uns testes, colocasse testes aqui em conjunto. com a equipe, aproveitando a expertise do pessoal que tá aqui. Eu acho que dentro de quatro dias a gente teria já uma boa janela, uma boa análise do que a gente pode caçar aqui ou não, tá? Esse é o mecanismo que a gente também tem feito com diversas redes loteireiras. Nós temos casos de redes de hotéis que e que nós aplicamos um reset global generalizado na rede de hotel. E o problema varou, e eu tenho redes que tem essa dificuldade. Inclusive, a gente está executando amanhã. uma ação centralizada, independente da vontade dos hotéis, nós, [EMPRESA], iremos resetar globalmente todos os nossos usuários da rede de hotel, por exemplo, no iHotel. Então, por exemplo, as pessoas lá no [LOCAL] amanhã terão as senhas expiradas e eles terão que fazer uma nova senha. Isso vai ser uma ação globalizada em todos os nossos clientes. Só pra volume de informações, a gente sabe que publicamente a gente tem de 6 mil a 9 mil. hotéis dentro da nossa rede, você pode imaginar que cada hotel aí em média vai pedir 5 a 10 usuários, você pode imaginar a quantidade de usuários que nós temos. Lembrando que toda a gestão de acesso e saúde e governança dos usuários cabem aos hotéis. A [LOCAL] não tem condições de gerenciar se um hoteleiro demitiu ou alguém saiu da recepção, se eles estão compartilhando seninhas ou não, tá? Então só passando um pouco de informações para vocês, também para vocês não ficarem muito preocupados com a apresentação do [LOCAL], porque a gente conta aqui com uma camada bem robusta, como um grupo de [LOCAL] geral.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Quer falar, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: levantou a mão aí? Sim, sim. Não, eu acho que foi... É importante, eu acho, que passar essas informações, porque eu não sei se existe essa troca de... Essas informações que foram trazidas agora já estão sendo repassadas de alguma outra forma aqui para o SESC, porque eu acho que, como eu falei no início, acho que o objetivo principal aqui é a gente conseguir identificar o que está acontecendo, porque existiu um incidente Eu acho que foram tomadas ali algumas medidas, sim, foram informadas. Nós também verificamos a nossa parte aqui naquilo que cabe a verificar a questão dos acessos. Onde, se é possível, foi feito, as medidas também. Em outros pontos não existia essa questão. porque já existe a proteção da própria autenticação que é utilizada por [LOCAL], que aí é quem utiliza a própria [EMPRESA], enfim. Mas é que eu acho que o grande ponto é realmente assim, continua acontecendo, a gente tem vazamento de dados mais recentes, eu acho que tem toda essa preocupação e tudo mais, só que a gente ainda tem um problema, que ainda não foi possível, pelo menos com os os relatórios chegaram até aqui para a área de segurança nenhum dos relatórios foram conclusivos foi detectada uma campanha de phishing Sim, foi detectada uma campanha de fiche com dados reais e dados recentes da época dos primeiros relatórios e agora tem a informação de que continua uma campanha de fiche, mas com dados mais recentes ainda do que já foi daquele incidente dos relatórios que eu possuo. Eu acho que a grande questão é realmente a gente tentar descobrir em conjunto o que pode estar acontecendo, aonde pode estar acontecendo esse problema. Hoje nós fizemos testes aqui também internos com a aplicação da forma que está hoje, de uso, de uso não de ferramenta ou de tentar fazer qualquer pen test não, mas de uso real. Beleza, teve um vazamento de informação, vou tentar fazer uma autenticação aqui com esse perfil. conseguiria fazer. Enfim, eu acho que a gente precisa saber, inclusive, dessas informações, não de todos os casos, porque é o negócio da empresa, mas especificamente do que a gente precisa. De novo, eu não sei se essas informações estão sendo repassadas aqui a mais alto nível aqui dentro do [LOCAL]. Eu não tinha essas informações daquilo que está sendo feito. Eu acho que o que o [PESSOA] está fazendo é importante, sim, e os questionamentos são realmente para a gente ajudar. A gente não está procurando aqui ninguém para culpar, tá? Isso aqui realmente é para ajudar e, se possível, para melhorar, para a gente tentar identificar uma possível falha,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mesmo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: que tenham aí outras formas de verificação, com quais empresas tem testes e tudo mais. Porque assim, gente, a gente vê aí grandes empresas com investimentos muito altos, empresas mundiais e que acontecem aí problemas de segurança. Acho que isso é seguro. A gente nunca vai estar 100% seguro. Então a gente precisa sim. Hoje eu tenho um problema. Eu continuo com vazamento. Eu só quero resolver essa questão realmente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Já chegou a vocês o artigo que nós compartilhamos. Tem diversos artigos globais sobre o phishing que está acontecendo na rede global. Eu compartilho aqui pra vocês, é um artigo muito interessante que disseca como que acontece todo esse, esse mecanismo de FICH. E é um phishing descentralizado e genérico. Nós temos vários testes que a gente realizou aqui. A gente já sabe que eles não desduplicam os celulares. A gente sabe que eles não estão nem aí para qual é o código, qual é o nome. É simplesmente automatizado. E ele é de uma fonte muito fina que acontece através de phishing em gênero social. E, by the way, só vou mostrar aqui na tela para vocês, porque eu não sei se isso chega ao nível de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4795,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Eu vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: compartilhar aqui na tela, peço permissão. Só para vocês entenderem aí como que é o nível, infelizmente, como que é o nível geral de que nós temos nas redes hoteleiras, tá? Essa aqui é uma listagem tirada de Deep Web de dados vazados de usuários do [LOCAL]. Aqui, na segunda coluna, ela tem a senha. Eu só tô deixando aqui oculto por questão de privacidade dos próprios e que é muito importante. Então, oLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: que vocês podem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ver aqui? ALeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: gente até avaliou já essa...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: DeixaLeonardo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 25]: comentar sobre esse ponto. Essa lista, eu acho que a gente está desfocando aqui com relação ao processo. A gente sabe que a engenharia social, a gente entende isso. Essa lista foi compartilhada com a gente. A gente tem um padrão de senhas que essa lista não atende. A gente, inclusive, pegou essa lista para entender se os usuários dessas aplicações, das aplicações da rede hoteleira, utilizam o sistema de hotelaria e isso não foi comprovado. Fomentando o que o [PESSOA] estava dizendo, a gente tem uma preocupação com a parte de segurança, existem termos lá No nosso edital, e aí assim, [PESSOA], desculpa, eu entendi o ponto que você quis trazer, dizendo que ações estão sendo realizadas A gente não está aqui no processo de fazer uma auditoria ou tentar identificar o motivo disso O motivo desse incidente não é achar um culpado O ponto é que a gente tem requisitos do nosso edital que têm que ser cumpridos E aí, o questionamento que a gente faz é A gente pede para que existam asas, a gente pede para que camadas de segurança sejam atendidas. E aí, nesse levantamento que a gente está fazendo aqui para poder... O processo aqui não é punitivo, não é identificar, não é fazer nenhuma punição, mas fazer os acertos Então a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: pede que camadas de segurança existam e que vocês estão comprovando [LOCAL], pelo menos, vocês trouxeram até agora [LOCAL] do nosso esquema, tem camadas que não estão habilitadas ou não estão configuradas E esse é o ponto que a gente quer corrigir A gente não tá aqui pra poder fazer uma auditoria ou sinalizar, achar um culpado Eu entendo que isso é o cor de vocês, vocês têm equipes dedicadas, debruçadas em cima disso para resolver o problema. E aí o nosso papel aqui é colaborativo, só que eu preciso, eu tenho hoje um relatório e aí a gente está trabalhando, são três empresas aqui. Eu tenho um relatório dizendo que o incidente foi realizado, que não conseguiram identificar o ofensor, não conseguiram identificar qual é o ponto, e isso está acontecendo até agora. A gente voltar com um cenário que se pode ser em gênero e reverso, que se pode ser dado vazado de credenciais, cara, a gente já tirou esse cenário. É óbvio, todas as hipóteses têm que ser levantadas. O ponto específico, só para concluir, o ponto específico é, a gente quer entender se dentro do nosso processo, dentro do nosso ecossistema, a gente sabe que tem ataques, esse tipo de ataques difíceis acontecem em grandes redes, Isso é comum dentro do mercado. A gente quer olhar para o nosso cenário. [LOCAL] do nosso cenário, o que a gente preconizou dentro do nosso edital está sendo cumprido? Se não, vamos pedir para ser cumprido. Esse é o ponto. Então, assim, a gente falar, vier a credencial esvazada, se a gente, no mesmo cenário, se eu for lá na [PESSOA], na Deep Web, buscar domínios [PESSOA], se a esvazada vai aparecer, não necessariamente a lista é verdadeira. Então, assim, o ponto é, o que essa reunião está trazendo é, existem camadas de segurança que deveriam existir dentro do que preconizam digital e a camada não tá lá. Ou tá lá e não tá configurado. É o que a gente identificou aqui. Por isso que eu pedi a reunião. E eu quero, na verdade, resolver. Eu sei que vocês estão trabalhando pra isso. Sei que vocês estão evoluindo a parte de segurança. O [LOCAL] trouxe aqui, tem evoluções que têm que acontecer E a reunião, ela é pra isso, ela não é pra achar ocupado e sim pra gente poder prosseguir com segurança Hoje eu tô com um projeto parado de implementação de uma rede de mais 50 hotéis porque eu tenho um vazamento de segurança e eu tenho um estreito de segurança que eu não consegui ainda estancar e ele está acontecendo. O nosso papel aqui é trabalhar em conjunto para poder equalizar isso e entender quais foram os próximos passos. O senhor hoje trouxe uma situação que o [LOCAL] disse aí, de todas as credenciais vão ser realizadas. Isso não foi passado em nenhum momento para a gente. Uma ação que a gente entende que tem que ser feita. Então, assim, se eu não sei ainda, se eu não consigo identificar qual é o ponto, tem que se fazer uma campanha dessa. Então, o ponto da reunião é exatamente para isso, é colaborativo para a gente poder evoluir com os próximos passos. E aí, dou a palavra aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Conte comigo, conte com o grupo de forma geral e vamos separar então em dois assuntos. Acho que é importante ir para o [PESSOA] para estar mais preparado para a reunião. O edital. [PESSOA], você conhece o edital e os requisitos de segurança?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Eu particularmente não. Então eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: posso fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: daí. Eu também não. Então acho que eu peço uma ajuda de vocês, pessoal da [LOCAL], compartilhar com a gente. Dá pra gente uma semana pra gente poder analisar o que tá sendo pedido no edital, a gente vem cobrindo exatamente o que tá no edital, o que tá sendo feito, o que está concluído, o que não tem feito, de forma bem transparente com vocês na questão de parceria. Eu acho que sim, vai ser extremamente produtivo pra gente poder chegar em conjunto, vocês ganharam o edital, contam com os nossos produtos para poder fazer a entrega, e assim a gente vai focar para que ele seja cumprido. Mas a gente precisa entender exatamente o que são esses pedidos, tá? Tudo que não for viável, acho que é legal, né, de o Renata poder anotar e mostrar. Então, por exemplo, Colocar um offer aqui que vai cobrar a gente por tráfego para proteger um dado estático, talvez ele não pareça ser uma solução tão estratégica assim. Aí o [PESSOA] pode trazer isso para vocês. E o ponto 2 da discussão, que é o phishing em andamento, que eu estou falando a vocês que realmente é um phishing, nós temos aqui exaustivamente com a nossa equipe de ofensiva e defensiva, olhando para esse Desde o dia 17 de fevereiro, a gente praticamente vive aqui em 1 a 1, nós não temos nenhuma evidência de que nós temos algo comprometido. Nossos volumes são monstruosos, os casos são de números muito baixos, perto da quantidade que a gente faz. Obviamente eu quero zero, todos nós buscamos zero. Mas isso mostra pra gente que não existe um vazamento síncrono, massivo, etc e tal. Isso pode vazar nas pontas. Nós temos um phishing global que dá pra vocês verem em artigos na internet, espalhado por tudo. Adoraria aí o [EMPRESA] ter o tamanho de afetar o mundo, tá? De forma geral. Longe disso, né? Nós somos irrelevante perto do mundo de forma geral. No [LOCAL] somos forte, só que irrelevante no restante. E o que eu proponho para vocês na questão do phishing é, nós faremos esse reset centralizado e global, infelizmente sem a aprovação necessária do hotel ou não, não vamos ficar comunicando com os hotéis, não fizemos um grande alarde sobre isso também, porque se você for fazer uma iniciativa e falar, olha vou trocar a senha de todo mundo e deixar isso avisado para todos os atacantes que vai ser trocado, que eles têm que correr para buscar novas janelas, não faz muito sentido. O reset vai acontecer amanhã em todas as redes, e aí o que eu proponho a vocês de forma geral é, logo após o reset geral, a gente colocar nossas armadilhas e colocar vários testes de reservas em conjunto entre nós. Reservas essas que a gente pode controlar para cancelar no futuro. As reservas que a gente pode deixar, ou vocês colocam sem contar pra gente, ou a gente coloca aí em conjunto, a gente coloca em nomes distintos em diversos pontos e a gente vai assistir isso por um período. Se feito um resetão, e se a gente não conseguir identificar nenhuma reserva dentro de uma gama que a gente pode colocar aí 30, 40, 50 reservas nossas de análise,[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: gente vai ter uma evidência bem forte do porquê que não tá batendo. Passado 20, 30 dias, começa a vir um caso ou outro de novo? Eu falo, cara, ei, vamos redator a senha de novo, tá? Então acho que são dois assuntos bem instintos. Não necessariamente o cumprimento ou não cumprimento do edital vai garantir o [PESSOA] na [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4821,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] é muita disciplina.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [EMPRESA]. concordo, mas a gente precisa garantir o mínimo e esse é o ponto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5467,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso aí, vamos fazer passo edital pra gente, cara. O maior prazer. Eu não sou novo na companhia, eu preciso até estudar pra entender isso daí, o [PESSOA] também possivelmente não conhece, né, o edital. Acho que dá pra gente preparar um material bem bacana pra vocês e um plano de ação caso ele não esteja sendo cumprido, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Isso, em conjunto aí, o [PESSOA], outro [PESSOA] aí levantou a mão.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Sim, só um ponto sobre o edital, né? A [LOCAL] participou da [EMPRESA], participou do edital, o [PESSOA] [LOCAL] tem o conhecimento desses pontos, tá, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5061,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ETOTVS -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Beleza. Ele tá de férias,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: aqui hoje.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Você que tá deTOTVS -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: férias...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Eu,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mais pra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: gente, não tenho, mas sim, acho que o quanto antes eu conseguir adiantar mesmo nas férias dele, melhor.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3874,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: nãoTOTVS -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: tem problema. Quando eu vou mandar o edital pra vocês, eu tenho sim mãos aqui, mando, os casos que avisei também que dos casos que a gente teve recentemente, principalmente nesse final de semana de 27, 28 e 29, tivemos casos reportados pelo [LOCAL], especificamente ali, essa estratégia das reservas iscas, acho que a gente sim precisa fazer, então passos aqui que a gente precisa fazer, do nosso lado, acho que nem deu o tempo de a gente apresentar os itens de segurança que o ecossistema TOTUS tem. E isso foi apresentado também na [EMPRESA] e temos os dados nossos aqui, o time de engenharia também está participando, mas entendo que não vai dar tempo de a gente ver isso hoje. Mas acho interessante também do nosso lado, posteriormente, o time do SESC, a gente mostrar para vocês os itens de segurança que foram feitos aqui, o que a gente já tinha, o que a gente vem implementando de novo também para todo mundo ter essa ciência, tá? E próximo passo aqui, mando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: o editalTOTVS -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: para vocês, tá?[LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5007,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [PESSOA] eTOTVS -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: [[LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: ouvindo.[LOCAL] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ah, desculpa, cara. É, a gente pode... [LOCAL], tem uma imagem aqui rápida, a gente pode mostrar rapidão sobre o tipo de engenharia aqui, [PESSOA], a gente pode mostrar rapidão, se for o caso.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Tá, deixa eu só terminar a fala aqui...[LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não, tranquilo, tranquilo.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Beleza, a gente vê se o pessoal consegue ficar mais um pouquinho. Os próximos passos aqui, mando o edital pra vocês, [PESSOA] e [PESSOA], direciono isso pra vocês, tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3866,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ETOTVS -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: entendo que vocês vão precisar de um tempo pra verificar esses itens, né? Revalidarmos, na verdade. e a gente formar um plano de ação em conjunto para acessar ou identificar se temos alguma vulnerabilidade em qualquer que seja os lados. Beleza?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCAL]. Tem todos os passos de cumpridez do que está estabelecido, que foi combinado. Eu tenho algumas coisas aqui que, como o [PESSOA] comentou, a gente precisa colocar aqui para cumprir o edital. E tem todo esse ponto do trabalho conjunto, dessa investigação em andamento desses casos, até mesmo esses reportados recentemente. A [PESSOA] tinha levantado a mão. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: não sei se todos podem continuar, ou a gente continua aqui, ou a gente agenda uma novaGihan [LOCAL] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.452,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: reuni",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: para que a TOTUS possa apresentar o que eles têm de arquitetura de segurança.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5795,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: É, eu interro",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: praTOTVS -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: ser com mais qualidade da [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5118,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Vamos marcar uma outra, né?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Muito corrido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá bom.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Isso, eu aviso a vocês. Eu vou mandar esse digital hoje pra eles, tá? Pra todo mundo ficar na mesma página aqui. E a gente marca uma outra agenda pra fazer a agenda com qualidade, tá? Acho que é importante.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4536,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá ok.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 25]: pessoal. [LOCAL], bom trabalho pra todo mundo. [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3804,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Falou gente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: valeu.[LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

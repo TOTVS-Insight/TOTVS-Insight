@@ -1,0 +1,2329 @@
+{
+  "id_reuniao": "1153197",
+  "codt": "029552",
+  "data_reuniao": "2026-03-03 09:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 44]: Opa, bom dia, tudo bom?\n[LOCUTOR 10]: Tá pela fábrica,\n[LOCUTOR 44]: hein? É, eu tô. E aqui nós temos... Deixa eu mostrar pra ti aqui, ó. Lá naquele prédio é a [LOCAL] e aqui é outro prédio que é da parte de metálica, né? Então deixa eu ir lá pro outro lado que tá o meu computador lá. Eu tava numa reunião aqui e acabou enrolando.\n[LOCUTOR 10]: Ah, não,\n[LOCUTOR 44]: mas eu\n[LOCUTOR 10]: espero. \n[LOCUTOR 28]: lá\n[LOCUTOR 10]: com calma. Vai lá com calma e eu te espero. Bem tranquilo, tá?\n[LOCUTOR 44]: Não, não. Pode ir falando já. Já ganhamos tempo.\n[LOCUTOR 10]: Ah, tu que\n[LOCUTOR 44]: sabe.\n[LOCUTOR 10]: Eu não quero te atrapalhar aí. Se tu quiser chegar primeiro, tu tem...\n[LOCUTOR 44]: Não, não. Tá tranquilo. É até bom que aqui é menos barulho que lá na produção.\n[LOCUTOR 10]: Então tá bom. Primeiro prazer, hein? Falar contigo e conversar um pouco, ô [PESSOA]. E dizer que é uma satisfação estar em contato com vocês aí da [EMPRESA], né?\n[LOCUTOR 44]: Sim.\n[LOCUTOR 10]: Eu fiz um contato com o [PESSOA], o que tu me pediu, só que ele não conseguia conversar. Aí marcamos hoje aqui, final da manhã, uma conversa com ele. Mas antes a gente adianta aqui, eu e tu, e aí a gente vai pegando mais informações, né?\n[LOCUTOR 44]: Pelo\n[LOCUTOR 10]: que tu me falou, a [EMPRESA] contura 170 milhões hoje, é isso?\n[LOCUTOR 44]: Isso. Por antes.\n[LOCUTOR 10]: Deixa eu botar a gravar aqui pra gente ter as informações salvas. A gente sempre grava porque\n[LOCUTOR 44]: aí\n[LOCUTOR 10]: as informações, tudo mais, fica tudo salvo, né? Aí não corremos o risco de perder nenhum detalhe. Depois a gente transcreve direitinho aqui. A gente usa muito [LOCAL] na [EMPRESA], né?\n[LOCUTOR 44]: Então,\n[LOCUTOR 10]: hoje a [EMPRESA] tá faturando 170 milhões de anos. Uma empresa de [LOCAL] aí no norte do estado, né? Parte do [LOCAL]. E hoje, pelo que eu entendi, tu comentou que foi contratado pra esse projeto de [EMPRESA], é isso?\n[LOCUTOR 44]: É assim ó, para te contextualizar, hoje nós temos um outro [EMPRESA] que foi contratado para ser implementado aqui, só que esse outro [EMPRESA] eu não tô sentindo ele aderente ao processo aqui, tá? Aí o que que eu quero fazer? Eu quero abrir... Nós temos ali uma ideia de valores com outras duas empresas que eu considero boas, né? São empresas que vão entregar um resultado melhor para nós.\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 44]: [PESSOA],\n[LOCUTOR 10]: tu\n[LOCUTOR 44]: é\n[LOCUTOR 10]: um consultor, tu é membro da família, tu é da empresa, qual é a tua...\n[LOCUTOR 44]: Como\n[LOCUTOR 10]: é que tu tá\n[LOCUTOR 44]: vendo lá\n[LOCUTOR 10]: da empresa?\n[LOCUTOR 44]: Eu sou funcionário da empresa. [EMPRESA]\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 44]: [EMPRESA].\n[LOCUTOR 10]: Hoje qual é a função que você ocupa aí na [EMPRESA]?\n[LOCUTOR 44]: Hoje basicamente eu sou o responsável pela parte da implantação do ARP e da implantação da [EMPRESA].\n[LOCUTOR 10]: Você é um gerente operacional, gerente [EMPRESA]?\n[LOCUTOR 44]: Podemos dizer assim que sou o gestor de projetos na implantação do ARP.\n[LOCUTOR 10]: Você está a\n[LOCUTOR 19]: faz quanto tempo,\n[LOCUTOR 10]: [PESSOA]?\n[LOCUTOR 44]: [EMPRESA]?\n[LOCUTOR 10]: Você está na empresa faz quanto tempo?\n[LOCUTOR 44]: Faz pouco tempo, faz uns 10 dias.\n[LOCUTOR 10]: E por que não está vendo a aderência do [EMPRESA] atual?\n[LOCUTOR 44]: Assim, algumas integrações que ele não consegue fazer, alguns processos assim, então é mais ou menos nesse sentido, entendeu? E também a longo prazo, o que a gente espera?\n[LOCUTOR 10]: Gostaria de contextualizar, por exemplo, que tu espera, que tu acha que ele não vai entregar?\n[LOCUTOR 44]: Sim, só um minutinho que eu tô\n[LOCUTOR 10]: chegando\n[LOCUTOR 44]: aqui.\n[LOCUTOR 10]: Chega aí com calma, vem\n[LOCUTOR 44]: junto. Então, o que que acontece? Assim ó, nós temos uma demanda [PESSOA] pegar ali um exemplo aqui.\n[LOCUTOR 10]: \n[LOCUTOR 40]: sistema atual hoje, ele quer fazer com que a governança esteja em um sistema satélite, que é um sistema aqui para rodar o chão de fábrica, né? Então...\n[LOCUTOR 44]: Qual o [PESSOA]? Você só ouviu falar.\n[LOCUTOR 10]: Desculpa?\n[LOCUTOR 44]: Esse [PESSOA] hoje, a maneira que eles desenharam a integração com esse sistema Basicamente a ordem de produção é gerada nesse sistema, aí é executada a produção. E depois ele informa o [EMPRESA] o que foi produzido, o que foi consumido em matéria-prima. Esse é um dos principais motivos também que a gente tem visto na aderência. Por quê? A gente entende que a governança tem que ser por parte do [EMPRESA]. O [EMPRESA] tem que ser o cara que vai receber as notas fiscais, vai receber o estoque, vai receber a produção, enfim, e vai controlar tudo. O sistema [PESSOA] ali, ele tem que ser apenas o acompanhamento de execução, que é ali que vai acompanhar a execução. Informado, tá pronto. Com isso, seria o principal ponto de não aderência hoje, que eu acho\n[LOCUTOR 10]: que tem\n[LOCUTOR 44]: que ter essa governância por parte do [EMPRESA]. Segundo, nós temos aqui alguns pontos aqui de integrações com CRMs diferentes, que ele também tá com dificuldade de se integrar, que a ferramenta deles não atende nós nessa questão de CRM, então é mais ou menos nesse sentido aí as nossas dores aí que está acontecendo, entendeu? Aí também tem a parte de RH, que ele não consegue importar nenhum dado legado, tem que fazer tudo cadastro manual, então a ideia era ver se no mercado nós tínhamos alguma ferramenta que nos desse mais aderência, entendeu?\n[LOCUTOR 10]: Pô, a [LOCAL] falou que eles não conseguem fazer a migração de dados, é isso?\n[LOCUTOR 44]: Não.\n[LOCUTOR 10]: A Folha é da empresa de [LOCAL] também?\n[LOCUTOR 44]: A Folha, dele sim.\n[LOCUTOR 10]: Não consegue integrar os dados.\n[LOCUTOR 44]: Falou\n[LOCUTOR 10]: outra coisa de integração com CRM, né?\n[LOCUTOR 44]: Isso, hoje é o Bitrix que nós estamos utilizando aqui.\n[LOCUTOR 10]: Ele não consegue se integrar. Mas, assim, aí vai a pergunta, né, [PESSOA]? A dificuldade da integração com o Bitrix e o MESS, assim, porque, vamos lá, eu trabalhei com o [PESSOA], né, que me indicou aí, pra você falar com a gente aí, né, na parte do MESS. A ordem de produção, tu pode definir se ela vai nascer no [LOCAL] ou se ela vai nascer no MESS, né, que é o PLANIX aí de vocês, né? Isso é algo modelável. Pelo menos nos RPs e sistemas que eu trabalhei.\n[LOCUTOR 44]: Então,\n[LOCUTOR 10]: vamos lá. Eu tenho... Vou dar um exemplo. Eu tenho um [EMPRESA], eu tenho um [EMPRESA],\n[LOCUTOR 44]: e\n[LOCUTOR 10]: eu tenho ali o meu sistema, que é o PLANIX, que é o [LOCAL], ou o [EMPRESA] da [EMPRESA] também, que a [EMPRESA] tem um [EMPRESA] também,\n[LOCUTOR 44]: que é o\n[LOCUTOR 10]: [PESSOA]. Eu vou definir onde a ordem de produção vai nascer. Normalmente, empresas grandes, que tem um nível de governança já significativo, um [EMPRESA] robusto. Eu vou fazer ele nascer dentro do [EMPRESA]. Eu gera a [LOCAL] dentro da [EMPRESA] e eu mando para o [EMPRESA] controlar a produção. Normalmente é isso aí. Mas,\n[LOCUTOR 44]: em\n[LOCUTOR 10]: caso, o sistema da [EMPRESA], por exemplo, da [EMPRESA] permite, outros sistemas [EMPRESA] permitem,\n[LOCUTOR 44]: que eu\n[LOCUTOR 10]: faça com que a [LOCAL] ela nas\n[LOCUTOR 20]: dentro do\n[LOCUTOR 10]: sistema. Então, isso é um ponto aí que que é parametrizável, digamos assim, pelo menos nas empresas que eu conheci. Ou não, o [EMPRESA] atual não permite que a [LOCAL] nasça dentro dele. [EMPRESA]?\n[LOCUTOR 44]: [EMPRESA]?\n[LOCUTOR 10]: O [EMPRESA] que vocês compraram, ele não permite que a ordem de produção nasça dentro dele? Ele não tem essa funcionalidade, por exemplo? Por isso tu é obrigado\n[LOCUTOR 44]: a... Ele tem, não tem. a integração com esse sistema [PESSOA].\n[LOCUTOR 10]: E essa integração, ela está sendo feita? Ela está sendo construída? Está em desenvolvimento? \n[LOCUTOR 3]: nem\n[LOCUTOR 10]: está\n[LOCUTOR 44]: sendo feita?\n[LOCUTOR 10]: Então, o que acontece, [PESSOA]? Isso é muito definição de processo. Eu vou decidir que o sistema vai nascer, que a [LOCAL] vai nascer no meu [EMPRESA]? Então, eu tenho que fazer uma integração que o meu sistema ameaça. E aí, provavelmente, como eles não têm integração, vai ser via serviço. Se vocês não precificaram isso, eles vão cobrar de vocês para fazer a integração. \n[LOCUTOR 42]: que\n[LOCUTOR 10]: eles não estão conseguindo fazer as integrações com o [EMPRESA], com o CRM? O que está acontecendo que eles não conseguem fazer as integrações? Porque é serviço. É só abrir o sistema, fazer via API, e vão ter dados. Por que eles não estão conseguindo fazer?\n[LOCUTOR 44]: Na verdade, é por causa da... Enfim, não é que eles não consigam fazer, entendeu? Como eu disse, não foi iniciado esse processo. Entendeu? Obviamente está em estudo isso, mas assim, olhando outros quesitos ali da ferramenta, a gente já está sentindo que talvez não vá atender 100%.\n[LOCUTOR 10]: Entendi. Ah, então tem mais coisas que voc\n[LOCUTOR 38]: estão vendo\n[LOCUTOR 10]: que não vai...\n[LOCUTOR 44]: Por isso que\n[LOCUTOR 10]: a gente\n[LOCUTOR 44]: partiu\n[LOCUTOR 10]: buscar\n[LOCUTOR 44]: no mercado uma solução para ter uma ideia, pelo menos, de valores.\n[LOCUTOR 10]: Sim. Que outros requisitos ele não está mostrando para vocês?\n[LOCUTOR 44]: Hoje nós precisamos que o sistema [EMPRESA] esteja integrado com o CAD, então que receba o projeto, nós trabalhamos projeto sobre medida, Receba o projeto e transforme isso na estrutura do produto de forma automática.\n[LOCUTOR 10]: Isso o PLANIX não faz.\n[LOCUTOR 44]: O PLANIX faz, o que não faz é a [LOCAL] por enquanto.\n[LOCUTOR 10]: Mas é que isso normalmente bosta errado, tá? Mas isso vai ser tarefa doméstica. O [EMPRESA] em tese não faria isso, tá? Receber o projeto do [LOCAL], tá?\n[LOCUTOR 44]: [LOCUTOR 5]: porque ele não teria onde receber esse projeto. O [EMPRESA], ele vai atuar. Eu até tenho um módulo dentro\n[LOCUTOR 10]: da\n[LOCUTOR 44]: [EMPRESA]. Módulo\n[LOCUTOR 10]: da [EMPRESA]. A parte de MRP e a parte de produção que poderia receber. Mas ele já faz parte de um licenciamento de controle de produção. A ideia do [EMPRESA] Ele vai te controlar toda a tarreta guarda, que é o administrativo, financeiro, faturamento, estoque. Ele vai ter o controle de produção, que é parte de MFP, parte de controle produtivo. Mas para mim entrar realmente na interface de máquina, aí eu preciso de um [LOCAL], que é o caso do PLANIX, pelo que eu entendi.\n[LOCUTOR 44]: Mas\n[LOCUTOR 10]: aí são objetivos de controle. Mas existe alguma outra coisa, assim, essa parte que eu... Nesse caso, tá, o que eu vejo, assim... A ideia, [PESSOA],\n[LOCUTOR 44]: é\n[LOCUTOR 10]: vocês utilizarem só uma ferramenta, só uma solução. E assim, ah, todos conseguem me oferecer um [EMPRESA] e um [EMPRESA]. Faz sentido? O [PESSOA] tá todo de uma fornecedora só ou não vocês vão ficar com o [PESSOA] só porque estão insatisfeitos com o [EMPRESA]?\n[LOCUTOR 44]: Olha, eu acredito que talvez num primeiro momento nós permaneceríamos com o PLANIX em questões de maturidade e conforme vai evoluindo a implantação do [EMPRESA], a gente vai migrando as ferramentas.\n[LOCUTOR 10]: Tá pensando, hein? É gradual. Como é que é o nome do [EMPRESA] mesmo, [PESSOA]?\n[LOCUTOR 44]: [EMPRESA]?\n[LOCUTOR 10]: O [EMPRESA] que tu usa, como é que é o nome dele mesmo?\n[LOCUTOR 44]: O [EMPRESA]? Evolutize.\n[LOCUTOR 10]: Evolutize?\n[LOCUTOR 44]: Isso.\n[LOCUTOR 10]: Realmente não é um [EMPRESA] muito conhecido, né? Muito grande.\n[LOCUTOR 44]: O\n[LOCUTOR 10]: que que eu ia te perguntar? Que hoje essa tua... essa insatisfação, digamos assim, né? Que tu sente, essa não aderência, é um sentimento que outras pessoas da empresa têm ou tá mais contigo isso?\n[LOCUTOR 44]: Tem outras pessoas também, mas assim, ó, o ponto principal também é a questão da...\n[LOCUTOR 10]: por\n[LOCUTOR 44]: parte deles, da implantação, da\n[LOCUTOR 10]: gest\n[LOCUTOR 12]: do projeto, que tá deixando desejado também, não é somente esse detalhe aí da funcionalidade do sistema, entendeu?\n[LOCUTOR 10]: Há quanto tempo eles prometeram entregar o sistema para vocês?\n[LOCUTOR 44]: Aí que tá, como eu disse, deixa eu só mudar aqui...\n[LOCUTOR 10]: [LOCAL] organiza a\n[LOCUTOR 19]: com... ...minha sala aqui, só um minutinho.\n[LOCUTOR 10]: Vai, vai,\n[LOCUTOR 44]: tranquilo. Eu vou trocar de celular para o computador ficar mais fácil para mim conversar. Ele estava ruim de ouvir. Eu vou poder explicar melhor.\n[LOCUTOR 10]: Pronto.\n[LOCUTOR 44]: Tá me\n[LOCUTOR 10]: ouvindo? Agora sim, tô te ouvindo.\n[LOCUTOR 44]: Tá bem melhor pra ouvir, né? Pra mim também, tava ruim de te escutar também.\n[LOCUTOR 10]: É que o\n[LOCUTOR 44]: pessoal tava numa reunião aqui na minha sala com um colaborador e eu tive que esperar ali fora.\n[LOCUTOR 10]: [PESSOA], quantos funcionários vocês têm aí, né?\n[LOCUTOR 44]: Hoje o [PESSOA] é de uns 120 funcionários, mais ou menos. Deixa eu te contextualizar aqui para você entender melhor. Basicamente, o que nós queremos é um sistema que nos atenda a longo prazo, que tenha toda a gestão de estoque dentro dele, que tenha toda a contabilidade gerencial e fiscal, que tenha toda a parte de RH, parte de contratos, gestão de contratos, assinaturas digitais, Essas funcionabilidades são importantes para nós, um CRM,\n[LOCUTOR 10]: talvez\n[LOCUTOR 44]: não o de vocês, mas integrado com um terceiro, que vai estar integrado com uma [LOCAL] para atendimento, que vai estar mandando... Hoje o nosso CRM está integrado com a [LOCAL] da [EMPRESA],\n[LOCUTOR 10]: ele\n[LOCUTOR 44]: gera os leads e manda para o CRM e manda para o RH quando a pessoa está pedindo emprego, esse tipo de situação.\n[LOCUTOR 10]: O chatbot que manda ou para o RH ou que manda para o CRM dependendo de qual é a necessidade, é isso?\n[LOCUTOR 44]: Isso, daí a [LOCAL] vai conversando com a pessoa ali e vai determinando isso, né? Nós temos também questões do amor xorifado, questão de peças, como eu disse, uma das dores nossa é que todo o projeto esteja dentro do [EMPRESA] e não no sistema satélite, por quê? Porque o PLANIX atende nós e não atende, tá? Ele é um sistema que, em outras palavras, nós temos que centralizar isso dentro do [EMPRESA], tá bom? Não em sistemas paralelos.\n[LOCUTOR 10]: Entendi. É, hoje dá para fazer tudo isso no [EMPRESA], tá? Com tranquilidade.\n[LOCUTOR 44]: Aí, questão de MRP. Eu recebo o projeto dentro do MRP, eu faço essa estrutura de cadastro dessas peças,\n[LOCUTOR 10]: e\n[LOCUTOR 44]: aí eu gere o cálculo MRP para gerar o cálculo de demanda, de estoque e tudo mais. Requisições de peça, quando necessário, ele faça a solicitação por compras. Enfim,\n[LOCUTOR 10]: toda\n[LOCUTOR 44]: essa estrutura a rodar dentro do MRP. Se tiver uma ferramenta dentro do TOTUS de [EMPRESA], Seria algo desejável, não necessário, mas algo desejável. Basicamente assim é essa necessidade que nós temos. Nós temos também uma questão de laboratório para ensaios, que\n[LOCUTOR 10]: hoje\n[LOCUTOR 44]: está dentro do [PESSOA], então controle de ensaio de amostra de concreto que foi executado o produto, tem que estar fazendo os testes laboratoriais de tempo em tempo. Nós temos também a questão da [EMPRESA], que tem que estar dentro do [EMPRESA], toda a parte do [LOCAL], de registro de conformidade, E, posteriormente, também, a gente quer, num segundo passo de evolução, a parte de saque, atendimento ao cliente estar dentro do ARP ou dentro do próprio CRM, nós vamos ter que desenhar junto.\n[LOCUTOR 10]: Aqui eu tenho registro de não conformidade, eu tenho... O que você chama de registro de não conformidade? Você pode comentar, por favor?\n[LOCUTOR 44]: Basicamente, eu estou aqui em processo de fabricação, uma peça quebra, uma peça sai com defeito, né?\n[LOCUTOR 10]: Você quer apontar isso?\n[LOCUTOR 44]: Quero apontar isso. Isso vai entrar dentro do nosso manual da [EMPRESA].\n[LOCUTOR 10]: Controle de qualidade de produção.\n[LOCUTOR 44]: Isso.\n[LOCUTOR 10]: O PLANIX atende bem vocês hoje?\n[LOCUTOR 44]: Atende, cara. Não vou dizer que não, mas assim, é uma ferramenta simples, tá? Mas atende.\n[LOCUTOR 10]: O que eu vejo, tá? Vocês utilizariam um [EMPRESA]? numa primeira onda implantaria o ERP, contabilidade, financeiro, folheto de pagamento, né? CRM se quiser também, a gente tem um CRM muito bom aqui, mas, enfim, daí fica a critério de vocês. Chatbot a gente tem também. Toda a parte de controle de estoque, controle de MRP é o nosso, fortíssimo, com [EMPRESA] também integrado, tá tudo na mesma ferramenta. A gente tem dentro do Proteus. Proteus é o sistema que deve atender vocês aqui, não devemos estar falando de [LOCAL], tá, pelo que eu tô entendendo. Então, assim, eu vou passar pra engenharia, obviamente, isso aqui, né? Mas, obviamente, com muita... Provavelmente, estamos falando de Proteus. Que a [EMPRESA] é entre os dois, né, [PESSOA]? Então, nós estamos\n[LOCUTOR 44]: falando\n[LOCUTOR 10]: quanto [LOCAL], né? Mas o [LOCAL], acho que seria mais pesado. Acho que, para vocês, pelo que você está me falando, com MRP integrado, [EMPRESA], integração com MESS, que é o [PESSOA], integração com Bitrix, o ideal seria aí de Proteus. Claro, isso aí a engenharia vai trazer, né? A devolutiva...\n[LOCUTOR 44]: E assim... [PESSOA], a ideia inicial, como eu disse, é levantar uma estimativa de custos para esse processo. Obviamente, a consultoria de implantação junto também nisso, para daí a gente levar para a diretoria, eles terem uma noção,\n[LOCUTOR 10]: um\n[LOCUTOR 44]: valor estimado ali,\n[LOCUTOR 10]: para\n[LOCUTOR 44]: depois realmente nós sentarmos e desenharmos com calma esse processo, entendeu? Não é, como eu disse, momento que eles tiverem uma noção, vamos gastar aqui 1 milhão, vamos gastar aqui 500 mil. entendeu? Não sei o valor. Aí eles tomaram a decisão de, ah, vamos, vamos para cima então e vamos desenhar bem esse processo para ver tudo que as ferimentos que tenha no sistema que possa nos atender, entendeu?\n[LOCUTOR 10]: [LOCUTOR 4]: hoje tem o sentimento de que o sistema não atende e basicamente nós temos esse case da [EMPRESA] que está funcionando, que está integrando lá, né? Então, por isso que vem a questão de vir até vocês para [PESSOA] ver o que o sistema, já que atendeu um parceiro ou um parceiro não, vamos dizer, ser um concorrente nosso, foi o escolhido, vamos ver o que é para nós aqui, quanto ficaria essa solução aí para a empresa. [EMPRESA], é [EMPRESA], né, que é concreto.\n[LOCUTOR 44]: É [EMPRESA], vale crescer uma.\n[LOCUTOR 10]: eu queria te perguntar, não, beleza, só algumas dúvidas antes de fazer outra pergunta aqui bem, na verdade trazer um ponto bem importante, eu quero entender dois pontos aqui [PESSOA], para quando que essa empresa prometeu a entrega desse sistema, essa Evolut?\n[LOCUTOR 44]: Ah, era para novembro do ano passado, né?\n[LOCUTOR 10]: E vocês, vocês fecharam com eles quando?\n[LOCUTOR 44]: Ah, isso já faz, faz tempo já. Faz, acho que faz já.\n[LOCUTOR 10]: Quanto mais ou menos que deu esse projeto aí da [LOCAL]?\n[LOCUTOR 44]: Eu na faixa de 250 mil.\n[LOCUTOR 10]: E vocês pagam mensalidade por ele também, né?\n[LOCUTOR 44]: [PESSOA] pagar.\n[LOCUTOR 10]: Não começaram a pagar ainda?\n[LOCUTOR 44]: Não, já estão pagando, mas até pedi pra segurar os pagamentos agora, porque do jeito que\n[LOCUTOR 10]: tá,\n[LOCUTOR 44]: não tá dando.\n[LOCUTOR 10]: Quanto é que vocês pagam por mês, mais ou menos, né?\n[LOCUTOR 44]: [LOCAL], esse valor aí a gente quer não passar. Como eu disse, faz 10 dias e ainda não passaram esse valor.\n[LOCUTOR 10]: Sim, não chegou ainda.\n[LOCUTOR 44]: Tá.\n[LOCUTOR 10]: O que que acontece, [PESSOA]? [PESSOA] lá. Eu posso com tranquilidade fazer esse projeto, tá? Já te digo de antemão que a gente já tem de outras concreteiras, outras empresas do seu segmento, tá?\n[LOCUTOR 44]: Com\n[LOCUTOR 10]: certeza,\n[LOCUTOR 44]: como eu já disse, a [EMPRESA] está usando, só para você ter uma ideia de comparação, nós produzimos hoje 1.800 metros cúbicos de concreto. A [EMPRESA] faz a média de 5.000 metros cúbicos. Então, está quase o dobro nosso aqui e está atendendo lá tranquilamente, entendeu?\n[LOCUTOR 10]: Por mês faz 1.800 metros cúbicos?\n[LOCUTOR 44]: É.\n[LOCUTOR 10]: Então sim, isso também é tranquilo. Mas o que normalmente a gente deu de passar um preço, [PESSOA]? Eu preciso fazer um levantamento com a minha engenharia. Pra minha engenharia, ela entender todo o teu processo, tá? Entender direitinho o que que entra, o que que não entra, e daí a gente dá um preço.\n[LOCUTOR 44]: Tudo\n[LOCUTOR 10]: bem? Aí vai a minha dúvida, assim, a tua diretoria, ela sabe desse seu movimento, pelo que eu entendi, né?\n[LOCUTOR 44]: Eles\n[LOCUTOR 10]: estão realmente desejosos de fazer isso.\n[LOCUTOR 44]: Como eu disse, eles não têm noção de valor, tá? Então o ponto principal é, ficou muito fora do orçamento que eles possam estar disponibilizando, não vai seguir, entendeu? Se ficar muito longe do que eles estão se propondo, não vai seguir. Se ficar algo\n[LOCUTOR 10]: Faz o\n[LOCUTOR 44]: seguinte, entendeu?\n[LOCUTOR 10]: O que seria algo fora, mais ou menos?\n[LOCUTOR 44]: Ah, cara, aí é uma informação que só a gente sabe, entendeu? O negócio é... Não vou te dizer 600, 500, 1 milhão e meio. Não tem como eu dizer isso aí, entendeu?\n[LOCUTOR 10]: Mas assim, ó, só pra te deixar mais tranquilo, é um projeto que dentro da tua faixa de faturamento, tá? Eu não tenho porque eu tenho preciso da engenharia, né? Mas a [EMPRESA] atende com tranquilidade o teu porte, tá? Então, acredito que não deva ser muito fora, até, pelo bom faturamento de vocês. Então, assim, o que eu vejo, tá, [PESSOA]? O que a gente pode fazer se eu tiver tua concordância aí? Eu vou puxar uma agenda com a minha engenharia. A gente faz uma reunião contigo e com mais algumas outras pessoas aí que tu entenda como influentes nesse projeto importante. E a gente vai fazer um levantamento técnico. A partir desse levantamento técnico, eu consigo fechar um escopo E é em cima desse escopo que eu consigo construir uma ideia de valores.\n[LOCUTOR 44]: Tá.\n[LOCUTOR 10]: Pode ser?\n[LOCUTOR 44]: Pode ser.\n[LOCUTOR 10]: Ah, maravilha.\n[LOCUTOR 44]: Eu tô preparando também aqui um Blueprint aqui do Waze Easy, do 2B. Eu posso encaminhar pra vocês também de cada área que a gente espera, né? Aí fica mais fácil também pra gerir e vocês poderem se basear.\n[LOCUTOR 10]: Boa. [PESSOA], digamos assim, a gente chegou lá nos preços, deu o valor X, vocês gostaram. Quando que vocês querem o sistema novo rodando? O [EMPRESA] aí rodando?\n[LOCUTOR 44]: Aí vai depender, né? Aí vamos ter que sentar nós e organizar a data. A nossa meta, vamos pegar ali como meta, é esse ano sairmos do lucro presumido para o lucro real.\n[LOCUTOR 10]: [LOCUTOR 7]: ideia era... Nós temos dois NPJs hoje, então vai ser unificado. Então a ideia era, desse ano, fazer essa migração. Tem dois [EMPRESA].\n[LOCUTOR 44]: Isso.\n[LOCUTOR 10]: Aí tu vai pro lucro real, né?\n[LOCUTOR 44]: Isso.\n[LOCUTOR 10]: A empresa é familiar? Ela é uma empresa de\n[LOCUTOR 44]: sócios? É familiar. É familiar.\n[LOCUTOR 10]: Quem é a família que controla ela? Normalmente no [LOCAL] aí o pessoal quase às vezes é o mesmo, né?\n[LOCUTOR 44]: É a família [EMPRESA], né? Só o nome da empresa.\n[LOCUTOR 10]: \n[LOCUTOR 40]: diretor, o [EMPRESA] da empresa é o... O [PESSOA] é o diretor executivo,\n[LOCUTOR 44]: né? \n[LOCUTOR 6]: outros membros da familia? Diretor comercial, diretor de operação, logístico?\n[LOCUTOR 44]: Tem, tem, tem. Tenho. Aí o diretor comercial, o [PESSOA], que é sobrinho. Aí tem o\n[LOCUTOR 10]: diretor\n[LOCUTOR 44]: de operações, que é o [PESSOA], que é primo. Enfim, é uma empresa bem familiar.\n[LOCUTOR 10]: Entendi. O diretor de operações é o [PESSOA], não é?\n[LOCUTOR 44]: [PESSOA].\n[LOCUTOR 10]: Tem que perguntar aí quem é que dá o canetaço, esse cara aqui.\n[LOCUTOR 44]: [PESSOA] [EMPRESA].\n[LOCUTOR 10]: Esse é o cara ali, que vai\n[LOCUTOR 44]: definir. Tá,\n[LOCUTOR 10]: e digamos que o [PESSOA] e o [PESSOA] não forem a favor. O [PESSOA] decide sim ou o [PESSOA] e o [PESSOA] também influenciam?\n[LOCUTOR 44]: Eles influenciam, mas a decisão final é do [PESSOA].\n[LOCUTOR 10]: Entendi. E aí eles vão ser bem afetados, né? Porque tem a área comercial e tem a área de operação, principalmente o [PESSOA], né? O [PESSOA] é irmão do [PESSOA] ou é primo? [PESSOA], né? \n[LOCUTOR 24]: é primo casado com a prima, na verdade. Mas é o braço direito dele, é o cara que faz a empresa rodar.\n[LOCUTOR 10]: Ah, é o braço direito do [PESSOA].\n[LOCUTOR 44]: O\n[LOCUTOR 10]: [PESSOA] é o pai, é o patriarca? É,\n[LOCUTOR 44]: podemos assim dizer.\n[LOCUTOR 10]: \n[LOCUTOR 40]: fundador mesmo é o pai do [PESSOA], né? Já tá aposentado. É, eu entendi. É pelo nome, né?  [PESSOA]\n[LOCUTOR 10]: é o mais recente? É. E esse senhor, o seu fundador, não atua mais? Além disso, a esposa atua também no negócio?\n[LOCUTOR 44]: Não,\n[LOCUTOR 10]: não. Fiquei a te perguntar também. E além da família, tem mais algum, além de [LOCAL], né, claro que é um funcionário, temos algum outro gestor que vai ser influente no projeto aí?\n[LOCUTOR 44]: Não, é esses três aí, basicamente.\n[LOCUTOR 10]: Para a nossa reunião de levantamento, tu acha que o [PESSOA] e o [PESSOA] entram? \n[LOCUTOR 17]: que não, cara. É mais difícil com eles lá. Eles têm uma agenda bem mais complicada. Então é um processo que vai rodar mais comigo ali. Eles vão partir mesmo para o martelado afinal.\n[LOCUTOR 10]: Tá, entendi. Então, [PESSOA], acho que a gente pode sim fazer as próximas etapas ali, bem tranquilo. Mas a sugestão aqui, que é o meu principal objetivo, [PESSOA], é te ajudar também a vender este projeto internamente. Em algum momento, o que nós percebemos? Isso é estatístico, tá? Muito mais estatístico do que propriamente um desejo ou uma percepção. se envolve ali pela terceira, quarta etapa do projeto, às vezes até antes. As chances de sucesso, elas acabam sendo maiores. Eles começam a entender que nós, que a gente faz um trabalho de engenharia bem minucioso, tá? Eles entendem que a gente tá entendendo as dores deles e a gente consegue mostrar valor e a justificativa de investimento.\n[LOCUTOR 44]: Então,\n[LOCUTOR 10]: a [EMPRESA] deu 800 mil?\n[LOCUTOR 44]: É, assim ó. O [PESSOA] vai ser muito difícil, porque ele não pára, cara. Ele não pára, é muito difícil. Mas o [PESSOA] consigo, talvez, envolver junto ali, né? Vai ser uma voz forte. Mas, enfim, é um processo que, como eu te disse, hoje o que está determinado é o Evolutize, então é uma tangente que eu estou levantando aí, porque a longo prazo eu tô achando que o sistema não vai atender a imprensa. Eu\n[LOCUTOR 10]: acho que não vai. Eu acho que não vai até pelo perfil de vocês da concretagem, de processo, não vai. E também porque vocês vão para o lucro real. Vocês devem ter uma operacionalização mais agressiva e você vai precisar de mais robustez. [LOCAL], depois, você vai precisar de coisas mais complexas, vai precisar de um planejamento orçamentário, vai precisar de ferramentas que vão te ajudar na gestão financeira da sua empresa de forma mais agressiva. E não me parece ser o perfil do Evolut pelo que eu analisei ali. Então... Mas isso é mais assim, é projeto, né, [PESSOA]? O meu objetivo aqui como consultor [EMPRESA] é, de fato, estar apoiando toda essa trajetória. E eu espero que a gente consiga, assim, ajudar vocês. Eu vou te dizer, a gente tem um costume muito grande de atender empresas, como eu vou te dizer, do teu porte. E, principalmente, a [EMPRESA], quando ela entra numa companhia, ela fica ali 10, 15, 20, 30 anos.\n[LOCUTOR 44]: [LOCUTOR 6]: empresas que usam a [EMPRESA] há 30 anos. Exatamente por isso, essa visão de futuro, né? Eu\n[LOCUTOR 10]: vou fazer assim, eu marco esse levantamento, vou chamar alguém da engenharia aqui para apoiar. Aí, em cima disso, a gente vai fazer essa rodada de conversa com vocês, a gente vai entender um pouco mais da operação financeira, operação de estoque, operação de compras, operação de venda, operação de produto, de produção. E aí, depois de entender isso, a gente fecha o escopo e dá uma devolutiva para vocês. Dando essa devolutiva, a gente já consegue ali avançar no cenário de valores. Isso vai ser uma ou duas reuniões e a gente vai considerando isso juntos, tá?\n[LOCUTOR 44]: Tudo bem. Fico no [LOCAL].\n[LOCUTOR 10]: Vai marcar uma visita também em algum momento, tá, [PESSOA]? Aí eu vou aí visitar vocês, conhecer para todos, é importante esse contato próximo, tá? Uma coisa que eu queria te perguntar. [EMPRESA], vocês têm [EMPRESA] interna?\n[LOCUTOR 44]: Não.\n[LOCUTOR 10]: Não? Como é que vocês fazem, [PESSOA]?\n[LOCUTOR 44]: Terceirizar.\n[LOCUTOR 10]: Terceiro? E quem é que cuida desse terceiro responsável por ele, que manda nele?\n[LOCUTOR 44]: Eu.\n[LOCUTOR 10]: Tu mesmo tá com o contrato da... Tu tá como um gestor de projeto, mas a [EMPRESA] tá no teu braço.\n[LOCUTOR 44]: também tá junto aqui.\n[LOCUTOR 10]: Tu veio da onde [PESSOA]?\n[LOCUTOR 44]: [LOCAL], eu agora por último eu estava na C Vale né cooperativa.\n[LOCUTOR 10]: Tu comentou, na verdade tu falou que veio da C Vale. Tu desce a pia lá, tu falou que fez né?\n[LOCUTOR 44]: Não, isso foi na [LOCAL].\n[LOCUTOR 10]: Ah, mas foi tu?\n[LOCUTOR 44]: Na [LOCAL] quem projetou todas as regras do negócio do [PESSOA] e o [LOCAL] lá com a [LOCAL] e eu. Sim, quem ajudou o [PESSOA] a construir, na época, o [LOCAL] e o [LOCAL], em 2013, lá atrás, basicamente fui eu e ele que desenhamos, e o [LOCAL].\n[LOCUTOR 10]: O [LOCAL] ainda está na século agora também. Ele está\n[LOCUTOR 44]: na Gamebox, o [LOCAL].\n[LOCUTOR 10]: Eu falava muito lá com o [PESSOA] Graeff, com o [PESSOA], [PESSOA] era da [LOCAL] e foi para a [EMPRESA], né?\n[LOCUTOR 44]: Isso, esse é o [PESSOA] HF, quem contratou fui eu na época, ele era auxiliar de montagem lá, auxiliar\n[LOCUTOR 10]: de\n[LOCUTOR 44]: produção, o próprio [PESSOA], na época ele foi como firmador da [LOCAL], daí a gente tentou efetivar ele, na verdade quem começou o Projeto Médio [LOCAL] na [EMPRESA] fui eu.\n[LOCUTOR 10]: Ah que legal, tem história então é pra contar porque aqui mesmo é enorme né cara?\n[LOCUTOR 44]: É, lá a gente projetou a gente projetou basicamente todas as regras de negócio tela a tela de cada módulo lá pra você ter uma ideia porque na época a [PESSOA] ainda tava desenvolvendo o LES né ele tinha\n[LOCUTOR 10]: o\n[LOCUTOR 44]: LES dentro da [EMPRESA] mas era em Pocket ali né não tinha Android, então basicamente ele foi todo desenvolvido dentro da [LOCAL], né?\n[LOCUTOR 10]: Eu lembro disso. E lá o AP nasce no [EMPRESA], né? Uma das maiores integrações de [EMPRESA], né? Que tem... não sei quantos mil pontos lá tem de\n[LOCUTOR 44]: integração. Quem desenhou todas essas integrações fui eu também, né? De cada transação, junto com a construída [EMPRESA] na época, de como que essa regra ia funcionar,\n[LOCUTOR 10]: né?\n[LOCUTOR 44]: [LOCAL] a ponto ali,\n[LOCUTOR 10]: basicamente... Foi a [PESSOA] que fez a implantação da [EMPRESA] lá, né?\n[LOCUTOR 44]: Foi. Aqui, ó. Deixa eu te mostrar uma foto aqui, só pra...\n[LOCUTOR 10]: Eu fiquei sete anos trabalhando na [EMPRESA].\n[LOCUTOR 44]: É? Eu digo que é um gênio. O cara é fora da curva, né?\n[LOCUTOR 10]: [LOCUTOR 2]: só essa foto aqui, só pra compartilhar um pouco. Você tá enxergando? Não, não compartilhou.\n[LOCUTOR 44]: Tá\n[LOCUTOR 10]: vendo\n[LOCUTOR 44]: aqui ó?\n[LOCUTOR 10]: \n[LOCUTOR 41]: esse aqui? [PESSOA],\n[LOCUTOR 44]: esse aqui era o [PESSOA], essa aqui é a equipe de implantação do [LOCAL], o projeto inteiro foi começado, no começo a gerenciamento dele era via [PESSOA], tá vendo esses cortes aqui?\n[LOCUTOR 10]: A\n[LOCUTOR 19]: a gente gerenciou, cara, foi uma loucura aquilo lá, pra ser bem sincero. \n[LOCUTOR 5]: o maior da sécula até hoje, né?\n[LOCUTOR 44]: É, o maior, Tanto que até hoje eu tenho contato com a [PESSOA] e a gente mantém uma relação de amizade. Ele mesmo já me disse que o projeto da [EMPRESA] e quem levou eles para dentro da [EMPRESA] fui eu. O projeto da [EMPRESA] foi uma virada de chave para a [LOCAL] em questões financeiras. Enfim, foi um momento importante para a [LOCAL] e a gente participou disso lá atrás.\n[LOCUTOR 10]: E agora que a gente tá falando, te conhecendo melhor, por que que a ordem de produção tá nascendo dentro do [PESSOA] e não do [EMPRESA] aí? Eu não entendi isso. Isso foi definido por alguém? Por que que isso tá acontecendo aí?\n[LOCUTOR 44]: Tá acontecendo porque eles não têm ideia de governância. Eles fizeram o processo errado, tá nascendo errado, e agora a minha ideia é consertar isso aí, entendeu?\n[LOCUTOR 10]: [PESSOA], quem foi que comprou o Evolut aí dentro? N\n[LOCUTOR 12]: sei, cara, não sei. Cheguei aqui e já tava comprado o negócio. Entendeu?\n[LOCUTOR 10]: Falando entre nós aqui, já que a gente já se conhece, já temos um link com a [LOCAL]. Muitas vezes um dos desafios que a gente inventa, não sei se vai ser o caso aí, né? A gente chega lá com a proposta,\n[LOCUTOR 44]: né?\n[LOCUTOR 10]: Tudo redondinho, só que o cara que comprou é um cara que é da família, é um cara que é diretor, é um cara que é, né? gerente e o cara não quer dar o boraço no torcer. Acho que a gente\n[LOCUTOR 44]: pode correr esse risco, mas como eu disse, é aquela velha história, né? Por que o pessoal da [EMPRESA] sempre vai para o [EMPRESA] ou para o [PESSOA]?\n[LOCUTOR 10]: \n[LOCUTOR 32]: segurança é um dos motivos.\n[LOCUTOR 44]: O principal motivo é, se der errado, cara, são os dois melhores sistemas do [LOCAL]. O [EMPRESA] é o melhor do mundo, então a culpa não é minha.\n[LOCUTOR 10]: \n[LOCUTOR 43]: aqui [LOCUTOR 36]: o melhor que tem, entendeu? Eu, no lugar de qualquer gestor de [EMPRESA], faria o mesmo processo, entendeu? Eu também.\n[LOCUTOR 44]: Tá, botei o [LOCAL] e do [LOCAL]. Botei o [EMPRESA]... [LOCAL], deu errado o [LOCAL] e a culpa é do gestor de [EMPRESA]. Deu errado o [EMPRESA]... [LOCAL], esse aqui é o melhor que tem.\n[LOCUTOR 10]: Querendo ou\n[LOCUTOR 44]: não, a\n[LOCUTOR 10]: gente olha de uma forma estratégica, né? A [EMPRESA], a TOTOS... ela tem a capacidade de ter recursos para suportar o teu crescimento e para investir num projeto. sabe que projeto pode dar, né? Eventualmente tem desafios, né? O Matotos tem condições de bancar esse desafio, né? Agora o [LOCAL] não.\n[LOCUTOR 44]: Exatamente. Então é por esse motivo que eu estou participando, estou abrindo essa rodada, entendeu? Não sei se vai ser fácil conseguir convencer aqui dentro, mas como você disse, pode ter alguns filhos, pode para alguns isso ser um filho, entendeu? E eu não consegui ir pra frente, mas eu não posso não levantar essa bandeira nesse momento porque se der errado lá na frente, né?\n[LOCUTOR 10]: A\n[LOCUTOR 19]: a gente pelo menos avisou, a gente apresentou uma possibilidade, né?\n[LOCUTOR 10]: Mas aí, [PESSOA], esse é o nosso ponto de te ajudar, entendeu? E por mais que a [EMPRESA], ela tem hoje uma empresa de um faturamento enorme, né? A maior empresa da [EMPRESA] em tecnologia, né? mas ela tem uma proximidade muito grande com o cliente. A gente gosta de estar no cliente, a gente gosta de criar uma conexão. Hoje, para te dar uma ideia, a [EMPRESA] está com 70 escritórios pelo [LOCAL], só para te dar uma ideia. Pouquíssimas empresas de [EMPRESA] têm esse volume, são 15 mil funcionários hoje, 100 mil clientes. E nossos principais clientes são desse formato, uma empresa que tem seus 100, 200, 500, 600 milhões, e ela é familiar ou está deixando de ser familiar e se corporativizando, por assim dizer. Então, assim, nós temos uma boa experiência em lidar com este cenário. Por isso que eu digo assim, daqui a pouco a gente vai envolvendo o [PESSOA], envolvendo alguém que vai nos apoiar lá na frente e vai nos ajudar a fechar o projeto, porque a gente consegue criar uma rede de influência ali para nos ajudar.\n[LOCUTOR 44]: É esse o caminho, sabe? Só que agora, se eu for frio para lá, sem ter uma noção de valores, sendo bem sincero, [PESSOA], a tendência é... receber ou não e vocês não tem nem a abertura de se quer apresentar algo, entendeu? Então, por isso que eu estou abrindo essa rodada agora para ter uma noção e aí talvez a gente consiga seguir empreendendo ou não, né?\n[LOCUTOR 10]: Com certeza não. Eu digo assim, quando a gente for construindo, porque um projeto desse também não é da noite para o dia, mas conforme a gente vai construindo, né? A gente chegar nessas etapas aí, né? Alcançar esses níveis aí, né? Tá bom?\n[LOCUTOR 44]: Não, show de bola. Então, tu trabalhou em que área lá na [LOCAL]?\n[LOCUTOR 10]: Em tudo, um pouco.\n[LOCUTOR 44]: Em tudo, um pouco?\n[LOCUTOR 10]: Eu fui pré-venda, eu fui contratos, depois eu fui... o tempo que eu fui pré-venda e depois eu fui pra comercial.\n[LOCUTOR 44]: Chegou\n[LOCUTOR 10]: a\n[LOCUTOR 44]: trabalhar com o [PESSOA]?\n[LOCUTOR 10]: Tá, sim, cheguei a trabalhar com o [EMPRESA]. Faz bastante tempo.\n[LOCUTOR 44]: O\n[LOCUTOR 10]: \n[LOCUTOR 23]: era uma figura, né? [LOCAL], tinha uma galera lá na [EMPRESA], na [LOCAL], muita gente boa lá.\n[LOCUTOR 44]: [LOCUTOR 9]: uma escola, né? Sete anos, né? \n[LOCUTOR 40]: gestor de projetos que começou o projeto na [LOCAL] foi o [PESSOA].\n[LOCUTOR 10]: Depois tava com o [LOCAL], né?\n[LOCUTOR 44]: É, depois foi trocado pro [LOCAL], mas o que começou foi o [EMPRESA].\n[LOCUTOR 10]: Eu acho que você escrevia [PESSOA], né?\n[LOCUTOR 44]: É, eu falava [EMPRESA].\n[LOCUTOR 10]: \n[LOCUTOR 34]: ia falar [EMPRESA] também, mas acho que era o [PESSOA].\n[LOCUTOR 44]: É, mas era uma figura aquele lá. E o [LOCAL] depois assumiu ali, mas o... É que assim, cara, começou aquilo lá, foi uma loucura, assim, tu não tem ideia do que foi aquilo lá.\n[LOCUTOR 10]: Ah, imagino, né? \n[LOCUTOR 21]: conta aquele\n[LOCUTOR 10]: projeto lá da [LOCAL]?\n[LOCUTOR 44]: [EMPRESA]?\n[LOCUTOR 10]: Aquele projeto lá ficou em quanto? Quanto?\n[LOCUTOR 44]: Ficou?\n[LOCUTOR 10]: É. O pessoal sempre falava lá, eu tive um contrato de uns milhões lá na minha mesa uma vez.\n[LOCUTOR 44]: Olha, o que nós gastamos na fase inicial lá foi na faixa de 5 milhões.\n[LOCUTOR 10]: Eu cheguei a trabalhar nesse contrato aí. Mas o [EMPRESA] uma vez comentou com a gente que passou disso, né?\n[LOCUTOR 44]: Não, agora eles vão fazer a atualização, tá em 15.\n[LOCUTOR 10]: O pessoal comentou, o [EMPRESA] comentou que tinha dado uns 15 milhões ali pra atualizar tudo. É,\n[LOCUTOR 44]: atualização agora vai ser 15 milhões.\n[LOCUTOR 10]: \n[LOCUTOR 34]: lembro que teve um maior de vocês lá, foi o da [EMPRESA]. O baú da [EMPRESA] foi grande.\n[LOCUTOR 44]: Da [EMPRESA]?\n[LOCUTOR 10]: É.\n[LOCUTOR 44]: O da [EMPRESA] eu fui lá visitar.\n[LOCUTOR 10]: Foi lá? Lá era grande também, né?\n[LOCUTOR 44]: É, mas eu fui lá quando era só a linha de usinagem.\n[LOCUTOR 10]: Ah, não. Depois cresceu um monte. A [EMPRESA] virou... Não sei como é que tá agora, né? Mas a [EMPRESA] virou um monstro, assim. A gente sempre levava o pessoal na [EMPRESA] e na [LOCAL], né? Que eram os dois maiores\n[LOCUTOR 44]: cases\n[LOCUTOR 10]: da [EMPRESA], assim, né? Mas em valores\n[LOCUTOR 44]: era...\n[LOCUTOR 10]: Mas em valores sempre foi [EMPRESA] e [LOCAL], assim.\n[LOCUTOR 44]: [LOCUTOR 1]: dizer, da minha carreira, uma coisa que eu levo com orgulho é aquele projeto, porque literalmente a gente projetou tela a tela, regra a regra, negócio a negócio, de cada integração, de cada etapa de comunicação, onde você tinha que fazer 10 transações para uma transferência, o estoque dentro do [EMPRESA], a gente simplificou isso para dois PIP e cara,\n[LOCUTOR 10]: assim\n[LOCUTOR 44]: ó, os caras da [EMPRESA] ou da [EMPRESA], eu acho que alguns tem a minha foto naqueles tiro ao alvo, sabe?\n[LOCUTOR 10]: [LOCUTOR 4]: eu era acho que o cara mais odiado pela consultoria, porque Basicamente, eu tirei muito do poder de customização deles e joguei para a [EMPRESA]. [LOCUTOR 8]: eu te mostrar uma foto aqui só para nós encerrar. [LOCUTOR 2]: aí! Esse era o nível de programação que tinha na época. Aquilo ali é uma piroca de esnopor. Mas foi divertido, cara. [LOCUTOR 18]: divertido. Coisa que o [LOCAL] faria.  divertido,\n[LOCUTOR 10]: foi\n[LOCUTOR 44]: um projeto bacana, com certeza, acho que para o [PESSOA], para o [LOCAL], foi uma época bem divertida, podemos assim dizer.\n[LOCUTOR 10]: Mas acho que é isso, eu faço agora essa parte interna e te chamo para marcar as próximas etapas, pode ser?\n[LOCUTOR 44]: Fechou, [PESSOA], obrigado pela atenção.\n[LOCUTOR 10]: Ok, se tiver qualquer dúvida que eu tenha, vou te chamando ali também, tá bom?\n[LOCUTOR 44]: Valeu!\n[LOCUTOR 10]: Então tá, obrigado, tá meu querido, sucesso aí, vamos falando!\n[LOCUTOR 44]: Até mais, tchau!\n[LOCUTOR 10]: [LOCAL]!",
+  "texto_filtrado": "[LOCUTOR 10]: Tá pela fábrica,\n[LOCUTOR 44]: hein? É, eu tô. E aqui nós temos... Deixa eu mostrar pra ti aqui, ó. Lá naquele prédio é a [LOCAL] e aqui é outro prédio que é da parte de metálica, né? Então deixa eu ir lá pro outro lado que tá o meu computador lá. Eu tava numa reunião aqui e acabou enrolando.\n[LOCUTOR 10]: espero.\n[LOCUTOR 10]: com calma. Vai lá com calma e eu te espero. Bem tranquilo, tá?\n[LOCUTOR 10]: Ah, tu que\n[LOCUTOR 44]: sabe.\n[LOCUTOR 10]: Então tá bom. Primeiro prazer, hein? Falar contigo e conversar um pouco, ô [PESSOA]. E dizer que é uma satisfação estar em contato com vocês aí da [EMPRESA], né?\n[LOCUTOR 10]: Eu fiz um contato com o [PESSOA], o que tu me pediu, só que ele não conseguia conversar. Aí marcamos hoje aqui, final da manhã, uma conversa com ele. Mas antes a gente adianta aqui, eu e tu, e aí a gente vai pegando mais informações, né?\n[LOCUTOR 44]: Pelo\n[LOCUTOR 10]: que tu me falou, a [EMPRESA] contura 170 milhões hoje, é isso?\n[LOCUTOR 44]: Isso. Por antes.\n[LOCUTOR 10]: Deixa eu botar a gravar aqui pra gente ter as informações salvas. A gente sempre grava porque\n[LOCUTOR 10]: as informações, tudo mais, fica tudo salvo, né? Aí não corremos o risco de perder nenhum detalhe. Depois a gente transcreve direitinho aqui. A gente usa muito [LOCAL] na [EMPRESA], né?\n[LOCUTOR 44]: Então,\n[LOCUTOR 10]: hoje a [EMPRESA] tá faturando 170 milhões de anos. Uma empresa de [LOCAL] aí no norte do estado, né? Parte do [LOCAL]. E hoje, pelo que eu entendi, tu comentou que foi contratado pra esse projeto de [EMPRESA], é isso?\n[LOCUTOR 44]: É assim ó, para te contextualizar, hoje nós temos um outro [EMPRESA] que foi contratado para ser implementado aqui, só que esse outro [EMPRESA] eu não tô sentindo ele aderente ao processo aqui, tá? Aí o que que eu quero fazer? Eu quero abrir... Nós temos ali uma ideia de valores com outras duas empresas que eu considero boas, né? São empresas que vão entregar um resultado melhor para nós.\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 44]: [PESSOA],\n[LOCUTOR 10]: um consultor, tu é membro da família, tu é da empresa, qual é a tua...\n[LOCUTOR 10]: é que tu tá\n[LOCUTOR 44]: vendo lá\n[LOCUTOR 10]: da empresa?\n[LOCUTOR 44]: Eu sou funcionário da empresa. [EMPRESA]\n[LOCUTOR 10]: [PESSOA].\n[LOCUTOR 44]: [EMPRESA].\n[LOCUTOR 10]: Hoje qual é a função que você ocupa aí na [EMPRESA]?\n[LOCUTOR 44]: Hoje basicamente eu sou o responsável pela parte da implantação do ARP e da implantação da [EMPRESA].\n[LOCUTOR 10]: Você é um gerente operacional, gerente [EMPRESA]?\n[LOCUTOR 44]: Podemos dizer assim que sou o gestor de projetos na implantação do ARP.\n[LOCUTOR 19]: faz quanto tempo,\n[LOCUTOR 10]: [PESSOA]?\n[LOCUTOR 44]: [EMPRESA]?\n[LOCUTOR 10]: Você está na empresa faz quanto tempo?\n[LOCUTOR 10]: E por que não está vendo a aderência do [EMPRESA] atual?\n[LOCUTOR 44]: Assim, algumas integrações que ele não consegue fazer, alguns processos assim, então é mais ou menos nesse sentido, entendeu? E também a longo prazo, o que a gente espera?\n[LOCUTOR 10]: Gostaria de contextualizar, por exemplo, que tu espera, que tu acha que ele não vai entregar?\n[LOCUTOR 10]: chegando\n[LOCUTOR 44]: aqui.\n[LOCUTOR 10]: Chega aí com calma, vem\n[LOCUTOR 44]: junto. Então, o que que acontece? Assim ó, nós temos uma demanda [PESSOA] pegar ali um exemplo aqui.\n[LOCUTOR 40]: sistema atual hoje, ele quer fazer com que a governança esteja em um sistema satélite, que é um sistema aqui para rodar o chão de fábrica, né? Então...\n[LOCUTOR 44]: Qual o [PESSOA]? Você só ouviu falar.\n[LOCUTOR 44]: Esse [PESSOA] hoje, a maneira que eles desenharam a integração com esse sistema Basicamente a ordem de produção é gerada nesse sistema, aí é executada a produção. E depois ele informa o [EMPRESA] o que foi produzido, o que foi consumido em matéria-prima. Esse é um dos principais motivos também que a gente tem visto na aderência. Por quê? A gente entende que a governança tem que ser por parte do [EMPRESA]. O [EMPRESA] tem que ser o cara que vai receber as notas fiscais, vai receber o estoque, vai receber a produção, enfim, e vai controlar tudo. O sistema [PESSOA] ali, ele tem que ser apenas o acompanhamento de execução, que é ali que vai acompanhar a execução. Informado, tá pronto. Com isso, seria o principal ponto de não aderência hoje, que eu acho\n[LOCUTOR 10]: que tem\n[LOCUTOR 44]: que ter essa governância por parte do [EMPRESA]. Segundo, nós temos aqui alguns pontos aqui de integrações com CRMs diferentes, que ele também tá com dificuldade de se integrar, que a ferramenta deles não atende nós nessa questão de CRM, então é mais ou menos nesse sentido aí as nossas dores aí que está acontecendo, entendeu? Aí também tem a parte de RH, que ele não consegue importar nenhum dado legado, tem que fazer tudo cadastro manual, então a ideia era ver se no mercado nós tínhamos alguma ferramenta que nos desse mais aderência, entendeu?\n[LOCUTOR 10]: Pô, a [LOCAL] falou que eles não conseguem fazer a migração de dados, é isso?\n[LOCUTOR 10]: A Folha é da empresa de [LOCAL] também?\n[LOCUTOR 44]: A Folha, dele sim.\n[LOCUTOR 10]: Não consegue integrar os dados.\n[LOCUTOR 44]: Falou\n[LOCUTOR 10]: outra coisa de integração com CRM, né?\n[LOCUTOR 44]: Isso, hoje é o Bitrix que nós estamos utilizando aqui.\n[LOCUTOR 10]: Ele não consegue se integrar. Mas, assim, aí vai a pergunta, né, [PESSOA]? A dificuldade da integração com o Bitrix e o MESS, assim, porque, vamos lá, eu trabalhei com o [PESSOA], né, que me indicou aí, pra você falar com a gente aí, né, na parte do MESS. A ordem de produção, tu pode definir se ela vai nascer no [LOCAL] ou se ela vai nascer no MESS, né, que é o PLANIX aí de vocês, né? Isso é algo modelável. Pelo menos nos RPs e sistemas que eu trabalhei.\n[LOCUTOR 44]: Então,\n[LOCUTOR 10]: eu tenho ali o meu sistema, que é o PLANIX, que é o [LOCAL], ou o [EMPRESA] da [EMPRESA] também, que a [EMPRESA] tem um [EMPRESA] também,\n[LOCUTOR 44]: que é o\n[LOCUTOR 10]: [PESSOA]. Eu vou definir onde a ordem de produção vai nascer. Normalmente, empresas grandes, que tem um nível de governança já significativo, um [EMPRESA] robusto. Eu vou fazer ele nascer dentro do [EMPRESA]. Eu gera a [LOCAL] dentro da [EMPRESA] e eu mando para o [EMPRESA] controlar a produção. Normalmente é isso aí. Mas,\n[LOCUTOR 10]: caso, o sistema da [EMPRESA], por exemplo, da [EMPRESA] permite, outros sistemas [EMPRESA] permitem,\n[LOCUTOR 44]: que eu\n[LOCUTOR 10]: faça com que a [LOCAL] ela nas\n[LOCUTOR 20]: dentro do\n[LOCUTOR 10]: sistema. Então, isso é um ponto aí que que é parametrizável, digamos assim, pelo menos nas empresas que eu conheci. Ou não, o [EMPRESA] atual não permite que a [LOCAL] nasça dentro dele. [EMPRESA]?\n[LOCUTOR 44]: [EMPRESA]?\n[LOCUTOR 10]: O [EMPRESA] que vocês compraram, ele não permite que a ordem de produção nasça dentro dele? Ele não tem essa funcionalidade, por exemplo? Por isso tu é obrigado\n[LOCUTOR 44]: a... Ele tem, não tem. a integração com esse sistema [PESSOA].\n[LOCUTOR 10]: E essa integração, ela está sendo feita? Ela está sendo construída? Está em desenvolvimento?\n[LOCUTOR 44]: sendo feita?\n[LOCUTOR 10]: Então, o que acontece, [PESSOA]? Isso é muito definição de processo. Eu vou decidir que o sistema vai nascer, que a [LOCAL] vai nascer no meu [EMPRESA]? Então, eu tenho que fazer uma integração que o meu sistema ameaça. E aí, provavelmente, como eles não têm integração, vai ser via serviço. Se vocês não precificaram isso, eles vão cobrar de vocês para fazer a integração.\n[LOCUTOR 10]: eles não estão conseguindo fazer as integrações com o [EMPRESA], com o CRM? O que está acontecendo que eles não conseguem fazer as integrações? Porque é serviço. É só abrir o sistema, fazer via API, e vão ter dados. Por que eles não estão conseguindo fazer?\n[LOCUTOR 44]: Na verdade, é por causa da... Enfim, não é que eles não consigam fazer, entendeu? Como eu disse, não foi iniciado esse processo. Entendeu? Obviamente está em estudo isso, mas assim, olhando outros quesitos ali da ferramenta, a gente já está sentindo que talvez não vá atender 100%.\n[LOCUTOR 44]: Por isso que\n[LOCUTOR 10]: a gente\n[LOCUTOR 44]: partiu\n[LOCUTOR 10]: buscar\n[LOCUTOR 44]: no mercado uma solução para ter uma ideia, pelo menos, de valores.\n[LOCUTOR 10]: Sim. Que outros requisitos ele não está mostrando para vocês?\n[LOCUTOR 44]: Hoje nós precisamos que o sistema [EMPRESA] esteja integrado com o CAD, então que receba o projeto, nós trabalhamos projeto sobre medida, Receba o projeto e transforme isso na estrutura do produto de forma automática.\n[LOCUTOR 10]: Mas é que isso normalmente bosta errado, tá? Mas isso vai ser tarefa doméstica. O [EMPRESA] em tese não faria isso, tá? Receber o projeto do [LOCAL], tá?\n[LOCUTOR 44]: [EMPRESA]. Módulo\n[LOCUTOR 10]: da [EMPRESA]. A parte de MRP e a parte de produção que poderia receber. Mas ele já faz parte de um licenciamento de controle de produção. A ideia do [EMPRESA] Ele vai te controlar toda a tarreta guarda, que é o administrativo, financeiro, faturamento, estoque. Ele vai ter o controle de produção, que é parte de MFP, parte de controle produtivo. Mas para mim entrar realmente na interface de máquina, aí eu preciso de um [LOCAL], que é o caso do PLANIX, pelo que eu entendi.\n[LOCUTOR 10]: aí são objetivos de controle. Mas existe alguma outra coisa, assim, essa parte que eu... Nesse caso, tá, o que eu vejo, assim... A ideia, [PESSOA],\n[LOCUTOR 10]: vocês utilizarem só uma ferramenta, só uma solução. E assim, ah, todos conseguem me oferecer um [EMPRESA] e um [EMPRESA]. Faz sentido? O [PESSOA] tá todo de uma fornecedora só ou não vocês vão ficar com o [PESSOA] só porque estão insatisfeitos com o [EMPRESA]?\n[LOCUTOR 44]: Olha, eu acredito que talvez num primeiro momento nós permaneceríamos com o PLANIX em questões de maturidade e conforme vai evoluindo a implantação do [EMPRESA], a gente vai migrando as ferramentas.\n[LOCUTOR 10]: Tá pensando, hein? É gradual. Como é que é o nome do [EMPRESA] mesmo, [PESSOA]?\n[LOCUTOR 44]: [EMPRESA]?\n[LOCUTOR 10]: O [EMPRESA] que tu usa, como é que é o nome dele mesmo?\n[LOCUTOR 44]: O [EMPRESA]? Evolutize.\n[LOCUTOR 10]: Evolutize?\n[LOCUTOR 44]: Isso.\n[LOCUTOR 10]: que que eu ia te perguntar? Que hoje essa tua... essa insatisfação, digamos assim, né? Que tu sente, essa não aderência, é um sentimento que outras pessoas da empresa têm ou tá mais contigo isso?\n[LOCUTOR 44]: Tem outras pessoas também, mas assim, ó, o ponto principal também é a questão da...\n[LOCUTOR 44]: parte deles, da implantação, da\n[LOCUTOR 10]: gest\n[LOCUTOR 12]: do projeto, que tá deixando desejado também, não é somente esse detalhe aí da funcionalidade do sistema, entendeu?\n[LOCUTOR 10]: Há quanto tempo eles prometeram entregar o sistema para vocês?\n[LOCUTOR 10]: [LOCAL] organiza a\n[LOCUTOR 19]: com... ...minha sala aqui, só um minutinho.\n[LOCUTOR 10]: Vai, vai,\n[LOCUTOR 44]: tranquilo. Eu vou trocar de celular para o computador ficar mais fácil para mim conversar. Ele estava ruim de ouvir. Eu vou poder explicar melhor.\n[LOCUTOR 10]: Pronto.\n[LOCUTOR 44]: Tá bem melhor pra ouvir, né? Pra mim também, tava ruim de te escutar também.\n[LOCUTOR 10]: É que o\n[LOCUTOR 44]: pessoal tava numa reunião aqui na minha sala com um colaborador e eu tive que esperar ali fora.\n[LOCUTOR 44]: Hoje o [PESSOA] é de uns 120 funcionários, mais ou menos. Deixa eu te contextualizar aqui para você entender melhor. Basicamente, o que nós queremos é um sistema que nos atenda a longo prazo, que tenha toda a gestão de estoque dentro dele, que tenha toda a contabilidade gerencial e fiscal, que tenha toda a parte de RH, parte de contratos, gestão de contratos, assinaturas digitais, Essas funcionabilidades são importantes para nós, um CRM,\n[LOCUTOR 10]: talvez\n[LOCUTOR 44]: não o de vocês, mas integrado com um terceiro, que vai estar integrado com uma [LOCAL] para atendimento, que vai estar mandando... Hoje o nosso CRM está integrado com a [LOCAL] da [EMPRESA],\n[LOCUTOR 44]: gera os leads e manda para o CRM e manda para o RH quando a pessoa está pedindo emprego, esse tipo de situação.\n[LOCUTOR 10]: O chatbot que manda ou para o RH ou que manda para o CRM dependendo de qual é a necessidade, é isso?\n[LOCUTOR 44]: Isso, daí a [LOCAL] vai conversando com a pessoa ali e vai determinando isso, né? Nós temos também questões do amor xorifado, questão de peças, como eu disse, uma das dores nossa é que todo o projeto esteja dentro do [EMPRESA] e não no sistema satélite, por quê? Porque o PLANIX atende nós e não atende, tá? Ele é um sistema que, em outras palavras, nós temos que centralizar isso dentro do [EMPRESA], tá bom? Não em sistemas paralelos.\n[LOCUTOR 10]: Entendi. É, hoje dá para fazer tudo isso no [EMPRESA], tá? Com tranquilidade.\n[LOCUTOR 44]: Aí, questão de MRP. Eu recebo o projeto dentro do MRP, eu faço essa estrutura de cadastro dessas peças,\n[LOCUTOR 44]: aí eu gere o cálculo MRP para gerar o cálculo de demanda, de estoque e tudo mais. Requisições de peça, quando necessário, ele faça a solicitação por compras. Enfim,\n[LOCUTOR 10]: toda\n[LOCUTOR 44]: essa estrutura a rodar dentro do MRP. Se tiver uma ferramenta dentro do TOTUS de [EMPRESA], Seria algo desejável, não necessário, mas algo desejável. Basicamente assim é essa necessidade que nós temos. Nós temos também uma questão de laboratório para ensaios, que\n[LOCUTOR 44]: está dentro do [PESSOA], então controle de ensaio de amostra de concreto que foi executado o produto, tem que estar fazendo os testes laboratoriais de tempo em tempo. Nós temos também a questão da [EMPRESA], que tem que estar dentro do [EMPRESA], toda a parte do [LOCAL], de registro de conformidade, E, posteriormente, também, a gente quer, num segundo passo de evolução, a parte de saque, atendimento ao cliente estar dentro do ARP ou dentro do próprio CRM, nós vamos ter que desenhar junto.\n[LOCUTOR 10]: Aqui eu tenho registro de não conformidade, eu tenho... O que você chama de registro de não conformidade? Você pode comentar, por favor?\n[LOCUTOR 44]: Basicamente, eu estou aqui em processo de fabricação, uma peça quebra, uma peça sai com defeito, né?\n[LOCUTOR 10]: Você quer apontar isso?\n[LOCUTOR 44]: Quero apontar isso. Isso vai entrar dentro do nosso manual da [EMPRESA].\n[LOCUTOR 10]: Controle de qualidade de produção.\n[LOCUTOR 44]: Isso.\n[LOCUTOR 10]: O que eu vejo, tá? Vocês utilizariam um [EMPRESA]? numa primeira onda implantaria o ERP, contabilidade, financeiro, folheto de pagamento, né? CRM se quiser também, a gente tem um CRM muito bom aqui, mas, enfim, daí fica a critério de vocês. Chatbot a gente tem também. Toda a parte de controle de estoque, controle de MRP é o nosso, fortíssimo, com [EMPRESA] também integrado, tá tudo na mesma ferramenta. A gente tem dentro do Proteus. Proteus é o sistema que deve atender vocês aqui, não devemos estar falando de [LOCAL], tá, pelo que eu tô entendendo. Então, assim, eu vou passar pra engenharia, obviamente, isso aqui, né? Mas, obviamente, com muita... Provavelmente, estamos falando de Proteus. Que a [EMPRESA] é entre os dois, né, [PESSOA]? Então, nós estamos\n[LOCUTOR 44]: falando\n[LOCUTOR 10]: quanto [LOCAL], né? Mas o [LOCAL], acho que seria mais pesado. Acho que, para vocês, pelo que você está me falando, com MRP integrado, [EMPRESA], integração com MESS, que é o [PESSOA], integração com Bitrix, o ideal seria aí de Proteus. Claro, isso aí a engenharia vai trazer, né? A devolutiva...\n[LOCUTOR 44]: E assim... [PESSOA], a ideia inicial, como eu disse, é levantar uma estimativa de custos para esse processo. Obviamente, a consultoria de implantação junto também nisso, para daí a gente levar para a diretoria, eles terem uma noção,\n[LOCUTOR 44]: valor estimado ali,\n[LOCUTOR 10]: para\n[LOCUTOR 44]: depois realmente nós sentarmos e desenharmos com calma esse processo, entendeu? Não é, como eu disse, momento que eles tiverem uma noção, vamos gastar aqui 1 milhão, vamos gastar aqui 500 mil. entendeu? Não sei o valor. Aí eles tomaram a decisão de, ah, vamos, vamos para cima então e vamos desenhar bem esse processo para ver tudo que as ferimentos que tenha no sistema que possa nos atender, entendeu?\n[LOCUTOR 10]: [LOCUTOR 4]: hoje tem o sentimento de que o sistema não atende e basicamente nós temos esse case da [EMPRESA] que está funcionando, que está integrando lá, né? Então, por isso que vem a questão de vir até vocês para [PESSOA] ver o que o sistema, já que atendeu um parceiro ou um parceiro não, vamos dizer, ser um concorrente nosso, foi o escolhido, vamos ver o que é para nós aqui, quanto ficaria essa solução aí para a empresa. [EMPRESA], é [EMPRESA], né, que é concreto.\n[LOCUTOR 44]: É [EMPRESA], vale crescer uma.\n[LOCUTOR 10]: eu queria te perguntar, não, beleza, só algumas dúvidas antes de fazer outra pergunta aqui bem, na verdade trazer um ponto bem importante, eu quero entender dois pontos aqui [PESSOA], para quando que essa empresa prometeu a entrega desse sistema, essa Evolut?\n[LOCUTOR 44]: Ah, era para novembro do ano passado, né?\n[LOCUTOR 10]: E vocês, vocês fecharam com eles quando?\n[LOCUTOR 44]: Ah, isso já faz, faz tempo já. Faz, acho que faz já.\n[LOCUTOR 10]: Quanto mais ou menos que deu esse projeto aí da [LOCAL]?\n[LOCUTOR 44]: Eu na faixa de 250 mil.\n[LOCUTOR 10]: E vocês pagam mensalidade por ele também, né?\n[LOCUTOR 44]: [PESSOA] pagar.\n[LOCUTOR 44]: Não, já estão pagando, mas até pedi pra segurar os pagamentos agora, porque do jeito que\n[LOCUTOR 44]: [LOCAL], esse valor aí a gente quer não passar. Como eu disse, faz 10 dias e ainda não passaram esse valor.\n[LOCUTOR 10]: O que que acontece, [PESSOA]? [PESSOA] lá. Eu posso com tranquilidade fazer esse projeto, tá? Já te digo de antemão que a gente já tem de outras concreteiras, outras empresas do seu segmento, tá?\n[LOCUTOR 10]: certeza,\n[LOCUTOR 44]: como eu já disse, a [EMPRESA] está usando, só para você ter uma ideia de comparação, nós produzimos hoje 1.800 metros cúbicos de concreto. A [EMPRESA] faz a média de 5.000 metros cúbicos. Então, está quase o dobro nosso aqui e está atendendo lá tranquilamente, entendeu?\n[LOCUTOR 10]: Por mês faz 1.800 metros cúbicos?\n[LOCUTOR 10]: Então sim, isso também é tranquilo. Mas o que normalmente a gente deu de passar um preço, [PESSOA]? Eu preciso fazer um levantamento com a minha engenharia. Pra minha engenharia, ela entender todo o teu processo, tá? Entender direitinho o que que entra, o que que não entra, e daí a gente dá um preço.\n[LOCUTOR 44]: Eles\n[LOCUTOR 10]: estão realmente desejosos de fazer isso.\n[LOCUTOR 44]: Como eu disse, eles não têm noção de valor, tá? Então o ponto principal é, ficou muito fora do orçamento que eles possam estar disponibilizando, não vai seguir, entendeu? Se ficar muito longe do que eles estão se propondo, não vai seguir. Se ficar algo\n[LOCUTOR 10]: Faz o\n[LOCUTOR 44]: seguinte, entendeu?\n[LOCUTOR 10]: O que seria algo fora, mais ou menos?\n[LOCUTOR 44]: Ah, cara, aí é uma informação que só a gente sabe, entendeu? O negócio é... Não vou te dizer 600, 500, 1 milhão e meio. Não tem como eu dizer isso aí, entendeu?\n[LOCUTOR 10]: Mas assim, ó, só pra te deixar mais tranquilo, é um projeto que dentro da tua faixa de faturamento, tá? Eu não tenho porque eu tenho preciso da engenharia, né? Mas a [EMPRESA] atende com tranquilidade o teu porte, tá? Então, acredito que não deva ser muito fora, até, pelo bom faturamento de vocês. Então, assim, o que eu vejo, tá, [PESSOA]? O que a gente pode fazer se eu tiver tua concordância aí? Eu vou puxar uma agenda com a minha engenharia. A gente faz uma reunião contigo e com mais algumas outras pessoas aí que tu entenda como influentes nesse projeto importante. E a gente vai fazer um levantamento técnico. A partir desse levantamento técnico, eu consigo fechar um escopo E é em cima desse escopo que eu consigo construir uma ideia de valores.\n[LOCUTOR 10]: Pode ser?\n[LOCUTOR 44]: Pode ser.\n[LOCUTOR 10]: Ah, maravilha.\n[LOCUTOR 44]: Eu tô preparando também aqui um Blueprint aqui do Waze Easy, do 2B. Eu posso encaminhar pra vocês também de cada área que a gente espera, né? Aí fica mais fácil também pra gerir e vocês poderem se basear.\n[LOCUTOR 10]: Boa. [PESSOA], digamos assim, a gente chegou lá nos preços, deu o valor X, vocês gostaram. Quando que vocês querem o sistema novo rodando? O [EMPRESA] aí rodando?\n[LOCUTOR 44]: Aí vai depender, né? Aí vamos ter que sentar nós e organizar a data. A nossa meta, vamos pegar ali como meta, é esse ano sairmos do lucro presumido para o lucro real.\n[LOCUTOR 10]: [LOCUTOR 7]: ideia era... Nós temos dois NPJs hoje, então vai ser unificado. Então a ideia era, desse ano, fazer essa migração. Tem dois [EMPRESA].\n[LOCUTOR 44]: Isso.\n[LOCUTOR 10]: Aí tu vai pro lucro real, né?\n[LOCUTOR 44]: Isso.\n[LOCUTOR 10]: A empresa é familiar? Ela é uma empresa de\n[LOCUTOR 44]: sócios? É familiar. É familiar.\n[LOCUTOR 10]: Quem é a família que controla ela? Normalmente no [LOCAL] aí o pessoal quase às vezes é o mesmo, né?\n[LOCUTOR 44]: É a família [EMPRESA], né? Só o nome da empresa.\n[LOCUTOR 40]: diretor, o [EMPRESA] da empresa é o... O [PESSOA] é o diretor executivo,\n[LOCUTOR 6]: outros membros da familia? Diretor comercial, diretor de operação, logístico?\n[LOCUTOR 44]: Tem, tem, tem. Tenho. Aí o diretor comercial, o [PESSOA], que é sobrinho. Aí tem o\n[LOCUTOR 10]: diretor\n[LOCUTOR 44]: de operações, que é o [PESSOA], que é primo. Enfim, é uma empresa bem familiar.\n[LOCUTOR 44]: [PESSOA].\n[LOCUTOR 10]: Tem que perguntar aí quem é que dá o canetaço, esse cara aqui.\n[LOCUTOR 44]: [PESSOA] [EMPRESA].\n[LOCUTOR 10]: Esse é o cara ali, que vai\n[LOCUTOR 44]: definir. Tá,\n[LOCUTOR 44]: Eles influenciam, mas a decisão final é do [PESSOA].\n[LOCUTOR 10]: Entendi. E aí eles vão ser bem afetados, né? Porque tem a área comercial e tem a área de operação, principalmente o [PESSOA], né? O [PESSOA] é irmão do [PESSOA] ou é primo? [PESSOA], né?\n[LOCUTOR 24]: é primo casado com a prima, na verdade. Mas é o braço direito dele, é o cara que faz a empresa rodar.\n[LOCUTOR 10]: Ah, é o braço direito do [PESSOA].\n[LOCUTOR 10]: [PESSOA] é o pai, é o patriarca? É,\n[LOCUTOR 44]: podemos assim dizer.\n[LOCUTOR 40]: fundador mesmo é o pai do [PESSOA], né? Já tá aposentado. É, eu entendi. É pelo nome, né?  [PESSOA]\n[LOCUTOR 10]: é o mais recente? É. E esse senhor, o seu fundador, não atua mais? Além disso, a esposa atua também no negócio?\n[LOCUTOR 10]: não. Fiquei a te perguntar também. E além da família, tem mais algum, além de [LOCAL], né, claro que é um funcionário, temos algum outro gestor que vai ser influente no projeto aí?\n[LOCUTOR 10]: Para a nossa reunião de levantamento, tu acha que o [PESSOA] e o [PESSOA] entram?\n[LOCUTOR 17]: que não, cara. É mais difícil com eles lá. Eles têm uma agenda bem mais complicada. Então é um processo que vai rodar mais comigo ali. Eles vão partir mesmo para o martelado afinal.\n[LOCUTOR 10]: Tá, entendi. Então, [PESSOA], acho que a gente pode sim fazer as próximas etapas ali, bem tranquilo. Mas a sugestão aqui, que é o meu principal objetivo, [PESSOA], é te ajudar também a vender este projeto internamente. Em algum momento, o que nós percebemos? Isso é estatístico, tá? Muito mais estatístico do que propriamente um desejo ou uma percepção. se envolve ali pela terceira, quarta etapa do projeto, às vezes até antes. As chances de sucesso, elas acabam sendo maiores. Eles começam a entender que nós, que a gente faz um trabalho de engenharia bem minucioso, tá? Eles entendem que a gente tá entendendo as dores deles e a gente consegue mostrar valor e a justificativa de investimento.\n[LOCUTOR 44]: Então,\n[LOCUTOR 10]: a [EMPRESA] deu 800 mil?\n[LOCUTOR 44]: É, assim ó. O [PESSOA] vai ser muito difícil, porque ele não pára, cara. Ele não pára, é muito difícil. Mas o [PESSOA] consigo, talvez, envolver junto ali, né? Vai ser uma voz forte. Mas, enfim, é um processo que, como eu te disse, hoje o que está determinado é o Evolutize, então é uma tangente que eu estou levantando aí, porque a longo prazo eu tô achando que o sistema não vai atender a imprensa. Eu\n[LOCUTOR 10]: acho que não vai. Eu acho que não vai até pelo perfil de vocês da concretagem, de processo, não vai. E também porque vocês vão para o lucro real. Vocês devem ter uma operacionalização mais agressiva e você vai precisar de mais robustez. [LOCAL], depois, você vai precisar de coisas mais complexas, vai precisar de um planejamento orçamentário, vai precisar de ferramentas que vão te ajudar na gestão financeira da sua empresa de forma mais agressiva. E não me parece ser o perfil do Evolut pelo que eu analisei ali. Então... Mas isso é mais assim, é projeto, né, [PESSOA]? O meu objetivo aqui como consultor [EMPRESA] é, de fato, estar apoiando toda essa trajetória. E eu espero que a gente consiga, assim, ajudar vocês. Eu vou te dizer, a gente tem um costume muito grande de atender empresas, como eu vou te dizer, do teu porte. E, principalmente, a [EMPRESA], quando ela entra numa companhia, ela fica ali 10, 15, 20, 30 anos.\n[LOCUTOR 44]: [LOCUTOR 6]: empresas que usam a [EMPRESA] há 30 anos. Exatamente por isso, essa visão de futuro, né? Eu\n[LOCUTOR 10]: vou fazer assim, eu marco esse levantamento, vou chamar alguém da engenharia aqui para apoiar. Aí, em cima disso, a gente vai fazer essa rodada de conversa com vocês, a gente vai entender um pouco mais da operação financeira, operação de estoque, operação de compras, operação de venda, operação de produto, de produção. E aí, depois de entender isso, a gente fecha o escopo e dá uma devolutiva para vocês. Dando essa devolutiva, a gente já consegue ali avançar no cenário de valores. Isso vai ser uma ou duas reuniões e a gente vai considerando isso juntos, tá?\n[LOCUTOR 10]: Vai marcar uma visita também em algum momento, tá, [PESSOA]? Aí eu vou aí visitar vocês, conhecer para todos, é importante esse contato próximo, tá? Uma coisa que eu queria te perguntar. [EMPRESA], vocês têm [EMPRESA] interna?\n[LOCUTOR 44]: Terceirizar.\n[LOCUTOR 10]: Terceiro? E quem é que cuida desse terceiro responsável por ele, que manda nele?\n[LOCUTOR 10]: Tu mesmo tá com o contrato da... Tu tá como um gestor de projeto, mas a [EMPRESA] tá no teu braço.\n[LOCUTOR 44]: também tá junto aqui.\n[LOCUTOR 10]: Tu veio da onde [PESSOA]?\n[LOCUTOR 44]: [LOCAL], eu agora por último eu estava na C Vale né cooperativa.\n[LOCUTOR 10]: Tu comentou, na verdade tu falou que veio da C Vale. Tu desce a pia lá, tu falou que fez né?\n[LOCUTOR 44]: Não, isso foi na [LOCAL].\n[LOCUTOR 10]: Ah, mas foi tu?\n[LOCUTOR 44]: Na [LOCAL] quem projetou todas as regras do negócio do [PESSOA] e o [LOCAL] lá com a [LOCAL] e eu. Sim, quem ajudou o [PESSOA] a construir, na época, o [LOCAL] e o [LOCAL], em 2013, lá atrás, basicamente fui eu e ele que desenhamos, e o [LOCAL].\n[LOCUTOR 10]: O [LOCAL] ainda está na século agora também. Ele está\n[LOCUTOR 44]: na Gamebox, o [LOCAL].\n[LOCUTOR 10]: Eu falava muito lá com o [PESSOA] Graeff, com o [PESSOA], [PESSOA] era da [LOCAL] e foi para a [EMPRESA], né?\n[LOCUTOR 44]: Isso, esse é o [PESSOA] HF, quem contratou fui eu na época, ele era auxiliar de montagem lá, auxiliar\n[LOCUTOR 44]: produção, o próprio [PESSOA], na época ele foi como firmador da [LOCAL], daí a gente tentou efetivar ele, na verdade quem começou o Projeto Médio [LOCAL] na [EMPRESA] fui eu.\n[LOCUTOR 10]: Ah que legal, tem história então é pra contar porque aqui mesmo é enorme né cara?\n[LOCUTOR 44]: É, lá a gente projetou a gente projetou basicamente todas as regras de negócio tela a tela de cada módulo lá pra você ter uma ideia porque na época a [PESSOA] ainda tava desenvolvendo o LES né ele tinha\n[LOCUTOR 44]: LES dentro da [EMPRESA] mas era em Pocket ali né não tinha Android, então basicamente ele foi todo desenvolvido dentro da [LOCAL], né?\n[LOCUTOR 10]: Eu lembro disso. E lá o AP nasce no [EMPRESA], né? Uma das maiores integrações de [EMPRESA], né? Que tem... não sei quantos mil pontos lá tem de\n[LOCUTOR 44]: integração. Quem desenhou todas essas integrações fui eu também, né? De cada transação, junto com a construída [EMPRESA] na época, de como que essa regra ia funcionar,\n[LOCUTOR 44]: [LOCAL] a ponto ali,\n[LOCUTOR 10]: basicamente... Foi a [PESSOA] que fez a implantação da [EMPRESA] lá, né?\n[LOCUTOR 44]: Foi. Aqui, ó. Deixa eu te mostrar uma foto aqui, só pra...\n[LOCUTOR 10]: Eu fiquei sete anos trabalhando na [EMPRESA].\n[LOCUTOR 44]: É? Eu digo que é um gênio. O cara é fora da curva, né?\n[LOCUTOR 10]: vendo\n[LOCUTOR 44]: aqui ó?\n[LOCUTOR 41]: esse aqui? [PESSOA],\n[LOCUTOR 44]: esse aqui era o [PESSOA], essa aqui é a equipe de implantação do [LOCAL], o projeto inteiro foi começado, no começo a gerenciamento dele era via [PESSOA], tá vendo esses cortes aqui?\n[LOCUTOR 19]: a gente gerenciou, cara, foi uma loucura aquilo lá, pra ser bem sincero.\n[LOCUTOR 44]: É, o maior, Tanto que até hoje eu tenho contato com a [PESSOA] e a gente mantém uma relação de amizade. Ele mesmo já me disse que o projeto da [EMPRESA] e quem levou eles para dentro da [EMPRESA] fui eu. O projeto da [EMPRESA] foi uma virada de chave para a [LOCAL] em questões financeiras. Enfim, foi um momento importante para a [LOCAL] e a gente participou disso lá atrás.\n[LOCUTOR 10]: E agora que a gente tá falando, te conhecendo melhor, por que que a ordem de produção tá nascendo dentro do [PESSOA] e não do [EMPRESA] aí? Eu não entendi isso. Isso foi definido por alguém? Por que que isso tá acontecendo aí?\n[LOCUTOR 44]: Tá acontecendo porque eles não têm ideia de governância. Eles fizeram o processo errado, tá nascendo errado, e agora a minha ideia é consertar isso aí, entendeu?\n[LOCUTOR 10]: [PESSOA], quem foi que comprou o Evolut aí dentro? N\n[LOCUTOR 12]: sei, cara, não sei. Cheguei aqui e já tava comprado o negócio. Entendeu?\n[LOCUTOR 10]: Falando entre nós aqui, já que a gente já se conhece, já temos um link com a [LOCAL]. Muitas vezes um dos desafios que a gente inventa, não sei se vai ser o caso aí, né? A gente chega lá com a proposta,\n[LOCUTOR 10]: Tudo redondinho, só que o cara que comprou é um cara que é da família, é um cara que é diretor, é um cara que é, né? gerente e o cara não quer dar o boraço no torcer. Acho que a gente\n[LOCUTOR 44]: pode correr esse risco, mas como eu disse, é aquela velha história, né? Por que o pessoal da [EMPRESA] sempre vai para o [EMPRESA] ou para o [PESSOA]?\n[LOCUTOR 32]: segurança é um dos motivos.\n[LOCUTOR 44]: O principal motivo é, se der errado, cara, são os dois melhores sistemas do [LOCAL]. O [EMPRESA] é o melhor do mundo, então a culpa não é minha.\n[LOCUTOR 43]: aqui [LOCUTOR 36]: o melhor que tem, entendeu? Eu, no lugar de qualquer gestor de [EMPRESA], faria o mesmo processo, entendeu? Eu também.\n[LOCUTOR 44]: Tá, botei o [LOCAL] e do [LOCAL]. Botei o [EMPRESA]... [LOCAL], deu errado o [LOCAL] e a culpa é do gestor de [EMPRESA]. Deu errado o [EMPRESA]... [LOCAL], esse aqui é o melhor que tem.\n[LOCUTOR 10]: Querendo ou\n[LOCUTOR 10]: gente olha de uma forma estratégica, né? A [EMPRESA], a TOTOS... ela tem a capacidade de ter recursos para suportar o teu crescimento e para investir num projeto. sabe que projeto pode dar, né? Eventualmente tem desafios, né? O Matotos tem condições de bancar esse desafio, né? Agora o [LOCAL] não.\n[LOCUTOR 44]: Exatamente. Então é por esse motivo que eu estou participando, estou abrindo essa rodada, entendeu? Não sei se vai ser fácil conseguir convencer aqui dentro, mas como você disse, pode ter alguns filhos, pode para alguns isso ser um filho, entendeu? E eu não consegui ir pra frente, mas eu não posso não levantar essa bandeira nesse momento porque se der errado lá na frente, né?\n[LOCUTOR 19]: a gente pelo menos avisou, a gente apresentou uma possibilidade, né?\n[LOCUTOR 10]: Mas aí, [PESSOA], esse é o nosso ponto de te ajudar, entendeu? E por mais que a [EMPRESA], ela tem hoje uma empresa de um faturamento enorme, né? A maior empresa da [EMPRESA] em tecnologia, né? mas ela tem uma proximidade muito grande com o cliente. A gente gosta de estar no cliente, a gente gosta de criar uma conexão. Hoje, para te dar uma ideia, a [EMPRESA] está com 70 escritórios pelo [LOCAL], só para te dar uma ideia. Pouquíssimas empresas de [EMPRESA] têm esse volume, são 15 mil funcionários hoje, 100 mil clientes. E nossos principais clientes são desse formato, uma empresa que tem seus 100, 200, 500, 600 milhões, e ela é familiar ou está deixando de ser familiar e se corporativizando, por assim dizer. Então, assim, nós temos uma boa experiência em lidar com este cenário. Por isso que eu digo assim, daqui a pouco a gente vai envolvendo o [PESSOA], envolvendo alguém que vai nos apoiar lá na frente e vai nos ajudar a fechar o projeto, porque a gente consegue criar uma rede de influência ali para nos ajudar.\n[LOCUTOR 44]: É esse o caminho, sabe? Só que agora, se eu for frio para lá, sem ter uma noção de valores, sendo bem sincero, [PESSOA], a tendência é... receber ou não e vocês não tem nem a abertura de se quer apresentar algo, entendeu? Então, por isso que eu estou abrindo essa rodada agora para ter uma noção e aí talvez a gente consiga seguir empreendendo ou não, né?\n[LOCUTOR 10]: Com certeza não. Eu digo assim, quando a gente for construindo, porque um projeto desse também não é da noite para o dia, mas conforme a gente vai construindo, né? A gente chegar nessas etapas aí, né? Alcançar esses níveis aí, né? Tá bom?\n[LOCUTOR 44]: Não, show de bola. Então, tu trabalhou em que área lá na [LOCAL]?\n[LOCUTOR 10]: Em tudo, um pouco.\n[LOCUTOR 44]: Em tudo, um pouco?\n[LOCUTOR 10]: Eu fui pré-venda, eu fui contratos, depois eu fui... o tempo que eu fui pré-venda e depois eu fui pra comercial.\n[LOCUTOR 44]: Chegou\n[LOCUTOR 44]: trabalhar com o [PESSOA]?\n[LOCUTOR 10]: Tá, sim, cheguei a trabalhar com o [EMPRESA]. Faz bastante tempo.\n[LOCUTOR 23]: era uma figura, né? [LOCAL], tinha uma galera lá na [EMPRESA], na [LOCAL], muita gente boa lá.\n[LOCUTOR 44]: [LOCUTOR 9]: uma escola, né? Sete anos, né?\n[LOCUTOR 40]: gestor de projetos que começou o projeto na [LOCAL] foi o [PESSOA].\n[LOCUTOR 10]: Depois tava com o [LOCAL], né?\n[LOCUTOR 44]: É, depois foi trocado pro [LOCAL], mas o que começou foi o [EMPRESA].\n[LOCUTOR 10]: Eu acho que você escrevia [PESSOA], né?\n[LOCUTOR 44]: É, eu falava [EMPRESA].\n[LOCUTOR 34]: ia falar [EMPRESA] também, mas acho que era o [PESSOA].\n[LOCUTOR 44]: É, mas era uma figura aquele lá. E o [LOCAL] depois assumiu ali, mas o... É que assim, cara, começou aquilo lá, foi uma loucura, assim, tu não tem ideia do que foi aquilo lá.\n[LOCUTOR 10]: Ah, imagino, né?\n[LOCUTOR 21]: conta aquele\n[LOCUTOR 10]: projeto lá da [LOCAL]?\n[LOCUTOR 44]: [EMPRESA]?\n[LOCUTOR 10]: Aquele projeto lá ficou em quanto? Quanto?\n[LOCUTOR 44]: Ficou?\n[LOCUTOR 10]: É. O pessoal sempre falava lá, eu tive um contrato de uns milhões lá na minha mesa uma vez.\n[LOCUTOR 44]: Olha, o que nós gastamos na fase inicial lá foi na faixa de 5 milhões.\n[LOCUTOR 10]: Eu cheguei a trabalhar nesse contrato aí. Mas o [EMPRESA] uma vez comentou com a gente que passou disso, né?\n[LOCUTOR 44]: Não, agora eles vão fazer a atualização, tá em 15.\n[LOCUTOR 44]: atualização agora vai ser 15 milhões.\n[LOCUTOR 34]: lembro que teve um maior de vocês lá, foi o da [EMPRESA]. O baú da [EMPRESA] foi grande.\n[LOCUTOR 44]: Da [EMPRESA]?\n[LOCUTOR 44]: O da [EMPRESA] eu fui lá visitar.\n[LOCUTOR 10]: Foi lá? Lá era grande também, né?\n[LOCUTOR 44]: É, mas eu fui lá quando era só a linha de usinagem.\n[LOCUTOR 44]: cases\n[LOCUTOR 10]: da [EMPRESA], assim, né? Mas em valores\n[LOCUTOR 10]: Mas em valores sempre foi [EMPRESA] e [LOCAL], assim.\n[LOCUTOR 44]: [LOCUTOR 1]: dizer, da minha carreira, uma coisa que eu levo com orgulho é aquele projeto, porque literalmente a gente projetou tela a tela, regra a regra, negócio a negócio, de cada integração, de cada etapa de comunicação, onde você tinha que fazer 10 transações para uma transferência, o estoque dentro do [EMPRESA], a gente simplificou isso para dois PIP e cara,\n[LOCUTOR 44]: ó, os caras da [EMPRESA] ou da [EMPRESA], eu acho que alguns tem a minha foto naqueles tiro ao alvo, sabe?\n[LOCUTOR 10]: [LOCUTOR 4]: eu era acho que o cara mais odiado pela consultoria, porque Basicamente, eu tirei muito do poder de customização deles e joguei para a [EMPRESA]. [LOCUTOR 8]: eu te mostrar uma foto aqui só para nós encerrar. [LOCUTOR 2]: aí! Esse era o nível de programação que tinha na época. Aquilo ali é uma piroca de esnopor. Mas foi divertido, cara. [LOCUTOR 18]: divertido. Coisa que o [LOCAL] faria.  divertido,\n[LOCUTOR 44]: um projeto bacana, com certeza, acho que para o [PESSOA], para o [LOCAL], foi uma época bem divertida, podemos assim dizer.\n[LOCUTOR 10]: Mas acho que é isso, eu faço agora essa parte interna e te chamo para marcar as próximas etapas, pode ser?\n[LOCUTOR 10]: [LOCAL]!",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:43.802879+00:00",
+    "total_linhas": 384,
+    "linhas_mantidas": 286,
+    "linhas_removidas": 98,
+    "percentual_mantido": 74.48,
+    "confianca_media": 0.4919
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 44]: Opa, bom dia, tudo bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá pela fábrica,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5142,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: hein? É, eu tô. E aqui nós temos... Deixa eu mostrar pra ti aqui, ó. Lá naquele prédio é a [LOCAL] e aqui é outro prédio que é da parte de metálica, né? Então deixa eu ir lá pro outro lado que tá o meu computador lá. Eu tava numa reunião aqui e acabou enrolando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah, não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: mas eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: espero.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: lá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: com calma. Vai lá com calma e eu te espero. Bem tranquilo, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4884,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, não. Pode ir falando já. Já ganhamos tempo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.419,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah, tu que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: sabe.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu não quero te atrapalhar aí. Se tu quiser chegar primeiro, tu tem...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4268,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, não. Tá tranquilo. É até bom que aqui é menos barulho que lá na produção.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4166,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então tá bom. Primeiro prazer, hein? Falar contigo e conversar um pouco, ô [PESSOA]. E dizer que é uma satisfação estar em contato com vocês aí da [EMPRESA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu fiz um contato com o [PESSOA], o que tu me pediu, só que ele não conseguia conversar. Aí marcamos hoje aqui, final da manhã, uma conversa com ele. Mas antes a gente adianta aqui, eu e tu, e aí a gente vai pegando mais informações, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que tu me falou, a [EMPRESA] contura 170 milhões hoje, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4632,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Isso. Por antes.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Deixa eu botar a gravar aqui pra gente ter as informações salvas. A gente sempre grava porque",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: as informações, tudo mais, fica tudo salvo, né? Aí não corremos o risco de perder nenhum detalhe. Depois a gente transcreve direitinho aqui. A gente usa muito [LOCAL] na [EMPRESA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: hoje a [EMPRESA] tá faturando 170 milhões de anos. Uma empresa de [LOCAL] aí no norte do estado, né? Parte do [LOCAL]. E hoje, pelo que eu entendi, tu comentou que foi contratado pra esse projeto de [EMPRESA], é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5517,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É assim ó, para te contextualizar, hoje nós temos um outro [EMPRESA] que foi contratado para ser implementado aqui, só que esse outro [EMPRESA] eu não tô sentindo ele aderente ao processo aqui, tá? Aí o que que eu quero fazer? Eu quero abrir... Nós temos ali uma ideia de valores com outras duas empresas que eu considero boas, né? São empresas que vão entregar um resultado melhor para nós.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: um consultor, tu é membro da família, tu é da empresa, qual é a tua...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5206,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: é que tu tá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: vendo lá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: da empresa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5319,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Eu sou funcionário da empresa. [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5111,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Hoje qual é a função que você ocupa aí na [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5058,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Hoje basicamente eu sou o responsável pela parte da implantação do ARP e da implantação da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Você é um gerente operacional, gerente [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5186,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Podemos dizer assim que sou o gestor de projetos na implantação do ARP.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Você está a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: faz quanto tempo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Você está na empresa faz quanto tempo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5009,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Faz pouco tempo, faz uns 10 dias.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4428,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E por que não está vendo a aderência do [EMPRESA] atual?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5067,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Assim, algumas integrações que ele não consegue fazer, alguns processos assim, então é mais ou menos nesse sentido, entendeu? E também a longo prazo, o que a gente espera?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Gostaria de contextualizar, por exemplo, que tu espera, que tu acha que ele não vai entregar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Sim, só um minutinho que eu tô",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4452,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: chegando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Chega aí com calma, vem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: junto. Então, o que que acontece? Assim ó, nós temos uma demanda [PESSOA] pegar ali um exemplo aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4907,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 40]: sistema atual hoje, ele quer fazer com que a governança esteja em um sistema satélite, que é um sistema aqui para rodar o chão de fábrica, né? Então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5837,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Qual o [PESSOA]? Você só ouviu falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Desculpa?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Esse [PESSOA] hoje, a maneira que eles desenharam a integração com esse sistema Basicamente a ordem de produção é gerada nesse sistema, aí é executada a produção. E depois ele informa o [EMPRESA] o que foi produzido, o que foi consumido em matéria-prima. Esse é um dos principais motivos também que a gente tem visto na aderência. Por quê? A gente entende que a governança tem que ser por parte do [EMPRESA]. O [EMPRESA] tem que ser o cara que vai receber as notas fiscais, vai receber o estoque, vai receber a produção, enfim, e vai controlar tudo. O sistema [PESSOA] ali, ele tem que ser apenas o acompanhamento de execução, que é ali que vai acompanhar a execução. Informado, tá pronto. Com isso, seria o principal ponto de não aderência hoje, que eu acho",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: que ter essa governância por parte do [EMPRESA]. Segundo, nós temos aqui alguns pontos aqui de integrações com CRMs diferentes, que ele também tá com dificuldade de se integrar, que a ferramenta deles não atende nós nessa questão de CRM, então é mais ou menos nesse sentido aí as nossas dores aí que está acontecendo, entendeu? Aí também tem a parte de RH, que ele não consegue importar nenhum dado legado, tem que fazer tudo cadastro manual, então a ideia era ver se no mercado nós tínhamos alguma ferramenta que nos desse mais aderência, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Pô, a [LOCAL] falou que eles não conseguem fazer a migração de dados, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: A Folha é da empresa de [LOCAL] também?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: A Folha, dele sim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Não consegue integrar os dados.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4813,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Falou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: outra coisa de integração com CRM, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Isso, hoje é o Bitrix que nós estamos utilizando aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4721,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ele não consegue se integrar. Mas, assim, aí vai a pergunta, né, [PESSOA]? A dificuldade da integração com o Bitrix e o MESS, assim, porque, vamos lá, eu trabalhei com o [PESSOA], né, que me indicou aí, pra você falar com a gente aí, né, na parte do MESS. A ordem de produção, tu pode definir se ela vai nascer no [LOCAL] ou se ela vai nascer no MESS, né, que é o PLANIX aí de vocês, né? Isso é algo modelável. Pelo menos nos RPs e sistemas que eu trabalhei.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: vamos lá. Eu tenho... Vou dar um exemplo. Eu tenho um [EMPRESA], eu tenho um [EMPRESA],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4549,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: eu tenho ali o meu sistema, que é o PLANIX, que é o [LOCAL], ou o [EMPRESA] da [EMPRESA] também, que a [EMPRESA] tem um [EMPRESA] também,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5192,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: que é o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]. Eu vou definir onde a ordem de produção vai nascer. Normalmente, empresas grandes, que tem um nível de governança já significativo, um [EMPRESA] robusto. Eu vou fazer ele nascer dentro do [EMPRESA]. Eu gera a [LOCAL] dentro da [EMPRESA] e eu mando para o [EMPRESA] controlar a produção. Normalmente é isso aí. Mas,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: em",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: caso, o sistema da [EMPRESA], por exemplo, da [EMPRESA] permite, outros sistemas [EMPRESA] permitem,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: faça com que a [LOCAL] ela nas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5372,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: dentro do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: sistema. Então, isso é um ponto aí que que é parametrizável, digamos assim, pelo menos nas empresas que eu conheci. Ou não, o [EMPRESA] atual não permite que a [LOCAL] nasça dentro dele. [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O [EMPRESA] que vocês compraram, ele não permite que a ordem de produção nasça dentro dele? Ele não tem essa funcionalidade, por exemplo? Por isso tu é obrigado",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: a... Ele tem, não tem. a integração com esse sistema [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E essa integração, ela está sendo feita? Ela está sendo construída? Está em desenvolvimento?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: nem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: está",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: sendo feita?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então, o que acontece, [PESSOA]? Isso é muito definição de processo. Eu vou decidir que o sistema vai nascer, que a [LOCAL] vai nascer no meu [EMPRESA]? Então, eu tenho que fazer uma integração que o meu sistema ameaça. E aí, provavelmente, como eles não têm integração, vai ser via serviço. Se vocês não precificaram isso, eles vão cobrar de vocês para fazer a integração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 42]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: eles não estão conseguindo fazer as integrações com o [EMPRESA], com o CRM? O que está acontecendo que eles não conseguem fazer as integrações? Porque é serviço. É só abrir o sistema, fazer via API, e vão ter dados. Por que eles não estão conseguindo fazer?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Na verdade, é por causa da... Enfim, não é que eles não consigam fazer, entendeu? Como eu disse, não foi iniciado esse processo. Entendeu? Obviamente está em estudo isso, mas assim, olhando outros quesitos ali da ferramenta, a gente já está sentindo que talvez não vá atender 100%.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Entendi. Ah, então tem mais coisas que voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4134,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: estão vendo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que não vai...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Por isso que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: partiu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: buscar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: no mercado uma solução para ter uma ideia, pelo menos, de valores.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim. Que outros requisitos ele não está mostrando para vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Hoje nós precisamos que o sistema [EMPRESA] esteja integrado com o CAD, então que receba o projeto, nós trabalhamos projeto sobre medida, Receba o projeto e transforme isso na estrutura do produto de forma automática.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Isso o PLANIX não faz.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O PLANIX faz, o que não faz é a [LOCAL] por enquanto.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4487,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Mas é que isso normalmente bosta errado, tá? Mas isso vai ser tarefa doméstica. O [EMPRESA] em tese não faria isso, tá? Receber o projeto do [LOCAL], tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCUTOR 5]: porque ele não teria onde receber esse projeto. O [EMPRESA], ele vai atuar. Eu até tenho um módulo dentro",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA]. Módulo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5411,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: da [EMPRESA]. A parte de MRP e a parte de produção que poderia receber. Mas ele já faz parte de um licenciamento de controle de produção. A ideia do [EMPRESA] Ele vai te controlar toda a tarreta guarda, que é o administrativo, financeiro, faturamento, estoque. Ele vai ter o controle de produção, que é parte de MFP, parte de controle produtivo. Mas para mim entrar realmente na interface de máquina, aí eu preciso de um [LOCAL], que é o caso do PLANIX, pelo que eu entendi.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: aí são objetivos de controle. Mas existe alguma outra coisa, assim, essa parte que eu... Nesse caso, tá, o que eu vejo, assim... A ideia, [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5148,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: vocês utilizarem só uma ferramenta, só uma solução. E assim, ah, todos conseguem me oferecer um [EMPRESA] e um [EMPRESA]. Faz sentido? O [PESSOA] tá todo de uma fornecedora só ou não vocês vão ficar com o [PESSOA] só porque estão insatisfeitos com o [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Olha, eu acredito que talvez num primeiro momento nós permaneceríamos com o PLANIX em questões de maturidade e conforme vai evoluindo a implantação do [EMPRESA], a gente vai migrando as ferramentas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá pensando, hein? É gradual. Como é que é o nome do [EMPRESA] mesmo, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5425,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O [EMPRESA] que tu usa, como é que é o nome dele mesmo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5037,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O [EMPRESA]? Evolutize.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Evolutize?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Realmente não é um [EMPRESA] muito conhecido, né? Muito grande.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4423,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: que que eu ia te perguntar? Que hoje essa tua... essa insatisfação, digamos assim, né? Que tu sente, essa não aderência, é um sentimento que outras pessoas da empresa têm ou tá mais contigo isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tem outras pessoas também, mas assim, ó, o ponto principal também é a questão da...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: parte deles, da implantação, da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: gest",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: do projeto, que tá deixando desejado também, não é somente esse detalhe aí da funcionalidade do sistema, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5493,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Há quanto tempo eles prometeram entregar o sistema para vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Aí que tá, como eu disse, deixa eu só mudar aqui...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCAL] organiza a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: com... ...minha sala aqui, só um minutinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5115,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Vai, vai,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: tranquilo. Eu vou trocar de celular para o computador ficar mais fácil para mim conversar. Ele estava ruim de ouvir. Eu vou poder explicar melhor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Pronto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ouvindo? Agora sim, tô te ouvindo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4269,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá bem melhor pra ouvir, né? Pra mim também, tava ruim de te escutar também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: É que o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: pessoal tava numa reunião aqui na minha sala com um colaborador e eu tive que esperar ali fora.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA], quantos funcionários vocês têm aí, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Hoje o [PESSOA] é de uns 120 funcionários, mais ou menos. Deixa eu te contextualizar aqui para você entender melhor. Basicamente, o que nós queremos é um sistema que nos atenda a longo prazo, que tenha toda a gestão de estoque dentro dele, que tenha toda a contabilidade gerencial e fiscal, que tenha toda a parte de RH, parte de contratos, gestão de contratos, assinaturas digitais, Essas funcionabilidades são importantes para nós, um CRM,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: talvez",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: não o de vocês, mas integrado com um terceiro, que vai estar integrado com uma [LOCAL] para atendimento, que vai estar mandando... Hoje o nosso CRM está integrado com a [LOCAL] da [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: gera os leads e manda para o CRM e manda para o RH quando a pessoa está pedindo emprego, esse tipo de situação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O chatbot que manda ou para o RH ou que manda para o CRM dependendo de qual é a necessidade, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Isso, daí a [LOCAL] vai conversando com a pessoa ali e vai determinando isso, né? Nós temos também questões do amor xorifado, questão de peças, como eu disse, uma das dores nossa é que todo o projeto esteja dentro do [EMPRESA] e não no sistema satélite, por quê? Porque o PLANIX atende nós e não atende, tá? Ele é um sistema que, em outras palavras, nós temos que centralizar isso dentro do [EMPRESA], tá bom? Não em sistemas paralelos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Entendi. É, hoje dá para fazer tudo isso no [EMPRESA], tá? Com tranquilidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.493,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Aí, questão de MRP. Eu recebo o projeto dentro do MRP, eu faço essa estrutura de cadastro dessas peças,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: aí eu gere o cálculo MRP para gerar o cálculo de demanda, de estoque e tudo mais. Requisições de peça, quando necessário, ele faça a solicitação por compras. Enfim,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: toda",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: essa estrutura a rodar dentro do MRP. Se tiver uma ferramenta dentro do TOTUS de [EMPRESA], Seria algo desejável, não necessário, mas algo desejável. Basicamente assim é essa necessidade que nós temos. Nós temos também uma questão de laboratório para ensaios, que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: hoje",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: está dentro do [PESSOA], então controle de ensaio de amostra de concreto que foi executado o produto, tem que estar fazendo os testes laboratoriais de tempo em tempo. Nós temos também a questão da [EMPRESA], que tem que estar dentro do [EMPRESA], toda a parte do [LOCAL], de registro de conformidade, E, posteriormente, também, a gente quer, num segundo passo de evolução, a parte de saque, atendimento ao cliente estar dentro do ARP ou dentro do próprio CRM, nós vamos ter que desenhar junto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Aqui eu tenho registro de não conformidade, eu tenho... O que você chama de registro de não conformidade? Você pode comentar, por favor?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Basicamente, eu estou aqui em processo de fabricação, uma peça quebra, uma peça sai com defeito, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Você quer apontar isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Quero apontar isso. Isso vai entrar dentro do nosso manual da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5791,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Controle de qualidade de produção.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O PLANIX atende bem vocês hoje?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.419,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Atende, cara. Não vou dizer que não, mas assim, é uma ferramenta simples, tá? Mas atende.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4036,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O que eu vejo, tá? Vocês utilizariam um [EMPRESA]? numa primeira onda implantaria o ERP, contabilidade, financeiro, folheto de pagamento, né? CRM se quiser também, a gente tem um CRM muito bom aqui, mas, enfim, daí fica a critério de vocês. Chatbot a gente tem também. Toda a parte de controle de estoque, controle de MRP é o nosso, fortíssimo, com [EMPRESA] também integrado, tá tudo na mesma ferramenta. A gente tem dentro do Proteus. Proteus é o sistema que deve atender vocês aqui, não devemos estar falando de [LOCAL], tá, pelo que eu tô entendendo. Então, assim, eu vou passar pra engenharia, obviamente, isso aqui, né? Mas, obviamente, com muita... Provavelmente, estamos falando de Proteus. Que a [EMPRESA] é entre os dois, né, [PESSOA]? Então, nós estamos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: falando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: quanto [LOCAL], né? Mas o [LOCAL], acho que seria mais pesado. Acho que, para vocês, pelo que você está me falando, com MRP integrado, [EMPRESA], integração com MESS, que é o [PESSOA], integração com Bitrix, o ideal seria aí de Proteus. Claro, isso aí a engenharia vai trazer, né? A devolutiva...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: E assim... [PESSOA], a ideia inicial, como eu disse, é levantar uma estimativa de custos para esse processo. Obviamente, a consultoria de implantação junto também nisso, para daí a gente levar para a diretoria, eles terem uma noção,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: valor estimado ali,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: depois realmente nós sentarmos e desenharmos com calma esse processo, entendeu? Não é, como eu disse, momento que eles tiverem uma noção, vamos gastar aqui 1 milhão, vamos gastar aqui 500 mil. entendeu? Não sei o valor. Aí eles tomaram a decisão de, ah, vamos, vamos para cima então e vamos desenhar bem esse processo para ver tudo que as ferimentos que tenha no sistema que possa nos atender, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCUTOR 4]: hoje tem o sentimento de que o sistema não atende e basicamente nós temos esse case da [EMPRESA] que está funcionando, que está integrando lá, né? Então, por isso que vem a questão de vir até vocês para [PESSOA] ver o que o sistema, já que atendeu um parceiro ou um parceiro não, vamos dizer, ser um concorrente nosso, foi o escolhido, vamos ver o que é para nós aqui, quanto ficaria essa solução aí para a empresa. [EMPRESA], é [EMPRESA], né, que é concreto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É [EMPRESA], vale crescer uma.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5228,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: eu queria te perguntar, não, beleza, só algumas dúvidas antes de fazer outra pergunta aqui bem, na verdade trazer um ponto bem importante, eu quero entender dois pontos aqui [PESSOA], para quando que essa empresa prometeu a entrega desse sistema, essa Evolut?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4664,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Ah, era para novembro do ano passado, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6093,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E vocês, vocês fecharam com eles quando?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Ah, isso já faz, faz tempo já. Faz, acho que faz já.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Quanto mais ou menos que deu esse projeto aí da [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.486,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Eu na faixa de 250 mil.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E vocês pagam mensalidade por ele também, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4657,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [PESSOA] pagar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Não começaram a pagar ainda?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, já estão pagando, mas até pedi pra segurar os pagamentos agora, porque do jeito que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4659,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 44]: não tá dando.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Quanto é que vocês pagam por mês, mais ou menos, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4564,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCAL], esse valor aí a gente quer não passar. Como eu disse, faz 10 dias e ainda não passaram esse valor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Sim, não chegou ainda.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O que que acontece, [PESSOA]? [PESSOA] lá. Eu posso com tranquilidade fazer esse projeto, tá? Já te digo de antemão que a gente já tem de outras concreteiras, outras empresas do seu segmento, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5762,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: certeza,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: como eu já disse, a [EMPRESA] está usando, só para você ter uma ideia de comparação, nós produzimos hoje 1.800 metros cúbicos de concreto. A [EMPRESA] faz a média de 5.000 metros cúbicos. Então, está quase o dobro nosso aqui e está atendendo lá tranquilamente, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Por mês faz 1.800 metros cúbicos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então sim, isso também é tranquilo. Mas o que normalmente a gente deu de passar um preço, [PESSOA]? Eu preciso fazer um levantamento com a minha engenharia. Pra minha engenharia, ela entender todo o teu processo, tá? Entender direitinho o que que entra, o que que não entra, e daí a gente dá um preço.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: bem? Aí vai a minha dúvida, assim, a tua diretoria, ela sabe desse seu movimento, pelo que eu entendi, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4161,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Eles",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: estão realmente desejosos de fazer isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5098,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Como eu disse, eles não têm noção de valor, tá? Então o ponto principal é, ficou muito fora do orçamento que eles possam estar disponibilizando, não vai seguir, entendeu? Se ficar muito longe do que eles estão se propondo, não vai seguir. Se ficar algo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Faz o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: seguinte, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O que seria algo fora, mais ou menos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Ah, cara, aí é uma informação que só a gente sabe, entendeu? O negócio é... Não vou te dizer 600, 500, 1 milhão e meio. Não tem como eu dizer isso aí, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Mas assim, ó, só pra te deixar mais tranquilo, é um projeto que dentro da tua faixa de faturamento, tá? Eu não tenho porque eu tenho preciso da engenharia, né? Mas a [EMPRESA] atende com tranquilidade o teu porte, tá? Então, acredito que não deva ser muito fora, até, pelo bom faturamento de vocês. Então, assim, o que eu vejo, tá, [PESSOA]? O que a gente pode fazer se eu tiver tua concordância aí? Eu vou puxar uma agenda com a minha engenharia. A gente faz uma reunião contigo e com mais algumas outras pessoas aí que tu entenda como influentes nesse projeto importante. E a gente vai fazer um levantamento técnico. A partir desse levantamento técnico, eu consigo fechar um escopo E é em cima desse escopo que eu consigo construir uma ideia de valores.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Pode ser?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah, maravilha.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Eu tô preparando também aqui um Blueprint aqui do Waze Easy, do 2B. Eu posso encaminhar pra vocês também de cada área que a gente espera, né? Aí fica mais fácil também pra gerir e vocês poderem se basear.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5146,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Boa. [PESSOA], digamos assim, a gente chegou lá nos preços, deu o valor X, vocês gostaram. Quando que vocês querem o sistema novo rodando? O [EMPRESA] aí rodando?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Aí vai depender, né? Aí vamos ter que sentar nós e organizar a data. A nossa meta, vamos pegar ali como meta, é esse ano sairmos do lucro presumido para o lucro real.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCUTOR 7]: ideia era... Nós temos dois NPJs hoje, então vai ser unificado. Então a ideia era, desse ano, fazer essa migração. Tem dois [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Aí tu vai pro lucro real, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: A empresa é familiar? Ela é uma empresa de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: sócios? É familiar. É familiar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Quem é a família que controla ela? Normalmente no [LOCAL] aí o pessoal quase às vezes é o mesmo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É a família [EMPRESA], né? Só o nome da empresa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5311,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 40]: diretor, o [EMPRESA] da empresa é o... O [PESSOA] é o diretor executivo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5311,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: outros membros da familia? Diretor comercial, diretor de operação, logístico?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tem, tem, tem. Tenho. Aí o diretor comercial, o [PESSOA], que é sobrinho. Aí tem o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5376,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: diretor",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: de operações, que é o [PESSOA], que é primo. Enfim, é uma empresa bem familiar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Entendi. O diretor de operações é o [PESSOA], não é?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4059,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tem que perguntar aí quem é que dá o canetaço, esse cara aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.523,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [PESSOA] [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Esse é o cara ali, que vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: definir. Tá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: e digamos que o [PESSOA] e o [PESSOA] não forem a favor. O [PESSOA] decide sim ou o [PESSOA] e o [PESSOA] também influenciam?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3846,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Eles influenciam, mas a decisão final é do [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Entendi. E aí eles vão ser bem afetados, né? Porque tem a área comercial e tem a área de operação, principalmente o [PESSOA], né? O [PESSOA] é irmão do [PESSOA] ou é primo? [PESSOA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: é primo casado com a prima, na verdade. Mas é o braço direito dele, é o cara que faz a empresa rodar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5515,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah, é o braço direito do [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA] é o pai, é o patriarca? É,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: podemos assim dizer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 40]: fundador mesmo é o pai do [PESSOA], né? Já tá aposentado. É, eu entendi. É pelo nome, né?  [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: é o mais recente? É. E esse senhor, o seu fundador, não atua mais? Além disso, a esposa atua também no negócio?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: não. Fiquei a te perguntar também. E além da família, tem mais algum, além de [LOCAL], né, claro que é um funcionário, temos algum outro gestor que vai ser influente no projeto aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, é esses três aí, basicamente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Para a nossa reunião de levantamento, tu acha que o [PESSOA] e o [PESSOA] entram?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5822,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: que não, cara. É mais difícil com eles lá. Eles têm uma agenda bem mais complicada. Então é um processo que vai rodar mais comigo ali. Eles vão partir mesmo para o martelado afinal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá, entendi. Então, [PESSOA], acho que a gente pode sim fazer as próximas etapas ali, bem tranquilo. Mas a sugestão aqui, que é o meu principal objetivo, [PESSOA], é te ajudar também a vender este projeto internamente. Em algum momento, o que nós percebemos? Isso é estatístico, tá? Muito mais estatístico do que propriamente um desejo ou uma percepção. se envolve ali pela terceira, quarta etapa do projeto, às vezes até antes. As chances de sucesso, elas acabam sendo maiores. Eles começam a entender que nós, que a gente faz um trabalho de engenharia bem minucioso, tá? Eles entendem que a gente tá entendendo as dores deles e a gente consegue mostrar valor e a justificativa de investimento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a [EMPRESA] deu 800 mil?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, assim ó. O [PESSOA] vai ser muito difícil, porque ele não pára, cara. Ele não pára, é muito difícil. Mas o [PESSOA] consigo, talvez, envolver junto ali, né? Vai ser uma voz forte. Mas, enfim, é um processo que, como eu te disse, hoje o que está determinado é o Evolutize, então é uma tangente que eu estou levantando aí, porque a longo prazo eu tô achando que o sistema não vai atender a imprensa. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: acho que não vai. Eu acho que não vai até pelo perfil de vocês da concretagem, de processo, não vai. E também porque vocês vão para o lucro real. Vocês devem ter uma operacionalização mais agressiva e você vai precisar de mais robustez. [LOCAL], depois, você vai precisar de coisas mais complexas, vai precisar de um planejamento orçamentário, vai precisar de ferramentas que vão te ajudar na gestão financeira da sua empresa de forma mais agressiva. E não me parece ser o perfil do Evolut pelo que eu analisei ali. Então... Mas isso é mais assim, é projeto, né, [PESSOA]? O meu objetivo aqui como consultor [EMPRESA] é, de fato, estar apoiando toda essa trajetória. E eu espero que a gente consiga, assim, ajudar vocês. Eu vou te dizer, a gente tem um costume muito grande de atender empresas, como eu vou te dizer, do teu porte. E, principalmente, a [EMPRESA], quando ela entra numa companhia, ela fica ali 10, 15, 20, 30 anos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCUTOR 6]: empresas que usam a [EMPRESA] há 30 anos. Exatamente por isso, essa visão de futuro, né? Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.542,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: vou fazer assim, eu marco esse levantamento, vou chamar alguém da engenharia aqui para apoiar. Aí, em cima disso, a gente vai fazer essa rodada de conversa com vocês, a gente vai entender um pouco mais da operação financeira, operação de estoque, operação de compras, operação de venda, operação de produto, de produção. E aí, depois de entender isso, a gente fecha o escopo e dá uma devolutiva para vocês. Dando essa devolutiva, a gente já consegue ali avançar no cenário de valores. Isso vai ser uma ou duas reuniões e a gente vai considerando isso juntos, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tudo bem. Fico no [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4467,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Vai marcar uma visita também em algum momento, tá, [PESSOA]? Aí eu vou aí visitar vocês, conhecer para todos, é importante esse contato próximo, tá? Uma coisa que eu queria te perguntar. [EMPRESA], vocês têm [EMPRESA] interna?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4972,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Não? Como é que vocês fazem, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4144,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Terceirizar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Terceiro? E quem é que cuida desse terceiro responsável por ele, que manda nele?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Eu.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tu mesmo tá com o contrato da... Tu tá como um gestor de projeto, mas a [EMPRESA] tá no teu braço.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: também tá junto aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tu veio da onde [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCAL], eu agora por último eu estava na C Vale né cooperativa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4757,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tu comentou, na verdade tu falou que veio da C Vale. Tu desce a pia lá, tu falou que fez né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5303,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, isso foi na [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4692,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah, mas foi tu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Na [LOCAL] quem projetou todas as regras do negócio do [PESSOA] e o [LOCAL] lá com a [LOCAL] e eu. Sim, quem ajudou o [PESSOA] a construir, na época, o [LOCAL] e o [LOCAL], em 2013, lá atrás, basicamente fui eu e ele que desenhamos, e o [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O [LOCAL] ainda está na século agora também. Ele está",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4665,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: na Gamebox, o [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu falava muito lá com o [PESSOA] Graeff, com o [PESSOA], [PESSOA] era da [LOCAL] e foi para a [EMPRESA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5664,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Isso, esse é o [PESSOA] HF, quem contratou fui eu na época, ele era auxiliar de montagem lá, auxiliar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: produção, o próprio [PESSOA], na época ele foi como firmador da [LOCAL], daí a gente tentou efetivar ele, na verdade quem começou o Projeto Médio [LOCAL] na [EMPRESA] fui eu.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah que legal, tem história então é pra contar porque aqui mesmo é enorme né cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, lá a gente projetou a gente projetou basicamente todas as regras de negócio tela a tela de cada módulo lá pra você ter uma ideia porque na época a [PESSOA] ainda tava desenvolvendo o LES né ele tinha",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: LES dentro da [EMPRESA] mas era em Pocket ali né não tinha Android, então basicamente ele foi todo desenvolvido dentro da [LOCAL], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5176,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu lembro disso. E lá o AP nasce no [EMPRESA], né? Uma das maiores integrações de [EMPRESA], né? Que tem... não sei quantos mil pontos lá tem de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5224,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: integração. Quem desenhou todas essas integrações fui eu também, né? De cada transação, junto com a construída [EMPRESA] na época, de como que essa regra ia funcionar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCAL] a ponto ali,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: basicamente... Foi a [PESSOA] que fez a implantação da [EMPRESA] lá, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Foi. Aqui, ó. Deixa eu te mostrar uma foto aqui, só pra...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4658,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu fiquei sete anos trabalhando na [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5007,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É? Eu digo que é um gênio. O cara é fora da curva, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4914,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCUTOR 2]: só essa foto aqui, só pra compartilhar um pouco. Você tá enxergando? Não, não compartilhou.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3874,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: vendo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: aqui ó?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 41]: esse aqui? [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: esse aqui era o [PESSOA], essa aqui é a equipe de implantação do [LOCAL], o projeto inteiro foi começado, no começo a gerenciamento dele era via [PESSOA], tá vendo esses cortes aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a gente gerenciou, cara, foi uma loucura aquilo lá, pra ser bem sincero.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5153,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: o maior da sécula até hoje, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4462,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, o maior, Tanto que até hoje eu tenho contato com a [PESSOA] e a gente mantém uma relação de amizade. Ele mesmo já me disse que o projeto da [EMPRESA] e quem levou eles para dentro da [EMPRESA] fui eu. O projeto da [EMPRESA] foi uma virada de chave para a [LOCAL] em questões financeiras. Enfim, foi um momento importante para a [LOCAL] e a gente participou disso lá atrás.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: E agora que a gente tá falando, te conhecendo melhor, por que que a ordem de produção tá nascendo dentro do [PESSOA] e não do [EMPRESA] aí? Eu não entendi isso. Isso foi definido por alguém? Por que que isso tá acontecendo aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5102,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá acontecendo porque eles não têm ideia de governância. Eles fizeram o processo errado, tá nascendo errado, e agora a minha ideia é consertar isso aí, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA], quem foi que comprou o Evolut aí dentro? N",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5415,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: sei, cara, não sei. Cheguei aqui e já tava comprado o negócio. Entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Falando entre nós aqui, já que a gente já se conhece, já temos um link com a [LOCAL]. Muitas vezes um dos desafios que a gente inventa, não sei se vai ser o caso aí, né? A gente chega lá com a proposta,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tudo redondinho, só que o cara que comprou é um cara que é da família, é um cara que é diretor, é um cara que é, né? gerente e o cara não quer dar o boraço no torcer. Acho que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4988,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: pode correr esse risco, mas como eu disse, é aquela velha história, né? Por que o pessoal da [EMPRESA] sempre vai para o [EMPRESA] ou para o [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 32]: segurança é um dos motivos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O principal motivo é, se der errado, cara, são os dois melhores sistemas do [LOCAL]. O [EMPRESA] é o melhor do mundo, então a culpa não é minha.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5535,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 43]: aqui [LOCUTOR 36]: o melhor que tem, entendeu? Eu, no lugar de qualquer gestor de [EMPRESA], faria o mesmo processo, entendeu? Eu também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá, botei o [LOCAL] e do [LOCAL]. Botei o [EMPRESA]... [LOCAL], deu errado o [LOCAL] e a culpa é do gestor de [EMPRESA]. Deu errado o [EMPRESA]... [LOCAL], esse aqui é o melhor que tem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5966,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Querendo ou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: não, a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: gente olha de uma forma estratégica, né? A [EMPRESA], a TOTOS... ela tem a capacidade de ter recursos para suportar o teu crescimento e para investir num projeto. sabe que projeto pode dar, né? Eventualmente tem desafios, né? O Matotos tem condições de bancar esse desafio, né? Agora o [LOCAL] não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Exatamente. Então é por esse motivo que eu estou participando, estou abrindo essa rodada, entendeu? Não sei se vai ser fácil conseguir convencer aqui dentro, mas como você disse, pode ter alguns filhos, pode para alguns isso ser um filho, entendeu? E eu não consegui ir pra frente, mas eu não posso não levantar essa bandeira nesse momento porque se der errado lá na frente, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4688,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a gente pelo menos avisou, a gente apresentou uma possibilidade, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Mas aí, [PESSOA], esse é o nosso ponto de te ajudar, entendeu? E por mais que a [EMPRESA], ela tem hoje uma empresa de um faturamento enorme, né? A maior empresa da [EMPRESA] em tecnologia, né? mas ela tem uma proximidade muito grande com o cliente. A gente gosta de estar no cliente, a gente gosta de criar uma conexão. Hoje, para te dar uma ideia, a [EMPRESA] está com 70 escritórios pelo [LOCAL], só para te dar uma ideia. Pouquíssimas empresas de [EMPRESA] têm esse volume, são 15 mil funcionários hoje, 100 mil clientes. E nossos principais clientes são desse formato, uma empresa que tem seus 100, 200, 500, 600 milhões, e ela é familiar ou está deixando de ser familiar e se corporativizando, por assim dizer. Então, assim, nós temos uma boa experiência em lidar com este cenário. Por isso que eu digo assim, daqui a pouco a gente vai envolvendo o [PESSOA], envolvendo alguém que vai nos apoiar lá na frente e vai nos ajudar a fechar o projeto, porque a gente consegue criar uma rede de influência ali para nos ajudar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É esse o caminho, sabe? Só que agora, se eu for frio para lá, sem ter uma noção de valores, sendo bem sincero, [PESSOA], a tendência é... receber ou não e vocês não tem nem a abertura de se quer apresentar algo, entendeu? Então, por isso que eu estou abrindo essa rodada agora para ter uma noção e aí talvez a gente consiga seguir empreendendo ou não, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Com certeza não. Eu digo assim, quando a gente for construindo, porque um projeto desse também não é da noite para o dia, mas conforme a gente vai construindo, né? A gente chegar nessas etapas aí, né? Alcançar esses níveis aí, né? Tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, show de bola. Então, tu trabalhou em que área lá na [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5162,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Em tudo, um pouco.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4832,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Em tudo, um pouco?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4832,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu fui pré-venda, eu fui contratos, depois eu fui... o tempo que eu fui pré-venda e depois eu fui pra comercial.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Chegou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: trabalhar com o [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Tá, sim, cheguei a trabalhar com o [EMPRESA]. Faz bastante tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4755,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 23]: era uma figura, né? [LOCAL], tinha uma galera lá na [EMPRESA], na [LOCAL], muita gente boa lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5102,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCUTOR 9]: uma escola, né? Sete anos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: gestor de projetos que começou o projeto na [LOCAL] foi o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5773,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Depois tava com o [LOCAL], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, depois foi trocado pro [LOCAL], mas o que começou foi o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5568,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu acho que você escrevia [PESSOA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, eu falava [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4864,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 34]: ia falar [EMPRESA] também, mas acho que era o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, mas era uma figura aquele lá. E o [LOCAL] depois assumiu ali, mas o... É que assim, cara, começou aquilo lá, foi uma loucura, assim, tu não tem ideia do que foi aquilo lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5318,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah, imagino, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: conta aquele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: projeto lá da [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Aquele projeto lá ficou em quanto? Quanto?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5366,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Ficou?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: É. O pessoal sempre falava lá, eu tive um contrato de uns milhões lá na minha mesa uma vez.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Olha, o que nós gastamos na fase inicial lá foi na faixa de 5 milhões.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5657,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Eu cheguei a trabalhar nesse contrato aí. Mas o [EMPRESA] uma vez comentou com a gente que passou disso, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, agora eles vão fazer a atualização, tá em 15.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: O pessoal comentou, o [EMPRESA] comentou que tinha dado uns 15 milhões ali pra atualizar tudo. É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4518,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: atualização agora vai ser 15 milhões.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 34]: lembro que teve um maior de vocês lá, foi o da [EMPRESA]. O baú da [EMPRESA] foi grande.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.556,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Da [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5319,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O da [EMPRESA] eu fui lá visitar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5043,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Foi lá? Lá era grande também, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, mas eu fui lá quando era só a linha de usinagem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ah, não. Depois cresceu um monte. A [EMPRESA] virou... Não sei como é que tá agora, né? Mas a [EMPRESA] virou um monstro, assim. A gente sempre levava o pessoal na [EMPRESA] e na [LOCAL], né? Que eram os dois maiores",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4575,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: cases",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: da [EMPRESA], assim, né? Mas em valores",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: era...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Mas em valores sempre foi [EMPRESA] e [LOCAL], assim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCUTOR 1]: dizer, da minha carreira, uma coisa que eu levo com orgulho é aquele projeto, porque literalmente a gente projetou tela a tela, regra a regra, negócio a negócio, de cada integração, de cada etapa de comunicação, onde você tinha que fazer 10 transações para uma transferência, o estoque dentro do [EMPRESA], a gente simplificou isso para dois PIP e cara,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: assim",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 44]: ó, os caras da [EMPRESA] ou da [EMPRESA], eu acho que alguns tem a minha foto naqueles tiro ao alvo, sabe?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5309,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCUTOR 4]: eu era acho que o cara mais odiado pela consultoria, porque Basicamente, eu tirei muito do poder de customização deles e joguei para a [EMPRESA]. [LOCUTOR 8]: eu te mostrar uma foto aqui só para nós encerrar. [LOCUTOR 2]: aí! Esse era o nível de programação que tinha na época. Aquilo ali é uma piroca de esnopor. Mas foi divertido, cara. [LOCUTOR 18]: divertido. Coisa que o [LOCAL] faria.  divertido,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: um projeto bacana, com certeza, acho que para o [PESSOA], para o [LOCAL], foi uma época bem divertida, podemos assim dizer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Mas acho que é isso, eu faço agora essa parte interna e te chamo para marcar as próximas etapas, pode ser?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5506,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Fechou, [PESSOA], obrigado pela atenção.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4382,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ok, se tiver qualquer dúvida que eu tenha, vou te chamando ali também, tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4372,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Valeu!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então tá, obrigado, tá meu querido, sucesso aí, vamos falando!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3932,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Até mais, tchau!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCAL]!",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

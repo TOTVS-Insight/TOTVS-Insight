@@ -1,0 +1,295 @@
+{
+  "id_reuniao": "988187",
+  "codt": "DBMBWQ",
+  "data_reuniao": "2026-02-04 09:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 4]: Tudo bem?[PESSOA] de \n[LOCUTOR 3]: Bom\n[LOCUTOR 2]: dia. Falei\n[LOCUTOR 4]: alto?\n[LOCUTOR 2]: Fala que eu mandei bom dia pra todos.\n[LOCUTOR 4]: A\n[LOCUTOR 2]: minha vida, sabe aquela música? Minha vida é andar por esse país Pra ver se um dia em [LOCAL] cortou o cabelinho vai\n[LOCUTOR 4]: ficar\n[LOCUTOR 2]: bonito. Quando é bom né.\n[LOCUTOR 4]: Tá bonitinho de vez em quando é bom dar uma tosada.\n[LOCUTOR 2]: Estava cheio de gente do meu time que não estava no invite.\n[LOCUTOR 4]: Aí cadê o povo da [EMPRESA]. Na verdade essa reunião foi marcada pelo [PESSOA].\n[LOCUTOR 2]: Acho que foi por isso foi por isso que talvez ele esqueceu. Muita\n[LOCUTOR 4]: gente que não conseguiu.\n[LOCUTOR 2]: É que eu acabei de mandar para o [PESSOA] para o [EMPRESA]\n[LOCUTOR 4]: e para\n[LOCUTOR 2]: os meninos porque o [PESSOA] não vai participar porque a madraça dele faleceu. Mas o [EMPRESA] não tinha, o [PESSOA] tá no [LOCAL], não sei se vai conseguir. E a [EMPRESA]? A [EMPRESA] será que vai entrar? Falando comElisangela [LOCAL] de \n[LOCUTOR 3]: o\n[LOCUTOR 2]: Rédio, a gente reflete na saúde, né? Como é que eu faço, a gente se orienta, a gente faz a entrega da nossa saúde humana. Então, eu acho interessante,[PESSOA] de \n[LOCUTOR 3]: por\n[LOCUTOR 2]: isso, para entender\n[LOCUTOR 4]: isso. Vou esperar mais um\n[LOCUTOR 2]: pouco,\n[LOCUTOR 4]: eu acho, porque\n[LOCUTOR 2]: acho que\n[LOCUTOR 4]: a\n[LOCUTOR 2]: gente vai arrumar o\n[LOCUTOR 4]: que a gente faz com todo mundo mais organizado.\n[LOCUTOR 2]: Você vai reagendar?\n[LOCUTOR 4]: Vai. Acho que é melhor, né? Até porque isso é muito\n[LOCUTOR 2]: importante\n[LOCUTOR 4]: para você e para o seu time,\n[LOCUTOR 2]: né, cara? Então os meninos não estavam sabendo aí já tinham com algumas agendas.\n[LOCUTOR 4]: Vou pedir para reagendar então a gente faz mais organizado\n[LOCUTOR 2]: e pega\n[LOCUTOR 4]: s\n[LOCUTOR 1]: não coloca só não coloca 10 e 11.\n[LOCUTOR 4]: Não beleza. Eu vou pedir para reagendar. Depois eles nem entraram\n[LOCUTOR 2]: aqui.\n[LOCUTOR 4]: Aí\n[LOCUTOR 2]: a\n[LOCUTOR 4]: gente escolhe. Eu vou pedir a [PESSOA] aqui para organizar e pegar uma data que tem mais audiência do seu\n[LOCUTOR 2]: time. Beleza. Tá bom. [LOCAL]\n[LOCUTOR 4]: então.\n[LOCUTOR 2]: [PESSOA].",
+  "texto_filtrado": "[LOCUTOR 4]: Tudo bem?[PESSOA] de\n[LOCUTOR 4]: alto?\n[LOCUTOR 2]: minha vida, sabe aquela música? Minha vida é andar por esse país Pra ver se um dia em [LOCAL] cortou o cabelinho vai\n[LOCUTOR 4]: ficar\n[LOCUTOR 4]: Tá bonitinho de vez em quando é bom dar uma tosada.\n[LOCUTOR 2]: Estava cheio de gente do meu time que não estava no invite.\n[LOCUTOR 4]: Aí cadê o povo da [EMPRESA]. Na verdade essa reunião foi marcada pelo [PESSOA].\n[LOCUTOR 2]: Acho que foi por isso foi por isso que talvez ele esqueceu. Muita\n[LOCUTOR 2]: É que eu acabei de mandar para o [PESSOA] para o [EMPRESA]\n[LOCUTOR 4]: e para\n[LOCUTOR 2]: os meninos porque o [PESSOA] não vai participar porque a madraça dele faleceu. Mas o [EMPRESA] não tinha, o [PESSOA] tá no [LOCAL], não sei se vai conseguir. E a [EMPRESA]? A [EMPRESA] será que vai entrar? Falando comElisangela [LOCAL] de\n[LOCUTOR 2]: Rédio, a gente reflete na saúde, né? Como é que eu faço, a gente se orienta, a gente faz a entrega da nossa saúde humana. Então, eu acho interessante,[PESSOA] de\n[LOCUTOR 2]: isso, para entender\n[LOCUTOR 2]: pouco,\n[LOCUTOR 2]: acho que\n[LOCUTOR 2]: gente vai arrumar o\n[LOCUTOR 4]: que a gente faz com todo mundo mais organizado.\n[LOCUTOR 2]: Você vai reagendar?\n[LOCUTOR 4]: Vai. Acho que é melhor, né? Até porque isso é muito\n[LOCUTOR 2]: importante\n[LOCUTOR 4]: para você e para o seu time,\n[LOCUTOR 2]: né, cara? Então os meninos não estavam sabendo aí já tinham com algumas agendas.\n[LOCUTOR 2]: e pega\n[LOCUTOR 2]: aqui.\n[LOCUTOR 4]: gente escolhe. Eu vou pedir a [PESSOA] aqui para organizar e pegar uma data que tem mais audiência do seu\n[LOCUTOR 4]: então.\n[LOCUTOR 2]: [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:12.823708+00:00",
+    "total_linhas": 45,
+    "linhas_mantidas": 27,
+    "linhas_removidas": 18,
+    "percentual_mantido": 60.0,
+    "confianca_media": 0.48
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 4]: Tudo bem?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4622,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: dia. Falei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: alto?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Fala que eu mandei bom dia pra todos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4085,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: minha vida, sabe aquela música? Minha vida é andar por esse país Pra ver se um dia em [LOCAL] cortou o cabelinho vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4922,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: ficar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: bonito. Quando é bom né.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tá bonitinho de vez em quando é bom dar uma tosada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5249,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Estava cheio de gente do meu time que não estava no invite.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5182,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Aí cadê o povo da [EMPRESA]. Na verdade essa reunião foi marcada pelo [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Acho que foi por isso foi por isso que talvez ele esqueceu. Muita",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5388,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: gente que não conseguiu.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É que eu acabei de mandar para o [PESSOA] para o [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5649,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: e para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: os meninos porque o [PESSOA] não vai participar porque a madraça dele faleceu. Mas o [EMPRESA] não tinha, o [PESSOA] tá no [LOCAL], não sei se vai conseguir. E a [EMPRESA]? A [EMPRESA] será que vai entrar? Falando comElisangela [LOCAL] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Rédio, a gente reflete na saúde, né? Como é que eu faço, a gente se orienta, a gente faz a entrega da nossa saúde humana. Então, eu acho interessante,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5133,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: isso, para entender",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: isso. Vou esperar mais um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4027,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: pouco,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: eu acho, porque",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: gente vai arrumar o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: que a gente faz com todo mundo mais organizado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4941,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Você vai reagendar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Vai. Acho que é melhor, né? Até porque isso é muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: importante",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: para você e para o seu time,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: né, cara? Então os meninos não estavam sabendo aí já tinham com algumas agendas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4735,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Vou pedir para reagendar então a gente faz mais organizado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4421,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: e pega",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: s",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: não coloca só não coloca 10 e 11.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Não beleza. Eu vou pedir para reagendar. Depois eles nem entraram",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3757,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: gente escolhe. Eu vou pedir a [PESSOA] aqui para organizar e pegar uma data que tem mais audiência do seu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4694,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: time. Beleza. Tá bom. [LOCAL]",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

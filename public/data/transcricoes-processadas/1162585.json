@@ -1,0 +1,1543 @@
+{
+  "id_reuniao": "1162585",
+  "codt": "TFDHGA",
+  "data_reuniao": "2026-03-02 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS MINAS GERAIS",
+  "segmento": "SERVICOS",
+  "uf": "MG",
+  "texto_original": "[PESSOA]:  Boa\n[LOCUTOR 45]: tarde pessoal tudo [PESSOA]: Boa tarde!\n[LOCUTOR 34]: Boa tarde!\n[LOCUTOR 12]: Como estamos?\n[LOCUTOR 45]: Tudo certo por aí?\n[LOCUTOR 12]: Tudo jóia! Agora vai?\n[LOCUTOR 45]: Será? [PESSOA]: [LOCAL],\n[LOCUTOR 12]: né?\n[LOCUTOR 45]: Aqui me explica o que é o tal [PESSOA] ou [PESSOA]: que eu n\n[LOCUTOR 23]: entendi é o grupo.[PESSOA]: São\n[LOCUTOR 12]: duas empresas a UMA e a [PESSOA] mas eles vão [PESSOA]: uma mudança. Então [PESSOA]: gente vai esperar essa mudança acontecer. E a [PESSOA] se vai ficar tudo a UMA mesmo.\n[LOCUTOR 45]: [PESSOA]: senhora.\n[LOCUTOR 12]: Então precisa depender deles do que é de lado agora.\n[LOCUTOR 45]: Eujoao [PESSOA]: [LOCAL] o [PESSOA] e o [PESSOA] [PESSOA] que também vai entrar o [PESSOA] da parte financeira e o [PESSOA] [PESSOA] [PESSOA]: estava fazendo a última coisa que a [PESSOA]: precisava para encerrar o projeto [PESSOA]: que era o que falou de aprovação.[PESSOA]: Isso ficou com o [PESSOA] depois ficou com o [PESSOA] ambos saíram e nada andou.\n[LOCUTOR 12]: Tá [LOCAL] eu vou liberar aqui para eles e a gente já volta. Vamos começar por esse assunto primeiro e depois a gente começa com o novo projeto pode ser.\n[LOCUTOR 45]: Tájoao [PESSOA]: [LOCAL].\n[LOCUTOR 12]: Eles saíram. [PESSOA] está aparecendo mais. Oi [PESSOA].\n[LOCUTOR 50]: Olá boa tarde tudo [LOCAL].\n[LOCUTOR 45]: Boa [PESSOA]: Boa tarde.\n[LOCUTOR 34]: Boa tarde.\n[LOCUTOR 45]: Pessoal\n[LOCUTOR 12]: tem mais alguém para entrar acho que [PESSOA].\n[LOCUTOR 50]: [PESSOA] acho que [PESSOA].\n[LOCUTOR 12]: Tá, vamos lá. [LOCAL], então, apresento para vocês o [PESSOA] e o Marcelo, tá? Eles vão se apresentar devidamente, mas a ideia desse nosso encontro é que a gente finalize o processo do back-office que já existia, faltava só um pedacinho ali com uma parte de definições, tá? Eles também vão explicar referente a isso e na sequência a gente já entra falando referente ao novo projeto e as novas definições também, tá? [PESSOA], Marcelo, fica à vontade.\n[LOCUTOR 45]: Vamos lá, pessoal, prazer, [PESSOA], prazer, [PESSOA], eu sou gerente de projetos aqui da [LOCAL] Grátis Code, né? Nós somos um canal homologado e pela [EMPRESA] na parte de implantação, suporte, desenvolvimento, E a gente tava com um projeto com a [PESSOA], que antes era tocado ali, [PESSOA] sei se vocês até tiveram contato com o [PESSOA], depois com o [PESSOA], mas ambos saíram, né? E a gente tava numa fase final desse projeto. A gente já tinha entrado em [PESSOA], só faltava uma questão de definição interna sobre um workflow de aprovação de vocês ficou ali uma aí eu vou pedir o [PESSOA] [PESSOA] entrou aí agora né [PESSOA] que a gente eles precisavam definir de onde sairia a parte de compras dele ali para a gente decidir que caminho seguiria nesse workflow mais ou menos isso [PESSOA] era\n[LOCUTOR 9]: exatamente isso é que se o controle assinante tem um controle assinatório tinha esse controle assinatório que está trabalhando o controle assinatório Back-Office pelo Nucleus, certo? E ele estava querendo que isso viesse pelo financeiro diretamente. Na época, a [PESSOA] falou, ó, quando o orçamento é dado assim, está todo o primeiro Back-Office, [PESSOA] tem como trabalhar com os dois lados ao mesmo tempo, ou um lado ou o outro. Aí ficou de definir isso e como é que ia fazer. Acho que o projeto parou, [PESSOA] sei como\n[LOCUTOR 45]: dizer. É, eles saíram, aí isso aí ficou parado, realmente. [PESSOA] sei o quanto vocês estão cientes dessa parte. Como é que está rodando o financeiro na [PESSOA]. Hoje parece que tem uma decisão a acontecer que é a [EMPRESA] versus [PESSOA]. E eu [PESSOA] sei o quanto isso vai influenciar nesse projeto anterior que a gente está com ele parado na última fase de finalização que é a assinatura do encerramento do projeto.\n[LOCUTOR 12]: [LOCUTOR 4]: estiver tudo ok, se esse workflow estiver sendo usado de alguma forma, ou a gente precisa entrar e fazer alguma parametrização, a gente faz e encerra. Mas a gente precisa mais entender do lado de vocês. Aí, [PESSOA] e [PESSOA], vocês são de que área aí dentro? Se vocês puderem falar um pouquinho.\n[LOCUTOR 50]: Opa, boa tarde. Eu sou analista de sistemas aqui na [LOCAL], focado mais no sistema [EMPRESA] e alguns outros sistemas\n[LOCUTOR 45]: internos.\n[LOCUTOR 50]: Eu anteriormente era assistente do [PESSOA] nas implantações, só que eu preciso entender Tudo que inclui nesse projeto, porque eu estou assumindo na parte final dele para eu poder analisar se está ou [PESSOA] ok. \n[LOCUTOR 2]: única parte realmente era essa do workflow de aprovação. Como você chegou a trabalhar ali com o [PESSOA]? Você lembra dele comentar alguma coisa sobre isso?\n[LOCUTOR 50]: Sobre o Workflow de aprovações eu [PESSOA] me recordo dele comentar comigo [PESSOA].\n[LOCUTOR 45]: E é uma necessidade de vocês hoje esse Workflow.\n[LOCUTOR 12]: Marcelo é uma grande necessidade só que eles estão capazes de reestruturar essa questão das empresas. [PESSOA] e [PESSOA] porque a gente precisa também alinhar direitinho porque vocês têm muitos [EMPRESA] os [EMPRESA] v\n[LOCUTOR 23]: serem\n[LOCUTOR 12]: vão ser pagos pelo financeiro. Então eles\n[LOCUTOR 50]: [PESSOA]\n[LOCUTOR 12]: v\n[LOCUTOR 30]: para\n[LOCUTOR 12]: o RH. Então aquele projeto do RH que estão conduzindo em paralelo toda parte dos [EMPRESA] serão feitos por aqui. Então por isso que a gente precisa deixar tudo bem organizado para a\n[LOCUTOR 45]: gente\n[LOCUTOR 12]: começar com isso porque essa cobrança de andamento de projeto já iniciou\n[LOCUTOR 45]: tanto\n[LOCUTOR 12]: pelo [PESSOA] quanto pela [EMPRESA] que precisa ter as informações. Marcelo o que acontece ali. A gente precisa ver como\n[LOCUTOR 45]: nós\n[LOCUTOR 12]: faremos para parametrizar o seguinte eles vão pagar de acordo com horas. Então seria como. um repasse como seria feito para fazer esse pagamento de acordo com as horas\n[LOCUTOR 45]: e\n[LOCUTOR 12]: se tem algum tipo de informaç\n[LOCUTOR 23]: e\n[LOCUTOR 12]: pelo RH quando lançado ou RH lança e vai para\n[LOCUTOR 45]: o\n[LOCUTOR 12]: financeiro como que a gente poderia estar fazendo isso porque a [EMPRESA] gostaria de ter essa informação com ela também para [PESSOA] perder a mão dos profissionais como um todo.\n[LOCUTOR 45]: Pode comentar [PESSOA]?\n[LOCUTOR 9]: Esse pagamento que ela está falando é [EMPRESA]? São\n[LOCUTOR 12]: [EMPRESA].\n[LOCUTOR 50]: Ela\n[LOCUTOR 9]: queria ter isso controlando como? Na folha?\n[LOCUTOR 12]: Ela gostaria de ter um acesso ali se fosse possível do RH ou ela lançar a quantidade de horas para que caia no financeiro e o financeiro faça o repasse.[PESSOA]: Mas se [PESSOA] tiver como, também está tudo bem, porque ela já sabe que [EMPRESA] é uma coisa, CLT é outra.\n[LOCUTOR 9]: Pela folha, [PESSOA] tem como. Se tiver um acesso dela do financeiro, direto.\n[LOCUTOR 12]: [LOCAL].\n[LOCUTOR 9]: [PESSOA],\n[LOCUTOR 12]: perfeito. [PESSOA]: claro. Boa tarde. Boa tarde a tuta, [PESSOA] e o [PESSOA]. Sou do administrativo aqui da [LOCAL]. Acho que o senhor [PESSOA] já me prometeu aqui. Eu acho que primeiro a gente precisa entender\n[LOCUTOR 45]: parajoao [PESSOA]: poder direcionar. Enfim, os meninos sabem que tem banco de horas também, né? Então tem as horas lá. Mas eu acho que o principal aqui é entender para ver o direcionamento, porque assim, a gente pode falar um monte de coisa aqui, mas aí chega... Se eles já tiverem um direcionamento do como a [LOCAL] vai caminhar, a gente pode tratar, porque talvez a gente perca tempo, entendeu? Assim,\n[LOCUTOR 12]: a [PESSOA]: pode... Aí o [PESSOA]: a gente pode fazer também é colocar vocês junto com o Jader porque é a DXM que [PESSOA]: implantar. [PESSOA]: mas o RH [PESSOA] faz diferença nenhuma para a gente. [PESSOA] sim mas eu falo porque o Jader ele conhece toda a operação deles também então de [PESSOA]: por essas questões técnicas ele possa estar dando esse apoio para vocês.[PESSOA]: Sim mas a questão que a gente quer saber aqui é a [PESSOA] vai ser a [PESSOA] ou vai ser outro grupo lá. [PESSOA] lembro qual que você mandou no grupo. Ambos possuem [EMPRESA].[PESSOA]: Mas a gente [PESSOA]: que cadastrar nojoao [PESSOA]: sistema. Já está cadastrado no sistema? Isso, espera lá. Então são duas empresas. Como ambos têm [EMPRESA], vamos pelar o [EMPRESA] que já está caminhando e está em processo de finalização, certo? Só falta adequar essa questão dos [EMPRESA] para [PESSOA]: Então vamos organizar os [EMPRESA] registrados como \n[LOCUTOR 11]: e\n[LOCUTOR 12]: aí a gente aguarda essa definição do [PESSOA], do [PESSOA], para\n[LOCUTOR 45]: passar\n[LOCUTOR 12]: sobre a [EMPRESA]. Pode ser, [PESSOA]?\n[LOCUTOR 50]: Hoje pela tarde, após essa reunião na realidade, eu vou me reunir com o [PESSOA] e eu vou ter mais informações sobre essa definição, sobre a [EMPRESA], sobre a [PESSOA]. Até até o presente momento a gente [PESSOA] tem essa definição ainda aqui no setorjoao [PESSOA]: para estar passando para vocês. Quantojoao [PESSOA]: cadastro cadastro no sistema ainda [PESSOA] está cadastrado no sistema.[PESSOA]: A questão é mesmo para vocês mesmo porque eu posso trabalhar à toa. Entendeu\n[LOCUTOR 12]: [PESSOA]: que eu [PESSOA]: fazer. Vou fazer um trabalho que eu vou gastar a hora de vocês que vocês têm lá e depois a gente pode mudar tudo. Vocês já perderam muito.\n[LOCUTOR 50]: [PESSOA]: assim, eu acho que a gente tá querendo, a [PESSOA] tá querendo retomar, vocês estão querendo renovar, então a gente [PESSOA] pode perder daqui pra frente. Por isso que eu acho que [PESSOA]: gente, primeiro assim, acho que essa conversa foi boa, aí a partir de o Marcelo vai entrar aqui, vai alinhar com o [PESSOA], pra [PESSOA]: poder ver [PESSOA]: próximos passos, entendeu? Descendo\n[LOCUTOR 12]: prajoao [PESSOA]: gente [PESSOA] perder, entendeu? [LOCUTOR 42]: aí, pessoal, vamos manter aquele grupo com as informações centralizadasjoao [PESSOA]: para elas [PESSOA] se perderem.[PESSOA]: Eu acho que o grupo, depois o Marcelo e a [LOCAL], quem [PESSOA] tiver\n[LOCUTOR 9]: Tirajoao [PESSOA]: todo mundo do grupo que [PESSOA] tiver de direito. \n[LOCUTOR 27]: já fez isso.[PESSOA]: Eu tenho tantos grupos que [PESSOA] acompanho muito [PESSOA]. Então vê o que tem quem tem que estar lá faz a limpa e a gente pode usar o grupo com quem tem direito.\n[LOCUTOR 45]: E só para ficar ainda mais claro para a gente separar Duas coisas banco de horas. Ok mas a gente tem um projeto de corpo fechado em aberto com a [EMPRESA] em nome da [LOCAL] [PESSOA]: isso para isso ser encerrado. O tempo para ser encerrado do [EMPRESA] ao encerramento já passou-se muito tempo já era para ter sido encerrado. Se a gente vai colocar a parte do workflow na parte do banco de horas a gente já pode partir do pressuposto que a gente encerra o projeto fechado e se inicia uma nova jornada ali com o banco de horas. Porque por contrato esse tempo, a quantidade de dias pós-go-live em encerramento, o tempo de operação assistida, é de 45 a 60 dias, dependendo do contrato. Já passou-se muito mais tempo que isso. Então, o que a gente montaria aqui? Mandava um documento... Sejoao [PESSOA]: o [PESSOA] quiser, você entra com ele, vê todos os documentos que foram assinados.[PESSOA]: Que já foram assinados,[PESSOA]: sim. Parte com o [PESSOA], assim, ó, [PESSOA], foi feito isso aqui,\n[LOCUTOR 12]: parajoao [PESSOA]: ficar claro para eles.[PESSOA]: Entendeu? Foi feito isso e isso. Na base está isso conforme se tiver que fazer para a\n[LOCUTOR 50]: gente [PESSOA]: ter problema. Inclusive isso\n[LOCUTOR 45]: que\n[LOCUTOR 50]: eu achei interessante justamente quando a gente está pegando o projeto já na parte final do projeto.\n[LOCUTOR 12]: Eu vou contextualizar para você assim. Como o Marcelo colocou são questões diferentes.\n[LOCUTOR 45]: [LOCUTOR 10]: como funciona. Como eles são um parceiro homologado pelo [LOCAL] Existe esse projeto e esse projeto [PESSOA] teve como parte fim. Ele [PESSOA] foi encerrado concluído. Então com isso internamente a tops inclusive [PESSOA] pagou para\n[LOCUTOR 12]: eles porque n\n[LOCUTOR 30]: teve\n[LOCUTOR 12]: encerramento. Então a gente precisa. E aí eles foram super parceiros até conhecendo você já de longa data eles foram bem parceiros com relação a isso. E é por isso que a gente precisa também finalizar porque senão de certa forma eles vão sair prejudicados com relação a\n[LOCUTOR 50]: isso.\n[LOCUTOR 12]: E aí eu peço sua ajuda encarecidamente\n[LOCUTOR 45]: para\n[LOCUTOR 12]: a gente concluir\n[LOCUTOR 45]: e\n[LOCUTOR 12]: poder iniciar esse projeto já com maestria.\n[LOCUTOR 50]: Assim [PESSOA] o que eu preciso. Eu preciso pegar o projeto inteiro para analisar o que está faltando algo correto e eu preciso de um tempo para poder alinhar com o meu [PESSOA]: para a gente finalizar.\n[LOCUTOR 12]: de\n[LOCUTOR 50]: um pequeno prazo para vocês.[PESSOA]: A gente marca de conforme a gente marca essa agenda para te mostrar lá.\n[LOCUTOR 12]: [PESSOA] [PESSOA]: a\n[LOCUTOR 3]: eu [PESSOA]: preciso.\n[LOCUTOR 12]: Você pode conduzir com os meninos até por\n[LOCUTOR 45]: uma\n[LOCUTOR 12]: questão muito técnica e sinceramente eu [PESSOA] domino muito\n[LOCUTOR 50]: mas\n[LOCUTOR 12]: vocês podem fazer as agendas e quem é vontade para tocar isso.\n[LOCUTOR 45]: O [PESSOA] que você diz é o doutor [PESSOA] [PESSOA] é.\n[LOCUTOR 12]: \n[LOCUTOR 33]: o [LOCAL] [PESSOA].\n[LOCUTOR 45]: Porque o [PESSOA] inclusive o [PESSOA] era muito firme nessa questão de assinaturas. O [PESSOA] só assinava quando o doutor [PESSOA] assinava. Então o doutor [PESSOA] [PESSOA] doutor\n[LOCUTOR 50]: [PESSOA]\n[LOCUTOR 45]: [PESSOA]. Então o [PESSOA] eu [PESSOA] sei o quão por dentro ele estava disso.\n[LOCUTOR 12]: [LOCUTOR 7]: o [PESSOA] assinava assim o [PESSOA] só assinava depois do aval dele. [LOCUTOR 17]: ele tem mais essa\n[LOCUTOR 45]: história.\n[LOCUTOR 50]: O\n[LOCUTOR 12]: Marcelo [PESSOA] assumiu ali o lugar do \n[LOCUTOR 1]: do\n[LOCUTOR 45]: [PESSOA].\n[LOCUTOR 50]: [PESSOA]: ele\n[LOCUTOR 12]: assumiu e enfim ele está. Ele que fez a contratação do novo projeto ele está desenhando aí se\n[LOCUTOR 50]: a\n[LOCUTOR 12]: estrutura das empresas.\n[LOCUTOR 50]: [LOCUTOR 8]: que eu vou fazer? Primeiramente, [PESSOA], eu vou baixar as mites assinadas. \n[LOCUTOR 38]: pegar\n[LOCUTOR 45]: seu e-mail ali no convite da agenda. Mando para você e para o [PESSOA] todas essas mitos que foram assinadas e\n[LOCUTOR 50]: pego\n[LOCUTOR 45]: últimos históricos de meio onde a gente conversou sobre essa parte do workflow de aprovação.\n[LOCUTOR 50]: [LOCAL] voc\n[LOCUTOR 35]: pode alinhar e dentro de falar para a gente. Beleza podem mandar o encerramento a gente coloca ali que vai ser continuado no banco de horas. A gente fecha essa parte porque senão vai ficar uma bola dividida\n[LOCUTOR 50]: e\n[LOCUTOR 45]: vai atrapalhar o segmento.\n[LOCUTOR 50]: [LOCAL].\n[LOCUTOR 45]: [LOCUTOR 19]: deixa comigo que eu\n[LOCUTOR 50]: fa\n[LOCUTOR 32]: isso e a\n[LOCUTOR 50]: gente... Eu vou te pedir, Marcelo, a partir do momento que você me enviar esses documentos e as mites, eu vou te pedir um prazo de pelo menos uma semana para eu estar avaliando todas elas, porque em paralelo também tem outros suportes [PESSOA]: a gente presta aqui em treinamento.\n[LOCUTOR 45]: Sem problemas.\n[LOCUTOR 50]: E a gente acaba tendo o tempo um pouco apertado,\n[LOCUTOR 45]: tá? Fica tranquilo. Depois desse tempo aí que a gente já aguardou uma semaninha aí, fica\n[LOCUTOR 50]: tranquilo,\n[LOCUTOR 45]: dá tempo de você analisar.\n[LOCUTOR 12]: O bebê só estava quase nascendo [PESSOA]: Agora vai gente. Agora a gente finaliza.[PESSOA]: Isso o caso se estiver usando\n[LOCUTOR 45]: [PESSOA]: sistema e tiver alguma dúvida com o sistema vocês podem assinar a gente. Você tem um banco de olhos\n[LOCUTOR 12]: lá.\n[LOCUTOR 45]: Podejoao [PESSOA]: assinar l\n[LOCUTOR 31]: nojoao [PESSOA]: grupo\n[LOCUTOR 50]: que [PESSOA]: estão tá. \n[LOCUTOR 49]: questão de horas que a gente tem, a gente tem quantas horas disponíveis só para eu ter controle aqui por gentileza.[PESSOA]: A gente vai puxar com a [PESSOA], a gente puxa\n[LOCUTOR 12]: [PESSOA] [PESSOA]: a gente passa o e-mail parajoao [PESSOA]: você, tá?\n[LOCUTOR 50]: Podejoao [PESSOA]: ser? Pode ser. E vocês, no caso, só para o back-office no módulo financeiro, certo?[PESSOA]: [PESSOA], a gente está tudo no back-office\n[LOCUTOR 45]: inteiro.\n[LOCUTOR 50]: No back-office inteiro? Então,[PESSOA]: por exemplo, se eu quiser tratar com vocês sobre estoque, eu consigo.[PESSOA]: No back-office inteiro. [LOCAL].[PESSOA]: customização, relatório, forma visual, o que você quiser aí tá.\n[LOCUTOR 45]: É que [PESSOA]: [PESSOA] sei se vocês... é porque assim, vamos puxar mais pra trás agora. É igual assim, a gente tem a tratem com a [PESSOA], [PESSOA] tem mais nada. O faturamento, por exemplo, vocês pararam de usar.\n[LOCUTOR 50]: Sim.[PESSOA]: Mas, por exemplo, se vocês quiserem voltar a usar, a gente [PESSOA]: [LOCAL]. oujoao [PESSOA]: qualquer outra coisa da parte linda a gente\n[LOCUTOR 12]: precisa fazer uma integração. Eles podem apoiar também com relação a\n[LOCUTOR 45]: isso\n[LOCUTOR 12]: porque eles são como se fosse uma consultoria mesmo que vocês têm contratado. Então precisa\n[LOCUTOR 50]: fazer\n[LOCUTOR 12]: juros a esse investimento.\n[LOCUTOR 50]: [LOCAL].\n[LOCUTOR 45]: E [PESSOA] a gente tem um sistema nosso interno de suporte para a criação de chamados. Quem tinha acesso anteriormente era o [PESSOA] ele quem abria chamados. Ali no grupo eu vou te pedir algumas informações aí eu peço para criarem aqui para você o acesso\n[LOCUTOR 50]: e\n[LOCUTOR 45]: aí você pode abrir o chamado ali. Preciso disso disso daquilo. A gente vai retornar. Isso é uma dúvida que a gente vai te responder ali na hora ok ou isso vai gastar. 10 horas de esforço. A gente vai te mandar isso, você vai aprovar ali pelo próprio chamado, a gente vai executar e descontar nessas horas.[PESSOA]: Aproveitamos,\n[LOCUTOR 50]: né? Sejoao [PESSOA]: você quiser um retreinamento em [LOCAL] [PESSOA]: ponto também, a gente, você pode chamar a gente lá, a gente [PESSOA]: marcar, a gente dá retreinamento, entendeu? Qualquer coisa que você tiver, se você precisar de um tóxico, a gente te auxilia. Eu vou\n[LOCUTOR 12]: pedir\n[LOCUTOR 50]: pra disponibilizar esse acesso\n[LOCUTOR 12]: tanto\n[LOCUTOR 50]: pra mim quanto pro [PESSOA], tá?\n[LOCUTOR 45]: O\n[LOCUTOR 12]: \n[LOCUTOR 28]: tá [PESSOA]: na nossa reunião, a gente só dá um overview do que foi falado\n[LOCUTOR 9]: aqui\n[LOCUTOR 12]: para ele poder se inteirar. Pelo menos ele me mandou [PESSOA]: que [PESSOA] conseguia, [PESSOA] estava conseguindo entrar no link.\n[LOCUTOR 50]: [LOCAL].\n[LOCUTOR 12]: Boa tarde!\n[LOCUTOR 59]: Boa tarde! Boa\n[LOCUTOR 12]: tarde,\n[LOCUTOR 45]: [PESSOA]! Tudo bem?\n[LOCUTOR 59]: Boa tarde!\n[LOCUTOR 50]: Tudo bem,\n[LOCUTOR 59]: tudo\n[LOCUTOR 50]: bem?\n[LOCUTOR 15]: Boa [PESSOA]: Boa\n[LOCUTOR 12]: tarde! Pessoal, [LOCAL], vou retomar aqui um pouquinho que o [PESSOA] [PESSOA] conseguiu entrar no link, tá? [PESSOA], eu convidei todos para que nós finalizássemos o primeiro projeto\n[LOCUTOR 45]: que\n[LOCUTOR 12]: já estava em andamento ali do [LOCAL], que era referente às aprovações. E também para a gente poder seguir com os próximos ajustes e implantações do becofice também. Então nós vamos utilizar da consultoria, que está aqui o pessoal da Bão Grátis, os dois [PESSOA], o [PESSOA] e o Marcelo. E aí eles vão contextualizar só um pouquinho para você entender, porque como era o [PESSOA] que ficava à frente disso, No final foi interrompido. E até eu estava explicando aqui para o [PESSOA] que é o seguinte. Como eles são uma empresa homologada pela [LOCAL]. Eles precisam enviar as documentações para a [LOCAL] e aí sim a [LOCAL] faz o repasse.\n[LOCUTOR 45]: [LOCUTOR 6]: o pagamento para eles. Então eles estão há um [LOCAL] tempo sem receber esse repasse. A gente precisa de fato concluir claro desde que vocês estejam ali com o processo de aprovação completo e isso ele vai e ficou de enviar o Marcelo vai enviar os documentos para o [PESSOA] também se inteirado que foi feito e\n[LOCUTOR 12]: depois iniciar o novo projeto. Marcelo contextualiza de uma forma.\n[LOCUTOR 45]: Vamos lá. Prazer [PESSOA]. Meu nome é Marcelo sou gerente de projetos aqui na Bão Grátis Ford. Como [PESSOA] falou a gente uma empresa homologada pela [LOCAL] para poder fazer implantação. suporte desenvolvimento e várias outras coisas que a gente atua como parceiros da [EMPRESA] há muitos anos. A [PESSOA] está com a gente há muito tempo desde a época lá do saúde depois ali a parte desse projeto de escopo fechado que entrou para a implantação do financeiro e parte do back office.\n[LOCUTOR 59]: [LOCUTOR 2]: gente na época quem estava era o [PESSOA] que eu entendi que você está no lugar dele agora. [LOCAL]. [LOCUTOR 40]: [PESSOA] sou do [PESSOA].\n[LOCUTOR 45]: Isso do [PESSOA] na verdade. e o [PESSOA] também que saiu que era também um ex consultor a gente trocou muito ali ele conhecia muito bem o sistema. Só que a gente travou a gente fez todo como que funciona. [PESSOA] sei se vocês conhecem como funciona a metodologia de implantação da [EMPRESA]. A gente passa por vários marcos a gente só passa de fase. se o cliente está concordando com a fase anterior. Esse concordar é através de uma assinatura de um documento. Fizemos o kickoff, mandamos um documento, vocês assinam, a gente passa pra levantamento. Fizemos o levantamento, vocês concordam com aquilo que a gente entrevistou vocês, a gente entendeu o processo, vamos passar pra fase de implantação, de parametrização e capacitação dos usuários. Capacitamos vocês, concordaram com a capacitação, estão cientes, o usuário Chave replicou isso pros outros usuários, passamos pra próxima fase.\n[LOCUTOR 59]: [LOCUTOR 2]: gente chegou na última fase desse projeto a gente deu o [EMPRESA] que é a penúltima a última fase é o encerramento e esse encerramento acontece depois do [EMPRESA] começa uma fase que chama operação assistida e\n[LOCUTOR 45]: ela vocês têm 80 horas e tem de 45 a 60 dias para ser usado dependendo do contrato. Mas isso passou muito mais tempo. só agarrou por um detalhe que é que era uma definição interna de como seria o workflow de aprovação de vocês. Eu [PESSOA] sei o quanto você ficou sabendo disso mas\n[LOCUTOR 59]: [PESSOA] no detalhe mas vou encurtar o caminho aqui. \n[LOCUTOR 2]: gente\n[LOCUTOR 59]: pode fazer. Minha sugestão [PESSOA] e Marcelo a gente faz a validação do que foi feito até agora sobre o workflow de aprovação, que querendo ou [PESSOA], existe hoje um workflow implantado e eu participo dele e ele está funcionando. [PESSOA] acredito que ele atenda ao que a gente precise, mas vou separar aqui a conversa.\n[LOCUTOR 45]: [LOCUTOR 29]: uma parte foi feita, foi implantado, o pessoal foi treinado, então o pessoal está solicitando, tem ordem de solicitação de compra, ordem de compra, passa por um workflow seguindo o que foi determinado na época. Então,\n[LOCUTOR 59]: [PESSOA], a gente pode avançar com o documento e aí eu faço a validação do documento do que foi implantado e a gente já retoma, Marcelo, aí sim com uma conversa mais assertiva sobre o que precisamos fazer para a nova configuração. Então a gente\n[LOCUTOR 45]: teve\n[LOCUTOR 59]: uma série de mudanças. mudanças aqui, mudanças estruturais nas unidades, mudança até no próprio contrato, né, [PESSOA], para poder cobrir com todos os usuários que a gente precisa que agora participe desse fluxo. A gente teve mudanças de diretrizes operacionais, que requer, aí sim, da nossa parte também, com a ajuda de vocês, uma configuração, parametrização correta do sistema. Por exemplo, a gente passa a ter estoque centralizado para uma série de conjuntos de itens, que antes era estoque nas unidades, que nem era estoque, era demandado direto por unidade, agora a gente passa a ter um estoque central. Então, isso muda um pouco os fluxos, ou muda o parâmetro do workflow. Acho que o workflow é o mesmo, só que a gente tem que parametrizar corretamente para se adequar à nova estrutura. E ainda tem uma etapa nossa para fazer nessa implantação do novo back-office. a simplificação de cenário de custos, a reconfiguração de plano de contas, a restrição de quais contas são autorizadas para cada perfil. Então tem um trabalho... Vou fazer uma semana de trabalho nossa para que a gente consiga passar para vocês quais são as diretrizes, e aí uma ajuda de vocês a fazer essa parametrização, porque eu pe\n[LOCUTOR 32]: para\n[LOCUTOR 59]: vocês aqui, Marcelo, faça o [PESSOA] beber água de hidrante, [PESSOA] sei se vocês sabem o que é isso, mas se vocês imaginarem o que é um bebedouro de [LOCAL], já tem uma ideia. Ele vai receber em uma semana aquilo que ele beberia em um ano, mas ele dá conta para que ele tenha uma oportunidade gigante de aceleração de aprendizado sobre todas as questões mais técnicas, coisas que o [PESSOA] já carregava na sua bagagem. de carreira,\n[LOCUTOR 45]: né? Então o\n[LOCUTOR 59]: [LOCAL] vai ser a nossa pessoa de referência para todas as atividades. Então eu quero que ele participe com a intensidade de qualquer tipo de atividade que envolva o projeto da TOTUS.\n[LOCUTOR 45]: [PESSOA].\n[LOCUTOR 59]: Para ele entender tanto de negócio quanto de parâmetros e configurações de sistema, porque daí por a frente ele que vai nos assistir com isso. Mas isso é o outro projeto que começa amanhã.\n[LOCUTOR 45]: [LOCAL].\n[LOCUTOR 59]: Então, [PESSOA], a gente encerra o primeiro. cumpre com esse requisito, com a [PESSOA], para a gente encerrar o ciclo sem nenhum problema. Pode me encaminhar, [PESSOA]\n[LOCUTOR 12]: ou\n[LOCUTOR 59]: Marcelo.\n[LOCUTOR 12]: Dependendo do que organiza, né, [PESSOA]?\n[LOCUTOR 59]: É, exato. E a gente estabelece um novo ciclo. Aí eu quero ter uma visão clara da proposta de vocês de implantação desses dois novos módulos. A gente sai de quarteto para sexteto e a gente aproveitar esse momento também para fazer uma... uma reconfiguração de módulos já implantados, ou de fluxos já implantados, já diante desse novo cenário de organizacional e de fluxos que a gente passa. operacionalmente\n[LOCUTOR 45]: aqui.\n[LOCUTOR 12]: \n[LOCUTOR 37]: aí é uma sessão de trabalho para a gente redefinir com clareza o escopo do novo projeto. E aí o [PESSOA] fica como o responsável de trocar esse projeto com vocês. Então Marcelo ficou mais fácil ainda. \n[LOCUTOR 21]: muito bem em\n[LOCUTOR 12]: forma de [PESSOA].\n[LOCUTOR 45]: Isso [PESSOA] você chegou aqui muito bem alinhado apesar de você [PESSOA] ter ouvido que a gente conversou é basicamente isso. Hoje vai ficar muito mais fácil pra vocês. A gente tinha um projeto de escopo fechado.\n[LOCUTOR 59]: [LOCUTOR 2]: gente precisa só encerrá-lo. É isso.\n[LOCUTOR 45]: Agora, agora vocês têm um banco de horas. Ele [PESSOA] diz o que vocês têm direito em\n[LOCUTOR 12]: contrato.\n[LOCUTOR 45]: Vocês têm horas.\n[LOCUTOR 59]: Isso.\n[LOCUTOR 45]: O que for preciso com relação ao [LOCAL], nós vamos atender. Nós temos um sistema de suporte interno da Bão Grátis, onde eu vou criar um usuário para o [PESSOA] e para o [PESSOA] ali.\n[LOCUTOR 59]: [LOCUTOR 18]: vão. A gente pode fazer reuniões para explicar algumas coisas. mais complexas e coisas mais\n[LOCUTOR 45]: simples. Preciso da criação de um relatório que faz isso e aquilo. Há um chamado lá vou falar vai gastar x horas. Aprovou beleza a gente entrega desconto as horas e vai fazendo\n[LOCUTOR 59]: isso. E o que eu quero fazer com vocês com o [PESSOA] e o [PESSOA] junto assim para esse próximo projeto de implantação ou de reconfiguração do ambiente para essa nova estrutura que a gente tem. A gente vai montar um projeto e você vai estimar que são 80 horas. Beleza. Então essa eu já reservo para o projeto. Você j\n[LOCUTOR 39]: tem atores aí para trazer para a gente o que precisa ser feito. Você vai montar isso.\n[LOCUTOR 59]: Eu preciso de ter um olhar técnico sobre o que precisa ser feito. Eu vou te passar a dor de negócio. \n[LOCUTOR 8]: que vai\n[LOCUTOR 59]: precisar mudar é isso. E aí vocês estruturam do ponto de vista técnico que precisa ser feito. Estima a quantidade de horas que precisa para esse trabalho. [PESSOA] e [PESSOA] acompanham com vocês. E aí a gente fica gerenciando esse banco de horas para outros atendimentos. Mas eu [PESSOA] quero comer no banco antes de fazer o que precisa ser feito.\n[LOCUTOR 12]: O Marcelo então organiza essa questão da documentação aí para já despertar. E aí [PESSOA] até comentei aqui para a gente colocar deixar aquele grupo bem ativo e\n[LOCUTOR 59]: centralizado\n[LOCUTOR 12]: com as informações para elas [PESSOA] se perderem. \n[LOCUTOR 14]: até\n[LOCUTOR 12]: para você também acompanhando o que está sendo feito ali. E depois vocês vão, pessoal, de acordo com o que for reestruturado com o [PESSOA] ali internamente na questão organizacional da empresa, fazer essa reconfiguração. Então ficamos aí com algumas pendências de entrega e seguimos com o novo projeto.\n[LOCUTOR 59]: [LOCAL]. E vamos fazer isso o quanto antes essa semana, [PESSOA], para a gente ter essa ideia de trabalho de definição do projeto. Porque eu sei que o Marcelo vai precisar de alguns dias para poder configurar tecnicamente o projeto, então quanto antes de conversar fica mais claro. a gente vai ter uma conversa com o [PESSOA] para passar para ele, [PESSOA], todas as letras de negócio e a gente fica mais alinhado entre nós para j\n[LOCUTOR 39]: ficar\n[LOCUTOR 59]: preparado para\n[LOCUTOR 12]: conduzir\n[LOCUTOR 59]: esse desenho\n[LOCUTOR 12]: do projeto. [LOCAL], aí você só precisa escolher como vai ficar e nós organizamos do lado de cá também.\n[LOCUTOR 59]: Tá [LOCAL], perfeito.\n[LOCUTOR 45]: Combinado, obrigado.\n[LOCUTOR 59]: Então\n[LOCUTOR 12]: tá,\n[LOCUTOR 59]: Marcelo, seu\n[LOCUTOR 12]: documento.\n[LOCUTOR 45]: [LOCUTOR 5]: deixar a gente espera que dê tudo certo e com essa parceria com novas pessoas dentro da alma e \n[LOCUTOR 47]: e\n[LOCUTOR 45]: seguimos em frente.\n[LOCUTOR 59]: Vai dar certo sim. Tem jeito de dar\n[LOCUTOR 12]: errado. \n[LOCUTOR 21]: isso aí.\n[LOCUTOR 59]: Obrigado\n[LOCUTOR 45]: pessoal.\n[LOCUTOR 59]: Obrigado.\n[LOCUTOR 12]: [PESSOA].",
+  "texto_filtrado": "[LOCUTOR 45]: Será? [PESSOA]: [LOCAL],\n[LOCUTOR 45]: Aqui me explica o que é o tal [PESSOA] ou [PESSOA]: que eu n\n[LOCUTOR 12]: duas empresas a UMA e a [PESSOA] mas eles vão [PESSOA]: uma mudança. Então [PESSOA]: gente vai esperar essa mudança acontecer. E a [PESSOA] se vai ficar tudo a UMA mesmo.\n[LOCUTOR 45]: [PESSOA]: senhora.\n[LOCUTOR 12]: Então precisa depender deles do que é de lado agora.\n[LOCUTOR 45]: Eujoao [PESSOA]: [LOCAL] o [PESSOA] e o [PESSOA] [PESSOA] que também vai entrar o [PESSOA] da parte financeira e o [PESSOA] [PESSOA] [PESSOA]: estava fazendo a última coisa que a [PESSOA]: precisava para encerrar o projeto [PESSOA]: que era o que falou de aprovação.[PESSOA]: Isso ficou com o [PESSOA] depois ficou com o [PESSOA] ambos saíram e nada andou.\n[LOCUTOR 12]: Tá [LOCAL] eu vou liberar aqui para eles e a gente já volta. Vamos começar por esse assunto primeiro e depois a gente começa com o novo projeto pode ser.\n[LOCUTOR 45]: Tájoao [PESSOA]: [LOCAL].\n[LOCUTOR 12]: tem mais alguém para entrar acho que [PESSOA].\n[LOCUTOR 50]: [PESSOA] acho que [PESSOA].\n[LOCUTOR 12]: Tá, vamos lá. [LOCAL], então, apresento para vocês o [PESSOA] e o Marcelo, tá? Eles vão se apresentar devidamente, mas a ideia desse nosso encontro é que a gente finalize o processo do back-office que já existia, faltava só um pedacinho ali com uma parte de definições, tá? Eles também vão explicar referente a isso e na sequência a gente já entra falando referente ao novo projeto e as novas definições também, tá? [PESSOA], Marcelo, fica à vontade.\n[LOCUTOR 45]: Vamos lá, pessoal, prazer, [PESSOA], prazer, [PESSOA], eu sou gerente de projetos aqui da [LOCAL] Grátis Code, né? Nós somos um canal homologado e pela [EMPRESA] na parte de implantação, suporte, desenvolvimento, E a gente tava com um projeto com a [PESSOA], que antes era tocado ali, [PESSOA] sei se vocês até tiveram contato com o [PESSOA], depois com o [PESSOA], mas ambos saíram, né? E a gente tava numa fase final desse projeto. A gente já tinha entrado em [PESSOA], só faltava uma questão de definição interna sobre um workflow de aprovação de vocês ficou ali uma aí eu vou pedir o [PESSOA] [PESSOA] entrou aí agora né [PESSOA] que a gente eles precisavam definir de onde sairia a parte de compras dele ali para a gente decidir que caminho seguiria nesse workflow mais ou menos isso [PESSOA] era\n[LOCUTOR 9]: exatamente isso é que se o controle assinante tem um controle assinatório tinha esse controle assinatório que está trabalhando o controle assinatório Back-Office pelo Nucleus, certo? E ele estava querendo que isso viesse pelo financeiro diretamente. Na época, a [PESSOA] falou, ó, quando o orçamento é dado assim, está todo o primeiro Back-Office, [PESSOA] tem como trabalhar com os dois lados ao mesmo tempo, ou um lado ou o outro. Aí ficou de definir isso e como é que ia fazer. Acho que o projeto parou, [PESSOA] sei como\n[LOCUTOR 45]: dizer. É, eles saíram, aí isso aí ficou parado, realmente. [PESSOA] sei o quanto vocês estão cientes dessa parte. Como é que está rodando o financeiro na [PESSOA]. Hoje parece que tem uma decisão a acontecer que é a [EMPRESA] versus [PESSOA]. E eu [PESSOA] sei o quanto isso vai influenciar nesse projeto anterior que a gente está com ele parado na última fase de finalização que é a assinatura do encerramento do projeto.\n[LOCUTOR 12]: [LOCUTOR 4]: estiver tudo ok, se esse workflow estiver sendo usado de alguma forma, ou a gente precisa entrar e fazer alguma parametrização, a gente faz e encerra. Mas a gente precisa mais entender do lado de vocês. Aí, [PESSOA] e [PESSOA], vocês são de que área aí dentro? Se vocês puderem falar um pouquinho.\n[LOCUTOR 50]: Opa, boa tarde. Eu sou analista de sistemas aqui na [LOCAL], focado mais no sistema [EMPRESA] e alguns outros sistemas\n[LOCUTOR 45]: internos.\n[LOCUTOR 50]: Eu anteriormente era assistente do [PESSOA] nas implantações, só que eu preciso entender Tudo que inclui nesse projeto, porque eu estou assumindo na parte final dele para eu poder analisar se está ou [PESSOA] ok.\n[LOCUTOR 2]: única parte realmente era essa do workflow de aprovação. Como você chegou a trabalhar ali com o [PESSOA]? Você lembra dele comentar alguma coisa sobre isso?\n[LOCUTOR 50]: Sobre o Workflow de aprovações eu [PESSOA] me recordo dele comentar comigo [PESSOA].\n[LOCUTOR 45]: E é uma necessidade de vocês hoje esse Workflow.\n[LOCUTOR 12]: Marcelo é uma grande necessidade só que eles estão capazes de reestruturar essa questão das empresas. [PESSOA] e [PESSOA] porque a gente precisa também alinhar direitinho porque vocês têm muitos [EMPRESA] os [EMPRESA] v\n[LOCUTOR 23]: serem\n[LOCUTOR 12]: vão ser pagos pelo financeiro. Então eles\n[LOCUTOR 50]: [PESSOA]\n[LOCUTOR 30]: para\n[LOCUTOR 12]: o RH. Então aquele projeto do RH que estão conduzindo em paralelo toda parte dos [EMPRESA] serão feitos por aqui. Então por isso que a gente precisa deixar tudo bem organizado para a\n[LOCUTOR 45]: gente\n[LOCUTOR 12]: começar com isso porque essa cobrança de andamento de projeto já iniciou\n[LOCUTOR 45]: tanto\n[LOCUTOR 12]: pelo [PESSOA] quanto pela [EMPRESA] que precisa ter as informações. Marcelo o que acontece ali. A gente precisa ver como\n[LOCUTOR 12]: faremos para parametrizar o seguinte eles vão pagar de acordo com horas. Então seria como. um repasse como seria feito para fazer esse pagamento de acordo com as horas\n[LOCUTOR 12]: se tem algum tipo de informaç\n[LOCUTOR 12]: pelo RH quando lançado ou RH lança e vai para\n[LOCUTOR 12]: financeiro como que a gente poderia estar fazendo isso porque a [EMPRESA] gostaria de ter essa informação com ela também para [PESSOA] perder a mão dos profissionais como um todo.\n[LOCUTOR 45]: Pode comentar [PESSOA]?\n[LOCUTOR 9]: Esse pagamento que ela está falando é [EMPRESA]? São\n[LOCUTOR 12]: [EMPRESA].\n[LOCUTOR 9]: queria ter isso controlando como? Na folha?\n[LOCUTOR 12]: Ela gostaria de ter um acesso ali se fosse possível do RH ou ela lançar a quantidade de horas para que caia no financeiro e o financeiro faça o repasse.[PESSOA]: Mas se [PESSOA] tiver como, também está tudo bem, porque ela já sabe que [EMPRESA] é uma coisa, CLT é outra.\n[LOCUTOR 9]: Pela folha, [PESSOA] tem como. Se tiver um acesso dela do financeiro, direto.\n[LOCUTOR 12]: [LOCAL].\n[LOCUTOR 9]: [PESSOA],\n[LOCUTOR 12]: perfeito. [PESSOA]: claro. Boa tarde. Boa tarde a tuta, [PESSOA] e o [PESSOA]. Sou do administrativo aqui da [LOCAL]. Acho que o senhor [PESSOA] já me prometeu aqui. Eu acho que primeiro a gente precisa entender\n[LOCUTOR 45]: parajoao [PESSOA]: poder direcionar. Enfim, os meninos sabem que tem banco de horas também, né? Então tem as horas lá. Mas eu acho que o principal aqui é entender para ver o direcionamento, porque assim, a gente pode falar um monte de coisa aqui, mas aí chega... Se eles já tiverem um direcionamento do como a [LOCAL] vai caminhar, a gente pode tratar, porque talvez a gente perca tempo, entendeu? Assim,\n[LOCUTOR 12]: a [PESSOA]: pode... Aí o [PESSOA]: a gente pode fazer também é colocar vocês junto com o Jader porque é a DXM que [PESSOA]: implantar. [PESSOA]: mas o RH [PESSOA] faz diferença nenhuma para a gente. [PESSOA] sim mas eu falo porque o Jader ele conhece toda a operação deles também então de [PESSOA]: por essas questões técnicas ele possa estar dando esse apoio para vocês.[PESSOA]: Sim mas a questão que a gente quer saber aqui é a [PESSOA] vai ser a [PESSOA] ou vai ser outro grupo lá. [PESSOA] lembro qual que você mandou no grupo. Ambos possuem [EMPRESA].[PESSOA]: Mas a gente [PESSOA]: que cadastrar nojoao [PESSOA]: sistema. Já está cadastrado no sistema? Isso, espera lá. Então são duas empresas. Como ambos têm [EMPRESA], vamos pelar o [EMPRESA] que já está caminhando e está em processo de finalização, certo? Só falta adequar essa questão dos [EMPRESA] para [PESSOA]: Então vamos organizar os [EMPRESA] registrados como\n[LOCUTOR 12]: aí a gente aguarda essa definição do [PESSOA], do [PESSOA], para\n[LOCUTOR 45]: passar\n[LOCUTOR 12]: sobre a [EMPRESA]. Pode ser, [PESSOA]?\n[LOCUTOR 50]: Hoje pela tarde, após essa reunião na realidade, eu vou me reunir com o [PESSOA] e eu vou ter mais informações sobre essa definição, sobre a [EMPRESA], sobre a [PESSOA]. Até até o presente momento a gente [PESSOA] tem essa definição ainda aqui no setorjoao [PESSOA]: para estar passando para vocês. Quantojoao [PESSOA]: cadastro cadastro no sistema ainda [PESSOA] está cadastrado no sistema.[PESSOA]: A questão é mesmo para vocês mesmo porque eu posso trabalhar à toa. Entendeu\n[LOCUTOR 50]: [PESSOA]: assim, eu acho que a gente tá querendo, a [PESSOA] tá querendo retomar, vocês estão querendo renovar, então a gente [PESSOA] pode perder daqui pra frente. Por isso que eu acho que [PESSOA]: gente, primeiro assim, acho que essa conversa foi boa, aí a partir de o Marcelo vai entrar aqui, vai alinhar com o [PESSOA], pra [PESSOA]: poder ver [PESSOA]: próximos passos, entendeu? Descendo\n[LOCUTOR 12]: prajoao [PESSOA]: gente [PESSOA] perder, entendeu? [LOCUTOR 42]: aí, pessoal, vamos manter aquele grupo com as informações centralizadasjoao [PESSOA]: para elas [PESSOA] se perderem.[PESSOA]: Eu acho que o grupo, depois o Marcelo e a [LOCAL], quem [PESSOA] tiver\n[LOCUTOR 9]: Tirajoao [PESSOA]: todo mundo do grupo que [PESSOA] tiver de direito.\n[LOCUTOR 27]: já fez isso.[PESSOA]: Eu tenho tantos grupos que [PESSOA] acompanho muito [PESSOA]. Então vê o que tem quem tem que estar lá faz a limpa e a gente pode usar o grupo com quem tem direito.\n[LOCUTOR 45]: E só para ficar ainda mais claro para a gente separar Duas coisas banco de horas. Ok mas a gente tem um projeto de corpo fechado em aberto com a [EMPRESA] em nome da [LOCAL] [PESSOA]: isso para isso ser encerrado. O tempo para ser encerrado do [EMPRESA] ao encerramento já passou-se muito tempo já era para ter sido encerrado. Se a gente vai colocar a parte do workflow na parte do banco de horas a gente já pode partir do pressuposto que a gente encerra o projeto fechado e se inicia uma nova jornada ali com o banco de horas. Porque por contrato esse tempo, a quantidade de dias pós-go-live em encerramento, o tempo de operação assistida, é de 45 a 60 dias, dependendo do contrato. Já passou-se muito mais tempo que isso. Então, o que a gente montaria aqui? Mandava um documento... Sejoao [PESSOA]: o [PESSOA] quiser, você entra com ele, vê todos os documentos que foram assinados.[PESSOA]: Que já foram assinados,[PESSOA]: sim. Parte com o [PESSOA], assim, ó, [PESSOA], foi feito isso aqui,\n[LOCUTOR 12]: parajoao [PESSOA]: ficar claro para eles.[PESSOA]: Entendeu? Foi feito isso e isso. Na base está isso conforme se tiver que fazer para a\n[LOCUTOR 50]: gente [PESSOA]: ter problema. Inclusive isso\n[LOCUTOR 50]: eu achei interessante justamente quando a gente está pegando o projeto já na parte final do projeto.\n[LOCUTOR 45]: [LOCUTOR 10]: como funciona. Como eles são um parceiro homologado pelo [LOCAL] Existe esse projeto e esse projeto [PESSOA] teve como parte fim. Ele [PESSOA] foi encerrado concluído. Então com isso internamente a tops inclusive [PESSOA] pagou para\n[LOCUTOR 12]: eles porque n\n[LOCUTOR 30]: teve\n[LOCUTOR 12]: encerramento. Então a gente precisa. E aí eles foram super parceiros até conhecendo você já de longa data eles foram bem parceiros com relação a isso. E é por isso que a gente precisa também finalizar porque senão de certa forma eles vão sair prejudicados com relação a\n[LOCUTOR 50]: isso.\n[LOCUTOR 45]: para\n[LOCUTOR 12]: a gente concluir\n[LOCUTOR 12]: poder iniciar esse projeto já com maestria.\n[LOCUTOR 50]: Assim [PESSOA] o que eu preciso. Eu preciso pegar o projeto inteiro para analisar o que está faltando algo correto e eu preciso de um tempo para poder alinhar com o meu [PESSOA]: para a gente finalizar.\n[LOCUTOR 50]: um pequeno prazo para vocês.[PESSOA]: A gente marca de conforme a gente marca essa agenda para te mostrar lá.\n[LOCUTOR 12]: [PESSOA] [PESSOA]: a\n[LOCUTOR 12]: Você pode conduzir com os meninos até por\n[LOCUTOR 12]: vocês podem fazer as agendas e quem é vontade para tocar isso.\n[LOCUTOR 45]: O [PESSOA] que você diz é o doutor [PESSOA] [PESSOA] é.\n[LOCUTOR 33]: o [LOCAL] [PESSOA].\n[LOCUTOR 45]: Porque o [PESSOA] inclusive o [PESSOA] era muito firme nessa questão de assinaturas. O [PESSOA] só assinava quando o doutor [PESSOA] assinava. Então o doutor [PESSOA] [PESSOA] doutor\n[LOCUTOR 50]: [PESSOA]\n[LOCUTOR 45]: [PESSOA]. Então o [PESSOA] eu [PESSOA] sei o quão por dentro ele estava disso.\n[LOCUTOR 12]: [LOCUTOR 7]: o [PESSOA] assinava assim o [PESSOA] só assinava depois do aval dele. [LOCUTOR 17]: ele tem mais essa\n[LOCUTOR 45]: história.\n[LOCUTOR 12]: Marcelo [PESSOA] assumiu ali o lugar do\n[LOCUTOR 45]: [PESSOA].\n[LOCUTOR 50]: [PESSOA]: ele\n[LOCUTOR 12]: assumiu e enfim ele está. Ele que fez a contratação do novo projeto ele está desenhando aí se\n[LOCUTOR 12]: estrutura das empresas.\n[LOCUTOR 45]: seu e-mail ali no convite da agenda. Mando para você e para o [PESSOA] todas essas mitos que foram assinadas e\n[LOCUTOR 50]: pego\n[LOCUTOR 45]: últimos históricos de meio onde a gente conversou sobre essa parte do workflow de aprovação.\n[LOCUTOR 50]: [LOCAL] voc\n[LOCUTOR 35]: pode alinhar e dentro de falar para a gente. Beleza podem mandar o encerramento a gente coloca ali que vai ser continuado no banco de horas. A gente fecha essa parte porque senão vai ficar uma bola dividida\n[LOCUTOR 45]: vai atrapalhar o segmento.\n[LOCUTOR 50]: [LOCAL].\n[LOCUTOR 45]: [LOCUTOR 19]: deixa comigo que eu\n[LOCUTOR 32]: isso e a\n[LOCUTOR 50]: gente... Eu vou te pedir, Marcelo, a partir do momento que você me enviar esses documentos e as mites, eu vou te pedir um prazo de pelo menos uma semana para eu estar avaliando todas elas, porque em paralelo também tem outros suportes [PESSOA]: a gente presta aqui em treinamento.\n[LOCUTOR 45]: Sem problemas.\n[LOCUTOR 50]: E a gente acaba tendo o tempo um pouco apertado,\n[LOCUTOR 45]: tá? Fica tranquilo. Depois desse tempo aí que a gente já aguardou uma semaninha aí, fica\n[LOCUTOR 50]: tranquilo,\n[LOCUTOR 45]: dá tempo de você analisar.\n[LOCUTOR 12]: O bebê só estava quase nascendo [PESSOA]: Agora vai gente. Agora a gente finaliza.[PESSOA]: Isso o caso se estiver usando\n[LOCUTOR 45]: [PESSOA]: sistema e tiver alguma dúvida com o sistema vocês podem assinar a gente. Você tem um banco de olhos\n[LOCUTOR 45]: Podejoao [PESSOA]: assinar l\n[LOCUTOR 31]: nojoao [PESSOA]: grupo\n[LOCUTOR 50]: que [PESSOA]: estão tá.\n[LOCUTOR 49]: questão de horas que a gente tem, a gente tem quantas horas disponíveis só para eu ter controle aqui por gentileza.[PESSOA]: A gente vai puxar com a [PESSOA], a gente puxa\n[LOCUTOR 12]: [PESSOA] [PESSOA]: a gente passa o e-mail parajoao [PESSOA]: você, tá?\n[LOCUTOR 50]: Podejoao [PESSOA]: ser? Pode ser. E vocês, no caso, só para o back-office no módulo financeiro, certo?[PESSOA]: [PESSOA], a gente está tudo no back-office\n[LOCUTOR 45]: inteiro.\n[LOCUTOR 50]: No back-office inteiro? Então,[PESSOA]: por exemplo, se eu quiser tratar com vocês sobre estoque, eu consigo.[PESSOA]: No back-office inteiro. [LOCAL].[PESSOA]: customização, relatório, forma visual, o que você quiser aí tá.\n[LOCUTOR 45]: É que [PESSOA]: [PESSOA] sei se vocês... é porque assim, vamos puxar mais pra trás agora. É igual assim, a gente tem a tratem com a [PESSOA], [PESSOA] tem mais nada. O faturamento, por exemplo, vocês pararam de usar.\n[LOCUTOR 12]: precisa fazer uma integração. Eles podem apoiar também com relação a\n[LOCUTOR 45]: isso\n[LOCUTOR 12]: porque eles são como se fosse uma consultoria mesmo que vocês têm contratado. Então precisa\n[LOCUTOR 50]: fazer\n[LOCUTOR 12]: juros a esse investimento.\n[LOCUTOR 50]: [LOCAL].\n[LOCUTOR 45]: E [PESSOA] a gente tem um sistema nosso interno de suporte para a criação de chamados. Quem tinha acesso anteriormente era o [PESSOA] ele quem abria chamados. Ali no grupo eu vou te pedir algumas informações aí eu peço para criarem aqui para você o acesso\n[LOCUTOR 45]: aí você pode abrir o chamado ali. Preciso disso disso daquilo. A gente vai retornar. Isso é uma dúvida que a gente vai te responder ali na hora ok ou isso vai gastar. 10 horas de esforço. A gente vai te mandar isso, você vai aprovar ali pelo próprio chamado, a gente vai executar e descontar nessas horas.[PESSOA]: Aproveitamos,\n[LOCUTOR 50]: né? Sejoao [PESSOA]: você quiser um retreinamento em [LOCAL] [PESSOA]: ponto também, a gente, você pode chamar a gente lá, a gente [PESSOA]: marcar, a gente dá retreinamento, entendeu? Qualquer coisa que você tiver, se você precisar de um tóxico, a gente te auxilia. Eu vou\n[LOCUTOR 12]: pedir\n[LOCUTOR 50]: pra disponibilizar esse acesso\n[LOCUTOR 12]: tanto\n[LOCUTOR 50]: pra mim quanto pro [PESSOA], tá?\n[LOCUTOR 28]: tá [PESSOA]: na nossa reunião, a gente só dá um overview do que foi falado\n[LOCUTOR 9]: aqui\n[LOCUTOR 12]: para ele poder se inteirar. Pelo menos ele me mandou [PESSOA]: que [PESSOA] conseguia, [PESSOA] estava conseguindo entrar no link.\n[LOCUTOR 50]: [LOCAL].\n[LOCUTOR 12]: já estava em andamento ali do [LOCAL], que era referente às aprovações. E também para a gente poder seguir com os próximos ajustes e implantações do becofice também. Então nós vamos utilizar da consultoria, que está aqui o pessoal da Bão Grátis, os dois [PESSOA], o [PESSOA] e o Marcelo. E aí eles vão contextualizar só um pouquinho para você entender, porque como era o [PESSOA] que ficava à frente disso, No final foi interrompido. E até eu estava explicando aqui para o [PESSOA] que é o seguinte. Como eles são uma empresa homologada pela [LOCAL]. Eles precisam enviar as documentações para a [LOCAL] e aí sim a [LOCAL] faz o repasse.\n[LOCUTOR 45]: [LOCUTOR 6]: o pagamento para eles. Então eles estão há um [LOCAL] tempo sem receber esse repasse. A gente precisa de fato concluir claro desde que vocês estejam ali com o processo de aprovação completo e isso ele vai e ficou de enviar o Marcelo vai enviar os documentos para o [PESSOA] também se inteirado que foi feito e\n[LOCUTOR 12]: depois iniciar o novo projeto. Marcelo contextualiza de uma forma.\n[LOCUTOR 45]: Vamos lá. Prazer [PESSOA]. Meu nome é Marcelo sou gerente de projetos aqui na Bão Grátis Ford. Como [PESSOA] falou a gente uma empresa homologada pela [LOCAL] para poder fazer implantação. suporte desenvolvimento e várias outras coisas que a gente atua como parceiros da [EMPRESA] há muitos anos. A [PESSOA] está com a gente há muito tempo desde a época lá do saúde depois ali a parte desse projeto de escopo fechado que entrou para a implantação do financeiro e parte do back office.\n[LOCUTOR 59]: [LOCUTOR 2]: gente na época quem estava era o [PESSOA] que eu entendi que você está no lugar dele agora. [LOCAL]. [LOCUTOR 40]: [PESSOA] sou do [PESSOA].\n[LOCUTOR 45]: Isso do [PESSOA] na verdade. e o [PESSOA] também que saiu que era também um ex consultor a gente trocou muito ali ele conhecia muito bem o sistema. Só que a gente travou a gente fez todo como que funciona. [PESSOA] sei se vocês conhecem como funciona a metodologia de implantação da [EMPRESA]. A gente passa por vários marcos a gente só passa de fase. se o cliente está concordando com a fase anterior. Esse concordar é através de uma assinatura de um documento. Fizemos o kickoff, mandamos um documento, vocês assinam, a gente passa pra levantamento. Fizemos o levantamento, vocês concordam com aquilo que a gente entrevistou vocês, a gente entendeu o processo, vamos passar pra fase de implantação, de parametrização e capacitação dos usuários. Capacitamos vocês, concordaram com a capacitação, estão cientes, o usuário Chave replicou isso pros outros usuários, passamos pra próxima fase.\n[LOCUTOR 59]: [LOCUTOR 2]: gente chegou na última fase desse projeto a gente deu o [EMPRESA] que é a penúltima a última fase é o encerramento e esse encerramento acontece depois do [EMPRESA] começa uma fase que chama operação assistida e\n[LOCUTOR 45]: ela vocês têm 80 horas e tem de 45 a 60 dias para ser usado dependendo do contrato. Mas isso passou muito mais tempo. só agarrou por um detalhe que é que era uma definição interna de como seria o workflow de aprovação de vocês. Eu [PESSOA] sei o quanto você ficou sabendo disso mas\n[LOCUTOR 2]: gente\n[LOCUTOR 59]: pode fazer. Minha sugestão [PESSOA] e Marcelo a gente faz a validação do que foi feito até agora sobre o workflow de aprovação, que querendo ou [PESSOA], existe hoje um workflow implantado e eu participo dele e ele está funcionando. [PESSOA] acredito que ele atenda ao que a gente precise, mas vou separar aqui a conversa.\n[LOCUTOR 45]: [LOCUTOR 29]: uma parte foi feita, foi implantado, o pessoal foi treinado, então o pessoal está solicitando, tem ordem de solicitação de compra, ordem de compra, passa por um workflow seguindo o que foi determinado na época. Então,\n[LOCUTOR 59]: [PESSOA], a gente pode avançar com o documento e aí eu faço a validação do documento do que foi implantado e a gente já retoma, Marcelo, aí sim com uma conversa mais assertiva sobre o que precisamos fazer para a nova configuração. Então a gente\n[LOCUTOR 45]: teve\n[LOCUTOR 59]: uma série de mudanças. mudanças aqui, mudanças estruturais nas unidades, mudança até no próprio contrato, né, [PESSOA], para poder cobrir com todos os usuários que a gente precisa que agora participe desse fluxo. A gente teve mudanças de diretrizes operacionais, que requer, aí sim, da nossa parte também, com a ajuda de vocês, uma configuração, parametrização correta do sistema. Por exemplo, a gente passa a ter estoque centralizado para uma série de conjuntos de itens, que antes era estoque nas unidades, que nem era estoque, era demandado direto por unidade, agora a gente passa a ter um estoque central. Então, isso muda um pouco os fluxos, ou muda o parâmetro do workflow. Acho que o workflow é o mesmo, só que a gente tem que parametrizar corretamente para se adequar à nova estrutura. E ainda tem uma etapa nossa para fazer nessa implantação do novo back-office. a simplificação de cenário de custos, a reconfiguração de plano de contas, a restrição de quais contas são autorizadas para cada perfil. Então tem um trabalho... Vou fazer uma semana de trabalho nossa para que a gente consiga passar para vocês quais são as diretrizes, e aí uma ajuda de vocês a fazer essa parametrização, porque eu pe\n[LOCUTOR 32]: para\n[LOCUTOR 59]: vocês aqui, Marcelo, faça o [PESSOA] beber água de hidrante, [PESSOA] sei se vocês sabem o que é isso, mas se vocês imaginarem o que é um bebedouro de [LOCAL], já tem uma ideia. Ele vai receber em uma semana aquilo que ele beberia em um ano, mas ele dá conta para que ele tenha uma oportunidade gigante de aceleração de aprendizado sobre todas as questões mais técnicas, coisas que o [PESSOA] já carregava na sua bagagem. de carreira,\n[LOCUTOR 45]: né? Então o\n[LOCUTOR 59]: [LOCAL] vai ser a nossa pessoa de referência para todas as atividades. Então eu quero que ele participe com a intensidade de qualquer tipo de atividade que envolva o projeto da TOTUS.\n[LOCUTOR 45]: [PESSOA].\n[LOCUTOR 59]: Para ele entender tanto de negócio quanto de parâmetros e configurações de sistema, porque daí por a frente ele que vai nos assistir com isso. Mas isso é o outro projeto que começa amanhã.\n[LOCUTOR 45]: [LOCAL].\n[LOCUTOR 59]: Então, [PESSOA], a gente encerra o primeiro. cumpre com esse requisito, com a [PESSOA], para a gente encerrar o ciclo sem nenhum problema. Pode me encaminhar, [PESSOA]\n[LOCUTOR 59]: Marcelo.\n[LOCUTOR 12]: Dependendo do que organiza, né, [PESSOA]?\n[LOCUTOR 59]: É, exato. E a gente estabelece um novo ciclo. Aí eu quero ter uma visão clara da proposta de vocês de implantação desses dois novos módulos. A gente sai de quarteto para sexteto e a gente aproveitar esse momento também para fazer uma... uma reconfiguração de módulos já implantados, ou de fluxos já implantados, já diante desse novo cenário de organizacional e de fluxos que a gente passa. operacionalmente\n[LOCUTOR 45]: aqui.\n[LOCUTOR 37]: aí é uma sessão de trabalho para a gente redefinir com clareza o escopo do novo projeto. E aí o [PESSOA] fica como o responsável de trocar esse projeto com vocês. Então Marcelo ficou mais fácil ainda.\n[LOCUTOR 21]: muito bem em\n[LOCUTOR 12]: forma de [PESSOA].\n[LOCUTOR 45]: Isso [PESSOA] você chegou aqui muito bem alinhado apesar de você [PESSOA] ter ouvido que a gente conversou é basicamente isso. Hoje vai ficar muito mais fácil pra vocês. A gente tinha um projeto de escopo fechado.\n[LOCUTOR 59]: [LOCUTOR 2]: gente precisa só encerrá-lo. É isso.\n[LOCUTOR 45]: Agora, agora vocês têm um banco de horas. Ele [PESSOA] diz o que vocês têm direito em\n[LOCUTOR 12]: contrato.\n[LOCUTOR 59]: Isso.\n[LOCUTOR 45]: O que for preciso com relação ao [LOCAL], nós vamos atender. Nós temos um sistema de suporte interno da Bão Grátis, onde eu vou criar um usuário para o [PESSOA] e para o [PESSOA] ali.\n[LOCUTOR 59]: [LOCUTOR 18]: vão. A gente pode fazer reuniões para explicar algumas coisas. mais complexas e coisas mais\n[LOCUTOR 45]: simples. Preciso da criação de um relatório que faz isso e aquilo. Há um chamado lá vou falar vai gastar x horas. Aprovou beleza a gente entrega desconto as horas e vai fazendo\n[LOCUTOR 59]: isso. E o que eu quero fazer com vocês com o [PESSOA] e o [PESSOA] junto assim para esse próximo projeto de implantação ou de reconfiguração do ambiente para essa nova estrutura que a gente tem. A gente vai montar um projeto e você vai estimar que são 80 horas. Beleza. Então essa eu já reservo para o projeto. Você j\n[LOCUTOR 39]: tem atores aí para trazer para a gente o que precisa ser feito. Você vai montar isso.\n[LOCUTOR 59]: Eu preciso de ter um olhar técnico sobre o que precisa ser feito. Eu vou te passar a dor de negócio.\n[LOCUTOR 8]: que vai\n[LOCUTOR 59]: precisar mudar é isso. E aí vocês estruturam do ponto de vista técnico que precisa ser feito. Estima a quantidade de horas que precisa para esse trabalho. [PESSOA] e [PESSOA] acompanham com vocês. E aí a gente fica gerenciando esse banco de horas para outros atendimentos. Mas eu [PESSOA] quero comer no banco antes de fazer o que precisa ser feito.\n[LOCUTOR 12]: O Marcelo então organiza essa questão da documentação aí para já despertar. E aí [PESSOA] até comentei aqui para a gente colocar deixar aquele grupo bem ativo e\n[LOCUTOR 59]: centralizado\n[LOCUTOR 12]: com as informações para elas [PESSOA] se perderem.\n[LOCUTOR 12]: para você também acompanhando o que está sendo feito ali. E depois vocês vão, pessoal, de acordo com o que for reestruturado com o [PESSOA] ali internamente na questão organizacional da empresa, fazer essa reconfiguração. Então ficamos aí com algumas pendências de entrega e seguimos com o novo projeto.\n[LOCUTOR 59]: [LOCAL]. E vamos fazer isso o quanto antes essa semana, [PESSOA], para a gente ter essa ideia de trabalho de definição do projeto. Porque eu sei que o Marcelo vai precisar de alguns dias para poder configurar tecnicamente o projeto, então quanto antes de conversar fica mais claro. a gente vai ter uma conversa com o [PESSOA] para passar para ele, [PESSOA], todas as letras de negócio e a gente fica mais alinhado entre nós para j\n[LOCUTOR 39]: ficar\n[LOCUTOR 59]: preparado para\n[LOCUTOR 12]: conduzir\n[LOCUTOR 59]: esse desenho\n[LOCUTOR 12]: do projeto. [LOCAL], aí você só precisa escolher como vai ficar e nós organizamos do lado de cá também.\n[LOCUTOR 59]: Tá [LOCAL], perfeito.\n[LOCUTOR 59]: Então\n[LOCUTOR 59]: Marcelo, seu\n[LOCUTOR 12]: documento.\n[LOCUTOR 45]: [LOCUTOR 5]: deixar a gente espera que dê tudo certo e com essa parceria com novas pessoas dentro da alma e\n[LOCUTOR 45]: seguimos em frente.\n[LOCUTOR 12]: errado.\n[LOCUTOR 21]: isso aí.\n[LOCUTOR 12]: [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:22.935850+00:00",
+    "total_linhas": 253,
+    "linhas_mantidas": 187,
+    "linhas_removidas": 66,
+    "percentual_mantido": 73.91,
+    "confianca_media": 0.492
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[PESSOA]:  Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: tarde pessoal tudo [PESSOA]: Boa tarde!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.387,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Boa tarde!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Como estamos?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Tudo certo por aí?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tudo jóia! Agora vai?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Será? [PESSOA]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5341,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Aqui me explica o que é o tal [PESSOA] ou [PESSOA]: que eu n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4625,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: entendi é o grupo.[PESSOA]: São",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: duas empresas a UMA e a [PESSOA] mas eles vão [PESSOA]: uma mudança. Então [PESSOA]: gente vai esperar essa mudança acontecer. E a [PESSOA] se vai ficar tudo a UMA mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4944,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [PESSOA]: senhora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então precisa depender deles do que é de lado agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6162,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Eujoao [PESSOA]: [LOCAL] o [PESSOA] e o [PESSOA] [PESSOA] que também vai entrar o [PESSOA] da parte financeira e o [PESSOA] [PESSOA] [PESSOA]: estava fazendo a última coisa que a [PESSOA]: precisava para encerrar o projeto [PESSOA]: que era o que falou de aprovação.[PESSOA]: Isso ficou com o [PESSOA] depois ficou com o [PESSOA] ambos saíram e nada andou.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tá [LOCAL] eu vou liberar aqui para eles e a gente já volta. Vamos começar por esse assunto primeiro e depois a gente começa com o novo projeto pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5136,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Tájoao [PESSOA]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Eles saíram. [PESSOA] está aparecendo mais. Oi [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3991,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Olá boa tarde tudo [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4055,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Boa [PESSOA]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Pessoal",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tem mais alguém para entrar acho que [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5011,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA] acho que [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tá, vamos lá. [LOCAL], então, apresento para vocês o [PESSOA] e o Marcelo, tá? Eles vão se apresentar devidamente, mas a ideia desse nosso encontro é que a gente finalize o processo do back-office que já existia, faltava só um pedacinho ali com uma parte de definições, tá? Eles também vão explicar referente a isso e na sequência a gente já entra falando referente ao novo projeto e as novas definições também, tá? [PESSOA], Marcelo, fica à vontade.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Vamos lá, pessoal, prazer, [PESSOA], prazer, [PESSOA], eu sou gerente de projetos aqui da [LOCAL] Grátis Code, né? Nós somos um canal homologado e pela [EMPRESA] na parte de implantação, suporte, desenvolvimento, E a gente tava com um projeto com a [PESSOA], que antes era tocado ali, [PESSOA] sei se vocês até tiveram contato com o [PESSOA], depois com o [PESSOA], mas ambos saíram, né? E a gente tava numa fase final desse projeto. A gente já tinha entrado em [PESSOA], só faltava uma questão de definição interna sobre um workflow de aprovação de vocês ficou ali uma aí eu vou pedir o [PESSOA] [PESSOA] entrou aí agora né [PESSOA] que a gente eles precisavam definir de onde sairia a parte de compras dele ali para a gente decidir que caminho seguiria nesse workflow mais ou menos isso [PESSOA] era",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: exatamente isso é que se o controle assinante tem um controle assinatório tinha esse controle assinatório que está trabalhando o controle assinatório Back-Office pelo Nucleus, certo? E ele estava querendo que isso viesse pelo financeiro diretamente. Na época, a [PESSOA] falou, ó, quando o orçamento é dado assim, está todo o primeiro Back-Office, [PESSOA] tem como trabalhar com os dois lados ao mesmo tempo, ou um lado ou o outro. Aí ficou de definir isso e como é que ia fazer. Acho que o projeto parou, [PESSOA] sei como",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: dizer. É, eles saíram, aí isso aí ficou parado, realmente. [PESSOA] sei o quanto vocês estão cientes dessa parte. Como é que está rodando o financeiro na [PESSOA]. Hoje parece que tem uma decisão a acontecer que é a [EMPRESA] versus [PESSOA]. E eu [PESSOA] sei o quanto isso vai influenciar nesse projeto anterior que a gente está com ele parado na última fase de finalização que é a assinatura do encerramento do projeto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCUTOR 4]: estiver tudo ok, se esse workflow estiver sendo usado de alguma forma, ou a gente precisa entrar e fazer alguma parametrização, a gente faz e encerra. Mas a gente precisa mais entender do lado de vocês. Aí, [PESSOA] e [PESSOA], vocês são de que área aí dentro? Se vocês puderem falar um pouquinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Opa, boa tarde. Eu sou analista de sistemas aqui na [LOCAL], focado mais no sistema [EMPRESA] e alguns outros sistemas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5034,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: internos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Eu anteriormente era assistente do [PESSOA] nas implantações, só que eu preciso entender Tudo que inclui nesse projeto, porque eu estou assumindo na parte final dele para eu poder analisar se está ou [PESSOA] ok.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: única parte realmente era essa do workflow de aprovação. Como você chegou a trabalhar ali com o [PESSOA]? Você lembra dele comentar alguma coisa sobre isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Sobre o Workflow de aprovações eu [PESSOA] me recordo dele comentar comigo [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4677,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: E é uma necessidade de vocês hoje esse Workflow.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Marcelo é uma grande necessidade só que eles estão capazes de reestruturar essa questão das empresas. [PESSOA] e [PESSOA] porque a gente precisa também alinhar direitinho porque vocês têm muitos [EMPRESA] os [EMPRESA] v",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: serem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: vão ser pagos pelo financeiro. Então eles",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: v",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o RH. Então aquele projeto do RH que estão conduzindo em paralelo toda parte dos [EMPRESA] serão feitos por aqui. Então por isso que a gente precisa deixar tudo bem organizado para a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: começar com isso porque essa cobrança de andamento de projeto já iniciou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5909,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: tanto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: pelo [PESSOA] quanto pela [EMPRESA] que precisa ter as informações. Marcelo o que acontece ali. A gente precisa ver como",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: nós",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: faremos para parametrizar o seguinte eles vão pagar de acordo com horas. Então seria como. um repasse como seria feito para fazer esse pagamento de acordo com as horas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5683,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: se tem algum tipo de informaç",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: pelo RH quando lançado ou RH lança e vai para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: financeiro como que a gente poderia estar fazendo isso porque a [EMPRESA] gostaria de ter essa informação com ela também para [PESSOA] perder a mão dos profissionais como um todo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Pode comentar [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Esse pagamento que ela está falando é [EMPRESA]? São",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5126,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Ela",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: queria ter isso controlando como? Na folha?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Ela gostaria de ter um acesso ali se fosse possível do RH ou ela lançar a quantidade de horas para que caia no financeiro e o financeiro faça o repasse.[PESSOA]: Mas se [PESSOA] tiver como, também está tudo bem, porque ela já sabe que [EMPRESA] é uma coisa, CLT é outra.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Pela folha, [PESSOA] tem como. Se tiver um acesso dela do financeiro, direto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: perfeito. [PESSOA]: claro. Boa tarde. Boa tarde a tuta, [PESSOA] e o [PESSOA]. Sou do administrativo aqui da [LOCAL]. Acho que o senhor [PESSOA] já me prometeu aqui. Eu acho que primeiro a gente precisa entender",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4679,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: parajoao [PESSOA]: poder direcionar. Enfim, os meninos sabem que tem banco de horas também, né? Então tem as horas lá. Mas eu acho que o principal aqui é entender para ver o direcionamento, porque assim, a gente pode falar um monte de coisa aqui, mas aí chega... Se eles já tiverem um direcionamento do como a [LOCAL] vai caminhar, a gente pode tratar, porque talvez a gente perca tempo, entendeu? Assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5759,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: a [PESSOA]: pode... Aí o [PESSOA]: a gente pode fazer também é colocar vocês junto com o Jader porque é a DXM que [PESSOA]: implantar. [PESSOA]: mas o RH [PESSOA] faz diferença nenhuma para a gente. [PESSOA] sim mas eu falo porque o Jader ele conhece toda a operação deles também então de [PESSOA]: por essas questões técnicas ele possa estar dando esse apoio para vocês.[PESSOA]: Sim mas a questão que a gente quer saber aqui é a [PESSOA] vai ser a [PESSOA] ou vai ser outro grupo lá. [PESSOA] lembro qual que você mandou no grupo. Ambos possuem [EMPRESA].[PESSOA]: Mas a gente [PESSOA]: que cadastrar nojoao [PESSOA]: sistema. Já está cadastrado no sistema? Isso, espera lá. Então são duas empresas. Como ambos têm [EMPRESA], vamos pelar o [EMPRESA] que já está caminhando e está em processo de finalização, certo? Só falta adequar essa questão dos [EMPRESA] para [PESSOA]: Então vamos organizar os [EMPRESA] registrados como",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: aí a gente aguarda essa definição do [PESSOA], do [PESSOA], para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6152,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: passar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: sobre a [EMPRESA]. Pode ser, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Hoje pela tarde, após essa reunião na realidade, eu vou me reunir com o [PESSOA] e eu vou ter mais informações sobre essa definição, sobre a [EMPRESA], sobre a [PESSOA]. Até até o presente momento a gente [PESSOA] tem essa definição ainda aqui no setorjoao [PESSOA]: para estar passando para vocês. Quantojoao [PESSOA]: cadastro cadastro no sistema ainda [PESSOA] está cadastrado no sistema.[PESSOA]: A questão é mesmo para vocês mesmo porque eu posso trabalhar à toa. Entendeu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA]: que eu [PESSOA]: fazer. Vou fazer um trabalho que eu vou gastar a hora de vocês que vocês têm lá e depois a gente pode mudar tudo. Vocês já perderam muito.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4497,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA]: assim, eu acho que a gente tá querendo, a [PESSOA] tá querendo retomar, vocês estão querendo renovar, então a gente [PESSOA] pode perder daqui pra frente. Por isso que eu acho que [PESSOA]: gente, primeiro assim, acho que essa conversa foi boa, aí a partir de o Marcelo vai entrar aqui, vai alinhar com o [PESSOA], pra [PESSOA]: poder ver [PESSOA]: próximos passos, entendeu? Descendo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4991,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: prajoao [PESSOA]: gente [PESSOA] perder, entendeu? [LOCUTOR 42]: aí, pessoal, vamos manter aquele grupo com as informações centralizadasjoao [PESSOA]: para elas [PESSOA] se perderem.[PESSOA]: Eu acho que o grupo, depois o Marcelo e a [LOCAL], quem [PESSOA] tiver",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tirajoao [PESSOA]: todo mundo do grupo que [PESSOA] tiver de direito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6074,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: já fez isso.[PESSOA]: Eu tenho tantos grupos que [PESSOA] acompanho muito [PESSOA]. Então vê o que tem quem tem que estar lá faz a limpa e a gente pode usar o grupo com quem tem direito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5206,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: E só para ficar ainda mais claro para a gente separar Duas coisas banco de horas. Ok mas a gente tem um projeto de corpo fechado em aberto com a [EMPRESA] em nome da [LOCAL] [PESSOA]: isso para isso ser encerrado. O tempo para ser encerrado do [EMPRESA] ao encerramento já passou-se muito tempo já era para ter sido encerrado. Se a gente vai colocar a parte do workflow na parte do banco de horas a gente já pode partir do pressuposto que a gente encerra o projeto fechado e se inicia uma nova jornada ali com o banco de horas. Porque por contrato esse tempo, a quantidade de dias pós-go-live em encerramento, o tempo de operação assistida, é de 45 a 60 dias, dependendo do contrato. Já passou-se muito mais tempo que isso. Então, o que a gente montaria aqui? Mandava um documento... Sejoao [PESSOA]: o [PESSOA] quiser, você entra com ele, vê todos os documentos que foram assinados.[PESSOA]: Que já foram assinados,[PESSOA]: sim. Parte com o [PESSOA], assim, ó, [PESSOA], foi feito isso aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: parajoao [PESSOA]: ficar claro para eles.[PESSOA]: Entendeu? Foi feito isso e isso. Na base está isso conforme se tiver que fazer para a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: gente [PESSOA]: ter problema. Inclusive isso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 50]: eu achei interessante justamente quando a gente está pegando o projeto já na parte final do projeto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.509,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Eu vou contextualizar para você assim. Como o Marcelo colocou são questões diferentes.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.441,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [LOCUTOR 10]: como funciona. Como eles são um parceiro homologado pelo [LOCAL] Existe esse projeto e esse projeto [PESSOA] teve como parte fim. Ele [PESSOA] foi encerrado concluído. Então com isso internamente a tops inclusive [PESSOA] pagou para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5008,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: eles porque n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: teve",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: encerramento. Então a gente precisa. E aí eles foram super parceiros até conhecendo você já de longa data eles foram bem parceiros com relação a isso. E é por isso que a gente precisa também finalizar porque senão de certa forma eles vão sair prejudicados com relação a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: E aí eu peço sua ajuda encarecidamente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: a gente concluir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: poder iniciar esse projeto já com maestria.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Assim [PESSOA] o que eu preciso. Eu preciso pegar o projeto inteiro para analisar o que está faltando algo correto e eu preciso de um tempo para poder alinhar com o meu [PESSOA]: para a gente finalizar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5072,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 50]: um pequeno prazo para vocês.[PESSOA]: A gente marca de conforme a gente marca essa agenda para te mostrar lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA] [PESSOA]: a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: eu [PESSOA]: preciso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Você pode conduzir com os meninos até por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5141,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: questão muito técnica e sinceramente eu [PESSOA] domino muito",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: vocês podem fazer as agendas e quem é vontade para tocar isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: O [PESSOA] que você diz é o doutor [PESSOA] [PESSOA] é.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 33]: o [LOCAL] [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Porque o [PESSOA] inclusive o [PESSOA] era muito firme nessa questão de assinaturas. O [PESSOA] só assinava quando o doutor [PESSOA] assinava. Então o doutor [PESSOA] [PESSOA] doutor",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [PESSOA]. Então o [PESSOA] eu [PESSOA] sei o quão por dentro ele estava disso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4679,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCUTOR 7]: o [PESSOA] assinava assim o [PESSOA] só assinava depois do aval dele. [LOCUTOR 17]: ele tem mais essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5091,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: história.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Marcelo [PESSOA] assumiu ali o lugar do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA]: ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: assumiu e enfim ele está. Ele que fez a contratação do novo projeto ele está desenhando aí se",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: estrutura das empresas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCUTOR 8]: que eu vou fazer? Primeiramente, [PESSOA], eu vou baixar as mites assinadas.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4461,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: pegar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: seu e-mail ali no convite da agenda. Mando para você e para o [PESSOA] todas essas mitos que foram assinadas e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5663,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: pego",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: últimos históricos de meio onde a gente conversou sobre essa parte do workflow de aprovação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCAL] voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: pode alinhar e dentro de falar para a gente. Beleza podem mandar o encerramento a gente coloca ali que vai ser continuado no banco de horas. A gente fecha essa parte porque senão vai ficar uma bola dividida",
+      "mantida": true,
+      "probabilidade_relevancia": 0.558,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 45]: vai atrapalhar o segmento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [LOCUTOR 19]: deixa comigo que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4617,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: fa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 32]: isso e a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: gente... Eu vou te pedir, Marcelo, a partir do momento que você me enviar esses documentos e as mites, eu vou te pedir um prazo de pelo menos uma semana para eu estar avaliando todas elas, porque em paralelo também tem outros suportes [PESSOA]: a gente presta aqui em treinamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Sem problemas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: E a gente acaba tendo o tempo um pouco apertado,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: tá? Fica tranquilo. Depois desse tempo aí que a gente já aguardou uma semaninha aí, fica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5156,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: tranquilo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: dá tempo de você analisar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5651,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: O bebê só estava quase nascendo [PESSOA]: Agora vai gente. Agora a gente finaliza.[PESSOA]: Isso o caso se estiver usando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [PESSOA]: sistema e tiver alguma dúvida com o sistema vocês podem assinar a gente. Você tem um banco de olhos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5507,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Podejoao [PESSOA]: assinar l",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: nojoao [PESSOA]: grupo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: que [PESSOA]: estão tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: questão de horas que a gente tem, a gente tem quantas horas disponíveis só para eu ter controle aqui por gentileza.[PESSOA]: A gente vai puxar com a [PESSOA], a gente puxa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5628,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA] [PESSOA]: a gente passa o e-mail parajoao [PESSOA]: você, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Podejoao [PESSOA]: ser? Pode ser. E vocês, no caso, só para o back-office no módulo financeiro, certo?[PESSOA]: [PESSOA], a gente está tudo no back-office",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: inteiro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: No back-office inteiro? Então,[PESSOA]: por exemplo, se eu quiser tratar com vocês sobre estoque, eu consigo.[PESSOA]: No back-office inteiro. [LOCAL].[PESSOA]: customização, relatório, forma visual, o que você quiser aí tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: É que [PESSOA]: [PESSOA] sei se vocês... é porque assim, vamos puxar mais pra trás agora. É igual assim, a gente tem a tratem com a [PESSOA], [PESSOA] tem mais nada. O faturamento, por exemplo, vocês pararam de usar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.491,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Sim.[PESSOA]: Mas, por exemplo, se vocês quiserem voltar a usar, a gente [PESSOA]: [LOCAL]. oujoao [PESSOA]: qualquer outra coisa da parte linda a gente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: precisa fazer uma integração. Eles podem apoiar também com relação a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: porque eles são como se fosse uma consultoria mesmo que vocês têm contratado. Então precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.503,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: juros a esse investimento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: E [PESSOA] a gente tem um sistema nosso interno de suporte para a criação de chamados. Quem tinha acesso anteriormente era o [PESSOA] ele quem abria chamados. Ali no grupo eu vou te pedir algumas informações aí eu peço para criarem aqui para você o acesso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 45]: aí você pode abrir o chamado ali. Preciso disso disso daquilo. A gente vai retornar. Isso é uma dúvida que a gente vai te responder ali na hora ok ou isso vai gastar. 10 horas de esforço. A gente vai te mandar isso, você vai aprovar ali pelo próprio chamado, a gente vai executar e descontar nessas horas.[PESSOA]: Aproveitamos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5636,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: né? Sejoao [PESSOA]: você quiser um retreinamento em [LOCAL] [PESSOA]: ponto também, a gente, você pode chamar a gente lá, a gente [PESSOA]: marcar, a gente dá retreinamento, entendeu? Qualquer coisa que você tiver, se você precisar de um tóxico, a gente te auxilia. Eu vou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5181,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: pedir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: pra disponibilizar esse acesso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tanto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: pra mim quanto pro [PESSOA], tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 28]: tá [PESSOA]: na nossa reunião, a gente só dá um overview do que foi falado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5779,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: para ele poder se inteirar. Pelo menos ele me mandou [PESSOA]: que [PESSOA] conseguia, [PESSOA] estava conseguindo entrar no link.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5227,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Boa tarde!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Boa tarde! Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [PESSOA]! Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Boa tarde!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Tudo bem,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Boa [PESSOA]: Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tarde! Pessoal, [LOCAL], vou retomar aqui um pouquinho que o [PESSOA] [PESSOA] conseguiu entrar no link, tá? [PESSOA], eu convidei todos para que nós finalizássemos o primeiro projeto",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4487,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: já estava em andamento ali do [LOCAL], que era referente às aprovações. E também para a gente poder seguir com os próximos ajustes e implantações do becofice também. Então nós vamos utilizar da consultoria, que está aqui o pessoal da Bão Grátis, os dois [PESSOA], o [PESSOA] e o Marcelo. E aí eles vão contextualizar só um pouquinho para você entender, porque como era o [PESSOA] que ficava à frente disso, No final foi interrompido. E até eu estava explicando aqui para o [PESSOA] que é o seguinte. Como eles são uma empresa homologada pela [LOCAL]. Eles precisam enviar as documentações para a [LOCAL] e aí sim a [LOCAL] faz o repasse.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5505,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [LOCUTOR 6]: o pagamento para eles. Então eles estão há um [LOCAL] tempo sem receber esse repasse. A gente precisa de fato concluir claro desde que vocês estejam ali com o processo de aprovação completo e isso ele vai e ficou de enviar o Marcelo vai enviar os documentos para o [PESSOA] também se inteirado que foi feito e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: depois iniciar o novo projeto. Marcelo contextualiza de uma forma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Vamos lá. Prazer [PESSOA]. Meu nome é Marcelo sou gerente de projetos aqui na Bão Grátis Ford. Como [PESSOA] falou a gente uma empresa homologada pela [LOCAL] para poder fazer implantação. suporte desenvolvimento e várias outras coisas que a gente atua como parceiros da [EMPRESA] há muitos anos. A [PESSOA] está com a gente há muito tempo desde a época lá do saúde depois ali a parte desse projeto de escopo fechado que entrou para a implantação do financeiro e parte do back office.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [LOCUTOR 2]: gente na época quem estava era o [PESSOA] que eu entendi que você está no lugar dele agora. [LOCAL]. [LOCUTOR 40]: [PESSOA] sou do [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4924,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Isso do [PESSOA] na verdade. e o [PESSOA] também que saiu que era também um ex consultor a gente trocou muito ali ele conhecia muito bem o sistema. Só que a gente travou a gente fez todo como que funciona. [PESSOA] sei se vocês conhecem como funciona a metodologia de implantação da [EMPRESA]. A gente passa por vários marcos a gente só passa de fase. se o cliente está concordando com a fase anterior. Esse concordar é através de uma assinatura de um documento. Fizemos o kickoff, mandamos um documento, vocês assinam, a gente passa pra levantamento. Fizemos o levantamento, vocês concordam com aquilo que a gente entrevistou vocês, a gente entendeu o processo, vamos passar pra fase de implantação, de parametrização e capacitação dos usuários. Capacitamos vocês, concordaram com a capacitação, estão cientes, o usuário Chave replicou isso pros outros usuários, passamos pra próxima fase.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [LOCUTOR 2]: gente chegou na última fase desse projeto a gente deu o [EMPRESA] que é a penúltima a última fase é o encerramento e esse encerramento acontece depois do [EMPRESA] começa uma fase que chama operação assistida e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: ela vocês têm 80 horas e tem de 45 a 60 dias para ser usado dependendo do contrato. Mas isso passou muito mais tempo. só agarrou por um detalhe que é que era uma definição interna de como seria o workflow de aprovação de vocês. Eu [PESSOA] sei o quanto você ficou sabendo disso mas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [PESSOA] no detalhe mas vou encurtar o caminho aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4567,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: pode fazer. Minha sugestão [PESSOA] e Marcelo a gente faz a validação do que foi feito até agora sobre o workflow de aprovação, que querendo ou [PESSOA], existe hoje um workflow implantado e eu participo dele e ele está funcionando. [PESSOA] acredito que ele atenda ao que a gente precise, mas vou separar aqui a conversa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [LOCUTOR 29]: uma parte foi feita, foi implantado, o pessoal foi treinado, então o pessoal está solicitando, tem ordem de solicitação de compra, ordem de compra, passa por um workflow seguindo o que foi determinado na época. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [PESSOA], a gente pode avançar com o documento e aí eu faço a validação do documento do que foi implantado e a gente já retoma, Marcelo, aí sim com uma conversa mais assertiva sobre o que precisamos fazer para a nova configuração. Então a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: teve",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: uma série de mudanças. mudanças aqui, mudanças estruturais nas unidades, mudança até no próprio contrato, né, [PESSOA], para poder cobrir com todos os usuários que a gente precisa que agora participe desse fluxo. A gente teve mudanças de diretrizes operacionais, que requer, aí sim, da nossa parte também, com a ajuda de vocês, uma configuração, parametrização correta do sistema. Por exemplo, a gente passa a ter estoque centralizado para uma série de conjuntos de itens, que antes era estoque nas unidades, que nem era estoque, era demandado direto por unidade, agora a gente passa a ter um estoque central. Então, isso muda um pouco os fluxos, ou muda o parâmetro do workflow. Acho que o workflow é o mesmo, só que a gente tem que parametrizar corretamente para se adequar à nova estrutura. E ainda tem uma etapa nossa para fazer nessa implantação do novo back-office. a simplificação de cenário de custos, a reconfiguração de plano de contas, a restrição de quais contas são autorizadas para cada perfil. Então tem um trabalho... Vou fazer uma semana de trabalho nossa para que a gente consiga passar para vocês quais são as diretrizes, e aí uma ajuda de vocês a fazer essa parametrização, porque eu pe",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: vocês aqui, Marcelo, faça o [PESSOA] beber água de hidrante, [PESSOA] sei se vocês sabem o que é isso, mas se vocês imaginarem o que é um bebedouro de [LOCAL], já tem uma ideia. Ele vai receber em uma semana aquilo que ele beberia em um ano, mas ele dá conta para que ele tenha uma oportunidade gigante de aceleração de aprendizado sobre todas as questões mais técnicas, coisas que o [PESSOA] já carregava na sua bagagem. de carreira,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: né? Então o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [LOCAL] vai ser a nossa pessoa de referência para todas as atividades. Então eu quero que ele participe com a intensidade de qualquer tipo de atividade que envolva o projeto da TOTUS.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.595,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Para ele entender tanto de negócio quanto de parâmetros e configurações de sistema, porque daí por a frente ele que vai nos assistir com isso. Mas isso é o outro projeto que começa amanhã.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Então, [PESSOA], a gente encerra o primeiro. cumpre com esse requisito, com a [PESSOA], para a gente encerrar o ciclo sem nenhum problema. Pode me encaminhar, [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Marcelo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Dependendo do que organiza, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: É, exato. E a gente estabelece um novo ciclo. Aí eu quero ter uma visão clara da proposta de vocês de implantação desses dois novos módulos. A gente sai de quarteto para sexteto e a gente aproveitar esse momento também para fazer uma... uma reconfiguração de módulos já implantados, ou de fluxos já implantados, já diante desse novo cenário de organizacional e de fluxos que a gente passa. operacionalmente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 37]: aí é uma sessão de trabalho para a gente redefinir com clareza o escopo do novo projeto. E aí o [PESSOA] fica como o responsável de trocar esse projeto com vocês. Então Marcelo ficou mais fácil ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: muito bem em",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4912,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: forma de [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Isso [PESSOA] você chegou aqui muito bem alinhado apesar de você [PESSOA] ter ouvido que a gente conversou é basicamente isso. Hoje vai ficar muito mais fácil pra vocês. A gente tinha um projeto de escopo fechado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4678,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [LOCUTOR 2]: gente precisa só encerrá-lo. É isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5387,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Agora, agora vocês têm um banco de horas. Ele [PESSOA] diz o que vocês têm direito em",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5109,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: contrato.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Vocês têm horas.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: O que for preciso com relação ao [LOCAL], nós vamos atender. Nós temos um sistema de suporte interno da Bão Grátis, onde eu vou criar um usuário para o [PESSOA] e para o [PESSOA] ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [LOCUTOR 18]: vão. A gente pode fazer reuniões para explicar algumas coisas. mais complexas e coisas mais",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4819,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: simples. Preciso da criação de um relatório que faz isso e aquilo. Há um chamado lá vou falar vai gastar x horas. Aprovou beleza a gente entrega desconto as horas e vai fazendo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: isso. E o que eu quero fazer com vocês com o [PESSOA] e o [PESSOA] junto assim para esse próximo projeto de implantação ou de reconfiguração do ambiente para essa nova estrutura que a gente tem. A gente vai montar um projeto e você vai estimar que são 80 horas. Beleza. Então essa eu já reservo para o projeto. Você j",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: tem atores aí para trazer para a gente o que precisa ser feito. Você vai montar isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.58,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Eu preciso de ter um olhar técnico sobre o que precisa ser feito. Eu vou te passar a dor de negócio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: precisar mudar é isso. E aí vocês estruturam do ponto de vista técnico que precisa ser feito. Estima a quantidade de horas que precisa para esse trabalho. [PESSOA] e [PESSOA] acompanham com vocês. E aí a gente fica gerenciando esse banco de horas para outros atendimentos. Mas eu [PESSOA] quero comer no banco antes de fazer o que precisa ser feito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6002,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: O Marcelo então organiza essa questão da documentação aí para já despertar. E aí [PESSOA] até comentei aqui para a gente colocar deixar aquele grupo bem ativo e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: centralizado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: com as informações para elas [PESSOA] se perderem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: até",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: para você também acompanhando o que está sendo feito ali. E depois vocês vão, pessoal, de acordo com o que for reestruturado com o [PESSOA] ali internamente na questão organizacional da empresa, fazer essa reconfiguração. Então ficamos aí com algumas pendências de entrega e seguimos com o novo projeto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: [LOCAL]. E vamos fazer isso o quanto antes essa semana, [PESSOA], para a gente ter essa ideia de trabalho de definição do projeto. Porque eu sei que o Marcelo vai precisar de alguns dias para poder configurar tecnicamente o projeto, então quanto antes de conversar fica mais claro. a gente vai ter uma conversa com o [PESSOA] para passar para ele, [PESSOA], todas as letras de negócio e a gente fica mais alinhado entre nós para j",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: ficar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: preparado para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: conduzir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: esse desenho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: do projeto. [LOCAL], aí você só precisa escolher como vai ficar e nós organizamos do lado de cá também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5964,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Tá [LOCAL], perfeito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Combinado, obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Marcelo, seu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: documento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [LOCUTOR 5]: deixar a gente espera que dê tudo certo e com essa parceria com novas pessoas dentro da alma e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5104,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 45]: seguimos em frente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Vai dar certo sim. Tem jeito de dar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4059,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: errado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Obrigado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 45]: pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

@@ -1,0 +1,1273 @@
+{
+  "id_reuniao": "1005600",
+  "codt": "TFDMZN",
+  "data_reuniao": "2026-02-04 16:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "POOL DE CONTAS",
+  "segmento": "SERVICOS",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 2]: Fala, [PESSOA].\n[LOCUTOR 4]: [EMPRESA], [PESSOA], tudo bem?\n[LOCUTOR 2]: Beleza. Aqui o Totos, consultor de vendas, não sei se é o\n[LOCUTOR 4]: seu\n[LOCUTOR 2]: lado ou é o assistente de IA dele aí.\n[LOCUTOR 4]: Exatamente, é a opção 2. Eu não tinha notado que o convite era dele porque ele inclusive me avisou que ele não vai entrar, então só\n[LOCUTOR 2]: tem... E\n[LOCUTOR 4]: eu não consigo tirar, então não\n[LOCUTOR 2]: sei se\n[LOCUTOR 4]: te incomoda isso.\n[LOCUTOR 2]: Tudo bem? Tudo bem. A gente só não pode falar mal dele, né?\n[LOCUTOR 4]: É, uma boa.\n[LOCUTOR 2]: Tá\n[LOCUTOR 4]: bom.\n[LOCUTOR 2]: Mas o [EMPRESA] pode pagar um churrasco pra nós aí quando tiver a primeira oportunidade. Pode ficar anotado aí pra introduzir.\n[LOCUTOR 4]: E fique registrado.\n[LOCUTOR 2]: Mas dito isso, [PESSOA], minha grande preocupação, não dá nem pra dizer que é a grande preocupação, mas uma delas, é saber como é que a gente vai fazer a gestão das contas, né? Quando for o momento da gente juntar [LOCAL] e [LOCAL] com o [LOCAL], sendo no nosso ambiente antigo ou nesse ambiente novo que foi proporcionado pela TOTUS para esse desenvolvimento?\n[LOCUTOR 4]: É, minha primeira pergunta era exatamente, acho que você acabou de responder, quais operações precisamos migrar? São só essas duas? [LOCAL] e [LOCAL]?\n[LOCUTOR 2]: A gente tem outros sites também nessa mesma estrutura, só que nenhuma delas é transacional ainda.\n[LOCUTOR 4]: Então,\n[LOCUTOR 2]: a gente tem duas lojas que funcionam, que têm faturamentos importantes, e mais acho que sites da [LOCAL], [LOCAL], Não sei se tem mais alguma.\n[LOCUTOR 4]: Talvez é [LOCAL]. No [EMPRESA] aqui tem [LOCAL], tem [LOCAL], [LOCAL], [LOCAL]. Tudo isso,\n[LOCUTOR 2]: além de\n[LOCUTOR 4]: [LOCAL] e [LOCAL], né?\n[LOCUTOR 2]: Tu tá olhando no Madeza.com?\n[LOCUTOR 4]: Madeza.com, que tá no ar hoje do [LOCAL]. No [EMPRESA] tem a [LOCAL], aí tem MX e [LOCAL], que é o que nós falamos, e além desses tem [LOCAL], [LOCAL], [LOCAL] e [LOCAL].\n[LOCUTOR 2]: Então é isso aí. Cada um deles é um site. Cara, deixa eu transmitir\n[LOCUTOR 4]: a\n[LOCUTOR 2]: minha tela aqui só pra confirmar uma coisa. Eu tô no meu ambiente [LOCAL] aqui, tá? Aqui eu enxergo somente [LOCAL] e [LOCAL]. Agora, isso pode ser algum nível de permissão meu, inclusive, do meu usuário.\n[LOCUTOR 4]: Pode ser. Vai nos configurações ali embaixo, por favor.\n[LOCUTOR 2]: É,\n[LOCUTOR 4]: com certeza. Você não é o dono. Contrata e não aparece. Ah, lá tem 12 canvas. As outras você não\n[LOCUTOR 2]: enxerga. Mas, enfim, são sites que a gente não pode perder o conteúdo, não pode perder o URL, mas não existe risco financeiro.\n[LOCUTOR 4]: Tá bom. Bom, então, vamos lá. Cara, migrar o ambiente é assim. Primeiro, eu entendo a relevância pra você, né? Porque você tá pagando dois plus, né? Ou vai começar a pagar, na verdade, porque ainda você tá\n[LOCUTOR 2]: no\n[LOCUTOR 4]: período de\n[LOCUTOR 2]: carência,\n[LOCUTOR 4]: né? A migração do ambiente\n[LOCUTOR 2]: é\n[LOCUTOR 4]: exportar o tema da loja, importar. numa loja nova dentro do ambiente do [LOCAL], eu penso que o ambiente do [LOCAL] seja o melhor pra você manter, porque é onde você tem seus benefícios aí, né, que você vai conseguir manter\n[LOCUTOR 2]: depois.\n[LOCUTOR 4]: Então, é, exportar\n[LOCUTOR 2]: tema,\n[LOCUTOR 4]: subir tema. Dá pra exportar catálogo, tudo que a [EMPRESA] dá pra exportar,\n[LOCUTOR 2]: fazer um\n[LOCUTOR 4]: importe\n[LOCUTOR 2]: rapidinho,\n[LOCUTOR 4]: claro. Nada é tão simples assim, tem umas coisas que a gente precisa refazer, etc. Mas, basicamente, esse é o trabalho\n[LOCUTOR 2]: forte.\n[LOCUTOR 4]: O que preocupa? A gente tem que refazer conexão com os parceiros, né? Lei de pagamento, logística, toda\n[LOCUTOR 2]: essa\n[LOCUTOR 4]: coisa. O que preocupa é a conexão com o\n[LOCUTOR 2]: back-office.\n[LOCUTOR 4]: O que você\n[LOCUTOR 2]: tem com\n[LOCUTOR 4]: o [EMPRESA], com ferramenta de CRM, etc. Para entender qual é o trabalho\n[LOCUTOR 2]: de\n[LOCUTOR 4]: trocar conector. se é API, se está dentro da tua infraestrutura que é baseada na [LOCAL] e barra de intermítio ou se não tem nada a ver com isso. Era isso que a gente precisava entender para\n[LOCUTOR 2]: saber\n[LOCUTOR 4]: aonde vai dar trabalho fazer essa transferência,\n[LOCUTOR 2]: entendeu? Entendi. A [LOCAL], eu te garanto 100%, não usa [LOCAL]. A gente trabalha direto com o operador logístico lá, então o pedido entra aqui, ele tem algum tipo de tratamento simples e já vai direto para lá. Agora, [LOCAL], eu acho que tem alguma coisa de [PESSOA], mas também não tenho certeza se é um [EMPRESA], [LOCAL] do [LOCAL]. São cenários também mais complexos lá. Cara, o que eu entendo? A gente vai ter que falar, botar aí os nossos técnicos também pra entender. Aquilo que tu mencionou sobre manter como principal ambiente trazer as outras contas para o ambiente novo, esse que a TOTOS proporcionou. Sim, beleza, benefícios, mas esse benefício ele vai morrer\n[LOCUTOR 4]: agora.\n[LOCUTOR 2]: já nos próximos\n[LOCUTOR 4]: meses. É, mas ele é vinculado a um contrato de três\n[LOCUTOR 2]: anos, né? Ah, eu entendi. Então eu não posso cancelar esse contrato novo porque é uma conta\n[LOCUTOR 4]: nova. E até onde eu me lembro, você tinha renovado o [LOCAL] um ano só, então você tem o FII um pouco maior, né? Então, por isso que eu penso que o [LOCAL] seja melhor para você. Vai reduzir um pouquinho do teu Take Rate [LOCAL]-[LOCAL]. Se você não passou do ponto de sair do FII fixo para o\n[LOCUTOR 2]: variável, Vai\n[LOCUTOR 4]: reduzir fixo, né? É, então agora vai com toda certeza. Então é isso, vai\n[LOCUTOR 2]: reduzir\n[LOCUTOR 4]: de 0,40 para 0,35. Tá. Pra tua operação é um número.\n[LOCUTOR 2]: Com certeza.\n[LOCUTOR 4]: Então, vale mais a pena,\n[LOCUTOR 2]: né? Beleza. Cara, então assim, ó. Te ajuda se eu tentar levantar algum tipo de desenho aí do que que tá integrado?\n[LOCUTOR 4]: [LOCAL], ajuda sim. E aí a gente\n[LOCUTOR 2]: pode\n[LOCUTOR 4]: fazer tanto, por exemplo, a gente, eu já passei para você ali o modelo do ongoing,\n[LOCUTOR 2]: né?\n[LOCUTOR 4]: Então, a gente pode fazer como se fosse um atendimento de horas de ongoing ali, fazer essas transferências para você, desde que a gente entenda que não vai haver grandes desenvolvimentos, quer realmente exportar, importar, testar, validar,\n[LOCUTOR 2]: configurar.\n[LOCUTOR 4]: Agora, se não fizer sentido, porque vai acabar usando mais o ongoing do que deveria e vai\n[LOCUTOR 2]: te\n[LOCUTOR 4]: apertar para outras coisas mais importantes, aí a gente passa uma estimativa de esforço e alguma coisa extra, escopo do que a gente já tem com você. Caso contrário, tudo bem que a gente ainda não está com o ongoing fechado,\n[LOCUTOR 2]: mas\n[LOCUTOR 4]: Enfim, se for a tua intenção, a gente pode seguir nesse\n[LOCUTOR 2]: modelo, tá? Beleza. E ainda tem uma outra alçada aí que eu acho que é a TOTOS. Trazer pra mesa, porque beleza, a gente construiu desse formato por uma condição da TOTOS,\n[LOCUTOR 4]: querendo ou não.\n[LOCUTOR 2]: Dentro da parceria, por ser contabilizar na meta de um novo contrato, enfim. Já era que a gente [EMPRESA] toda aquela condição. Então, acho que a TOTOS aí pode nos apoiar também nesse sentido de bonificar para vocês, né? [PESSOA] para nós e acertar com vocês aí esse desenvolvimento se for muito custoso.\n[LOCUTOR 4]: É, aí eu não sei. O consultor de vendas está escutando aqui, mas eu não posso responder por ele. [LOCAL]. Realmente tem que ver com eles. Mas do nosso lado, assim,\n[LOCUTOR 2]: realmente\n[LOCUTOR 4]: exportar, importar, configurar, etc. é algo que é suportado no escopo do\n[LOCUTOR 2]: ongoing\n[LOCUTOR 4]: e se\n[LOCUTOR 2]: for,\n[LOCUTOR 4]: fizer sentido,\n[LOCUTOR 2]: n\n[LOCUTOR 3]: for prejudicar nas outras demandas que vierem a acontecer, enfim, a gente consegue fazer sem nenhum custo extra para vocês. De novo, a gente ainda não tá com o [LOCAL] fechado, mas considerando que seria essa a\n[LOCUTOR 2]: intenção, tá?\n[LOCUTOR 4]: Beleza.\n[LOCUTOR 2]: [LOCAL]. Se eu já me dá... Então, já vou saindo daqui, eu já aciono o meu time de tecnologia e ver o que tá conectado em que,\n[LOCUTOR 4]: como,\n[LOCUTOR 2]: enfim. Quais são as ferramentas que são diferentes do que vocês já estão trabalhando hoje no [LOCAL]. Pra lançar essa informação o quanto antes e a gente definir. Mas beleza, o que eu entendi daqui, pós-GoLive,\n[LOCUTOR 4]: É a melhor, né? Também, estamos próximos. A fase 1, pelo menos,\n[LOCUTOR 2]: né?\n[LOCUTOR 4]: É. Entre\n[LOCUTOR 2]: a fase 1 e a fase 2, acho que seria o\n[LOCUTOR 4]: melhor. Isso. Dá pra fazer, porque, inclusive, o teu ongoing vai estar ativo, você assinando ou não, porque vai estar no ongoing do\n[LOCUTOR 2]: projeto.\n[LOCUTOR 4]: E aí dá pra\n[LOCUTOR 2]: fazer\n[LOCUTOR 4]: isso. Tá? Perfeito. Você falou da fase 1, e era um ponto que eu tava pra te perguntar, como a gente tinha esse ponto, eu esperei. Cara, a gente falou lá atrás sobre a parte\n[LOCUTOR 2]: dos\n[LOCUTOR 4]: pagamentos, do meio de pagamento na [EMPRESA], eu não falei mais com você sobre\n[LOCUTOR 2]: isso,\n[LOCUTOR 4]: aprovado que nosso time esteja falando, mas o que você definiu aí do teu\n[LOCUTOR 2]: lado?\n[LOCUTOR 4]: Questão de orquestrador ou não? Como é que ficou essa\n[LOCUTOR 2]: questão? Mesmo numa reunião antes com o pessoal do [PESSOA], orquestrador a gente não encontrou nenhum que atende, Minha leitura é de que isso não é um problema para a [EMPRESA] até agora ou melhor, não é um problema para os clientes da [EMPRESA] mas\n[LOCUTOR 4]: que\n[LOCUTOR 2]: a tendência é que passe a ser ao longo de 2026 o volume de marcas indo e etc. A gente possivelmente vai ir com o mercado pago como\n[LOCUTOR 4]: adquirente\n[LOCUTOR 2]: e\n[LOCUTOR 4]: antifraude. Era isso que eu queria saber.\n[LOCUTOR 2]: Porque eles já são nossos parceiros. muito tempo. Os centros fracais começaram a nos atender menos bem, e por isso a gente colocou um orquestrador com outro concorrente do lado para direcionar o volume mediante performance de cada um. Só que essa opção B, que era [PESSOA] mais\n[LOCUTOR 4]: [PESSOA],\n[LOCUTOR 2]: não tem a melhor construção de arquitetura dentro de [EMPRESA]. Por quê? o [PESSOA], e segundo o [PESSOA], isso é uma regra para antifraudes dentro da [EMPRESA], só conseguem atuar no pós autorização do gateway com banco. E isso gera perdas de dados para o antifraude trabalhar, enfim, tende a ter uma performance pior. Então isso é um ponto que contou a favor do mercado pago. Ele oferece os dois sozinho, então ele pega e faz tudo do jeito dele. Pega a transação e faz do jeito dele, que é o pré-autorização. E eles também negociando, estamos negociando, eles são com uma taxa melhor do que o do...\n[LOCUTOR 4]: Do\n[LOCUTOR 2]: PregNec.\n[LOCUTOR 4]: É. Na verdade eu ia perguntar pra você sobre a [LOCAL], que eu me lembro\n[LOCUTOR 2]: que\n[LOCUTOR 4]: eu já aproximei vocês. E por que que eu tô perguntando especificamente deles? Porque eles têm um orquestrador, só que é um orquestrador que você\n[LOCUTOR 2]: n\n[LOCUTOR 3]: gerencia como logista, como é o caso da Yuno. Mas ele, na\n[LOCUTOR 2]: verdade,\n[LOCUTOR 4]: é um sub-adquirente, né, do\n[LOCUTOR 2]: [PESSOA].\n[LOCUTOR 4]: E ele usa mais de um adquirente, ele tem um sistema de IA,\n[LOCUTOR 2]: enfim.\n[LOCUTOR 4]: O ponto é, ele\n[LOCUTOR 2]: consegue,\n[LOCUTOR 4]: pelo menos dados históricos, ter uma taxa de\n[LOCUTOR 2]: aprovaç\n[LOCUTOR 3]: um pouco mais eficiente sobre demais concorrentes. E aí, eu me lembro que você comentou que a taxa deles parecia ter sido interessante. Então, por isso, a minha dúvida\n[LOCUTOR 2]: se... N\n[LOCUTOR 3]: ficou. Ah,\n[LOCUTOR 2]: não? A gente recebeu eles aqui, o [PESSOA] encontrou... a fundadora,\n[LOCUTOR 4]: [PESSOA]?\n[LOCUTOR 2]: [PESSOA]. [PESSOA]. Na NRF, enfim, fizeram alguns contatos. E só que realmente a taxa ficou cara também. Entendi. Ah, beleza. A gente tem a proposta do produto. O [LOCAL] também é subadquirente, também trabalha com vários adquirentes, inclusive a sua própria. Só que não chegaram em custo e, beleza, tem algo a negociar ainda, mas a gente Tá mudando muita coisa, né? Então, a gente ir pra um parceiro que a gente não trabalhou ainda era mais um risco que a gente preferiu não assumir agora.\n[LOCUTOR 4]: Não quer\n[LOCUTOR 2]: dizer que ao longo de 2026 a gente não reabra essa conversa. Mas nesse momento, a gente optou por permanecer com alguém que... Com os defeitos de quem a gente já conhece.\n[LOCUTOR 4]: É bom. Não, faz todo sentido, inclusive. É que ficou esse ponto meio que de preocupação na minha cabeça,\n[LOCUTOR 2]: assim.\n[LOCUTOR 4]: Que a gente tinha que ter resolvido e tal, agora a gente tá próximo de lançar. e eu não falei mais com\n[LOCUTOR 2]: você. É\n[LOCUTOR 4]: isso que eu queria perguntar. Mas, pô, claro, faz tanto sentido.\n[LOCUTOR 2]: Melhor\n[LOCUTOR 4]: gerenciar\n[LOCUTOR 2]: risco, né?\n[LOCUTOR 4]: Porém, o pessoal\n[LOCUTOR 2]: da [LOCAL] de hoje nos apresentou uma oportunidade de a gente construir um middleware, através de vocês, que faça essa orquestração. Primeiro, num primeiro momento, para que a autorização do antifraude pudesse ser feita no pré-autorização do gateway com o banco. e num segundo momento pra botar um gateway contra o outro, ver quem é que tá com melhor performance e assim definir as regras. Falei, cara, quero saber mais dessa ideia que eles conseguiram através de um outro cliente, que com uma outra agência desenvolveram isso. Quero saber mais dessa ideia. Não é algo que a gente vai botar de pé agora pra migração, mas para o futuro, com certeza, a gente quer conhecer mais. Ele foi pegar algumas autorizações lá com o cliente deles pra nos trazer documentação, o escopo desse middleware, pra daí a gente discutir isso com vocês.\n[LOCUTOR 4]: Tá, legal. Perfeito. Vamos conversar. [LOCAL]. Que bom que já estamos com isso bem encaminhado, então, que eu tava realmente com esse\n[LOCUTOR 2]: ponto na cabeça.\n[LOCUTOR 4]: Então, você me passa aí você trouxer do time técnico dessas outras operações e a gente começa a fazer um plano ali pra trazer as operações entre agora, no mês de março, digamos\n[LOCUTOR 2]: assim,\n[LOCUTOR 4]: né? A gente consegue\n[LOCUTOR 2]: fazer\n[LOCUTOR 4]: isso.\n[LOCUTOR 2]: Tá bom. Combinado. Beleza?\n[LOCUTOR 4]: Beleza. Em março, 10 de março, vai ter a [LOCAL] em [LOCAL].\n[LOCUTOR 2]: N\n[LOCUTOR 3]: sei se você já viu o que vai rolar nesse\n[LOCUTOR 2]: evento. Vou\n[LOCUTOR 4]: passar o link aqui no\n[LOCUTOR 2]: chat.\n[LOCUTOR 4]: Vou passar no WhatsApp melhor, que aí você não\n[LOCUTOR 2]: perde.\n[LOCUTOR 4]: Nós estamos patrocinando a [PESSOA] com esse ano. Vamos fazer o circuito todo. [LOCAL] é o primeiro\n[LOCUTOR 2]: evento.\n[LOCUTOR 4]: Então se você quiser ir, quiser mandar teu time, enfim, a gente tem bastante convite. Me fala o\n[LOCUTOR 2]: que eu\n[LOCUTOR 4]: faço aqui pra\n[LOCUTOR 2]: vocês,\n[LOCUTOR 4]: tá? \n[LOCUTOR 1]: eu colocar\n[LOCUTOR 4]: aqui\n[LOCUTOR 2]: no\n[LOCUTOR 4]: WhatsApp. Legal. Inclusive o Ângele vai falar. Eu acho que a [PESSOA] vai falar\n[LOCUTOR 2]: também.\n[LOCUTOR 4]: Vai ter bastante gente falando\n[LOCUTOR 2]: de chocolate. Ah, interessante.\n[LOCUTOR 4]: Boa.\n[LOCUTOR 2]: De repente, se tiver algum tema aí, assim, a gente nunca foi muito aberto a palestras, a ser palestrante e etc. [PESSOA] volta e meia faz, assim, mas quase não tem a ver com econômica. Só que algumas ideias a gente tá mudando. Principalmente porque a gente tem que aparecer como marca inovadora, marca preocupada com tecnologia, etc. Então, se houver espaço, se houver interesse, algum tema específico, Manda pra mim que eu discuto direto com o [PESSOA]. Falar disso aqui pra nós é bom. A gente define alguém aqui, se houver esse espaço aí, essa necessidade lá de vocês.\n[LOCUTOR 4]: [PESSOA], é muito bom saber, cara. Eu não vou mentir, a gente pensou em vocês, evidentemente, mas como a gente ainda não teve o Golive... Ah,\n[LOCUTOR 2]: sim,\n[LOCUTOR 4]: sim. Uma coisa de cada vez, né? E ainda eu não sabia se vocês iam receber bem esse convite antes de estar cooperação lá, né? Que é mais\n[LOCUTOR 2]: importante.\n[LOCUTOR 4]: Por isso eu não fiz o convite, mas é muito bom\n[LOCUTOR 2]: saber.\n[LOCUTOR 4]: Honestamente, eu acho que é um peso muito grande para ver vocês assim, para falar sobre um tema específico, o\n[LOCUTOR 2]: [PESSOA].\n[LOCUTOR 4]: E, cara, vai ter oportunidade. Nós vamos estar no [EMPRESA] esse ano de novo. No [EMPRESA] não tem oportunidade,\n[LOCUTOR 2]: ent\n[LOCUTOR 3]: dá para a gente conversar sobre isso durante o ano, com\n[LOCUTOR 2]: certeza. Tá bom? Boa. A gente tem um... aqui falando o [PESSOA]. marqueteiro e pensando em assessoria de imprensa,\n[LOCUTOR 4]: né? A gente tem\n[LOCUTOR 2]: um foco grande em aumentar a nossa visibilidade do cuidado que a gente tem com o nosso cliente. Então, se a gente quiser trazer um tema, por exemplo, de I.A. aplicada no encantamento ao cliente, aqui nós temos muita coisa pra falar. Que legal. Isso nos ajuda também, estrategicamente. Boa.\n[LOCUTOR 4]: Fantástico. Muito bom. Beleza. Que bom. Bom saber. Obrigado por avisar. Eu coloco no\n[LOCUTOR 2]: radar aqui. Boa. [LOCAL], [PESSOA]. Até mais\n[LOCUTOR 4]: aí, valeu!",
+  "texto_filtrado": "[LOCUTOR 2]: Fala, [PESSOA].\n[LOCUTOR 2]: Beleza. Aqui o Totos, consultor de vendas, não sei se é o\n[LOCUTOR 2]: lado ou é o assistente de IA dele aí.\n[LOCUTOR 2]: tem... E\n[LOCUTOR 2]: sei se\n[LOCUTOR 4]: te incomoda isso.\n[LOCUTOR 4]: É, uma boa.\n[LOCUTOR 2]: Mas o [EMPRESA] pode pagar um churrasco pra nós aí quando tiver a primeira oportunidade. Pode ficar anotado aí pra introduzir.\n[LOCUTOR 4]: E fique registrado.\n[LOCUTOR 2]: Mas dito isso, [PESSOA], minha grande preocupação, não dá nem pra dizer que é a grande preocupação, mas uma delas, é saber como é que a gente vai fazer a gestão das contas, né? Quando for o momento da gente juntar [LOCAL] e [LOCAL] com o [LOCAL], sendo no nosso ambiente antigo ou nesse ambiente novo que foi proporcionado pela TOTUS para esse desenvolvimento?\n[LOCUTOR 4]: É, minha primeira pergunta era exatamente, acho que você acabou de responder, quais operações precisamos migrar? São só essas duas? [LOCAL] e [LOCAL]?\n[LOCUTOR 2]: A gente tem outros sites também nessa mesma estrutura, só que nenhuma delas é transacional ainda.\n[LOCUTOR 4]: Então,\n[LOCUTOR 2]: a gente tem duas lojas que funcionam, que têm faturamentos importantes, e mais acho que sites da [LOCAL], [LOCAL], Não sei se tem mais alguma.\n[LOCUTOR 4]: Talvez é [LOCAL]. No [EMPRESA] aqui tem [LOCAL], tem [LOCAL], [LOCAL], [LOCAL]. Tudo isso,\n[LOCUTOR 2]: além de\n[LOCUTOR 4]: [LOCAL] e [LOCAL], né?\n[LOCUTOR 2]: Tu tá olhando no Madeza.com?\n[LOCUTOR 4]: Madeza.com, que tá no ar hoje do [LOCAL]. No [EMPRESA] tem a [LOCAL], aí tem MX e [LOCAL], que é o que nós falamos, e além desses tem [LOCAL], [LOCAL], [LOCAL] e [LOCAL].\n[LOCUTOR 2]: minha tela aqui só pra confirmar uma coisa. Eu tô no meu ambiente [LOCAL] aqui, tá? Aqui eu enxergo somente [LOCAL] e [LOCAL]. Agora, isso pode ser algum nível de permissão meu, inclusive, do meu usuário.\n[LOCUTOR 4]: Pode ser. Vai nos configurações ali embaixo, por favor.\n[LOCUTOR 2]: enxerga. Mas, enfim, são sites que a gente não pode perder o conteúdo, não pode perder o URL, mas não existe risco financeiro.\n[LOCUTOR 4]: período de\n[LOCUTOR 2]: carência,\n[LOCUTOR 4]: né? A migração do ambiente\n[LOCUTOR 4]: exportar o tema da loja, importar. numa loja nova dentro do ambiente do [LOCAL], eu penso que o ambiente do [LOCAL] seja o melhor pra você manter, porque é onde você tem seus benefícios aí, né, que você vai conseguir manter\n[LOCUTOR 2]: depois.\n[LOCUTOR 4]: Então, é, exportar\n[LOCUTOR 2]: tema,\n[LOCUTOR 4]: subir tema. Dá pra exportar catálogo, tudo que a [EMPRESA] dá pra exportar,\n[LOCUTOR 2]: fazer um\n[LOCUTOR 4]: importe\n[LOCUTOR 2]: rapidinho,\n[LOCUTOR 4]: claro. Nada é tão simples assim, tem umas coisas que a gente precisa refazer, etc. Mas, basicamente, esse é o trabalho\n[LOCUTOR 2]: forte.\n[LOCUTOR 4]: O que preocupa? A gente tem que refazer conexão com os parceiros, né? Lei de pagamento, logística, toda\n[LOCUTOR 2]: essa\n[LOCUTOR 4]: coisa. O que preocupa é a conexão com o\n[LOCUTOR 2]: back-office.\n[LOCUTOR 4]: O que você\n[LOCUTOR 2]: tem com\n[LOCUTOR 4]: o [EMPRESA], com ferramenta de CRM, etc. Para entender qual é o trabalho\n[LOCUTOR 4]: trocar conector. se é API, se está dentro da tua infraestrutura que é baseada na [LOCAL] e barra de intermítio ou se não tem nada a ver com isso. Era isso que a gente precisava entender para\n[LOCUTOR 2]: saber\n[LOCUTOR 4]: aonde vai dar trabalho fazer essa transferência,\n[LOCUTOR 2]: entendeu? Entendi. A [LOCAL], eu te garanto 100%, não usa [LOCAL]. A gente trabalha direto com o operador logístico lá, então o pedido entra aqui, ele tem algum tipo de tratamento simples e já vai direto para lá. Agora, [LOCAL], eu acho que tem alguma coisa de [PESSOA], mas também não tenho certeza se é um [EMPRESA], [LOCAL] do [LOCAL]. São cenários também mais complexos lá. Cara, o que eu entendo? A gente vai ter que falar, botar aí os nossos técnicos também pra entender. Aquilo que tu mencionou sobre manter como principal ambiente trazer as outras contas para o ambiente novo, esse que a TOTOS proporcionou. Sim, beleza, benefícios, mas esse benefício ele vai morrer\n[LOCUTOR 4]: agora.\n[LOCUTOR 2]: já nos próximos\n[LOCUTOR 4]: meses. É, mas ele é vinculado a um contrato de três\n[LOCUTOR 2]: anos, né? Ah, eu entendi. Então eu não posso cancelar esse contrato novo porque é uma conta\n[LOCUTOR 4]: nova. E até onde eu me lembro, você tinha renovado o [LOCAL] um ano só, então você tem o FII um pouco maior, né? Então, por isso que eu penso que o [LOCAL] seja melhor para você. Vai reduzir um pouquinho do teu Take Rate [LOCAL]-[LOCAL]. Se você não passou do ponto de sair do FII fixo para o\n[LOCUTOR 2]: variável, Vai\n[LOCUTOR 4]: reduzir fixo, né? É, então agora vai com toda certeza. Então é isso, vai\n[LOCUTOR 2]: reduzir\n[LOCUTOR 4]: de 0,40 para 0,35. Tá. Pra tua operação é um número.\n[LOCUTOR 2]: Com certeza.\n[LOCUTOR 2]: né? Beleza. Cara, então assim, ó. Te ajuda se eu tentar levantar algum tipo de desenho aí do que que tá integrado?\n[LOCUTOR 2]: pode\n[LOCUTOR 4]: fazer tanto, por exemplo, a gente, eu já passei para você ali o modelo do ongoing,\n[LOCUTOR 4]: Então, a gente pode fazer como se fosse um atendimento de horas de ongoing ali, fazer essas transferências para você, desde que a gente entenda que não vai haver grandes desenvolvimentos, quer realmente exportar, importar, testar, validar,\n[LOCUTOR 2]: configurar.\n[LOCUTOR 4]: Agora, se não fizer sentido, porque vai acabar usando mais o ongoing do que deveria e vai\n[LOCUTOR 4]: apertar para outras coisas mais importantes, aí a gente passa uma estimativa de esforço e alguma coisa extra, escopo do que a gente já tem com você. Caso contrário, tudo bem que a gente ainda não está com o ongoing fechado,\n[LOCUTOR 4]: Enfim, se for a tua intenção, a gente pode seguir nesse\n[LOCUTOR 2]: modelo, tá? Beleza. E ainda tem uma outra alçada aí que eu acho que é a TOTOS. Trazer pra mesa, porque beleza, a gente construiu desse formato por uma condição da TOTOS,\n[LOCUTOR 2]: Dentro da parceria, por ser contabilizar na meta de um novo contrato, enfim. Já era que a gente [EMPRESA] toda aquela condição. Então, acho que a TOTOS aí pode nos apoiar também nesse sentido de bonificar para vocês, né? [PESSOA] para nós e acertar com vocês aí esse desenvolvimento se for muito custoso.\n[LOCUTOR 4]: É, aí eu não sei. O consultor de vendas está escutando aqui, mas eu não posso responder por ele. [LOCAL]. Realmente tem que ver com eles. Mas do nosso lado, assim,\n[LOCUTOR 2]: realmente\n[LOCUTOR 4]: exportar, importar, configurar, etc. é algo que é suportado no escopo do\n[LOCUTOR 2]: ongoing\n[LOCUTOR 4]: fizer sentido,\n[LOCUTOR 3]: for prejudicar nas outras demandas que vierem a acontecer, enfim, a gente consegue fazer sem nenhum custo extra para vocês. De novo, a gente ainda não tá com o [LOCAL] fechado, mas considerando que seria essa a\n[LOCUTOR 2]: intenção, tá?\n[LOCUTOR 2]: [LOCAL]. Se eu já me dá... Então, já vou saindo daqui, eu já aciono o meu time de tecnologia e ver o que tá conectado em que,\n[LOCUTOR 2]: enfim. Quais são as ferramentas que são diferentes do que vocês já estão trabalhando hoje no [LOCAL]. Pra lançar essa informação o quanto antes e a gente definir. Mas beleza, o que eu entendi daqui, pós-GoLive,\n[LOCUTOR 4]: É a melhor, né? Também, estamos próximos. A fase 1, pelo menos,\n[LOCUTOR 4]: É. Entre\n[LOCUTOR 2]: a fase 1 e a fase 2, acho que seria o\n[LOCUTOR 4]: melhor. Isso. Dá pra fazer, porque, inclusive, o teu ongoing vai estar ativo, você assinando ou não, porque vai estar no ongoing do\n[LOCUTOR 2]: projeto.\n[LOCUTOR 4]: E aí dá pra\n[LOCUTOR 2]: fazer\n[LOCUTOR 4]: isso. Tá? Perfeito. Você falou da fase 1, e era um ponto que eu tava pra te perguntar, como a gente tinha esse ponto, eu esperei. Cara, a gente falou lá atrás sobre a parte\n[LOCUTOR 4]: pagamentos, do meio de pagamento na [EMPRESA], eu não falei mais com você sobre\n[LOCUTOR 2]: isso,\n[LOCUTOR 4]: aprovado que nosso time esteja falando, mas o que você definiu aí do teu\n[LOCUTOR 2]: lado?\n[LOCUTOR 4]: Questão de orquestrador ou não? Como é que ficou essa\n[LOCUTOR 2]: questão? Mesmo numa reunião antes com o pessoal do [PESSOA], orquestrador a gente não encontrou nenhum que atende, Minha leitura é de que isso não é um problema para a [EMPRESA] até agora ou melhor, não é um problema para os clientes da [EMPRESA] mas\n[LOCUTOR 2]: a tendência é que passe a ser ao longo de 2026 o volume de marcas indo e etc. A gente possivelmente vai ir com o mercado pago como\n[LOCUTOR 4]: adquirente\n[LOCUTOR 4]: antifraude. Era isso que eu queria saber.\n[LOCUTOR 2]: Porque eles já são nossos parceiros. muito tempo. Os centros fracais começaram a nos atender menos bem, e por isso a gente colocou um orquestrador com outro concorrente do lado para direcionar o volume mediante performance de cada um. Só que essa opção B, que era [PESSOA] mais\n[LOCUTOR 4]: [PESSOA],\n[LOCUTOR 2]: não tem a melhor construção de arquitetura dentro de [EMPRESA]. Por quê? o [PESSOA], e segundo o [PESSOA], isso é uma regra para antifraudes dentro da [EMPRESA], só conseguem atuar no pós autorização do gateway com banco. E isso gera perdas de dados para o antifraude trabalhar, enfim, tende a ter uma performance pior. Então isso é um ponto que contou a favor do mercado pago. Ele oferece os dois sozinho, então ele pega e faz tudo do jeito dele. Pega a transação e faz do jeito dele, que é o pré-autorização. E eles também negociando, estamos negociando, eles são com uma taxa melhor do que o do...\n[LOCUTOR 2]: PregNec.\n[LOCUTOR 4]: eu já aproximei vocês. E por que que eu tô perguntando especificamente deles? Porque eles têm um orquestrador, só que é um orquestrador que você\n[LOCUTOR 3]: gerencia como logista, como é o caso da Yuno. Mas ele, na\n[LOCUTOR 2]: verdade,\n[LOCUTOR 4]: é um sub-adquirente, né, do\n[LOCUTOR 2]: [PESSOA].\n[LOCUTOR 4]: E ele usa mais de um adquirente, ele tem um sistema de IA,\n[LOCUTOR 2]: enfim.\n[LOCUTOR 4]: O ponto é, ele\n[LOCUTOR 2]: consegue,\n[LOCUTOR 4]: pelo menos dados históricos, ter uma taxa de\n[LOCUTOR 2]: aprovaç\n[LOCUTOR 3]: um pouco mais eficiente sobre demais concorrentes. E aí, eu me lembro que você comentou que a taxa deles parecia ter sido interessante. Então, por isso, a minha dúvida\n[LOCUTOR 3]: ficou. Ah,\n[LOCUTOR 2]: não? A gente recebeu eles aqui, o [PESSOA] encontrou... a fundadora,\n[LOCUTOR 4]: [PESSOA]?\n[LOCUTOR 2]: [PESSOA]. [PESSOA]. Na NRF, enfim, fizeram alguns contatos. E só que realmente a taxa ficou cara também. Entendi. Ah, beleza. A gente tem a proposta do produto. O [LOCAL] também é subadquirente, também trabalha com vários adquirentes, inclusive a sua própria. Só que não chegaram em custo e, beleza, tem algo a negociar ainda, mas a gente Tá mudando muita coisa, né? Então, a gente ir pra um parceiro que a gente não trabalhou ainda era mais um risco que a gente preferiu não assumir agora.\n[LOCUTOR 2]: dizer que ao longo de 2026 a gente não reabra essa conversa. Mas nesse momento, a gente optou por permanecer com alguém que... Com os defeitos de quem a gente já conhece.\n[LOCUTOR 4]: É bom. Não, faz todo sentido, inclusive. É que ficou esse ponto meio que de preocupação na minha cabeça,\n[LOCUTOR 4]: Que a gente tinha que ter resolvido e tal, agora a gente tá próximo de lançar. e eu não falei mais com\n[LOCUTOR 2]: você. É\n[LOCUTOR 4]: isso que eu queria perguntar. Mas, pô, claro, faz tanto sentido.\n[LOCUTOR 2]: Melhor\n[LOCUTOR 4]: gerenciar\n[LOCUTOR 2]: risco, né?\n[LOCUTOR 2]: da [LOCAL] de hoje nos apresentou uma oportunidade de a gente construir um middleware, através de vocês, que faça essa orquestração. Primeiro, num primeiro momento, para que a autorização do antifraude pudesse ser feita no pré-autorização do gateway com o banco. e num segundo momento pra botar um gateway contra o outro, ver quem é que tá com melhor performance e assim definir as regras. Falei, cara, quero saber mais dessa ideia que eles conseguiram através de um outro cliente, que com uma outra agência desenvolveram isso. Quero saber mais dessa ideia. Não é algo que a gente vai botar de pé agora pra migração, mas para o futuro, com certeza, a gente quer conhecer mais. Ele foi pegar algumas autorizações lá com o cliente deles pra nos trazer documentação, o escopo desse middleware, pra daí a gente discutir isso com vocês.\n[LOCUTOR 4]: Tá, legal. Perfeito. Vamos conversar. [LOCAL]. Que bom que já estamos com isso bem encaminhado, então, que eu tava realmente com esse\n[LOCUTOR 2]: ponto na cabeça.\n[LOCUTOR 4]: Então, você me passa aí você trouxer do time técnico dessas outras operações e a gente começa a fazer um plano ali pra trazer as operações entre agora, no mês de março, digamos\n[LOCUTOR 4]: né? A gente consegue\n[LOCUTOR 2]: fazer\n[LOCUTOR 4]: isso.\n[LOCUTOR 4]: Beleza. Em março, 10 de março, vai ter a [LOCAL] em [LOCAL].\n[LOCUTOR 3]: sei se você já viu o que vai rolar nesse\n[LOCUTOR 4]: passar o link aqui no\n[LOCUTOR 2]: chat.\n[LOCUTOR 4]: Vou passar no WhatsApp melhor, que aí você não\n[LOCUTOR 2]: perde.\n[LOCUTOR 4]: Nós estamos patrocinando a [PESSOA] com esse ano. Vamos fazer o circuito todo. [LOCAL] é o primeiro\n[LOCUTOR 2]: evento.\n[LOCUTOR 4]: Então se você quiser ir, quiser mandar teu time, enfim, a gente tem bastante convite. Me fala o\n[LOCUTOR 2]: que eu\n[LOCUTOR 4]: faço aqui pra\n[LOCUTOR 4]: aqui\n[LOCUTOR 4]: WhatsApp. Legal. Inclusive o Ângele vai falar. Eu acho que a [PESSOA] vai falar\n[LOCUTOR 2]: também.\n[LOCUTOR 4]: Vai ter bastante gente falando\n[LOCUTOR 2]: de chocolate. Ah, interessante.\n[LOCUTOR 2]: De repente, se tiver algum tema aí, assim, a gente nunca foi muito aberto a palestras, a ser palestrante e etc. [PESSOA] volta e meia faz, assim, mas quase não tem a ver com econômica. Só que algumas ideias a gente tá mudando. Principalmente porque a gente tem que aparecer como marca inovadora, marca preocupada com tecnologia, etc. Então, se houver espaço, se houver interesse, algum tema específico, Manda pra mim que eu discuto direto com o [PESSOA]. Falar disso aqui pra nós é bom. A gente define alguém aqui, se houver esse espaço aí, essa necessidade lá de vocês.\n[LOCUTOR 4]: sim. Uma coisa de cada vez, né? E ainda eu não sabia se vocês iam receber bem esse convite antes de estar cooperação lá, né? Que é mais\n[LOCUTOR 2]: importante.\n[LOCUTOR 2]: saber.\n[LOCUTOR 4]: Honestamente, eu acho que é um peso muito grande para ver vocês assim, para falar sobre um tema específico, o\n[LOCUTOR 2]: [PESSOA].\n[LOCUTOR 4]: E, cara, vai ter oportunidade. Nós vamos estar no [EMPRESA] esse ano de novo. No [EMPRESA] não tem oportunidade,\n[LOCUTOR 3]: dá para a gente conversar sobre isso durante o ano, com\n[LOCUTOR 2]: certeza. Tá bom? Boa. A gente tem um... aqui falando o [PESSOA]. marqueteiro e pensando em assessoria de imprensa,\n[LOCUTOR 4]: né? A gente tem\n[LOCUTOR 2]: um foco grande em aumentar a nossa visibilidade do cuidado que a gente tem com o nosso cliente. Então, se a gente quiser trazer um tema, por exemplo, de I.A. aplicada no encantamento ao cliente, aqui nós temos muita coisa pra falar. Que legal. Isso nos ajuda também, estrategicamente. Boa.\n[LOCUTOR 4]: aí, valeu!",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:00.249107+00:00",
+    "total_linhas": 208,
+    "linhas_mantidas": 155,
+    "linhas_removidas": 53,
+    "percentual_mantido": 74.52,
+    "confianca_media": 0.4906
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: Fala, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [EMPRESA], [PESSOA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Beleza. Aqui o Totos, consultor de vendas, não sei se é o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: seu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: lado ou é o assistente de IA dele aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Exatamente, é a opção 2. Eu não tinha notado que o convite era dele porque ele inclusive me avisou que ele não vai entrar, então só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4092,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tem... E",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: eu não consigo tirar, então não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: sei se",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: te incomoda isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tudo bem? Tudo bem. A gente só não pode falar mal dele, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4097,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É, uma boa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4686,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Mas o [EMPRESA] pode pagar um churrasco pra nós aí quando tiver a primeira oportunidade. Pode ficar anotado aí pra introduzir.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: E fique registrado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Mas dito isso, [PESSOA], minha grande preocupação, não dá nem pra dizer que é a grande preocupação, mas uma delas, é saber como é que a gente vai fazer a gestão das contas, né? Quando for o momento da gente juntar [LOCAL] e [LOCAL] com o [LOCAL], sendo no nosso ambiente antigo ou nesse ambiente novo que foi proporcionado pela TOTUS para esse desenvolvimento?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É, minha primeira pergunta era exatamente, acho que você acabou de responder, quais operações precisamos migrar? São só essas duas? [LOCAL] e [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5628,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: A gente tem outros sites também nessa mesma estrutura, só que nenhuma delas é transacional ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: a gente tem duas lojas que funcionam, que têm faturamentos importantes, e mais acho que sites da [LOCAL], [LOCAL], Não sei se tem mais alguma.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4608,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Talvez é [LOCAL]. No [EMPRESA] aqui tem [LOCAL], tem [LOCAL], [LOCAL], [LOCAL]. Tudo isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5023,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: além de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCAL] e [LOCAL], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tu tá olhando no Madeza.com?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5414,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Madeza.com, que tá no ar hoje do [LOCAL]. No [EMPRESA] tem a [LOCAL], aí tem MX e [LOCAL], que é o que nós falamos, e além desses tem [LOCAL], [LOCAL], [LOCAL] e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5542,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Então é isso aí. Cada um deles é um site. Cara, deixa eu transmitir",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4344,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: minha tela aqui só pra confirmar uma coisa. Eu tô no meu ambiente [LOCAL] aqui, tá? Aqui eu enxergo somente [LOCAL] e [LOCAL]. Agora, isso pode ser algum nível de permissão meu, inclusive, do meu usuário.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Pode ser. Vai nos configurações ali embaixo, por favor.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4825,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: com certeza. Você não é o dono. Contrata e não aparece. Ah, lá tem 12 canvas. As outras você não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4401,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: enxerga. Mas, enfim, são sites que a gente não pode perder o conteúdo, não pode perder o URL, mas não existe risco financeiro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tá bom. Bom, então, vamos lá. Cara, migrar o ambiente é assim. Primeiro, eu entendo a relevância pra você, né? Porque você tá pagando dois plus, né? Ou vai começar a pagar, na verdade, porque ainda você tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4396,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: período de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: carência,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: né? A migração do ambiente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: exportar o tema da loja, importar. numa loja nova dentro do ambiente do [LOCAL], eu penso que o ambiente do [LOCAL] seja o melhor pra você manter, porque é onde você tem seus benefícios aí, né, que você vai conseguir manter",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5717,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: depois.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então, é, exportar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tema,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: subir tema. Dá pra exportar catálogo, tudo que a [EMPRESA] dá pra exportar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5169,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: fazer um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: importe",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: rapidinho,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: claro. Nada é tão simples assim, tem umas coisas que a gente precisa refazer, etc. Mas, basicamente, esse é o trabalho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: forte.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: O que preocupa? A gente tem que refazer conexão com os parceiros, né? Lei de pagamento, logística, toda",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5738,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: coisa. O que preocupa é a conexão com o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5372,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: back-office.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: O que você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tem com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: o [EMPRESA], com ferramenta de CRM, etc. Para entender qual é o trabalho",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: trocar conector. se é API, se está dentro da tua infraestrutura que é baseada na [LOCAL] e barra de intermítio ou se não tem nada a ver com isso. Era isso que a gente precisava entender para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: saber",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: aonde vai dar trabalho fazer essa transferência,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: entendeu? Entendi. A [LOCAL], eu te garanto 100%, não usa [LOCAL]. A gente trabalha direto com o operador logístico lá, então o pedido entra aqui, ele tem algum tipo de tratamento simples e já vai direto para lá. Agora, [LOCAL], eu acho que tem alguma coisa de [PESSOA], mas também não tenho certeza se é um [EMPRESA], [LOCAL] do [LOCAL]. São cenários também mais complexos lá. Cara, o que eu entendo? A gente vai ter que falar, botar aí os nossos técnicos também pra entender. Aquilo que tu mencionou sobre manter como principal ambiente trazer as outras contas para o ambiente novo, esse que a TOTOS proporcionou. Sim, beleza, benefícios, mas esse benefício ele vai morrer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: já nos próximos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: meses. É, mas ele é vinculado a um contrato de três",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: anos, né? Ah, eu entendi. Então eu não posso cancelar esse contrato novo porque é uma conta",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: nova. E até onde eu me lembro, você tinha renovado o [LOCAL] um ano só, então você tem o FII um pouco maior, né? Então, por isso que eu penso que o [LOCAL] seja melhor para você. Vai reduzir um pouquinho do teu Take Rate [LOCAL]-[LOCAL]. Se você não passou do ponto de sair do FII fixo para o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: variável, Vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: reduzir fixo, né? É, então agora vai com toda certeza. Então é isso, vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: reduzir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: de 0,40 para 0,35. Tá. Pra tua operação é um número.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Com certeza.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então, vale mais a pena,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: né? Beleza. Cara, então assim, ó. Te ajuda se eu tentar levantar algum tipo de desenho aí do que que tá integrado?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5198,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCAL], ajuda sim. E aí a gente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: fazer tanto, por exemplo, a gente, eu já passei para você ali o modelo do ongoing,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5537,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então, a gente pode fazer como se fosse um atendimento de horas de ongoing ali, fazer essas transferências para você, desde que a gente entenda que não vai haver grandes desenvolvimentos, quer realmente exportar, importar, testar, validar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5452,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: configurar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Agora, se não fizer sentido, porque vai acabar usando mais o ongoing do que deveria e vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4785,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: te",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: apertar para outras coisas mais importantes, aí a gente passa uma estimativa de esforço e alguma coisa extra, escopo do que a gente já tem com você. Caso contrário, tudo bem que a gente ainda não está com o ongoing fechado,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4975,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Enfim, se for a tua intenção, a gente pode seguir nesse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5257,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: modelo, tá? Beleza. E ainda tem uma outra alçada aí que eu acho que é a TOTOS. Trazer pra mesa, porque beleza, a gente construiu desse formato por uma condição da TOTOS,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: querendo ou não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Dentro da parceria, por ser contabilizar na meta de um novo contrato, enfim. Já era que a gente [EMPRESA] toda aquela condição. Então, acho que a TOTOS aí pode nos apoiar também nesse sentido de bonificar para vocês, né? [PESSOA] para nós e acertar com vocês aí esse desenvolvimento se for muito custoso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É, aí eu não sei. O consultor de vendas está escutando aqui, mas eu não posso responder por ele. [LOCAL]. Realmente tem que ver com eles. Mas do nosso lado, assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: realmente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: exportar, importar, configurar, etc. é algo que é suportado no escopo do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.573,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: ongoing",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: e se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: for,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: fizer sentido,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: for prejudicar nas outras demandas que vierem a acontecer, enfim, a gente consegue fazer sem nenhum custo extra para vocês. De novo, a gente ainda não tá com o [LOCAL] fechado, mas considerando que seria essa a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5147,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: intenção, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL]. Se eu já me dá... Então, já vou saindo daqui, eu já aciono o meu time de tecnologia e ver o que tá conectado em que,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4819,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: como,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: enfim. Quais são as ferramentas que são diferentes do que vocês já estão trabalhando hoje no [LOCAL]. Pra lançar essa informação o quanto antes e a gente definir. Mas beleza, o que eu entendi daqui, pós-GoLive,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É a melhor, né? Também, estamos próximos. A fase 1, pelo menos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É. Entre",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5133,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: a fase 1 e a fase 2, acho que seria o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: melhor. Isso. Dá pra fazer, porque, inclusive, o teu ongoing vai estar ativo, você assinando ou não, porque vai estar no ongoing do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: projeto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: E aí dá pra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: isso. Tá? Perfeito. Você falou da fase 1, e era um ponto que eu tava pra te perguntar, como a gente tinha esse ponto, eu esperei. Cara, a gente falou lá atrás sobre a parte",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4669,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: pagamentos, do meio de pagamento na [EMPRESA], eu não falei mais com você sobre",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5271,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: aprovado que nosso time esteja falando, mas o que você definiu aí do teu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: lado?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Questão de orquestrador ou não? Como é que ficou essa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: questão? Mesmo numa reunião antes com o pessoal do [PESSOA], orquestrador a gente não encontrou nenhum que atende, Minha leitura é de que isso não é um problema para a [EMPRESA] até agora ou melhor, não é um problema para os clientes da [EMPRESA] mas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: a tendência é que passe a ser ao longo de 2026 o volume de marcas indo e etc. A gente possivelmente vai ir com o mercado pago como",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5623,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: adquirente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: antifraude. Era isso que eu queria saber.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Porque eles já são nossos parceiros. muito tempo. Os centros fracais começaram a nos atender menos bem, e por isso a gente colocou um orquestrador com outro concorrente do lado para direcionar o volume mediante performance de cada um. Só que essa opção B, que era [PESSOA] mais",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: não tem a melhor construção de arquitetura dentro de [EMPRESA]. Por quê? o [PESSOA], e segundo o [PESSOA], isso é uma regra para antifraudes dentro da [EMPRESA], só conseguem atuar no pós autorização do gateway com banco. E isso gera perdas de dados para o antifraude trabalhar, enfim, tende a ter uma performance pior. Então isso é um ponto que contou a favor do mercado pago. Ele oferece os dois sozinho, então ele pega e faz tudo do jeito dele. Pega a transação e faz do jeito dele, que é o pré-autorização. E eles também negociando, estamos negociando, eles são com uma taxa melhor do que o do...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: PregNec.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É. Na verdade eu ia perguntar pra você sobre a [LOCAL], que eu me lembro",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4583,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: eu já aproximei vocês. E por que que eu tô perguntando especificamente deles? Porque eles têm um orquestrador, só que é um orquestrador que você",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: gerencia como logista, como é o caso da Yuno. Mas ele, na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4827,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: verdade,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: é um sub-adquirente, né, do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.548,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: E ele usa mais de um adquirente, ele tem um sistema de IA,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: O ponto é, ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: consegue,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: pelo menos dados históricos, ter uma taxa de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aprovaç",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: um pouco mais eficiente sobre demais concorrentes. E aí, eu me lembro que você comentou que a taxa deles parecia ter sido interessante. Então, por isso, a minha dúvida",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: se... N",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ficou. Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: não? A gente recebeu eles aqui, o [PESSOA] encontrou... a fundadora,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA]. [PESSOA]. Na NRF, enfim, fizeram alguns contatos. E só que realmente a taxa ficou cara também. Entendi. Ah, beleza. A gente tem a proposta do produto. O [LOCAL] também é subadquirente, também trabalha com vários adquirentes, inclusive a sua própria. Só que não chegaram em custo e, beleza, tem algo a negociar ainda, mas a gente Tá mudando muita coisa, né? Então, a gente ir pra um parceiro que a gente não trabalhou ainda era mais um risco que a gente preferiu não assumir agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Não quer",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: dizer que ao longo de 2026 a gente não reabra essa conversa. Mas nesse momento, a gente optou por permanecer com alguém que... Com os defeitos de quem a gente já conhece.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É bom. Não, faz todo sentido, inclusive. É que ficou esse ponto meio que de preocupação na minha cabeça,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: assim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Que a gente tinha que ter resolvido e tal, agora a gente tá próximo de lançar. e eu não falei mais com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4831,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: você. É",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: isso que eu queria perguntar. Mas, pô, claro, faz tanto sentido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Melhor",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: gerenciar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: risco, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Porém, o pessoal",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: da [LOCAL] de hoje nos apresentou uma oportunidade de a gente construir um middleware, através de vocês, que faça essa orquestração. Primeiro, num primeiro momento, para que a autorização do antifraude pudesse ser feita no pré-autorização do gateway com o banco. e num segundo momento pra botar um gateway contra o outro, ver quem é que tá com melhor performance e assim definir as regras. Falei, cara, quero saber mais dessa ideia que eles conseguiram através de um outro cliente, que com uma outra agência desenvolveram isso. Quero saber mais dessa ideia. Não é algo que a gente vai botar de pé agora pra migração, mas para o futuro, com certeza, a gente quer conhecer mais. Ele foi pegar algumas autorizações lá com o cliente deles pra nos trazer documentação, o escopo desse middleware, pra daí a gente discutir isso com vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tá, legal. Perfeito. Vamos conversar. [LOCAL]. Que bom que já estamos com isso bem encaminhado, então, que eu tava realmente com esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4866,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: ponto na cabeça.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então, você me passa aí você trouxer do time técnico dessas outras operações e a gente começa a fazer um plano ali pra trazer as operações entre agora, no mês de março, digamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5632,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: assim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: né? A gente consegue",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá bom. Combinado. Beleza?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Beleza. Em março, 10 de março, vai ter a [LOCAL] em [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.508,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: N",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: sei se você já viu o que vai rolar nesse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: evento. Vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: passar o link aqui no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: chat.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Vou passar no WhatsApp melhor, que aí você não",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: perde.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Nós estamos patrocinando a [PESSOA] com esse ano. Vamos fazer o circuito todo. [LOCAL] é o primeiro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: evento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então se você quiser ir, quiser mandar teu time, enfim, a gente tem bastante convite. Me fala o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: faço aqui pra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vocês,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: eu colocar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: WhatsApp. Legal. Inclusive o Ângele vai falar. Eu acho que a [PESSOA] vai falar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Vai ter bastante gente falando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: de chocolate. Ah, interessante.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Boa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: De repente, se tiver algum tema aí, assim, a gente nunca foi muito aberto a palestras, a ser palestrante e etc. [PESSOA] volta e meia faz, assim, mas quase não tem a ver com econômica. Só que algumas ideias a gente tá mudando. Principalmente porque a gente tem que aparecer como marca inovadora, marca preocupada com tecnologia, etc. Então, se houver espaço, se houver interesse, algum tema específico, Manda pra mim que eu discuto direto com o [PESSOA]. Falar disso aqui pra nós é bom. A gente define alguém aqui, se houver esse espaço aí, essa necessidade lá de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA], é muito bom saber, cara. Eu não vou mentir, a gente pensou em vocês, evidentemente, mas como a gente ainda não teve o Golive... Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3686,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: sim. Uma coisa de cada vez, né? E ainda eu não sabia se vocês iam receber bem esse convite antes de estar cooperação lá, né? Que é mais",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: importante.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Por isso eu não fiz o convite, mas é muito bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3963,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: saber.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Honestamente, eu acho que é um peso muito grande para ver vocês assim, para falar sobre um tema específico, o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.497,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: E, cara, vai ter oportunidade. Nós vamos estar no [EMPRESA] esse ano de novo. No [EMPRESA] não tem oportunidade,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: ent",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: dá para a gente conversar sobre isso durante o ano, com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5681,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: certeza. Tá bom? Boa. A gente tem um... aqui falando o [PESSOA]. marqueteiro e pensando em assessoria de imprensa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: né? A gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: um foco grande em aumentar a nossa visibilidade do cuidado que a gente tem com o nosso cliente. Então, se a gente quiser trazer um tema, por exemplo, de I.A. aplicada no encantamento ao cliente, aqui nós temos muita coisa pra falar. Que legal. Isso nos ajuda também, estrategicamente. Boa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Fantástico. Muito bom. Beleza. Que bom. Bom saber. Obrigado por avisar. Eu coloco no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4002,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: radar aqui. Boa. [LOCAL], [PESSOA]. Até mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3862,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: aí, valeu!",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

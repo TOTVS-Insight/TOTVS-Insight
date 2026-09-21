@@ -1,0 +1,469 @@
+{
+  "id_reuniao": "1165779",
+  "codt": "TEZDMO",
+  "data_reuniao": "2026-03-09 16:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 5]: se precisar também, tu pode ir mostrando para ele, até para o time que atende vocês, para [LOCAL]: tirando dúvida, eu te encaminho.nfe: Não tem problema, bem tranquilo. [LOCUTOR 33]: dar uma olhadinha também, deixando bem a par da situação, nós estamos comparando ele com o guardião, eu não sei se é uma ferramenta que tu conhece. Conheço, conheço também.nfe: Tu sabe diferenciar isso até para me explicar ou não? Tem pouca coisa de diferença, tá? \n[LOCUTOR 9]: acho que\n[LOCUTOR 5]: a [LOCAL] vai poder tirar mais essas dúvidas. Boa tarde,nfe: [LOCAL].\n[LOCUTOR 28]: [EMPRESA], pessoal. Boa tarde. Tudo bem?\n[LOCUTOR 5]: \n[LOCUTOR 26]: tarde. Tudo bem?\n[LOCUTOR 28]: Tudo jóia.\n[LOCUTOR 5]: Ótimo. [LOCAL], temos aqui a [PESSOA] da [LOCAL], tá? Ela tem o conhecimento da parte [LOCAL], o que eles precisam, o que eles est\n[LOCUTOR 13]: buscando.\n[LOCUTOR 5]: E nós temos a [LOCAL], que a nossa especialista do transmite pode tirar todas as suas dúvidas, tá? Todas, todas.nfe: Tá, não, tranquilo. [LOCAL]. Na verdade, eu tava comentando com a [PESSOA] e [LOCAL] que eu tive uma demonstração do guardião, que até deve\n[LOCUTOR 28]: ser umanfe: ferramenta que você conhece, né? Que é compatível com essa. E eu queria entender os diferenciais entre uma e outra pra gente poder realizar a nossa escolha depois, né? Então, eu não sei te falar como que é o específico guardião, até porque soluções iguais ao Transmit existem várias no mercado. O que eu consigo te garantir é o seguinte, todas essas soluções de mercado não são integradas nativamente com o Proteus. transmite apenas a integrador nativamente com o Proteus. O que eu quero dizer com isso? Ele é um portal web, não sei se o Guardião também é.nfe: Também é um portal web, igual. Isso, ele vai ali fazer o mesmo trabalho, capturar as notas junto com o [EMPRESA], com [LOCAL], [LOCAL], NFE, serviço, tá? E vai guardar esse documento pra você, vai ter todo o monitor ali interativo, onde você consegue consultar a nota, [LOCAL]: detalhes. E aí, um outro detalhe do transmit é o que, né? Automatizar o processo de entrada dentro do [EMPRESA] Proteus. Então, uma vez que ele está ali com o XML dentro do seunfe: portal, vamos dizer assim, [PESSOA], ele consegue compartilhar esse XML com o Proteus, e aí você vai ter esse documento pronto.nfe: Então, eu sempre costumo usar o seguinte exemplo, né? Ah, comprou uma mercadoria, demora cinco dias no processo logístico da mercadoria. Essa nota, ela vai chegar em horas, a partir do faturamento dela, dentro do seu Proteus, porque vai vir transmit, transmit vai mandar pro Proteus, e aí você vai ali continuar o lançamento. Outras soluções, além do Transmit, eles customizam, às vezes, esses processos.nfe: É, na verdade, é o que eu queria entender. Eu vou ter só uma tela, mas eu vou ter importado todos os XMLs do documento de entrada. Mas eu consigo fazer uma integração que é tipo assim, vamos colocar o fornecedor tal, toda vez que entra para mim é esse produto, ele já integra isso ou não? Eu vou ter que fazer manual. Seria assim, posso te mostrar?nfe: Pode, pornfe: favor. Tá, vamos lá. Você tem o portal do transmitir aqui, tá? Então, o portal é o web, você acessa por qualquer navegador, você vai ter aqui a visão das suas notas. O Proteus, a gente tem o importador XML dentro aqui do [LOCAL]. Então, ou seja, ele vai estar ligado ao transmitnfe: e, quando chegar no transmit, vai chegar aqui.nfe: Então, todas as notas dos seus fornecedores que estiverem chegando, seja [LOCAL], serviço, vai estar aqui. Mas é uma tela do importador, como o próprio nome já diz. Ele está importando o XML. Para você mandar essa nota para a sua entrada, não sei se vocês trabalham em algum pré-nota, você vai ter que gerar esse documento.nfe: Mas, detalhe, essa geração de documento pode ser parametrizada de como você quer. Então, eu quero eu gerar o documento no importador para a entrada? Posso. Eu quero que essa nota chegue no Proteus e já vai para a minha entrada e lá eu só classifico? Pode também. \n[LOCUTOR 29]: até o\n[LOCUTOR 28]: documento já classificado? É configuração. Aqui é o processo de como que você faz.nfe: E se ela tem uma ordem de compra? Eu vou ter que puxar mesmo assim manual? Ou ele já vai linkar? Ele vincula o pedido de compra, tá? Mas ele vincula automaticamente. Se existir no XML o número do pedido. Às vezes tem fornecedor que não informa, né? \n[LOCUTOR 2]: n\n[LOCUTOR 7]: informar,nfe: não vai ter.\n[LOCUTOR 28]: Isso. Aí, se não informar, ele vai ficar em branco. Você pode vincular aqui manualmente, localizando o pedido, tá? \n[LOCUTOR 2]: ele\n[LOCUTOR 28]: informar, ele vai te trazer já o número aqui. Só que detalhe... Desculpa, seu nome lá? Perdão.nfe: [PESSOA]. [PESSOA]. [PESSOA]. Só que detalhe. O importador XML não vai ser criado para você, porque ele já está pronto no Proteus, tá? É mais configuração. Só que se você precisar mudar essa forma do pedido... Então, por exemplo, eu entendi o nativo. O nativo é, se tem no XML, ele vai trazer, se não, eu vinculo. Se você quiser automatizar, aí você pode customizar, que aí é aplicar pontos de entrada.nfe: \n[LOCUTOR 4]: do pedido, por exemplo. Eu tenho o importador próprio, eu quero automatizar mais esse processo, então você aplica o ponto de entrada ali.nfe: Entendi.\n[LOCUTOR 28]: Tá. [LOCAL] modo, né? Essa que é a rotina aqui.nfe: E a grosso modo, ele me importa o XML e eu parametrizo o que eu quiser depois ou customizo daí? [PESSOA], porque aqui já é por teus, não é transmit, tá?nfe: E o transmit, na verdade, ele me importa tudo, os XML do CFAS e as notas fiscais do serviço, isso? Exatamente, isso mesmo. NFE, o [LOCAL], como [PESSOA]: [EMPRESA]... Notas de serviço. E serviço? O serviço está aqui. O serviço, só para você entender melhor sobre esse modelo de documento, porque geralmente gera muita dúvida, porque ele é um modelo para o município. O serviço, ele hoje prioriza o ambiente nacional até por conta da reforma, tá? Então,nfe: os municípios que aderirem ali ao nacional, ele já vai receber ali, como a NFE, por exemplo, o [LOCAL], [LOCAL]: ele trabalha de forma secundária com [PESSOA]: munic\n[LOCUTOR 19]: em particular. Então, tem município que ainda não se preparou, não mudou, tá? Com o provedor interno, você pode avaliar aqui numa página, vou te passar tamb\n[LOCUTOR 11]: esse\n[LOCUTOR 28]: link, que está preparado para se comunicar com a prefeitura.nfe: Pode ser que se ele não estiver preparado para se comunicar, não vai receber o xml no automático daí, é isso? Isso. Caso ele não foi para o nacional e não está preparado, às vezes a prefeitura nem compartilha o link do provedor, porque acontece, aí você não vai ter o automático. Mas se você tiver o xml, você pode avaliar se ele vai importar o xml para você. Nesse caso, se você tiver o seu xml na sua caixa de entrada, lá no seu e-mail, você pode importar o xml aqui ou mandar esse xml por e-mail ao transmit. Então, o que é [LOCAL]: fácil, né? Sim,nfe: se tiver, eu importo ele mesmo, ele vai sendo importado sozinho. Isso. Aí, em último caso, eu não tenho XML, eu não tenho sincronização com a prefeitura, esse município não está no nacional, mas eu tenho sempre o PDF. Aí, você pode mandar o PDF para o transmit, seja por e-mail ou importando aqui, porque ele vai converter o seu PDF em XML. E aí, é qualquer município, tá? Deixe que [PESSOA]: \n[LOCUTOR 12]: alinfe: seja\n[LOCUTOR 28]: da prefeitura, gerado pelo mês da prefeitura. \n[LOCUTOR 15]: aqui\n[LOCUTOR 28]: ele vai te mostrar, olha, recebeu o PDF, deu falha. Às vezes não está tão legível, escaneado por site de terceiros. Mas não, convertir. O convertido é porque ele já tá aqui no monitor. O aguardando, aqui, significa que deu certo também. Mas como \n[LOCUTOR 34]: a primeira\n[LOCUTOR 28]: vez que ele converte um PDF de um determinado município, sempre que for a primeira vez, ele vai pedir uma aprovação por parte de vocês. É mais pranfe: garantir. Olha, o que eu fiz aqui tá certo, pode aprovar. Depois nem precisa se preocupar mais com isso. Ele sempre vai já converter aquele munic\n[LOCUTOR 17]: que\n[LOCUTOR 28]: você aprovou.nfe: A aprovação das notas, ela é de quanto tempo? Uma hora.nfe: Uma hora. Isso. Uma hora por causa do consumo indevido que tem lá na [EMPRESA], para não dar esse erro.nfe: [LOCAL]. [LOCUTOR 3]: vamos lá. Eu tenho uma nota que entrou ali e tal e foi cancelada depois. Como é que fica isso? Ele avisa? Então, ele avisa aqui no Transmit. Ele tem aqui um sininho falando, olha, a situação da nota X foi cancelada e você ainda consegue receber por e-mail. Aí é no Proteus, uma configuração. pra quando ele sincronizar uma nota, né, ver que tá lá no transmitir, tá cancelado, ele te mandar um e-mail falando, ó, tais notas estão canceladas. Aí eu vou te falar um detalhe aqui, que pode, talvez, te ajudar muito. Tá vendo essa coluna integração [EMPRESA] aqui? Ela existe em todos os modelos de documento recebido. Então, NFE, serviço, [LOCAL] e [EMPRESA]. Vou até te mostrar aqui, por exemplo, o [LOCAL] também, tá?nfe: \n[LOCUTOR 24]: quenfe: significa\n[LOCUTOR 28]: essa coluna aqui?nfe: Ela vai te mostrar como essa nota tá no Proteus. Isso é por conta da integração nativa. Então, por exemplo, aqui no Proteus, eu vou importar o documento, lá do transmit, vai vir automático, [PESSOA]: aí, quando eu gerar esse documento, ele vai lá pra entrada e depois eu classifico, lá na rotina de entrada. \n[LOCUTOR 21]: fase\n[LOCUTOR 28]: que for acontecendo dentro do Proteus, essa coluna vai te sinalizar. Olha, essa nota já chegou no Proteus, importou. Essa nota já classificou. Essa nota não classificou ainda. Então a gente tem algunsnfe: status aqui que vocês podem filtrar.nfe: E daí eu até consigo ver as que estão pendentes. Isso, perfeito. E quando cancelanfe: o documento, você pode até olhar aqui se alguma nota já está no Proteus e porventura cancelou, porque acontece.nfe: \n[LOCUTOR 8]: vezes pela manhã chegou a nota, já entregou com o Proteus, a tarde foi cancelada.nfe: É isso que eu me preocupo, porque normalmente tem muitos que fazem isso.\n[LOCUTOR 28]: É, exato. Então, assim, você pode meio que brincar com os filtros aqui. Ah, eu quero que aqui está classificado, por exemplo, mas está cancelado para os modelos. E aí, você pode até exportar numa planilha de arquivos CSV ali e a relação dessas notas de tudo que você filtrou aqui.nfe: \n[LOCUTOR 18]: no Proteus, precisa excluir. Não é um processo automático de exclusão, porque envolve muita rotina dentro do [EMPRESA]. Às vezes se classificou, já movimentou o estoque, então ficaria arriscado. Aí você pode excluir aonde essa nota está. Está no importador? Não. Já está na entrada? Não. Classificou? Aí você exclui [PESSOA]: plaçamento. Entendi. [LOCAL].\n[LOCUTOR 28]: Mais alguma questão, Alice?nfe: Não, somente isso. Eu só queria entendernfe: mesmo a ferramenta e dar uma olhada como ela é. Você quer ver mais alguma coisa aqui? Quer que eu faça o overview bem rápido, até porque você já tem conhecimento? \n[LOCUTOR 1]: ser. Na verdade, eu vi que tu tem ali embaixo também relatórios. \n[LOCUTOR 16]: tipo denfe: relatórios ele gera?\n[LOCUTOR 28]: Ele gera NFE, serviços, [LOCAL] e [EMPRESA], mas é um relatório que você cria dinâmico, tá? Não é um relatório fixo, por exemplo, que sempre vai ter aquele layout. Então, aqui... \n[LOCUTOR 25]: layout que eu quero que apareça é isso?\n[LOCUTOR 28]: [PESSOA].nfe: \n[LOCUTOR 6]: isso mesmo. Por exemplo, aqui eu aplico o filtro. Entenda que ele esquece sempre o que está no XML, tá? É espelho do XML aqui. Então, por exemplo,nfe: eu quero notas... E depois, entendi.\n[LOCUTOR 28]: Isso, eu quero notas que tá tal seu [LOCAL]. Ok, coloco aqui, pagamento, e coloco o que eu quero. Na seção de visualização é onde você vai criar a sua visão, o que você quer ver em tela. Então, tá vendo que tem aqui campos que eu marco e [LOCAL]: \n[LOCUTOR 22]: você marcar tudo isso aqui, isso aqui é tudo que tá no XML. Ele vai te trazer tudo, todas as colunas que tá aqui. Todos os valores, impostos, produtos, tudo. Agora, se você quiser um relatório mais específico, por exemplo, só com chave de acesso e quem emitiu, tudo bem. Aí você marca e gera. Ele vai gerar [PESSOA]: tamanho do\n[LOCUTOR 28]: relatório no layout que você quer. Tanto NFE, serviço, CTS e CTS. Bilhetagem, até passando o último menu aqui para você, ele vai te mostrar a quantidade de documentos por mês que ele está monitorando, tá? Então, ele vai te falar, olha, eu monitorei nesse mês tantos documentos, tanto é de ICTE, caso você queira saber ali no maior detalhe, e até exportar tudo em Excel, caso você queira.nfe: Ok, deixanfe: eu te fazer uma outra pergunta. Vamos lá, eu importei um XML e eu ainda não tenho cadastro do fornecedor. Ele vai importar e eu vou criar o cadastro e vai levar todos os dados com cadastro novo. Então, como que funciona essa parte? Ele vai importar o documento, mas se você não tem essa amarração, porque é um cadastro aqui do compras, que ficanfe: aqui até em produtos versos fornecedor, se você não tem, ele vai chegar com essa legenda aqui, o documento, a revisão cadastral.nfe: \n[LOCUTOR 22]: eu abrir, eu vou te abrir essa nota em verde, que está ok.nfe: Você\n[LOCUTOR 28]: já vai notar que tem produto e o produto que está escrito na nota. Se [PESSOA]: abrir essa nota que está em marrom, Você vai notar que não tem produto.nfe: \n[LOCUTOR 10]: quê? Ele não soubenfe: colocar\n[LOCUTOR 28]: o seu item para aquele item de serviço ou mercadoria.nfe: Então, na verdade, eu vou ter que linkar o fornecedor dos produtos. Exatamente. Essa tela aqui, produtos versus fornecedor, tá? Mas você chama ela aqui no monitor, para ser mais fácil. Então, não tem o produto? Não está vinculado? Você vai ver o documento com erro, inconsistência. Você vem aqui e escolhe o seu produto. Ele vai te dar uma mensagem. Posso fazer a criação? Pode. Acabou. Ele alimenta a tabela já de amarração e quando voc\n[LOCUTOR 14]: comprar esse\n[LOCUTOR 28]: produto...nfe: [LOCAL] quando eu laço na linha, é isso? \n[LOCUTOR 27]: amarra quando você confirma aquela mensagem.nfe: [LOCAL].\n[LOCUTOR 28]: Aí aqui você abre a tela para você conferir praticamente, ver caso você queira. Então você vai ter a relação. Esse produto que eu vinculei, eu compro de todos esses fornecedores, cada fornecedor com seu código. Serviço não precisa pôr código, porque ele vai atrelar com o código do serviço, que está dentro do produto, com o que veio ali no XML da nota de serviço. Mas a mercadoria, que vem ali da [EMPRESA], precisa pôr um código, que é uma informação do XML. Então é dessa forma. Aproveitando, vamos imaginar que o fornecedor não está cadastrado. Não está. Ele vai fazer o mesmo processo. Ele vai importar a nota, vai vir com essa legenda,nfe: \n[LOCUTOR 18]: assim, se você tentar confirmar a nota, vamos pensar que você fez o depara, ele dá uma ocorrência, falando para você revisar o fornecedor. Não precisa sair daqui, é só vir aqui e abrir o cadastro. O simples fato de você estar abrindo o cadastro, ele já entende como uma revisão, você pode até editar aqui se você quiser. Aí depois segue ali o documento para gerar ele.nfe: Tá, entendi.\n[LOCUTOR 28]: É dessa forma, tá?nfe: Eu já traço os dados que ele tem e eu confirmo o restante. Isso, aí você marca a nota e gera. Ele meio que vai replicar tudo que está aqui para as suas próximas rotinas, que é a entrada, para você não editar manualmente. Esse é o objetivo.nfe: [LOCAL]. É isso. Outro detalhe aqui, eles... A partir dos impostos, sabe? Se você quiser se antecipar e colocar aqui no importador pra ir lá na entrada já tudo certo, você pode.nfe: Pode colocar lá, não tem problema, não. Mas aqui você meio que vai ter uma visão mais didática, né? Sabendo, olha, o XML é esse, mas o que eu importei aqui de peso que tá trazendo da minha configuração é outro valor. Se você quiser seguir dessa forma, ok. Mas ele vai te dar um depara, vai ficar em vermelho, né? Seja inconsistente, às vezes não colocou nada. Mas n\n[LOCUTOR 13]: vai\n[LOCUTOR 28]: ser impeditivo para você não gerar o documento, não é impeditivo, ele vai te dar um alerta, aí voc\n[LOCUTOR 14]: segue. Tudo que ficar em vermelho é para reencontro de redução, vermelho\n[LOCUTOR 28]: [PESSOA]: marrom. É, na verdade, aqui, esse documento, o vermelho, aqui nessa tela, no painel, o vermelho é gerado, já deu certo, gerado. Lá, lá dentro aqui é inconsistência. Então, aqui, o vermelho aqui significa inconsistência, tá? Agora, na tela aqui, é gerado. Agora, com erro, é aquele marrozinhonfe: ou até emnfe: cinza aqui, com ocorrência mesmo, que não tem tratamento. Ele importou, tem algum pedido errado, alguma coisa que você customizou, enfim.nfe: Tá, entendi. E os tipos das notas. Em tese, [PESSOA], assim, de forma muito objetiva, essa é a função do produto, O monitor é bem interativo, mas eu queria te compartilhar uma outra questão aqui, só para ficar bem claro. Eu não sei se você notou, mas a gente controla saídas também. A gente falou muito de compras, entrada, mas [PESSOA]: transmitir vem muito com a frente de guarda legal da nota, por causa da questão fiscal. Então, uma vez o documento emitido pelo TSS dentro do Proteus, ele consegue se integrar ao TSS e praticamente de forma instantânea espelhar o que está saindo ali da sua empresa. Então, alguém está emitindo nota, vai cair aqui no transmit e já vai estar guardando para você também esse documento. E aí você vai ter toda a visão detalhada. Eu vou ter uma visão cabeçalho, lógico, mas se eu precisar imprimir, detalhar, exportar XML, enviar carta de correção, enviar para o e-mail, você... Também vainfe: conseguir dar um monitor do saída total. [PESSOA]. Ele vai dar um monitor e aguarda o documento que está sendo guardado tanto que ele consome. Eu não sei se você chegou já nessa parte comercial com a [PESSOA], mas só te explicando, o Transmit é contratado por um pacote de armazenamento. Então, assim, quantos documentos, em média, eu quero que o Transmit monitore por mês? Aí você tem que ver se é entrada ou saída, né? Então, se você optar por saídas também, ele vai consumir volume, né? Espaço, vamos dizer, ali na nuvem.nfe: \n[LOCUTOR 20]: você vai ter que ter o pacote ali aderente para as suas entradas e saídas, que é um volume que você vai passar para a [PESSOA] e ela vai te precificar. E aí você vai ter tudo controlado num único local. o que facilita muito, além da segurança. E eventos fiscais, por exemplo, não consome franquia, tá? O que consome é o documento. E aí, se você precisar manifestar a nota, você consegue aqui, pelo transmit, e tem umnfe: ponto\n[LOCUTOR 28]: legal aqui. Você consegue automatizar a manifestação. Então, ah, eu quero que a ciência automática seja feita automaticamente. Consegue. E a conformação consegue também. Então, elenfe: confirma uma nota quando ela é classificada no Proteus, e aí ele acompanha essa coluna integração, que vai sinalizar que classificou. Aí ele confirma, senão ele não vai fazer nada. \n[LOCUTOR 23]: se\n[LOCUTOR 28]: você [PESSOA]: essa função, porque você pode não habilitar e fica do jeito que está aqui, por exemplo.nfe: [EMPRESA], claro. [LOCUTOR 31]: trampei. Entendi. Deixa eu ver se eu tenho mais algum ponto em tese. É isso, [PESSOA]. Não,nfe: perfeito. Eu já entendi a ferramenta, já tenho as dúvidas que eu precisava, Eu vou passarnfe: agora tudo para a avaliação do [LOCAL], e assim que eu tiver minha posição, eu volto a falar com a [PESSOA] daí. Legal, legal. Um outro ponto, assim, o último, só para também não deixar dúvidas,nfe: é que toda a parte de configuração do Transmit já está incluso no pacote, por uma oferta complementar, então a gente ainda todos manda um e-mail para vocês, ali para o administrador, por exemplo, e vai agendar o onboard, que é configurar, capacitar, ensinar vocês ali no uso. Agora, o importador XML, ele é próprio do Proteus, mas ele precisa ser configurado para conversar com o Transmit e passar a receber as notas automaticamente para vocês. Aí, essa parte do lado do Proteus, vocês podem fazer ou contratar um apoio da [PESSOA], que aí é um valor adicional de implantação, por exemplo. Mas se voc\n[LOCUTOR 32]: quiserem, é apenas.\n[LOCUTOR 28]: Ah, tranquilo. A gente tem documentação. Eu vou passar aqui para você no... Deixa eu passar o link do município. Também aqui, porque a gente sempre compartilha o material caso precise de apoio. \n[LOCUTOR 15]: tem tudo\n[LOCUTOR 28]: aqui já no chat para você, tanto dos municípios como a parte técnica ali do importador. Então tá bom, pessoal. É bem rápido, é bem direcionado, vocês já conhecem. Tem mais alguma questão?nfe: Não, é somente isso mesmo.\n[LOCUTOR 5]: Eu vou complementar um pouquinho, [LOCAL].\n[LOCUTOR 28]: [EMPRESA].\n[LOCUTOR 5]: [PESSOA], pós-contratação, como é que funciona, mais ou menos, o passo a passo, tá? A partir do momento que é assinado a proposta, sobe para faturamento, após o faturamento, que vocês vão receber o e-mail, tá? Vai uns dez dias, mais ou menos, para preparar o ambiente de vocês, e a partir disso, daí sim, vocês podem fazer o onboarding. Neste e-mail vocês vão ter alguns passinhos para fazer antes do onboarding, que é fazer alguns acessos, mas é tudo coisa muito simples, tá?nfe: que é o suporte para nós, quenfe: já utiliza [PESSOA]: pagamento também dos clientes. Então, para eles também, a configuração, ele até me falou que não precisa participar de reuniões nem nada, que para eles é uma rotina tranquila. Então,nfe: na verdade, eu só vou passar as duas propostas que eu tenho agora para o [LOCAL], para a gente ver uma definição, e eu volto a falar contigo daí. Combinadíssimo.nfe: [LOCAL], obrigada pelo teu tempo, e [PESSOA], muito obrigada.nfe: [LOCAL]. [LOCAL],nfe: tchau. [LOCAL],\n[LOCUTOR 28]: tchau.",
+  "texto_filtrado": "[LOCUTOR 5]: se precisar também, tu pode ir mostrando para ele, até para o time que atende vocês, para [LOCAL]: tirando dúvida, eu te encaminho.nfe: Não tem problema, bem tranquilo. [LOCUTOR 33]: dar uma olhadinha também, deixando bem a par da situação, nós estamos comparando ele com o guardião, eu não sei se é uma ferramenta que tu conhece. Conheço, conheço também.nfe: Tu sabe diferenciar isso até para me explicar ou não? Tem pouca coisa de diferença, tá?\n[LOCUTOR 9]: acho que\n[LOCUTOR 5]: Ótimo. [LOCAL], temos aqui a [PESSOA] da [LOCAL], tá? Ela tem o conhecimento da parte [LOCAL], o que eles precisam, o que eles est\n[LOCUTOR 13]: buscando.\n[LOCUTOR 5]: E nós temos a [LOCAL], que a nossa especialista do transmite pode tirar todas as suas dúvidas, tá? Todas, todas.nfe: Tá, não, tranquilo. [LOCAL]. Na verdade, eu tava comentando com a [PESSOA] e [LOCAL] que eu tive uma demonstração do guardião, que até deve\n[LOCUTOR 28]: ser umanfe: ferramenta que você conhece, né? Que é compatível com essa. E eu queria entender os diferenciais entre uma e outra pra gente poder realizar a nossa escolha depois, né? Então, eu não sei te falar como que é o específico guardião, até porque soluções iguais ao Transmit existem várias no mercado. O que eu consigo te garantir é o seguinte, todas essas soluções de mercado não são integradas nativamente com o Proteus. transmite apenas a integrador nativamente com o Proteus. O que eu quero dizer com isso? Ele é um portal web, não sei se o Guardião também é.nfe: Também é um portal web, igual. Isso, ele vai ali fazer o mesmo trabalho, capturar as notas junto com o [EMPRESA], com [LOCAL], [LOCAL], NFE, serviço, tá? E vai guardar esse documento pra você, vai ter todo o monitor ali interativo, onde você consegue consultar a nota, [LOCAL]: detalhes. E aí, um outro detalhe do transmit é o que, né? Automatizar o processo de entrada dentro do [EMPRESA] Proteus. Então, uma vez que ele está ali com o XML dentro do seunfe: portal, vamos dizer assim, [PESSOA], ele consegue compartilhar esse XML com o Proteus, e aí você vai ter esse documento pronto.nfe: Então, eu sempre costumo usar o seguinte exemplo, né? Ah, comprou uma mercadoria, demora cinco dias no processo logístico da mercadoria. Essa nota, ela vai chegar em horas, a partir do faturamento dela, dentro do seu Proteus, porque vai vir transmit, transmit vai mandar pro Proteus, e aí você vai ali continuar o lançamento. Outras soluções, além do Transmit, eles customizam, às vezes, esses processos.nfe: É, na verdade, é o que eu queria entender. Eu vou ter só uma tela, mas eu vou ter importado todos os XMLs do documento de entrada. Mas eu consigo fazer uma integração que é tipo assim, vamos colocar o fornecedor tal, toda vez que entra para mim é esse produto, ele já integra isso ou não? Eu vou ter que fazer manual. Seria assim, posso te mostrar?nfe: Pode, pornfe: favor. Tá, vamos lá. Você tem o portal do transmitir aqui, tá? Então, o portal é o web, você acessa por qualquer navegador, você vai ter aqui a visão das suas notas. O Proteus, a gente tem o importador XML dentro aqui do [LOCAL]. Então, ou seja, ele vai estar ligado ao transmitnfe: e, quando chegar no transmit, vai chegar aqui.nfe: Então, todas as notas dos seus fornecedores que estiverem chegando, seja [LOCAL], serviço, vai estar aqui. Mas é uma tela do importador, como o próprio nome já diz. Ele está importando o XML. Para você mandar essa nota para a sua entrada, não sei se vocês trabalham em algum pré-nota, você vai ter que gerar esse documento.nfe: Mas, detalhe, essa geração de documento pode ser parametrizada de como você quer. Então, eu quero eu gerar o documento no importador para a entrada? Posso. Eu quero que essa nota chegue no Proteus e já vai para a minha entrada e lá eu só classifico? Pode também.\n[LOCUTOR 28]: documento já classificado? É configuração. Aqui é o processo de como que você faz.nfe: E se ela tem uma ordem de compra? Eu vou ter que puxar mesmo assim manual? Ou ele já vai linkar? Ele vincula o pedido de compra, tá? Mas ele vincula automaticamente. Se existir no XML o número do pedido. Às vezes tem fornecedor que não informa, né?\n[LOCUTOR 7]: informar,nfe: não vai ter.\n[LOCUTOR 28]: Isso. Aí, se não informar, ele vai ficar em branco. Você pode vincular aqui manualmente, localizando o pedido, tá?\n[LOCUTOR 28]: informar, ele vai te trazer já o número aqui. Só que detalhe... Desculpa, seu nome lá? Perdão.nfe: [PESSOA]. [PESSOA]. [PESSOA]. Só que detalhe. O importador XML não vai ser criado para você, porque ele já está pronto no Proteus, tá? É mais configuração. Só que se você precisar mudar essa forma do pedido... Então, por exemplo, eu entendi o nativo. O nativo é, se tem no XML, ele vai trazer, se não, eu vinculo. Se você quiser automatizar, aí você pode customizar, que aí é aplicar pontos de entrada.nfe:\n[LOCUTOR 4]: do pedido, por exemplo. Eu tenho o importador próprio, eu quero automatizar mais esse processo, então você aplica o ponto de entrada ali.nfe: Entendi.\n[LOCUTOR 28]: Tá. [LOCAL] modo, né? Essa que é a rotina aqui.nfe: E a grosso modo, ele me importa o XML e eu parametrizo o que eu quiser depois ou customizo daí? [PESSOA], porque aqui já é por teus, não é transmit, tá?nfe: E o transmit, na verdade, ele me importa tudo, os XML do CFAS e as notas fiscais do serviço, isso? Exatamente, isso mesmo. NFE, o [LOCAL], como [PESSOA]: [EMPRESA]... Notas de serviço. E serviço? O serviço está aqui. O serviço, só para você entender melhor sobre esse modelo de documento, porque geralmente gera muita dúvida, porque ele é um modelo para o município. O serviço, ele hoje prioriza o ambiente nacional até por conta da reforma, tá? Então,nfe: os municípios que aderirem ali ao nacional, ele já vai receber ali, como a NFE, por exemplo, o [LOCAL], [LOCAL]: ele trabalha de forma secundária com [PESSOA]: munic\n[LOCUTOR 19]: em particular. Então, tem município que ainda não se preparou, não mudou, tá? Com o provedor interno, você pode avaliar aqui numa página, vou te passar tamb\n[LOCUTOR 11]: esse\n[LOCUTOR 28]: link, que está preparado para se comunicar com a prefeitura.nfe: Pode ser que se ele não estiver preparado para se comunicar, não vai receber o xml no automático daí, é isso? Isso. Caso ele não foi para o nacional e não está preparado, às vezes a prefeitura nem compartilha o link do provedor, porque acontece, aí você não vai ter o automático. Mas se você tiver o xml, você pode avaliar se ele vai importar o xml para você. Nesse caso, se você tiver o seu xml na sua caixa de entrada, lá no seu e-mail, você pode importar o xml aqui ou mandar esse xml por e-mail ao transmit. Então, o que é [LOCAL]: fácil, né? Sim,nfe: se tiver, eu importo ele mesmo, ele vai sendo importado sozinho. Isso. Aí, em último caso, eu não tenho XML, eu não tenho sincronização com a prefeitura, esse município não está no nacional, mas eu tenho sempre o PDF. Aí, você pode mandar o PDF para o transmit, seja por e-mail ou importando aqui, porque ele vai converter o seu PDF em XML. E aí, é qualquer município, tá? Deixe que [PESSOA]:\n[LOCUTOR 12]: alinfe: seja\n[LOCUTOR 28]: da prefeitura, gerado pelo mês da prefeitura.\n[LOCUTOR 15]: aqui\n[LOCUTOR 34]: a primeira\n[LOCUTOR 28]: vez que ele converte um PDF de um determinado município, sempre que for a primeira vez, ele vai pedir uma aprovação por parte de vocês. É mais pranfe: garantir. Olha, o que eu fiz aqui tá certo, pode aprovar. Depois nem precisa se preocupar mais com isso. Ele sempre vai já converter aquele munic\n[LOCUTOR 28]: você aprovou.nfe: A aprovação das notas, ela é de quanto tempo? Uma hora.nfe: Uma hora. Isso. Uma hora por causa do consumo indevido que tem lá na [EMPRESA], para não dar esse erro.nfe: [LOCAL]. [LOCUTOR 3]: vamos lá. Eu tenho uma nota que entrou ali e tal e foi cancelada depois. Como é que fica isso? Ele avisa? Então, ele avisa aqui no Transmit. Ele tem aqui um sininho falando, olha, a situação da nota X foi cancelada e você ainda consegue receber por e-mail. Aí é no Proteus, uma configuração. pra quando ele sincronizar uma nota, né, ver que tá lá no transmitir, tá cancelado, ele te mandar um e-mail falando, ó, tais notas estão canceladas. Aí eu vou te falar um detalhe aqui, que pode, talvez, te ajudar muito. Tá vendo essa coluna integração [EMPRESA] aqui? Ela existe em todos os modelos de documento recebido. Então, NFE, serviço, [LOCAL] e [EMPRESA]. Vou até te mostrar aqui, por exemplo, o [LOCAL] também, tá?nfe:\n[LOCUTOR 24]: quenfe: significa\n[LOCUTOR 28]: essa coluna aqui?nfe: Ela vai te mostrar como essa nota tá no Proteus. Isso é por conta da integração nativa. Então, por exemplo, aqui no Proteus, eu vou importar o documento, lá do transmit, vai vir automático, [PESSOA]: aí, quando eu gerar esse documento, ele vai lá pra entrada e depois eu classifico, lá na rotina de entrada.\n[LOCUTOR 21]: fase\n[LOCUTOR 28]: que for acontecendo dentro do Proteus, essa coluna vai te sinalizar. Olha, essa nota já chegou no Proteus, importou. Essa nota já classificou. Essa nota não classificou ainda. Então a gente tem algunsnfe: status aqui que vocês podem filtrar.nfe: E daí eu até consigo ver as que estão pendentes. Isso, perfeito. E quando cancelanfe: o documento, você pode até olhar aqui se alguma nota já está no Proteus e porventura cancelou, porque acontece.nfe:\n[LOCUTOR 8]: vezes pela manhã chegou a nota, já entregou com o Proteus, a tarde foi cancelada.nfe: É isso que eu me preocupo, porque normalmente tem muitos que fazem isso.\n[LOCUTOR 28]: É, exato. Então, assim, você pode meio que brincar com os filtros aqui. Ah, eu quero que aqui está classificado, por exemplo, mas está cancelado para os modelos. E aí, você pode até exportar numa planilha de arquivos CSV ali e a relação dessas notas de tudo que você filtrou aqui.nfe:\n[LOCUTOR 18]: no Proteus, precisa excluir. Não é um processo automático de exclusão, porque envolve muita rotina dentro do [EMPRESA]. Às vezes se classificou, já movimentou o estoque, então ficaria arriscado. Aí você pode excluir aonde essa nota está. Está no importador? Não. Já está na entrada? Não. Classificou? Aí você exclui [PESSOA]: plaçamento. Entendi. [LOCAL].\n[LOCUTOR 1]: ser. Na verdade, eu vi que tu tem ali embaixo também relatórios.\n[LOCUTOR 16]: tipo denfe: relatórios ele gera?\n[LOCUTOR 28]: Ele gera NFE, serviços, [LOCAL] e [EMPRESA], mas é um relatório que você cria dinâmico, tá? Não é um relatório fixo, por exemplo, que sempre vai ter aquele layout. Então, aqui...\n[LOCUTOR 25]: layout que eu quero que apareça é isso?\n[LOCUTOR 28]: [PESSOA].nfe:\n[LOCUTOR 6]: isso mesmo. Por exemplo, aqui eu aplico o filtro. Entenda que ele esquece sempre o que está no XML, tá? É espelho do XML aqui. Então, por exemplo,nfe: eu quero notas... E depois, entendi.\n[LOCUTOR 28]: Isso, eu quero notas que tá tal seu [LOCAL]. Ok, coloco aqui, pagamento, e coloco o que eu quero. Na seção de visualização é onde você vai criar a sua visão, o que você quer ver em tela. Então, tá vendo que tem aqui campos que eu marco e [LOCAL]:\n[LOCUTOR 22]: você marcar tudo isso aqui, isso aqui é tudo que tá no XML. Ele vai te trazer tudo, todas as colunas que tá aqui. Todos os valores, impostos, produtos, tudo. Agora, se você quiser um relatório mais específico, por exemplo, só com chave de acesso e quem emitiu, tudo bem. Aí você marca e gera. Ele vai gerar [PESSOA]: tamanho do\n[LOCUTOR 28]: relatório no layout que você quer. Tanto NFE, serviço, CTS e CTS. Bilhetagem, até passando o último menu aqui para você, ele vai te mostrar a quantidade de documentos por mês que ele está monitorando, tá? Então, ele vai te falar, olha, eu monitorei nesse mês tantos documentos, tanto é de ICTE, caso você queira saber ali no maior detalhe, e até exportar tudo em Excel, caso você queira.nfe: Ok, deixanfe: eu te fazer uma outra pergunta. Vamos lá, eu importei um XML e eu ainda não tenho cadastro do fornecedor. Ele vai importar e eu vou criar o cadastro e vai levar todos os dados com cadastro novo. Então, como que funciona essa parte? Ele vai importar o documento, mas se você não tem essa amarração, porque é um cadastro aqui do compras, que ficanfe: aqui até em produtos versos fornecedor, se você não tem, ele vai chegar com essa legenda aqui, o documento, a revisão cadastral.nfe:\n[LOCUTOR 28]: já vai notar que tem produto e o produto que está escrito na nota. Se [PESSOA]: abrir essa nota que está em marrom, Você vai notar que não tem produto.nfe:\n[LOCUTOR 28]: o seu item para aquele item de serviço ou mercadoria.nfe: Então, na verdade, eu vou ter que linkar o fornecedor dos produtos. Exatamente. Essa tela aqui, produtos versus fornecedor, tá? Mas você chama ela aqui no monitor, para ser mais fácil. Então, não tem o produto? Não está vinculado? Você vai ver o documento com erro, inconsistência. Você vem aqui e escolhe o seu produto. Ele vai te dar uma mensagem. Posso fazer a criação? Pode. Acabou. Ele alimenta a tabela já de amarração e quando voc\n[LOCUTOR 14]: comprar esse\n[LOCUTOR 28]: produto...nfe: [LOCAL] quando eu laço na linha, é isso?\n[LOCUTOR 27]: amarra quando você confirma aquela mensagem.nfe: [LOCAL].\n[LOCUTOR 28]: Aí aqui você abre a tela para você conferir praticamente, ver caso você queira. Então você vai ter a relação. Esse produto que eu vinculei, eu compro de todos esses fornecedores, cada fornecedor com seu código. Serviço não precisa pôr código, porque ele vai atrelar com o código do serviço, que está dentro do produto, com o que veio ali no XML da nota de serviço. Mas a mercadoria, que vem ali da [EMPRESA], precisa pôr um código, que é uma informação do XML. Então é dessa forma. Aproveitando, vamos imaginar que o fornecedor não está cadastrado. Não está. Ele vai fazer o mesmo processo. Ele vai importar a nota, vai vir com essa legenda,nfe:\n[LOCUTOR 18]: assim, se você tentar confirmar a nota, vamos pensar que você fez o depara, ele dá uma ocorrência, falando para você revisar o fornecedor. Não precisa sair daqui, é só vir aqui e abrir o cadastro. O simples fato de você estar abrindo o cadastro, ele já entende como uma revisão, você pode até editar aqui se você quiser. Aí depois segue ali o documento para gerar ele.nfe: Tá, entendi.\n[LOCUTOR 28]: É dessa forma, tá?nfe: Eu já traço os dados que ele tem e eu confirmo o restante. Isso, aí você marca a nota e gera. Ele meio que vai replicar tudo que está aqui para as suas próximas rotinas, que é a entrada, para você não editar manualmente. Esse é o objetivo.nfe: [LOCAL]. É isso. Outro detalhe aqui, eles... A partir dos impostos, sabe? Se você quiser se antecipar e colocar aqui no importador pra ir lá na entrada já tudo certo, você pode.nfe: Pode colocar lá, não tem problema, não. Mas aqui você meio que vai ter uma visão mais didática, né? Sabendo, olha, o XML é esse, mas o que eu importei aqui de peso que tá trazendo da minha configuração é outro valor. Se você quiser seguir dessa forma, ok. Mas ele vai te dar um depara, vai ficar em vermelho, né? Seja inconsistente, às vezes não colocou nada. Mas n\n[LOCUTOR 14]: segue. Tudo que ficar em vermelho é para reencontro de redução, vermelho\n[LOCUTOR 28]: [PESSOA]: marrom. É, na verdade, aqui, esse documento, o vermelho, aqui nessa tela, no painel, o vermelho é gerado, já deu certo, gerado. Lá, lá dentro aqui é inconsistência. Então, aqui, o vermelho aqui significa inconsistência, tá? Agora, na tela aqui, é gerado. Agora, com erro, é aquele marrozinhonfe: ou até emnfe: cinza aqui, com ocorrência mesmo, que não tem tratamento. Ele importou, tem algum pedido errado, alguma coisa que você customizou, enfim.nfe: Tá, entendi. E os tipos das notas. Em tese, [PESSOA], assim, de forma muito objetiva, essa é a função do produto, O monitor é bem interativo, mas eu queria te compartilhar uma outra questão aqui, só para ficar bem claro. Eu não sei se você notou, mas a gente controla saídas também. A gente falou muito de compras, entrada, mas [PESSOA]: transmitir vem muito com a frente de guarda legal da nota, por causa da questão fiscal. Então, uma vez o documento emitido pelo TSS dentro do Proteus, ele consegue se integrar ao TSS e praticamente de forma instantânea espelhar o que está saindo ali da sua empresa. Então, alguém está emitindo nota, vai cair aqui no transmit e já vai estar guardando para você também esse documento. E aí você vai ter toda a visão detalhada. Eu vou ter uma visão cabeçalho, lógico, mas se eu precisar imprimir, detalhar, exportar XML, enviar carta de correção, enviar para o e-mail, você... Também vainfe: conseguir dar um monitor do saída total. [PESSOA]. Ele vai dar um monitor e aguarda o documento que está sendo guardado tanto que ele consome. Eu não sei se você chegou já nessa parte comercial com a [PESSOA], mas só te explicando, o Transmit é contratado por um pacote de armazenamento. Então, assim, quantos documentos, em média, eu quero que o Transmit monitore por mês? Aí você tem que ver se é entrada ou saída, né? Então, se você optar por saídas também, ele vai consumir volume, né? Espaço, vamos dizer, ali na nuvem.nfe:\n[LOCUTOR 20]: você vai ter que ter o pacote ali aderente para as suas entradas e saídas, que é um volume que você vai passar para a [PESSOA] e ela vai te precificar. E aí você vai ter tudo controlado num único local. o que facilita muito, além da segurança. E eventos fiscais, por exemplo, não consome franquia, tá? O que consome é o documento. E aí, se você precisar manifestar a nota, você consegue aqui, pelo transmit, e tem umnfe: ponto\n[LOCUTOR 28]: legal aqui. Você consegue automatizar a manifestação. Então, ah, eu quero que a ciência automática seja feita automaticamente. Consegue. E a conformação consegue também. Então, elenfe: confirma uma nota quando ela é classificada no Proteus, e aí ele acompanha essa coluna integração, que vai sinalizar que classificou. Aí ele confirma, senão ele não vai fazer nada.\n[LOCUTOR 28]: você [PESSOA]: essa função, porque você pode não habilitar e fica do jeito que está aqui, por exemplo.nfe: [EMPRESA], claro. [LOCUTOR 31]: trampei. Entendi. Deixa eu ver se eu tenho mais algum ponto em tese. É isso, [PESSOA]. Não,nfe: perfeito. Eu já entendi a ferramenta, já tenho as dúvidas que eu precisava, Eu vou passarnfe: agora tudo para a avaliação do [LOCAL], e assim que eu tiver minha posição, eu volto a falar com a [PESSOA] daí. Legal, legal. Um outro ponto, assim, o último, só para também não deixar dúvidas,nfe: é que toda a parte de configuração do Transmit já está incluso no pacote, por uma oferta complementar, então a gente ainda todos manda um e-mail para vocês, ali para o administrador, por exemplo, e vai agendar o onboard, que é configurar, capacitar, ensinar vocês ali no uso. Agora, o importador XML, ele é próprio do Proteus, mas ele precisa ser configurado para conversar com o Transmit e passar a receber as notas automaticamente para vocês. Aí, essa parte do lado do Proteus, vocês podem fazer ou contratar um apoio da [PESSOA], que aí é um valor adicional de implantação, por exemplo. Mas se voc\n[LOCUTOR 32]: quiserem, é apenas.\n[LOCUTOR 28]: Ah, tranquilo. A gente tem documentação. Eu vou passar aqui para você no... Deixa eu passar o link do município. Também aqui, porque a gente sempre compartilha o material caso precise de apoio.\n[LOCUTOR 28]: aqui já no chat para você, tanto dos municípios como a parte técnica ali do importador. Então tá bom, pessoal. É bem rápido, é bem direcionado, vocês já conhecem. Tem mais alguma questão?nfe: Não, é somente isso mesmo.\n[LOCUTOR 28]: [EMPRESA].\n[LOCUTOR 5]: [PESSOA], pós-contratação, como é que funciona, mais ou menos, o passo a passo, tá? A partir do momento que é assinado a proposta, sobe para faturamento, após o faturamento, que vocês vão receber o e-mail, tá? Vai uns dez dias, mais ou menos, para preparar o ambiente de vocês, e a partir disso, daí sim, vocês podem fazer o onboarding. Neste e-mail vocês vão ter alguns passinhos para fazer antes do onboarding, que é fazer alguns acessos, mas é tudo coisa muito simples, tá?nfe: que é o suporte para nós, quenfe: já utiliza [PESSOA]: pagamento também dos clientes. Então, para eles também, a configuração, ele até me falou que não precisa participar de reuniões nem nada, que para eles é uma rotina tranquila. Então,nfe: na verdade, eu só vou passar as duas propostas que eu tenho agora para o [LOCAL], para a gente ver uma definição, e eu volto a falar contigo daí. Combinadíssimo.nfe: [LOCAL], obrigada pelo teu tempo, e [PESSOA], muito obrigada.nfe: [LOCAL]. [LOCAL],nfe: tchau. [LOCAL],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:09.915510+00:00",
+    "total_linhas": 74,
+    "linhas_mantidas": 55,
+    "linhas_removidas": 19,
+    "percentual_mantido": 74.32,
+    "confianca_media": 0.4691
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 5]: se precisar também, tu pode ir mostrando para ele, até para o time que atende vocês, para [LOCAL]: tirando dúvida, eu te encaminho.nfe: Não tem problema, bem tranquilo. [LOCUTOR 33]: dar uma olhadinha também, deixando bem a par da situação, nós estamos comparando ele com o guardião, eu não sei se é uma ferramenta que tu conhece. Conheço, conheço também.nfe: Tu sabe diferenciar isso até para me explicar ou não? Tem pouca coisa de diferença, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: a [LOCAL] vai poder tirar mais essas dúvidas. Boa tarde,nfe: [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4045,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: [EMPRESA], pessoal. Boa tarde. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3836,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tarde. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4055,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: Tudo jóia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Ótimo. [LOCAL], temos aqui a [PESSOA] da [LOCAL], tá? Ela tem o conhecimento da parte [LOCAL], o que eles precisam, o que eles est",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: buscando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: E nós temos a [LOCAL], que a nossa especialista do transmite pode tirar todas as suas dúvidas, tá? Todas, todas.nfe: Tá, não, tranquilo. [LOCAL]. Na verdade, eu tava comentando com a [PESSOA] e [LOCAL] que eu tive uma demonstração do guardião, que até deve",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: ser umanfe: ferramenta que você conhece, né? Que é compatível com essa. E eu queria entender os diferenciais entre uma e outra pra gente poder realizar a nossa escolha depois, né? Então, eu não sei te falar como que é o específico guardião, até porque soluções iguais ao Transmit existem várias no mercado. O que eu consigo te garantir é o seguinte, todas essas soluções de mercado não são integradas nativamente com o Proteus. transmite apenas a integrador nativamente com o Proteus. O que eu quero dizer com isso? Ele é um portal web, não sei se o Guardião também é.nfe: Também é um portal web, igual. Isso, ele vai ali fazer o mesmo trabalho, capturar as notas junto com o [EMPRESA], com [LOCAL], [LOCAL], NFE, serviço, tá? E vai guardar esse documento pra você, vai ter todo o monitor ali interativo, onde você consegue consultar a nota, [LOCAL]: detalhes. E aí, um outro detalhe do transmit é o que, né? Automatizar o processo de entrada dentro do [EMPRESA] Proteus. Então, uma vez que ele está ali com o XML dentro do seunfe: portal, vamos dizer assim, [PESSOA], ele consegue compartilhar esse XML com o Proteus, e aí você vai ter esse documento pronto.nfe: Então, eu sempre costumo usar o seguinte exemplo, né? Ah, comprou uma mercadoria, demora cinco dias no processo logístico da mercadoria. Essa nota, ela vai chegar em horas, a partir do faturamento dela, dentro do seu Proteus, porque vai vir transmit, transmit vai mandar pro Proteus, e aí você vai ali continuar o lançamento. Outras soluções, além do Transmit, eles customizam, às vezes, esses processos.nfe: É, na verdade, é o que eu queria entender. Eu vou ter só uma tela, mas eu vou ter importado todos os XMLs do documento de entrada. Mas eu consigo fazer uma integração que é tipo assim, vamos colocar o fornecedor tal, toda vez que entra para mim é esse produto, ele já integra isso ou não? Eu vou ter que fazer manual. Seria assim, posso te mostrar?nfe: Pode, pornfe: favor. Tá, vamos lá. Você tem o portal do transmitir aqui, tá? Então, o portal é o web, você acessa por qualquer navegador, você vai ter aqui a visão das suas notas. O Proteus, a gente tem o importador XML dentro aqui do [LOCAL]. Então, ou seja, ele vai estar ligado ao transmitnfe: e, quando chegar no transmit, vai chegar aqui.nfe: Então, todas as notas dos seus fornecedores que estiverem chegando, seja [LOCAL], serviço, vai estar aqui. Mas é uma tela do importador, como o próprio nome já diz. Ele está importando o XML. Para você mandar essa nota para a sua entrada, não sei se vocês trabalham em algum pré-nota, você vai ter que gerar esse documento.nfe: Mas, detalhe, essa geração de documento pode ser parametrizada de como você quer. Então, eu quero eu gerar o documento no importador para a entrada? Posso. Eu quero que essa nota chegue no Proteus e já vai para a minha entrada e lá eu só classifico? Pode também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: até o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: documento já classificado? É configuração. Aqui é o processo de como que você faz.nfe: E se ela tem uma ordem de compra? Eu vou ter que puxar mesmo assim manual? Ou ele já vai linkar? Ele vincula o pedido de compra, tá? Mas ele vincula automaticamente. Se existir no XML o número do pedido. Às vezes tem fornecedor que não informa, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: informar,nfe: não vai ter.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: Isso. Aí, se não informar, ele vai ficar em branco. Você pode vincular aqui manualmente, localizando o pedido, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 28]: informar, ele vai te trazer já o número aqui. Só que detalhe... Desculpa, seu nome lá? Perdão.nfe: [PESSOA]. [PESSOA]. [PESSOA]. Só que detalhe. O importador XML não vai ser criado para você, porque ele já está pronto no Proteus, tá? É mais configuração. Só que se você precisar mudar essa forma do pedido... Então, por exemplo, eu entendi o nativo. O nativo é, se tem no XML, ele vai trazer, se não, eu vinculo. Se você quiser automatizar, aí você pode customizar, que aí é aplicar pontos de entrada.nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: do pedido, por exemplo. Eu tenho o importador próprio, eu quero automatizar mais esse processo, então você aplica o ponto de entrada ali.nfe: Entendi.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: Tá. [LOCAL] modo, né? Essa que é a rotina aqui.nfe: E a grosso modo, ele me importa o XML e eu parametrizo o que eu quiser depois ou customizo daí? [PESSOA], porque aqui já é por teus, não é transmit, tá?nfe: E o transmit, na verdade, ele me importa tudo, os XML do CFAS e as notas fiscais do serviço, isso? Exatamente, isso mesmo. NFE, o [LOCAL], como [PESSOA]: [EMPRESA]... Notas de serviço. E serviço? O serviço está aqui. O serviço, só para você entender melhor sobre esse modelo de documento, porque geralmente gera muita dúvida, porque ele é um modelo para o município. O serviço, ele hoje prioriza o ambiente nacional até por conta da reforma, tá? Então,nfe: os municípios que aderirem ali ao nacional, ele já vai receber ali, como a NFE, por exemplo, o [LOCAL], [LOCAL]: ele trabalha de forma secundária com [PESSOA]: munic",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: em particular. Então, tem município que ainda não se preparou, não mudou, tá? Com o provedor interno, você pode avaliar aqui numa página, vou te passar tamb",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: link, que está preparado para se comunicar com a prefeitura.nfe: Pode ser que se ele não estiver preparado para se comunicar, não vai receber o xml no automático daí, é isso? Isso. Caso ele não foi para o nacional e não está preparado, às vezes a prefeitura nem compartilha o link do provedor, porque acontece, aí você não vai ter o automático. Mas se você tiver o xml, você pode avaliar se ele vai importar o xml para você. Nesse caso, se você tiver o seu xml na sua caixa de entrada, lá no seu e-mail, você pode importar o xml aqui ou mandar esse xml por e-mail ao transmit. Então, o que é [LOCAL]: fácil, né? Sim,nfe: se tiver, eu importo ele mesmo, ele vai sendo importado sozinho. Isso. Aí, em último caso, eu não tenho XML, eu não tenho sincronização com a prefeitura, esse município não está no nacional, mas eu tenho sempre o PDF. Aí, você pode mandar o PDF para o transmit, seja por e-mail ou importando aqui, porque ele vai converter o seu PDF em XML. E aí, é qualquer município, tá? Deixe que [PESSOA]:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: alinfe: seja",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: da prefeitura, gerado pelo mês da prefeitura.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: ele vai te mostrar, olha, recebeu o PDF, deu falha. Às vezes não está tão legível, escaneado por site de terceiros. Mas não, convertir. O convertido é porque ele já tá aqui no monitor. O aguardando, aqui, significa que deu certo também. Mas como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.436,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: a primeira",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: vez que ele converte um PDF de um determinado município, sempre que for a primeira vez, ele vai pedir uma aprovação por parte de vocês. É mais pranfe: garantir. Olha, o que eu fiz aqui tá certo, pode aprovar. Depois nem precisa se preocupar mais com isso. Ele sempre vai já converter aquele munic",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 28]: você aprovou.nfe: A aprovação das notas, ela é de quanto tempo? Uma hora.nfe: Uma hora. Isso. Uma hora por causa do consumo indevido que tem lá na [EMPRESA], para não dar esse erro.nfe: [LOCAL]. [LOCUTOR 3]: vamos lá. Eu tenho uma nota que entrou ali e tal e foi cancelada depois. Como é que fica isso? Ele avisa? Então, ele avisa aqui no Transmit. Ele tem aqui um sininho falando, olha, a situação da nota X foi cancelada e você ainda consegue receber por e-mail. Aí é no Proteus, uma configuração. pra quando ele sincronizar uma nota, né, ver que tá lá no transmitir, tá cancelado, ele te mandar um e-mail falando, ó, tais notas estão canceladas. Aí eu vou te falar um detalhe aqui, que pode, talvez, te ajudar muito. Tá vendo essa coluna integração [EMPRESA] aqui? Ela existe em todos os modelos de documento recebido. Então, NFE, serviço, [LOCAL] e [EMPRESA]. Vou até te mostrar aqui, por exemplo, o [LOCAL] também, tá?nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: quenfe: significa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: essa coluna aqui?nfe: Ela vai te mostrar como essa nota tá no Proteus. Isso é por conta da integração nativa. Então, por exemplo, aqui no Proteus, eu vou importar o documento, lá do transmit, vai vir automático, [PESSOA]: aí, quando eu gerar esse documento, ele vai lá pra entrada e depois eu classifico, lá na rotina de entrada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 21]: fase",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: que for acontecendo dentro do Proteus, essa coluna vai te sinalizar. Olha, essa nota já chegou no Proteus, importou. Essa nota já classificou. Essa nota não classificou ainda. Então a gente tem algunsnfe: status aqui que vocês podem filtrar.nfe: E daí eu até consigo ver as que estão pendentes. Isso, perfeito. E quando cancelanfe: o documento, você pode até olhar aqui se alguma nota já está no Proteus e porventura cancelou, porque acontece.nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4765,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: vezes pela manhã chegou a nota, já entregou com o Proteus, a tarde foi cancelada.nfe: É isso que eu me preocupo, porque normalmente tem muitos que fazem isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: É, exato. Então, assim, você pode meio que brincar com os filtros aqui. Ah, eu quero que aqui está classificado, por exemplo, mas está cancelado para os modelos. E aí, você pode até exportar numa planilha de arquivos CSV ali e a relação dessas notas de tudo que você filtrou aqui.nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: no Proteus, precisa excluir. Não é um processo automático de exclusão, porque envolve muita rotina dentro do [EMPRESA]. Às vezes se classificou, já movimentou o estoque, então ficaria arriscado. Aí você pode excluir aonde essa nota está. Está no importador? Não. Já está na entrada? Não. Classificou? Aí você exclui [PESSOA]: plaçamento. Entendi. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: Mais alguma questão, Alice?nfe: Não, somente isso. Eu só queria entendernfe: mesmo a ferramenta e dar uma olhada como ela é. Você quer ver mais alguma coisa aqui? Quer que eu faça o overview bem rápido, até porque você já tem conhecimento?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4191,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ser. Na verdade, eu vi que tu tem ali embaixo também relatórios.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5095,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: tipo denfe: relatórios ele gera?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: Ele gera NFE, serviços, [LOCAL] e [EMPRESA], mas é um relatório que você cria dinâmico, tá? Não é um relatório fixo, por exemplo, que sempre vai ter aquele layout. Então, aqui...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4755,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: layout que eu quero que apareça é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4902,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: [PESSOA].nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: isso mesmo. Por exemplo, aqui eu aplico o filtro. Entenda que ele esquece sempre o que está no XML, tá? É espelho do XML aqui. Então, por exemplo,nfe: eu quero notas... E depois, entendi.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4821,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: Isso, eu quero notas que tá tal seu [LOCAL]. Ok, coloco aqui, pagamento, e coloco o que eu quero. Na seção de visualização é onde você vai criar a sua visão, o que você quer ver em tela. Então, tá vendo que tem aqui campos que eu marco e [LOCAL]:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: você marcar tudo isso aqui, isso aqui é tudo que tá no XML. Ele vai te trazer tudo, todas as colunas que tá aqui. Todos os valores, impostos, produtos, tudo. Agora, se você quiser um relatório mais específico, por exemplo, só com chave de acesso e quem emitiu, tudo bem. Aí você marca e gera. Ele vai gerar [PESSOA]: tamanho do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: relatório no layout que você quer. Tanto NFE, serviço, CTS e CTS. Bilhetagem, até passando o último menu aqui para você, ele vai te mostrar a quantidade de documentos por mês que ele está monitorando, tá? Então, ele vai te falar, olha, eu monitorei nesse mês tantos documentos, tanto é de ICTE, caso você queira saber ali no maior detalhe, e até exportar tudo em Excel, caso você queira.nfe: Ok, deixanfe: eu te fazer uma outra pergunta. Vamos lá, eu importei um XML e eu ainda não tenho cadastro do fornecedor. Ele vai importar e eu vou criar o cadastro e vai levar todos os dados com cadastro novo. Então, como que funciona essa parte? Ele vai importar o documento, mas se você não tem essa amarração, porque é um cadastro aqui do compras, que ficanfe: aqui até em produtos versos fornecedor, se você não tem, ele vai chegar com essa legenda aqui, o documento, a revisão cadastral.nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: eu abrir, eu vou te abrir essa nota em verde, que está ok.nfe: Você",
+      "mantida": false,
+      "probabilidade_relevancia": 0.449,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: já vai notar que tem produto e o produto que está escrito na nota. Se [PESSOA]: abrir essa nota que está em marrom, Você vai notar que não tem produto.nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 0.499,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: quê? Ele não soubenfe: colocar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: o seu item para aquele item de serviço ou mercadoria.nfe: Então, na verdade, eu vou ter que linkar o fornecedor dos produtos. Exatamente. Essa tela aqui, produtos versus fornecedor, tá? Mas você chama ela aqui no monitor, para ser mais fácil. Então, não tem o produto? Não está vinculado? Você vai ver o documento com erro, inconsistência. Você vem aqui e escolhe o seu produto. Ele vai te dar uma mensagem. Posso fazer a criação? Pode. Acabou. Ele alimenta a tabela já de amarração e quando voc",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: comprar esse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: produto...nfe: [LOCAL] quando eu laço na linha, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: amarra quando você confirma aquela mensagem.nfe: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: Aí aqui você abre a tela para você conferir praticamente, ver caso você queira. Então você vai ter a relação. Esse produto que eu vinculei, eu compro de todos esses fornecedores, cada fornecedor com seu código. Serviço não precisa pôr código, porque ele vai atrelar com o código do serviço, que está dentro do produto, com o que veio ali no XML da nota de serviço. Mas a mercadoria, que vem ali da [EMPRESA], precisa pôr um código, que é uma informação do XML. Então é dessa forma. Aproveitando, vamos imaginar que o fornecedor não está cadastrado. Não está. Ele vai fazer o mesmo processo. Ele vai importar a nota, vai vir com essa legenda,nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: assim, se você tentar confirmar a nota, vamos pensar que você fez o depara, ele dá uma ocorrência, falando para você revisar o fornecedor. Não precisa sair daqui, é só vir aqui e abrir o cadastro. O simples fato de você estar abrindo o cadastro, ele já entende como uma revisão, você pode até editar aqui se você quiser. Aí depois segue ali o documento para gerar ele.nfe: Tá, entendi.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: É dessa forma, tá?nfe: Eu já traço os dados que ele tem e eu confirmo o restante. Isso, aí você marca a nota e gera. Ele meio que vai replicar tudo que está aqui para as suas próximas rotinas, que é a entrada, para você não editar manualmente. Esse é o objetivo.nfe: [LOCAL]. É isso. Outro detalhe aqui, eles... A partir dos impostos, sabe? Se você quiser se antecipar e colocar aqui no importador pra ir lá na entrada já tudo certo, você pode.nfe: Pode colocar lá, não tem problema, não. Mas aqui você meio que vai ter uma visão mais didática, né? Sabendo, olha, o XML é esse, mas o que eu importei aqui de peso que tá trazendo da minha configuração é outro valor. Se você quiser seguir dessa forma, ok. Mas ele vai te dar um depara, vai ficar em vermelho, né? Seja inconsistente, às vezes não colocou nada. Mas n",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 28]: ser impeditivo para você não gerar o documento, não é impeditivo, ele vai te dar um alerta, aí voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4482,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: segue. Tudo que ficar em vermelho é para reencontro de redução, vermelho",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: [PESSOA]: marrom. É, na verdade, aqui, esse documento, o vermelho, aqui nessa tela, no painel, o vermelho é gerado, já deu certo, gerado. Lá, lá dentro aqui é inconsistência. Então, aqui, o vermelho aqui significa inconsistência, tá? Agora, na tela aqui, é gerado. Agora, com erro, é aquele marrozinhonfe: ou até emnfe: cinza aqui, com ocorrência mesmo, que não tem tratamento. Ele importou, tem algum pedido errado, alguma coisa que você customizou, enfim.nfe: Tá, entendi. E os tipos das notas. Em tese, [PESSOA], assim, de forma muito objetiva, essa é a função do produto, O monitor é bem interativo, mas eu queria te compartilhar uma outra questão aqui, só para ficar bem claro. Eu não sei se você notou, mas a gente controla saídas também. A gente falou muito de compras, entrada, mas [PESSOA]: transmitir vem muito com a frente de guarda legal da nota, por causa da questão fiscal. Então, uma vez o documento emitido pelo TSS dentro do Proteus, ele consegue se integrar ao TSS e praticamente de forma instantânea espelhar o que está saindo ali da sua empresa. Então, alguém está emitindo nota, vai cair aqui no transmit e já vai estar guardando para você também esse documento. E aí você vai ter toda a visão detalhada. Eu vou ter uma visão cabeçalho, lógico, mas se eu precisar imprimir, detalhar, exportar XML, enviar carta de correção, enviar para o e-mail, você... Também vainfe: conseguir dar um monitor do saída total. [PESSOA]. Ele vai dar um monitor e aguarda o documento que está sendo guardado tanto que ele consome. Eu não sei se você chegou já nessa parte comercial com a [PESSOA], mas só te explicando, o Transmit é contratado por um pacote de armazenamento. Então, assim, quantos documentos, em média, eu quero que o Transmit monitore por mês? Aí você tem que ver se é entrada ou saída, né? Então, se você optar por saídas também, ele vai consumir volume, né? Espaço, vamos dizer, ali na nuvem.nfe:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: você vai ter que ter o pacote ali aderente para as suas entradas e saídas, que é um volume que você vai passar para a [PESSOA] e ela vai te precificar. E aí você vai ter tudo controlado num único local. o que facilita muito, além da segurança. E eventos fiscais, por exemplo, não consome franquia, tá? O que consome é o documento. E aí, se você precisar manifestar a nota, você consegue aqui, pelo transmit, e tem umnfe: ponto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5186,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: legal aqui. Você consegue automatizar a manifestação. Então, ah, eu quero que a ciência automática seja feita automaticamente. Consegue. E a conformação consegue também. Então, elenfe: confirma uma nota quando ela é classificada no Proteus, e aí ele acompanha essa coluna integração, que vai sinalizar que classificou. Aí ele confirma, senão ele não vai fazer nada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 28]: você [PESSOA]: essa função, porque você pode não habilitar e fica do jeito que está aqui, por exemplo.nfe: [EMPRESA], claro. [LOCUTOR 31]: trampei. Entendi. Deixa eu ver se eu tenho mais algum ponto em tese. É isso, [PESSOA]. Não,nfe: perfeito. Eu já entendi a ferramenta, já tenho as dúvidas que eu precisava, Eu vou passarnfe: agora tudo para a avaliação do [LOCAL], e assim que eu tiver minha posição, eu volto a falar com a [PESSOA] daí. Legal, legal. Um outro ponto, assim, o último, só para também não deixar dúvidas,nfe: é que toda a parte de configuração do Transmit já está incluso no pacote, por uma oferta complementar, então a gente ainda todos manda um e-mail para vocês, ali para o administrador, por exemplo, e vai agendar o onboard, que é configurar, capacitar, ensinar vocês ali no uso. Agora, o importador XML, ele é próprio do Proteus, mas ele precisa ser configurado para conversar com o Transmit e passar a receber as notas automaticamente para vocês. Aí, essa parte do lado do Proteus, vocês podem fazer ou contratar um apoio da [PESSOA], que aí é um valor adicional de implantação, por exemplo. Mas se voc",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: quiserem, é apenas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: Ah, tranquilo. A gente tem documentação. Eu vou passar aqui para você no... Deixa eu passar o link do município. Também aqui, porque a gente sempre compartilha o material caso precise de apoio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: tem tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: aqui já no chat para você, tanto dos municípios como a parte técnica ali do importador. Então tá bom, pessoal. É bem rápido, é bem direcionado, vocês já conhecem. Tem mais alguma questão?nfe: Não, é somente isso mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Eu vou complementar um pouquinho, [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4159,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA], pós-contratação, como é que funciona, mais ou menos, o passo a passo, tá? A partir do momento que é assinado a proposta, sobe para faturamento, após o faturamento, que vocês vão receber o e-mail, tá? Vai uns dez dias, mais ou menos, para preparar o ambiente de vocês, e a partir disso, daí sim, vocês podem fazer o onboarding. Neste e-mail vocês vão ter alguns passinhos para fazer antes do onboarding, que é fazer alguns acessos, mas é tudo coisa muito simples, tá?nfe: que é o suporte para nós, quenfe: já utiliza [PESSOA]: pagamento também dos clientes. Então, para eles também, a configuração, ele até me falou que não precisa participar de reuniões nem nada, que para eles é uma rotina tranquila. Então,nfe: na verdade, eu só vou passar as duas propostas que eu tenho agora para o [LOCAL], para a gente ver uma definição, e eu volto a falar contigo daí. Combinadíssimo.nfe: [LOCAL], obrigada pelo teu tempo, e [PESSOA], muito obrigada.nfe: [LOCAL]. [LOCAL],nfe: tchau. [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 28]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

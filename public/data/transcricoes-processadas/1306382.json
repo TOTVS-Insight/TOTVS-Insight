@@ -1,0 +1,1225 @@
+{
+  "id_reuniao": "1306382",
+  "codt": "114491",
+  "data_reuniao": "2026-03-26 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 23]: pra gente não perder muito tempo com isso, tá?\n[LOCUTOR 37]: É\n[LOCUTOR 23]: que existe já aparecendo pra vocês aí.\n[LOCUTOR 37]: Sim, já tá.\n[LOCUTOR 11]: Já tá. Show\n[LOCUTOR 23]: de bom. Então, vamos lá. A gente falou muito sobre a nuvem da [EMPRESA]. Eu não vou ficar repetindo o que a gente já conversou aqui, tá? Mas a ideia, então, é a gente trazer uma proposta pra que vocês possam migrar o ambiente de vocês pra dentro da nuvem da [EMPRESA], tá? E quando a gente fala de migrar para o [LOCAL], a gente fala de não só migrar a infraestrutura, mas também tem toda uma camada de serviço, de sustentação e tudo mais. Qual que é a ideia aqui? É a gente pensar e a gente construir isso juntos, pessoal. De uma jornada de vocês poderem migrar para a [LOCAL] e nessa jornada de migração vocês terem os menores percursos possíveis e vocês conseguirem aproveitar tudo que a [LOCAL] vai trazer para vocês. Eu acho que a primeira coisa, então, é você ter a sustentação do Proteus como um todo. A gente falou sobre isso, mas vale lembrar que não é só uma terceirização da infraestrutura como qualquer nuvem,\n[LOCUTOR 37]: [LOCUTOR 2]: uma sustentação de todo o ambiente Proteus de vocês e vocês não vão precisar mais se preocupar com gestão, atualização de versão, com a parte de gestão dos servidores, atualização de patch e tudo mais. Isso tudo a [EMPRESA] faz para você. A única coisa que fica com vocês é o customizado, que a gente tinha comentado, e escolher quando que vai ser a janela de atualiza\n[LOCUTOR 10]: da\n[LOCUTOR 23]: versão. \n[LOCUTOR 35]: parte\n[LOCUTOR 23]: de backup, então, gostaria de lembrar que a gente vai entregar o backup incluso com retenção de 5 anos. Então, vocês vão ter uma cópia sendo feita diariamente dos dados de vocês e vocês vão poder voltar no tempo qualquer dado nos últimos 5 anos. A gente está trazendo uma modalidade Prime, então a gente tem hoje três modalidades na [EMPRESA], que é o compartilhado para cliente pequeno, que tem 4, 5 usuários, o modelo dedicado, onde você já não divide mais\n[LOCUTOR 37]: recursos\n[LOCUTOR 23]: com outros, e o modelo Prime, que é onde você tem, eu falo que é o creme de la creme, tudo que tem de melhor no portfólio da [EMPRESA]. E a gente está falando de alta disponibilidade, então ambiente redundante, tem um ambiente de produção e um de contingência que está ligado ao mesmo tempo, Os dois estão ligados juntos e a gente tem um failover, se o ambiente produtivo cair, o ambiente secundário assume automaticamente.\n[LOCUTOR 15]: E\n[LOCUTOR 23]: a gente está falando também do atendimento Prime, onde vocês não vão precisar abrir chamado, vocês vão falar direto com o engenheiro Prime no WhatsApp e ele orquestra tudo para vocês, a parte de atendimento, sustentação e tudo mais. Eu cheguei a explicar esse slide e queria saber se quer que eu retome sobre ele ou não.\n[LOCUTOR 37]: Não, cara, não precisa.\n[LOCUTOR 15]: \n[LOCUTOR 33]: slide é basicamente assim, serviços lindos e maravilhosos.\n[LOCUTOR 23]: A gente tá cortando três ambientes. Ambiente de produção, ambiente de homologação e a redundância. Lembrando que os ambientes de produção, o ambiente produtivo de vocês vai ter a redundância de uma cópia em tempo real. E eu habilitei na proposta de vocês um read-only. Ou seja, vocês vão ter no nosso secundário a possibilidade de conectar Power BI, conectar alguma consulta de leitura. Até porque se você precisar fazer uma consulta de Power BI ou dar um select no banco muito pesado, você não sobrecarrega o banco de\n[LOCUTOR 37]: produ\n[LOCUTOR 8]: e não fica lento para os usuários.\n[LOCUTOR 37]: [LOCUTOR 19]: praticamente não tem custo, isso eu habilitei no projeto de você. [LOCAL].\n[LOCUTOR 23]: Parte de conexões, então. São 400 conexões de produção. O de homologação a gente estima cinco conexões simultâneas.\n[LOCUTOR 37]: É\n[LOCUTOR 23]: mais para a galera que vai testar, enfim.\n[LOCUTOR 37]: É\n[LOCUTOR 23]: parte de portal, então. 100 conexões simultâneas no portal do Proteus. E de homologação do portal, a mesma coisa. Cinco conexões. O que mais? Parte de job. Hoje vocês têm... Bastante jobs, né? São quatro app servers aí de job. Isso tudo a gente levou do [EMPRESA]. Então fica quatro app servers do job e aí dois app servers de REST e um de Scope com 1.000 requisições simultâneas cada. O total das APIs aí vai dar 3.000 requisições simultâneas. Tamanho de dados aqui a gente pegou da base de vocês, tá? 220 GB aí de aplicação e 880 GB de banco. O TSS de vocês, a gente estima o TSS pela volumetria de documentos-ano, tá? 90 mil documentos-ano é o que a gente estimou. O TSS, ele também é dedicado no modelo Prime, tá? Então, você vai\n[LOCUTOR 37]: ter o\n[LOCUTOR 23]: TSS, o ambiente de produção, de homologação, a redundância, a mesma pegada, tá? O SmartView também é a mesma coisa. E 5 VPN site-to-site para que vocês possam fazer. as conexões direto com o ambiente da Toffice e não fique independente de fazer uma única VPN com a matriz de vocês e todo mundo dependa só da matriz. Parte de banco. A gente já entrega a licença SQL Enterprise. Eu não sei se vocês estão utilizando a Enterprise ou a [EMPRESA] hoje.\n[LOCUTOR 37]: A [EMPRESA].\n[LOCUTOR 23]: A [EMPRESA], legal. Então melhora um pouquinho a performance do banco. Quando a gente vai para a enterprise, tem umas features que para o melhor reaproveitamento de threads e tudo mais, melhora um pouquinho a performance do banco também.\n[LOCUTOR 37]: É, estou paralelamente aqui, estou... Até disparei para o [EMPRESA] aí, para ele fazer um orçamento para nós aí, para os meus filhos mencionarmos aí, o orçamento de licenciamento do DBAxis e do SQED Server, né, cara? Então, isso também é uma coisa que nós vamos ter que ver, que vai pesar na decisão, né?\n[LOCUTOR 23]: Boa, show de bola. Sabe quantas licenças você tem de DB Axis hoje?\n[LOCUTOR 37]: licenciado para quatro processadores.\n[LOCUTOR 23]: Ah, hoje o modelo de vocês é corporativo, então vocês pagam pelos processadores.\n[LOCUTOR 37]: Isso, daí eu pedi para o [EMPRESA] até orçar para nós o outro modelo para a gente ver como é que é. Daí também tem, dependendo do que ele retornar para nós, tem que avaliar também a nossa licença da SQL 7, também que é licenciada para processador.\n[LOCUTOR 23]: Tá bom, perfeito. Vamos lá, então, deixa eu trazer uma excelente notícia para vocês, tá? Quando você migra para a nuvem da TOTUS nesse modelo, que o licenciamento de DBAxis é por processadores, você se torna ilimitado. A TOTUS não conseguiu uma forma de transformar esse licenciamento na hora de migrar para o cloud. Porque se eu te vendo por conexão, eu não vou te limitar aos processadores. O banco tem que botar o quanto precisar. Se eu vou dar uma rotina super pesada, eu vou ter que alocar um monte de processador para rodar, E isso faz parte do nosso modelo de negócio em cloud. Então, você migrando para a cloud, você não compra mais licenças de DBAx com a TOTUS. Elas passam a ser ilimitadas. A única coisa que você passará a comprar com a TOTUS, a aumentar, no caso, vai ser as conexões usuárias. Então, tem 400 conexões ali. Se você botar mais pessoas para trabalhar, você vai precisar contratar mais conexões. Então, praticamente vai ser essa métrica.\n[LOCUTOR 37]: Eu não lembro, essas conexões também vieram do assessment, né?\n[LOCUTOR 23]: Então, tem uma gordurinha aqui, né? Você deve ter umas\n[LOCUTOR 37]: 350 conexões. Isso,\n[LOCUTOR 23]: isso. Tem uma gordurinha, tá? Mas, enfim, é importante lembrar isso porque quando você vem para a nuvem da [EMPRESA], você não compra mais a licença de TBAxis, mas as conexões, elas continuam limitadas a 400 ou que você tiver contratado, bom? Beleza, pessoal. Alguma dúvida com relação ao escopo?\n[LOCUTOR 37]: Não. Bem dentro do esperado.\n[LOCUTOR 23]: Show de bola. Vamos para a parte que interessa, então. 20 conto o setup, ou seja, o serviço de migração. A parte de a gente migrar e levar todo o ambiente de vocês para a nuvem. E um valor mensal de R$ 26.900. 27 conto. Lembrando que são valores sem impostos, aí tem\n[LOCUTOR 37]: imposto\n[LOCUTOR 23]: de 15,75.\n[LOCUTOR 37]: [LOCUTOR 20]: aí, vai dar uns 30 mil. Vocês são do lucro real ou não? Sim, do lucro real.\n[LOCUTOR 23]: Tá, legal.\n[LOCUTOR 37]: [LOCUTOR 7]: podem lançar a nota da\n[LOCUTOR 23]: TOTUS como despesa de insumo essencial de produção. A gente tem toda uma jurisprudência disso, eu posso compartilhar contigo para você mandar para o seu contávio. E aí voc\n[LOCUTOR 17]: têm...\n[LOCUTOR 23]: 9,25 de dedução no imposto da nota da [LOCAL].\n[LOCUTOR 37]: Mas,\n[LOCUTOR 23]: enfim, fica nessa faixa aí, tá?\n[LOCUTOR 37]: Tá.\n[LOCUTOR 23]: Pergunta importante. Você tem esse projeto, tem alguma prioridade de sair esse semestre? Não tem para a\n[LOCUTOR 37]: gente\n[LOCUTOR 23]: pensar\n[LOCUTOR 37]: internamente? Cara, assim, a gente está nesse impasse, né? Porque eu preciso levantar o que nós teríamos que atualizar aqui do nosso lado para manter um prêmio e isso para comparar, né? Até por isso que eu esperei para o [EMPRESA] aí melhorar para nós e até ver as possibilidades da alteração que a gente tem, quanto custaria. Assim, a ideia seria, sim, esse negócio andar no primeiro semestre.\n[LOCUTOR 23]: Mas eu estou\n[LOCUTOR 37]: passando por uma mudança de equipe aqui. Então, o volume de trabalho vai acabar aumentando. Então, vamos ver as prioridades aqui. Mas, sim, a ideia é que esse negócio Tá,\n[LOCUTOR 23]: boa, show de bola. A gente tem aqui, eu montei um cronograma, uma visão de cronograma, tá? Aí é só ajusta, né? Se você for fechar em maio, por exemplo, vai ficar mais\n[LOCUTOR 37]: ou\n[LOCUTOR 23]: menos... Mas esse é mais ou menos uma jornada de migração, tá? [LOCAL] que é uma jornada um pouco pessimista, você pode diminuir ela, mas é que boa parte da jornada, ela é do teu lado, tá, [PESSOA]? O que é testar, é você fazer as homologações, porque na hora de subir,\n[LOCUTOR 37]: se\n[LOCUTOR 23]: estiver bem testado, se estiver tudo ajustado, customizado, enfim, vai redondinho. O cronograma macro é esse. Então a gente sobe um ambiente de homologação para vocês, que é uma cópia dos dados de você, uma cópia da aplicação e do banco,\n[LOCUTOR 37]: e\n[LOCUTOR 23]: aí você faz os testes. Ajuda o que tem que ajustar, testa isso, vai interagir bastante com o nosso time. E aí voc\n[LOCUTOR 24]: pode\n[LOCUTOR 23]: fazer...\n[LOCUTOR 37]: Já te digo assim, me parece bem interessante, porque eu estou em época de atualização de inversão, né, cara? Quando eu vou atualizar, em\n[LOCUTOR 23]: 2005,\n[LOCUTOR 37]: meu plano seria atualizar até mais, em julho, né? O limite de suporte é fim de junho, ou junho, agora, se não me engano, não estou lembrado,\n[LOCUTOR 23]: né?\n[LOCUTOR 37]: Então, meio que casaria umas datas aí, né? Seria interessante, por esse lado. Mas, é como eu disse, né? Eu dependo de outras coisas andarem\n[LOCUTOR 23]: para\n[LOCUTOR 37]: poder definir alguma coisa, né?\n[LOCUTOR 23]: Boa, perfeito. Do lado da [LOCAL] aqui, a gente vai te entregar um coordenador de projetos para te apoiar nisso, tá? Então vai acompanhar a jornada do lado de [PESSOA] ali, de ficar te analisando como é que está as coisas, enfim, para a gente tentar manter o cronograma. Isso aqui é uma visão de cronograma macro, né? Isso vai ser construído contigo, tá, [PESSOA]? Até para poder saber, para encaixar isso aí nas janelas de vocês e na capacidade operacional de vocês também, de conseguir fazer as coisas\n[LOCUTOR 37]: que\n[LOCUTOR 23]: estão do lado de vocês, né?\n[LOCUTOR 37]: Sim. [LOCAL]. É isso aí.\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 37]: Cara, muito bom. O valor ficou... Vou ser bem sincero com vocês, ficou abaixo do que esperava. [PESSOA] interessante. O que eu vou dizer para vocês? Agora, na próxima semana, [EMPRESA], me ajuda aí, cara. Tentar agilizar para a gente poder levantar quais seriam as alterações de licenciamento, especialmente, que teríamos que fazer aqui do nosso lado, Se nós decidíssemos por manter a nossa operação em prémios, eu\n[LOCUTOR 11]: preciso\n[LOCUTOR 37]: ter esse comparativo, porque o valor aqui me pareceu muito bom. A proposta me pareceu muito boa. Então, para mim, me parece ser atrativo. Inclusive, com valores que nós temos aqui em mãos para fazer atualizações em servidores de storage, uma conta de padeiro que o cara faz, isso sem eu saber quanto custa... [LOCAL] um licenciamento, etc, que eu teria que... Eu quero alterar aqui do meu lado, se eu quisesse ter algum ganho de performance por essa parte. Eu estou falando em coisa de um milhão de reais. A gente dilui esses 30 mil aí por mês para chegar em um milhão de reais, dá conta.\n[LOCUTOR 23]: Dá para ver esses meses.\n[LOCUTOR 37]: Pois é, um milhão dividido por 30 mil, né, cara? Dá 33 meses, são três anos, né, cara? [EMPRESA] 36 aí, vai, porque não é 30 mil. Então, são três anos. Então, me parece bem atrativo, tá? E eu tô confirmando aqui que não me deixa mentir, né, cara? E tá com licenciamento [EMPRESA], Windows Server, SQL Server e mais uma camada que é o licenciamento Kotlin. É uma dor de cabeça a parte, né, cara? O cara nunca sabe o que vai acontecer com o licenciamento [EMPRESA] amanhã, né? Isso também é... É\n[LOCUTOR 23]: atrativo. O próprio preço dos hardware estudou muito agora.\n[LOCUTOR 37]: Muito. Muito, cara. É ridículo. Eu estava esperando... Com esse levantamento que a gente fez de história de servidor, eu estava esperando alguma coisa em torno de 300, 400 mil reais, dentro da minha mente. Sendo pessimista, 500 mil reais simplesmente sai do dobro do que eu imaginava. Então tá. Cara, dito isso, eu tenho os valores em mão. Posteriormente, para poder fazer esse comparativo, seria mais benéfico mantermos um prêmio, partirmos pela nuvem. Ainda tenho as minhas ressalvas com relação à nuvem da [LOCAL], só porque, né, cara? Atendimento. Mesmo tu me falando assim, não, olha, [PESSOA], tu vai dispor de um técnico aí, exclusivo para vocês. Aí, nós conversando assim, o que eu imagino? Vai ser um cara E esse cara vai trabalhar para mim o mesmo caso. Não vai ser hoje o [PESSOA], amanhã o [PESSOA], de tarde o [PESSOA]. Eu espero que seja algo nesse modelo. Quando houver a troca do meu atendente, ou seja, comunicado, isso não seja algo com uma frequência muito alta, apesar de eu entender que deve haver uma tal rotatividade nessa parte. \n[LOCUTOR 18]: ou menos. Nesse modelo do Prime, a [PESSOA], na verdade ele é um técnico, ele é um analista sênior, ele é um líder do time de suporte, ele não atende exclusivamente\n[LOCUTOR 37]: você. Sim, ele orquestra os atendimentos lá.\n[LOCUTOR 23]: Isso aí, mas você fala sempre com a mesma pessoa e é isso que você falou, o final de semana o cara vai sair e não vai estar no plantão, ele vai te avisar, [PESSOA], o [EMPRESA] está no meu lugar. Então essa é a lógica, tá? Mas você tem a mesma pessoa sempre que você tem o ponto de contato.\n[LOCUTOR 37]: Aí eu falo para vocês um dos medos que eu tenho, né? É a gente acabar tendo uma qualidade de atendimento do mesmo tipo que a gente tem nos chamados hoje em dia. O [EMPRESA] sabe, o [PESSOA] tá aí, ele sabe também, né, cara, que eu reclamo pra caralho da qualidade de atendimento dos chamados, né, cara? E o [PESSOA] não é sem razão, é com razão. Não gostaria de ter a mesma experiência com a eventualidade de a gente fazer migração para a nuvem. Outra ressalva que eu tenho acho que é uma perda de agilidade para alguns processos do nosso dia a dia. Eu tenho... Estou trabalhando com um desenvolvedor agora de manhã, por exemplo. Estou com o [PESSOA], né, [PESSOA]? Ele está atendendo a gente agora de manhã. É muito fácil eu pegar, copiar um RPO para lá e para cá, desabilitar um fonte, sei lá. N situações que podem ocorrer, que hoje em dia a gente consegue fazer com agilidade e tal. Ah, eu tenho uma situação X que está acontecendo no meu ambiente, eu posso chamar o Calvin, que é o meu cara da infra, ali de [LOCAL], que me atende, e o cara conhece meu ambiente de cabo a rabo. E ele consegue virar meu ambiente do avesso, se precisar. Logicamente que, com o atendimento no Cloud, isso vai mudar. Tem muitas coisas que eu imagino que nós não vamos conseguir atuar diretamente. Vai ser só através do intermédio de uma pessoa. Isso me preocupa um pouco. A gente perde um pouquinho da agilidade no processo. Mas daqui a pouco eu estou sendo muito conservador.\n[LOCUTOR 23]: Eu ia trazer uma sugestão, talvez possa te trazer um conforto, [PESSOA]. Quer a gente pegar dois ou três clientes de Prime e você fazer um benchmark? Seria\n[LOCUTOR 37]: interessante.\n[LOCUTOR 23]: é vamos lá quem que é um cara que sempre se dispõe a conversar com os clientes. O cara da [PESSOA] que é o [LOCAL] e ele é um cara super gente boa e ele fala cada vez melhor que a dama. Esse dia indiquei para um cliente lá ele falou do pior falou o cara mal\n[LOCUTOR 37]: e\n[LOCUTOR 23]: não fazia nada. O que eu fiz. Enchi o saco trocaram e melhorou. Então, pra você ter essas experiências, eu posso até pegar algumas pessoas da região aqui, alguns clientes que já rodam no Prime, eu ligo pro cliente e falo, cara, você não quer falar um pouquinho da tua experiência lá pro pessoal da [EMPRESA]? contar o dia a dia, o que est\n[LOCUTOR 22]: acontecendo. [LOCAL], legal. Gostaria, gostaria. Por favor, o arquiteto aí. Gostaria de conversar com o pessoal, sim.\n[LOCUTOR 23]: Eu vou levantar uns dois ou três, uns três clientes eu vou levantar e eu passo para você, eu passo para o [EMPRESA], enfim, para você trocar essa ideia, ver como é que está a experiência.\n[LOCUTOR 37]: [EMPRESA] seria alguém que tivesse feito a migração, que tivesse uma base mais ou menos similar à nossa, uma quantidade de usuários mais ou menos similar à nossa, que tivesse uma quantidade X de customizações, né? Porque\n[LOCUTOR 23]: eu\n[LOCUTOR 37]: compreendo essa parte aí que tu fala, pô, depende mais de vocês alinharem os testes e as customizações especificamente, né? Cara, tenho situações aqui que eu, logicamente, não consigo nem imaginar, que talvez não estão bem documentadas, que vão acontecer devido a essa mudança da infra, né?\n[LOCUTOR 23]: [LOCUTOR 21]: me preocupa um pouquinho também. Eu estou perdendo um braço aqui no setor, tá? O [PESSOA], e é uma analista de sistema que está saindo essa semana. Então, até a gente conseguir consultar uma outra pessoa, conseguir passar as informações necessárias para essa pessoa, vai demorar um pouquinho para ela começar a trabalhar sozinha. Então, vai acabar afunilando tudo em mim. Isso também é um problema. Porque esse é um projeto que vai demandar uma atenção especial, né, cara? Eu acabo não podendo deixar as outras coisas que estão acontecendo aqui de lado. Isso me preocupa também. É um projeto... E tem uma complexidade razoável, né? Essa migração é uma coisa fácil, imagina. [PESSOA] quanto ao atendimento, né, cara? Situações que nós enfrentamos recentemente aí, com estabilidade, estabilidade de serviços, né, cara, que nós não estávamos conseguindo identificar, que foram sanadas só depois da atualização de app server, de binário, sei lá, né? E até lá, as soluções que nós tínhamos eram correções manuais. Meu serviço, um dos meus slaves deu pau, tudo bem, até que eu não consiga resolver, eu consigo manualmente, lá, muito rapidamente, subir ele de novo, se precisar. Como é que vai ser uma dinâmica desse tipo quando o atendimento fica afunilado num engenheiro da [LOCAL]? Eu vou ter sempre que chamar para o cara, ô, [PESSOA], dá uma olhada aí para mim que o negócio parou de funcionar aqui. O cara lá, tá. E aí eu vou estar com o chamado rolando do lado para a gente poder ver por que essa instabilidade está acontecendo. Imagino eu que a dinâmica vai ser essa. Imagino eu que\n[LOCUTOR 37]: o meu volume de interações através de chamado vai aumentar um monte. E isso é uma coisa que me preocupa um pouquinho.\n[LOCUTOR 23]: Assim, você não perde essa autonomia, tá, [PESSOA]? Obviamente, muda a forma com que você faz, né? Hoje, pra você mexer no serviço do TSS, você precisa acessar o [EMPRESA] do servidor, abrir o serviço e mexer no serviço, né? No [PESSOA], você vai fazer isso pela interface do [PESSOA],\n[LOCUTOR 37]: você não\n[LOCUTOR 23]: vai acessar o servidor. Mas você não perde a autonomia, tá? Tudo que você faria, você continua fazendo. O que você perde a autonomia? [LOCAL] na estrutura do sistema operacional. Então aí, isso você precisa do Engenho Prime pra fazer. Mas o resto, tudo você tem autonomia pra fazer. Inclusive no [PESSOA], você tem um agente de A que faz muita coisa pra você, tá? Então, desde o troubleshooting... Ah, eu tive uma nota que deu pau, a nota não emitiu. O que aconteceu? Pode pedir pro agente de A, ele vai descobrir onde é que tá parado o processo. Ah, eu preciso reiniciar o meu TSS. Você pede pra gente já e ele reinicia pra você. Então tem\n[LOCUTOR 37]: algumas\n[LOCUTOR 23]: facilidades, tá? Muita coisa você consegue fazer sem depender do gerente Prime, tá? \n[LOCUTOR 30]: quando\n[LOCUTOR 23]: entra na camada mais de infraestrutura,\n[LOCUTOR 37]: mexer\n[LOCUTOR 23]: no SO, no virtualizador, aí você vai precisar dele mesmo.\n[LOCUTOR 37]: É, cara, assim ó, eu na minha concepção aqui, eu não pararia de consumir o serviço do pessoal de infra aqui de [LOCAL]. Algumas coisas eu canalizaria para eles, mas a gente, em conjunto, trabalhando com essa pessoa, com esse engenheiro aí da TOTUS que administraria a nossa ponta aí, o nosso consumidor. Coisas para\n[LOCUTOR 23]: se\n[LOCUTOR 37]: pensar. O momento é oportuno, tá? Eu estou agora aqui arquitetando para começar os testes, para a gente fazer a atualização de versão, E, logicamente, eu olho o cronograma e eu penso, eu posso simplesmente fazer os meus testes direto nesse ambiente aí, antes da gente migrar.\n[LOCUTOR 23]: Isso aí. Tem muita gente que faz\n[LOCUTOR 37]: dessa\n[LOCUTOR 23]: forma. Aproveita mesmo a janela.\n[LOCUTOR 37]: Sim. Então, isso me parece bem conveniente. [EMPRESA], eu preciso que tu... se tu consegue aí, cara, dar uma agilizada no e-mail que eu passei,\n[LOCUTOR 11]: pedindo\n[LOCUTOR 37]: questão do db-access e tal, né? E daí eu consigo tomar essa decisão mais rápido. Assim,\n[LOCUTOR 11]: olha...\n[LOCUTOR 37]: Galera, de arrancada, eu olhando a frio aqui, sem me apegar muito a detalhe, me pareceu extremamente interessante, tá?\n[LOCUTOR 11]: \n[LOCUTOR 31]: nós nem começamos a conversar a respeito do licenciamento da Scan Server aqui internamente. Vou esperar esse retorno do [EMPRESA] para entender o que nós vamos precisar fazer. Mas é como a gente fez essa continha besta aqui. De cara, o investimento que eu faria aqui em hardware novo são três anos. Sem contar o licenciamento da Scan Server. Sem contar outros detalhes, como manter a estrutura aqui internamente,\n[LOCUTOR 23]: que\n[LOCUTOR 37]: é uma coisa difícil de mensurar. O cara até faz um TCO, mas é muito difícil de mensurar algumas coisas que a gente mantém fisicamente o prêmio. É difícil.\n[LOCUTOR 23]: [LOCUTOR 13]: muita coisa que a estima tira um chute. É, energia, mão de obra.\n[LOCUTOR 37]: É isso,\n[LOCUTOR 23]: né?\n[LOCUTOR 37]: É, garantia, eventuais problemas que o cara enfrenta, dá um time que seja. Bastante coisa para considerar.\n[LOCUTOR 23]: É verdade.\n[LOCUTOR 37]: Bola, cara. [PESSOA], gostei, tá? [PESSOA], gostei mesmo.\n[LOCUTOR 23]: [LOCUTOR 6]: com uma impressão legal. Logicamente, depois da gente decidir qualquer coisa, eu vou ter que me interar de mais detalhes aí no projeto. [LOCAL].\n[LOCUTOR 37]: Porque\n[LOCUTOR 23]: do\n[LOCUTOR 37]: meu lado\n[LOCUTOR 23]: também existe isso, né? De conseguir os contatos aí pra fazer esse benchmarking. Sim.\n[LOCUTOR 37]: [LOCUTOR 5]: mando essa apresentação também. Por favor. Então, vamos lá. Acho que vai ter uma continuidade por enquanto.\n[LOCUTOR 23]: Deixa eu\n[LOCUTOR 11]: já te comentar tá [PESSOA], eu vi o teu e-mail\n[LOCUTOR 37]: e\n[LOCUTOR 11]: aí eu tô só aguardando pra conversar com a [PESSOA]. que é do nosso time de, desculpa, de software complementar, para entender aquelas questões de SQL que tu comentou, tá? \n[LOCUTOR 35]: outra\n[LOCUTOR 11]: questão do tech processor lá, enfim, que é o licenciamento por número de processadores, isso é rapidinho olhar ali e te dar uma estimativa de valor, tá?\n[LOCUTOR 37]: [LOCUTOR 9]: só não quero te responder o e-mail parcialmente, tá? Então eu vou esperar essa devolutiva\n[LOCUTOR 11]: dela e depois eu te retorno\n[LOCUTOR 37]: com... É, isso\n[LOCUTOR 11]: desencadeia\n[LOCUTOR 37]: as coisas aqui pra nós, né, cara? Essa questão do licenciamento da SQL Server acaba desencadeando questões a respeito de configuração das nossas máquinas virtuais, do nosso próprio licenciamento do Windows Server, né, cara?\n[LOCUTOR 11]: \n[LOCUTOR 34]: conversando aqui, se fosse um cenário no cloud, eu não me preocuparia com esse tipo de coisa. Pipino a menos, né?\n[LOCUTOR 37]: Pois é, cara. E agora, infelizmente, estou numa fase que eu preciso diminuir consideravelmente o número de pipinos, né?\n[LOCUTOR 11]: É,\n[LOCUTOR 37]: [LOCUTOR 1]: verdade, cara. É,\n[LOCUTOR 11]: vamos lá. Eu acredito que nada acontece por acaso, né, [PESSOA]? Daqui a\n[LOCUTOR 37]: pouco\n[LOCUTOR 11]: pode\n[LOCUTOR 37]: ser... É momento,\n[LOCUTOR 11]: né? É, exatamente, né,\n[LOCUTOR 37]: cara?\n[LOCUTOR 11]: Porque tira bastante coisa das costas, né? Vamos dizer assim, das costas ou da responsabilidade de vocês, né? Então...\n[LOCUTOR 37]: É, cara, o próprio momento financeiro da empresa, tá?\n[LOCUTOR 11]: Como o\n[LOCUTOR 37]: mercado está meio maluco, aí guerra, né, cara? Guerra pegando\n[LOCUTOR 11]: o\n[LOCUTOR 37]: mercado maluco, o mercado de combustível maluco. É bastante [EMPRESA], né, cara? É um momento que seria difícil para a gente fazer... Seria difícil, não. É mais complicado fazer o investimento numa compra de hardware, que não tem uma condição de compra talvez tão atrativa. Se torna mais atrativo ainda manter um serviço, ao invés de comprar um equipamento. Depois tem outras questões que destino que eu vou dar para esse equipamento quando ele se tornar obsoleto. Tem situações aí que a gente tem que considerar. Mas, galera, foi de bola. [PESSOA]. O levantamento, o assessment, acho que foi bem coerente com a realidade mesmo. Acho que fez bastante sentido. E o valor também, para mim, não ficou nada muito exorbitante. Ficou abaixo do que eu estava esperando. Ficou abaixo.\n[LOCUTOR 23]: [LOCAL]. Então, [EMPRESA],\n[LOCUTOR 37]: vamos\n[LOCUTOR 23]: colocar um over não\n[LOCUTOR 37]: estou falando aqui\n[LOCUTOR 11]: para voc\n[LOCUTOR 24]: tá gravando a reunião\n[LOCUTOR 11]: claro\n[LOCUTOR 23]: eu\n[LOCUTOR 37]: tô falando que para mim tá abaixo tá mandando sonho\n[LOCUTOR 11]: [LOCUTOR 2]: a\n[LOCUTOR 4]: a\n[LOCUTOR 11]: gente\n[LOCUTOR 37]: sabe\n[LOCUTOR 11]: né [PESSOA] quando\n[LOCUTOR 23]: chega\n[LOCUTOR 11]: no cara que ele vem uns porra e\n[LOCUTOR 37]: agora tem\n[LOCUTOR 11]: uma\n[LOCUTOR 37]: moça também né [EMPRESA]\n[LOCUTOR 11]: não tem\n[LOCUTOR 37]: só o cara é verdade é bom Mas vamos lá, vamos lá. Então agora eu fico aguardando aí o [EMPRESA] e vocês me passarem alguns contatos aí pra gente poder fazer uma reuniãozinha aí eu dou uma sentida na opinião do pessoal aí também como tá.\n[LOCUTOR 23]: Boa. Fechou. Combinado.\n[LOCUTOR 37]: Fechou. Obrigado.\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 11]: Obrigado\n[LOCUTOR 23]: pela porta.\n[LOCUTOR 11]: \n[LOCUTOR 16]: pelo tempo.\n[LOCUTOR 37]: [LOCAL]. [LOCAL],\n[LOCUTOR 15]: gente. [LOCAL], pessoal. \n[LOCUTOR 26]: e [EMPRESA], [EMPRESA].\n[LOCUTOR 3]: Tchau, [EMPRESA].",
+  "texto_filtrado": "[LOCUTOR 23]: que existe já aparecendo pra vocês aí.\n[LOCUTOR 11]: Já tá. Show\n[LOCUTOR 23]: de bom. Então, vamos lá. A gente falou muito sobre a nuvem da [EMPRESA]. Eu não vou ficar repetindo o que a gente já conversou aqui, tá? Mas a ideia, então, é a gente trazer uma proposta pra que vocês possam migrar o ambiente de vocês pra dentro da nuvem da [EMPRESA], tá? E quando a gente fala de migrar para o [LOCAL], a gente fala de não só migrar a infraestrutura, mas também tem toda uma camada de serviço, de sustentação e tudo mais. Qual que é a ideia aqui? É a gente pensar e a gente construir isso juntos, pessoal. De uma jornada de vocês poderem migrar para a [LOCAL] e nessa jornada de migração vocês terem os menores percursos possíveis e vocês conseguirem aproveitar tudo que a [LOCAL] vai trazer para vocês. Eu acho que a primeira coisa, então, é você ter a sustentação do Proteus como um todo. A gente falou sobre isso, mas vale lembrar que não é só uma terceirização da infraestrutura como qualquer nuvem,\n[LOCUTOR 37]: [LOCUTOR 2]: uma sustentação de todo o ambiente Proteus de vocês e vocês não vão precisar mais se preocupar com gestão, atualização de versão, com a parte de gestão dos servidores, atualização de patch e tudo mais. Isso tudo a [EMPRESA] faz para você. A única coisa que fica com vocês é o customizado, que a gente tinha comentado, e escolher quando que vai ser a janela de atualiza\n[LOCUTOR 23]: versão.\n[LOCUTOR 35]: parte\n[LOCUTOR 23]: de backup, então, gostaria de lembrar que a gente vai entregar o backup incluso com retenção de 5 anos. Então, vocês vão ter uma cópia sendo feita diariamente dos dados de vocês e vocês vão poder voltar no tempo qualquer dado nos últimos 5 anos. A gente está trazendo uma modalidade Prime, então a gente tem hoje três modalidades na [EMPRESA], que é o compartilhado para cliente pequeno, que tem 4, 5 usuários, o modelo dedicado, onde você já não divide mais\n[LOCUTOR 37]: recursos\n[LOCUTOR 23]: com outros, e o modelo Prime, que é onde você tem, eu falo que é o creme de la creme, tudo que tem de melhor no portfólio da [EMPRESA]. E a gente está falando de alta disponibilidade, então ambiente redundante, tem um ambiente de produção e um de contingência que está ligado ao mesmo tempo, Os dois estão ligados juntos e a gente tem um failover, se o ambiente produtivo cair, o ambiente secundário assume automaticamente.\n[LOCUTOR 23]: a gente está falando também do atendimento Prime, onde vocês não vão precisar abrir chamado, vocês vão falar direto com o engenheiro Prime no WhatsApp e ele orquestra tudo para vocês, a parte de atendimento, sustentação e tudo mais. Eu cheguei a explicar esse slide e queria saber se quer que eu retome sobre ele ou não.\n[LOCUTOR 33]: slide é basicamente assim, serviços lindos e maravilhosos.\n[LOCUTOR 23]: A gente tá cortando três ambientes. Ambiente de produção, ambiente de homologação e a redundância. Lembrando que os ambientes de produção, o ambiente produtivo de vocês vai ter a redundância de uma cópia em tempo real. E eu habilitei na proposta de vocês um read-only. Ou seja, vocês vão ter no nosso secundário a possibilidade de conectar Power BI, conectar alguma consulta de leitura. Até porque se você precisar fazer uma consulta de Power BI ou dar um select no banco muito pesado, você não sobrecarrega o banco de\n[LOCUTOR 37]: produ\n[LOCUTOR 8]: e não fica lento para os usuários.\n[LOCUTOR 37]: [LOCUTOR 19]: praticamente não tem custo, isso eu habilitei no projeto de você. [LOCAL].\n[LOCUTOR 23]: Parte de conexões, então. São 400 conexões de produção. O de homologação a gente estima cinco conexões simultâneas.\n[LOCUTOR 23]: mais para a galera que vai testar, enfim.\n[LOCUTOR 23]: parte de portal, então. 100 conexões simultâneas no portal do Proteus. E de homologação do portal, a mesma coisa. Cinco conexões. O que mais? Parte de job. Hoje vocês têm... Bastante jobs, né? São quatro app servers aí de job. Isso tudo a gente levou do [EMPRESA]. Então fica quatro app servers do job e aí dois app servers de REST e um de Scope com 1.000 requisições simultâneas cada. O total das APIs aí vai dar 3.000 requisições simultâneas. Tamanho de dados aqui a gente pegou da base de vocês, tá? 220 GB aí de aplicação e 880 GB de banco. O TSS de vocês, a gente estima o TSS pela volumetria de documentos-ano, tá? 90 mil documentos-ano é o que a gente estimou. O TSS, ele também é dedicado no modelo Prime, tá? Então, você vai\n[LOCUTOR 37]: ter o\n[LOCUTOR 23]: TSS, o ambiente de produção, de homologação, a redundância, a mesma pegada, tá? O SmartView também é a mesma coisa. E 5 VPN site-to-site para que vocês possam fazer. as conexões direto com o ambiente da Toffice e não fique independente de fazer uma única VPN com a matriz de vocês e todo mundo dependa só da matriz. Parte de banco. A gente já entrega a licença SQL Enterprise. Eu não sei se vocês estão utilizando a Enterprise ou a [EMPRESA] hoje.\n[LOCUTOR 37]: A [EMPRESA].\n[LOCUTOR 23]: A [EMPRESA], legal. Então melhora um pouquinho a performance do banco. Quando a gente vai para a enterprise, tem umas features que para o melhor reaproveitamento de threads e tudo mais, melhora um pouquinho a performance do banco também.\n[LOCUTOR 37]: É, estou paralelamente aqui, estou... Até disparei para o [EMPRESA] aí, para ele fazer um orçamento para nós aí, para os meus filhos mencionarmos aí, o orçamento de licenciamento do DBAxis e do SQED Server, né, cara? Então, isso também é uma coisa que nós vamos ter que ver, que vai pesar na decisão, né?\n[LOCUTOR 23]: Boa, show de bola. Sabe quantas licenças você tem de DB Axis hoje?\n[LOCUTOR 37]: licenciado para quatro processadores.\n[LOCUTOR 23]: Ah, hoje o modelo de vocês é corporativo, então vocês pagam pelos processadores.\n[LOCUTOR 37]: Isso, daí eu pedi para o [EMPRESA] até orçar para nós o outro modelo para a gente ver como é que é. Daí também tem, dependendo do que ele retornar para nós, tem que avaliar também a nossa licença da SQL 7, também que é licenciada para processador.\n[LOCUTOR 23]: Tá bom, perfeito. Vamos lá, então, deixa eu trazer uma excelente notícia para vocês, tá? Quando você migra para a nuvem da TOTUS nesse modelo, que o licenciamento de DBAxis é por processadores, você se torna ilimitado. A TOTUS não conseguiu uma forma de transformar esse licenciamento na hora de migrar para o cloud. Porque se eu te vendo por conexão, eu não vou te limitar aos processadores. O banco tem que botar o quanto precisar. Se eu vou dar uma rotina super pesada, eu vou ter que alocar um monte de processador para rodar, E isso faz parte do nosso modelo de negócio em cloud. Então, você migrando para a cloud, você não compra mais licenças de DBAx com a TOTUS. Elas passam a ser ilimitadas. A única coisa que você passará a comprar com a TOTUS, a aumentar, no caso, vai ser as conexões usuárias. Então, tem 400 conexões ali. Se você botar mais pessoas para trabalhar, você vai precisar contratar mais conexões. Então, praticamente vai ser essa métrica.\n[LOCUTOR 23]: Então, tem uma gordurinha aqui, né? Você deve ter umas\n[LOCUTOR 37]: 350 conexões. Isso,\n[LOCUTOR 23]: isso. Tem uma gordurinha, tá? Mas, enfim, é importante lembrar isso porque quando você vem para a nuvem da [EMPRESA], você não compra mais a licença de TBAxis, mas as conexões, elas continuam limitadas a 400 ou que você tiver contratado, bom? Beleza, pessoal. Alguma dúvida com relação ao escopo?\n[LOCUTOR 23]: Show de bola. Vamos para a parte que interessa, então. 20 conto o setup, ou seja, o serviço de migração. A parte de a gente migrar e levar todo o ambiente de vocês para a nuvem. E um valor mensal de R$ 26.900. 27 conto. Lembrando que são valores sem impostos, aí tem\n[LOCUTOR 37]: imposto\n[LOCUTOR 23]: de 15,75.\n[LOCUTOR 23]: Tá, legal.\n[LOCUTOR 37]: [LOCUTOR 7]: podem lançar a nota da\n[LOCUTOR 23]: TOTUS como despesa de insumo essencial de produção. A gente tem toda uma jurisprudência disso, eu posso compartilhar contigo para você mandar para o seu contávio. E aí voc\n[LOCUTOR 23]: 9,25 de dedução no imposto da nota da [LOCAL].\n[LOCUTOR 23]: enfim, fica nessa faixa aí, tá?\n[LOCUTOR 23]: Pergunta importante. Você tem esse projeto, tem alguma prioridade de sair esse semestre? Não tem para a\n[LOCUTOR 37]: gente\n[LOCUTOR 23]: pensar\n[LOCUTOR 37]: internamente? Cara, assim, a gente está nesse impasse, né? Porque eu preciso levantar o que nós teríamos que atualizar aqui do nosso lado para manter um prêmio e isso para comparar, né? Até por isso que eu esperei para o [EMPRESA] aí melhorar para nós e até ver as possibilidades da alteração que a gente tem, quanto custaria. Assim, a ideia seria, sim, esse negócio andar no primeiro semestre.\n[LOCUTOR 37]: passando por uma mudança de equipe aqui. Então, o volume de trabalho vai acabar aumentando. Então, vamos ver as prioridades aqui. Mas, sim, a ideia é que esse negócio Tá,\n[LOCUTOR 23]: boa, show de bola. A gente tem aqui, eu montei um cronograma, uma visão de cronograma, tá? Aí é só ajusta, né? Se você for fechar em maio, por exemplo, vai ficar mais\n[LOCUTOR 23]: menos... Mas esse é mais ou menos uma jornada de migração, tá? [LOCAL] que é uma jornada um pouco pessimista, você pode diminuir ela, mas é que boa parte da jornada, ela é do teu lado, tá, [PESSOA]? O que é testar, é você fazer as homologações, porque na hora de subir,\n[LOCUTOR 23]: estiver bem testado, se estiver tudo ajustado, customizado, enfim, vai redondinho. O cronograma macro é esse. Então a gente sobe um ambiente de homologação para vocês, que é uma cópia dos dados de você, uma cópia da aplicação e do banco,\n[LOCUTOR 23]: aí você faz os testes. Ajuda o que tem que ajustar, testa isso, vai interagir bastante com o nosso time. E aí voc\n[LOCUTOR 24]: pode\n[LOCUTOR 23]: fazer...\n[LOCUTOR 37]: Já te digo assim, me parece bem interessante, porque eu estou em época de atualização de inversão, né, cara? Quando eu vou atualizar, em\n[LOCUTOR 23]: 2005,\n[LOCUTOR 37]: Então, meio que casaria umas datas aí, né? Seria interessante, por esse lado. Mas, é como eu disse, né? Eu dependo de outras coisas andarem\n[LOCUTOR 23]: para\n[LOCUTOR 37]: poder definir alguma coisa, né?\n[LOCUTOR 23]: Boa, perfeito. Do lado da [LOCAL] aqui, a gente vai te entregar um coordenador de projetos para te apoiar nisso, tá? Então vai acompanhar a jornada do lado de [PESSOA] ali, de ficar te analisando como é que está as coisas, enfim, para a gente tentar manter o cronograma. Isso aqui é uma visão de cronograma macro, né? Isso vai ser construído contigo, tá, [PESSOA]? Até para poder saber, para encaixar isso aí nas janelas de vocês e na capacidade operacional de vocês também, de conseguir fazer as coisas\n[LOCUTOR 23]: estão do lado de vocês, né?\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 37]: Cara, muito bom. O valor ficou... Vou ser bem sincero com vocês, ficou abaixo do que esperava. [PESSOA] interessante. O que eu vou dizer para vocês? Agora, na próxima semana, [EMPRESA], me ajuda aí, cara. Tentar agilizar para a gente poder levantar quais seriam as alterações de licenciamento, especialmente, que teríamos que fazer aqui do nosso lado, Se nós decidíssemos por manter a nossa operação em prémios, eu\n[LOCUTOR 11]: preciso\n[LOCUTOR 37]: ter esse comparativo, porque o valor aqui me pareceu muito bom. A proposta me pareceu muito boa. Então, para mim, me parece ser atrativo. Inclusive, com valores que nós temos aqui em mãos para fazer atualizações em servidores de storage, uma conta de padeiro que o cara faz, isso sem eu saber quanto custa... [LOCAL] um licenciamento, etc, que eu teria que... Eu quero alterar aqui do meu lado, se eu quisesse ter algum ganho de performance por essa parte. Eu estou falando em coisa de um milhão de reais. A gente dilui esses 30 mil aí por mês para chegar em um milhão de reais, dá conta.\n[LOCUTOR 23]: Dá para ver esses meses.\n[LOCUTOR 37]: Pois é, um milhão dividido por 30 mil, né, cara? Dá 33 meses, são três anos, né, cara? [EMPRESA] 36 aí, vai, porque não é 30 mil. Então, são três anos. Então, me parece bem atrativo, tá? E eu tô confirmando aqui que não me deixa mentir, né, cara? E tá com licenciamento [EMPRESA], Windows Server, SQL Server e mais uma camada que é o licenciamento Kotlin. É uma dor de cabeça a parte, né, cara? O cara nunca sabe o que vai acontecer com o licenciamento [EMPRESA] amanhã, né? Isso também é... É\n[LOCUTOR 23]: atrativo. O próprio preço dos hardware estudou muito agora.\n[LOCUTOR 37]: Muito. Muito, cara. É ridículo. Eu estava esperando... Com esse levantamento que a gente fez de história de servidor, eu estava esperando alguma coisa em torno de 300, 400 mil reais, dentro da minha mente. Sendo pessimista, 500 mil reais simplesmente sai do dobro do que eu imaginava. Então tá. Cara, dito isso, eu tenho os valores em mão. Posteriormente, para poder fazer esse comparativo, seria mais benéfico mantermos um prêmio, partirmos pela nuvem. Ainda tenho as minhas ressalvas com relação à nuvem da [LOCAL], só porque, né, cara? Atendimento. Mesmo tu me falando assim, não, olha, [PESSOA], tu vai dispor de um técnico aí, exclusivo para vocês. Aí, nós conversando assim, o que eu imagino? Vai ser um cara E esse cara vai trabalhar para mim o mesmo caso. Não vai ser hoje o [PESSOA], amanhã o [PESSOA], de tarde o [PESSOA]. Eu espero que seja algo nesse modelo. Quando houver a troca do meu atendente, ou seja, comunicado, isso não seja algo com uma frequência muito alta, apesar de eu entender que deve haver uma tal rotatividade nessa parte.\n[LOCUTOR 18]: ou menos. Nesse modelo do Prime, a [PESSOA], na verdade ele é um técnico, ele é um analista sênior, ele é um líder do time de suporte, ele não atende exclusivamente\n[LOCUTOR 23]: Isso aí, mas você fala sempre com a mesma pessoa e é isso que você falou, o final de semana o cara vai sair e não vai estar no plantão, ele vai te avisar, [PESSOA], o [EMPRESA] está no meu lugar. Então essa é a lógica, tá? Mas você tem a mesma pessoa sempre que você tem o ponto de contato.\n[LOCUTOR 37]: Aí eu falo para vocês um dos medos que eu tenho, né? É a gente acabar tendo uma qualidade de atendimento do mesmo tipo que a gente tem nos chamados hoje em dia. O [EMPRESA] sabe, o [PESSOA] tá aí, ele sabe também, né, cara, que eu reclamo pra caralho da qualidade de atendimento dos chamados, né, cara? E o [PESSOA] não é sem razão, é com razão. Não gostaria de ter a mesma experiência com a eventualidade de a gente fazer migração para a nuvem. Outra ressalva que eu tenho acho que é uma perda de agilidade para alguns processos do nosso dia a dia. Eu tenho... Estou trabalhando com um desenvolvedor agora de manhã, por exemplo. Estou com o [PESSOA], né, [PESSOA]? Ele está atendendo a gente agora de manhã. É muito fácil eu pegar, copiar um RPO para lá e para cá, desabilitar um fonte, sei lá. N situações que podem ocorrer, que hoje em dia a gente consegue fazer com agilidade e tal. Ah, eu tenho uma situação X que está acontecendo no meu ambiente, eu posso chamar o Calvin, que é o meu cara da infra, ali de [LOCAL], que me atende, e o cara conhece meu ambiente de cabo a rabo. E ele consegue virar meu ambiente do avesso, se precisar. Logicamente que, com o atendimento no Cloud, isso vai mudar. Tem muitas coisas que eu imagino que nós não vamos conseguir atuar diretamente. Vai ser só através do intermédio de uma pessoa. Isso me preocupa um pouco. A gente perde um pouquinho da agilidade no processo. Mas daqui a pouco eu estou sendo muito conservador.\n[LOCUTOR 23]: Eu ia trazer uma sugestão, talvez possa te trazer um conforto, [PESSOA]. Quer a gente pegar dois ou três clientes de Prime e você fazer um benchmark? Seria\n[LOCUTOR 37]: interessante.\n[LOCUTOR 23]: é vamos lá quem que é um cara que sempre se dispõe a conversar com os clientes. O cara da [PESSOA] que é o [LOCAL] e ele é um cara super gente boa e ele fala cada vez melhor que a dama. Esse dia indiquei para um cliente lá ele falou do pior falou o cara mal\n[LOCUTOR 23]: não fazia nada. O que eu fiz. Enchi o saco trocaram e melhorou. Então, pra você ter essas experiências, eu posso até pegar algumas pessoas da região aqui, alguns clientes que já rodam no Prime, eu ligo pro cliente e falo, cara, você não quer falar um pouquinho da tua experiência lá pro pessoal da [EMPRESA]? contar o dia a dia, o que est\n[LOCUTOR 23]: Eu vou levantar uns dois ou três, uns três clientes eu vou levantar e eu passo para você, eu passo para o [EMPRESA], enfim, para você trocar essa ideia, ver como é que está a experiência.\n[LOCUTOR 37]: [EMPRESA] seria alguém que tivesse feito a migração, que tivesse uma base mais ou menos similar à nossa, uma quantidade de usuários mais ou menos similar à nossa, que tivesse uma quantidade X de customizações, né? Porque\n[LOCUTOR 23]: [LOCUTOR 21]: me preocupa um pouquinho também. Eu estou perdendo um braço aqui no setor, tá? O [PESSOA], e é uma analista de sistema que está saindo essa semana. Então, até a gente conseguir consultar uma outra pessoa, conseguir passar as informações necessárias para essa pessoa, vai demorar um pouquinho para ela começar a trabalhar sozinha. Então, vai acabar afunilando tudo em mim. Isso também é um problema. Porque esse é um projeto que vai demandar uma atenção especial, né, cara? Eu acabo não podendo deixar as outras coisas que estão acontecendo aqui de lado. Isso me preocupa também. É um projeto... E tem uma complexidade razoável, né? Essa migração é uma coisa fácil, imagina. [PESSOA] quanto ao atendimento, né, cara? Situações que nós enfrentamos recentemente aí, com estabilidade, estabilidade de serviços, né, cara, que nós não estávamos conseguindo identificar, que foram sanadas só depois da atualização de app server, de binário, sei lá, né? E até lá, as soluções que nós tínhamos eram correções manuais. Meu serviço, um dos meus slaves deu pau, tudo bem, até que eu não consiga resolver, eu consigo manualmente, lá, muito rapidamente, subir ele de novo, se precisar. Como é que vai ser uma dinâmica desse tipo quando o atendimento fica afunilado num engenheiro da [LOCAL]? Eu vou ter sempre que chamar para o cara, ô, [PESSOA], dá uma olhada aí para mim que o negócio parou de funcionar aqui. O cara lá, tá. E aí eu vou estar com o chamado rolando do lado para a gente poder ver por que essa instabilidade está acontecendo. Imagino eu que a dinâmica vai ser essa. Imagino eu que\n[LOCUTOR 37]: o meu volume de interações através de chamado vai aumentar um monte. E isso é uma coisa que me preocupa um pouquinho.\n[LOCUTOR 23]: Assim, você não perde essa autonomia, tá, [PESSOA]? Obviamente, muda a forma com que você faz, né? Hoje, pra você mexer no serviço do TSS, você precisa acessar o [EMPRESA] do servidor, abrir o serviço e mexer no serviço, né? No [PESSOA], você vai fazer isso pela interface do [PESSOA],\n[LOCUTOR 23]: vai acessar o servidor. Mas você não perde a autonomia, tá? Tudo que você faria, você continua fazendo. O que você perde a autonomia? [LOCAL] na estrutura do sistema operacional. Então aí, isso você precisa do Engenho Prime pra fazer. Mas o resto, tudo você tem autonomia pra fazer. Inclusive no [PESSOA], você tem um agente de A que faz muita coisa pra você, tá? Então, desde o troubleshooting... Ah, eu tive uma nota que deu pau, a nota não emitiu. O que aconteceu? Pode pedir pro agente de A, ele vai descobrir onde é que tá parado o processo. Ah, eu preciso reiniciar o meu TSS. Você pede pra gente já e ele reinicia pra você. Então tem\n[LOCUTOR 37]: algumas\n[LOCUTOR 23]: facilidades, tá? Muita coisa você consegue fazer sem depender do gerente Prime, tá?\n[LOCUTOR 30]: quando\n[LOCUTOR 23]: entra na camada mais de infraestrutura,\n[LOCUTOR 37]: mexer\n[LOCUTOR 23]: no SO, no virtualizador, aí você vai precisar dele mesmo.\n[LOCUTOR 37]: É, cara, assim ó, eu na minha concepção aqui, eu não pararia de consumir o serviço do pessoal de infra aqui de [LOCAL]. Algumas coisas eu canalizaria para eles, mas a gente, em conjunto, trabalhando com essa pessoa, com esse engenheiro aí da TOTUS que administraria a nossa ponta aí, o nosso consumidor. Coisas para\n[LOCUTOR 37]: pensar. O momento é oportuno, tá? Eu estou agora aqui arquitetando para começar os testes, para a gente fazer a atualização de versão, E, logicamente, eu olho o cronograma e eu penso, eu posso simplesmente fazer os meus testes direto nesse ambiente aí, antes da gente migrar.\n[LOCUTOR 23]: Isso aí. Tem muita gente que faz\n[LOCUTOR 37]: dessa\n[LOCUTOR 23]: forma. Aproveita mesmo a janela.\n[LOCUTOR 11]: pedindo\n[LOCUTOR 37]: questão do db-access e tal, né? E daí eu consigo tomar essa decisão mais rápido. Assim,\n[LOCUTOR 11]: olha...\n[LOCUTOR 31]: nós nem começamos a conversar a respeito do licenciamento da Scan Server aqui internamente. Vou esperar esse retorno do [EMPRESA] para entender o que nós vamos precisar fazer. Mas é como a gente fez essa continha besta aqui. De cara, o investimento que eu faria aqui em hardware novo são três anos. Sem contar o licenciamento da Scan Server. Sem contar outros detalhes, como manter a estrutura aqui internamente,\n[LOCUTOR 37]: é uma coisa difícil de mensurar. O cara até faz um TCO, mas é muito difícil de mensurar algumas coisas que a gente mantém fisicamente o prêmio. É difícil.\n[LOCUTOR 23]: [LOCUTOR 13]: muita coisa que a estima tira um chute. É, energia, mão de obra.\n[LOCUTOR 37]: É isso,\n[LOCUTOR 37]: É, garantia, eventuais problemas que o cara enfrenta, dá um time que seja. Bastante coisa para considerar.\n[LOCUTOR 23]: É verdade.\n[LOCUTOR 37]: Bola, cara. [PESSOA], gostei, tá? [PESSOA], gostei mesmo.\n[LOCUTOR 23]: [LOCUTOR 6]: com uma impressão legal. Logicamente, depois da gente decidir qualquer coisa, eu vou ter que me interar de mais detalhes aí no projeto. [LOCAL].\n[LOCUTOR 37]: Porque\n[LOCUTOR 23]: também existe isso, né? De conseguir os contatos aí pra fazer esse benchmarking. Sim.\n[LOCUTOR 37]: [LOCUTOR 5]: mando essa apresentação também. Por favor. Então, vamos lá. Acho que vai ter uma continuidade por enquanto.\n[LOCUTOR 11]: aí eu tô só aguardando pra conversar com a [PESSOA]. que é do nosso time de, desculpa, de software complementar, para entender aquelas questões de SQL que tu comentou, tá?\n[LOCUTOR 35]: outra\n[LOCUTOR 11]: questão do tech processor lá, enfim, que é o licenciamento por número de processadores, isso é rapidinho olhar ali e te dar uma estimativa de valor, tá?\n[LOCUTOR 37]: com... É, isso\n[LOCUTOR 11]: desencadeia\n[LOCUTOR 37]: as coisas aqui pra nós, né, cara? Essa questão do licenciamento da SQL Server acaba desencadeando questões a respeito de configuração das nossas máquinas virtuais, do nosso próprio licenciamento do Windows Server, né, cara?\n[LOCUTOR 34]: conversando aqui, se fosse um cenário no cloud, eu não me preocuparia com esse tipo de coisa. Pipino a menos, né?\n[LOCUTOR 37]: Pois é, cara. E agora, infelizmente, estou numa fase que eu preciso diminuir consideravelmente o número de pipinos, né?\n[LOCUTOR 37]: [LOCUTOR 1]: verdade, cara. É,\n[LOCUTOR 11]: vamos lá. Eu acredito que nada acontece por acaso, né, [PESSOA]? Daqui a\n[LOCUTOR 37]: pouco\n[LOCUTOR 11]: pode\n[LOCUTOR 37]: ser... É momento,\n[LOCUTOR 11]: né? É, exatamente, né,\n[LOCUTOR 37]: cara?\n[LOCUTOR 11]: Porque tira bastante coisa das costas, né? Vamos dizer assim, das costas ou da responsabilidade de vocês, né? Então...\n[LOCUTOR 37]: É, cara, o próprio momento financeiro da empresa, tá?\n[LOCUTOR 37]: mercado maluco, o mercado de combustível maluco. É bastante [EMPRESA], né, cara? É um momento que seria difícil para a gente fazer... Seria difícil, não. É mais complicado fazer o investimento numa compra de hardware, que não tem uma condição de compra talvez tão atrativa. Se torna mais atrativo ainda manter um serviço, ao invés de comprar um equipamento. Depois tem outras questões que destino que eu vou dar para esse equipamento quando ele se tornar obsoleto. Tem situações aí que a gente tem que considerar. Mas, galera, foi de bola. [PESSOA]. O levantamento, o assessment, acho que foi bem coerente com a realidade mesmo. Acho que fez bastante sentido. E o valor também, para mim, não ficou nada muito exorbitante. Ficou abaixo do que eu estava esperando. Ficou abaixo.\n[LOCUTOR 23]: [LOCAL]. Então, [EMPRESA],\n[LOCUTOR 37]: vamos\n[LOCUTOR 37]: estou falando aqui\n[LOCUTOR 11]: para voc\n[LOCUTOR 24]: tá gravando a reunião\n[LOCUTOR 11]: claro\n[LOCUTOR 37]: tô falando que para mim tá abaixo tá mandando sonho\n[LOCUTOR 11]: [LOCUTOR 2]: a\n[LOCUTOR 11]: gente\n[LOCUTOR 37]: sabe\n[LOCUTOR 11]: né [PESSOA] quando\n[LOCUTOR 23]: chega\n[LOCUTOR 11]: no cara que ele vem uns porra e\n[LOCUTOR 37]: agora tem\n[LOCUTOR 37]: moça também né [EMPRESA]\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 23]: pela porta.\n[LOCUTOR 16]: pelo tempo.\n[LOCUTOR 37]: [LOCAL]. [LOCAL],\n[LOCUTOR 26]: e [EMPRESA], [EMPRESA].\n[LOCUTOR 3]: Tchau, [EMPRESA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:43.262115+00:00",
+    "total_linhas": 200,
+    "linhas_mantidas": 142,
+    "linhas_removidas": 58,
+    "percentual_mantido": 71.0,
+    "confianca_media": 0.4862
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 23]: pra gente não perder muito tempo com isso, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: que existe já aparecendo pra vocês aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4947,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Sim, já tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Já tá. Show",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: de bom. Então, vamos lá. A gente falou muito sobre a nuvem da [EMPRESA]. Eu não vou ficar repetindo o que a gente já conversou aqui, tá? Mas a ideia, então, é a gente trazer uma proposta pra que vocês possam migrar o ambiente de vocês pra dentro da nuvem da [EMPRESA], tá? E quando a gente fala de migrar para o [LOCAL], a gente fala de não só migrar a infraestrutura, mas também tem toda uma camada de serviço, de sustentação e tudo mais. Qual que é a ideia aqui? É a gente pensar e a gente construir isso juntos, pessoal. De uma jornada de vocês poderem migrar para a [LOCAL] e nessa jornada de migração vocês terem os menores percursos possíveis e vocês conseguirem aproveitar tudo que a [LOCAL] vai trazer para vocês. Eu acho que a primeira coisa, então, é você ter a sustentação do Proteus como um todo. A gente falou sobre isso, mas vale lembrar que não é só uma terceirização da infraestrutura como qualquer nuvem,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCUTOR 2]: uma sustentação de todo o ambiente Proteus de vocês e vocês não vão precisar mais se preocupar com gestão, atualização de versão, com a parte de gestão dos servidores, atualização de patch e tudo mais. Isso tudo a [EMPRESA] faz para você. A única coisa que fica com vocês é o customizado, que a gente tinha comentado, e escolher quando que vai ser a janela de atualiza",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: versão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: parte",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: de backup, então, gostaria de lembrar que a gente vai entregar o backup incluso com retenção de 5 anos. Então, vocês vão ter uma cópia sendo feita diariamente dos dados de vocês e vocês vão poder voltar no tempo qualquer dado nos últimos 5 anos. A gente está trazendo uma modalidade Prime, então a gente tem hoje três modalidades na [EMPRESA], que é o compartilhado para cliente pequeno, que tem 4, 5 usuários, o modelo dedicado, onde você já não divide mais",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: recursos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5085,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: com outros, e o modelo Prime, que é onde você tem, eu falo que é o creme de la creme, tudo que tem de melhor no portfólio da [EMPRESA]. E a gente está falando de alta disponibilidade, então ambiente redundante, tem um ambiente de produção e um de contingência que está ligado ao mesmo tempo, Os dois estão ligados juntos e a gente tem um failover, se o ambiente produtivo cair, o ambiente secundário assume automaticamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5356,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: a gente está falando também do atendimento Prime, onde vocês não vão precisar abrir chamado, vocês vão falar direto com o engenheiro Prime no WhatsApp e ele orquestra tudo para vocês, a parte de atendimento, sustentação e tudo mais. Eu cheguei a explicar esse slide e queria saber se quer que eu retome sobre ele ou não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Não, cara, não precisa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4265,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 33]: slide é basicamente assim, serviços lindos e maravilhosos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: A gente tá cortando três ambientes. Ambiente de produção, ambiente de homologação e a redundância. Lembrando que os ambientes de produção, o ambiente produtivo de vocês vai ter a redundância de uma cópia em tempo real. E eu habilitei na proposta de vocês um read-only. Ou seja, vocês vão ter no nosso secundário a possibilidade de conectar Power BI, conectar alguma consulta de leitura. Até porque se você precisar fazer uma consulta de Power BI ou dar um select no banco muito pesado, você não sobrecarrega o banco de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: produ",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: e não fica lento para os usuários.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4801,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCUTOR 19]: praticamente não tem custo, isso eu habilitei no projeto de você. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4678,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Parte de conexões, então. São 400 conexões de produção. O de homologação a gente estima cinco conexões simultâneas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: mais para a galera que vai testar, enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5011,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: parte de portal, então. 100 conexões simultâneas no portal do Proteus. E de homologação do portal, a mesma coisa. Cinco conexões. O que mais? Parte de job. Hoje vocês têm... Bastante jobs, né? São quatro app servers aí de job. Isso tudo a gente levou do [EMPRESA]. Então fica quatro app servers do job e aí dois app servers de REST e um de Scope com 1.000 requisições simultâneas cada. O total das APIs aí vai dar 3.000 requisições simultâneas. Tamanho de dados aqui a gente pegou da base de vocês, tá? 220 GB aí de aplicação e 880 GB de banco. O TSS de vocês, a gente estima o TSS pela volumetria de documentos-ano, tá? 90 mil documentos-ano é o que a gente estimou. O TSS, ele também é dedicado no modelo Prime, tá? Então, você vai",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: ter o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: TSS, o ambiente de produção, de homologação, a redundância, a mesma pegada, tá? O SmartView também é a mesma coisa. E 5 VPN site-to-site para que vocês possam fazer. as conexões direto com o ambiente da Toffice e não fique independente de fazer uma única VPN com a matriz de vocês e todo mundo dependa só da matriz. Parte de banco. A gente já entrega a licença SQL Enterprise. Eu não sei se vocês estão utilizando a Enterprise ou a [EMPRESA] hoje.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: A [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: A [EMPRESA], legal. Então melhora um pouquinho a performance do banco. Quando a gente vai para a enterprise, tem umas features que para o melhor reaproveitamento de threads e tudo mais, melhora um pouquinho a performance do banco também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É, estou paralelamente aqui, estou... Até disparei para o [EMPRESA] aí, para ele fazer um orçamento para nós aí, para os meus filhos mencionarmos aí, o orçamento de licenciamento do DBAxis e do SQED Server, né, cara? Então, isso também é uma coisa que nós vamos ter que ver, que vai pesar na decisão, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Boa, show de bola. Sabe quantas licenças você tem de DB Axis hoje?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5022,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: licenciado para quatro processadores.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Ah, hoje o modelo de vocês é corporativo, então vocês pagam pelos processadores.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Isso, daí eu pedi para o [EMPRESA] até orçar para nós o outro modelo para a gente ver como é que é. Daí também tem, dependendo do que ele retornar para nós, tem que avaliar também a nossa licença da SQL 7, também que é licenciada para processador.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Tá bom, perfeito. Vamos lá, então, deixa eu trazer uma excelente notícia para vocês, tá? Quando você migra para a nuvem da TOTUS nesse modelo, que o licenciamento de DBAxis é por processadores, você se torna ilimitado. A TOTUS não conseguiu uma forma de transformar esse licenciamento na hora de migrar para o cloud. Porque se eu te vendo por conexão, eu não vou te limitar aos processadores. O banco tem que botar o quanto precisar. Se eu vou dar uma rotina super pesada, eu vou ter que alocar um monte de processador para rodar, E isso faz parte do nosso modelo de negócio em cloud. Então, você migrando para a cloud, você não compra mais licenças de DBAx com a TOTUS. Elas passam a ser ilimitadas. A única coisa que você passará a comprar com a TOTUS, a aumentar, no caso, vai ser as conexões usuárias. Então, tem 400 conexões ali. Se você botar mais pessoas para trabalhar, você vai precisar contratar mais conexões. Então, praticamente vai ser essa métrica.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Eu não lembro, essas conexões também vieram do assessment, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4578,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Então, tem uma gordurinha aqui, né? Você deve ter umas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: 350 conexões. Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: isso. Tem uma gordurinha, tá? Mas, enfim, é importante lembrar isso porque quando você vem para a nuvem da [EMPRESA], você não compra mais a licença de TBAxis, mas as conexões, elas continuam limitadas a 400 ou que você tiver contratado, bom? Beleza, pessoal. Alguma dúvida com relação ao escopo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Não. Bem dentro do esperado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4559,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Show de bola. Vamos para a parte que interessa, então. 20 conto o setup, ou seja, o serviço de migração. A parte de a gente migrar e levar todo o ambiente de vocês para a nuvem. E um valor mensal de R$ 26.900. 27 conto. Lembrando que são valores sem impostos, aí tem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: imposto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: de 15,75.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCUTOR 20]: aí, vai dar uns 30 mil. Vocês são do lucro real ou não? Sim, do lucro real.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4463,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Tá, legal.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCUTOR 7]: podem lançar a nota da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: TOTUS como despesa de insumo essencial de produção. A gente tem toda uma jurisprudência disso, eu posso compartilhar contigo para você mandar para o seu contávio. E aí voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5258,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: têm...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: 9,25 de dedução no imposto da nota da [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5569,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Mas,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: enfim, fica nessa faixa aí, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Pergunta importante. Você tem esse projeto, tem alguma prioridade de sair esse semestre? Não tem para a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5027,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: pensar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: internamente? Cara, assim, a gente está nesse impasse, né? Porque eu preciso levantar o que nós teríamos que atualizar aqui do nosso lado para manter um prêmio e isso para comparar, né? Até por isso que eu esperei para o [EMPRESA] aí melhorar para nós e até ver as possibilidades da alteração que a gente tem, quanto custaria. Assim, a ideia seria, sim, esse negócio andar no primeiro semestre.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Mas eu estou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: passando por uma mudança de equipe aqui. Então, o volume de trabalho vai acabar aumentando. Então, vamos ver as prioridades aqui. Mas, sim, a ideia é que esse negócio Tá,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: boa, show de bola. A gente tem aqui, eu montei um cronograma, uma visão de cronograma, tá? Aí é só ajusta, né? Se você for fechar em maio, por exemplo, vai ficar mais",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5095,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: menos... Mas esse é mais ou menos uma jornada de migração, tá? [LOCAL] que é uma jornada um pouco pessimista, você pode diminuir ela, mas é que boa parte da jornada, ela é do teu lado, tá, [PESSOA]? O que é testar, é você fazer as homologações, porque na hora de subir,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: estiver bem testado, se estiver tudo ajustado, customizado, enfim, vai redondinho. O cronograma macro é esse. Então a gente sobe um ambiente de homologação para vocês, que é uma cópia dos dados de você, uma cópia da aplicação e do banco,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: aí você faz os testes. Ajuda o que tem que ajustar, testa isso, vai interagir bastante com o nosso time. E aí voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5401,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: fazer...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Já te digo assim, me parece bem interessante, porque eu estou em época de atualização de inversão, né, cara? Quando eu vou atualizar, em",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: 2005,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: meu plano seria atualizar até mais, em julho, né? O limite de suporte é fim de junho, ou junho, agora, se não me engano, não estou lembrado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4084,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Então, meio que casaria umas datas aí, né? Seria interessante, por esse lado. Mas, é como eu disse, né? Eu dependo de outras coisas andarem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: poder definir alguma coisa, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Boa, perfeito. Do lado da [LOCAL] aqui, a gente vai te entregar um coordenador de projetos para te apoiar nisso, tá? Então vai acompanhar a jornada do lado de [PESSOA] ali, de ficar te analisando como é que está as coisas, enfim, para a gente tentar manter o cronograma. Isso aqui é uma visão de cronograma macro, né? Isso vai ser construído contigo, tá, [PESSOA]? Até para poder saber, para encaixar isso aí nas janelas de vocês e na capacidade operacional de vocês também, de conseguir fazer as coisas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: estão do lado de vocês, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Sim. [LOCAL]. É isso aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Cara, muito bom. O valor ficou... Vou ser bem sincero com vocês, ficou abaixo do que esperava. [PESSOA] interessante. O que eu vou dizer para vocês? Agora, na próxima semana, [EMPRESA], me ajuda aí, cara. Tentar agilizar para a gente poder levantar quais seriam as alterações de licenciamento, especialmente, que teríamos que fazer aqui do nosso lado, Se nós decidíssemos por manter a nossa operação em prémios, eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: preciso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: ter esse comparativo, porque o valor aqui me pareceu muito bom. A proposta me pareceu muito boa. Então, para mim, me parece ser atrativo. Inclusive, com valores que nós temos aqui em mãos para fazer atualizações em servidores de storage, uma conta de padeiro que o cara faz, isso sem eu saber quanto custa... [LOCAL] um licenciamento, etc, que eu teria que... Eu quero alterar aqui do meu lado, se eu quisesse ter algum ganho de performance por essa parte. Eu estou falando em coisa de um milhão de reais. A gente dilui esses 30 mil aí por mês para chegar em um milhão de reais, dá conta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Dá para ver esses meses.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Pois é, um milhão dividido por 30 mil, né, cara? Dá 33 meses, são três anos, né, cara? [EMPRESA] 36 aí, vai, porque não é 30 mil. Então, são três anos. Então, me parece bem atrativo, tá? E eu tô confirmando aqui que não me deixa mentir, né, cara? E tá com licenciamento [EMPRESA], Windows Server, SQL Server e mais uma camada que é o licenciamento Kotlin. É uma dor de cabeça a parte, né, cara? O cara nunca sabe o que vai acontecer com o licenciamento [EMPRESA] amanhã, né? Isso também é... É",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: atrativo. O próprio preço dos hardware estudou muito agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Muito. Muito, cara. É ridículo. Eu estava esperando... Com esse levantamento que a gente fez de história de servidor, eu estava esperando alguma coisa em torno de 300, 400 mil reais, dentro da minha mente. Sendo pessimista, 500 mil reais simplesmente sai do dobro do que eu imaginava. Então tá. Cara, dito isso, eu tenho os valores em mão. Posteriormente, para poder fazer esse comparativo, seria mais benéfico mantermos um prêmio, partirmos pela nuvem. Ainda tenho as minhas ressalvas com relação à nuvem da [LOCAL], só porque, né, cara? Atendimento. Mesmo tu me falando assim, não, olha, [PESSOA], tu vai dispor de um técnico aí, exclusivo para vocês. Aí, nós conversando assim, o que eu imagino? Vai ser um cara E esse cara vai trabalhar para mim o mesmo caso. Não vai ser hoje o [PESSOA], amanhã o [PESSOA], de tarde o [PESSOA]. Eu espero que seja algo nesse modelo. Quando houver a troca do meu atendente, ou seja, comunicado, isso não seja algo com uma frequência muito alta, apesar de eu entender que deve haver uma tal rotatividade nessa parte.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: ou menos. Nesse modelo do Prime, a [PESSOA], na verdade ele é um técnico, ele é um analista sênior, ele é um líder do time de suporte, ele não atende exclusivamente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5421,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: você. Sim, ele orquestra os atendimentos lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.44,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Isso aí, mas você fala sempre com a mesma pessoa e é isso que você falou, o final de semana o cara vai sair e não vai estar no plantão, ele vai te avisar, [PESSOA], o [EMPRESA] está no meu lugar. Então essa é a lógica, tá? Mas você tem a mesma pessoa sempre que você tem o ponto de contato.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4973,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Aí eu falo para vocês um dos medos que eu tenho, né? É a gente acabar tendo uma qualidade de atendimento do mesmo tipo que a gente tem nos chamados hoje em dia. O [EMPRESA] sabe, o [PESSOA] tá aí, ele sabe também, né, cara, que eu reclamo pra caralho da qualidade de atendimento dos chamados, né, cara? E o [PESSOA] não é sem razão, é com razão. Não gostaria de ter a mesma experiência com a eventualidade de a gente fazer migração para a nuvem. Outra ressalva que eu tenho acho que é uma perda de agilidade para alguns processos do nosso dia a dia. Eu tenho... Estou trabalhando com um desenvolvedor agora de manhã, por exemplo. Estou com o [PESSOA], né, [PESSOA]? Ele está atendendo a gente agora de manhã. É muito fácil eu pegar, copiar um RPO para lá e para cá, desabilitar um fonte, sei lá. N situações que podem ocorrer, que hoje em dia a gente consegue fazer com agilidade e tal. Ah, eu tenho uma situação X que está acontecendo no meu ambiente, eu posso chamar o Calvin, que é o meu cara da infra, ali de [LOCAL], que me atende, e o cara conhece meu ambiente de cabo a rabo. E ele consegue virar meu ambiente do avesso, se precisar. Logicamente que, com o atendimento no Cloud, isso vai mudar. Tem muitas coisas que eu imagino que nós não vamos conseguir atuar diretamente. Vai ser só através do intermédio de uma pessoa. Isso me preocupa um pouco. A gente perde um pouquinho da agilidade no processo. Mas daqui a pouco eu estou sendo muito conservador.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Eu ia trazer uma sugestão, talvez possa te trazer um conforto, [PESSOA]. Quer a gente pegar dois ou três clientes de Prime e você fazer um benchmark? Seria",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: interessante.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: é vamos lá quem que é um cara que sempre se dispõe a conversar com os clientes. O cara da [PESSOA] que é o [LOCAL] e ele é um cara super gente boa e ele fala cada vez melhor que a dama. Esse dia indiquei para um cliente lá ele falou do pior falou o cara mal",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: não fazia nada. O que eu fiz. Enchi o saco trocaram e melhorou. Então, pra você ter essas experiências, eu posso até pegar algumas pessoas da região aqui, alguns clientes que já rodam no Prime, eu ligo pro cliente e falo, cara, você não quer falar um pouquinho da tua experiência lá pro pessoal da [EMPRESA]? contar o dia a dia, o que est",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: acontecendo. [LOCAL], legal. Gostaria, gostaria. Por favor, o arquiteto aí. Gostaria de conversar com o pessoal, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4266,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Eu vou levantar uns dois ou três, uns três clientes eu vou levantar e eu passo para você, eu passo para o [EMPRESA], enfim, para você trocar essa ideia, ver como é que está a experiência.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [EMPRESA] seria alguém que tivesse feito a migração, que tivesse uma base mais ou menos similar à nossa, uma quantidade de usuários mais ou menos similar à nossa, que tivesse uma quantidade X de customizações, né? Porque",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 37]: compreendo essa parte aí que tu fala, pô, depende mais de vocês alinharem os testes e as customizações especificamente, né? Cara, tenho situações aqui que eu, logicamente, não consigo nem imaginar, que talvez não estão bem documentadas, que vão acontecer devido a essa mudança da infra, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4545,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCUTOR 21]: me preocupa um pouquinho também. Eu estou perdendo um braço aqui no setor, tá? O [PESSOA], e é uma analista de sistema que está saindo essa semana. Então, até a gente conseguir consultar uma outra pessoa, conseguir passar as informações necessárias para essa pessoa, vai demorar um pouquinho para ela começar a trabalhar sozinha. Então, vai acabar afunilando tudo em mim. Isso também é um problema. Porque esse é um projeto que vai demandar uma atenção especial, né, cara? Eu acabo não podendo deixar as outras coisas que estão acontecendo aqui de lado. Isso me preocupa também. É um projeto... E tem uma complexidade razoável, né? Essa migração é uma coisa fácil, imagina. [PESSOA] quanto ao atendimento, né, cara? Situações que nós enfrentamos recentemente aí, com estabilidade, estabilidade de serviços, né, cara, que nós não estávamos conseguindo identificar, que foram sanadas só depois da atualização de app server, de binário, sei lá, né? E até lá, as soluções que nós tínhamos eram correções manuais. Meu serviço, um dos meus slaves deu pau, tudo bem, até que eu não consiga resolver, eu consigo manualmente, lá, muito rapidamente, subir ele de novo, se precisar. Como é que vai ser uma dinâmica desse tipo quando o atendimento fica afunilado num engenheiro da [LOCAL]? Eu vou ter sempre que chamar para o cara, ô, [PESSOA], dá uma olhada aí para mim que o negócio parou de funcionar aqui. O cara lá, tá. E aí eu vou estar com o chamado rolando do lado para a gente poder ver por que essa instabilidade está acontecendo. Imagino eu que a dinâmica vai ser essa. Imagino eu que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: o meu volume de interações através de chamado vai aumentar um monte. E isso é uma coisa que me preocupa um pouquinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4984,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Assim, você não perde essa autonomia, tá, [PESSOA]? Obviamente, muda a forma com que você faz, né? Hoje, pra você mexer no serviço do TSS, você precisa acessar o [EMPRESA] do servidor, abrir o serviço e mexer no serviço, né? No [PESSOA], você vai fazer isso pela interface do [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: você não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: vai acessar o servidor. Mas você não perde a autonomia, tá? Tudo que você faria, você continua fazendo. O que você perde a autonomia? [LOCAL] na estrutura do sistema operacional. Então aí, isso você precisa do Engenho Prime pra fazer. Mas o resto, tudo você tem autonomia pra fazer. Inclusive no [PESSOA], você tem um agente de A que faz muita coisa pra você, tá? Então, desde o troubleshooting... Ah, eu tive uma nota que deu pau, a nota não emitiu. O que aconteceu? Pode pedir pro agente de A, ele vai descobrir onde é que tá parado o processo. Ah, eu preciso reiniciar o meu TSS. Você pede pra gente já e ele reinicia pra você. Então tem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: algumas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: facilidades, tá? Muita coisa você consegue fazer sem depender do gerente Prime, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.576,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: entra na camada mais de infraestrutura,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5079,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: mexer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: no SO, no virtualizador, aí você vai precisar dele mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É, cara, assim ó, eu na minha concepção aqui, eu não pararia de consumir o serviço do pessoal de infra aqui de [LOCAL]. Algumas coisas eu canalizaria para eles, mas a gente, em conjunto, trabalhando com essa pessoa, com esse engenheiro aí da TOTUS que administraria a nossa ponta aí, o nosso consumidor. Coisas para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 37]: pensar. O momento é oportuno, tá? Eu estou agora aqui arquitetando para começar os testes, para a gente fazer a atualização de versão, E, logicamente, eu olho o cronograma e eu penso, eu posso simplesmente fazer os meus testes direto nesse ambiente aí, antes da gente migrar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Isso aí. Tem muita gente que faz",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: dessa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: forma. Aproveita mesmo a janela.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Sim. Então, isso me parece bem conveniente. [EMPRESA], eu preciso que tu... se tu consegue aí, cara, dar uma agilizada no e-mail que eu passei,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4573,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: pedindo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: questão do db-access e tal, né? E daí eu consigo tomar essa decisão mais rápido. Assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: olha...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Galera, de arrancada, eu olhando a frio aqui, sem me apegar muito a detalhe, me pareceu extremamente interessante, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4509,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 31]: nós nem começamos a conversar a respeito do licenciamento da Scan Server aqui internamente. Vou esperar esse retorno do [EMPRESA] para entender o que nós vamos precisar fazer. Mas é como a gente fez essa continha besta aqui. De cara, o investimento que eu faria aqui em hardware novo são três anos. Sem contar o licenciamento da Scan Server. Sem contar outros detalhes, como manter a estrutura aqui internamente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5559,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 37]: é uma coisa difícil de mensurar. O cara até faz um TCO, mas é muito difícil de mensurar algumas coisas que a gente mantém fisicamente o prêmio. É difícil.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCUTOR 13]: muita coisa que a estima tira um chute. É, energia, mão de obra.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5378,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É, garantia, eventuais problemas que o cara enfrenta, dá um time que seja. Bastante coisa para considerar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: É verdade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Bola, cara. [PESSOA], gostei, tá? [PESSOA], gostei mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCUTOR 6]: com uma impressão legal. Logicamente, depois da gente decidir qualquer coisa, eu vou ter que me interar de mais detalhes aí no projeto. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4834,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 37]: meu lado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: também existe isso, né? De conseguir os contatos aí pra fazer esse benchmarking. Sim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5003,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCUTOR 5]: mando essa apresentação também. Por favor. Então, vamos lá. Acho que vai ter uma continuidade por enquanto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Deixa eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: já te comentar tá [PESSOA], eu vi o teu e-mail",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aí eu tô só aguardando pra conversar com a [PESSOA]. que é do nosso time de, desculpa, de software complementar, para entender aquelas questões de SQL que tu comentou, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5799,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: outra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: questão do tech processor lá, enfim, que é o licenciamento por número de processadores, isso é rapidinho olhar ali e te dar uma estimativa de valor, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCUTOR 9]: só não quero te responder o e-mail parcialmente, tá? Então eu vou esperar essa devolutiva",
+      "mantida": false,
+      "probabilidade_relevancia": 0.37,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: dela e depois eu te retorno",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: com... É, isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: desencadeia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: as coisas aqui pra nós, né, cara? Essa questão do licenciamento da SQL Server acaba desencadeando questões a respeito de configuração das nossas máquinas virtuais, do nosso próprio licenciamento do Windows Server, né, cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 34]: conversando aqui, se fosse um cenário no cloud, eu não me preocuparia com esse tipo de coisa. Pipino a menos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Pois é, cara. E agora, infelizmente, estou numa fase que eu preciso diminuir consideravelmente o número de pipinos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCUTOR 1]: verdade, cara. É,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: vamos lá. Eu acredito que nada acontece por acaso, né, [PESSOA]? Daqui a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4867,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: pouco",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: ser... É momento,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: né? É, exatamente, né,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Porque tira bastante coisa das costas, né? Vamos dizer assim, das costas ou da responsabilidade de vocês, né? Então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5241,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É, cara, o próprio momento financeiro da empresa, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Como o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: mercado está meio maluco, aí guerra, né, cara? Guerra pegando",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 37]: mercado maluco, o mercado de combustível maluco. É bastante [EMPRESA], né, cara? É um momento que seria difícil para a gente fazer... Seria difícil, não. É mais complicado fazer o investimento numa compra de hardware, que não tem uma condição de compra talvez tão atrativa. Se torna mais atrativo ainda manter um serviço, ao invés de comprar um equipamento. Depois tem outras questões que destino que eu vou dar para esse equipamento quando ele se tornar obsoleto. Tem situações aí que a gente tem que considerar. Mas, galera, foi de bola. [PESSOA]. O levantamento, o assessment, acho que foi bem coerente com a realidade mesmo. Acho que fez bastante sentido. E o valor também, para mim, não ficou nada muito exorbitante. Ficou abaixo do que eu estava esperando. Ficou abaixo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL]. Então, [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: colocar um over não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: estou falando aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: para voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: tá gravando a reunião",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: claro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 37]: tô falando que para mim tá abaixo tá mandando sonho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5508,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCUTOR 2]: a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: sabe",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: né [PESSOA] quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: chega",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: no cara que ele vem uns porra e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: agora tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 37]: moça também né [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: não tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: só o cara é verdade é bom Mas vamos lá, vamos lá. Então agora eu fico aguardando aí o [EMPRESA] e vocês me passarem alguns contatos aí pra gente poder fazer uma reuniãozinha aí eu dou uma sentida na opinião do pessoal aí também como tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4384,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Boa. Fechou. Combinado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Fechou. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Obrigado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: pela porta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5142,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 16]: pelo tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCAL]. [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: gente. [LOCAL], pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: e [EMPRESA], [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tchau, [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4714,
+      "motivo": "ml"
+    }
+  ]
+}

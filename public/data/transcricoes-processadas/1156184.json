@@ -1,0 +1,1633 @@
+{
+  "id_reuniao": "1156184",
+  "codt": "118588",
+  "data_reuniao": "2026-03-02 10:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 12]: It. It's. Fala [PESSOA], bom dia, tudo bem? Bom\n[LOCUTOR 19]: dia pessoal, só um minutinho. Bom dia, pessoal. A gente estava no meio de um incidente aqui, por isso não conseguiu dar uma atenção mais rápida. Tudo bem com\n[LOCUTOR 12]: você, meu\n[LOCUTOR 19]: amigo? Tudo bem com você, meu amigo? Tudo bem com você, meu amigo?\n[LOCUTOR 12]: Tudo bem com você, meu amigo? Tudo\n[LOCUTOR 19]: bem com você,\n[LOCUTOR 12]: meu amigo? Tudo bem com você, meu amigo? Tudo bem com você, meu amigo? Tudo bem com você, meu amigo?\n[LOCUTOR 19]: Tudo bem com você, meu\n[LOCUTOR 12]: amigo?\n[LOCUTOR 19]: Tudo bem com você, meu amigo? Tudo bem com você, meu amigo? \n[LOCUTOR 6]: bem com você, meu Tudo bem com você, amigo? meu amigo? Tudo bem com você, meu amigo? Tudo\n[LOCUTOR 19]: bem com você, meu amigo? Tudo bem com você, meu amigo? \n[LOCUTOR 6]: bem com você, meu amigo? Tudo bem\n[LOCUTOR 19]: com você, meu amigo? Tudo bem com você\n[LOCUTOR 12]: Ô, [PESSOA], prazer, cara, tudo ótimo com você.\n[LOCUTOR 19]: E aí também, graças a [PESSOA].\n[LOCUTOR 12]: [LOCAL]. A [PESSOA], ela fez esse contato aí com vocês e eu sou responsável pela estrutura comercial de cloud para o segmento de saúde aqui na TOTOS. A intenção, o objetivo é falar um pouquinho sobre a TOTOS Cloud, entender um pouco sobre o contexto de vocês. e a gente conseguir avaliar se é aderente uma eventual transição aqui para a [LOCAL], no contexto que vocês estão hoje. Eu queria ouvir um pouquinho de vocês, como está a situação, qual [LOCAL] vocês utilizam, está dentro de casa, está em uma nuvem, qual é o cenário?\n[LOCUTOR 19]: Então, [PESSOA], eu estou chegando agora, faz uma semana que eu entrei aqui no hospital.\n[LOCUTOR 12]: Então,\n[LOCUTOR 19]: eu queria ter uma reunião com vocês para o parche comercial, para me entender todos os serviços que são contratados, o que a gente está utilizando hoje de ferramenta. Acho que foi chamado até uma reunião semana que vem para discutir sobre o contrato, os valores que são pagos mensais, mas isso foi um assunto mais da diretoria. E o [PESSOA] que está aqui, ele já está aqui há um pouco mais de tempo, ele acompanhou a implantação do [LOCAL] aqui no hospital. Então ele vai saber te dar mais informações assim, como que tá os departamentos que estão utilizando esse sistema, se alguns módulos usam outros não. Ele vai saber te falar mais.\n[LOCUTOR 12]: Não, maravilha. Essas informações que vocês precisam, o executivo, que é o [PESSOA], não sei se vocês já tiveram contato com ele aí.\n[LOCUTOR 19]: Já tive contato com ele.\n[LOCUTOR 12]: Já teve, né, [PESSOA]? Então o [PESSOA], ele é o cara que vai conseguir ajudar vocês e vai elucidar toda essa questão contratual, entender o que vocês têm.\n[LOCUTOR 19]: quais\n[LOCUTOR 12]: são os recursos, valores, etc. Ele vai dar todo esse apoio e eu vou reforçar com ele essa questão. Não sei se vocês já falaram diretamente com ele, mas eu vou reforçar com ele esse tópico aí para que ele consiga prestar esse apoio nos esclarecimentos do que vocês têm aqui com a gente no contrato, tá bom? Sobre a estrutura que voc\n[LOCUTOR 3]: t\n[LOCUTOR 9]: hoje, eu não peguei com a [PESSOA] qual que é o [EMPRESA], o que vocês utilizam hoje.\n[LOCUTOR 19]: [PESSOA], hoje a gente utiliza o [EMPRESA], a linha [EMPRESA], [EMPRESA]. Implantou aqui em 2006 o [EMPRESA], não era da Totos ainda.\n[LOCUTOR 12]: Ainda era a [EMPRESA] apartada, né?\n[LOCUTOR 19]: Isso. Aí depois o [EMPRESA] foi lá e comprou o grupo, né?\n[LOCUTOR 12]: Sim. E foi nessa época aí mesmo, foi lá pra 2006, 2007, nessa faixa mesmo.\n[LOCUTOR 19]: Então, eu, na época, fui contratado aqui por conta dessa implantação. Então, até 2012, só o [EMPRESA] saúde. e a gente implantou o básico para fazer o faturamento X, que até então o hospital não tinha um sistema que fizesse esse tipo de faturamento que a INS estava exigindo.\n[LOCUTOR 12]: Então\n[LOCUTOR 19]: a gente fez o básico, os cadastros e tudo para fazer um faturamento X. Isso foi o primordial do hospital na época. Então, eu estava falando. Aí, o que aconteceu? Em 2012, o hospital entrou naquele filtro do governo para implantar o SPED. Só contando um pouquinho. A gente implantou o saúde e implantou um pedaço do financeiro, do fluxo. Contas a pagar, basicamente. Não tinha o controle de receber. e não implantamos rateios. Algumas partes da igreja de saúde, o hospital não aderiu muito à cara do sistema, né? Rateio, curso de glosas, alguma coisa ali não deu certo, então tocou o básico para fazer faturamento. Fazer faturamento. E ali em 2012, entrou a parte fiscal e contábil. Então, veio os outros modos. Então, aí foi uma outra, e o hospital fez implantações. Então, implantou núcleos, implantou contábil, fiscal, deu mais uma sapeada ali no fluxo, né, por conta dessa parte fiscal. Então, junto, acompanhou de nós aqui, o próprio escritório de contabilidade nosso, que é um serviço terceirizado, acompanhou essa implantação, porque eles iam fazer parte do uso do sistema, né? E aí de 2012 pra cá é o que a gente tem, assim, não implantou, já teve algumas reuniões, assim, de novas implantações que não avançou. Controle de estoque, pronto ar eletrônico, né? Algumas coisas assim ainda estão por implantar.\n[LOCUTOR 12]: [EMPRESA], e esse ambiente continua local?\n[LOCUTOR 19]: [LOCUTOR 6]: local, tudo em SQL Server, servidores físicos aqui no hospital, investimento a longo prazo que foi feito.\n[LOCUTOR 12]: Esse investimento ele já está perto do fim ou vocês acreditam que ainda vai se perpetuar essas máquinas aí entregando o que vocês precisam por mais\n[LOCUTOR 19]: alguns\n[LOCUTOR 12]: anos.\n[LOCUTOR 19]: Talvez por mais alguns anos. Eu acredito.\n[LOCUTOR 12]: E você, o [PESSOA] acredito que não, porque o [PESSOA] chegou há pouco tempo, mas voc\n[LOCUTOR 17]: j\n[LOCUTOR 4]: teve contato, [PESSOA], com alguma apresentação sobre a [LOCAL]? Você já conhecia a [LOCAL]?\n[LOCUTOR 19]: Eu ouvi falar há um tempo atrás e não tive nenhuma reunião assim, contato pessoal para fazer apresentação. e o hospital tem muitas integrações que\n[LOCUTOR 12]: funcionam\n[LOCUTOR 19]: localmente, como o sistema de PAX do setor embargue, o sistema de PAX do setor de laboratório, que foram feitas integrações à parte, que conectam com o sistema da [EMPRESA].\n[LOCUTOR 12]: [EMPRESA]. Não, legal. Só para até explicar como funciona, tá? A minha intenção nessa reunião é apresentar um pouquinho para vocês sobre a TOTUS Cloud em si, explicar o nosso modelo. É um modelo diferente das nuvens padrões de mercado, porque é uma nuvem que nasceu com um propósito específico que ali no início era abrigar as nossas soluções. Então, ninguém melhor do que a TOTUS para hospedar um sistema TOTUS. Essa é uma máxima simples de ser compreendida. A intenção é mostrar esse valor, esclarecer eventuais dúvidas que vocês tenham, e aí, se vocês tiverem interesse em avançar, numa próxima reunião, eu teria aqui o time de arquitetura. O time de arquitetura faria uma análise robusta, uma varredura, um assessment no ambiente de vocês,\n[LOCUTOR 19]: para\n[LOCUTOR 12]: conseguir entender como está sendo utilizado no detalhe, entender eventuais integrações que vocês tenham, porque a partir do momento que o time faz essa análise, eles têm a possibilidade, em seguida, de montar um escopo técnico na Toto's Cloud, aderente à realidade do cliente. Então, não é uma entrega genérica, é uma entrega customizada com o que a gente vai encontrar de especificidade aí na estrutura de vocês, tá bom? Eu vou compartilhar a tela aqui, pessoal, para falar um pouquinho para vocês sobre a Toto's Cloud. Se tiverem alguma dúvida, fiquem à vontade aí para me interromper e a gente caminhar junto aqui. Beleza? É uma apresentação pequena, não uma apresentação extensa, mas é importante vocês conseguirem ter essa visibilidade de que a TOTOS Cloud hoje tem diferenciais enormes para o cliente que utiliza o [EMPRESA] TOTOS. A TOTOS Cloud não é uma nuvem que começou agora, então tem muito cliente, até mesmo com vocês que utilizam sistemas da TOTOS há muito tempo, não tiveram contato com a TOTUS Cloud até então. E a TOTUS Cloud, ela já tem aproximadamente 20 anos que ela foi concebida no modelo inicial e esse modelo, ele vem evoluindo gradativamente para conseguir entregar essa experiência para o cliente. Hoje já são mais de 600 especialistas que sustentam a estrutura dentro da nossa operação, então a gente vai ter um time multidisciplinar, analista de segurança, analista de banco de dados, analista de redes, todo mundo aqui dentro da nossa operação trabalhando para garantir para o cliente alta disponibilidade, performance e segurança. Já são mais de 7.500 clientes dentro da nossa operação, e aqui, através desses big numbers, vocês conseguem ter noção. Por exemplo, são 80 mil VNs já hospedadas dentro da estrutura da Totus Cloud.\n[LOCUTOR 19]: Que novo VN que estava utilizando? Talvez tinha infraestrutura.\n[LOCUTOR 12]: O ecossistema é um ecossistema próprio da TOTOS, a gente não utiliza nenhuma nuvem pública para conseguir montar a nossa estrutura, tá? Assim, o projeto inicial da TOTOS Cloud foi concebido através de um datacenter próprio, foi onde tudo começou, mas hoje n\n[LOCUTOR 5]: fazemos\n[LOCUTOR 12]: como os principais players aí de cloud do mercado, como a AWS, a [EMPRESA], para conseguir acelerar essa expansão e hoje destacar para vocês que nós temos 12 zonas de disponibilidade a [EMPRESA] faz a utilização de grandes empresas, como, por exemplo, a Cent e a Equinix, onde a gente aluga salas\n[LOCUTOR 19]: e\n[LOCUTOR 12]: a gente leva todo o equipamento da [EMPRESA] para conseguir compor esse ecossistema. Então, não é uma nuvem terceira, é um ecossistema próprio da [EMPRESA] que está montado dentro dessas grandes estruturas de data center, altamente qualificadas, seguindo esse mesmo padrão das big techs globais de nuvem.\n[LOCUTOR 19]: E\n[LOCUTOR 12]: são duas zonas de disponibilidade, se voc\n[LOCUTOR 3]: deram\n[LOCUTOR 12]: uma olhada no mapa aqui, o foco está total em [LOCAL], tanto capital quanto cidades vizinhas aqui que permeiam [LOCAL],\n[LOCUTOR 19]: e a\n[LOCUTOR 12]: gente tem um hub estratégico lá em [LOCAL], esse hub é importante por conta de toda a comunicação submarina que chega da [LOCAL], então a gente tem esse objetivo de abraçar o [LOCAL] como um todo, isso aqui está em franca expansão pessoal, Hoje são 12 anos de disponibilidade. Se a gente falar daqui a alguns meses, esse volume aqui vai ter aumentado, com certeza. Então, está no roadmap a gente popular centro-oeste, região-norte, região-nordeste, para conseguir sempre entregar um data center e uma rota de comunicação que vai ser aderente à empresa do cliente para conseguir minimizar a questão de impacto de latência de comunicação. Beleza? uma amostra dos principais clientes que estão hospedados dentro da nossa estrutura hoje, clientes de todos os tamanhos, todos os segmentos, hospedados no [LOCAL] e no exterior. No segmento de saúde, a gente vai ter, por exemplo, espaço laser, a gente tem [EMPRESA], de saúde, as [EMPRESA], estão aqui conosco, v\n[LOCUTOR 7]: [EMPRESA],\n[LOCUTOR 12]: [LOCAL], [LOCAL], [LOCAL], [LOCAL], temos grandes clientes do segmento de saúde hospedados e satisfeitos dentro da operação de causa da TOTUS hoje. Tem um cliente que eu acho, para mim, é praxe,\n[LOCUTOR 19]: toda\n[LOCUTOR 12]: apresentação como essa eu preciso destacar,\n[LOCUTOR 19]: que\n[LOCUTOR 12]: é o governo americano, que apesar de não ser do segmento de saúde, eu acho que casa muito bem com o discurso porque fica evidente para vocês, o governo americano, pessoal, eles usam [EMPRESA] aqui no [LOCAL], beleza? Desde 2019, eles estão hospedados dentro da [EMPRESA] Cloud. De lá para cá, olha que a gente evoluiu bastante, mas naquela época, eles já deram esse passo de\n[LOCUTOR 19]: hospedar, de\n[LOCUTOR 12]: trazer a estrutura aqui para a [EMPRESA] Cloud. E vocês sabem bem, o governo americano, a embaixada americana, eles têm os principais players de cloud\n[LOCUTOR 19]: do\n[LOCUTOR 12]: lado deles. Os [LOCAL] é um país extremamente nacionalista\n[LOCUTOR 19]: e\n[LOCUTOR 12]: aí fica aquela dúvida, ué, por que os [LOCAL] ao invés de hospedar na [EMPRESA], no Azure, na AWS, na [EMPRESA], na Oracle, eles estão hospedando\n[LOCUTOR 19]: dentro da\n[LOCUTOR 12]: TOTUS Cloud? Eles estão hospedando dentro da TOTUS Cloud porque a TOTUS Cloud conseguiu mostrar para eles que entregaria\n[LOCUTOR 19]: toda\n[LOCUTOR 12]: a garantia de compliance que eles exigiram que conseguiria entregar um diferencial que nenhuma outra nuvem entregaria, que é conceber a melhor experiência para um cliente que utiliza o [EMPRESA], dando todas as garantias e um serviço gerenciado completo, não somente entregar a infraestrutura, mas garantir\n[LOCUTOR 19]: que\n[LOCUTOR 12]: o nosso sistema vai funcionar na plenitude dele. E é por isso que eles decidiram vir pra cá.\n[LOCUTOR 19]: É\n[LOCUTOR 12]: um cliente que, por conta dessa referência, eu sempre destaco, mas tem um ponto crucial. Vocês vão ver aqui, pessoal, nesse recorte de empresas que estão hospedadas dentro da nossa estrutura, inclusive instituições financeiras. mas nenhum cliente é tão rigoroso no que diz respeito à segurança e compliance quanto a embaixada americana. Então, é um nível de compliance muito alto. A pessoa nos auditou atrás, nos audita periodicamente para garantir que a gente está acompanhando essa evolução tecnológica e vai entregar a melhor experiência e seguindo todos os ritos, todos os pontos de compliance exigidos por eles. Então,\n[LOCUTOR 19]: a\n[LOCUTOR 12]: garantia\n[LOCUTOR 19]: de\n[LOCUTOR 12]: excelência vindo para a TOTUS Cloud, Repasse para vocês também. Então, esses grandes clientes que estão aqui, eles conseguem fazer a nossa regra estar sempre alta. A guarda está sempre baixa para que a gente consiga sempre aumentar esse nível de excelência que está sendo entregue para os clientes hoje. Beleza? Esse slide aqui é o que eu considero o mais importante da apresentação, pessoal. É aqui que tem que ficar claro, literalmente, o que a gente está propondo como TotsCloud. E aí, para traçar um paralelo, Vou usar como exemplo, na primeira coluna aqui, o modelo on-premises, que é a estrutura que vocês utilizam hoje, o RM. Vocês são responsáveis\n[LOCUTOR 19]: de\n[LOCUTOR 12]: toda a base da infraestrutura. E aí uma dúvida que eu tenho, quantas pessoas tem na equipe de vocês que cuida de toda essa estrutura de tecnologia?\n[LOCUTOR 19]: Eu e ele só, nós dois.\n[LOCUTOR 12]: Vocês dois? Um exército, hein? Ah não, legal. A minha pergunta é justamente para destacar o seguinte, num contexto como esse, onde vocês dois cuidam de Vocês precisam se preocupar tanto com a base da infraestrutura se a gente parar para analisar um pouco mais a fundo no detalhe até a camada anterior aqui de fornecimento de energia elétrica garantia de redundância de energia elétrica refrigeração do ambiente e aí depois vem aqui para o servidor história de virtualização e camada operacional de infraestrutura também. Cuidado o backup fazer ali a criar a rotina fazer teste periódico para garantir que o backup está interno não vai deixar na mão se vocês precisarem. cuidar do monitoramento, ter as ferramentas adequadas ali para apoiar, a gestão do [EMPRESA], gestão de segurança, gestão de banco de dados,\n[LOCUTOR 19]: tudo\n[LOCUTOR 12]: hoje fica na mão de vocês, então vocês sabem bem o que eu estou dizendo aqui, o pessoal da área de negócios muitas das vezes eles não tem noção, eles colocaram os dois aí o [PESSOA] e o [PESSOA] para cuidarem e acham que beleza é isso o pessoal está dando conta lá tá tranquilo mas vocês sabem bem quão grande é a responsabilidade por exemplo de garantir que um backup vai estar íntegro se acontecer alguma catástrofe aí vocês vão estar respaldado\n[LOCUTOR 19]: porque\n[LOCUTOR 12]: se acontece alguma coisa vocês não conseguem fazer o restore do backup seja porque teve algum tipo de ataque aí a estrutura de vocês e hoje em dia o pessoal os atacantes eles vão buscar onde vocês têm backup, onde vocês têm cópia, tentam fazer aí tudo possível para conseguir não permitir que vocês tenham a possibilidade de fazer esse restore em algum momento se vocês precisarem, seja por conta de um ataque ransom, etc. E aí se acontece uma situação como essa, vocês são os responsáveis, vai cair tudo nas costas de vocês. Isso também reflete na questão de atualização do ambiente, Essa análise de saber se faz sentido a gente fazer uma atualização de infraestrutura agora, ou dá para segurar mais alguns anos. Às vezes vai ficando ali no gargalo,\n[LOCUTOR 19]: a\n[LOCUTOR 8]: chega um momento que pode, e mais uma vez vai\n[LOCUTOR 19]: ficar\n[LOCUTOR 12]: no colo de vocês. Caso vocês considerassem levar essa estrutura para uma nuvem pública, vamos usar como exemplo a [EMPRESA] com o Azure aqui. Caso vocês gostassem de levar isso para o Azure, vocês sabem bem, a [EMPRESA] seria responsável por toda a base da infraestrutura, dando alta garantia de disponibilidade para vocês, mas toda essa responsabilidade aqui continuaria sob o colo de vocês. Vocês precisariam absorver conhecimento nessa nuvem, vocês precisariam contratar ferramental para conseguir criar essa gestão estruturada dentro\n[LOCUTOR 19]: da\n[LOCUTOR 12]: nuvem, e assim, a gente sabe que continuaria sendo um trabalho árduo porque cada linha, apesar de vocês conseguirem contar de tudo,\n[LOCUTOR 19]: cada\n[LOCUTOR 12]: linha dessa aqui existe uma especialidade, existe uma profundidade que de repente, com um conhecimento mais generalista, vocês vão dar conta de 99% das coisas, mas\n[LOCUTOR 19]: é\n[LOCUTOR 12]: no detalhe que pode acontecer alguma coisa que vai ocasionar uma catástrofe. Então, nos dois modelos, no modelo on-premises quanto no modelo de nuvem pública, vocês estão sujeitos a isso. Caso vocês optem, por exemplo, por vir para a TOTUS Cloud,\n[LOCUTOR 19]: a\n[LOCUTOR 12]: gente entrega a estrutura da TOTUS Cloud no modelo de plataforma as-a-service. Esse modelo, a TOTUS cobre totalmente a garantia da base de infraestrutura com altíssima disponibilidade, seguindo o mesmo padrão das nuvens públicas, as tops, de 99,98% de garantia de disponibilidade. Quando a gente olha para a camada operacional de infraestrutura, vai ter\n[LOCUTOR 19]: todo\n[LOCUTOR 12]: o serviço de gestão completo executado por parte do nosso time. Então, o nosso time vai cuidar do backup, vai dar todas as garantias que vocês precisam, vai ter uma equipe grande aqui fazendo monitoramento para o ativo do ambiente, cuidando do [EMPRESA], segurança, tipo de dados. E além de toda a expertise e serviço gerenciado que a gente vai colocar em cima, vocês não vão mais se preocupar nesse modelo aqui em garantir que o licenciamento do SQL Server está atualizado. Então, vindo para a TOTOS, vocês não se preocupam mais com isso. A responsabilidade de manter essas estruturas aqui dentro da TOTOS Cloud atualizadas, tanto de hardware quanto de licenciamento para acompanhar a evolução do nosso sistema, é da TOTOS. Então, basicamente, o que eu quero propor para vocês aqui? Se vocês toparem dar esse passo de trazer esse ambiente aqui para dentro da TOTUS Cloud, vocês vão ter a tranquilidade e vão saber que a TOTUS\n[LOCUTOR 19]: est\n[LOCUTOR 4]: garantindo tudo para vocês, está tudo debaixo do guarda-chuva\n[LOCUTOR 19]: da\n[LOCUTOR 12]: TOTUS. Se tiver problema de produto, liga na TOTUS. Se tiver problema de infraestrutura, liga na TOTUS. Facilita demais a governança para vocês. E, digo mais, nesse modelo aqui, vocês continuarão sendo extremamente extremamente importantes para o contexto. Às vezes, eu converso com o pessoal e falo, se eu levar para aí e vocês vão fazer tudo, o meu papel aqui acaba não fazendo mais sentido, mas é muito diferente disso, porque vocês passariam a ser a interface de comunicação com a TOTUS Cloud, voc\n[LOCUTOR 3]: teriam\n[LOCUTOR 12]: acesso de administração ao [PESSOA], que é o painel, com diversos recursos automatizados para conseguir cuidar desse ambiente e, no dia a dia, Esse acesso possibilitaria que vocês tivessem autonomia para conseguir resolver as demandas, mas sempre tendo por trás a TOTUS Cloud para conseguir suportar vocês e o nosso time de suporte à disposição para conseguir ajudar. Então, é basicamente mudar da água para o vinho e vir para a TOTUS Cloud.\n[LOCUTOR 19]: [LOCUTOR 11]: eu disse, vocês não se preocupariam mais com o tamanho e a obsolência da infraestrutura, o ambiente seria modernizado de forma constante, a gente dá garantia de performance para a solução e há uma segurança totalmente dedicada à proteção dos dados dos clientes que estão hospedados aqui conosco. Esse modelo de plataforma como serviço tem como principal métrica para definição de poder computacional do ambiente do cliente a quantidade de conexões simultâneas, então a gente faz toda uma análise diferenciada mesmo para entender como está sendo utilizado o nosso sistema dentro da casa do cliente e através dessa análise detalhada a\n[LOCUTOR 12]: gente define o escopo técnico para conseguir apresentar uma proposta de transição aqui para a TOTUS Cloud. O meu time é responsável por fazer\n[LOCUTOR 19]: a\n[LOCUTOR 12]: migração\n[LOCUTOR 19]: e\n[LOCUTOR 12]: garantir que voc\n[LOCUTOR 3]: v\n[LOCUTOR 1]: ter esses dados transferidos para cá em segurança, vocês vão seguir todo um processo ali muito bem estabelecido com o gerente de projetos para que seja executado\n[LOCUTOR 19]: da\n[LOCUTOR 12]: melhor forma possível, para que vocês tenham visão de cara do cronograma de migração, etc. e a gente ajudaria vocês a conseguir\n[LOCUTOR 19]: ter\n[LOCUTOR 12]: esse desafogo, porque duas pessoas para cuidar da estrutura de tecnologia inteira e ainda mais se preocupar com essa questão de sistema externo, vindo para cá pessoal, a nossa intenção é de fato conseguir contribuir com vocês para que vocês tenham a possibilidade de focar de forma estratégica, e utilizar o conhecimento de vocês para transformar a estrutura tecnológica do hospital e contar com a [EMPRESA] para ser esse advisor aqui também, entende? Então, basicamente isso que eu queria trazer para vocês, esse material, eu vou compartilhar com vocês também, tenho aqui detalhes, nosso white paper de segurança, com todo o framework estruturado, para que vocês tenham visibilidade, mas assim, Tem dois pontos principais que eu sempre destaco também. Não ficam só nas minhas palavras, todos os benefícios que eu destaquei. A gente tem os clientes para dar o respaldo e a gente tem o portfólio de certificações que também eu vou encaminhar para vocês para comprovar isso. Então a gente tem isso aí, 3402, todos os data centers são data centers tier 3. A Totos é uma empresa de capital aberto. Então, nosso nível de segurança é elevadíssimo, porque se acontece uma catástrofe, por exemplo, alguém invadir o nosso ambiente, o ambiente de um cliente, a [EMPRESA] fica exposta e corremos o risco de acabar com a empresa do nosso cliente, mas também corremos o risco de acabar com a nossa própria empresa, né? No mesmo dia ali, as ações despencariam e tudo mais. Então, vocês, dando esse passo, teriam\n[LOCUTOR 19]: um\n[LOCUTOR 12]: guarda-chuva gigantesco, que é o guarda-chuva da [EMPRESA], para dar todo o suporte, toda essa sustentação do ambiente para vocês.\n[LOCUTOR 19]: Ok, certo. e, assim, tirando algumas coisas agora, então, seria uma aplicação totalmente web.\n[LOCUTOR 12]: A aplicação, na verdade,\n[LOCUTOR 19]: é\n[LOCUTOR 12]: da seguinte forma, vindo para cá, vocês não vão ter mais acesso à camada de sistema operacional, vocês não vão precisar ter acesso, basicamente, vocês não vão precisar ter acesso à camada de sistema operacional, vocês vão passar a ter acesso ao painel que é um painel de administração que vocês vão conseguir acessar via browser e também tem aplicativo para iOS e para Android. E até para dar um histórico para você, [PESSOA] e [PESSOA] também. No passado,\n[LOCUTOR 19]: l\n[LOCUTOR 4]: em 2018, 2019, que foi quando foi concebido o [PESSOA], até então a gente tinha dois perfis de clientes dentro da nossa estrutura de cloud. Um perfil estava muito satisfeito, que era o perfil mais leigo. Sabe o perfil de cliente que não tem tanto conhecimento técnico e a [EMPRESA] estava se propondo a fazer tudo pra ele? Falava, putz, precisa aplicar um pacote que é algo simples. Cara, não se preocupa, abre um ticket, marca com o nosso analista e ele vai fazer pra você. Esse cara estava plenamente satisfeito, porque ele não tinha nem interesse em adquirir essa expertise. Agora, O perfil de cliente que já dominava ali, fazia gestão, ele tinha acesso a tudo, ele já sabia exatamente o que ele precisava fazer, ele se sentia engessado. Porque ele falava, mano, pra aplicar um\n[LOCUTOR 19]: pacote\n[LOCUTOR 12]: eu vou precisar\n[LOCUTOR 19]: abrir\n[LOCUTOR 12]: um ticket, ficar esperando alguém entrar em contato comigo. Então, o [PESSOA] nasceu justamente para atender a dor desse público mais exigente, para conseguir dar celeridade para esse time que precisa executar as coisas com mais celeridade e não ficar dependendo de abrir um ticket. E assim, tem um diferencial muito grande dentro do [PESSOA],\n[LOCUTOR 19]: que é o\n[LOCUTOR 12]: fato dele entregar funções automatizadas. Então, imagine o seguinte, Um exemplo de uma função que tem dentro do [PESSOA], só para vocês entenderem como funciona a dinâmica dele. Tem uma função lá que é clone de banco de dados, clone de ambiente, como um todo. Muitos clientes,\n[LOCUTOR 19]: muitas\n[LOCUTOR 12]: das vezes, precisam contratar um [LOCAL] por fora para fazer uma replicação, uma cópia do ambiente de produção para um ambiente de teste, um ambiente de desenvolvimento, para fazer algum trabalho. Aqui dentro do [PESSOA], ele tem um botão com três cliques, ele clica no botão, ele seleciona do ambiente origem para onde vai a cópia do banco de dados e ele consegue mandar, ele pode ter aqui uma, duas, três, quatro, cinco bases, ele consegue fazer uma cópia e agilizar um processo que, antes, seria necessária uma intervenção de um modelo mais tradicionalista. Esse é um dos exemplos. Então, o [PESSOA], hoje, ele dá autonomia para o cliente conseguir executar as ações que ele precisa executar\n[LOCUTOR 19]: e,\n[LOCUTOR 12]: mais do que isso, ele facilita\n[LOCUTOR 19]: essas\n[LOCUTOR 12]: execuções.\n[LOCUTOR 19]: [PESSOA], sobre a troca de versões do sistema, como ficaria?\n[LOCUTOR 12]: Troca de versão do sistema, vocês precisariam entrar em contato conosco. Vai ser uma responsabilidade\n[LOCUTOR 19]: compartilhada,\n[LOCUTOR 12]: tá?\n[LOCUTOR 19]: Imaginem\n[LOCUTOR 12]: que hoje vocês precisam fazer tudo, né? Quando precisa fazer atualização de release, tá totalmente na mão de vocês. Aqui dentro da [PESSOA], nesse modelo de plataforma as-a-service, pelo fato do RM, Proteus, DataSuite serem RPs muito robustos, que permitem muitas customizações por parte dos clientes,\n[LOCUTOR 19]: a\n[LOCUTOR 12]: gente não poderia simplesmente apertar um botão e replicar uma atualização para todo mundo, né? Seria o melhor do... um sonho, mas não tem como ser feito dessa forma.\n[LOCUTOR 19]: Então,\n[LOCUTOR 12]: num cenário onde vai... acontecer uma necessidade de atualização de release, vocês precisariam, a responsabilidade seria abrir um ticket para o nosso time de suporte técnico, um gerente de projetos ali ficaria responsável por fazer a execução desse trabalho com vocês, e basicamente funcionaria da seguinte forma, a responsabilidade de vocês seria interagir com essa pessoa para fornecer informações de eventuais integrações, eventuais customizações que vocês tenham, mas vocês ficariam respaldados de que seria um trabalho ali em quatro mãos e o nosso time teria a missão de conseguir entregar aquele ambiente atualizado para vocês.\n[LOCUTOR 19]: Sobre essas integrações que a gente tem assim com outros sistemas aqui e que foram desenvolvidos bem\n[LOCUTOR 12]: caracter\n[LOCUTOR 18]: ali para o sistema parceiro, como que seria isso aí?\n[LOCUTOR 12]: Esses sistemas parceiros\n[LOCUTOR 19]: que\n[LOCUTOR 12]: você diz, [PESSOA], eles são sistemas que funcionam em estruturas separadas ou são sistemas que vocês têm dentro de casa instalados aí também?\n[LOCUTOR 19]: A integração, ela é instalada nos nossos computadores aqui dentro. Os parceiros são um sistema web, mas que rodam Linux,\n[LOCUTOR 12]: rodam\n[LOCUTOR 19]: outra estrutura aqui dentro também, de outros servidores, outros bancos de dados.\n[LOCUTOR 12]: [LOCAL].\n[LOCUTOR 19]: Um dos sistemas é da Pixel, uma integração que teve que desenvolver própria aqui para eles, e o outro sistema é da Animate, que é um sistema de partes de imagem.\n[LOCUTOR 12]: Essas integrações, elas vão direto no banco de dados ou são integrações via API?\n[LOCUTOR 19]: Não, são integrações, algumas são direto com banco de dados, outras funcionam API que solta lá um arquivo e o sistema\n[LOCUTOR 12]: deles\n[LOCUTOR 19]: consome esse arquivo.\n[LOCUTOR 12]: Não, beleza. Eu perguntei e passei essas duas opções aí porque a gente tem esses dois perfis de cliente. E para um contexto como o de vocês a gente já sabe que seria necessário uma estrutura dedicada. Vocês teriam um banco de dados dedicado. com o banco de dados dedicado, não teria nenhum tipo de dificuldade para que vocês fizessem, continuassem fazendo as integrações do jeito que vocês fazem hoje e para as integrações via API, a gente basicamente precisaria colocar app server de [PESSOA] lá para conseguir apoiar nessa integração de uma ponta com a outra, tudo mais. Então, é do dia a dia aqui nosso, tá, pessoal? A gente tem diversos clientes com diversos tipos de integrações diferentes. O que eu acho que pode somar e ser um algo a mais é o fato da gente\n[LOCUTOR 19]: também\n[LOCUTOR 12]: entregar um modelo de [PESSOA]\n[LOCUTOR 19]: O modelo\n[LOCUTOR 12]: padrão de mercado, entregue, que é basicamente de nuvem, de você contratar, falar, preciso de uma máquina com 16 GB de RAM, 8 VCPUs, Windows Server, SQL Server, e eu quero ser o administrador dessa máquina.\n[LOCUTOR 19]: A\n[LOCUTOR 12]: gente também entrega. O mesmo padrão, altíssima disponibilidade, 99,98%. E a gente traz um benefício muito grande para o cliente que quer trazer essas aplicações aqui para todos,\n[LOCUTOR 19]: que\n[LOCUTOR 12]: é o fato de conseguir fazer integração com velocidade local. Então, esses sistemas que vocês tiverem domínio sobre eles, tiverem dentro de casa, por exemplo, e vocês quiserem trazer para cá também, vocês conseguem trazer, e isso ajuda pelo fato de continuar tendo essa integração dentro de uma mesma rede, sem latência, funcionando de uma forma orgânica, sem dado entrando da rede, dado saindo. Tenho dois caminhos. Vocês podem deixar todos esses softwares que vocês têm integrando literalmente onde eles estão, do jeito que estão, e se integrar com a nossa estrutura, ou a gente pode avaliar\n[LOCUTOR 19]: quais\n[LOCUTOR 12]: são os softwares e se vocês tiverem acesso a eles, de fato, ali como administrador e quiserem trazer para cá, a gente mapeia as características desses servidores que vocês precisam e vende tanto o ambiente do RM quanto os ambientes apartados em IaaS para esses softwares.\n[LOCUTOR 19]: Outra dúvida, [PESSOA], também. Hoje, a gente, tipo assim, se tem necessidade, tem eu que é liberista do [EMPRESA], tenho acesso, se eu preciso fazer um update, fazer uma busca ali, fazer alguma alteração aqui\n[LOCUTOR 12]: no\n[LOCUTOR 19]: hospital aqui, como que seria nessa estrutura?\n[LOCUTOR 12]: Tem, então.\n[LOCUTOR 19]: Acesso a isso ou não?\n[LOCUTOR 12]: Não\n[LOCUTOR 19]: seria mais necessário?\n[LOCUTOR 12]: Não, é necessário, sim, e conseguiria. A gente tem dois modelos de atendimento. Um modelo de atendimento que não dá acesso ao banco de dados, mas, para o contexto de vocês, pela primeira fala que você fez, já ficou evidente. Vocês precisariam ter, pelo menos, a estrutura que a gente oferece com VLAN exclusiva para a camada de banco de dados. Você continuaria podendo, por exemplo, conectar um SQL Server Management Studio para conseguir se conectar ao banco? Você conseguiria conectar um Power BI, qualquer coisa que você quisesse conectar externamente ao banco de dados, você continuaria tendo a possibilidade.\n[LOCUTOR 19]: E aí, como que seria a conexão, né? Via VPN, fecharia uma VPN com a nuvem, com a estrutura daqui, como que é feito esse tráfego? \n[LOCUTOR 2]: fica\n[LOCUTOR 19]: exposto na internet?\n[LOCUTOR 12]: Fica exposto na internet, mas as integrações, as integrações aí a gente trata de uma, aborda de uma forma diferente, né? Como vocês teriam integrações de uma ponta\n[LOCUTOR 19]: a\n[LOCUTOR 12]: outra aqui, para as integrações, poderia ter uma sugestão de colocar VPN, mas para os usuários no dia a dia, não tem a necessidade, a conexão é diretamente via internet, criptografia em trânsito.\n[LOCUTOR 19]: [EMPRESA], mas aí teria como privar isso... Certinho, porque pra pessoa não poder acessar de casa.\n[LOCUTOR 12]: Teria, teria, teria\n[LOCUTOR 19]: sim. Se for\n[LOCUTOR 12]: um pré-hack de você, é que a forma geral aqui dos clientes, eles optam por ter mais facilidade, como a gente dá essa garantia de ter criptografia em trânsito, etc, tem toda uma estrutura aqui do lado, a maior parte dos clientes não contrata VPN para conseguir fazer essa camada adicional, mas tem muito cliente que é praxe, é um compliance da empresa ter uma camada adicional de VPN ali para que o funcionário precise entrar na VPN na rede da empresa para depois entrar aqui.\n[LOCUTOR 19]: Sim. E falando de custos, a gente paga por armazenamento, como que é? Os dados conforme mais armazenamento, o valor aumenta, é um valor fixo?\n[LOCUTOR 12]: Existem algumas métricas importantes para que a gente faça essa análise e defina custo, mas nesse modelo de plataforma as-a-service, vocês vão pagar, o principal custo vai ser em cima da quantidade de conexões simultâneas no momento de pico. Então, o que a gente definir como conexão simultânea no momento de pico significa o cliente vai ter garantia de performance e alta disponibilidade desde que\n[LOCUTOR 19]: ele\n[LOCUTOR 12]: não exceda aquela quantidade. E hoje em dia, na verdade, mesmo que o cliente exceda aquela quantidade de conexões simultâneas, ele continua tendo o acesso ali normal, só que ele começa a ser avisado de que ele precisa fazer upgrade para o recurso conseguir comportar aquela nova situação. Porque é basicamente o seguinte, imagina que você fala para mim, [PESSOA], vamos encotar um ambiente aí com 20 conexões simultâneas no momento de pico. Por trás aqui, o meu time de arquitetura, eles sabem qual a\n[LOCUTOR 19]: característica\n[LOCUTOR 12]: computacional vai ser necessária para garantir que vocês tenham performance com 20 conexões simultâneas num momento de pico, beleza? Se aumenta esse volume, a gente precisa aumentar o recurso por trás de hardware para suportar esse incremento de usuário e tudo mais. Além disso, tem a questão do armazenamento, uma variável também que eu preciso entender com vocês, dando os próximos passos e vai entendendo isso. Por exemplo, a quantidade de emissão de documentos eletrônicos que vocês fazem, nota não é o caso, mas, por exemplo, vocês utilizam para RH também, CTE, e-social,\n[LOCUTOR 19]: esse\n[LOCUTOR 12]: tipo de evento, ele gera um consumo no TSS, no servidor de TSS. E esse servidor de TSS que a gente vai trazer para cá, ele é cobrado por franquia. Então, por padrão, o cliente tem direito a 10 mil documentos eletrônicos emitidos por ano. Se o cliente precisar de mais\n[LOCUTOR 19]: do que\n[LOCUTOR 12]: 10 mil, a gente precisa alinhar essa expectativa para conseguir suportar lá dentro da estrutura dele. Então, são algumas variáveis, [PESSOA], que a gente vai pegando com vocês para conseguir equalizar e montar esse escopo técnico.\n[LOCUTOR 19]: E... Falando, assim, de custos, é claro que vai sair um valor a mais do que a gente paga hoje. Mas aí, seria algum custo para essa implementação? Vocês vão fornecer uma equipe de treinamento? A plataforma muda muito? Porque os usuários estão acostumados hoje com o tipo de visual. E\n[LOCUTOR 12]: a gente sabe que\n[LOCUTOR 19]: vai mudar alguma coisa ali para o usuário que já estava acostumado no dia a dia e toda aquela dificuldade, né?\n[LOCUTOR 12]: Boa. Não, excelente. Assim, para o usuário final não muda literalmente nada, tá? A menos que hoje vocês não tenham a VPN e eles precisem passar a entrar na VPN. Só isso mesmo. Agora, a interface aí do sistema para eles, cara, vai ficar literalmente igual é hoje. Eles não vão sentir esse impacto. Sobre a migração, a gente coloca um time para conseguir executar isso da melhor forma, vocês vão passar para aquele período lá de homologação, testes, etc. e vocês tenham a segurança de que só vai ser virada essa chavinha no momento que vocês validarem lá com o gerente de projetos responsável. Putz, testamos aqui por uma semana. Beleza, testamos todas as rotinas. Vamos marcar o [PESSOA] para virar isso daí. Muitas das vezes o usuário no dia do [PESSOA], ele nem percebe. Se agendar o [PESSOA], por exemplo, a um final de semana, o cara chega na segunda, o funcionário que acessa o sistema, e muitas das vezes ele nem percebe. Ele vai perceber se tinha algo muito ruim e melhorou. Então, às vezes, a gente pega umas situações onde o contexto está muito ruim, lento, aí a gente melhora aquela questão de performance, aí o cara chega na segunda-feira\n[LOCUTOR 19]: e\n[LOCUTOR 12]: o impacto que ele vai sentir é essa evolução mesmo. Sobre as cobranças, são dois valores. Tem o valor mensal recorrente que vocês vão pagar e tem o valor de setup pela migração, que é um valor individual.\n[LOCUTOR 19]: E só para ter uma média de custos?\n[LOCUTOR 12]: Vamos fazer o seguinte, até para agilizar, se eu fizer algumas perguntas, vocês conseguem me responder? Por exemplo, qual a quantidade de conexões simultâneas no momento de pico que vocês têm hoje?\n[LOCUTOR 19]: Se não me engano, é 36.\n[LOCUTOR 12]: 36 conexões simultâneas. Essa questão do TSS, [PESSOA], você saberia, cara, uma média anual de emissão de documentos eletrônicos?\n[LOCUTOR 19]: Bem pouco, bem pouco, porque a gente estava emitindo mais nota para comodato, devolução, só isso, bem pouco. A gente não faz muita emissão de nota, não.\n[LOCUTOR 12]: Então, esse\n[LOCUTOR 19]: foi o TSS, mas foi de pouco uso.\n[LOCUTOR 12]: [EMPRESA], esse padrão...\n[LOCUTOR 19]: Aqui\n[LOCUTOR 12]: no\n[LOCUTOR 19]: RH a gente não tem o módulo implantado de RH, então nós vamos usar o de atuados.\n[LOCUTOR 12]: Então esse padrão que eu comentei de 10 mil por ano seria muito mais do que o suficiente para vocês?\n[LOCUTOR 19]: Sim, por\n[LOCUTOR 12]: horas. [PESSOA] me dizer qual o consumo atual, não precisa ser exato não, tá? Porque a minha intenção é só fazer uma estimativa inicial para alinhar a expectativa de valor com vocês. Qual o consumo atual do banco de dados?\n[LOCUTOR 19]: Quase 70 GB.\n[LOCUTOR 12]: Olha,\n[LOCUTOR 19]: eu\n[LOCUTOR 12]: volto em um minutinho, um minutinho mesmo, aí eu já limpo com vocês essa expectativa e\n[LOCUTOR 19]: explico\n[LOCUTOR 12]: para vocês como a gente poder dar os próximos passos. Só um minutinho.\n[LOCUTOR 19]: Pessoal,\n[LOCUTOR 12]: é o seguinte, fiz aqui uma simulação com esses itens. Existem outros pontos que precisam ser coletados, tá? Por isso, o que eu vou falar aqui para vocês não é o número final formal, não consigo gerar uma proposta formal e mandar para vocês em cima só dessas perguntas que eu fiz aqui. Mas eu imagino que a mensalidade para uma estrutura dedicada aqui com a gente, já considerando o SQL Server, que vocês comentaram também, e o SQL Server Enterprise que a gente entrega aqui, então é um padrão, a gente não entrega abaixo do Enterprise, ficaria em R$3.100 por mês, valor líquido. Além desses R$3.100 por mês valor líquido, a gente teria um setup de R$7.500 pelo processo de migração.\n[LOCUTOR 19]: esse\n[LOCUTOR 12]: valor poderia ser parcelado em até seis vezes sem juros. Então ficaria nessa ordem de grandeza não não levem ali no pé na risca mesmo não porque de repente a gente pode\n[LOCUTOR 19]: fazer o\n[LOCUTOR 12]: assessment e abaixar esse valor ou aumentar um pouquinho mas\n[LOCUTOR 19]: ficaria\n[LOCUTOR 12]: nessa faixa.\n[LOCUTOR 19]: E\n[LOCUTOR 12]: aí o que vocês acham vocês acham que é um valor. para a realidade que vocês têm hoje aí para o momento, que poderia fazer sentido, porque se vocês acharem que pode fazer sentido, agora mesmo eu já posso pegar opções de agenda do meu time de arquitetura para a gente marcar a reunião de assessment com eles, onde eles avaliarem o ambiente no detalhe, e aí depois dessa agenda a gente conseguirá gerar uma proposta formal.\n[LOCUTOR 19]: Só um minuto, só vou falar um negócio aqui com o [PESSOA].\n[LOCUTOR 12]: Beleza.\n[LOCUTOR 19]: Hoje, o custo que a gente tem mensal referente às licenças, isso aí é divido ou a gente continuaria tendo esse custo mensal mais esse serviço de cloud?\n[LOCUTOR 12]: Mais o serviço de cloud, é totalmente apartado.\n[LOCUTOR 19]: Totalmente apartado, então esse custo com licença que a gente já tem continuaria. [PESSOA], a gente estava conversando aqui, acho que hoje faz muito sentido para a gente ter essa infraestrutura, só que agora a gente não está num momento muito legal para começar essa migração, né?\n[LOCUTOR 12]: Eu estou\n[LOCUTOR 19]: aqui, a gente está em afetar alguns acessos, tinha uma outra pessoa aqui, então deixou muitas coisas em paralela, E aí acho que a gente tá num momento meio turbulento, mas assim, vamos conversar mais ou menos daqui um mês, dois meses aí no máximo, pra gente começar a trocar isso daí, essa migração.\n[LOCUTOR 12]: Não, beleza, beleza. Se vocês quiserem, tá? Só se quiserem mesmo, a gente pode fazer a reunião de assessment, até porque é através dela que a gente vai conseguir refinar.\n[LOCUTOR 19]: Ent\n[LOCUTOR 1]: vocês precisariam de mais uma horinha do tempo de vocês, nos próximos dias, próximas semanas, pra falar com alguém do meu time. E aí, se vocês decidirem contratar mesmo daqui a alguns meses, não teria problema, mas a gente já teria uma proposta formal\n[LOCUTOR 19]: e\n[LOCUTOR 12]: teria avançado uma casa. Mas fica a critério de vocês. Se vocês quiserem deixar o acesso para um outro momento também não tem problema.\n[LOCUTOR 19]: Eu deixava para um outro momento.\n[LOCUTOR 12]: Tá bom.\n[LOCUTOR 19]: Agora está bem corrida, a gente está com alguns incidentes aqui também, por isso que a gente conseguiu entrar na reunião um pouco mais tarde. E aí a gente vai passando isso para a diretoria também, sobre essa mudança de tecnologia, que isso é necessário. Enquanto isso, a gente vai alimentando mais essa migração para a diretoria também, para depois poder chegar e tocar isso para frente.\n[LOCUTOR 12]: Não, maravilha, maravilha. Vamos seguir assim. Eu vou pedir para a [PESSOA], que foi quem marcou essa agenda, então, deixar agendado para procurar vocês daqui um mês, só para entender como está o contexto, e aí vocês dizerem se faz sentido a gente retomar ou se precisam de mais um tempo.\n[LOCUTOR 19]: Obrigado\n[LOCUTOR 12]: pela atenção de vocês, espero que tenham gostado do conteúdo e eu tô sempre à\n[LOCUTOR 19]: disposiç\n[LOCUTOR 1]: de vocês aqui. Hoje vocês não estão dentro da TodosCloud, mas se precisarem de qualquer coisa relacionada à Cloud, eventuais dúvidas que surgirem, podem contar comigo aí para apoiar, tá bom?\n[LOCUTOR 19]: Beleza. Um\n[LOCUTOR 12]: abraço,\n[LOCUTOR 19]: pessoal. [LOCAL].",
+  "texto_filtrado": "[LOCUTOR 19]: bem com você,\n[LOCUTOR 12]: amigo?\n[LOCUTOR 12]: Ô, [PESSOA], prazer, cara, tudo ótimo com você.\n[LOCUTOR 19]: E aí também, graças a [PESSOA].\n[LOCUTOR 12]: [LOCAL]. A [PESSOA], ela fez esse contato aí com vocês e eu sou responsável pela estrutura comercial de cloud para o segmento de saúde aqui na TOTOS. A intenção, o objetivo é falar um pouquinho sobre a TOTOS Cloud, entender um pouco sobre o contexto de vocês. e a gente conseguir avaliar se é aderente uma eventual transição aqui para a [LOCAL], no contexto que vocês estão hoje. Eu queria ouvir um pouquinho de vocês, como está a situação, qual [LOCAL] vocês utilizam, está dentro de casa, está em uma nuvem, qual é o cenário?\n[LOCUTOR 19]: Então, [PESSOA], eu estou chegando agora, faz uma semana que eu entrei aqui no hospital.\n[LOCUTOR 12]: Então,\n[LOCUTOR 19]: eu queria ter uma reunião com vocês para o parche comercial, para me entender todos os serviços que são contratados, o que a gente está utilizando hoje de ferramenta. Acho que foi chamado até uma reunião semana que vem para discutir sobre o contrato, os valores que são pagos mensais, mas isso foi um assunto mais da diretoria. E o [PESSOA] que está aqui, ele já está aqui há um pouco mais de tempo, ele acompanhou a implantação do [LOCAL] aqui no hospital. Então ele vai saber te dar mais informações assim, como que tá os departamentos que estão utilizando esse sistema, se alguns módulos usam outros não. Ele vai saber te falar mais.\n[LOCUTOR 12]: Não, maravilha. Essas informações que vocês precisam, o executivo, que é o [PESSOA], não sei se vocês já tiveram contato com ele aí.\n[LOCUTOR 19]: Já tive contato com ele.\n[LOCUTOR 12]: Já teve, né, [PESSOA]? Então o [PESSOA], ele é o cara que vai conseguir ajudar vocês e vai elucidar toda essa questão contratual, entender o que vocês têm.\n[LOCUTOR 19]: quais\n[LOCUTOR 12]: são os recursos, valores, etc. Ele vai dar todo esse apoio e eu vou reforçar com ele essa questão. Não sei se vocês já falaram diretamente com ele, mas eu vou reforçar com ele esse tópico aí para que ele consiga prestar esse apoio nos esclarecimentos do que vocês têm aqui com a gente no contrato, tá bom? Sobre a estrutura que voc\n[LOCUTOR 19]: [PESSOA], hoje a gente utiliza o [EMPRESA], a linha [EMPRESA], [EMPRESA]. Implantou aqui em 2006 o [EMPRESA], não era da Totos ainda.\n[LOCUTOR 12]: Ainda era a [EMPRESA] apartada, né?\n[LOCUTOR 19]: Isso. Aí depois o [EMPRESA] foi lá e comprou o grupo, né?\n[LOCUTOR 12]: Sim. E foi nessa época aí mesmo, foi lá pra 2006, 2007, nessa faixa mesmo.\n[LOCUTOR 19]: Então, eu, na época, fui contratado aqui por conta dessa implantação. Então, até 2012, só o [EMPRESA] saúde. e a gente implantou o básico para fazer o faturamento X, que até então o hospital não tinha um sistema que fizesse esse tipo de faturamento que a INS estava exigindo.\n[LOCUTOR 12]: Então\n[LOCUTOR 19]: a gente fez o básico, os cadastros e tudo para fazer um faturamento X. Isso foi o primordial do hospital na época. Então, eu estava falando. Aí, o que aconteceu? Em 2012, o hospital entrou naquele filtro do governo para implantar o SPED. Só contando um pouquinho. A gente implantou o saúde e implantou um pedaço do financeiro, do fluxo. Contas a pagar, basicamente. Não tinha o controle de receber. e não implantamos rateios. Algumas partes da igreja de saúde, o hospital não aderiu muito à cara do sistema, né? Rateio, curso de glosas, alguma coisa ali não deu certo, então tocou o básico para fazer faturamento. Fazer faturamento. E ali em 2012, entrou a parte fiscal e contábil. Então, veio os outros modos. Então, aí foi uma outra, e o hospital fez implantações. Então, implantou núcleos, implantou contábil, fiscal, deu mais uma sapeada ali no fluxo, né, por conta dessa parte fiscal. Então, junto, acompanhou de nós aqui, o próprio escritório de contabilidade nosso, que é um serviço terceirizado, acompanhou essa implantação, porque eles iam fazer parte do uso do sistema, né? E aí de 2012 pra cá é o que a gente tem, assim, não implantou, já teve algumas reuniões, assim, de novas implantações que não avançou. Controle de estoque, pronto ar eletrônico, né? Algumas coisas assim ainda estão por implantar.\n[LOCUTOR 12]: [EMPRESA], e esse ambiente continua local?\n[LOCUTOR 19]: [LOCUTOR 6]: local, tudo em SQL Server, servidores físicos aqui no hospital, investimento a longo prazo que foi feito.\n[LOCUTOR 12]: Esse investimento ele já está perto do fim ou vocês acreditam que ainda vai se perpetuar essas máquinas aí entregando o que vocês precisam por mais\n[LOCUTOR 19]: alguns\n[LOCUTOR 12]: anos.\n[LOCUTOR 4]: teve contato, [PESSOA], com alguma apresentação sobre a [LOCAL]? Você já conhecia a [LOCAL]?\n[LOCUTOR 19]: Eu ouvi falar há um tempo atrás e não tive nenhuma reunião assim, contato pessoal para fazer apresentação. e o hospital tem muitas integrações que\n[LOCUTOR 12]: funcionam\n[LOCUTOR 19]: localmente, como o sistema de PAX do setor embargue, o sistema de PAX do setor de laboratório, que foram feitas integrações à parte, que conectam com o sistema da [EMPRESA].\n[LOCUTOR 12]: [EMPRESA]. Não, legal. Só para até explicar como funciona, tá? A minha intenção nessa reunião é apresentar um pouquinho para vocês sobre a TOTUS Cloud em si, explicar o nosso modelo. É um modelo diferente das nuvens padrões de mercado, porque é uma nuvem que nasceu com um propósito específico que ali no início era abrigar as nossas soluções. Então, ninguém melhor do que a TOTUS para hospedar um sistema TOTUS. Essa é uma máxima simples de ser compreendida. A intenção é mostrar esse valor, esclarecer eventuais dúvidas que vocês tenham, e aí, se vocês tiverem interesse em avançar, numa próxima reunião, eu teria aqui o time de arquitetura. O time de arquitetura faria uma análise robusta, uma varredura, um assessment no ambiente de vocês,\n[LOCUTOR 19]: para\n[LOCUTOR 12]: conseguir entender como está sendo utilizado no detalhe, entender eventuais integrações que vocês tenham, porque a partir do momento que o time faz essa análise, eles têm a possibilidade, em seguida, de montar um escopo técnico na Toto's Cloud, aderente à realidade do cliente. Então, não é uma entrega genérica, é uma entrega customizada com o que a gente vai encontrar de especificidade aí na estrutura de vocês, tá bom? Eu vou compartilhar a tela aqui, pessoal, para falar um pouquinho para vocês sobre a Toto's Cloud. Se tiverem alguma dúvida, fiquem à vontade aí para me interromper e a gente caminhar junto aqui. Beleza? É uma apresentação pequena, não uma apresentação extensa, mas é importante vocês conseguirem ter essa visibilidade de que a TOTOS Cloud hoje tem diferenciais enormes para o cliente que utiliza o [EMPRESA] TOTOS. A TOTOS Cloud não é uma nuvem que começou agora, então tem muito cliente, até mesmo com vocês que utilizam sistemas da TOTOS há muito tempo, não tiveram contato com a TOTUS Cloud até então. E a TOTUS Cloud, ela já tem aproximadamente 20 anos que ela foi concebida no modelo inicial e esse modelo, ele vem evoluindo gradativamente para conseguir entregar essa experiência para o cliente. Hoje já são mais de 600 especialistas que sustentam a estrutura dentro da nossa operação, então a gente vai ter um time multidisciplinar, analista de segurança, analista de banco de dados, analista de redes, todo mundo aqui dentro da nossa operação trabalhando para garantir para o cliente alta disponibilidade, performance e segurança. Já são mais de 7.500 clientes dentro da nossa operação, e aqui, através desses big numbers, vocês conseguem ter noção. Por exemplo, são 80 mil VNs já hospedadas dentro da estrutura da Totus Cloud.\n[LOCUTOR 19]: Que novo VN que estava utilizando? Talvez tinha infraestrutura.\n[LOCUTOR 12]: O ecossistema é um ecossistema próprio da TOTOS, a gente não utiliza nenhuma nuvem pública para conseguir montar a nossa estrutura, tá? Assim, o projeto inicial da TOTOS Cloud foi concebido através de um datacenter próprio, foi onde tudo começou, mas hoje n\n[LOCUTOR 5]: fazemos\n[LOCUTOR 12]: como os principais players aí de cloud do mercado, como a AWS, a [EMPRESA], para conseguir acelerar essa expansão e hoje destacar para vocês que nós temos 12 zonas de disponibilidade a [EMPRESA] faz a utilização de grandes empresas, como, por exemplo, a Cent e a Equinix, onde a gente aluga salas\n[LOCUTOR 12]: a gente leva todo o equipamento da [EMPRESA] para conseguir compor esse ecossistema. Então, não é uma nuvem terceira, é um ecossistema próprio da [EMPRESA] que está montado dentro dessas grandes estruturas de data center, altamente qualificadas, seguindo esse mesmo padrão das big techs globais de nuvem.\n[LOCUTOR 12]: são duas zonas de disponibilidade, se voc\n[LOCUTOR 3]: deram\n[LOCUTOR 12]: uma olhada no mapa aqui, o foco está total em [LOCAL], tanto capital quanto cidades vizinhas aqui que permeiam [LOCAL],\n[LOCUTOR 12]: gente tem um hub estratégico lá em [LOCAL], esse hub é importante por conta de toda a comunicação submarina que chega da [LOCAL], então a gente tem esse objetivo de abraçar o [LOCAL] como um todo, isso aqui está em franca expansão pessoal, Hoje são 12 anos de disponibilidade. Se a gente falar daqui a alguns meses, esse volume aqui vai ter aumentado, com certeza. Então, está no roadmap a gente popular centro-oeste, região-norte, região-nordeste, para conseguir sempre entregar um data center e uma rota de comunicação que vai ser aderente à empresa do cliente para conseguir minimizar a questão de impacto de latência de comunicação. Beleza? uma amostra dos principais clientes que estão hospedados dentro da nossa estrutura hoje, clientes de todos os tamanhos, todos os segmentos, hospedados no [LOCAL] e no exterior. No segmento de saúde, a gente vai ter, por exemplo, espaço laser, a gente tem [EMPRESA], de saúde, as [EMPRESA], estão aqui conosco, v\n[LOCUTOR 7]: [EMPRESA],\n[LOCUTOR 12]: [LOCAL], [LOCAL], [LOCAL], [LOCAL], temos grandes clientes do segmento de saúde hospedados e satisfeitos dentro da operação de causa da TOTUS hoje. Tem um cliente que eu acho, para mim, é praxe,\n[LOCUTOR 19]: toda\n[LOCUTOR 12]: apresentação como essa eu preciso destacar,\n[LOCUTOR 12]: é o governo americano, que apesar de não ser do segmento de saúde, eu acho que casa muito bem com o discurso porque fica evidente para vocês, o governo americano, pessoal, eles usam [EMPRESA] aqui no [LOCAL], beleza? Desde 2019, eles estão hospedados dentro da [EMPRESA] Cloud. De lá para cá, olha que a gente evoluiu bastante, mas naquela época, eles já deram esse passo de\n[LOCUTOR 19]: hospedar, de\n[LOCUTOR 12]: trazer a estrutura aqui para a [EMPRESA] Cloud. E vocês sabem bem, o governo americano, a embaixada americana, eles têm os principais players de cloud\n[LOCUTOR 12]: lado deles. Os [LOCAL] é um país extremamente nacionalista\n[LOCUTOR 12]: aí fica aquela dúvida, ué, por que os [LOCAL] ao invés de hospedar na [EMPRESA], no Azure, na AWS, na [EMPRESA], na Oracle, eles estão hospedando\n[LOCUTOR 19]: dentro da\n[LOCUTOR 12]: TOTUS Cloud? Eles estão hospedando dentro da TOTUS Cloud porque a TOTUS Cloud conseguiu mostrar para eles que entregaria\n[LOCUTOR 19]: toda\n[LOCUTOR 12]: a garantia de compliance que eles exigiram que conseguiria entregar um diferencial que nenhuma outra nuvem entregaria, que é conceber a melhor experiência para um cliente que utiliza o [EMPRESA], dando todas as garantias e um serviço gerenciado completo, não somente entregar a infraestrutura, mas garantir\n[LOCUTOR 12]: o nosso sistema vai funcionar na plenitude dele. E é por isso que eles decidiram vir pra cá.\n[LOCUTOR 12]: um cliente que, por conta dessa referência, eu sempre destaco, mas tem um ponto crucial. Vocês vão ver aqui, pessoal, nesse recorte de empresas que estão hospedadas dentro da nossa estrutura, inclusive instituições financeiras. mas nenhum cliente é tão rigoroso no que diz respeito à segurança e compliance quanto a embaixada americana. Então, é um nível de compliance muito alto. A pessoa nos auditou atrás, nos audita periodicamente para garantir que a gente está acompanhando essa evolução tecnológica e vai entregar a melhor experiência e seguindo todos os ritos, todos os pontos de compliance exigidos por eles. Então,\n[LOCUTOR 12]: garantia\n[LOCUTOR 12]: excelência vindo para a TOTUS Cloud, Repasse para vocês também. Então, esses grandes clientes que estão aqui, eles conseguem fazer a nossa regra estar sempre alta. A guarda está sempre baixa para que a gente consiga sempre aumentar esse nível de excelência que está sendo entregue para os clientes hoje. Beleza? Esse slide aqui é o que eu considero o mais importante da apresentação, pessoal. É aqui que tem que ficar claro, literalmente, o que a gente está propondo como TotsCloud. E aí, para traçar um paralelo, Vou usar como exemplo, na primeira coluna aqui, o modelo on-premises, que é a estrutura que vocês utilizam hoje, o RM. Vocês são responsáveis\n[LOCUTOR 12]: toda a base da infraestrutura. E aí uma dúvida que eu tenho, quantas pessoas tem na equipe de vocês que cuida de toda essa estrutura de tecnologia?\n[LOCUTOR 12]: Vocês dois? Um exército, hein? Ah não, legal. A minha pergunta é justamente para destacar o seguinte, num contexto como esse, onde vocês dois cuidam de Vocês precisam se preocupar tanto com a base da infraestrutura se a gente parar para analisar um pouco mais a fundo no detalhe até a camada anterior aqui de fornecimento de energia elétrica garantia de redundância de energia elétrica refrigeração do ambiente e aí depois vem aqui para o servidor história de virtualização e camada operacional de infraestrutura também. Cuidado o backup fazer ali a criar a rotina fazer teste periódico para garantir que o backup está interno não vai deixar na mão se vocês precisarem. cuidar do monitoramento, ter as ferramentas adequadas ali para apoiar, a gestão do [EMPRESA], gestão de segurança, gestão de banco de dados,\n[LOCUTOR 12]: hoje fica na mão de vocês, então vocês sabem bem o que eu estou dizendo aqui, o pessoal da área de negócios muitas das vezes eles não tem noção, eles colocaram os dois aí o [PESSOA] e o [PESSOA] para cuidarem e acham que beleza é isso o pessoal está dando conta lá tá tranquilo mas vocês sabem bem quão grande é a responsabilidade por exemplo de garantir que um backup vai estar íntegro se acontecer alguma catástrofe aí vocês vão estar respaldado\n[LOCUTOR 19]: porque\n[LOCUTOR 12]: se acontece alguma coisa vocês não conseguem fazer o restore do backup seja porque teve algum tipo de ataque aí a estrutura de vocês e hoje em dia o pessoal os atacantes eles vão buscar onde vocês têm backup, onde vocês têm cópia, tentam fazer aí tudo possível para conseguir não permitir que vocês tenham a possibilidade de fazer esse restore em algum momento se vocês precisarem, seja por conta de um ataque ransom, etc. E aí se acontece uma situação como essa, vocês são os responsáveis, vai cair tudo nas costas de vocês. Isso também reflete na questão de atualização do ambiente, Essa análise de saber se faz sentido a gente fazer uma atualização de infraestrutura agora, ou dá para segurar mais alguns anos. Às vezes vai ficando ali no gargalo,\n[LOCUTOR 8]: chega um momento que pode, e mais uma vez vai\n[LOCUTOR 19]: ficar\n[LOCUTOR 12]: no colo de vocês. Caso vocês considerassem levar essa estrutura para uma nuvem pública, vamos usar como exemplo a [EMPRESA] com o Azure aqui. Caso vocês gostassem de levar isso para o Azure, vocês sabem bem, a [EMPRESA] seria responsável por toda a base da infraestrutura, dando alta garantia de disponibilidade para vocês, mas toda essa responsabilidade aqui continuaria sob o colo de vocês. Vocês precisariam absorver conhecimento nessa nuvem, vocês precisariam contratar ferramental para conseguir criar essa gestão estruturada dentro\n[LOCUTOR 12]: nuvem, e assim, a gente sabe que continuaria sendo um trabalho árduo porque cada linha, apesar de vocês conseguirem contar de tudo,\n[LOCUTOR 19]: cada\n[LOCUTOR 12]: linha dessa aqui existe uma especialidade, existe uma profundidade que de repente, com um conhecimento mais generalista, vocês vão dar conta de 99% das coisas, mas\n[LOCUTOR 12]: no detalhe que pode acontecer alguma coisa que vai ocasionar uma catástrofe. Então, nos dois modelos, no modelo on-premises quanto no modelo de nuvem pública, vocês estão sujeitos a isso. Caso vocês optem, por exemplo, por vir para a TOTUS Cloud,\n[LOCUTOR 12]: gente entrega a estrutura da TOTUS Cloud no modelo de plataforma as-a-service. Esse modelo, a TOTUS cobre totalmente a garantia da base de infraestrutura com altíssima disponibilidade, seguindo o mesmo padrão das nuvens públicas, as tops, de 99,98% de garantia de disponibilidade. Quando a gente olha para a camada operacional de infraestrutura, vai ter\n[LOCUTOR 19]: todo\n[LOCUTOR 12]: o serviço de gestão completo executado por parte do nosso time. Então, o nosso time vai cuidar do backup, vai dar todas as garantias que vocês precisam, vai ter uma equipe grande aqui fazendo monitoramento para o ativo do ambiente, cuidando do [EMPRESA], segurança, tipo de dados. E além de toda a expertise e serviço gerenciado que a gente vai colocar em cima, vocês não vão mais se preocupar nesse modelo aqui em garantir que o licenciamento do SQL Server está atualizado. Então, vindo para a TOTOS, vocês não se preocupam mais com isso. A responsabilidade de manter essas estruturas aqui dentro da TOTOS Cloud atualizadas, tanto de hardware quanto de licenciamento para acompanhar a evolução do nosso sistema, é da TOTOS. Então, basicamente, o que eu quero propor para vocês aqui? Se vocês toparem dar esse passo de trazer esse ambiente aqui para dentro da TOTUS Cloud, vocês vão ter a tranquilidade e vão saber que a TOTUS\n[LOCUTOR 4]: garantindo tudo para vocês, está tudo debaixo do guarda-chuva\n[LOCUTOR 12]: TOTUS. Se tiver problema de produto, liga na TOTUS. Se tiver problema de infraestrutura, liga na TOTUS. Facilita demais a governança para vocês. E, digo mais, nesse modelo aqui, vocês continuarão sendo extremamente extremamente importantes para o contexto. Às vezes, eu converso com o pessoal e falo, se eu levar para aí e vocês vão fazer tudo, o meu papel aqui acaba não fazendo mais sentido, mas é muito diferente disso, porque vocês passariam a ser a interface de comunicação com a TOTUS Cloud, voc\n[LOCUTOR 3]: teriam\n[LOCUTOR 12]: acesso de administração ao [PESSOA], que é o painel, com diversos recursos automatizados para conseguir cuidar desse ambiente e, no dia a dia, Esse acesso possibilitaria que vocês tivessem autonomia para conseguir resolver as demandas, mas sempre tendo por trás a TOTUS Cloud para conseguir suportar vocês e o nosso time de suporte à disposição para conseguir ajudar. Então, é basicamente mudar da água para o vinho e vir para a TOTUS Cloud.\n[LOCUTOR 19]: [LOCUTOR 11]: eu disse, vocês não se preocupariam mais com o tamanho e a obsolência da infraestrutura, o ambiente seria modernizado de forma constante, a gente dá garantia de performance para a solução e há uma segurança totalmente dedicada à proteção dos dados dos clientes que estão hospedados aqui conosco. Esse modelo de plataforma como serviço tem como principal métrica para definição de poder computacional do ambiente do cliente a quantidade de conexões simultâneas, então a gente faz toda uma análise diferenciada mesmo para entender como está sendo utilizado o nosso sistema dentro da casa do cliente e através dessa análise detalhada a\n[LOCUTOR 12]: gente define o escopo técnico para conseguir apresentar uma proposta de transição aqui para a TOTUS Cloud. O meu time é responsável por fazer\n[LOCUTOR 12]: migração\n[LOCUTOR 12]: garantir que voc\n[LOCUTOR 1]: ter esses dados transferidos para cá em segurança, vocês vão seguir todo um processo ali muito bem estabelecido com o gerente de projetos para que seja executado\n[LOCUTOR 12]: melhor forma possível, para que vocês tenham visão de cara do cronograma de migração, etc. e a gente ajudaria vocês a conseguir\n[LOCUTOR 12]: esse desafogo, porque duas pessoas para cuidar da estrutura de tecnologia inteira e ainda mais se preocupar com essa questão de sistema externo, vindo para cá pessoal, a nossa intenção é de fato conseguir contribuir com vocês para que vocês tenham a possibilidade de focar de forma estratégica, e utilizar o conhecimento de vocês para transformar a estrutura tecnológica do hospital e contar com a [EMPRESA] para ser esse advisor aqui também, entende? Então, basicamente isso que eu queria trazer para vocês, esse material, eu vou compartilhar com vocês também, tenho aqui detalhes, nosso white paper de segurança, com todo o framework estruturado, para que vocês tenham visibilidade, mas assim, Tem dois pontos principais que eu sempre destaco também. Não ficam só nas minhas palavras, todos os benefícios que eu destaquei. A gente tem os clientes para dar o respaldo e a gente tem o portfólio de certificações que também eu vou encaminhar para vocês para comprovar isso. Então a gente tem isso aí, 3402, todos os data centers são data centers tier 3. A Totos é uma empresa de capital aberto. Então, nosso nível de segurança é elevadíssimo, porque se acontece uma catástrofe, por exemplo, alguém invadir o nosso ambiente, o ambiente de um cliente, a [EMPRESA] fica exposta e corremos o risco de acabar com a empresa do nosso cliente, mas também corremos o risco de acabar com a nossa própria empresa, né? No mesmo dia ali, as ações despencariam e tudo mais. Então, vocês, dando esse passo, teriam\n[LOCUTOR 12]: guarda-chuva gigantesco, que é o guarda-chuva da [EMPRESA], para dar todo o suporte, toda essa sustentação do ambiente para vocês.\n[LOCUTOR 19]: Ok, certo. e, assim, tirando algumas coisas agora, então, seria uma aplicação totalmente web.\n[LOCUTOR 12]: A aplicação, na verdade,\n[LOCUTOR 12]: da seguinte forma, vindo para cá, vocês não vão ter mais acesso à camada de sistema operacional, vocês não vão precisar ter acesso, basicamente, vocês não vão precisar ter acesso à camada de sistema operacional, vocês vão passar a ter acesso ao painel que é um painel de administração que vocês vão conseguir acessar via browser e também tem aplicativo para iOS e para Android. E até para dar um histórico para você, [PESSOA] e [PESSOA] também. No passado,\n[LOCUTOR 4]: em 2018, 2019, que foi quando foi concebido o [PESSOA], até então a gente tinha dois perfis de clientes dentro da nossa estrutura de cloud. Um perfil estava muito satisfeito, que era o perfil mais leigo. Sabe o perfil de cliente que não tem tanto conhecimento técnico e a [EMPRESA] estava se propondo a fazer tudo pra ele? Falava, putz, precisa aplicar um pacote que é algo simples. Cara, não se preocupa, abre um ticket, marca com o nosso analista e ele vai fazer pra você. Esse cara estava plenamente satisfeito, porque ele não tinha nem interesse em adquirir essa expertise. Agora, O perfil de cliente que já dominava ali, fazia gestão, ele tinha acesso a tudo, ele já sabia exatamente o que ele precisava fazer, ele se sentia engessado. Porque ele falava, mano, pra aplicar um\n[LOCUTOR 19]: pacote\n[LOCUTOR 19]: abrir\n[LOCUTOR 12]: um ticket, ficar esperando alguém entrar em contato comigo. Então, o [PESSOA] nasceu justamente para atender a dor desse público mais exigente, para conseguir dar celeridade para esse time que precisa executar as coisas com mais celeridade e não ficar dependendo de abrir um ticket. E assim, tem um diferencial muito grande dentro do [PESSOA],\n[LOCUTOR 19]: que é o\n[LOCUTOR 12]: fato dele entregar funções automatizadas. Então, imagine o seguinte, Um exemplo de uma função que tem dentro do [PESSOA], só para vocês entenderem como funciona a dinâmica dele. Tem uma função lá que é clone de banco de dados, clone de ambiente, como um todo. Muitos clientes,\n[LOCUTOR 19]: muitas\n[LOCUTOR 12]: das vezes, precisam contratar um [LOCAL] por fora para fazer uma replicação, uma cópia do ambiente de produção para um ambiente de teste, um ambiente de desenvolvimento, para fazer algum trabalho. Aqui dentro do [PESSOA], ele tem um botão com três cliques, ele clica no botão, ele seleciona do ambiente origem para onde vai a cópia do banco de dados e ele consegue mandar, ele pode ter aqui uma, duas, três, quatro, cinco bases, ele consegue fazer uma cópia e agilizar um processo que, antes, seria necessária uma intervenção de um modelo mais tradicionalista. Esse é um dos exemplos. Então, o [PESSOA], hoje, ele dá autonomia para o cliente conseguir executar as ações que ele precisa executar\n[LOCUTOR 12]: mais do que isso, ele facilita\n[LOCUTOR 19]: essas\n[LOCUTOR 12]: execuções.\n[LOCUTOR 19]: [PESSOA], sobre a troca de versões do sistema, como ficaria?\n[LOCUTOR 12]: Troca de versão do sistema, vocês precisariam entrar em contato conosco. Vai ser uma responsabilidade\n[LOCUTOR 19]: compartilhada,\n[LOCUTOR 19]: Imaginem\n[LOCUTOR 12]: que hoje vocês precisam fazer tudo, né? Quando precisa fazer atualização de release, tá totalmente na mão de vocês. Aqui dentro da [PESSOA], nesse modelo de plataforma as-a-service, pelo fato do RM, Proteus, DataSuite serem RPs muito robustos, que permitem muitas customizações por parte dos clientes,\n[LOCUTOR 12]: gente não poderia simplesmente apertar um botão e replicar uma atualização para todo mundo, né? Seria o melhor do... um sonho, mas não tem como ser feito dessa forma.\n[LOCUTOR 19]: Então,\n[LOCUTOR 12]: num cenário onde vai... acontecer uma necessidade de atualização de release, vocês precisariam, a responsabilidade seria abrir um ticket para o nosso time de suporte técnico, um gerente de projetos ali ficaria responsável por fazer a execução desse trabalho com vocês, e basicamente funcionaria da seguinte forma, a responsabilidade de vocês seria interagir com essa pessoa para fornecer informações de eventuais integrações, eventuais customizações que vocês tenham, mas vocês ficariam respaldados de que seria um trabalho ali em quatro mãos e o nosso time teria a missão de conseguir entregar aquele ambiente atualizado para vocês.\n[LOCUTOR 19]: Sobre essas integrações que a gente tem assim com outros sistemas aqui e que foram desenvolvidos bem\n[LOCUTOR 12]: caracter\n[LOCUTOR 18]: ali para o sistema parceiro, como que seria isso aí?\n[LOCUTOR 12]: Esses sistemas parceiros\n[LOCUTOR 12]: você diz, [PESSOA], eles são sistemas que funcionam em estruturas separadas ou são sistemas que vocês têm dentro de casa instalados aí também?\n[LOCUTOR 19]: A integração, ela é instalada nos nossos computadores aqui dentro. Os parceiros são um sistema web, mas que rodam Linux,\n[LOCUTOR 12]: rodam\n[LOCUTOR 19]: outra estrutura aqui dentro também, de outros servidores, outros bancos de dados.\n[LOCUTOR 12]: [LOCAL].\n[LOCUTOR 19]: Um dos sistemas é da Pixel, uma integração que teve que desenvolver própria aqui para eles, e o outro sistema é da Animate, que é um sistema de partes de imagem.\n[LOCUTOR 12]: Essas integrações, elas vão direto no banco de dados ou são integrações via API?\n[LOCUTOR 19]: Não, são integrações, algumas são direto com banco de dados, outras funcionam API que solta lá um arquivo e o sistema\n[LOCUTOR 12]: deles\n[LOCUTOR 19]: consome esse arquivo.\n[LOCUTOR 12]: Não, beleza. Eu perguntei e passei essas duas opções aí porque a gente tem esses dois perfis de cliente. E para um contexto como o de vocês a gente já sabe que seria necessário uma estrutura dedicada. Vocês teriam um banco de dados dedicado. com o banco de dados dedicado, não teria nenhum tipo de dificuldade para que vocês fizessem, continuassem fazendo as integrações do jeito que vocês fazem hoje e para as integrações via API, a gente basicamente precisaria colocar app server de [PESSOA] lá para conseguir apoiar nessa integração de uma ponta com a outra, tudo mais. Então, é do dia a dia aqui nosso, tá, pessoal? A gente tem diversos clientes com diversos tipos de integrações diferentes. O que eu acho que pode somar e ser um algo a mais é o fato da gente\n[LOCUTOR 19]: também\n[LOCUTOR 12]: entregar um modelo de [PESSOA]\n[LOCUTOR 19]: O modelo\n[LOCUTOR 12]: padrão de mercado, entregue, que é basicamente de nuvem, de você contratar, falar, preciso de uma máquina com 16 GB de RAM, 8 VCPUs, Windows Server, SQL Server, e eu quero ser o administrador dessa máquina.\n[LOCUTOR 12]: gente também entrega. O mesmo padrão, altíssima disponibilidade, 99,98%. E a gente traz um benefício muito grande para o cliente que quer trazer essas aplicações aqui para todos,\n[LOCUTOR 12]: é o fato de conseguir fazer integração com velocidade local. Então, esses sistemas que vocês tiverem domínio sobre eles, tiverem dentro de casa, por exemplo, e vocês quiserem trazer para cá também, vocês conseguem trazer, e isso ajuda pelo fato de continuar tendo essa integração dentro de uma mesma rede, sem latência, funcionando de uma forma orgânica, sem dado entrando da rede, dado saindo. Tenho dois caminhos. Vocês podem deixar todos esses softwares que vocês têm integrando literalmente onde eles estão, do jeito que estão, e se integrar com a nossa estrutura, ou a gente pode avaliar\n[LOCUTOR 19]: quais\n[LOCUTOR 12]: são os softwares e se vocês tiverem acesso a eles, de fato, ali como administrador e quiserem trazer para cá, a gente mapeia as características desses servidores que vocês precisam e vende tanto o ambiente do RM quanto os ambientes apartados em IaaS para esses softwares.\n[LOCUTOR 19]: Outra dúvida, [PESSOA], também. Hoje, a gente, tipo assim, se tem necessidade, tem eu que é liberista do [EMPRESA], tenho acesso, se eu preciso fazer um update, fazer uma busca ali, fazer alguma alteração aqui\n[LOCUTOR 19]: hospital aqui, como que seria nessa estrutura?\n[LOCUTOR 12]: Tem, então.\n[LOCUTOR 12]: Não, é necessário, sim, e conseguiria. A gente tem dois modelos de atendimento. Um modelo de atendimento que não dá acesso ao banco de dados, mas, para o contexto de vocês, pela primeira fala que você fez, já ficou evidente. Vocês precisariam ter, pelo menos, a estrutura que a gente oferece com VLAN exclusiva para a camada de banco de dados. Você continuaria podendo, por exemplo, conectar um SQL Server Management Studio para conseguir se conectar ao banco? Você conseguiria conectar um Power BI, qualquer coisa que você quisesse conectar externamente ao banco de dados, você continuaria tendo a possibilidade.\n[LOCUTOR 19]: E aí, como que seria a conexão, né? Via VPN, fecharia uma VPN com a nuvem, com a estrutura daqui, como que é feito esse tráfego?\n[LOCUTOR 2]: fica\n[LOCUTOR 19]: exposto na internet?\n[LOCUTOR 12]: Fica exposto na internet, mas as integrações, as integrações aí a gente trata de uma, aborda de uma forma diferente, né? Como vocês teriam integrações de uma ponta\n[LOCUTOR 12]: outra aqui, para as integrações, poderia ter uma sugestão de colocar VPN, mas para os usuários no dia a dia, não tem a necessidade, a conexão é diretamente via internet, criptografia em trânsito.\n[LOCUTOR 19]: [EMPRESA], mas aí teria como privar isso... Certinho, porque pra pessoa não poder acessar de casa.\n[LOCUTOR 12]: Teria, teria, teria\n[LOCUTOR 12]: um pré-hack de você, é que a forma geral aqui dos clientes, eles optam por ter mais facilidade, como a gente dá essa garantia de ter criptografia em trânsito, etc, tem toda uma estrutura aqui do lado, a maior parte dos clientes não contrata VPN para conseguir fazer essa camada adicional, mas tem muito cliente que é praxe, é um compliance da empresa ter uma camada adicional de VPN ali para que o funcionário precise entrar na VPN na rede da empresa para depois entrar aqui.\n[LOCUTOR 19]: Sim. E falando de custos, a gente paga por armazenamento, como que é? Os dados conforme mais armazenamento, o valor aumenta, é um valor fixo?\n[LOCUTOR 12]: Existem algumas métricas importantes para que a gente faça essa análise e defina custo, mas nesse modelo de plataforma as-a-service, vocês vão pagar, o principal custo vai ser em cima da quantidade de conexões simultâneas no momento de pico. Então, o que a gente definir como conexão simultânea no momento de pico significa o cliente vai ter garantia de performance e alta disponibilidade desde que\n[LOCUTOR 12]: não exceda aquela quantidade. E hoje em dia, na verdade, mesmo que o cliente exceda aquela quantidade de conexões simultâneas, ele continua tendo o acesso ali normal, só que ele começa a ser avisado de que ele precisa fazer upgrade para o recurso conseguir comportar aquela nova situação. Porque é basicamente o seguinte, imagina que você fala para mim, [PESSOA], vamos encotar um ambiente aí com 20 conexões simultâneas no momento de pico. Por trás aqui, o meu time de arquitetura, eles sabem qual a\n[LOCUTOR 19]: característica\n[LOCUTOR 12]: computacional vai ser necessária para garantir que vocês tenham performance com 20 conexões simultâneas num momento de pico, beleza? Se aumenta esse volume, a gente precisa aumentar o recurso por trás de hardware para suportar esse incremento de usuário e tudo mais. Além disso, tem a questão do armazenamento, uma variável também que eu preciso entender com vocês, dando os próximos passos e vai entendendo isso. Por exemplo, a quantidade de emissão de documentos eletrônicos que vocês fazem, nota não é o caso, mas, por exemplo, vocês utilizam para RH também, CTE, e-social,\n[LOCUTOR 19]: esse\n[LOCUTOR 12]: tipo de evento, ele gera um consumo no TSS, no servidor de TSS. E esse servidor de TSS que a gente vai trazer para cá, ele é cobrado por franquia. Então, por padrão, o cliente tem direito a 10 mil documentos eletrônicos emitidos por ano. Se o cliente precisar de mais\n[LOCUTOR 19]: do que\n[LOCUTOR 12]: 10 mil, a gente precisa alinhar essa expectativa para conseguir suportar lá dentro da estrutura dele. Então, são algumas variáveis, [PESSOA], que a gente vai pegando com vocês para conseguir equalizar e montar esse escopo técnico.\n[LOCUTOR 19]: E... Falando, assim, de custos, é claro que vai sair um valor a mais do que a gente paga hoje. Mas aí, seria algum custo para essa implementação? Vocês vão fornecer uma equipe de treinamento? A plataforma muda muito? Porque os usuários estão acostumados hoje com o tipo de visual. E\n[LOCUTOR 12]: a gente sabe que\n[LOCUTOR 19]: vai mudar alguma coisa ali para o usuário que já estava acostumado no dia a dia e toda aquela dificuldade, né?\n[LOCUTOR 12]: Boa. Não, excelente. Assim, para o usuário final não muda literalmente nada, tá? A menos que hoje vocês não tenham a VPN e eles precisem passar a entrar na VPN. Só isso mesmo. Agora, a interface aí do sistema para eles, cara, vai ficar literalmente igual é hoje. Eles não vão sentir esse impacto. Sobre a migração, a gente coloca um time para conseguir executar isso da melhor forma, vocês vão passar para aquele período lá de homologação, testes, etc. e vocês tenham a segurança de que só vai ser virada essa chavinha no momento que vocês validarem lá com o gerente de projetos responsável. Putz, testamos aqui por uma semana. Beleza, testamos todas as rotinas. Vamos marcar o [PESSOA] para virar isso daí. Muitas das vezes o usuário no dia do [PESSOA], ele nem percebe. Se agendar o [PESSOA], por exemplo, a um final de semana, o cara chega na segunda, o funcionário que acessa o sistema, e muitas das vezes ele nem percebe. Ele vai perceber se tinha algo muito ruim e melhorou. Então, às vezes, a gente pega umas situações onde o contexto está muito ruim, lento, aí a gente melhora aquela questão de performance, aí o cara chega na segunda-feira\n[LOCUTOR 12]: o impacto que ele vai sentir é essa evolução mesmo. Sobre as cobranças, são dois valores. Tem o valor mensal recorrente que vocês vão pagar e tem o valor de setup pela migração, que é um valor individual.\n[LOCUTOR 19]: E só para ter uma média de custos?\n[LOCUTOR 12]: Vamos fazer o seguinte, até para agilizar, se eu fizer algumas perguntas, vocês conseguem me responder? Por exemplo, qual a quantidade de conexões simultâneas no momento de pico que vocês têm hoje?\n[LOCUTOR 12]: 36 conexões simultâneas. Essa questão do TSS, [PESSOA], você saberia, cara, uma média anual de emissão de documentos eletrônicos?\n[LOCUTOR 12]: Então, esse\n[LOCUTOR 19]: foi o TSS, mas foi de pouco uso.\n[LOCUTOR 12]: [EMPRESA], esse padrão...\n[LOCUTOR 19]: Aqui\n[LOCUTOR 19]: RH a gente não tem o módulo implantado de RH, então nós vamos usar o de atuados.\n[LOCUTOR 12]: Então esse padrão que eu comentei de 10 mil por ano seria muito mais do que o suficiente para vocês?\n[LOCUTOR 12]: horas. [PESSOA] me dizer qual o consumo atual, não precisa ser exato não, tá? Porque a minha intenção é só fazer uma estimativa inicial para alinhar a expectativa de valor com vocês. Qual o consumo atual do banco de dados?\n[LOCUTOR 19]: Quase 70 GB.\n[LOCUTOR 12]: Olha,\n[LOCUTOR 12]: volto em um minutinho, um minutinho mesmo, aí eu já limpo com vocês essa expectativa e\n[LOCUTOR 19]: explico\n[LOCUTOR 12]: para vocês como a gente poder dar os próximos passos. Só um minutinho.\n[LOCUTOR 12]: é o seguinte, fiz aqui uma simulação com esses itens. Existem outros pontos que precisam ser coletados, tá? Por isso, o que eu vou falar aqui para vocês não é o número final formal, não consigo gerar uma proposta formal e mandar para vocês em cima só dessas perguntas que eu fiz aqui. Mas eu imagino que a mensalidade para uma estrutura dedicada aqui com a gente, já considerando o SQL Server, que vocês comentaram também, e o SQL Server Enterprise que a gente entrega aqui, então é um padrão, a gente não entrega abaixo do Enterprise, ficaria em R$3.100 por mês, valor líquido. Além desses R$3.100 por mês valor líquido, a gente teria um setup de R$7.500 pelo processo de migração.\n[LOCUTOR 19]: esse\n[LOCUTOR 12]: valor poderia ser parcelado em até seis vezes sem juros. Então ficaria nessa ordem de grandeza não não levem ali no pé na risca mesmo não porque de repente a gente pode\n[LOCUTOR 19]: fazer o\n[LOCUTOR 12]: assessment e abaixar esse valor ou aumentar um pouquinho mas\n[LOCUTOR 19]: ficaria\n[LOCUTOR 12]: nessa faixa.\n[LOCUTOR 12]: aí o que vocês acham vocês acham que é um valor. para a realidade que vocês têm hoje aí para o momento, que poderia fazer sentido, porque se vocês acharem que pode fazer sentido, agora mesmo eu já posso pegar opções de agenda do meu time de arquitetura para a gente marcar a reunião de assessment com eles, onde eles avaliarem o ambiente no detalhe, e aí depois dessa agenda a gente conseguirá gerar uma proposta formal.\n[LOCUTOR 19]: Só um minuto, só vou falar um negócio aqui com o [PESSOA].\n[LOCUTOR 19]: Hoje, o custo que a gente tem mensal referente às licenças, isso aí é divido ou a gente continuaria tendo esse custo mensal mais esse serviço de cloud?\n[LOCUTOR 12]: Mais o serviço de cloud, é totalmente apartado.\n[LOCUTOR 19]: Totalmente apartado, então esse custo com licença que a gente já tem continuaria. [PESSOA], a gente estava conversando aqui, acho que hoje faz muito sentido para a gente ter essa infraestrutura, só que agora a gente não está num momento muito legal para começar essa migração, né?\n[LOCUTOR 19]: aqui, a gente está em afetar alguns acessos, tinha uma outra pessoa aqui, então deixou muitas coisas em paralela, E aí acho que a gente tá num momento meio turbulento, mas assim, vamos conversar mais ou menos daqui um mês, dois meses aí no máximo, pra gente começar a trocar isso daí, essa migração.\n[LOCUTOR 1]: vocês precisariam de mais uma horinha do tempo de vocês, nos próximos dias, próximas semanas, pra falar com alguém do meu time. E aí, se vocês decidirem contratar mesmo daqui a alguns meses, não teria problema, mas a gente já teria uma proposta formal\n[LOCUTOR 12]: teria avançado uma casa. Mas fica a critério de vocês. Se vocês quiserem deixar o acesso para um outro momento também não tem problema.\n[LOCUTOR 19]: Eu deixava para um outro momento.\n[LOCUTOR 19]: Agora está bem corrida, a gente está com alguns incidentes aqui também, por isso que a gente conseguiu entrar na reunião um pouco mais tarde. E aí a gente vai passando isso para a diretoria também, sobre essa mudança de tecnologia, que isso é necessário. Enquanto isso, a gente vai alimentando mais essa migração para a diretoria também, para depois poder chegar e tocar isso para frente.\n[LOCUTOR 12]: Não, maravilha, maravilha. Vamos seguir assim. Eu vou pedir para a [PESSOA], que foi quem marcou essa agenda, então, deixar agendado para procurar vocês daqui um mês, só para entender como está o contexto, e aí vocês dizerem se faz sentido a gente retomar ou se precisam de mais um tempo.\n[LOCUTOR 12]: pela atenção de vocês, espero que tenham gostado do conteúdo e eu tô sempre à\n[LOCUTOR 19]: disposiç\n[LOCUTOR 1]: de vocês aqui. Hoje vocês não estão dentro da TodosCloud, mas se precisarem de qualquer coisa relacionada à Cloud, eventuais dúvidas que surgirem, podem contar comigo aí para apoiar, tá bom?\n[LOCUTOR 12]: abraço,",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:01.607362+00:00",
+    "total_linhas": 268,
+    "linhas_mantidas": 193,
+    "linhas_removidas": 75,
+    "percentual_mantido": 72.01,
+    "confianca_media": 0.4895
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 12]: It. It's. Fala [PESSOA], bom dia, tudo bem? Bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3763,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: dia pessoal, só um minutinho. Bom dia, pessoal. A gente estava no meio de um incidente aqui, por isso não conseguiu dar uma atenção mais rápida. Tudo bem com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3779,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: você, meu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: amigo? Tudo bem com você, meu amigo? Tudo bem com você, meu amigo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tudo bem com você, meu amigo? Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.437,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: bem com você,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4917,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: meu amigo? Tudo bem com você, meu amigo? Tudo bem com você, meu amigo? Tudo bem com você, meu amigo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4389,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Tudo bem com você, meu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: amigo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Tudo bem com você, meu amigo? Tudo bem com você, meu amigo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: bem com você, meu Tudo bem com você, amigo? meu amigo? Tudo bem com você, meu amigo? Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4413,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: bem com você, meu amigo? Tudo bem com você, meu amigo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: bem com você, meu amigo? Tudo bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.437,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: com você, meu amigo? Tudo bem com você",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4578,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Ô, [PESSOA], prazer, cara, tudo ótimo com você.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4917,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E aí também, graças a [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL]. A [PESSOA], ela fez esse contato aí com vocês e eu sou responsável pela estrutura comercial de cloud para o segmento de saúde aqui na TOTOS. A intenção, o objetivo é falar um pouquinho sobre a TOTOS Cloud, entender um pouco sobre o contexto de vocês. e a gente conseguir avaliar se é aderente uma eventual transição aqui para a [LOCAL], no contexto que vocês estão hoje. Eu queria ouvir um pouquinho de vocês, como está a situação, qual [LOCAL] vocês utilizam, está dentro de casa, está em uma nuvem, qual é o cenário?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Então, [PESSOA], eu estou chegando agora, faz uma semana que eu entrei aqui no hospital.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4765,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: eu queria ter uma reunião com vocês para o parche comercial, para me entender todos os serviços que são contratados, o que a gente está utilizando hoje de ferramenta. Acho que foi chamado até uma reunião semana que vem para discutir sobre o contrato, os valores que são pagos mensais, mas isso foi um assunto mais da diretoria. E o [PESSOA] que está aqui, ele já está aqui há um pouco mais de tempo, ele acompanhou a implantação do [LOCAL] aqui no hospital. Então ele vai saber te dar mais informações assim, como que tá os departamentos que estão utilizando esse sistema, se alguns módulos usam outros não. Ele vai saber te falar mais.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não, maravilha. Essas informações que vocês precisam, o executivo, que é o [PESSOA], não sei se vocês já tiveram contato com ele aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Já tive contato com ele.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Já teve, né, [PESSOA]? Então o [PESSOA], ele é o cara que vai conseguir ajudar vocês e vai elucidar toda essa questão contratual, entender o que vocês têm.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: quais",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: são os recursos, valores, etc. Ele vai dar todo esse apoio e eu vou reforçar com ele essa questão. Não sei se vocês já falaram diretamente com ele, mas eu vou reforçar com ele esse tópico aí para que ele consiga prestar esse apoio nos esclarecimentos do que vocês têm aqui com a gente no contrato, tá bom? Sobre a estrutura que voc",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: t",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: hoje, eu não peguei com a [PESSOA] qual que é o [EMPRESA], o que vocês utilizam hoje.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4493,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA], hoje a gente utiliza o [EMPRESA], a linha [EMPRESA], [EMPRESA]. Implantou aqui em 2006 o [EMPRESA], não era da Totos ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5008,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Ainda era a [EMPRESA] apartada, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Isso. Aí depois o [EMPRESA] foi lá e comprou o grupo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.549,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Sim. E foi nessa época aí mesmo, foi lá pra 2006, 2007, nessa faixa mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.473,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Então, eu, na época, fui contratado aqui por conta dessa implantação. Então, até 2012, só o [EMPRESA] saúde. e a gente implantou o básico para fazer o faturamento X, que até então o hospital não tinha um sistema que fizesse esse tipo de faturamento que a INS estava exigindo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a gente fez o básico, os cadastros e tudo para fazer um faturamento X. Isso foi o primordial do hospital na época. Então, eu estava falando. Aí, o que aconteceu? Em 2012, o hospital entrou naquele filtro do governo para implantar o SPED. Só contando um pouquinho. A gente implantou o saúde e implantou um pedaço do financeiro, do fluxo. Contas a pagar, basicamente. Não tinha o controle de receber. e não implantamos rateios. Algumas partes da igreja de saúde, o hospital não aderiu muito à cara do sistema, né? Rateio, curso de glosas, alguma coisa ali não deu certo, então tocou o básico para fazer faturamento. Fazer faturamento. E ali em 2012, entrou a parte fiscal e contábil. Então, veio os outros modos. Então, aí foi uma outra, e o hospital fez implantações. Então, implantou núcleos, implantou contábil, fiscal, deu mais uma sapeada ali no fluxo, né, por conta dessa parte fiscal. Então, junto, acompanhou de nós aqui, o próprio escritório de contabilidade nosso, que é um serviço terceirizado, acompanhou essa implantação, porque eles iam fazer parte do uso do sistema, né? E aí de 2012 pra cá é o que a gente tem, assim, não implantou, já teve algumas reuniões, assim, de novas implantações que não avançou. Controle de estoque, pronto ar eletrônico, né? Algumas coisas assim ainda estão por implantar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [EMPRESA], e esse ambiente continua local?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCUTOR 6]: local, tudo em SQL Server, servidores físicos aqui no hospital, investimento a longo prazo que foi feito.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Esse investimento ele já está perto do fim ou vocês acreditam que ainda vai se perpetuar essas máquinas aí entregando o que vocês precisam por mais",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: alguns",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: anos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Talvez por mais alguns anos. Eu acredito.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4381,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: E você, o [PESSOA] acredito que não, porque o [PESSOA] chegou há pouco tempo, mas voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.46,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: teve contato, [PESSOA], com alguma apresentação sobre a [LOCAL]? Você já conhecia a [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Eu ouvi falar há um tempo atrás e não tive nenhuma reunião assim, contato pessoal para fazer apresentação. e o hospital tem muitas integrações que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: funcionam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: localmente, como o sistema de PAX do setor embargue, o sistema de PAX do setor de laboratório, que foram feitas integrações à parte, que conectam com o sistema da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6175,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [EMPRESA]. Não, legal. Só para até explicar como funciona, tá? A minha intenção nessa reunião é apresentar um pouquinho para vocês sobre a TOTUS Cloud em si, explicar o nosso modelo. É um modelo diferente das nuvens padrões de mercado, porque é uma nuvem que nasceu com um propósito específico que ali no início era abrigar as nossas soluções. Então, ninguém melhor do que a TOTUS para hospedar um sistema TOTUS. Essa é uma máxima simples de ser compreendida. A intenção é mostrar esse valor, esclarecer eventuais dúvidas que vocês tenham, e aí, se vocês tiverem interesse em avançar, numa próxima reunião, eu teria aqui o time de arquitetura. O time de arquitetura faria uma análise robusta, uma varredura, um assessment no ambiente de vocês,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: conseguir entender como está sendo utilizado no detalhe, entender eventuais integrações que vocês tenham, porque a partir do momento que o time faz essa análise, eles têm a possibilidade, em seguida, de montar um escopo técnico na Toto's Cloud, aderente à realidade do cliente. Então, não é uma entrega genérica, é uma entrega customizada com o que a gente vai encontrar de especificidade aí na estrutura de vocês, tá bom? Eu vou compartilhar a tela aqui, pessoal, para falar um pouquinho para vocês sobre a Toto's Cloud. Se tiverem alguma dúvida, fiquem à vontade aí para me interromper e a gente caminhar junto aqui. Beleza? É uma apresentação pequena, não uma apresentação extensa, mas é importante vocês conseguirem ter essa visibilidade de que a TOTOS Cloud hoje tem diferenciais enormes para o cliente que utiliza o [EMPRESA] TOTOS. A TOTOS Cloud não é uma nuvem que começou agora, então tem muito cliente, até mesmo com vocês que utilizam sistemas da TOTOS há muito tempo, não tiveram contato com a TOTUS Cloud até então. E a TOTUS Cloud, ela já tem aproximadamente 20 anos que ela foi concebida no modelo inicial e esse modelo, ele vem evoluindo gradativamente para conseguir entregar essa experiência para o cliente. Hoje já são mais de 600 especialistas que sustentam a estrutura dentro da nossa operação, então a gente vai ter um time multidisciplinar, analista de segurança, analista de banco de dados, analista de redes, todo mundo aqui dentro da nossa operação trabalhando para garantir para o cliente alta disponibilidade, performance e segurança. Já são mais de 7.500 clientes dentro da nossa operação, e aqui, através desses big numbers, vocês conseguem ter noção. Por exemplo, são 80 mil VNs já hospedadas dentro da estrutura da Totus Cloud.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Que novo VN que estava utilizando? Talvez tinha infraestrutura.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: O ecossistema é um ecossistema próprio da TOTOS, a gente não utiliza nenhuma nuvem pública para conseguir montar a nossa estrutura, tá? Assim, o projeto inicial da TOTOS Cloud foi concebido através de um datacenter próprio, foi onde tudo começou, mas hoje n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5105,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: fazemos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: como os principais players aí de cloud do mercado, como a AWS, a [EMPRESA], para conseguir acelerar essa expansão e hoje destacar para vocês que nós temos 12 zonas de disponibilidade a [EMPRESA] faz a utilização de grandes empresas, como, por exemplo, a Cent e a Equinix, onde a gente aluga salas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: a gente leva todo o equipamento da [EMPRESA] para conseguir compor esse ecossistema. Então, não é uma nuvem terceira, é um ecossistema próprio da [EMPRESA] que está montado dentro dessas grandes estruturas de data center, altamente qualificadas, seguindo esse mesmo padrão das big techs globais de nuvem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5361,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: são duas zonas de disponibilidade, se voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: deram",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: uma olhada no mapa aqui, o foco está total em [LOCAL], tanto capital quanto cidades vizinhas aqui que permeiam [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: gente tem um hub estratégico lá em [LOCAL], esse hub é importante por conta de toda a comunicação submarina que chega da [LOCAL], então a gente tem esse objetivo de abraçar o [LOCAL] como um todo, isso aqui está em franca expansão pessoal, Hoje são 12 anos de disponibilidade. Se a gente falar daqui a alguns meses, esse volume aqui vai ter aumentado, com certeza. Então, está no roadmap a gente popular centro-oeste, região-norte, região-nordeste, para conseguir sempre entregar um data center e uma rota de comunicação que vai ser aderente à empresa do cliente para conseguir minimizar a questão de impacto de latência de comunicação. Beleza? uma amostra dos principais clientes que estão hospedados dentro da nossa estrutura hoje, clientes de todos os tamanhos, todos os segmentos, hospedados no [LOCAL] e no exterior. No segmento de saúde, a gente vai ter, por exemplo, espaço laser, a gente tem [EMPRESA], de saúde, as [EMPRESA], estão aqui conosco, v",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL], [LOCAL], [LOCAL], [LOCAL], temos grandes clientes do segmento de saúde hospedados e satisfeitos dentro da operação de causa da TOTUS hoje. Tem um cliente que eu acho, para mim, é praxe,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: toda",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: apresentação como essa eu preciso destacar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: é o governo americano, que apesar de não ser do segmento de saúde, eu acho que casa muito bem com o discurso porque fica evidente para vocês, o governo americano, pessoal, eles usam [EMPRESA] aqui no [LOCAL], beleza? Desde 2019, eles estão hospedados dentro da [EMPRESA] Cloud. De lá para cá, olha que a gente evoluiu bastante, mas naquela época, eles já deram esse passo de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5235,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: hospedar, de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: trazer a estrutura aqui para a [EMPRESA] Cloud. E vocês sabem bem, o governo americano, a embaixada americana, eles têm os principais players de cloud",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5359,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: lado deles. Os [LOCAL] é um país extremamente nacionalista",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5001,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: aí fica aquela dúvida, ué, por que os [LOCAL] ao invés de hospedar na [EMPRESA], no Azure, na AWS, na [EMPRESA], na Oracle, eles estão hospedando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: dentro da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: TOTUS Cloud? Eles estão hospedando dentro da TOTUS Cloud porque a TOTUS Cloud conseguiu mostrar para eles que entregaria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5251,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: toda",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: a garantia de compliance que eles exigiram que conseguiria entregar um diferencial que nenhuma outra nuvem entregaria, que é conceber a melhor experiência para um cliente que utiliza o [EMPRESA], dando todas as garantias e um serviço gerenciado completo, não somente entregar a infraestrutura, mas garantir",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o nosso sistema vai funcionar na plenitude dele. E é por isso que eles decidiram vir pra cá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5414,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: um cliente que, por conta dessa referência, eu sempre destaco, mas tem um ponto crucial. Vocês vão ver aqui, pessoal, nesse recorte de empresas que estão hospedadas dentro da nossa estrutura, inclusive instituições financeiras. mas nenhum cliente é tão rigoroso no que diz respeito à segurança e compliance quanto a embaixada americana. Então, é um nível de compliance muito alto. A pessoa nos auditou atrás, nos audita periodicamente para garantir que a gente está acompanhando essa evolução tecnológica e vai entregar a melhor experiência e seguindo todos os ritos, todos os pontos de compliance exigidos por eles. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: garantia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: excelência vindo para a TOTUS Cloud, Repasse para vocês também. Então, esses grandes clientes que estão aqui, eles conseguem fazer a nossa regra estar sempre alta. A guarda está sempre baixa para que a gente consiga sempre aumentar esse nível de excelência que está sendo entregue para os clientes hoje. Beleza? Esse slide aqui é o que eu considero o mais importante da apresentação, pessoal. É aqui que tem que ficar claro, literalmente, o que a gente está propondo como TotsCloud. E aí, para traçar um paralelo, Vou usar como exemplo, na primeira coluna aqui, o modelo on-premises, que é a estrutura que vocês utilizam hoje, o RM. Vocês são responsáveis",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: toda a base da infraestrutura. E aí uma dúvida que eu tenho, quantas pessoas tem na equipe de vocês que cuida de toda essa estrutura de tecnologia?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5438,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Eu e ele só, nós dois.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Vocês dois? Um exército, hein? Ah não, legal. A minha pergunta é justamente para destacar o seguinte, num contexto como esse, onde vocês dois cuidam de Vocês precisam se preocupar tanto com a base da infraestrutura se a gente parar para analisar um pouco mais a fundo no detalhe até a camada anterior aqui de fornecimento de energia elétrica garantia de redundância de energia elétrica refrigeração do ambiente e aí depois vem aqui para o servidor história de virtualização e camada operacional de infraestrutura também. Cuidado o backup fazer ali a criar a rotina fazer teste periódico para garantir que o backup está interno não vai deixar na mão se vocês precisarem. cuidar do monitoramento, ter as ferramentas adequadas ali para apoiar, a gestão do [EMPRESA], gestão de segurança, gestão de banco de dados,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: hoje fica na mão de vocês, então vocês sabem bem o que eu estou dizendo aqui, o pessoal da área de negócios muitas das vezes eles não tem noção, eles colocaram os dois aí o [PESSOA] e o [PESSOA] para cuidarem e acham que beleza é isso o pessoal está dando conta lá tá tranquilo mas vocês sabem bem quão grande é a responsabilidade por exemplo de garantir que um backup vai estar íntegro se acontecer alguma catástrofe aí vocês vão estar respaldado",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: se acontece alguma coisa vocês não conseguem fazer o restore do backup seja porque teve algum tipo de ataque aí a estrutura de vocês e hoje em dia o pessoal os atacantes eles vão buscar onde vocês têm backup, onde vocês têm cópia, tentam fazer aí tudo possível para conseguir não permitir que vocês tenham a possibilidade de fazer esse restore em algum momento se vocês precisarem, seja por conta de um ataque ransom, etc. E aí se acontece uma situação como essa, vocês são os responsáveis, vai cair tudo nas costas de vocês. Isso também reflete na questão de atualização do ambiente, Essa análise de saber se faz sentido a gente fazer uma atualização de infraestrutura agora, ou dá para segurar mais alguns anos. Às vezes vai ficando ali no gargalo,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: chega um momento que pode, e mais uma vez vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4868,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: ficar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: no colo de vocês. Caso vocês considerassem levar essa estrutura para uma nuvem pública, vamos usar como exemplo a [EMPRESA] com o Azure aqui. Caso vocês gostassem de levar isso para o Azure, vocês sabem bem, a [EMPRESA] seria responsável por toda a base da infraestrutura, dando alta garantia de disponibilidade para vocês, mas toda essa responsabilidade aqui continuaria sob o colo de vocês. Vocês precisariam absorver conhecimento nessa nuvem, vocês precisariam contratar ferramental para conseguir criar essa gestão estruturada dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: nuvem, e assim, a gente sabe que continuaria sendo um trabalho árduo porque cada linha, apesar de vocês conseguirem contar de tudo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5085,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: cada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: linha dessa aqui existe uma especialidade, existe uma profundidade que de repente, com um conhecimento mais generalista, vocês vão dar conta de 99% das coisas, mas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: no detalhe que pode acontecer alguma coisa que vai ocasionar uma catástrofe. Então, nos dois modelos, no modelo on-premises quanto no modelo de nuvem pública, vocês estão sujeitos a isso. Caso vocês optem, por exemplo, por vir para a TOTUS Cloud,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5235,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: gente entrega a estrutura da TOTUS Cloud no modelo de plataforma as-a-service. Esse modelo, a TOTUS cobre totalmente a garantia da base de infraestrutura com altíssima disponibilidade, seguindo o mesmo padrão das nuvens públicas, as tops, de 99,98% de garantia de disponibilidade. Quando a gente olha para a camada operacional de infraestrutura, vai ter",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: todo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o serviço de gestão completo executado por parte do nosso time. Então, o nosso time vai cuidar do backup, vai dar todas as garantias que vocês precisam, vai ter uma equipe grande aqui fazendo monitoramento para o ativo do ambiente, cuidando do [EMPRESA], segurança, tipo de dados. E além de toda a expertise e serviço gerenciado que a gente vai colocar em cima, vocês não vão mais se preocupar nesse modelo aqui em garantir que o licenciamento do SQL Server está atualizado. Então, vindo para a TOTOS, vocês não se preocupam mais com isso. A responsabilidade de manter essas estruturas aqui dentro da TOTOS Cloud atualizadas, tanto de hardware quanto de licenciamento para acompanhar a evolução do nosso sistema, é da TOTOS. Então, basicamente, o que eu quero propor para vocês aqui? Se vocês toparem dar esse passo de trazer esse ambiente aqui para dentro da TOTUS Cloud, vocês vão ter a tranquilidade e vão saber que a TOTUS",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5722,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: est",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: garantindo tudo para vocês, está tudo debaixo do guarda-chuva",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4892,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: TOTUS. Se tiver problema de produto, liga na TOTUS. Se tiver problema de infraestrutura, liga na TOTUS. Facilita demais a governança para vocês. E, digo mais, nesse modelo aqui, vocês continuarão sendo extremamente extremamente importantes para o contexto. Às vezes, eu converso com o pessoal e falo, se eu levar para aí e vocês vão fazer tudo, o meu papel aqui acaba não fazendo mais sentido, mas é muito diferente disso, porque vocês passariam a ser a interface de comunicação com a TOTUS Cloud, voc",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: teriam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: acesso de administração ao [PESSOA], que é o painel, com diversos recursos automatizados para conseguir cuidar desse ambiente e, no dia a dia, Esse acesso possibilitaria que vocês tivessem autonomia para conseguir resolver as demandas, mas sempre tendo por trás a TOTUS Cloud para conseguir suportar vocês e o nosso time de suporte à disposição para conseguir ajudar. Então, é basicamente mudar da água para o vinho e vir para a TOTUS Cloud.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCUTOR 11]: eu disse, vocês não se preocupariam mais com o tamanho e a obsolência da infraestrutura, o ambiente seria modernizado de forma constante, a gente dá garantia de performance para a solução e há uma segurança totalmente dedicada à proteção dos dados dos clientes que estão hospedados aqui conosco. Esse modelo de plataforma como serviço tem como principal métrica para definição de poder computacional do ambiente do cliente a quantidade de conexões simultâneas, então a gente faz toda uma análise diferenciada mesmo para entender como está sendo utilizado o nosso sistema dentro da casa do cliente e através dessa análise detalhada a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: gente define o escopo técnico para conseguir apresentar uma proposta de transição aqui para a TOTUS Cloud. O meu time é responsável por fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: migração",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: garantir que voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: v",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ter esses dados transferidos para cá em segurança, vocês vão seguir todo um processo ali muito bem estabelecido com o gerente de projetos para que seja executado",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: melhor forma possível, para que vocês tenham visão de cara do cronograma de migração, etc. e a gente ajudaria vocês a conseguir",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: ter",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: esse desafogo, porque duas pessoas para cuidar da estrutura de tecnologia inteira e ainda mais se preocupar com essa questão de sistema externo, vindo para cá pessoal, a nossa intenção é de fato conseguir contribuir com vocês para que vocês tenham a possibilidade de focar de forma estratégica, e utilizar o conhecimento de vocês para transformar a estrutura tecnológica do hospital e contar com a [EMPRESA] para ser esse advisor aqui também, entende? Então, basicamente isso que eu queria trazer para vocês, esse material, eu vou compartilhar com vocês também, tenho aqui detalhes, nosso white paper de segurança, com todo o framework estruturado, para que vocês tenham visibilidade, mas assim, Tem dois pontos principais que eu sempre destaco também. Não ficam só nas minhas palavras, todos os benefícios que eu destaquei. A gente tem os clientes para dar o respaldo e a gente tem o portfólio de certificações que também eu vou encaminhar para vocês para comprovar isso. Então a gente tem isso aí, 3402, todos os data centers são data centers tier 3. A Totos é uma empresa de capital aberto. Então, nosso nível de segurança é elevadíssimo, porque se acontece uma catástrofe, por exemplo, alguém invadir o nosso ambiente, o ambiente de um cliente, a [EMPRESA] fica exposta e corremos o risco de acabar com a empresa do nosso cliente, mas também corremos o risco de acabar com a nossa própria empresa, né? No mesmo dia ali, as ações despencariam e tudo mais. Então, vocês, dando esse passo, teriam",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: guarda-chuva gigantesco, que é o guarda-chuva da [EMPRESA], para dar todo o suporte, toda essa sustentação do ambiente para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Ok, certo. e, assim, tirando algumas coisas agora, então, seria uma aplicação totalmente web.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: A aplicação, na verdade,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: da seguinte forma, vindo para cá, vocês não vão ter mais acesso à camada de sistema operacional, vocês não vão precisar ter acesso, basicamente, vocês não vão precisar ter acesso à camada de sistema operacional, vocês vão passar a ter acesso ao painel que é um painel de administração que vocês vão conseguir acessar via browser e também tem aplicativo para iOS e para Android. E até para dar um histórico para você, [PESSOA] e [PESSOA] também. No passado,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: l",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: em 2018, 2019, que foi quando foi concebido o [PESSOA], até então a gente tinha dois perfis de clientes dentro da nossa estrutura de cloud. Um perfil estava muito satisfeito, que era o perfil mais leigo. Sabe o perfil de cliente que não tem tanto conhecimento técnico e a [EMPRESA] estava se propondo a fazer tudo pra ele? Falava, putz, precisa aplicar um pacote que é algo simples. Cara, não se preocupa, abre um ticket, marca com o nosso analista e ele vai fazer pra você. Esse cara estava plenamente satisfeito, porque ele não tinha nem interesse em adquirir essa expertise. Agora, O perfil de cliente que já dominava ali, fazia gestão, ele tinha acesso a tudo, ele já sabia exatamente o que ele precisava fazer, ele se sentia engessado. Porque ele falava, mano, pra aplicar um",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: pacote",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: eu vou precisar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: abrir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: um ticket, ficar esperando alguém entrar em contato comigo. Então, o [PESSOA] nasceu justamente para atender a dor desse público mais exigente, para conseguir dar celeridade para esse time que precisa executar as coisas com mais celeridade e não ficar dependendo de abrir um ticket. E assim, tem um diferencial muito grande dentro do [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que é o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: fato dele entregar funções automatizadas. Então, imagine o seguinte, Um exemplo de uma função que tem dentro do [PESSOA], só para vocês entenderem como funciona a dinâmica dele. Tem uma função lá que é clone de banco de dados, clone de ambiente, como um todo. Muitos clientes,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: muitas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: das vezes, precisam contratar um [LOCAL] por fora para fazer uma replicação, uma cópia do ambiente de produção para um ambiente de teste, um ambiente de desenvolvimento, para fazer algum trabalho. Aqui dentro do [PESSOA], ele tem um botão com três cliques, ele clica no botão, ele seleciona do ambiente origem para onde vai a cópia do banco de dados e ele consegue mandar, ele pode ter aqui uma, duas, três, quatro, cinco bases, ele consegue fazer uma cópia e agilizar um processo que, antes, seria necessária uma intervenção de um modelo mais tradicionalista. Esse é um dos exemplos. Então, o [PESSOA], hoje, ele dá autonomia para o cliente conseguir executar as ações que ele precisa executar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: mais do que isso, ele facilita",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5196,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: essas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: execuções.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA], sobre a troca de versões do sistema, como ficaria?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5788,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Troca de versão do sistema, vocês precisariam entrar em contato conosco. Vai ser uma responsabilidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5917,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: compartilhada,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Imaginem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que hoje vocês precisam fazer tudo, né? Quando precisa fazer atualização de release, tá totalmente na mão de vocês. Aqui dentro da [PESSOA], nesse modelo de plataforma as-a-service, pelo fato do RM, Proteus, DataSuite serem RPs muito robustos, que permitem muitas customizações por parte dos clientes,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: gente não poderia simplesmente apertar um botão e replicar uma atualização para todo mundo, né? Seria o melhor do... um sonho, mas não tem como ser feito dessa forma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: num cenário onde vai... acontecer uma necessidade de atualização de release, vocês precisariam, a responsabilidade seria abrir um ticket para o nosso time de suporte técnico, um gerente de projetos ali ficaria responsável por fazer a execução desse trabalho com vocês, e basicamente funcionaria da seguinte forma, a responsabilidade de vocês seria interagir com essa pessoa para fornecer informações de eventuais integrações, eventuais customizações que vocês tenham, mas vocês ficariam respaldados de que seria um trabalho ali em quatro mãos e o nosso time teria a missão de conseguir entregar aquele ambiente atualizado para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Sobre essas integrações que a gente tem assim com outros sistemas aqui e que foram desenvolvidos bem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5215,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: caracter",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: ali para o sistema parceiro, como que seria isso aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5328,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Esses sistemas parceiros",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5205,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: você diz, [PESSOA], eles são sistemas que funcionam em estruturas separadas ou são sistemas que vocês têm dentro de casa instalados aí também?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5472,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: A integração, ela é instalada nos nossos computadores aqui dentro. Os parceiros são um sistema web, mas que rodam Linux,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: rodam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: outra estrutura aqui dentro também, de outros servidores, outros bancos de dados.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Um dos sistemas é da Pixel, uma integração que teve que desenvolver própria aqui para eles, e o outro sistema é da Animate, que é um sistema de partes de imagem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Essas integrações, elas vão direto no banco de dados ou são integrações via API?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5648,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Não, são integrações, algumas são direto com banco de dados, outras funcionam API que solta lá um arquivo e o sistema",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5182,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: deles",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: consome esse arquivo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não, beleza. Eu perguntei e passei essas duas opções aí porque a gente tem esses dois perfis de cliente. E para um contexto como o de vocês a gente já sabe que seria necessário uma estrutura dedicada. Vocês teriam um banco de dados dedicado. com o banco de dados dedicado, não teria nenhum tipo de dificuldade para que vocês fizessem, continuassem fazendo as integrações do jeito que vocês fazem hoje e para as integrações via API, a gente basicamente precisaria colocar app server de [PESSOA] lá para conseguir apoiar nessa integração de uma ponta com a outra, tudo mais. Então, é do dia a dia aqui nosso, tá, pessoal? A gente tem diversos clientes com diversos tipos de integrações diferentes. O que eu acho que pode somar e ser um algo a mais é o fato da gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: também",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: entregar um modelo de [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: O modelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: padrão de mercado, entregue, que é basicamente de nuvem, de você contratar, falar, preciso de uma máquina com 16 GB de RAM, 8 VCPUs, Windows Server, SQL Server, e eu quero ser o administrador dessa máquina.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: gente também entrega. O mesmo padrão, altíssima disponibilidade, 99,98%. E a gente traz um benefício muito grande para o cliente que quer trazer essas aplicações aqui para todos,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: é o fato de conseguir fazer integração com velocidade local. Então, esses sistemas que vocês tiverem domínio sobre eles, tiverem dentro de casa, por exemplo, e vocês quiserem trazer para cá também, vocês conseguem trazer, e isso ajuda pelo fato de continuar tendo essa integração dentro de uma mesma rede, sem latência, funcionando de uma forma orgânica, sem dado entrando da rede, dado saindo. Tenho dois caminhos. Vocês podem deixar todos esses softwares que vocês têm integrando literalmente onde eles estão, do jeito que estão, e se integrar com a nossa estrutura, ou a gente pode avaliar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: quais",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: são os softwares e se vocês tiverem acesso a eles, de fato, ali como administrador e quiserem trazer para cá, a gente mapeia as características desses servidores que vocês precisam e vende tanto o ambiente do RM quanto os ambientes apartados em IaaS para esses softwares.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Outra dúvida, [PESSOA], também. Hoje, a gente, tipo assim, se tem necessidade, tem eu que é liberista do [EMPRESA], tenho acesso, se eu preciso fazer um update, fazer uma busca ali, fazer alguma alteração aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: hospital aqui, como que seria nessa estrutura?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tem, então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Acesso a isso ou não?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: seria mais necessário?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não, é necessário, sim, e conseguiria. A gente tem dois modelos de atendimento. Um modelo de atendimento que não dá acesso ao banco de dados, mas, para o contexto de vocês, pela primeira fala que você fez, já ficou evidente. Vocês precisariam ter, pelo menos, a estrutura que a gente oferece com VLAN exclusiva para a camada de banco de dados. Você continuaria podendo, por exemplo, conectar um SQL Server Management Studio para conseguir se conectar ao banco? Você conseguiria conectar um Power BI, qualquer coisa que você quisesse conectar externamente ao banco de dados, você continuaria tendo a possibilidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.529,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E aí, como que seria a conexão, né? Via VPN, fecharia uma VPN com a nuvem, com a estrutura daqui, como que é feito esse tráfego?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5091,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: fica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: exposto na internet?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Fica exposto na internet, mas as integrações, as integrações aí a gente trata de uma, aborda de uma forma diferente, né? Como vocês teriam integrações de uma ponta",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: outra aqui, para as integrações, poderia ter uma sugestão de colocar VPN, mas para os usuários no dia a dia, não tem a necessidade, a conexão é diretamente via internet, criptografia em trânsito.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [EMPRESA], mas aí teria como privar isso... Certinho, porque pra pessoa não poder acessar de casa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4678,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Teria, teria, teria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: sim. Se for",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: um pré-hack de você, é que a forma geral aqui dos clientes, eles optam por ter mais facilidade, como a gente dá essa garantia de ter criptografia em trânsito, etc, tem toda uma estrutura aqui do lado, a maior parte dos clientes não contrata VPN para conseguir fazer essa camada adicional, mas tem muito cliente que é praxe, é um compliance da empresa ter uma camada adicional de VPN ali para que o funcionário precise entrar na VPN na rede da empresa para depois entrar aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Sim. E falando de custos, a gente paga por armazenamento, como que é? Os dados conforme mais armazenamento, o valor aumenta, é um valor fixo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Existem algumas métricas importantes para que a gente faça essa análise e defina custo, mas nesse modelo de plataforma as-a-service, vocês vão pagar, o principal custo vai ser em cima da quantidade de conexões simultâneas no momento de pico. Então, o que a gente definir como conexão simultânea no momento de pico significa o cliente vai ter garantia de performance e alta disponibilidade desde que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: não exceda aquela quantidade. E hoje em dia, na verdade, mesmo que o cliente exceda aquela quantidade de conexões simultâneas, ele continua tendo o acesso ali normal, só que ele começa a ser avisado de que ele precisa fazer upgrade para o recurso conseguir comportar aquela nova situação. Porque é basicamente o seguinte, imagina que você fala para mim, [PESSOA], vamos encotar um ambiente aí com 20 conexões simultâneas no momento de pico. Por trás aqui, o meu time de arquitetura, eles sabem qual a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: característica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: computacional vai ser necessária para garantir que vocês tenham performance com 20 conexões simultâneas num momento de pico, beleza? Se aumenta esse volume, a gente precisa aumentar o recurso por trás de hardware para suportar esse incremento de usuário e tudo mais. Além disso, tem a questão do armazenamento, uma variável também que eu preciso entender com vocês, dando os próximos passos e vai entendendo isso. Por exemplo, a quantidade de emissão de documentos eletrônicos que vocês fazem, nota não é o caso, mas, por exemplo, vocês utilizam para RH também, CTE, e-social,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: tipo de evento, ele gera um consumo no TSS, no servidor de TSS. E esse servidor de TSS que a gente vai trazer para cá, ele é cobrado por franquia. Então, por padrão, o cliente tem direito a 10 mil documentos eletrônicos emitidos por ano. Se o cliente precisar de mais",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: do que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: 10 mil, a gente precisa alinhar essa expectativa para conseguir suportar lá dentro da estrutura dele. Então, são algumas variáveis, [PESSOA], que a gente vai pegando com vocês para conseguir equalizar e montar esse escopo técnico.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5657,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E... Falando, assim, de custos, é claro que vai sair um valor a mais do que a gente paga hoje. Mas aí, seria algum custo para essa implementação? Vocês vão fornecer uma equipe de treinamento? A plataforma muda muito? Porque os usuários estão acostumados hoje com o tipo de visual. E",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: a gente sabe que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: vai mudar alguma coisa ali para o usuário que já estava acostumado no dia a dia e toda aquela dificuldade, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5045,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Boa. Não, excelente. Assim, para o usuário final não muda literalmente nada, tá? A menos que hoje vocês não tenham a VPN e eles precisem passar a entrar na VPN. Só isso mesmo. Agora, a interface aí do sistema para eles, cara, vai ficar literalmente igual é hoje. Eles não vão sentir esse impacto. Sobre a migração, a gente coloca um time para conseguir executar isso da melhor forma, vocês vão passar para aquele período lá de homologação, testes, etc. e vocês tenham a segurança de que só vai ser virada essa chavinha no momento que vocês validarem lá com o gerente de projetos responsável. Putz, testamos aqui por uma semana. Beleza, testamos todas as rotinas. Vamos marcar o [PESSOA] para virar isso daí. Muitas das vezes o usuário no dia do [PESSOA], ele nem percebe. Se agendar o [PESSOA], por exemplo, a um final de semana, o cara chega na segunda, o funcionário que acessa o sistema, e muitas das vezes ele nem percebe. Ele vai perceber se tinha algo muito ruim e melhorou. Então, às vezes, a gente pega umas situações onde o contexto está muito ruim, lento, aí a gente melhora aquela questão de performance, aí o cara chega na segunda-feira",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o impacto que ele vai sentir é essa evolução mesmo. Sobre as cobranças, são dois valores. Tem o valor mensal recorrente que vocês vão pagar e tem o valor de setup pela migração, que é um valor individual.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E só para ter uma média de custos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5839,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Vamos fazer o seguinte, até para agilizar, se eu fizer algumas perguntas, vocês conseguem me responder? Por exemplo, qual a quantidade de conexões simultâneas no momento de pico que vocês têm hoje?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4873,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Se não me engano, é 36.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4099,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: 36 conexões simultâneas. Essa questão do TSS, [PESSOA], você saberia, cara, uma média anual de emissão de documentos eletrônicos?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Bem pouco, bem pouco, porque a gente estava emitindo mais nota para comodato, devolução, só isso, bem pouco. A gente não faz muita emissão de nota, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4297,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então, esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: foi o TSS, mas foi de pouco uso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [EMPRESA], esse padrão...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: RH a gente não tem o módulo implantado de RH, então nós vamos usar o de atuados.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Então esse padrão que eu comentei de 10 mil por ano seria muito mais do que o suficiente para vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5321,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Sim, por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4204,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: horas. [PESSOA] me dizer qual o consumo atual, não precisa ser exato não, tá? Porque a minha intenção é só fazer uma estimativa inicial para alinhar a expectativa de valor com vocês. Qual o consumo atual do banco de dados?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Quase 70 GB.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Olha,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: volto em um minutinho, um minutinho mesmo, aí eu já limpo com vocês essa expectativa e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: explico",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: para vocês como a gente poder dar os próximos passos. Só um minutinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4868,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Pessoal,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: é o seguinte, fiz aqui uma simulação com esses itens. Existem outros pontos que precisam ser coletados, tá? Por isso, o que eu vou falar aqui para vocês não é o número final formal, não consigo gerar uma proposta formal e mandar para vocês em cima só dessas perguntas que eu fiz aqui. Mas eu imagino que a mensalidade para uma estrutura dedicada aqui com a gente, já considerando o SQL Server, que vocês comentaram também, e o SQL Server Enterprise que a gente entrega aqui, então é um padrão, a gente não entrega abaixo do Enterprise, ficaria em R$3.100 por mês, valor líquido. Além desses R$3.100 por mês valor líquido, a gente teria um setup de R$7.500 pelo processo de migração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: valor poderia ser parcelado em até seis vezes sem juros. Então ficaria nessa ordem de grandeza não não levem ali no pé na risca mesmo não porque de repente a gente pode",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: fazer o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: assessment e abaixar esse valor ou aumentar um pouquinho mas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: ficaria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: nessa faixa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: aí o que vocês acham vocês acham que é um valor. para a realidade que vocês têm hoje aí para o momento, que poderia fazer sentido, porque se vocês acharem que pode fazer sentido, agora mesmo eu já posso pegar opções de agenda do meu time de arquitetura para a gente marcar a reunião de assessment com eles, onde eles avaliarem o ambiente no detalhe, e aí depois dessa agenda a gente conseguirá gerar uma proposta formal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Só um minuto, só vou falar um negócio aqui com o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Hoje, o custo que a gente tem mensal referente às licenças, isso aí é divido ou a gente continuaria tendo esse custo mensal mais esse serviço de cloud?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5026,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Mais o serviço de cloud, é totalmente apartado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Totalmente apartado, então esse custo com licença que a gente já tem continuaria. [PESSOA], a gente estava conversando aqui, acho que hoje faz muito sentido para a gente ter essa infraestrutura, só que agora a gente não está num momento muito legal para começar essa migração, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Eu estou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: aqui, a gente está em afetar alguns acessos, tinha uma outra pessoa aqui, então deixou muitas coisas em paralela, E aí acho que a gente tá num momento meio turbulento, mas assim, vamos conversar mais ou menos daqui um mês, dois meses aí no máximo, pra gente começar a trocar isso daí, essa migração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não, beleza, beleza. Se vocês quiserem, tá? Só se quiserem mesmo, a gente pode fazer a reunião de assessment, até porque é através dela que a gente vai conseguir refinar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Ent",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: vocês precisariam de mais uma horinha do tempo de vocês, nos próximos dias, próximas semanas, pra falar com alguém do meu time. E aí, se vocês decidirem contratar mesmo daqui a alguns meses, não teria problema, mas a gente já teria uma proposta formal",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: teria avançado uma casa. Mas fica a critério de vocês. Se vocês quiserem deixar o acesso para um outro momento também não tem problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Eu deixava para um outro momento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4926,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Agora está bem corrida, a gente está com alguns incidentes aqui também, por isso que a gente conseguiu entrar na reunião um pouco mais tarde. E aí a gente vai passando isso para a diretoria também, sobre essa mudança de tecnologia, que isso é necessário. Enquanto isso, a gente vai alimentando mais essa migração para a diretoria também, para depois poder chegar e tocar isso para frente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não, maravilha, maravilha. Vamos seguir assim. Eu vou pedir para a [PESSOA], que foi quem marcou essa agenda, então, deixar agendado para procurar vocês daqui um mês, só para entender como está o contexto, e aí vocês dizerem se faz sentido a gente retomar ou se precisam de mais um tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4605,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Obrigado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: pela atenção de vocês, espero que tenham gostado do conteúdo e eu tô sempre à",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5511,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: disposiç",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: de vocês aqui. Hoje vocês não estão dentro da TodosCloud, mas se precisarem de qualquer coisa relacionada à Cloud, eventuais dúvidas que surgirem, podem contar comigo aí para apoiar, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.473,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Beleza. Um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: abraço,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: pessoal. [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    }
+  ]
+}

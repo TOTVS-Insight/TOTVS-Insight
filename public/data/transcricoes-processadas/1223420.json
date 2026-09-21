@@ -1,0 +1,313 @@
+{
+  "id_reuniao": "1223420",
+  "codt": "T74210",
+  "data_reuniao": "2026-03-11 13:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 2]: Olá. Tudo bem? Boa tarde, [PESSOA].[PESSOA] - \n[LOCUTOR 3]: [EMPRESA], boa tarde. Deixou.\n[LOCUTOR 2]: [PESSOA] - \n[LOCUTOR 3]: um minutinho aí e já. [EMPRESA], pessoal. Tudo bem? Tudo bom. Vou ir um pouquinho para trás também. Agora\n[LOCUTOR 2]: sim. QuatroAnderson - \n[LOCUTOR 3]: pessoas,\n[LOCUTOR 2]: né? VocêsAnderson - \n[LOCUTOR 3]: estão em\n[LOCUTOR 2]: quatro?[PESSOA] - \n[LOCUTOR 3]: Está ótimo, já consigo\n[LOCUTOR 2]: ver.[PESSOA] - \n[LOCUTOR 3]: Muito\n[LOCUTOR 2]: prazer, pessoal. [EMPRESA] - \n[LOCUTOR 3]: pelo\n[LOCUTOR 2]: tempo, pela disponibilidade de vocês.[PESSOA] - \n[LOCUTOR 3]: [LOCUTOR 1]: estou [EMPRESA] -  ouvindo. Eu estou me ouvindo.\n[LOCUTOR 2]: Eu não seiAnderson - \n[LOCUTOR 3]: se... É que tem um de vocês que está com o consultório de vendas e está com a companhia aberta, se não me engano. Esse consultor\n[LOCUTOR 2]: [EMPRESA] - \n[LOCUTOR 3]: vendas... A\n[LOCUTOR 2]: minha área é essa lilásinha. EsseAnderson - \n[LOCUTOR 3]: aqui, eu\n[LOCUTOR 2]: nãoAnderson - \n[LOCUTOR 3]: sei...\n[LOCUTOR 2]: Esse do outro consultor de vendas, deixa eu ver aqui. Eu acho que deve ser do...[PESSOA] - \n[LOCUTOR 3]: É do\n[LOCUTOR 2]: [PESSOA], [PESSOA] - \n[LOCUTOR 3]: ele\n[LOCUTOR 2]: me mandou mensagem queAnderson - \n[LOCUTOR 3]: não vai\n[LOCUTOR 2]: conseguir entrar. Mas eu acho que vouAnderson - \n[LOCUTOR 3]: fechar\n[LOCUTOR 2]: aqui oAnderson - \n[LOCUTOR 3]: microfone\n[LOCUTOR 2]: dele,[PESSOA] - \n[LOCUTOR 3]: eu consigo. Tá, e eu tenho a sabor que ele provavelmente não conseguiria participar, mas que a gente poderia seguir com você normalmente, e aí,\n[LOCUTOR 2]: seAnderson - \n[LOCUTOR 3]: ficar sobre um ponto, depois ele estaria esclarecendo para a gente.\n[LOCUTOR 2]: Isso,[PESSOA] - \n[LOCUTOR 3]: isso.\n[LOCUTOR 2]: Deixa eu só ver se eu, eu não consigo fechar oAnderson - \n[LOCUTOR 3]: microfone\n[LOCUTOR 2]: dele.[PESSOA] - \n[LOCUTOR 3]: Não, porque ele me viu, não sou eu o organizador [PESSOA].\n[LOCUTOR 2]: É, deixaAnderson - \n[LOCUTOR 3]: eu ver\n[LOCUTOR 2]: seAnderson - \n[LOCUTOR 3]: consigo remover.",
+  "texto_filtrado": "[LOCUTOR 2]: [PESSOA] -\n[LOCUTOR 3]: pessoas,\n[LOCUTOR 2]: né? VocêsAnderson -\n[LOCUTOR 3]: estão em\n[LOCUTOR 2]: quatro?[PESSOA] -\n[LOCUTOR 2]: ver.[PESSOA] -\n[LOCUTOR 3]: Muito\n[LOCUTOR 3]: pelo\n[LOCUTOR 2]: tempo, pela disponibilidade de vocês.[PESSOA] -\n[LOCUTOR 3]: se... É que tem um de vocês que está com o consultório de vendas e está com a companhia aberta, se não me engano. Esse consultor\n[LOCUTOR 2]: [EMPRESA] -\n[LOCUTOR 3]: vendas... A\n[LOCUTOR 2]: minha área é essa lilásinha. EsseAnderson -\n[LOCUTOR 2]: nãoAnderson -\n[LOCUTOR 2]: Esse do outro consultor de vendas, deixa eu ver aqui. Eu acho que deve ser do...[PESSOA] -\n[LOCUTOR 2]: [PESSOA], [PESSOA] -\n[LOCUTOR 2]: conseguir entrar. Mas eu acho que vouAnderson -\n[LOCUTOR 3]: fechar\n[LOCUTOR 2]: aqui oAnderson -\n[LOCUTOR 3]: microfone\n[LOCUTOR 2]: dele,[PESSOA] -\n[LOCUTOR 3]: eu consigo. Tá, e eu tenho a sabor que ele provavelmente não conseguiria participar, mas que a gente poderia seguir com você normalmente, e aí,\n[LOCUTOR 2]: seAnderson -\n[LOCUTOR 3]: ficar sobre um ponto, depois ele estaria esclarecendo para a gente.\n[LOCUTOR 2]: Isso,[PESSOA] -\n[LOCUTOR 3]: isso.\n[LOCUTOR 3]: microfone\n[LOCUTOR 2]: dele.[PESSOA] -\n[LOCUTOR 3]: Não, porque ele me viu, não sou eu o organizador [PESSOA].\n[LOCUTOR 2]: É, deixaAnderson -\n[LOCUTOR 2]: seAnderson -\n[LOCUTOR 3]: consigo remover.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:35.389236+00:00",
+    "total_linhas": 48,
+    "linhas_mantidas": 32,
+    "linhas_removidas": 16,
+    "percentual_mantido": 66.67,
+    "confianca_media": 0.4676
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: Olá. Tudo bem? Boa tarde, [PESSOA].[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [EMPRESA], boa tarde. Deixou.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: um minutinho aí e já. [EMPRESA], pessoal. Tudo bem? Tudo bom. Vou ir um pouquinho para trás também. Agora",
+      "mantida": false,
+      "probabilidade_relevancia": 0.405,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: sim. QuatroAnderson -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pessoas,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: né? VocêsAnderson -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: estão em",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4914,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: quatro?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Está ótimo, já consigo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: ver.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: prazer, pessoal. [EMPRESA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.445,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tempo, pela disponibilidade de vocês.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5225,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCUTOR 1]: estou [EMPRESA] -  ouvindo. Eu estou me ouvindo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4261,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Eu não seiAnderson -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: se... É que tem um de vocês que está com o consultório de vendas e está com a companhia aberta, se não me engano. Esse consultor",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [EMPRESA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vendas... A",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: minha área é essa lilásinha. EsseAnderson -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: aqui, eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: nãoAnderson -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: sei...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Esse do outro consultor de vendas, deixa eu ver aqui. Eu acho que deve ser do...[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: me mandou mensagem queAnderson -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: não vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: conseguir entrar. Mas eu acho que vouAnderson -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: fechar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aqui oAnderson -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: microfone",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: dele,[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: eu consigo. Tá, e eu tenho a sabor que ele provavelmente não conseguiria participar, mas que a gente poderia seguir com você normalmente, e aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: seAnderson -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ficar sobre um ponto, depois ele estaria esclarecendo para a gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5215,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Isso,[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Deixa eu só ver se eu, eu não consigo fechar oAnderson -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4154,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: microfone",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: dele.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, porque ele me viu, não sou eu o organizador [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É, deixaAnderson -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: eu ver",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: seAnderson -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: consigo remover.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

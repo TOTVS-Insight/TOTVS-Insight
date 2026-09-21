@@ -1,0 +1,1579 @@
+{
+  "id_reuniao": "1344121",
+  "codt": "TEZJDY",
+  "data_reuniao": "2026-04-06 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "EDUCACIONAL",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 3]: Hoje, cara, você que cuida de todo esse ambiente aí, o servidor tá físico com você aí? Você já t\n[LOCUTOR 11]: em alguma\n[LOCUTOR 3]: nuvem pública?\n[LOCUTOR 15]: Não, o servidor é fixo com o nosso aqui. Eu tenho um servidor aqui, né? Então eu tô... Na verdade, escola pequena a gente faz tudo, né? Corre, cabeceia, faz tudo.\n[LOCUTOR 3]: Sei como que é, né? [LOCAL].\n[LOCUTOR 15]: Na verdade, o que que acontece? Eu precisaria atualizar, mas o meu... o meu Windows Server já é antigo, então eu tenho que trocar o servidor. Então eu quero ver o que é mais vantajoso, trocar o servidor ou se é também partir para a cloud, né?\n[LOCUTOR 3]: Perfeitamente, perfeitamente. Acho que é um melhor momento mesmo para você decidir isso daí, cara.\n[LOCUTOR 15]: É.\n[LOCUTOR 3]: [LOCAL]. Qual\n[LOCUTOR 15]: é a cidade\n[LOCUTOR 3]: que você está localizado aí?\n[LOCUTOR 15]: É [LOCAL], [LOCAL].\n[LOCUTOR 3]: [LOCAL]?\n[LOCUTOR 15]: Sim, tio. Não conhecia,\n[LOCUTOR 3]: cara.\n[LOCUTOR 15]: [LOCAL]?\n[LOCUTOR 3]: Eu não conhecia.\n[LOCUTOR 15]: Fica entre [LOCAL] e [LOCAL].\n[LOCUTOR 3]: [LOCAL], eu te cortei, você acha que ia falar alguma coisa, né?\n[LOCUTOR 15]: Não, não, não ia falar, não.\n[LOCUTOR 3]: Não, tranquilo?\n[LOCUTOR 15]: Não, bem tranquilo.\n[LOCUTOR 3]: [LOCAL], então vamos lá. Eu mandei um e-mail pra você aí, e\n[LOCUTOR 15]: nesse\n[LOCUTOR 3]: e-mail tem todas as perguntas que eu vou fazer com você aqui. Isso, e aí também tem dois scripts que estão em anexo aí. Então, o que eu preciso que você faça aí, cara? Preciso que você baixe esses arquivos que estão em anexo, jogue lá para o seu servidor de banco de dados, e aí quando você estiver lá, se você puder compartilhar sua tela comigo, a gente começa o levantamento por essa parte, tá?\n[LOCUTOR 15]: Tá, deixa eu ver aqui. Então, eu preciso baixar esses dois arquivos que estão em anexo, né?\n[LOCUTOR 3]: Isso, baixar\n[LOCUTOR 15]: esse\n[LOCUTOR 3]: dos arquivos.\n[LOCUTOR 15]: Assessment e apuração, né?\n[LOCUTOR 3]: [LOCAL], isso mesmo. Aí esses dois você joga lá pro servidor de banco e aí quando tiver lá você compartilha sua tela comigo pra gente pegar essas informações aí.\n[LOCUTOR 15]: Eu tô baixando ele aqui, só um pouquinho.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: Esse não é o hacker, né?\n[LOCUTOR 3]: Não, imagino que isso. A [EMPRESA] é mulher. Inclusive, cara, a [EMPRESA], ela é extremamente exigente em relação a [PESSOA], segurança,\n[LOCUTOR 15]: né?\n[LOCUTOR 3]: Então,\n[LOCUTOR 15]: isso\n[LOCUTOR 3]: a\n[LOCUTOR 1]: foi\n[LOCUTOR 3]: desenvolvido por nossa equipe de segurança também, tá?\n[LOCUTOR 15]: Ai, droga, peraí que caiu aqui só um pouquinho. Ué, que estranho. Nossa, que droga. [PESSOA]. Deixa eu ver aqui. [PESSOA], peraí, peraí, peraí. [PESSOA], né?\n[LOCUTOR 3]: Isso, isso\n[LOCUTOR 15]: mesmo. Apuração aqui, deixa eu pegar aqui a apuração. Deixa eu dar só um salvar como, né? Deixa eu baixar ele. Na área de trabalho, tá. Eu vou colocar aqui, depois eu jogo lá no servidor.\n[LOCUTOR 3]: Tá,\n[LOCUTOR 15]: aí deixa eu só ver aqui. [PESSOA], deixa eu abrir o servidor aqui, só um pouquinho. Ele tá aqui. Deixa eu só jogar ele aqui. Ué, ele não deixa? Por que ele não deixa? Teoricamente, seria só jogar ele aqui dentro, né?\n[LOCUTOR 3]: É, teoricamente, só se copiar e... E colar ele no servidor.\n[LOCUTOR 15]: Deixa eu ver aqui. É, como é que vai arrastar ele pra dentro, se não... Deixa eu ver aqui... Ai, droga. Deixa eu copiar ele. Ué, ele só deixa copiar como caminho. Aqui, copiar. E colar. Ah, foi. Copiar. E colar. [LOCAL], tá aqui os dois. [LOCAL], tá aqui.\n[LOCUTOR 3]: [LOCAL], aí você puder compartilhar sua tela comigo?\n[LOCUTOR 15]: Sim. Deixa eu compartilhar ela aqui. Compartilhar.\n[LOCUTOR 3]: Aí você usa também aquela parte de [LOCAL] TSS ou [PESSOA]?\n[LOCUTOR 15]: É, tem TSS, isso aí.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: É, peraí. O que que não dá deixando compartilhar? Só um pouquinho.\n[LOCUTOR 3]: É, aí você clica em compartilhar, você tem que selecionar a tela que você quer compartilhar também, tá?\n[LOCUTOR 15]: Isso. Eu quero compartilhar esta tela aqui. [LOCAL]. Vê se tá aparecendo pra ti.\n[LOCUTOR 3]: [LOCAL], demora um pouquinho. [LOCAL], tá na tela já. \n[LOCUTOR 13]: é o servidor, tá?\n[LOCUTOR 3]: [LOCAL], é o\n[LOCUTOR 15]: seu servidor.\n[LOCUTOR 3]: \n[LOCUTOR 13]: é onde tá o RM, tá? [LOCAL], perfeito. Dá um duplo clique nesse script de assessment projetos aí,\n[LOCUTOR 15]: por\n[LOCUTOR 3]: favor. Isso. Ele já vai abrir o SQL e já consegue...\n[LOCUTOR 15]: Ah, ele consegue ver.\n[LOCUTOR 3]: Ele já abre direto o SQL Studio.\n[LOCUTOR 15]: um pouquinho lento.\n[LOCUTOR 3]: Não imagino. Hoje quantos usuários acessam o seu RMI?\n[LOCUTOR 15]: [LOCAL], são 30 e poucos professores e hoje que estão o dia inteiro é a [LOCAL], o financeiro, são três pessoas mais ou menos.\n[LOCUTOR 3]: Ah tá, quando você fala os professores eles acessam a parte de portal ali ou acessam a\n[LOCUTOR 15]: portal? A parte do portal.\n[LOCUTOR 3]: [LOCAL]. E alunos? Alunos aí tamb\n[LOCUTOR 4]: acessam\n[LOCUTOR 3]: o portal?\n[LOCUTOR 15]: Não, não acesso.\n[LOCUTOR 3]: [LOCAL]. Os funcionários acessam para pegar contra-cheque, alguma coisa assim ou\n[LOCUTOR 15]: não? Também não, vai tudo por e-mail.\n[LOCUTOR 3]: [LOCAL], então. Os professores, você comentou que acessam o portal do professor ali, é isso?\n[LOCUTOR 15]: Isso, só o portal do professor.\n[LOCUTOR 3]: São aproximadamente 30 funcionários, 30 professores?\n[LOCUTOR 15]: É, isso aí. [LOCAL]. Conseguiu, tá conseguindo ver aí?\n[LOCUTOR 3]: Tô conseguindo ver. [LOCAL], você tem a senha desse... Na verdade a gente precisava da senha administradora desse banco aí, tá? [EMPRESA] e a senha, você sabe me dizer se você tem?\n[LOCUTOR 15]: Não é essa aqui que eu tô aqui dentro?\n[LOCUTOR 3]: Essa\n[LOCUTOR 15]: senha aqui não é a normal de vocês?\n[LOCUTOR 3]: Não, é diferente, cara. De banco ela é diferente, velho.\n[LOCUTOR 15]: [PESSOA], e aí agora?\n[LOCUTOR 3]: Alguém, em algum momento, cuidou dessa parte pra vocês aí? Teve algum consultor, alguém que cuidava dessa parte aí?\n[LOCUTOR 15]: [LOCAL], eu acho que depois que foi colocada a senha do SQL... Deixa eu escrever uma coisa com o [PESSOA] aqui só um pouquinho, acho que ele deve ter. Mas acho que não, porque isso é da TOTUS, né?\n[LOCUTOR 3]: Quem criou essa senha, [PESSOA], foi a pessoa que implantou o [EMPRESA].\n[LOCUTOR 15]: Ah, tá. Como é que é o nome da senha mesmo? Eu vou pedir pra\n[LOCUTOR 3]: ele. S-A. Fala que é a senha do sysadmin.\n[LOCUTOR 15]: Então por que que eu vou pedir pra ele aqui?\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: [LOCAL], eu acho que isso aqui foi o pessoal da própria TOTOS que fez isso aqui. Aqui de [LOCAL]. É a senha do SQL, né?\n[LOCUTOR 3]: Isso, a senha do SQL, isso mesmo. \n[LOCUTOR 14]: eu ver aqui com o [PESSOA], ver se ele me manda aqui. É aquele que cuida da infraestrutura. Mas acho que isso não tem nada a ver com estrutura, né?\n[LOCUTOR 3]: Tem a ver com infraestrutura, tem sim.\n[LOCUTOR 15]: Tá, então ele vai me responder aqui só um pouquinho. É esse aqui, né?\n[LOCUTOR 3]: Isso. Fala que é a senha do sysadmin.\n[LOCUTOR 15]: Sysadmin.\n[LOCUTOR 3]: Isso.\n[LOCUTOR 15]: Tá. É, sys é com insu, né?\n[LOCUTOR 3]: Isso.\n[LOCUTOR 15]: Isso aqui não é o que não tem senha?\n[LOCUTOR 3]: Não, o que não tem senha é o License Server. não é\n[LOCUTOR 15]: uma senha padrão?\n[LOCUTOR 3]: Não é, cara. Admin de banco não. É uma senha que talvez as empresas podem, né? De repente aí o pessoal que cuida usa um padrão, mas não é um padrão global, tá?\n[LOCUTOR 15]: Tá, entendi. Deixa eu ver com ele aqui só Deixa eu ver aqui com ele, que daqui a pouco ele deve só me dar um minutinho. O que que tu precisa ver nessas coisas ali?\n[LOCUTOR 3]: Aí a gente vai rodar o script de banco, que vai me trazer versão de banco, tamanho de banco, quantidade de colunas, tabelas, qual collection que foi configurado. É só a parte técnica pra gente entender, [PESSOA].\n[LOCUTOR 15]: É bem\n[LOCUTOR 3]: antigo isso. É, imagino que sim. Se o seu banco precisa de algum ajuste, né, ou se ele tá... 100% compatível. O que você pode tentar, [PESSOA]?\n[LOCUTOR 15]: [LOCAL]\n[LOCUTOR 3]: cancelar aí, ó. Vê se ele autentica... Ali onde tá na Authentication, vê se ele... vê se ele vai com\n[LOCUTOR 15]: as...\n[LOCUTOR 3]: Authentication ali, ó.\n[LOCUTOR 15]: Onde tá\n[LOCUTOR 3]: SQL Server Authentication, tá vendo?\n[LOCUTOR 15]: Aqui?\n[LOCUTOR 3]: Isso. Vê se ele entra com as credenciais do Windows aí. Coloca o Windows Authentication. Não, a primeira.\n[LOCUTOR 15]: Isso,\n[LOCUTOR 3]: vê se ele passa assim. Dá um connect aí.\n[LOCUTOR 15]: Não,\n[LOCUTOR 3]: não conecta. Realmente foi criado um usuário sem a pessoa aí.\n[LOCUTOR 15]: [LOCAL], qual que será que é? Ah, será que não é esse aqui, ó? Server name. Será que não é esse aqui? Só um pouquinho.\n[LOCUTOR 3]: Tá, aí você troca ali de novo para SQL Authentication.\n[LOCUTOR 15]: O [PESSOA] passou a deixar mais doces aí, você pode escolher o que você mais gosta. Não exagera! Escolheu? [PESSOA] Obrigado! Volta aqui para o [PESSOA]. Espera aí, deixa eu só ver aqui uma coisa aqui, só um pouquinho, deixa eu ver com o [LOCAL].\n[LOCUTOR 3]: [LOCAL], fica a vontade.\n[LOCUTOR 15]: Deixa eu só ver aqui, talvez tenha senha. As vezes ele me manda aqui...\n[LOCUTOR 3]: Ah é, pode ser que ele tenha te mandado em algum momento, aí voc\n[LOCUTOR 8]: encontra. Vou encontrar, lógico. Isso, peraí. Será que é tanta senha? Não\n[LOCUTOR 3]: sei\n[LOCUTOR 15]: de tudo isso. Será que não é esse aqui, tipo... Não, mas não é esse, tem que entrar no SQL da TOTUS, né?\n[LOCUTOR 3]: Isso, no SQL.\n[LOCUTOR 15]: Mas eu acho que esse SQL o [PESSOA] não tem, cara, porque foi só o pessoal da [EMPRESA] que fez isso e depois ele não mexe nessa parte.\n[LOCUTOR 3]: Aí você não tem nenhum acesso a banco para fazer consulta, para fazer algum select, alguma integração, nada disso?\n[LOCUTOR 15]: Na verdade, sim, tem. Ah, sim, tipo integração. Ah, sim, foi feita uma integração com o [EMPRESA], é esse tipo de coisa?\n[LOCUTOR 3]: Isso, se foi feito, provavelmente usou a parte de banco aí, né? Pra criar string de conexão. Então...\n[LOCUTOR 15]: Não, isso foi feito, sim. Deixa eu ver aqui, senha... Senha [EMPRESA] não tem nada a ver, né?\n[LOCUTOR 3]: Isso, tem [EMPRESA], isso mesmo. [EMPRESA], que é [PESSOA].\n[LOCUTOR 15]: Tá, peraí, deixa eu só ver aqui... Deixa eu só ver aqui. Deixa eu ver que foi o Marcos, que é da [EMPRESA]. [PESSOA] do céu, peraí, é tanta coisa.\n[LOCUTOR 3]: É,\n[LOCUTOR 15]: 25 deve ser. Não, isso aqui é outra coisa. Ele disse que TOTUS que tem que criar. Podemos criar um usuário no banco de dados, só precisa de senha do [EMPRESA]. Deixa eu só ver aqui.\n[LOCUTOR 3]: [LOCAL], essa senha [EMPRESA] é a que a gente precisa agora.\n[LOCUTOR 15]: Ah tá, pera aí que é com o [PESSOA] mesmo, só um pouquinho que eu não consigo... Deixa eu só dar uma ligada pra ele aqui.\n[LOCUTOR 3]: [LOCAL], fica à vontade, cara.\n[LOCUTOR 15]: Só vou, só vou mutar aqui pra tudo, tá? Pode ser?\n[LOCUTOR 3]: Tá bom, pode ser, pode ser.\n[LOCUTOR 15]: [LOCAL]. Só porque que ele não atende, eu só tô dando uma olhadinha aqui, só um pouquinho.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: [PESSOA], tem uma senha, só que o [PESSOA] não atende. Mas essa senha [LOCAL] pode ser pode ser de uma outra coisa ou é uma senha específica né?\n[LOCUTOR 3]: A senha [LOCAL] geralmente cara ela é a senha desse banco aí tá?\n[LOCUTOR 15]: É que tem uma senha específica de um banco só do [EMPRESA], de uma integração que a gente fez. Aí\n[LOCUTOR 3]: tu...\n[LOCUTOR 15]: Tenta\n[LOCUTOR 3]: colocar essa senha aí [PESSOA].\n[LOCUTOR 15]: Coloca\n[LOCUTOR 3]: [LOCAL] no login e coloca essa senha aí.\n[LOCUTOR 15]: Aqui coloca o [EMPRESA]? Isso. Aqui, ó. Tá vendo, ó. Não tem\n[LOCUTOR 3]: outra. É, é que essa... Quanto o RM quanto o [EMPRESA] aí, eles são senhas do banco específico. A gente precisa da senha da instância.\n[LOCUTOR 15]: É,\n[LOCUTOR 3]: por isso que no login é [EMPRESA].\n[LOCUTOR 15]: Aqui...\n[LOCUTOR 3]: É, no login você coloca [EMPRESA]. Pode escrever mesmo, [EMPRESA].\n[LOCUTOR 15]: Escrever [EMPRESA]?\n[LOCUTOR 3]: Isso.\n[LOCUTOR 15]: Tá, e\n[LOCUTOR 3]: aqui\n[LOCUTOR 15]: tem...\n[LOCUTOR 3]: Isso, tenta colocar uma dessas senhas que você tem.\n[LOCUTOR 15]: Deixa eu colocar essa aqui.\n[LOCUTOR 3]: [LOCAL], eu vou pedir só pra você colocar o [EMPRESA], tá?\n[LOCUTOR 15]: Tá, pera aí. Opa. [EMPRESA], daí deixa eu colocar a senha aqui.\n[LOCUTOR 3]: Um...\n[LOCUTOR 15]: Caramba! É, não\n[LOCUTOR 3]: é essa senha não, cara. Bom,\n[LOCUTOR 15]: enquanto\n[LOCUTOR 3]: você tenta falar com ele, vamos pegando outras informações aqui, beleza?\n[LOCUTOR 15]: Tá, pode ser então.\n[LOCUTOR 3]: Show de bola. A versão do seu [EMPRESA] sabe de cabeça qual que é?\n[LOCUTOR 15]: [PESSOA], tenho que abrir ela.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: Mas é duas para trás, peraí. Deixa eu\n[LOCUTOR 3]: só... Duas para trás? Então a gente tá falando ali da [EMPRESA], provavelmente?\n[LOCUTOR 15]: É, deixa eu só olhar aqui. Eu só abro aqui e eu consigo ver propriedades aqui, né?\n[LOCUTOR 3]: Consegue. Abri no... Ah não, aí não, cara. Você tinha que acessar o [EMPRESA] mesmo.\n[LOCUTOR 15]: Ah, tem que entrar no RM, né?\n[LOCUTOR 3]: Isso, tem que entrar no RM.\n[LOCUTOR 15]: Ah, daí vê lá embaixo, então.\n[LOCUTOR 3]: Isso, vê lá embaixo no...\n[LOCUTOR 15]: Se não eu pego ali como? [PESSOA], só um pouquinho que agora essa senha aqui, ela é difícil. [PESSOA] que eu não lembro mais. Só um pouquinho.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: Qual que é a senha do... [PESSOA], quantas senhas, cara. [PESSOA], só um pouquinho. [PESSOA]. Ah, peraí, peraí, peraí. Ué, não abriu? Tá abrindo aqui. Boa. Sistema, né?\n[LOCUTOR 3]: Isso aí, sistema. Só clicar ali. Isso, 12.1.23.02.\n[LOCUTOR 15]: É, mais antiguinha. Acho que deve ter umas três ou quatro já.\n[LOCUTOR 3]: É, na verdade, [PESSOA], essa daí... O RM ele sempre usa o mês e o ano nas versões né. Então em primeiro ano e depois o mês. Essa versão que você tá ela é de fevereiro de 2023.\n[LOCUTOR 15]: Eu acredito até que sim.\n[LOCUTOR 3]: Então nós já tivemos a 23 0 6 23 10 24 0 6 24 10 a 25 0 2 a 25 0 6 a 25 10 e agora nós estamos na 26 0 2.\n[LOCUTOR 15]: [LOCUTOR 2]: algumas versões aí. para frente realmente. A [EMPRESA] ela tem uma premissa né que para o cliente poder migrar para a nossa nuvem ele tem que estar na versão ali dentro do ciclo de vida e suporte tá? É\n[LOCUTOR 3]: justamente\n[LOCUTOR 15]: por isso sabe o Windows deu uma travada e aí o Marcos que não conseguia fazer uma, talvez eu peça para ele fazer uma atualização mais\n[LOCUTOR 3]: [LOCAL], não precisa ser pra última, tá? Isso é muito importante, porque\n[LOCUTOR 15]: se\n[LOCUTOR 3]: ele tentar colocar na última, realmente não vai conseguir.\n[LOCUTOR 15]: Tá.\n[LOCUTOR 3]: Então, o ideal aí seria colocar numa versão, pelo menos a 25.02,\n[LOCUTOR 15]: uma versão\n[LOCUTOR 3]: que ele consegue colocar sem a necessidade de mexer no seu parque aí de recursos, tá bom?\n[LOCUTOR 15]: Tá, então eu vou pedir pra ele fazer isso aí.\n[LOCUTOR 3]: Isso, show de bola. Tá. [LOCAL], tô só anotando aqui. O seu [EMPRESA] só integra com o [EMPRESA], né?\n[LOCUTOR 15]: Hoje sim.\n[LOCUTOR 3]: Não tem nenhuma outra integração com algum BI, alguma coisa assim?\n[LOCUTOR 15]: Não.\n[LOCUTOR 3]: [LOCAL]. Tem problemas de internet na região aí, cara?\n[LOCUTOR 15]: Não. Mas é claro, né?\n[LOCUTOR 3]: Ah sim, não, eu digo problema... até misturecei mal, me desculpa. Quando eu falo problema eu digo assim, é... problema de fornecimento, né? A queda\n[LOCUTOR 15]: às vezes\n[LOCUTOR 3]: acontece, né? Mas tipo assim, ah não [PESSOA], aqui eu não tenho um link de internet que chegue com qualidade, ninguém me fornece um link com qualidade.\n[LOCUTOR 15]: Ah não, não, isso tem, tem problema. Isso é trancando.\n[LOCUTOR 3]: [LOCAL]. Os usuários lá, que são os três que você comentou aqui, que são os que...\n[LOCUTOR 15]: de\n[LOCUTOR 3]: fato mexem no RM, né?\n[LOCUTOR 15]: Vamos colocar que hoje tem a secretária que mexe de [EMPRESA] direto, né?\n[LOCUTOR 3]: E\n[LOCUTOR 15]: o financeiro.\n[LOCUTOR 3]: [LOCAL]. Eles têm a instalação completa na máquina deles, é isso?\n[LOCUTOR 15]: Sim, sim. Não é completa? É, sim. Eles acessam pela máquina, né? Mas eu acho que a máquina vai lá buscar no\n[LOCUTOR 3]: servidor. Ah, tá. Tem um servidor ali e só\n[LOCUTOR 15]: tá...\n[LOCUTOR 3]: [LOCAL]. Aqui no cloud é exatamente da mesma forma, tá?\n[LOCUTOR 15]: Sim. E eu queria, na verdade, colocar... Porque eu tenho uma licença e não tô usando, que é da biblioteca, né?\n[LOCUTOR 3]: Pô, cara, entendi.\n[LOCUTOR 15]: Eu já queria colocar também, porque daí a biblioteca já manda lá pro boleto, e já gera tudo as despesas, né?\n[LOCUTOR 3]: Perfeitamente, cara. É algo que se você tem, com certeza precisa utilizar.\n[LOCUTOR 15]: É.\n[LOCUTOR 3]: Aproveitar esse momento de mudança para já ativar tudo isso, né, cara?\n[LOCUTOR 15]: Sim. Show\n[LOCUTOR 3]: de bola. O que eu quero ver com você? Vamos lá. Bom, agora, cara, só vai faltar as informações de banco ali. E aí, para eu não ficar te prendendo aqui, o que eu vou sugerir para você? Se você olhar o e-mail que eu te mandei, você vai ver que o item 1, o item 2, o item 3 e o item 4\n[LOCUTOR 15]: são\n[LOCUTOR 3]: itens de banco de dados. [LOCAL]\n[LOCUTOR 11]: orientando\n[LOCUTOR 3]: ali exatamente o que precisa fazer. Então quando você conseguir essa senha com o [PESSOA], vocês fazem esses quatro passos aí E aí você só responde no meu e-mail com os arquivos que\n[LOCUTOR 15]: você\n[LOCUTOR 3]: gerou, beleza?\n[LOCUTOR 15]: Eu já até pedi pra ele, sim, porque ele disse que na verdade ele só criou aquele acesso ao clipe, né? Não criou o banco. Eu tinha o TRS, que era uma outra empresa que era direta da [EMPRESA], agora não tem mais, né?\n[LOCUTOR 3]: Entendi, mas assim, mesmo que você não tenha, pelo menos as credenciais de repente eles podem te fornecer, porque se você não tiver acesso a esse banco, Por mais que a gente, por exemplo, vamos dizer que a gente siga sem essa informação aqui. Enquanto a gente for precisar de um backup desse banco pra você disponibilizar pra gente, você ainda assim vai precisar desse acesso, entendeu?\n[LOCUTOR 15]: Tá, mas eu acho que deve ter porque assim, ó, quando a gente faz uma atualização a gente precisa fazer um backup do banco pra depois jogar de volta, né?\n[LOCUTOR 3]: Perfeitamente, isso mesmo.\n[LOCUTOR 15]: Ah, eu vou ver com o Marcos também, o Marcos acho que sabe melhor que eu até.\n[LOCUTOR 3]: Combinado, então.\n[LOCUTOR 15]: Aí você... Eu respondo esse e-mail daí.\n[LOCUTOR 3]: Isso, responde com os arquivos que vão ser gerados lá, tá bom?\n[LOCUTOR 15]: Tá. [LOCAL], então.\n[LOCUTOR 3]: [PESSOA], obrigado, cara.\n[LOCUTOR 15]: Obrigado\n[LOCUTOR 3]: pela disponibilidade aí. Uma boa semana pra você,\n[LOCUTOR 15]: tá? [LOCAL], valeu. Um\n[LOCUTOR 3]: abraço.\n[LOCUTOR 15]: Tchau, tchau. Mas, cara, a gente não tem acesso ao banco de dados da TOTUS, é ele sempre que mexem, né? Eu não tenho... Nem sei onde é que ele tá alocado, pra gente ter uma ideia. Essa parte aí eu nunca alterei, nunca acessei ele, né? O da [EMPRESA] eles nos passaram onde é que dava todo o banco de dados certinhos. Mas o da TOTUS eu não faço ideia, cara. Qual que é o procedimento? Ah, entendi. Então, beleza.",
+  "texto_filtrado": "[LOCUTOR 3]: Hoje, cara, você que cuida de todo esse ambiente aí, o servidor tá físico com você aí? Você já t\n[LOCUTOR 11]: em alguma\n[LOCUTOR 3]: nuvem pública?\n[LOCUTOR 15]: Não, o servidor é fixo com o nosso aqui. Eu tenho um servidor aqui, né? Então eu tô... Na verdade, escola pequena a gente faz tudo, né? Corre, cabeceia, faz tudo.\n[LOCUTOR 3]: Sei como que é, né? [LOCAL].\n[LOCUTOR 15]: Na verdade, o que que acontece? Eu precisaria atualizar, mas o meu... o meu Windows Server já é antigo, então eu tenho que trocar o servidor. Então eu quero ver o que é mais vantajoso, trocar o servidor ou se é também partir para a cloud, né?\n[LOCUTOR 3]: Perfeitamente, perfeitamente. Acho que é um melhor momento mesmo para você decidir isso daí, cara.\n[LOCUTOR 3]: [LOCAL]. Qual\n[LOCUTOR 15]: é a cidade\n[LOCUTOR 3]: que você está localizado aí?\n[LOCUTOR 15]: É [LOCAL], [LOCAL].\n[LOCUTOR 3]: [LOCAL]?\n[LOCUTOR 3]: cara.\n[LOCUTOR 15]: [LOCAL]?\n[LOCUTOR 15]: Fica entre [LOCAL] e [LOCAL].\n[LOCUTOR 3]: [LOCAL], eu te cortei, você acha que ia falar alguma coisa, né?\n[LOCUTOR 15]: nesse\n[LOCUTOR 3]: e-mail tem todas as perguntas que eu vou fazer com você aqui. Isso, e aí também tem dois scripts que estão em anexo aí. Então, o que eu preciso que você faça aí, cara? Preciso que você baixe esses arquivos que estão em anexo, jogue lá para o seu servidor de banco de dados, e aí quando você estiver lá, se você puder compartilhar sua tela comigo, a gente começa o levantamento por essa parte, tá?\n[LOCUTOR 3]: Isso, baixar\n[LOCUTOR 15]: esse\n[LOCUTOR 3]: dos arquivos.\n[LOCUTOR 15]: Assessment e apuração, né?\n[LOCUTOR 3]: [LOCAL], isso mesmo. Aí esses dois você joga lá pro servidor de banco e aí quando tiver lá você compartilha sua tela comigo pra gente pegar essas informações aí.\n[LOCUTOR 15]: Eu tô baixando ele aqui, só um pouquinho.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 3]: Não, imagino que isso. A [EMPRESA] é mulher. Inclusive, cara, a [EMPRESA], ela é extremamente exigente em relação a [PESSOA], segurança,\n[LOCUTOR 3]: Então,\n[LOCUTOR 15]: isso\n[LOCUTOR 3]: desenvolvido por nossa equipe de segurança também, tá?\n[LOCUTOR 15]: Ai, droga, peraí que caiu aqui só um pouquinho. Ué, que estranho. Nossa, que droga. [PESSOA]. Deixa eu ver aqui. [PESSOA], peraí, peraí, peraí. [PESSOA], né?\n[LOCUTOR 3]: Isso, isso\n[LOCUTOR 15]: mesmo. Apuração aqui, deixa eu pegar aqui a apuração. Deixa eu dar só um salvar como, né? Deixa eu baixar ele. Na área de trabalho, tá. Eu vou colocar aqui, depois eu jogo lá no servidor.\n[LOCUTOR 15]: aí deixa eu só ver aqui. [PESSOA], deixa eu abrir o servidor aqui, só um pouquinho. Ele tá aqui. Deixa eu só jogar ele aqui. Ué, ele não deixa? Por que ele não deixa? Teoricamente, seria só jogar ele aqui dentro, né?\n[LOCUTOR 3]: É, teoricamente, só se copiar e... E colar ele no servidor.\n[LOCUTOR 3]: Aí você usa também aquela parte de [LOCAL] TSS ou [PESSOA]?\n[LOCUTOR 15]: É, tem TSS, isso aí.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 3]: É, aí você clica em compartilhar, você tem que selecionar a tela que você quer compartilhar também, tá?\n[LOCUTOR 3]: [LOCAL], demora um pouquinho. [LOCAL], tá na tela já.\n[LOCUTOR 13]: é o servidor, tá?\n[LOCUTOR 3]: [LOCAL], é o\n[LOCUTOR 15]: seu servidor.\n[LOCUTOR 13]: é onde tá o RM, tá? [LOCAL], perfeito. Dá um duplo clique nesse script de assessment projetos aí,\n[LOCUTOR 15]: Ah, ele consegue ver.\n[LOCUTOR 3]: Ele já abre direto o SQL Studio.\n[LOCUTOR 15]: um pouquinho lento.\n[LOCUTOR 3]: Não imagino. Hoje quantos usuários acessam o seu RMI?\n[LOCUTOR 15]: [LOCAL], são 30 e poucos professores e hoje que estão o dia inteiro é a [LOCAL], o financeiro, são três pessoas mais ou menos.\n[LOCUTOR 3]: Ah tá, quando você fala os professores eles acessam a parte de portal ali ou acessam a\n[LOCUTOR 15]: portal? A parte do portal.\n[LOCUTOR 3]: [LOCAL]. E alunos? Alunos aí tamb\n[LOCUTOR 4]: acessam\n[LOCUTOR 3]: o portal?\n[LOCUTOR 3]: [LOCAL]. Os funcionários acessam para pegar contra-cheque, alguma coisa assim ou\n[LOCUTOR 3]: [LOCAL], então. Os professores, você comentou que acessam o portal do professor ali, é isso?\n[LOCUTOR 15]: Isso, só o portal do professor.\n[LOCUTOR 3]: São aproximadamente 30 funcionários, 30 professores?\n[LOCUTOR 15]: É, isso aí. [LOCAL]. Conseguiu, tá conseguindo ver aí?\n[LOCUTOR 3]: Tô conseguindo ver. [LOCAL], você tem a senha desse... Na verdade a gente precisava da senha administradora desse banco aí, tá? [EMPRESA] e a senha, você sabe me dizer se você tem?\n[LOCUTOR 3]: Essa\n[LOCUTOR 15]: senha aqui não é a normal de vocês?\n[LOCUTOR 3]: Não, é diferente, cara. De banco ela é diferente, velho.\n[LOCUTOR 15]: [PESSOA], e aí agora?\n[LOCUTOR 3]: Alguém, em algum momento, cuidou dessa parte pra vocês aí? Teve algum consultor, alguém que cuidava dessa parte aí?\n[LOCUTOR 15]: [LOCAL], eu acho que depois que foi colocada a senha do SQL... Deixa eu escrever uma coisa com o [PESSOA] aqui só um pouquinho, acho que ele deve ter. Mas acho que não, porque isso é da TOTUS, né?\n[LOCUTOR 3]: Quem criou essa senha, [PESSOA], foi a pessoa que implantou o [EMPRESA].\n[LOCUTOR 3]: ele. S-A. Fala que é a senha do sysadmin.\n[LOCUTOR 15]: Então por que que eu vou pedir pra ele aqui?\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: [LOCAL], eu acho que isso aqui foi o pessoal da própria TOTOS que fez isso aqui. Aqui de [LOCAL]. É a senha do SQL, né?\n[LOCUTOR 3]: Isso, a senha do SQL, isso mesmo.\n[LOCUTOR 14]: eu ver aqui com o [PESSOA], ver se ele me manda aqui. É aquele que cuida da infraestrutura. Mas acho que isso não tem nada a ver com estrutura, né?\n[LOCUTOR 3]: Isso. Fala que é a senha do sysadmin.\n[LOCUTOR 15]: Sysadmin.\n[LOCUTOR 3]: Isso.\n[LOCUTOR 15]: Tá. É, sys é com insu, né?\n[LOCUTOR 3]: Isso.\n[LOCUTOR 15]: uma senha padrão?\n[LOCUTOR 3]: Aí a gente vai rodar o script de banco, que vai me trazer versão de banco, tamanho de banco, quantidade de colunas, tabelas, qual collection que foi configurado. É só a parte técnica pra gente entender, [PESSOA].\n[LOCUTOR 3]: antigo isso. É, imagino que sim. Se o seu banco precisa de algum ajuste, né, ou se ele tá... 100% compatível. O que você pode tentar, [PESSOA]?\n[LOCUTOR 15]: [LOCAL]\n[LOCUTOR 3]: cancelar aí, ó. Vê se ele autentica... Ali onde tá na Authentication, vê se ele... vê se ele vai com\n[LOCUTOR 3]: Authentication ali, ó.\n[LOCUTOR 15]: Onde tá\n[LOCUTOR 3]: SQL Server Authentication, tá vendo?\n[LOCUTOR 15]: Aqui?\n[LOCUTOR 3]: Isso. Vê se ele entra com as credenciais do Windows aí. Coloca o Windows Authentication. Não, a primeira.\n[LOCUTOR 15]: Isso,\n[LOCUTOR 3]: vê se ele passa assim. Dá um connect aí.\n[LOCUTOR 15]: [LOCAL], qual que será que é? Ah, será que não é esse aqui, ó? Server name. Será que não é esse aqui? Só um pouquinho.\n[LOCUTOR 3]: Tá, aí você troca ali de novo para SQL Authentication.\n[LOCUTOR 3]: [LOCAL], fica a vontade.\n[LOCUTOR 3]: Ah é, pode ser que ele tenha te mandado em algum momento, aí voc\n[LOCUTOR 15]: de tudo isso. Será que não é esse aqui, tipo... Não, mas não é esse, tem que entrar no SQL da TOTUS, né?\n[LOCUTOR 3]: Isso, no SQL.\n[LOCUTOR 3]: Aí você não tem nenhum acesso a banco para fazer consulta, para fazer algum select, alguma integração, nada disso?\n[LOCUTOR 15]: Na verdade, sim, tem. Ah, sim, tipo integração. Ah, sim, foi feita uma integração com o [EMPRESA], é esse tipo de coisa?\n[LOCUTOR 3]: Isso, se foi feito, provavelmente usou a parte de banco aí, né? Pra criar string de conexão. Então...\n[LOCUTOR 3]: Isso, tem [EMPRESA], isso mesmo. [EMPRESA], que é [PESSOA].\n[LOCUTOR 15]: Tá, peraí, deixa eu só ver aqui... Deixa eu só ver aqui. Deixa eu ver que foi o Marcos, que é da [EMPRESA]. [PESSOA] do céu, peraí, é tanta coisa.\n[LOCUTOR 15]: 25 deve ser. Não, isso aqui é outra coisa. Ele disse que TOTUS que tem que criar. Podemos criar um usuário no banco de dados, só precisa de senha do [EMPRESA]. Deixa eu só ver aqui.\n[LOCUTOR 3]: [LOCAL], essa senha [EMPRESA] é a que a gente precisa agora.\n[LOCUTOR 3]: [LOCAL], fica à vontade, cara.\n[LOCUTOR 3]: Tá bom, pode ser, pode ser.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: [PESSOA], tem uma senha, só que o [PESSOA] não atende. Mas essa senha [LOCAL] pode ser pode ser de uma outra coisa ou é uma senha específica né?\n[LOCUTOR 3]: A senha [LOCAL] geralmente cara ela é a senha desse banco aí tá?\n[LOCUTOR 15]: É que tem uma senha específica de um banco só do [EMPRESA], de uma integração que a gente fez. Aí\n[LOCUTOR 15]: Tenta\n[LOCUTOR 3]: colocar essa senha aí [PESSOA].\n[LOCUTOR 15]: Coloca\n[LOCUTOR 3]: [LOCAL] no login e coloca essa senha aí.\n[LOCUTOR 3]: outra. É, é que essa... Quanto o RM quanto o [EMPRESA] aí, eles são senhas do banco específico. A gente precisa da senha da instância.\n[LOCUTOR 3]: por isso que no login é [EMPRESA].\n[LOCUTOR 15]: Aqui...\n[LOCUTOR 3]: É, no login você coloca [EMPRESA]. Pode escrever mesmo, [EMPRESA].\n[LOCUTOR 15]: Escrever [EMPRESA]?\n[LOCUTOR 3]: Isso.\n[LOCUTOR 3]: aqui\n[LOCUTOR 3]: Isso, tenta colocar uma dessas senhas que você tem.\n[LOCUTOR 15]: enquanto\n[LOCUTOR 3]: você tenta falar com ele, vamos pegando outras informações aqui, beleza?\n[LOCUTOR 15]: Tá, pode ser então.\n[LOCUTOR 3]: Show de bola. A versão do seu [EMPRESA] sabe de cabeça qual que é?\n[LOCUTOR 15]: [PESSOA], tenho que abrir ela.\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: Mas é duas para trás, peraí. Deixa eu\n[LOCUTOR 3]: só... Duas para trás? Então a gente tá falando ali da [EMPRESA], provavelmente?\n[LOCUTOR 15]: Ah, tem que entrar no RM, né?\n[LOCUTOR 3]: Isso, tem que entrar no RM.\n[LOCUTOR 15]: Ah, daí vê lá embaixo, então.\n[LOCUTOR 3]: Isso, vê lá embaixo no...\n[LOCUTOR 3]: [LOCAL].\n[LOCUTOR 15]: Qual que é a senha do... [PESSOA], quantas senhas, cara. [PESSOA], só um pouquinho. [PESSOA]. Ah, peraí, peraí, peraí. Ué, não abriu? Tá abrindo aqui. Boa. Sistema, né?\n[LOCUTOR 3]: Isso aí, sistema. Só clicar ali. Isso, 12.1.23.02.\n[LOCUTOR 15]: É, mais antiguinha. Acho que deve ter umas três ou quatro já.\n[LOCUTOR 3]: É, na verdade, [PESSOA], essa daí... O RM ele sempre usa o mês e o ano nas versões né. Então em primeiro ano e depois o mês. Essa versão que você tá ela é de fevereiro de 2023.\n[LOCUTOR 3]: Então nós já tivemos a 23 0 6 23 10 24 0 6 24 10 a 25 0 2 a 25 0 6 a 25 10 e agora nós estamos na 26 0 2.\n[LOCUTOR 15]: [LOCUTOR 2]: algumas versões aí. para frente realmente. A [EMPRESA] ela tem uma premissa né que para o cliente poder migrar para a nossa nuvem ele tem que estar na versão ali dentro do ciclo de vida e suporte tá? É\n[LOCUTOR 3]: justamente\n[LOCUTOR 15]: por isso sabe o Windows deu uma travada e aí o Marcos que não conseguia fazer uma, talvez eu peça para ele fazer uma atualização mais\n[LOCUTOR 3]: [LOCAL], não precisa ser pra última, tá? Isso é muito importante, porque\n[LOCUTOR 3]: Então, o ideal aí seria colocar numa versão, pelo menos a 25.02,\n[LOCUTOR 15]: uma versão\n[LOCUTOR 3]: que ele consegue colocar sem a necessidade de mexer no seu parque aí de recursos, tá bom?\n[LOCUTOR 3]: Isso, show de bola. Tá. [LOCAL], tô só anotando aqui. O seu [EMPRESA] só integra com o [EMPRESA], né?\n[LOCUTOR 3]: Não tem nenhuma outra integração com algum BI, alguma coisa assim?\n[LOCUTOR 3]: [LOCAL]. Tem problemas de internet na região aí, cara?\n[LOCUTOR 3]: Ah sim, não, eu digo problema... até misturecei mal, me desculpa. Quando eu falo problema eu digo assim, é... problema de fornecimento, né? A queda\n[LOCUTOR 15]: às vezes\n[LOCUTOR 15]: Ah não, não, isso tem, tem problema. Isso é trancando.\n[LOCUTOR 3]: [LOCAL]. Os usuários lá, que são os três que você comentou aqui, que são os que...\n[LOCUTOR 3]: fato mexem no RM, né?\n[LOCUTOR 15]: Vamos colocar que hoje tem a secretária que mexe de [EMPRESA] direto, né?\n[LOCUTOR 15]: o financeiro.\n[LOCUTOR 3]: [LOCAL]. Eles têm a instalação completa na máquina deles, é isso?\n[LOCUTOR 3]: servidor. Ah, tá. Tem um servidor ali e só\n[LOCUTOR 3]: [LOCAL]. Aqui no cloud é exatamente da mesma forma, tá?\n[LOCUTOR 15]: Eu já queria colocar também, porque daí a biblioteca já manda lá pro boleto, e já gera tudo as despesas, né?\n[LOCUTOR 3]: Perfeitamente, cara. É algo que se você tem, com certeza precisa utilizar.\n[LOCUTOR 3]: Aproveitar esse momento de mudança para já ativar tudo isso, né, cara?\n[LOCUTOR 3]: de bola. O que eu quero ver com você? Vamos lá. Bom, agora, cara, só vai faltar as informações de banco ali. E aí, para eu não ficar te prendendo aqui, o que eu vou sugerir para você? Se você olhar o e-mail que eu te mandei, você vai ver que o item 1, o item 2, o item 3 e o item 4\n[LOCUTOR 3]: itens de banco de dados. [LOCAL]\n[LOCUTOR 11]: orientando\n[LOCUTOR 3]: ali exatamente o que precisa fazer. Então quando você conseguir essa senha com o [PESSOA], vocês fazem esses quatro passos aí E aí você só responde no meu e-mail com os arquivos que\n[LOCUTOR 15]: você\n[LOCUTOR 3]: Entendi, mas assim, mesmo que você não tenha, pelo menos as credenciais de repente eles podem te fornecer, porque se você não tiver acesso a esse banco, Por mais que a gente, por exemplo, vamos dizer que a gente siga sem essa informação aqui. Enquanto a gente for precisar de um backup desse banco pra você disponibilizar pra gente, você ainda assim vai precisar desse acesso, entendeu?\n[LOCUTOR 15]: Tá, mas eu acho que deve ter porque assim, ó, quando a gente faz uma atualização a gente precisa fazer um backup do banco pra depois jogar de volta, né?\n[LOCUTOR 3]: Perfeitamente, isso mesmo.\n[LOCUTOR 3]: Combinado, então.\n[LOCUTOR 3]: Isso, responde com os arquivos que vão ser gerados lá, tá bom?\n[LOCUTOR 15]: Tá. [LOCAL], então.\n[LOCUTOR 3]: pela disponibilidade aí. Uma boa semana pra você,\n[LOCUTOR 15]: tá? [LOCAL], valeu. Um\n[LOCUTOR 3]: abraço.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:16.997480+00:00",
+    "total_linhas": 259,
+    "linhas_mantidas": 175,
+    "linhas_removidas": 84,
+    "percentual_mantido": 67.57,
+    "confianca_media": 0.4808
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 3]: Hoje, cara, você que cuida de todo esse ambiente aí, o servidor tá físico com você aí? Você já t",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: em alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: nuvem pública?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não, o servidor é fixo com o nosso aqui. Eu tenho um servidor aqui, né? Então eu tô... Na verdade, escola pequena a gente faz tudo, né? Corre, cabeceia, faz tudo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Sei como que é, né? [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Na verdade, o que que acontece? Eu precisaria atualizar, mas o meu... o meu Windows Server já é antigo, então eu tenho que trocar o servidor. Então eu quero ver o que é mais vantajoso, trocar o servidor ou se é também partir para a cloud, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Perfeitamente, perfeitamente. Acho que é um melhor momento mesmo para você decidir isso daí, cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5293,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. Qual",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: é a cidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que você está localizado aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É [LOCAL], [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Sim, tio. Não conhecia,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Eu não conhecia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Fica entre [LOCAL] e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5133,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], eu te cortei, você acha que ia falar alguma coisa, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não, não, não ia falar, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, tranquilo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não, bem tranquilo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], então vamos lá. Eu mandei um e-mail pra você aí, e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: nesse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: e-mail tem todas as perguntas que eu vou fazer com você aqui. Isso, e aí também tem dois scripts que estão em anexo aí. Então, o que eu preciso que você faça aí, cara? Preciso que você baixe esses arquivos que estão em anexo, jogue lá para o seu servidor de banco de dados, e aí quando você estiver lá, se você puder compartilhar sua tela comigo, a gente começa o levantamento por essa parte, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, deixa eu ver aqui. Então, eu preciso baixar esses dois arquivos que estão em anexo, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4533,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, baixar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: dos arquivos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Assessment e apuração, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], isso mesmo. Aí esses dois você joga lá pro servidor de banco e aí quando tiver lá você compartilha sua tela comigo pra gente pegar essas informações aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Eu tô baixando ele aqui, só um pouquinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4748,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Esse não é o hacker, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, imagino que isso. A [EMPRESA] é mulher. Inclusive, cara, a [EMPRESA], ela é extremamente exigente em relação a [PESSOA], segurança,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: desenvolvido por nossa equipe de segurança também, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5554,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ai, droga, peraí que caiu aqui só um pouquinho. Ué, que estranho. Nossa, que droga. [PESSOA]. Deixa eu ver aqui. [PESSOA], peraí, peraí, peraí. [PESSOA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4652,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: mesmo. Apuração aqui, deixa eu pegar aqui a apuração. Deixa eu dar só um salvar como, né? Deixa eu baixar ele. Na área de trabalho, tá. Eu vou colocar aqui, depois eu jogo lá no servidor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 15]: aí deixa eu só ver aqui. [PESSOA], deixa eu abrir o servidor aqui, só um pouquinho. Ele tá aqui. Deixa eu só jogar ele aqui. Ué, ele não deixa? Por que ele não deixa? Teoricamente, seria só jogar ele aqui dentro, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, teoricamente, só se copiar e... E colar ele no servidor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Deixa eu ver aqui. É, como é que vai arrastar ele pra dentro, se não... Deixa eu ver aqui... Ai, droga. Deixa eu copiar ele. Ué, ele só deixa copiar como caminho. Aqui, copiar. E colar. Ah, foi. Copiar. E colar. [LOCAL], tá aqui os dois. [LOCAL], tá aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4326,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], aí você puder compartilhar sua tela comigo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Sim. Deixa eu compartilhar ela aqui. Compartilhar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3854,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Aí você usa também aquela parte de [LOCAL] TSS ou [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É, tem TSS, isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É, peraí. O que que não dá deixando compartilhar? Só um pouquinho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4561,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, aí você clica em compartilhar, você tem que selecionar a tela que você quer compartilhar também, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4934,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Isso. Eu quero compartilhar esta tela aqui. [LOCAL]. Vê se tá aparecendo pra ti.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4279,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], demora um pouquinho. [LOCAL], tá na tela já.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4683,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: é o servidor, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], é o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: seu servidor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 13]: é onde tá o RM, tá? [LOCAL], perfeito. Dá um duplo clique nesse script de assessment projetos aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: favor. Isso. Ele já vai abrir o SQL e já consegue...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4467,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ah, ele consegue ver.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ele já abre direto o SQL Studio.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: um pouquinho lento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não imagino. Hoje quantos usuários acessam o seu RMI?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL], são 30 e poucos professores e hoje que estão o dia inteiro é a [LOCAL], o financeiro, são três pessoas mais ou menos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah tá, quando você fala os professores eles acessam a parte de portal ali ou acessam a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5651,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: portal? A parte do portal.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. E alunos? Alunos aí tamb",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: acessam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o portal?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não, não acesso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. Os funcionários acessam para pegar contra-cheque, alguma coisa assim ou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5183,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: não? Também não, vai tudo por e-mail.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3987,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], então. Os professores, você comentou que acessam o portal do professor ali, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5733,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Isso, só o portal do professor.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: São aproximadamente 30 funcionários, 30 professores?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É, isso aí. [LOCAL]. Conseguiu, tá conseguindo ver aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tô conseguindo ver. [LOCAL], você tem a senha desse... Na verdade a gente precisava da senha administradora desse banco aí, tá? [EMPRESA] e a senha, você sabe me dizer se você tem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não é essa aqui que eu tô aqui dentro?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.447,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: senha aqui não é a normal de vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, é diferente, cara. De banco ela é diferente, velho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [PESSOA], e aí agora?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Alguém, em algum momento, cuidou dessa parte pra vocês aí? Teve algum consultor, alguém que cuidava dessa parte aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5052,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL], eu acho que depois que foi colocada a senha do SQL... Deixa eu escrever uma coisa com o [PESSOA] aqui só um pouquinho, acho que ele deve ter. Mas acho que não, porque isso é da TOTUS, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4978,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Quem criou essa senha, [PESSOA], foi a pessoa que implantou o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5507,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ah, tá. Como é que é o nome da senha mesmo? Eu vou pedir pra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4476,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ele. S-A. Fala que é a senha do sysadmin.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Então por que que eu vou pedir pra ele aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4639,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL], eu acho que isso aqui foi o pessoal da própria TOTOS que fez isso aqui. Aqui de [LOCAL]. É a senha do SQL, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5397,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, a senha do SQL, isso mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: eu ver aqui com o [PESSOA], ver se ele me manda aqui. É aquele que cuida da infraestrutura. Mas acho que isso não tem nada a ver com estrutura, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4816,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tem a ver com infraestrutura, tem sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, então ele vai me responder aqui só um pouquinho. É esse aqui, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4308,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso. Fala que é a senha do sysadmin.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Sysadmin.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá. É, sys é com insu, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Isso aqui não é o que não tem senha?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4164,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, o que não tem senha é o License Server. não é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: uma senha padrão?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não é, cara. Admin de banco não. É uma senha que talvez as empresas podem, né? De repente aí o pessoal que cuida usa um padrão, mas não é um padrão global, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4586,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, entendi. Deixa eu ver com ele aqui só Deixa eu ver aqui com ele, que daqui a pouco ele deve só me dar um minutinho. O que que tu precisa ver nessas coisas ali?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4491,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Aí a gente vai rodar o script de banco, que vai me trazer versão de banco, tamanho de banco, quantidade de colunas, tabelas, qual collection que foi configurado. É só a parte técnica pra gente entender, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5557,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: antigo isso. É, imagino que sim. Se o seu banco precisa de algum ajuste, né, ou se ele tá... 100% compatível. O que você pode tentar, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: cancelar aí, ó. Vê se ele autentica... Ali onde tá na Authentication, vê se ele... vê se ele vai com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5434,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: as...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Authentication ali, ó.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Onde tá",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: SQL Server Authentication, tá vendo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso. Vê se ele entra com as credenciais do Windows aí. Coloca o Windows Authentication. Não, a primeira.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5365,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vê se ele passa assim. Dá um connect aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5131,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: não conecta. Realmente foi criado um usuário sem a pessoa aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4451,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL], qual que será que é? Ah, será que não é esse aqui, ó? Server name. Será que não é esse aqui? Só um pouquinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4795,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá, aí você troca ali de novo para SQL Authentication.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5969,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: O [PESSOA] passou a deixar mais doces aí, você pode escolher o que você mais gosta. Não exagera! Escolheu? [PESSOA] Obrigado! Volta aqui para o [PESSOA]. Espera aí, deixa eu só ver aqui uma coisa aqui, só um pouquinho, deixa eu ver com o [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4175,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], fica a vontade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Deixa eu só ver aqui, talvez tenha senha. As vezes ele me manda aqui...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4328,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah é, pode ser que ele tenha te mandado em algum momento, aí voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: encontra. Vou encontrar, lógico. Isso, peraí. Será que é tanta senha? Não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4352,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 15]: de tudo isso. Será que não é esse aqui, tipo... Não, mas não é esse, tem que entrar no SQL da TOTUS, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4785,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, no SQL.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Mas eu acho que esse SQL o [PESSOA] não tem, cara, porque foi só o pessoal da [EMPRESA] que fez isso e depois ele não mexe nessa parte.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4441,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Aí você não tem nenhum acesso a banco para fazer consulta, para fazer algum select, alguma integração, nada disso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Na verdade, sim, tem. Ah, sim, tipo integração. Ah, sim, foi feita uma integração com o [EMPRESA], é esse tipo de coisa?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, se foi feito, provavelmente usou a parte de banco aí, né? Pra criar string de conexão. Então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.592,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não, isso foi feito, sim. Deixa eu ver aqui, senha... Senha [EMPRESA] não tem nada a ver, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3911,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, tem [EMPRESA], isso mesmo. [EMPRESA], que é [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.528,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, peraí, deixa eu só ver aqui... Deixa eu só ver aqui. Deixa eu ver que foi o Marcos, que é da [EMPRESA]. [PESSOA] do céu, peraí, é tanta coisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 15]: 25 deve ser. Não, isso aqui é outra coisa. Ele disse que TOTUS que tem que criar. Podemos criar um usuário no banco de dados, só precisa de senha do [EMPRESA]. Deixa eu só ver aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5335,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], essa senha [EMPRESA] é a que a gente precisa agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ah tá, pera aí que é com o [PESSOA] mesmo, só um pouquinho que eu não consigo... Deixa eu só dar uma ligada pra ele aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.447,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], fica à vontade, cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Só vou, só vou mutar aqui pra tudo, tá? Pode ser?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4454,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom, pode ser, pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5041,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL]. Só porque que ele não atende, eu só tô dando uma olhadinha aqui, só um pouquinho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4538,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [PESSOA], tem uma senha, só que o [PESSOA] não atende. Mas essa senha [LOCAL] pode ser pode ser de uma outra coisa ou é uma senha específica né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5236,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: A senha [LOCAL] geralmente cara ela é a senha desse banco aí tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É que tem uma senha específica de um banco só do [EMPRESA], de uma integração que a gente fez. Aí",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tu...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tenta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: colocar essa senha aí [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Coloca",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL] no login e coloca essa senha aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Aqui coloca o [EMPRESA]? Isso. Aqui, ó. Tá vendo, ó. Não tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4423,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: outra. É, é que essa... Quanto o RM quanto o [EMPRESA] aí, eles são senhas do banco específico. A gente precisa da senha da instância.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: por isso que no login é [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5377,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Aqui...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, no login você coloca [EMPRESA]. Pode escrever mesmo, [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5396,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Escrever [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: tem...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, tenta colocar uma dessas senhas que você tem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5156,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Deixa eu colocar essa aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], eu vou pedir só pra você colocar o [EMPRESA], tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4449,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, pera aí. Opa. [EMPRESA], daí deixa eu colocar a senha aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.453,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Um...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Caramba! É, não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: é essa senha não, cara. Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: enquanto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: você tenta falar com ele, vamos pegando outras informações aqui, beleza?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, pode ser então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Show de bola. A versão do seu [EMPRESA] sabe de cabeça qual que é?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6133,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [PESSOA], tenho que abrir ela.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Mas é duas para trás, peraí. Deixa eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4628,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: só... Duas para trás? Então a gente tá falando ali da [EMPRESA], provavelmente?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5592,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É, deixa eu só olhar aqui. Eu só abro aqui e eu consigo ver propriedades aqui, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4321,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Consegue. Abri no... Ah não, aí não, cara. Você tinha que acessar o [EMPRESA] mesmo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4558,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ah, tem que entrar no RM, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, tem que entrar no RM.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ah, daí vê lá embaixo, então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, vê lá embaixo no...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Se não eu pego ali como? [PESSOA], só um pouquinho que agora essa senha aqui, ela é difícil. [PESSOA] que eu não lembro mais. Só um pouquinho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Qual que é a senha do... [PESSOA], quantas senhas, cara. [PESSOA], só um pouquinho. [PESSOA]. Ah, peraí, peraí, peraí. Ué, não abriu? Tá abrindo aqui. Boa. Sistema, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4903,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso aí, sistema. Só clicar ali. Isso, 12.1.23.02.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É, mais antiguinha. Acho que deve ter umas três ou quatro já.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, na verdade, [PESSOA], essa daí... O RM ele sempre usa o mês e o ano nas versões né. Então em primeiro ano e depois o mês. Essa versão que você tá ela é de fevereiro de 2023.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Eu acredito até que sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4068,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então nós já tivemos a 23 0 6 23 10 24 0 6 24 10 a 25 0 2 a 25 0 6 a 25 10 e agora nós estamos na 26 0 2.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCUTOR 2]: algumas versões aí. para frente realmente. A [EMPRESA] ela tem uma premissa né que para o cliente poder migrar para a nossa nuvem ele tem que estar na versão ali dentro do ciclo de vida e suporte tá? É",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: justamente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: por isso sabe o Windows deu uma travada e aí o Marcos que não conseguia fazer uma, talvez eu peça para ele fazer uma atualização mais",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], não precisa ser pra última, tá? Isso é muito importante, porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4928,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ele tentar colocar na última, realmente não vai conseguir.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então, o ideal aí seria colocar numa versão, pelo menos a 25.02,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: uma versão",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que ele consegue colocar sem a necessidade de mexer no seu parque aí de recursos, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, então eu vou pedir pra ele fazer isso aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, show de bola. Tá. [LOCAL], tô só anotando aqui. O seu [EMPRESA] só integra com o [EMPRESA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5711,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Hoje sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3883,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não tem nenhuma outra integração com algum BI, alguma coisa assim?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. Tem problemas de internet na região aí, cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Não. Mas é claro, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah sim, não, eu digo problema... até misturecei mal, me desculpa. Quando eu falo problema eu digo assim, é... problema de fornecimento, né? A queda",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: às vezes",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: acontece, né? Mas tipo assim, ah não [PESSOA], aqui eu não tenho um link de internet que chegue com qualidade, ninguém me fornece um link com qualidade.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4528,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ah não, não, isso tem, tem problema. Isso é trancando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. Os usuários lá, que são os três que você comentou aqui, que são os que...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5249,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: fato mexem no RM, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Vamos colocar que hoje tem a secretária que mexe de [EMPRESA] direto, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5281,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 15]: o financeiro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. Eles têm a instalação completa na máquina deles, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Sim, sim. Não é completa? É, sim. Eles acessam pela máquina, né? Mas eu acho que a máquina vai lá buscar no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4063,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: servidor. Ah, tá. Tem um servidor ali e só",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: tá...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]. Aqui no cloud é exatamente da mesma forma, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Sim. E eu queria, na verdade, colocar... Porque eu tenho uma licença e não tô usando, que é da biblioteca, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.445,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Pô, cara, entendi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Eu já queria colocar também, porque daí a biblioteca já manda lá pro boleto, e já gera tudo as despesas, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4706,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Perfeitamente, cara. É algo que se você tem, com certeza precisa utilizar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.561,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Aproveitar esse momento de mudança para já ativar tudo isso, né, cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5433,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Sim. Show",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: de bola. O que eu quero ver com você? Vamos lá. Bom, agora, cara, só vai faltar as informações de banco ali. E aí, para eu não ficar te prendendo aqui, o que eu vou sugerir para você? Se você olhar o e-mail que eu te mandei, você vai ver que o item 1, o item 2, o item 3 e o item 4",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: são",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: itens de banco de dados. [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: orientando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ali exatamente o que precisa fazer. Então quando você conseguir essa senha com o [PESSOA], vocês fazem esses quatro passos aí E aí você só responde no meu e-mail com os arquivos que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: gerou, beleza?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Eu já até pedi pra ele, sim, porque ele disse que na verdade ele só criou aquele acesso ao clipe, né? Não criou o banco. Eu tinha o TRS, que era uma outra empresa que era direta da [EMPRESA], agora não tem mais, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4295,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Entendi, mas assim, mesmo que você não tenha, pelo menos as credenciais de repente eles podem te fornecer, porque se você não tiver acesso a esse banco, Por mais que a gente, por exemplo, vamos dizer que a gente siga sem essa informação aqui. Enquanto a gente for precisar de um backup desse banco pra você disponibilizar pra gente, você ainda assim vai precisar desse acesso, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá, mas eu acho que deve ter porque assim, ó, quando a gente faz uma atualização a gente precisa fazer um backup do banco pra depois jogar de volta, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Perfeitamente, isso mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Ah, eu vou ver com o Marcos também, o Marcos acho que sabe melhor que eu até.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.453,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Combinado, então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Aí você... Eu respondo esse e-mail daí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, responde com os arquivos que vão ser gerados lá, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5204,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tá. [LOCAL], então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA], obrigado, cara.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Obrigado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pela disponibilidade aí. Uma boa semana pra você,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4698,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: tá? [LOCAL], valeu. Um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: abraço.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: Tchau, tchau. Mas, cara, a gente não tem acesso ao banco de dados da TOTUS, é ele sempre que mexem, né? Eu não tenho... Nem sei onde é que ele tá alocado, pra gente ter uma ideia. Essa parte aí eu nunca alterei, nunca acessei ele, né? O da [EMPRESA] eles nos passaram onde é que dava todo o banco de dados certinhos. Mas o da TOTUS eu não faço ideia, cara. Qual que é o procedimento? Ah, entendi. Então, beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4336,
+      "motivo": "ml"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id_reuniao": "839558",
+  "codt": "239826",
+  "data_reuniao": "2025-12-16 09:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 3]: O que.\n[LOCUTOR 1]: [EMPRESA],\n[LOCUTOR 3]: [LOCAL], tudo bem?\n[LOCUTOR 1]: [EMPRESA], bom dia.\n[LOCUTOR 3]: Tudo bem?\n[LOCUTOR 1]: Tá me ouvindo? Ah, o outro entrou aqui, né? Geralmente, esse outro aqui, ele entra depois. É que eu não tava me ouvindo, eu achei que não tava me ouvindo também.\n[LOCUTOR 3]: Vamos aguardar o cliente, né,\n[LOCUTOR 1]: pra ver\n[LOCUTOR 3]: se tudo dá certo.\n[LOCUTOR 1]: Vai dar certo. Ela tinha marcado outro dia, mas faz tempo já dela entrou em férias, ela pediu pra eu esperar um pouco que eles estavam com outro projeto lá. Acho que foi lá por agosto. Daí eu liguei, agendei para ligar agora. Ela estava mais de boa agora nessa época, mais tranquila.\n[LOCUTOR 3]: Ah, legal. E é o foco no RH daí\n[LOCUTOR 1]: então? Isso. Elas são do RH. Eu acho que vai entrar a [PESSOA] e a Amanda, que as duas são do RH. Eu falei com a [PESSOA], mas daí tem a Amanda também que ela falou que provavelmente ia entrar.\n[LOCUTOR 3]: Ah, legal.\n[LOCUTOR 1]: Eu até estou tentando falar com o marketing eu antes eu ia tentar fazer uma para entrar todo mundo junto mas aí na época aconteceu isso que eu te falei e o marketing também estava com uma campanha não conseguiu entrada eu falei ah deixa eu vou tentar primeiro RH daí depois\n[LOCUTOR 3]: eu tento\n[LOCUTOR 1]: ver se o marketing é outra pessoa também. Deixa eu falar para ela que a gente está aqui na sala. Eu vou esperar dar 35, [LOCAL], e aí eu vou ligar lá para a empresa\n[LOCUTOR 3]: para...\n[LOCUTOR 1]: Eu espero\n[LOCUTOR 3]: mais\n[LOCUTOR 1]: um pouquinho, não sei.\n[LOCUTOR 3]: O que ela\n[LOCUTOR 1]: me respondeu era... deixa eu ver o que ela quer... 9 horas.\n[LOCUTOR 3]: Ela disse que ia entrar.\n[LOCUTOR 1]: Espera mais um pouquinho. Vou botar no mudo aqui, porque aí a gente está aqui na operação. Eu vou ligar para ela, tá? Vou deixar no mudo aqui e vou ligar para ela. foi. Elas disseram que surgiu um previsto lá de uma entrega e daí depois disso vai ter outras agendas que elas têm e ela não vai conseguir entrar. Daí a gente remarcou para amanhã no mesmo horário. Eu vou alterar a agenda para a gente fazer amanhã. Tem alguma coisa amanhã?\n[LOCUTOR 3]: Não, pode marcar. Tá, então tá.\n[LOCUTOR 1]: Obrigada, tá?\n[LOCUTOR 3]: Eu já\n[LOCUTOR 1]: reagindo lá.\n[LOCUTOR 3]: [LOCAL], Bate. Obrigado.\n[LOCUTOR 1]: [PESSOA], tchau.",
+  "texto_filtrado": "[LOCUTOR 3]: O que.\n[LOCUTOR 1]: [EMPRESA],\n[LOCUTOR 3]: Vamos aguardar o cliente, né,\n[LOCUTOR 1]: pra ver\n[LOCUTOR 1]: Vai dar certo. Ela tinha marcado outro dia, mas faz tempo já dela entrou em férias, ela pediu pra eu esperar um pouco que eles estavam com outro projeto lá. Acho que foi lá por agosto. Daí eu liguei, agendei para ligar agora. Ela estava mais de boa agora nessa época, mais tranquila.\n[LOCUTOR 3]: Ah, legal. E é o foco no RH daí\n[LOCUTOR 1]: então? Isso. Elas são do RH. Eu acho que vai entrar a [PESSOA] e a Amanda, que as duas são do RH. Eu falei com a [PESSOA], mas daí tem a Amanda também que ela falou que provavelmente ia entrar.\n[LOCUTOR 3]: Ah, legal.\n[LOCUTOR 1]: Eu até estou tentando falar com o marketing eu antes eu ia tentar fazer uma para entrar todo mundo junto mas aí na época aconteceu isso que eu te falei e o marketing também estava com uma campanha não conseguiu entrada eu falei ah deixa eu vou tentar primeiro RH daí depois\n[LOCUTOR 1]: ver se o marketing é outra pessoa também. Deixa eu falar para ela que a gente está aqui na sala. Eu vou esperar dar 35, [LOCAL], e aí eu vou ligar lá para a empresa\n[LOCUTOR 3]: para...\n[LOCUTOR 3]: O que ela\n[LOCUTOR 3]: Ela disse que ia entrar.\n[LOCUTOR 1]: Espera mais um pouquinho. Vou botar no mudo aqui, porque aí a gente está aqui na operação. Eu vou ligar para ela, tá? Vou deixar no mudo aqui e vou ligar para ela. foi. Elas disseram que surgiu um previsto lá de uma entrega e daí depois disso vai ter outras agendas que elas têm e ela não vai conseguir entrar. Daí a gente remarcou para amanhã no mesmo horário. Eu vou alterar a agenda para a gente fazer amanhã. Tem alguma coisa amanhã?\n[LOCUTOR 1]: Obrigada, tá?\n[LOCUTOR 1]: reagindo lá.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:41.382883+00:00",
+    "total_linhas": 30,
+    "linhas_mantidas": 16,
+    "linhas_removidas": 14,
+    "percentual_mantido": 53.33,
+    "confianca_media": 0.4599
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 3]: O que.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA], bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4203,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá me ouvindo? Ah, o outro entrou aqui, né? Geralmente, esse outro aqui, ele entra depois. É que eu não tava me ouvindo, eu achei que não tava me ouvindo também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3888,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Vamos aguardar o cliente, né,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: pra ver",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: se tudo dá certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4484,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Vai dar certo. Ela tinha marcado outro dia, mas faz tempo já dela entrou em férias, ela pediu pra eu esperar um pouco que eles estavam com outro projeto lá. Acho que foi lá por agosto. Daí eu liguei, agendei para ligar agora. Ela estava mais de boa agora nessa época, mais tranquila.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4752,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, legal. E é o foco no RH daí",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: então? Isso. Elas são do RH. Eu acho que vai entrar a [PESSOA] e a Amanda, que as duas são do RH. Eu falei com a [PESSOA], mas daí tem a Amanda também que ela falou que provavelmente ia entrar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, legal.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu até estou tentando falar com o marketing eu antes eu ia tentar fazer uma para entrar todo mundo junto mas aí na época aconteceu isso que eu te falei e o marketing também estava com uma campanha não conseguiu entrada eu falei ah deixa eu vou tentar primeiro RH daí depois",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: eu tento",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ver se o marketing é outra pessoa também. Deixa eu falar para ela que a gente está aqui na sala. Eu vou esperar dar 35, [LOCAL], e aí eu vou ligar lá para a empresa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4645,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: para...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Eu espero",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: um pouquinho, não sei.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: O que ela",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: me respondeu era... deixa eu ver o que ela quer... 9 horas.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4508,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ela disse que ia entrar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Espera mais um pouquinho. Vou botar no mudo aqui, porque aí a gente está aqui na operação. Eu vou ligar para ela, tá? Vou deixar no mudo aqui e vou ligar para ela. foi. Elas disseram que surgiu um previsto lá de uma entrega e daí depois disso vai ter outras agendas que elas têm e ela não vai conseguir entrar. Daí a gente remarcou para amanhã no mesmo horário. Eu vou alterar a agenda para a gente fazer amanhã. Tem alguma coisa amanhã?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, pode marcar. Tá, então tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Obrigada, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Eu já",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: reagindo lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], Bate. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

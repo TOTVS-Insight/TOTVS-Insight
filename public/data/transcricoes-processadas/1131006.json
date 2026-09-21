@@ -1,0 +1,1453 @@
+{
+  "id_reuniao": "1131006",
+  "codt": "TFDMZN",
+  "data_reuniao": "2026-03-02 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "POOL DE CONTAS",
+  "segmento": "SERVICOS",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 8]: [EMPRESA], gente, tudo bom?\n[LOCUTOR 44]: [EMPRESA], [PESSOA]. \n[LOCUTOR 4]: bem?\n[LOCUTOR 44]: Tudo bom.\n[LOCUTOR 8]: Tudo, e você?\n[LOCUTOR 44]: Vamos lá, né? Vamos\n[LOCUTOR 8]: explicar.\n[LOCUTOR 44]: Por que minha câmera não habilita aqui?\n[LOCUTOR 12]: Boa tarde, pessoal.\n[LOCUTOR 8]: Boa tarde, tudo bem?\n[LOCUTOR 44]: Tudo, e você?\n[LOCUTOR 12]: Tudo,\n[LOCUTOR 8]: tudo bem?[PESSOA]: E aí, pessoal, tudo bem?[PESSOA]: Como vai? Como vai? [EMPRESA],[PESSOA]: [PESSOA]. [LOCUTOR 61]: de novo aqui, [PESSOA]?\n[LOCUTOR 12]: \n[LOCUTOR 33]: [PESSOA]: executivo tem que falar tanto igual o [PESSOA] esses dias.\n[LOCUTOR 8]: \n[LOCUTOR 13]: aí, Marcelo? E aí,\n[LOCUTOR 44]: [PESSOA], tudo bom?[PESSOA]: Tudo bom. Então,[PESSOA]: gente, vamos... Vamos seguir que eu estou pior do que a telecena porque a telecena é de hora em hora. Eu estou aqui uma telecena pela metade entendeu de meio e meia hora que até cinco e meia.\n[LOCUTOR 8]: Nossa mas está faltando o rapaz lá né que era o principal [PESSOA] não é o nome dele.\n[LOCUTOR 44]: Era o [PESSOA].\n[LOCUTOR 8]: [LOCUTOR 3]: é da R.D. não é. Ele é da [EMPRESA]?\n[LOCUTOR 44]: Não, ele é da... \n[LOCUTOR 20]: acho que\n[LOCUTOR 44]: ele é da [EMPRESA].[PESSOA]: Tá. [LOCUTOR 22]: bom, deixa eu dar um toque nele aqui, vê se ele dá um pouco [PESSOA], mas eu vou [PESSOA]: uma mensagem aqui pra ele, peraí. Engraçado,[PESSOA]: cara. É\n[LOCUTOR 12]: o [PESSOA] ou o [PESSOA], né? Acho que o [PESSOA] é do time do [PESSOA].\n[LOCUTOR 44]: É, ele\n[LOCUTOR 8]: pediu para\n[LOCUTOR 44]: que fosse... Ele pediu para ser\n[LOCUTOR 8]: o [PESSOA].\n[LOCUTOR 44]: [EMPRESA]: \n[LOCUTOR 28]: gente até mudou essa agenda por conta da disponibilidade dele também. Tinha a questão do [PESSOA] também, mas...[PESSOA]: Basicamente é eu mostrar a minha experiência da integração do iPaaS com um software tipo [LOCAL] da vida, né?\n[LOCUTOR 8]: O problema deles é o doutorália, né, que vai integrar também, e o prazo que precisaria. A gente da [EMPRESA] tá só pra constar aí na agenda, porque a gente tá fazendo já o fluxo manual, né, que foi o que a gente acordou na última reunião com o cliente. A questão era mais como que ia funcionar [PESSOA] dentro do [LOCAL] para poder ver as particularidades. Aí o [PESSOA], ele não sabia explicar direito o que que precisava ser feito, pediu para gente alinhar, fazer essa agenda entre você e o [PESSOA] para poder depois marcar com o cliente.\n[LOCUTOR 44]: Aí eu... Eu não sei se tá acordado com o cliente que ele aceitou o manual, tá? É bom a gente, talvez na rodada com eles ali...\n[LOCUTOR 8]: Não, já falei com eles aqui, expliquei,\n[LOCUTOR 44]: porque\n[LOCUTOR 8]: até na reunião inicial, né, que a gente marcou e tal, falei pra [PESSOA] que a gente ia seguir a parte, uma vez que a gente ia fazer essa etapa por aqui, pra eles poderem cancelar lá a outra ferramenta e não ficar pagando as duas. E ficou tudo certo, aí a gente tá fazendo a implementação do nosso lado, semana que vem a gente faz a capacitação com eles.\n[LOCUTOR 44]: Não, beleza.[PESSOA]: Eu espero que eu coloquei no grupo lá, aquela vez que vocês confirmaram, atulio: ideia é explicar para ele como que ele vai fazer a integração com aquele duotempo lá, para agendamento, aquelas coisas. É [PESSOA]?\n[LOCUTOR 8]: [PESSOA], [PESSOA] mesmo.[PESSOA]: Vou até abrir aqui a proposta, que eu lembro que vocês mandaram um grupinho lá. Vamos bajar nela aqui. Tá onde, hein? Ah, tá aqui o grupinho.\n[LOCUTOR 44]: [LOCUTOR 25]: ele? Tá aqui, ó. Vou baixar aqui, ó. Cadê ele, hein? Ele tá no grupo do WhatsApp também? Não, né? Pode privatizar,[PESSOA]: tá? Porque eu acho que o [PESSOA] tinha colocado ele.\n[LOCUTOR 12]: \n[LOCUTOR 20]: vou ligar pro [PESSOA]. Peraí, segura aí. [LOCAL].\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 8]: Boa tarde, [PESSOA]. Tudo bem?[PESSOA] dos \n[LOCUTOR 69]: [EMPRESA], pessoal. Boa tarde. Desculpem o meu atraso. Imagina. É\n[LOCUTOR 8]: que o [PESSOA] tinha pedido para a gente tentar agilizar, porque ele só tem até duas e meia.[PESSOA] dos \n[LOCUTOR 69]: Obrigado, Valência.[PESSOA] (pc): Vou\n[LOCUTOR 8]: colocar só para gravar aqui, gente, para... [PESSOA], você está falando no mudo.[PESSOA]: Boa tarde. Tudo bom, [PESSOA]? Como vai?[PESSOA] dos \n[LOCUTOR 69]: Tudo joia, meu amigo. Tudo joia.[PESSOA]: ...a tela aqui, mas só para alinhar, né? ...aqui é dar uma explicada para o [PESSOA]... ...projeto, que é a integração... ...do RT Conversas Dua tempo, certo? [LOCAL]. Então vamos lá, então. O que acontece, [PESSOA]? O... A gente olha aqui, ó. Deixa eu ver. Aqui, ó. Só para a gente colocar na mesma página. Imagina que a gente... O material... Não, eu vou direto ao ponto. Então, esse aqui é o fluxo de integração do [EMPRESA] que a [EMPRESA] implementa, que basicamente é aquilo, né? Eu identificar a pessoa pelo CPF, né? Bater numa API que já está pronta, que no caso eu trocaria somente o caminho e as credenciais, e eu vou orquestrando tudo [PESSOA].\n[LOCUTOR 19]: [PESSOA] aquitulio: é o que a gente já faz desde sempre. O que é o projeto que a gente está falando aqui? é fazer a mesma coisa com o tal do [LOCAL]. [LOCAL] me confirme, gente. [LOCAL] é o [PESSOA] ou é o sócio específico do cliente? É o nome do serviço lá da doctoralia, entendeu? É [PESSOA]: [LOCAL]. [LOCAL]. Então a integração é pro [PESSOA], mas você chamou aqui de tua tempo, faz tudo [PESSOA]. O que acontece? A gente se baseou nos mesmos API que a gente precisou para integrar com o RM, a gente se baseou para cá. O que que é? Eu preciso ter um serviço para validar o paciente, cada ponto desse para [EMPRESA] [EMPRESA]. Ela vai pegar o fluxo, vai dar o [EMPRESA], [LOCAL] nele. E o que vai ser alterado? Vou dar um exemplo bastante prático aqui, né? Aqui ela valida se o paciente existe ou não. Paciente existe, ele segue o caminho. Paciente não existe, ele cadastra o novo. O que o [EMPRESA] vai entregar para [EMPRESA] [EMPRESA]? um webhook, que é o diagrama feito, que basicamente vai consumir o próprio... as próprias APIs do \n[LOCUTOR 10]: [PESSOA]: ter o mesmo objetivo. Então, na prática, a [EMPRESA], em vez de trocar aqui para uma URL lá de um ambiente de [PESSOA], vai para cada um dos [EMPRESA] que o diagrama construir, que é cada um desses que estão aqui determinados. Aqui tem até um resumo um pouco mais simplista, né? E se eu não me engano, em algum lugar aqui, foi até documentado... Eu acho que é aqui, ó. Tem até o... Aqui são os... Aqui, ó. Cada um dos endereços, né? Que são os endereços que... Do próprio... Que vai ter que ser cadastrado no [EMPRESA], né? [PESSOA], esse\n[LOCUTOR 19]: daí é o serviço da doctorália, né? Que a gente vai consultar. \n[LOCUTOR 59]: foi\n[LOCUTOR 19]: passado... Que o cliente trouxe em reunião pra gente, lembra? [EMPRESA]: [PESSOA]. Então, o que eu entendo que é o projeto, né? É criar um diagrama para cada ponto desse aqui, né? Respeitando aí as características de cada API, para receber esses dados, né? De acordo com o contexto, né? Sei lá, eu quero saber as possibilidades de horário, de datas. Então, eu tenho que passar a unidade, tenho que passar o convênio, né? e aí e devolver a lista do que se precisa. Então é um diagrama para cada cara desse aqui para que a [EMPRESA] ela possa substituir a jornada, não bateram no [LOCAL] e se bateram no [EMPRESA], que o [EMPRESA] vai bater no tua tempo, certo? Aí, para finalizar aqui, para finalizar, eu participei aqui de um projeto, o [PESSOA] até se recorda, que pode ajudar, e aí [PESSOA], eu posso disponibilizar [PESSOA] para você, é até um projeto que o [PESSOA], ele já também tem acesso, esse carinha aqui ó, que chama, Eu acho que é esse aqui, [LOCAL], deixa eu confirmar, é esse aqui. Exatamente. Esse aqui, ele foi uma integração com o [PESSOA]. [PESSOA]. Que a gente fez... A jornada deles lá é um pouco mais simples. Opa! que no caso eu tenho um que devolve a especialidade, eu tenho outro que devolve os locais, o outro que busca as agendas na cara especial local, e que no final grava a agenda. Então é um exemplo só daquilo que é o RT bater aqui ao invés de direto no [EMPRESA]. Gente, é [PESSOA]. Ficou claro aí? Alguma dúvida?\n[LOCUTOR 8]: Você\n[LOCUTOR 19]: pode\n[LOCUTOR 8]: compartilhar com a gente a documentação, por favor?\n[LOCUTOR 19]: \n[LOCUTOR 61]: está falando dessa proposta aqui?\n[LOCUTOR 8]: [PESSOA], só para a gente entender direito.[PESSOA]: \n[LOCUTOR 7]: está notulio: grupo lá, tá? Ela está naquele grupo que o [PESSOA]... Ah,\n[LOCUTOR 8]: você mandou já. Tá, beleza.[PESSOA]: Eu [PESSOA]: pegar aqui para a gente ficar... Cadê? Esse aqui é o nosso grupinho querido lá. essa proposta aqui no dia e [PESSOA] duas propostas que no caso é essa e a outra aquela ali. As duas aqui uma [LOCUTOR 23]: a proposta e o outro o escopo técnico entendeu beleza t\n[LOCUTOR 24]: bom que no meu entendimento aqui tá bem claro tá gente tá bem claro né É assim, em vez do [EMPRESA] bater direto no [EMPRESA], vai bater no IP. Então o IP tem que ter um diagrama para estar na ponta de integração.\n[LOCUTOR 19]: [PESSOA], [PESSOA]. E aí, combinando as agendas, o que é preciso ser feito? Para cada ponto que você for testar ali do fluxo no [EMPRESA], [PESSOA] já estar com o I-PASS junto. Preciso que já esteja de pé o serviço para buscar o diagrama para buscar a consulta da validação do paciente. Então, para que o fluxo ande em testes unitários junto com os testes no I-PASS. E aí o lado do I-PASS vai fazer o que? Vai utilizar... A gente precisa entrar em contato com com o time de TI do cliente, que disponibilizou os dados da API, para que o cliente possa disponibilizar os dados de autenticação para essa API também. E aí o nosso time vai tirar dúvidas técnicas também. Por exemplo, eu vou utilizar ali para validar um paciente. Então, eu vou fazer uma busca dos usuários do serviço. Mas aí eu tenho o quê? O que não tem ali? Detalhes de parâmetros. Então nosso time vai entrar em contato, vai tirar dúvida, vai fazer uma reunião técnica. Fazendo essa reunião técnica, aí a gente vai disponibilizar, testar e disponibilizar. Olha, [PESSOA], para o time da [EMPRESA] [EMPRESA]. Está aqui o diagrama de consulta, a URL de consulta de validação de paciente. E aí, essa conversa técnica tem que rolar com o seu time para fazer os testes unitários. passar um exemplo e tudo mais. Pode falar, [PESSOA].\n[LOCUTOR 44]: Boa tarde, pessoal. O [PESSOA], porque assim, a expectativa do cliente é nesse primeiro momento que está rolando o projeto da RM. Nesse primeiro momento tem o fluxo, vamos pensar assim, iPaaS até o Tô Tempo, até [EMPRESA], ele vai conectar com o legado dele, beleza? O que vai ser para verificar a disponibilidade de agenda, talvez fazer o cadastro do paciente, confirmação e demais. Vai conectar com o legado. No segundo momento, quando tiver o RM implantado, a gente vai ter que tirar essa conexão. Tudo para trás está ok. A gente vai só falar assim, em vez de se apontar para o legado, se aponta agora para o RM. Tá? Então, assim, esse é o ponto do projeto. Qual que é a minha dúvida? É... [PESSOA] APIs pra gente conectar. Aí, pensando no projeto final, tá? Que é conectando com a RM. Pra criar paciente, pra verificar negócio de agenda, tudo [PESSOA] aí do lado da RM, você sabe se já tem [PESSOA] APIs? Por quê? Se a gente não tiver, pelo menos nessa primeira etapa, que é para conectar com o legado, a gente, a equipe aqui da [PESSOA], já vai saber quais são as conexões que vão ter que conectar com o gestor, que é o [EMPRESA]. A gente não tem [PESSOA] APIs, a gente corre, enquanto está rolando o projeto do RM, a gente corre para verificar com o produto quais são [PESSOA] APIs que a gente vai precisar conectar com eles, entendeu? Então, minha d\n[LOCUTOR 6]: é se a gente já tem\n[LOCUTOR 44]: essastulio: atelhas já mapeadas. Se a gente já sabe e se existem, tá? Se você tem essa informação.[PESSOA]: E o ponto qual que é? É porque [PESSOA] demonstrações, historicamente, foi, se não me engano, em outubro, novembro, né? Então, eu não lembro mais com detalhes. Mas, assim, eu vou falar o que eu lembro. Vocês me ajudam a lembrar. Principalmente o [LOCAL] e o [PESSOA]. [PESSOA] aqui\n[LOCUTOR 19]: quetulio: a gente tá falando, est\n[LOCUTOR 24]: mais claro possível porque\n[LOCUTOR 19]: \n[LOCUTOR 23]: a proposta que o cliente assinou. Certo? E no final do dia, parte do princípio que a proposta comercial reflete tudo o que foi combinado com o cliente. Tá legal? Então assim, nessa linha aqui, a gente entende que o [PESSOA], ele tem uma integração com o sistema dele atual. [LOCUTOR 30]: cara. Então, se a gente fizer uma integração, quetulio: é o objetivo dessa proposta, com [PESSOA] APIs, vai estar em uma doutoralia, [PESSOA]: a doutoralia vai gravando esse tema atual dele. Entendeu? [PESSOA]. [LOCUTOR 70]: que que eu não lembro com muitos detalhes? Confesso que eu não lembro. Em algum momento o cliente ia entrar em produção do RM. Eu lembro lá atrás que tinha essa discussão. Quando ele entrar em produção, ele deve continuar querendo usar a doutoralia, porque pra ele é importante, só que ele precisa que essa agenda também bata no RM. Só que o número de onde dá pelo só, que é o do... É o do [EMPRESA], que ele comprou, que ele deve ter aí, [PESSOA]: deve usar para... Ai, meu [PESSOA] do céu! Ele deve usar para outros objetivos, né? Não só para agendar, por [PESSOA] que ele usou. [LOCUTOR 13]: aí, o que acontece? A minha dúvida, eu lembro de alguma coisa quetulio: o \n[LOCUTOR 1]: j\n[LOCUTOR 24]: integrava com o RM. Então, [PESSOA] que está sendo feito aqui\n[LOCUTOR 19]: j\n[LOCUTOR 24]: iria bater no RM. É algo que eu lembro se por alto eu tinha que recuperar a gravação, porque eu não sei, entendeu? Porque qual que é o ponto? Porque se [PESSOA] não for uma verdade, se [PESSOA] não for uma verdade e o cliente vai querer continuar usando [PESSOA], depois de entrar com o [LOCAL] em produção, o diagrama do IPF do\n[LOCUTOR 19]: [PESSOA],[PESSOA]: do [PESSOA], vai ter que além de prever atulio: integração com o teu tempo, teria que fazer também uma integração com o [LOCAL]. Entendeu? [LOCUTOR 39]: que que eu tô falando [PESSOA], gente? Porque não adiantaria usar essa integração que já tem. Se bem que não, gente, se bem que não, porque se ele quer manter o [PESSOA], ele vai ter que ser pra [PESSOA] aqui existir. Tá entendendo o que eu tô querendo dizer? O que eu não sei é o seguinte, depois que o RMI tá em produção, ele vai continuar com o [PESSOA] ou não? Essa é a pergunta.\n[LOCUTOR 44]: \n[LOCUTOR 46]: se ele falar assim,[PESSOA]: ele vai? Então,[PESSOA]: se ele vai, [LOCUTOR 70]: que ele deve estar querendo? Estou me colocando no lugar dele. Que a gente tanto por\n[LOCUTOR 19]: lá...[PESSOA]: Acho que é [PESSOA], acho que ele agenda por lá e também direto pelo [EMPRESA]. Direto pelo [EMPRESA] a gente já sabe o que tem, que é [PESSOA] aqui. Só que o direto por lá vai bater no... Como é o nome do sistema atual dele mesmo? Que eu esqueci?\n[LOCUTOR 44]: Gesta. Gesta,[PESSOA]: que já não tem mais. Entendeu? Então,[PESSOA]: de repente, pode ser [PESSOA] aqui. Se ele é vendado em doctoralia, tem quetulio: também chegar num [LOCAL]. Porque direto pro RM vai ter, que é esse aqui. Então, assim, qual que é o grampo X da questão? Quando eu leio essa proposta aqui, gente, quando eu leio essa proposta aqui, né, e o que eu lembro, a gente tá falando o seguinte, tá? O gesto, [LOCAL], dortalia. O [EMPRESA], pra entrar aqui dentro, e eu acho que não tem nada de [EMPRESA] aqui dentro, tinha que ter [PESSOA] respostas, que confesso a você que eu não me recorto, tá? Eu lembro alguns caminhos, mas eu não me recordo. O que eu falo aqui vai ser chute. Então esse que é o ponto.\n[LOCUTOR 19]: Na época, [PESSOA], eu também não lembro de ter ouvido o nome do RM, sabe? Senão eu teria me preocupado em relação... Putz, vou colocar onde, né? O \n[LOCUTOR 52]: no\n[LOCUTOR 19]: escopo aqui. O gestortulio: eu até me lembro. Mas eu não lembro de pegar esse fluxo e... Se eu vou consultar um paciente ou criar um paciente na doutoralia, Por que que eu tenho que fazer também ele no RM, né?[PESSOA]: Mas a pergunta é a seguinte. Será que o [PESSOA], ele já tem integração com o RM? Entendeu? Sim.\n[LOCUTOR 44]: Não. Hoje ele não tem.[PESSOA]: Não tem. Não tem, né? Vocês estão vendo na minha tela?[PESSOA]: Estou. \n[LOCUTOR 28]: minha dúvida, doutor, porque assim, [PESSOA] aqui é o que vai ficar. [PESSOA] aqui é o legado, o legado e o futuro. O legado é o gesto e o futuro é o RM. A minha dúvida é assim, o cenário que a gente vai criar é o legado, o [EMPRESA] com a [EMPRESA] [LOCAL] [EMPRESA], ou é esse cenário legado, [LOCAL], [EMPRESA] [EMPRESA]?[PESSOA]: Porque\n[LOCUTOR 44]: assim, independente do que seja, a gente vai ter que, em algum momento, a gente vai ter que trocar, apontando para o gestor e depois a gente vai ter que apontar para o RM. E aí eu não seitulio: o que para a gente, olhando o nosso cenário. [PESSOA] parece que [PESSOA] daqui fica mais... Eu acho mais fácil, porque daqui pra trás a gente não conversa mais com ninguém e aquitulio: é uma coisa que a gente vai fazer interna.[PESSOA]: Mas qual que é o ponto? Então a gente tá falando que o iPaaS é uma venda momentânea, porque daqui a cinco meses, sei lá, ele cancela o iPaaS porque ele vai integrar o [LOCAL] direto no... no [EMPRESA], entendeu? E a discussão tinha alguma coisa que não era nesse sentido. Porque assim, é por [PESSOA] que eu falo assim, gente, essa última reunião que eu tive com o cliente foi em novembro, eu não lembro mais. Teria que resgatar a transcrição, [PESSOA] coisas. E na proposta não tá escrito [PESSOA]. A proposta é muito clara. É integrar o [EMPRESA] com o do OTEMPO lá, nesse negócio, que é o [PESSOA] com a [EMPRESA]. Pronto. O que você tá falando é que o cenário era [PESSOA] daqui. Esses três\n[LOCUTOR 19]: quadrados\n[LOCUTOR 44]: aqui.\n[LOCUTOR 19]: [EMPRESA]: Esse é o que está na proposta, que o cliente assinou e passou por todos os crimes. Agora, coloquei um ponto, até para a gente ser um pouco mais objetivo, a dúvida que eu tenho é assim, hoje, hoje, essa integração é importante para o cliente? que ele usa o [PESSOA] e ele usa esse tal do gesto. A pergunta-chave é assim, se alguém podia tentar obter essa informação, claro, com todo o carinho do mundo. Depois que ele entrar com R.I.A. em saúde, o [PESSOA], vai ser interessante pra ele continuar ou não?\n[LOCUTOR 44]: [LOCUTOR 27]: ser? Vai, vai, porque pra eles é um... o [PESSOA] tem um... tipo assim, é um portal de um monte detulio: médica. É um portal mais. É, entendeu?[PESSOA]: Então, o que que a gente tem aqui? No meu entendimento, tá? Pensa que o fluxo que a [LOCAL] vai fazer, que é esse aqui. Vamos imaginar que esse aqui já esteja o fluxo pronto. Ele vai estar... Ah, vocês não estão vendo minha tela mais não, né? [LOCUTOR 16]: botar minha tela aqui. Deixa eu explicar [PESSOA] pra vocês aqui. [LOCUTOR 47]: [PESSOA] que você tá falando se procede mesmo, o que quetulio: tá acontecendo? Tem esse nível de fluxo aqui. tá? Ele já está pronto. Tudo que a gente orquestrou aqui de SRP [EMPRESA], [PESSOA], já foi feito. Então eu tô sempre batendo aqui no iPaaS. Sempre batendo aqui no iPaaS. Não tô batendo mais nesse teclado aqui, ok? [LOCAL]. Qual que é o grande ponto? Eu sempre batendo no iPaaS. Só que o iPaaS, ele tá batendo aonde? Ele tá batendo hoje no [LOCAL], sei lá, né? O que que vai ter que acontecer? Ou a gente vai ter que viabilizar de alguma forma, tá gente? O [PESSOA] e mandar informação para o RM, que é o que o gestor faz hoje, certo? Ou essa integração aqui, ela... Não, cara, mas tem que ser [PESSOA], gente. [PESSOA] parece que essa questão aí, de ele continuar depois do [LOCAL], continuar do [LOCAL], a gente tem que fazer uma integração do [LOCAL] e do [LOCAL]. Porque do [LOCAL], é conseguir recuperar parcimento, incluir, consultar, tudo [PESSOA] aqui, ó. Seria tudo [PESSOA] aqui, cadê? Pro [LOCAL], entendeu? Tudo [PESSOA] aqui para o [LOCAL], por quê? Porque a integração que a gente está promovendo aqui, ela sempre vai funcionar, porque ela é a RSD Conversa e [PESSOA]. Lá eles fizeram uma integração que a gente não tem nada a ver com [PESSOA], com o gesto. Tirou o gesto, vai ter que ter o [LOCAL], entendeu? Aí eu pergunto, em termos de proposta de serviço, a gente não tem [PESSOA] em lugar nenhum previsto, né? Acredito que não. uma eventual integração do [PESSOA] com o gesto? É que pra mim, é que assim, [PESSOA], é que pra gente essa proposta saiu direto pela [EMPRESA], tá? Então a gente não teve acesso, a gente de serviço, tá? Aí quando a gente ficou sabendo já teve esse desenho e foi um pouco do que o cliente trouxe pra gente.[PESSOA]: A\n[LOCUTOR 19]: [PESSOA]: que existe são E com o time da [LOCAL] também. E foram foram foram eles que passaram. [PESSOA] APIs entendeu. Aí [PESSOA]: depois de repentetulio: não passaram para a gente que teria tamb\n[LOCUTOR 31]: o\n[LOCUTOR 19]: gestor juntotulio: e aí acaboutulio: ficando para trás.[PESSOA]: O que todos nós temos que nos esforçar aqui para tentar lembrar e resgatar alguma coisa. É o seguinte. Talvez o cliente tenha entendido por alguém que o [PESSOA] já entregava com a [EMPRESA] ou ele achava que [PESSOA] ia ser automático como uma varinha mágica, entendeu? Doutor,\n[LOCUTOR 12]: desculpa. Desculpa interromper, mas não, ele sabe que o [PESSOA] não entregava com a [EMPRESA] porque foi [PESSOA]: camada adicional na negociação que iniciou.[PESSOA]: Mas cadê? Esse escopo tá onde? Esse esforço? Esse que é o ponto, entendeu?\n[LOCUTOR 44]: Vou te falar assim, [PESSOA], o que tem na proposta pra gente de serviço, falando assim, ah, não tem nada de integração de [EMPRESA] com RM? Tem. Só que tem aqueles dois fluxos padrões, entendeu? Que não é o caso aqui. Aquele fluxotulio: de agendamento e [PESSOA]: fluxo de confirmação.[PESSOA]: Passar uma borracha em tudo aqui. Começar agora. A minha leitura. A gente tem um projeto. Construir os diagramas da [EMPRESA] para entregar o [EMPRESA] Conversas com a doutoralia. [PESSOA] está entendido, está atualizado pelo que eu estou vendo aqui. E tudo direcionado. O que está faltando? Uma integração do doutoralia com a [LOCAL].\n[LOCUTOR 19]: \n[LOCUTOR 68]: esse pós-gestor. Entendeu? [EMPRESA]? Só complementando aí, Tolio, se tá faltando [PESSOA], a gente tá entendendo agora que tá faltando [PESSOA], senão a gente não tinha colocado no escopo. Eu acredito que, por exemplo, criando um paciente no [PESSOA], como o [PESSOA] não integra com o RM, Né então teria que puxar arrastar mais uma ponta depois que eu integreitulio: o cliente no Dr. Olha eu também tenho que puxar uma pontinha e integrar o cliente com o gestor. Só que aí depois o cliente parece que vai trocar o gestor pelotulio: certo.\n[LOCUTOR 44]: [PESSOA] \n[LOCUTOR 23]: certo.\n[LOCUTOR 19]: Só que\n[LOCUTOR 44]: ele\n[LOCUTOR 19]: não já vai ter os dois implantado em produção.[PESSOA]: Mas é que o gesto vai ser desligado entendeu o gesto. Não tudo bem mas é para fazer. faz um post no gestor e faz um post atualizando o cliente também no [EMPRESA] e mantém todos mantém todostulio: os ligados. Tudo bem, tudo bem, mas vai ser desligado, então a gente não vai nem integrar com gestor, vai direto com [EMPRESA] Não,\n[LOCUTOR 44]: não, vai ter que integrar, assim, na cabeça do cliente, tá, [PESSOA], o que eu entendi. Ele mantém com gestor, porque hoje o [PESSOA] já integra com gestor. \n[LOCUTOR 46]: se imagina se eu dou um [EMPRESA] na internet, você é cardiologista, se eu dou um [EMPRESA] com o seu nome e você tem o seu [PESSOA], aparece o [PESSOA] pra você, eu vou lá e agendo, entendeu? Se eu dou um [EMPRESA], mas se eu já sei qual é o seu corpo de agendamento, eu vou direto no seu WhatsApp e agendo. O que a gente tá falando aqui na prática? Que o [PESSOA] tem que bater no RM e o [EMPRESA] tem que bater no RM, entendeu? [PESSOA] é o que está no projeto é o que eu não tinha. Ele não tinha um WhatsApp. Ele só tinha o doctorado. Então por [PESSOA]\n[LOCUTOR 19]: quetulio: quero colocar o WhatsApp. Então vou colocar o WhatsApp e falar com o doctorado. Eu falo com o gesto que é [PESSOA] aqui. Entendeu que é [PESSOA] aqui. [LOCUTOR 17]: resolvido. Falta o salto da perninha. Por que não pode ser híbrido. Porque eu tenho que manter o ciclo livre das vendas. É colocar... Ah, se bem que tem [PESSOA] também, gente. Peraí,\n[LOCUTOR 44]: peraí,[PESSOA]: peraí, peraí,[PESSOA]: peraí, peraí, peraí, peraí, peraí, peraí. Não, não,\n[LOCUTOR 19]: gente. Não, não,[PESSOA]: não. Não, não, não. Para, para, para, para, para, para, para. Tá resolvido já. Peraí, peraí. Calma aí, calma aí. Deixa eu pensar aqui.\n[LOCUTOR 44]: Deixa eu ir falando aqui um ponto, ó. É que assim,[PESSOA]: o doutoradotulio: \n[LOCUTOR 34]: comtulio: gênero... Não, não tá resolvido não. É a mesma coisa. [EMPRESA]?\n[LOCUTOR 44]: A integração do [EMPRESA] com gestor ele já tem, então não vai mudar. É que a gente está colocando esse pedacinho novo. Então esse pedaço para cá com gestor ele já tem, manteria.\n[LOCUTOR 19]: Não precisa,\n[LOCUTOR 44]: né?\n[LOCUTOR 19]: [PESSOA].\n[LOCUTOR 44]: O que a gente vai ter que fazer, que eu concordo com o [PESSOA], é montar uma perninha com [EMPRESA] com RM, que não está previsto. \n[LOCUTOR 62]: que\n[LOCUTOR 44]: é o projeto agora? É fazer esse pedacinho aqui. Essa comunicação. E depois a gente tem que comunicar o [PESSOA] com o [EMPRESA] É,[PESSOA]: não, assim ó. E é até interessante a gente fazer uma provocação aqui. Por que o cliente comprou o [PESSOA] se ele já tinha o [PESSOA]? [LOCUTOR 46]: o [PESSOA] não tinha o WhatsApp. Por [PESSOA] que ele comprou o [PESSOA]. Não, não, não. Ele tem o WhatsApp e ele usa um chat bot designer.[PESSOA]: \n[LOCUTOR 18]: já temtulio: tudo.\n[LOCUTOR 44]: Ele já tem tudo. Na verdade, [PESSOA] daqui, eu não sei como foi a negociação, tá, [PESSOA]? Aí eu disse que você pode ajudar. [PESSOA] tudo aqui, ele já tem. Ele... vamos dizer assim, obrigatoriamente, ele não precisava trocar. Porque ele já tem, e pelo que ele disse, ele tá satisfeito. Só que ele tá trocando tudo por uma solução totos. Então ele tá tirando 200 fornecedores e tô colocando com o fornecedor só. Eu entenditulio: dessa forma.[PESSOA]: Então [PESSOA] aqui não precisa de ser feito? Teoricamente, não. Porque ele já tem. Ele já tem e tá ok pra ele.[PESSOA]: Quando vai trazer no [LOCAL]? Tá previsto pra julho. Aí não sei, a minha leitura é essa, que ele já tem, ele tá trocando pra ter um fornecedor único. Seria [PESSOA], né?\n[LOCUTOR 12]: Sim, quando a gente fez a negociação, então foi dado um desconto bem agressivo. na [EMPRESA], e daí a gente conseguiu embarcar todas as soluções, e visando aí a modernização de todas as ferramentas, eles aceitaram a [EMPRESA]. Tanto que, depois que eles assinaram, nem um mês depois, o Alex quis cancelar a [EMPRESA], justamente por essa questão dele ter essa necessidade de integrar com o doutorado. Mas daí a gente conseguiu reverter, e o cenário é esse.\n[LOCUTOR 44]: Gente,[PESSOA]: eu acho o seguinte, tá?\n[LOCUTOR 12]: [PESSOA] que ele vai querertulio: um serviço, no mínimo, igual ao que ele tem hoje, né? E a doctoral é [PESSOA]: importante pra eles. \n[LOCUTOR 54]: importante. Eu acho que nós vamos ter que dar um passo pra trás, tá? E entender o cenário atual. Porque, assim, ó, baseado no agora, nisso que o [PESSOA] colocou que é importante, eu já tô começando a achar que o escopo da proposta que ele assinou não serve mais pra ele. O que a gente precisa fazer pra ele, já que ele tá prestes a entrar com o [EMPRESA], é integrar o [PESSOA] com o [LOCAL], entendeu? Porque aí vão se colocar no lugar do cliente. O [PESSOA] tem o papel dele lá, multi-canal lá que agenda, mas ele também quer agendar pelo WhatsApp, entendeu? Só que legal, o WhatsApp já faz, que é o focus padrão, só que o [PESSOA] depois quer agendar, tem que bater no [LOCAL]. Então a gente poderia negociar, não sei se os postos são iguais, me parece que Pode ser que sim, tá? Mas me parece que esse escopo tem a chance de virar um escopo de integração do [PESSOA] com [LOCAL], e não [EMPRESA] com o [PESSOA]. Agora\n[LOCUTOR 19]: ficou maistulio: concorrente. Eu entendi o que você falou, tá, [PESSOA]? Valeu. Se ele vai usar [EMPRESA], a gente vai integrar com o [PESSOA], não precisa integrar com o gestor porque vai vai estar replicando.[PESSOA]: [PESSOA] é a disponibilidade de agenda por exemplo. O mandatório é dentro do doutoral e hoje não é no [EMPRESA]. \n[LOCUTOR 56]: é na verdade.\n[LOCUTOR 19]: Pelo quetulio: eu estou vendo. O que acontece o doutor não tem agenda. Ele usa a agenda da origem que no caso era o gestor e vai ser o [EMPRESA]. Porque acho que eu paro de compartilhar minha tela, né? Nossa, tem um executivo aqui xingando até a minha mãe aqui, que eu tive uma reunião com ele, o Lucas. Mas vamos lá. Você quer ir lá,[PESSOA]: [PESSOA]? A gente continua aqui?[PESSOA]: O último ponto aqui ó, então assim ó, esse aqui é o doctoral, então assim ó, vou dar um exemplo aqui ó, eu quero esse cara aqui ó, pronto, esse cara aqui. Então o que acontece? Essa agenda aqui que ele tá mostrando aqui pra mim, eu estou nesse atendimento aqui, tá? Vocês vão entender aqui se eu voltar. Eu quero marcar essa data aqui, certo? Da onde tá vindo [PESSOA] aqui? Hoje do [LOCAL]. Deveria ser no [LOCAL]. Aí o cara vem aqui, clicou e marcou. Aonde ele vai marcar? É no gestor e vai ser no [LOCAL]. Então, fazer o [EMPRESA] integrar com o gestor, até ficar pronto, o cliente já entrou com o [EMPRESA]. Entendeu? A gente colocando eu como paciente, potencial paciente desse cliente. Certo? Quando eu posso ajudar pelo WhatsApp, [EMPRESA] conversas ou por aqui. Como a base de dados dos dois vai ser igual por trás, o que que vai acontecer? Tanto o URD como o VERD. Tanto imposta, né? Pode passar pelo [EMPRESA], né? Porque ele traz essa facilidade, mas a base tem que ser única. Então, disponibilidade de horário, tudo [PESSOA], né? Por [PESSOA] que essa integração do [LOCAL] com a doutoraria é o grande projeto do [EMPRESA] aqui, entendeu? Para a doutoraria continuar sendo operacional, mais outro padrão aqui do [LOCAL]. Inclusive, essa integração aqui, que o padrão já tem, ela poderia ser exatamente igual. Não vai mudar nada. Nada. Entendeu? Por quê? Porque o [LOCAL] já bate aqui direto, E qual que é a garantia que aquele horário, depois que agendar por aqui, não vai aparecer na doutoria? A integração, que não existe. Teria que ser feita. Mas eu acho assim, a gente tem que fazer uma conversa com o cliente e dar esse passo pra trás, sem assustar, pra gente tomar uma ação que faça sentido. Seja que algo que a gente entenda que a gente não fez tudo que deveria fazer ou que o cliente não falou, seja o que for. Não estou nem tratando esse mérito. Mas é assim, O que é importante agora se o cliente falar não abro mão do [PESSOA] e eu vou entrar em produção em [PESSOA] [EMPRESA] [PESSOA]: projeto mudou o escopo mudou.\n[LOCUTOR 44]: Ele não quer ele não quer esperar o [EMPRESA] entrar para ele entrar em produção aqui. Ele quer para meio que imediato vamos dizer assim. Conectado com gesto e para usar porque ele quer parar de pagar o o.[PESSOA]: Tô entendendo, tô entendendo. O bot design para usar para pagar o [EMPRESA], entendeu?[PESSOA]: Ok, aí então esse projeto que continua. Então tudo que a gente falou aqui hoje continua,\n[LOCUTOR 19]: [PESSOA]: a gente tem uma pulguinha atrás da orelha. E é quando ele entrar com o RM na teoria, ele não vai querer não. Hoje ele não vai ter mais Então, tem [PESSOA] a ponto de vista. Então, tudo aqui continua, [PESSOA]: ele quer entrar logo. Só que tem esse risco, né? [LOCUTOR 63]: o escopo muda.  o escopo muda, e ele vai fazer [PESSOA]...\n[LOCUTOR 44]: O escopo muda, o escopo muda seria o [PESSOA] com o [EMPRESA] É essa perninhatulio: que ele tem que fazer.[PESSOA]: Essa perninha que ele tem que fazer. Por quê? Porque se ele falar que não quer mais [PESSOA], a gente já pode colocar na conta um change do [LOCAL]. Pra que ele vai ter o [LOCAL]? Porque ele vai ajudar direto o [EMPRESA] conversas com o [LOCAL], entendeu? E\n[LOCUTOR 19]: já tem nativo,[PESSOA]: já tem direto, né, [PESSOA]: É, exatamente, entendeu? Então,[PESSOA]: apesar de a gente ter um argumento para descascar, se ele falar que ele quer manter o [PESSOA] depois do [LOCAL], É, eu tô achando até melhor exportar esse abacaxi do que dar o [EMPRESA] nos sites do iPad, entendeu?\n[LOCUTOR 44]: Então, mas ó, na sua tela aí, tá vendo que ele tem um monte de, ó, get de... de paciente, de... É,[PESSOA]: mas aqui é o teu tempo, é o teu tempo, é o teu tempo, é o Botox Throne Island. Cara, se você, se não tivesse... Então, [PESSOA]: ele vai ter que fazer um get no RM depois, entendeu?[PESSOA]: Não, aí que tá, porque essa integração do Doctorado com o RM, ela não está prevista em lugar nenhum, porque é diferente dessa aqui. Entendeu? \n[LOCUTOR 58]: diferente\n[LOCUTOR 44]: disso aqui. Mas ele vai precisartulio: fazer todo esse... Ele vai ter que fazertulio: esse GET do mesmo jeito.[PESSOA]: \n[LOCUTOR 36]: bem que é um outrotulio: escorte,\n[LOCUTOR 44]: mas ele vai ter que fazertulio: esse... [PESSOA]. \n[LOCUTOR 11]: a minha dúvida é assim, a gente tem API pra todos esses GETs aqui, cara?[PESSOA]: O que tem, porque eu... [PESSOA] aqui, sim, que [PESSOA] aqui, [PESSOA] aqui é a base da integração do [EMPRESA] com o [LOCAL], entendeu?\n[LOCUTOR 19]: \n[LOCUTOR 67]: a [PESSOA] esse não é o nosso problema, entendeu? Graças a [PESSOA]! Só que acontece na prática, [PESSOA]. O [PESSOA] que tá aqui escutando a gente, ele vai fazer um diagrama. Se ele fizer esse diagrama aqui pra preparar pra [EMPRESA] [EMPRESA], pra ela fazer um GET e botar na jornada, é um diagrama que ele fez pro teu tempo. Se ele precisar fazer a mesma coisa pro RM, é um outro diagrama. Então se ele tinha que construir 10 diagramas, ele vai ter que construir 20. Tudo bem que eles são parecidos, mas tem que construir. Entendeu? E outra coisa, essa integração aqui, essa proposta, ela é do \n[LOCUTOR 15]: [PESSOA]: o sistema [LOCAL]. Então ela é pensada nessa jornada, que é o que eu preciso pra agendar. Quando você pensa do [EMPRESA] para o Rm, eu não sei que a ordem é essa. Eu acho que os dados que são trocados é esse. Mas, de repente, a ordem quem chama o quê é um pouco diferente. Talvez não, tá?\n[LOCUTOR 44]: Entre o [PESSOA] e o [LOCAL], seria com ou sem o IPCC? mais no meio?[PESSOA]: Com toda a certeza, com toda a certeza, porque a gente não pode garantir que as APIs do RM vão ser compatíveis com o do [PESSOA], eu vou ter que ter um integrador no meio, entendeu? Os formatos de data do RM é muito confuso, é muito estranho, então assim, provavelmente, muito provavelmente, nós vamos precisar do 99,9% e houver necessidade de manter o [PESSOA] depois que eu arremetre a reprodução. Gente, eu tenho que ir lá, porque o [LOCAL] tá me xingando já o Lucas.\n[LOCUTOR 19]: \n[LOCUTOR 37]: fazer o seguinte,[PESSOA]: perguntas que a gente tem que ter pra gente esclarecer. Respostas, perdão. Confirmar se realmente ele quer colocar esse o [PESSOA] com o gesto no [LOCAL] para ontem que esse é o escopo original. Ok? Reconfirmar [PESSOA]. E botar esse negócio assim, ó, você vai entrar em julho, mas que vem já em abril. Eu tentava ver [PESSOA] aí. Segundo é, você entrou em produção com a [LOCAL], você vai querer continuar com o [PESSOA]? Ele vai falar, vou, mas vou ter que filmar aqui e não vou ter que ter uma bloca de chifres cascada. Porque ou a gente vai chegar pra ele e falar assim, olha meu amigo, mas você não falou [PESSOA], você não tá orçado, [PESSOA], ou eu vou ter que brigar pro investimento interno, aquela confusão toda. Não,\n[LOCUTOR 44]: acho que aqui cabe, porque vai ter tanto gap. Só pra te liberar, esse vermelho aqui é o cenário que é fora do escopo, é [PESSOA], né? Então, o que tá notulio: escopo \n[LOCUTOR 34]: [PESSOA]: verde, e o que tá fora\n[LOCUTOR 44]: é [PESSOA] daqui.[PESSOA]: Não, peraí, o que tá no escopo, ele é... Cara, pra ficar numa ordem mais adequada, tá? Cada escopo é [EMPRESA], [PESSOA], [PESSOA], [PESSOA]. É essa ordem. É esse daqui,[PESSOA]: esse pedacinho aqui. É,[PESSOA]: mas eu acho que é melhor você colocar uma ordem da esquerda pra direita, que é a ordem do fluxo normal, entendeu? R, R, D, I pass, [LOCAL]. Entendeu?[PESSOA]: A ordem é essa. O cara quer agendar no R, D, e quer ir no [LOCAL]. E tem o I pass no meio. Entendeu? Essa é a ordem mais adequada no meu caso. Então, mas como que vai integrar com o gestor, então? Beleza, eu vou inverter aqui.[PESSOA]: Por quê? Porque o [LOCAL], ele já integra com o gestor sozinho. Ele vai fazertulio: [PESSOA] lá hoje e vai ficar assim.[PESSOA]: É porque [PESSOA] é porque imagina se o [PESSOA] não existe a todos no mundo. O cliente já tem [PESSOA] integrado com o gesto. Entendeu por quais canais pelos canais do [PESSOA] que é site app etc. Ah mas eu quero trocar para a forma de WhatsApp. Não quero mais. Não quero o que eu tenho aqui. Eu quero o [EMPRESA]. Aí nasceu o nosso projeto. Entendeu. Então esse vermelho continua sendo fora do escopo, certo? Nesse caminho inverso mesmo assim.[PESSOA]: E se, caso confirme, que depois do [LOCAL] do RM, ele queira continuar usando o [LOCAL], o gap é [LOCAL] com o RM via iPaaS. Esse é o gap. Autor,[PESSOA] dos \n[LOCUTOR 69]: dei uma\n[LOCUTOR 44]: dúvida.[PESSOA] dos \n[LOCUTOR 69]: Então teria mais 10 fluxos para o gestor RM depois com o iPaaS?[PESSOA]: No princípio, sim. Pode ser um pouco a mais ou pode ser a menos. Se vocês olharem aqui na minha tela, porque conceitualmente, para você marcar uma consulta no WhatsApp ou no Doctoral, o conceito é o mesmo. Você escolhe quem é o médico, qual é o horário e tal. Então, os seus diagramas vão ser até um pouco parecidos. O que vai mudar é só a origem. Um vai usar as APIs do Doctoral e o outro vai usar as APIs do RM.\n[LOCUTOR 44]: Então mas a\n[LOCUTOR 64]: pegando\n[LOCUTOR 44]: a pergunta do [PESSOA] na cabeça do cliente é como se a gente só mudasse o apontamento se a gente vai ter que mudar para passar por aqui o negócio fica até um pouquinho mais complexo né. Complexo não tem um esforço maior na verdade não vou nem dizer que é complexo.[PESSOA]: O resumo da história se o cliente não abrir mão do [PESSOA] depois do [LOCAL] do [EMPRESA] é que a gente tem que construir uma integração com o [PESSOA] com o [EMPRESA] é [PESSOA] e nós vamos construir como? É, mas é o que o [PESSOA] comentou, vai ter mais fluxos para a gente consumir. Mais fluxos,[PESSOA]: é o esforço. É, então,[PESSOA]: é o esforço,[PESSOA]: né? É issotulio: aí, o esforço a mais que não está previsto aqui nessa proposta assinada. Tá,[PESSOA]: deixa eu atender o menino aqui. Tá,[PESSOA]: beleza. A gente tem um grupo lá, pega [PESSOA] informações e a gente marca de novo aqui para conversar. Eu vou mandar esse...[PESSOA]: Manda pra mim primeiro pra me dar um conferio antes, [PESSOA], por favor. Que aí eu mando lá, não quero polêmica à toa. Manda pra mim aqui, deixa eu te dar um conferio com calma e depois a gente coloca no grupo lá. Beleza? Valeu pessoal,[PESSOA]: até mais, [PESSOA]. [EMPRESA], oi. Porque eu não sei. Tudo bem que o projeto dele tem gap pra caramba, tá? Mas daqui eu não sei se foi um problema nosso no entendimento ou se ele mudou alguma coisa no discurso aí, tá? Porque na reunião, naquela sexta-feira que você entrou lá com a gente, pra mim ficou um pouco mais claro sobre essa questão da integração. Por [PESSOA] que eu tenho certeza que ele falou que o doutorado, ele não abre mão, tá?\n[LOCUTOR 19]: [LOCUTOR 18]: não abre\n[LOCUTOR 12]: mão. É uma palavra muito utilizada aqui no [LOCAL]. Não sei no resto do [LOCAL], mas aqui no [LOCAL] todo mundo que é profissional liberal, assim, de hospital, tem o [PESSOA].\n[LOCUTOR 44]: Então, ele... talvez a gente vai ter que ter alguma matinha de para essa demanda.\n[LOCUTOR 12]: O Alex tem noção de que o [PESSOA] era uma nova camada, não foi contemplado como metria de horas para integrar a RM com o [PESSOA], [PESSOA] entrou depois.\n[LOCUTOR 44]: Pode até ser, mas é que pra ele o Doctoral é com o [EMPRESA], ele já tem. É que pra ele é como se fosse assim, ao invés de eu colocar o endereço aponta para o [EMPRESA], você só vai me falar o API que aponta para o AQM. Pra ele é um negócio simples assim, entendeu? Só que não vai ter essa questão do fluxo aqui, do [EMPRESA]. Porque ele vai ter que passar, o [LOCAL] vai ter que orquestrar, pegar [PESSOA] tudo, definir a sequência do fluxo para mandar para o ORM depois.\n[LOCUTOR 19]: \n[LOCUTOR 40]: [PESSOA]. Hoje vai ser assim e depois vai ser assim. Mas\n[LOCUTOR 44]: eu vou mandar esse daqui para o [PESSOA], ele ajusta o diagrama.\n[LOCUTOR 8]: [PESSOA], eu vou pedir só para você comentar com a [PESSOA], que como ela está falando direto com o cliente, então aí os próximos passos do lado de vocês e daqui a gente segue como a gente combinou, fazendo a implementação manual, entre aspas, e aí o que ficar decidido depois desse desenvolvimento, aí a gente integra.\n[LOCUTOR 44]: Eu tenho participado com ela, [PESSOA], mas a\n[LOCUTOR 8]: gente\n[LOCUTOR 44]: reforça ali também que Talvez nesse primeiro momento a gente nem vai comentar que tem esse esforço a mais aqui.\n[LOCUTOR 8]: \n[LOCUTOR 29]: que eu acho, [PESSOA], é que como tem outros gaps, talvez a gente dá um jeito de embutir esse gap, não deixar explícito, que eu não sei se pra ele tá claro que é um gap mesmo. Ou se a gente deixa explícito, tá? Não tem problema. Mas se não for, se para ele não for um problema, a gente mostra. Se for para um problema, como tem outros gaps, a gente tenta embutir o valor nesses outros gaps, entendeu? \n[LOCUTOR 5]: acho que o Alex tem que entender que vai ter mais um gap e conforme for na configuração de proposta de outros, ele vai ter que... Tem que\n[LOCUTOR 44]: falar\n[LOCUTOR 12]: com o Alex, tem que ser claro com o Alex, porque ele tá... Ele pediu bastante transparência, sabe? Porque assim, ele é o braço direito do [PESSOA]. Se ele entender que é necessário e ele sabe tudo que foi negociado, ele consegue a aprovação desse serviço. Então, eu acho\n[LOCUTOR 44]: que o quanto\n[LOCUTOR 12]: antes falar com ele sobre [PESSOA] é bom.\n[LOCUTOR 44]: É, e olhando aqui, ó, você tá vendo minha tela aqui na proposta, né? Aqui deixa bem claro... Cadê o fluxozinho? Cadê? Tinha um lugar aqui que eu tinha visto. Não sei se é essa ou outra proposta que... EuWesley dos \n[LOCUTOR 69]: acho que essa daí mesmo, viu, Marcelo? Acho que tá lá em cima, não é?\n[LOCUTOR 44]: Tá lá em [LOCAL] dos \n[LOCUTOR 69]: [PESSOA] APIs aí que... Estão disponibilizadas?\n[LOCUTOR 44]: Aqui é o começo. Não tinha uma partezinha que o [PESSOA] mostrou? Então mostra lá aqueles três... Aqui ó, esse pedaço. Acho que é aqui. Ó, porque aqui tá falando R, D, I, [EMPRESA], [EMPRESA] e todo o tempo. Aqui nenhum lugar fala de gesto e nenhum lugar fala de R, M.\n[LOCUTOR 19]: É [PESSOA]\n[LOCUTOR 44]: mesmo.\n[LOCUTOR 19]: Foi eu que\n[LOCUTOR 12]: fiz\n[LOCUTOR 19]: esse escopo aí, tá? Foi eu que fiz esse escopo aí.\n[LOCUTOR 44]: Ah, então. Então,\n[LOCUTOR 12]: assim, entendeu? O [EMPRESA], quando for falar com o Alex, até mostre para ele, Alex, para levar para ele de um jeito, olha, é [PESSOA] daqui, tá? Então, lá para frente a gente vai ter que fazer uma outra...\n[LOCUTOR 44]: E até aproveitar que ele assinou recentemente, fala assim, o\n[LOCUTOR 12]: pessoal\n[LOCUTOR 44]: já está construindo, está seguindo esse desenho, blá, blá, blá, só que trazendo o que você conversou com a gente há duas semanas atrás, Assim, a gente olhou mais em detalhe e faltou ligar com o gestor e ligar com a [LOCAL], né? E a gente volta com ele lá. Tá bom.\n[LOCUTOR 12]: Beleza? Beleza, pessoal. Vou deixar ele lá também. Um abraço.\n[LOCUTOR 44]: Valeu, obrigado,\n[LOCUTOR 19]: pessoal.[PESSOA] dos \n[LOCUTOR 69]: [LOCAL],\n[LOCUTOR 19]: tchau.\n[LOCUTOR 44]: Ô, [PESSOA], sobre as agendas ali com o pessoal, tem já alguma programação ali? Porque a gente mostrou aquele cronograma que vocês montaram,\n[LOCUTOR 8]: \n[LOCUTOR 38]: aí tinha lá de... Era de 3 a 6, alguma coisa assim, que tinha uma agenda de capacitação, agenda de não sei o que na semana do dia... Não, não. Na\n[LOCUTOR 44]: verdade, essa\n[LOCUTOR 8]: semana agora, do dia 2 ao dia 6, é a nossa implementação, e aí eu vou mandar para eles as sugestões de agenda para a gente capacitar na próxima semana, que aí é o fechamento com eles.\n[LOCUTOR 44]: Então é por causa disso daqui ó, desse daqui né que você tá falando?\n[LOCUTOR 8]: [PESSOA].\n[LOCUTOR 44]: Então é que como é que tinha [PESSOA] agendas aqui ó, de com o cliente,\n[LOCUTOR 8]: a\n[LOCUTOR 41]: falaram, mas quando que é? Dia 2? Vai ser a semana toda? Vai ser um dia específico?\n[LOCUTOR 8]: Ah, é que [PESSOA] daqui, por exemplo, da configuração do número, é a questão da [EMPRESA] que eu perguntei na última reunião lá pro... para o [PESSOA] e perguntei agora de novo no grupo, que a gente precisa agendar com a pessoa da [EMPRESA], que ele ficou de não passar o nome, ele não passou, lembra? Não sei se você lembra que eu comentei na reunião.\n[LOCUTOR 44]: Eu lembro sobre a confirmação do número lá, mas é que como ficou na semana, eles ficaram esse período que tá com a gente em que quando que vai\n[LOCUTOR 8]: ser?\n[LOCUTOR 44]: É\n[LOCUTOR 8]: o laranjinha, tá vendo? Próximos passos em laranja.\n[LOCUTOR 44]: Então, mas aqui assim, como tá a semana,\n[LOCUTOR 8]: ele\n[LOCUTOR 44]: queria saber, assim, vai\n[LOCUTOR 8]: ser dia\n[LOCUTOR 44]: 9, dia 10,\n[LOCUTOR 8]: e\n[LOCUTOR 44]: foi mais para organizar as agendas aqui com o pessoal. Ah, tá bom, a gente...\n[LOCUTOR 8]: É a\n[LOCUTOR 44]: hora que eu...\n[LOCUTOR 8]: A hora que eu tiver o retorno é porque eu não posso falar por conta do pessoal da [EMPRESA], que são eles que fazem essa etapa. Aí o [PESSOA] me respondendo, eu já entro em contato com a pessoa aqui, não sei se é a [PESSOA], que sempre faz com o time, mas aí ela mudou de área, não sei se ela vai continuar, então eu preciso dessa confirmação. Aí eu já passo para eles, pode deixar.\n[LOCUTOR 44]: E para\n[LOCUTOR 8]: vocês também, onde é já.\n[LOCUTOR 44]: É porque ele perguntou, eu falei, não, não, vai ser na semana, a gente está organizando aqui.\n[LOCUTOR 8]: A desculpa é que realmente eu não sei nem como prever, porque aí eu coloco a semana inteira exatamente porque eu pretendo ver com eles antes de marcar qualquer coisa.\n[LOCUTOR 44]: E aí o que eles pediram assim, se tiver uma agenda, meio que já definir qual o assunto até para ver se ele precisa envolver alguma outra área, algumas outras pessoas. Mas acho que [PESSOA] daqui é mais ETI, né?\n[LOCUTOR 8]: [PESSOA], na verdade as configurações são pelo time de marketing e na hora de fazer a configuração é quem tem acesso ao WhatsApp com o meta, tudo. Eu vou explicar direitinho para eles, vou registrar aqui um e-mail para ficar mais fácil. Eu só estava esperando essa reunião aqui para a gente ver se já tinha algum próximo passo para eu mandar resumido, mas como não tem, Então eu vou mandar do nosso lado, até para eles estarem cientes dos próximos passos e só esperar o [PESSOA] mandar a pessoa e eu já coloco no próprio e-mail a sugestão de agenda.\n[LOCUTOR 44]: Não, beleza, tranquilo.\n[LOCUTOR 8]: Então tá bom, gente.\n[LOCUTOR 44]: [LOCAL]\n[LOCUTOR 8]: aí pelo tempo, a gente vai se falando ali no grupo.\n[LOCUTOR 44]: Tá bom, obrigado.\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 44]: [PESSOA], pode falar.[PESSOA] dos \n[LOCUTOR 69]: Não, eu levantei uma questão com algum grupo do projeto\n[LOCUTOR 44]: A gente tem um interno aqui, tá? [PESSOA] passa o seu número, eu não sei nem quem que tá como admin naquele grupo aqui. Tá, de admin eu não sei, tá? Vou ver aqui.[PESSOA] dos \n[LOCUTOR 69]: Eu te passo, viu Marcelo?\n[LOCUTOR 44]: É o [PESSOA], pede pro [PESSOA], pede pro [PESSOA]. O [PESSOA] tá admin lá, tá ele e o [PESSOA] que é o comercial, mas vem com o [PESSOA].[PESSOA] dos \n[LOCUTOR 69]: Pode deixar, aí eu\n[LOCUTOR 44]: [EMPRESA] dos \n[LOCUTOR 69]: intero aqui junto com vocês.\n[LOCUTOR 44]: Beleza. Obrigado.\n[LOCUTOR 8]: [LOCAL], gente.[PESSOA] dos \n[LOCUTOR 69]: Valeu, pessoal.\n[LOCUTOR 8]: [LOCAL],\n[LOCUTOR 44]: tchau.",
+  "texto_filtrado": "[LOCUTOR 44]: [EMPRESA], [PESSOA].\n[LOCUTOR 44]: Vamos lá, né? Vamos\n[LOCUTOR 8]: explicar.\n[LOCUTOR 33]: [PESSOA]: executivo tem que falar tanto igual o [PESSOA] esses dias.\n[LOCUTOR 13]: aí, Marcelo? E aí,\n[LOCUTOR 44]: [PESSOA], tudo bom?[PESSOA]: Tudo bom. Então,[PESSOA]: gente, vamos... Vamos seguir que eu estou pior do que a telecena porque a telecena é de hora em hora. Eu estou aqui uma telecena pela metade entendeu de meio e meia hora que até cinco e meia.\n[LOCUTOR 44]: Era o [PESSOA].\n[LOCUTOR 8]: [LOCUTOR 3]: é da R.D. não é. Ele é da [EMPRESA]?\n[LOCUTOR 20]: acho que\n[LOCUTOR 12]: o [PESSOA] ou o [PESSOA], né? Acho que o [PESSOA] é do time do [PESSOA].\n[LOCUTOR 44]: É, ele\n[LOCUTOR 8]: pediu para\n[LOCUTOR 44]: que fosse... Ele pediu para ser\n[LOCUTOR 8]: o [PESSOA].\n[LOCUTOR 44]: [EMPRESA]:\n[LOCUTOR 28]: gente até mudou essa agenda por conta da disponibilidade dele também. Tinha a questão do [PESSOA] também, mas...[PESSOA]: Basicamente é eu mostrar a minha experiência da integração do iPaaS com um software tipo [LOCAL] da vida, né?\n[LOCUTOR 8]: O problema deles é o doutorália, né, que vai integrar também, e o prazo que precisaria. A gente da [EMPRESA] tá só pra constar aí na agenda, porque a gente tá fazendo já o fluxo manual, né, que foi o que a gente acordou na última reunião com o cliente. A questão era mais como que ia funcionar [PESSOA] dentro do [LOCAL] para poder ver as particularidades. Aí o [PESSOA], ele não sabia explicar direito o que que precisava ser feito, pediu para gente alinhar, fazer essa agenda entre você e o [PESSOA] para poder depois marcar com o cliente.\n[LOCUTOR 44]: Aí eu... Eu não sei se tá acordado com o cliente que ele aceitou o manual, tá? É bom a gente, talvez na rodada com eles ali...\n[LOCUTOR 44]: porque\n[LOCUTOR 8]: até na reunião inicial, né, que a gente marcou e tal, falei pra [PESSOA] que a gente ia seguir a parte, uma vez que a gente ia fazer essa etapa por aqui, pra eles poderem cancelar lá a outra ferramenta e não ficar pagando as duas. E ficou tudo certo, aí a gente tá fazendo a implementação do nosso lado, semana que vem a gente faz a capacitação com eles.\n[LOCUTOR 44]: Não, beleza.[PESSOA]: Eu espero que eu coloquei no grupo lá, aquela vez que vocês confirmaram, atulio: ideia é explicar para ele como que ele vai fazer a integração com aquele duotempo lá, para agendamento, aquelas coisas. É [PESSOA]?\n[LOCUTOR 8]: [PESSOA], [PESSOA] mesmo.[PESSOA]: Vou até abrir aqui a proposta, que eu lembro que vocês mandaram um grupinho lá. Vamos bajar nela aqui. Tá onde, hein? Ah, tá aqui o grupinho.\n[LOCUTOR 44]: [LOCUTOR 25]: ele? Tá aqui, ó. Vou baixar aqui, ó. Cadê ele, hein? Ele tá no grupo do WhatsApp também? Não, né? Pode privatizar,[PESSOA]: tá? Porque eu acho que o [PESSOA] tinha colocado ele.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 8]: que o [PESSOA] tinha pedido para a gente tentar agilizar, porque ele só tem até duas e meia.[PESSOA] dos\n[LOCUTOR 69]: Tudo joia, meu amigo. Tudo joia.[PESSOA]: ...a tela aqui, mas só para alinhar, né? ...aqui é dar uma explicada para o [PESSOA]... ...projeto, que é a integração... ...do RT Conversas Dua tempo, certo? [LOCAL]. Então vamos lá, então. O que acontece, [PESSOA]? O... A gente olha aqui, ó. Deixa eu ver. Aqui, ó. Só para a gente colocar na mesma página. Imagina que a gente... O material... Não, eu vou direto ao ponto. Então, esse aqui é o fluxo de integração do [EMPRESA] que a [EMPRESA] implementa, que basicamente é aquilo, né? Eu identificar a pessoa pelo CPF, né? Bater numa API que já está pronta, que no caso eu trocaria somente o caminho e as credenciais, e eu vou orquestrando tudo [PESSOA].\n[LOCUTOR 19]: [PESSOA] aquitulio: é o que a gente já faz desde sempre. O que é o projeto que a gente está falando aqui? é fazer a mesma coisa com o tal do [LOCAL]. [LOCAL] me confirme, gente. [LOCAL] é o [PESSOA] ou é o sócio específico do cliente? É o nome do serviço lá da doctoralia, entendeu? É [PESSOA]: [LOCAL]. [LOCAL]. Então a integração é pro [PESSOA], mas você chamou aqui de tua tempo, faz tudo [PESSOA]. O que acontece? A gente se baseou nos mesmos API que a gente precisou para integrar com o RM, a gente se baseou para cá. O que que é? Eu preciso ter um serviço para validar o paciente, cada ponto desse para [EMPRESA] [EMPRESA]. Ela vai pegar o fluxo, vai dar o [EMPRESA], [LOCAL] nele. E o que vai ser alterado? Vou dar um exemplo bastante prático aqui, né? Aqui ela valida se o paciente existe ou não. Paciente existe, ele segue o caminho. Paciente não existe, ele cadastra o novo. O que o [EMPRESA] vai entregar para [EMPRESA] [EMPRESA]? um webhook, que é o diagrama feito, que basicamente vai consumir o próprio... as próprias APIs do\n[LOCUTOR 10]: [PESSOA]: ter o mesmo objetivo. Então, na prática, a [EMPRESA], em vez de trocar aqui para uma URL lá de um ambiente de [PESSOA], vai para cada um dos [EMPRESA] que o diagrama construir, que é cada um desses que estão aqui determinados. Aqui tem até um resumo um pouco mais simplista, né? E se eu não me engano, em algum lugar aqui, foi até documentado... Eu acho que é aqui, ó. Tem até o... Aqui são os... Aqui, ó. Cada um dos endereços, né? Que são os endereços que... Do próprio... Que vai ter que ser cadastrado no [EMPRESA], né? [PESSOA], esse\n[LOCUTOR 19]: daí é o serviço da doctorália, né? Que a gente vai consultar.\n[LOCUTOR 19]: passado... Que o cliente trouxe em reunião pra gente, lembra? [EMPRESA]: [PESSOA]. Então, o que eu entendo que é o projeto, né? É criar um diagrama para cada ponto desse aqui, né? Respeitando aí as características de cada API, para receber esses dados, né? De acordo com o contexto, né? Sei lá, eu quero saber as possibilidades de horário, de datas. Então, eu tenho que passar a unidade, tenho que passar o convênio, né? e aí e devolver a lista do que se precisa. Então é um diagrama para cada cara desse aqui para que a [EMPRESA] ela possa substituir a jornada, não bateram no [LOCAL] e se bateram no [EMPRESA], que o [EMPRESA] vai bater no tua tempo, certo? Aí, para finalizar aqui, para finalizar, eu participei aqui de um projeto, o [PESSOA] até se recorda, que pode ajudar, e aí [PESSOA], eu posso disponibilizar [PESSOA] para você, é até um projeto que o [PESSOA], ele já também tem acesso, esse carinha aqui ó, que chama, Eu acho que é esse aqui, [LOCAL], deixa eu confirmar, é esse aqui. Exatamente. Esse aqui, ele foi uma integração com o [PESSOA]. [PESSOA]. Que a gente fez... A jornada deles lá é um pouco mais simples. Opa! que no caso eu tenho um que devolve a especialidade, eu tenho outro que devolve os locais, o outro que busca as agendas na cara especial local, e que no final grava a agenda. Então é um exemplo só daquilo que é o RT bater aqui ao invés de direto no [EMPRESA]. Gente, é [PESSOA]. Ficou claro aí? Alguma dúvida?\n[LOCUTOR 8]: Você\n[LOCUTOR 19]: pode\n[LOCUTOR 8]: compartilhar com a gente a documentação, por favor?\n[LOCUTOR 61]: está falando dessa proposta aqui?\n[LOCUTOR 8]: [PESSOA], só para a gente entender direito.[PESSOA]:\n[LOCUTOR 7]: está notulio: grupo lá, tá? Ela está naquele grupo que o [PESSOA]... Ah,\n[LOCUTOR 8]: você mandou já. Tá, beleza.[PESSOA]: Eu [PESSOA]: pegar aqui para a gente ficar... Cadê? Esse aqui é o nosso grupinho querido lá. essa proposta aqui no dia e [PESSOA] duas propostas que no caso é essa e a outra aquela ali. As duas aqui uma [LOCUTOR 23]: a proposta e o outro o escopo técnico entendeu beleza t\n[LOCUTOR 24]: bom que no meu entendimento aqui tá bem claro tá gente tá bem claro né É assim, em vez do [EMPRESA] bater direto no [EMPRESA], vai bater no IP. Então o IP tem que ter um diagrama para estar na ponta de integração.\n[LOCUTOR 19]: [PESSOA], [PESSOA]. E aí, combinando as agendas, o que é preciso ser feito? Para cada ponto que você for testar ali do fluxo no [EMPRESA], [PESSOA] já estar com o I-PASS junto. Preciso que já esteja de pé o serviço para buscar o diagrama para buscar a consulta da validação do paciente. Então, para que o fluxo ande em testes unitários junto com os testes no I-PASS. E aí o lado do I-PASS vai fazer o que? Vai utilizar... A gente precisa entrar em contato com com o time de TI do cliente, que disponibilizou os dados da API, para que o cliente possa disponibilizar os dados de autenticação para essa API também. E aí o nosso time vai tirar dúvidas técnicas também. Por exemplo, eu vou utilizar ali para validar um paciente. Então, eu vou fazer uma busca dos usuários do serviço. Mas aí eu tenho o quê? O que não tem ali? Detalhes de parâmetros. Então nosso time vai entrar em contato, vai tirar dúvida, vai fazer uma reunião técnica. Fazendo essa reunião técnica, aí a gente vai disponibilizar, testar e disponibilizar. Olha, [PESSOA], para o time da [EMPRESA] [EMPRESA]. Está aqui o diagrama de consulta, a URL de consulta de validação de paciente. E aí, essa conversa técnica tem que rolar com o seu time para fazer os testes unitários. passar um exemplo e tudo mais. Pode falar, [PESSOA].\n[LOCUTOR 44]: Boa tarde, pessoal. O [PESSOA], porque assim, a expectativa do cliente é nesse primeiro momento que está rolando o projeto da RM. Nesse primeiro momento tem o fluxo, vamos pensar assim, iPaaS até o Tô Tempo, até [EMPRESA], ele vai conectar com o legado dele, beleza? O que vai ser para verificar a disponibilidade de agenda, talvez fazer o cadastro do paciente, confirmação e demais. Vai conectar com o legado. No segundo momento, quando tiver o RM implantado, a gente vai ter que tirar essa conexão. Tudo para trás está ok. A gente vai só falar assim, em vez de se apontar para o legado, se aponta agora para o RM. Tá? Então, assim, esse é o ponto do projeto. Qual que é a minha dúvida? É... [PESSOA] APIs pra gente conectar. Aí, pensando no projeto final, tá? Que é conectando com a RM. Pra criar paciente, pra verificar negócio de agenda, tudo [PESSOA] aí do lado da RM, você sabe se já tem [PESSOA] APIs? Por quê? Se a gente não tiver, pelo menos nessa primeira etapa, que é para conectar com o legado, a gente, a equipe aqui da [PESSOA], já vai saber quais são as conexões que vão ter que conectar com o gestor, que é o [EMPRESA]. A gente não tem [PESSOA] APIs, a gente corre, enquanto está rolando o projeto do RM, a gente corre para verificar com o produto quais são [PESSOA] APIs que a gente vai precisar conectar com eles, entendeu? Então, minha d\n[LOCUTOR 6]: é se a gente já tem\n[LOCUTOR 44]: essastulio: atelhas já mapeadas. Se a gente já sabe e se existem, tá? Se você tem essa informação.[PESSOA]: E o ponto qual que é? É porque [PESSOA] demonstrações, historicamente, foi, se não me engano, em outubro, novembro, né? Então, eu não lembro mais com detalhes. Mas, assim, eu vou falar o que eu lembro. Vocês me ajudam a lembrar. Principalmente o [LOCAL] e o [PESSOA]. [PESSOA] aqui\n[LOCUTOR 19]: quetulio: a gente tá falando, est\n[LOCUTOR 23]: a proposta que o cliente assinou. Certo? E no final do dia, parte do princípio que a proposta comercial reflete tudo o que foi combinado com o cliente. Tá legal? Então assim, nessa linha aqui, a gente entende que o [PESSOA], ele tem uma integração com o sistema dele atual. [LOCUTOR 30]: cara. Então, se a gente fizer uma integração, quetulio: é o objetivo dessa proposta, com [PESSOA] APIs, vai estar em uma doutoralia, [PESSOA]: a doutoralia vai gravando esse tema atual dele. Entendeu? [PESSOA]. [LOCUTOR 70]: que que eu não lembro com muitos detalhes? Confesso que eu não lembro. Em algum momento o cliente ia entrar em produção do RM. Eu lembro lá atrás que tinha essa discussão. Quando ele entrar em produção, ele deve continuar querendo usar a doutoralia, porque pra ele é importante, só que ele precisa que essa agenda também bata no RM. Só que o número de onde dá pelo só, que é o do... É o do [EMPRESA], que ele comprou, que ele deve ter aí, [PESSOA]: deve usar para... Ai, meu [PESSOA] do céu! Ele deve usar para outros objetivos, né? Não só para agendar, por [PESSOA] que ele usou. [LOCUTOR 13]: aí, o que acontece? A minha dúvida, eu lembro de alguma coisa quetulio: o\n[LOCUTOR 24]: integrava com o RM. Então, [PESSOA] que está sendo feito aqui\n[LOCUTOR 24]: iria bater no RM. É algo que eu lembro se por alto eu tinha que recuperar a gravação, porque eu não sei, entendeu? Porque qual que é o ponto? Porque se [PESSOA] não for uma verdade, se [PESSOA] não for uma verdade e o cliente vai querer continuar usando [PESSOA], depois de entrar com o [LOCAL] em produção, o diagrama do IPF do\n[LOCUTOR 19]: [PESSOA],[PESSOA]: do [PESSOA], vai ter que além de prever atulio: integração com o teu tempo, teria que fazer também uma integração com o [LOCAL]. Entendeu? [LOCUTOR 39]: que que eu tô falando [PESSOA], gente? Porque não adiantaria usar essa integração que já tem. Se bem que não, gente, se bem que não, porque se ele quer manter o [PESSOA], ele vai ter que ser pra [PESSOA] aqui existir. Tá entendendo o que eu tô querendo dizer? O que eu não sei é o seguinte, depois que o RMI tá em produção, ele vai continuar com o [PESSOA] ou não? Essa é a pergunta.\n[LOCUTOR 46]: se ele falar assim,[PESSOA]: ele vai? Então,[PESSOA]: se ele vai, [LOCUTOR 70]: que ele deve estar querendo? Estou me colocando no lugar dele. Que a gente tanto por\n[LOCUTOR 19]: lá...[PESSOA]: Acho que é [PESSOA], acho que ele agenda por lá e também direto pelo [EMPRESA]. Direto pelo [EMPRESA] a gente já sabe o que tem, que é [PESSOA] aqui. Só que o direto por lá vai bater no... Como é o nome do sistema atual dele mesmo? Que eu esqueci?\n[LOCUTOR 44]: Gesta. Gesta,[PESSOA]: que já não tem mais. Entendeu? Então,[PESSOA]: de repente, pode ser [PESSOA] aqui. Se ele é vendado em doctoralia, tem quetulio: também chegar num [LOCAL]. Porque direto pro RM vai ter, que é esse aqui. Então, assim, qual que é o grampo X da questão? Quando eu leio essa proposta aqui, gente, quando eu leio essa proposta aqui, né, e o que eu lembro, a gente tá falando o seguinte, tá? O gesto, [LOCAL], dortalia. O [EMPRESA], pra entrar aqui dentro, e eu acho que não tem nada de [EMPRESA] aqui dentro, tinha que ter [PESSOA] respostas, que confesso a você que eu não me recorto, tá? Eu lembro alguns caminhos, mas eu não me recordo. O que eu falo aqui vai ser chute. Então esse que é o ponto.\n[LOCUTOR 19]: Na época, [PESSOA], eu também não lembro de ter ouvido o nome do RM, sabe? Senão eu teria me preocupado em relação... Putz, vou colocar onde, né? O\n[LOCUTOR 19]: escopo aqui. O gestortulio: eu até me lembro. Mas eu não lembro de pegar esse fluxo e... Se eu vou consultar um paciente ou criar um paciente na doutoralia, Por que que eu tenho que fazer também ele no RM, né?[PESSOA]: Mas a pergunta é a seguinte. Será que o [PESSOA], ele já tem integração com o RM? Entendeu? Sim.\n[LOCUTOR 28]: minha dúvida, doutor, porque assim, [PESSOA] aqui é o que vai ficar. [PESSOA] aqui é o legado, o legado e o futuro. O legado é o gesto e o futuro é o RM. A minha dúvida é assim, o cenário que a gente vai criar é o legado, o [EMPRESA] com a [EMPRESA] [LOCAL] [EMPRESA], ou é esse cenário legado, [LOCAL], [EMPRESA] [EMPRESA]?[PESSOA]: Porque\n[LOCUTOR 44]: assim, independente do que seja, a gente vai ter que, em algum momento, a gente vai ter que trocar, apontando para o gestor e depois a gente vai ter que apontar para o RM. E aí eu não seitulio: o que para a gente, olhando o nosso cenário. [PESSOA] parece que [PESSOA] daqui fica mais... Eu acho mais fácil, porque daqui pra trás a gente não conversa mais com ninguém e aquitulio: é uma coisa que a gente vai fazer interna.[PESSOA]: Mas qual que é o ponto? Então a gente tá falando que o iPaaS é uma venda momentânea, porque daqui a cinco meses, sei lá, ele cancela o iPaaS porque ele vai integrar o [LOCAL] direto no... no [EMPRESA], entendeu? E a discussão tinha alguma coisa que não era nesse sentido. Porque assim, é por [PESSOA] que eu falo assim, gente, essa última reunião que eu tive com o cliente foi em novembro, eu não lembro mais. Teria que resgatar a transcrição, [PESSOA] coisas. E na proposta não tá escrito [PESSOA]. A proposta é muito clara. É integrar o [EMPRESA] com o do OTEMPO lá, nesse negócio, que é o [PESSOA] com a [EMPRESA]. Pronto. O que você tá falando é que o cenário era [PESSOA] daqui. Esses três\n[LOCUTOR 19]: quadrados\n[LOCUTOR 44]: aqui.\n[LOCUTOR 19]: [EMPRESA]: Esse é o que está na proposta, que o cliente assinou e passou por todos os crimes. Agora, coloquei um ponto, até para a gente ser um pouco mais objetivo, a dúvida que eu tenho é assim, hoje, hoje, essa integração é importante para o cliente? que ele usa o [PESSOA] e ele usa esse tal do gesto. A pergunta-chave é assim, se alguém podia tentar obter essa informação, claro, com todo o carinho do mundo. Depois que ele entrar com R.I.A. em saúde, o [PESSOA], vai ser interessante pra ele continuar ou não?\n[LOCUTOR 44]: [LOCUTOR 27]: ser? Vai, vai, porque pra eles é um... o [PESSOA] tem um... tipo assim, é um portal de um monte detulio: médica. É um portal mais. É, entendeu?[PESSOA]: Então, o que que a gente tem aqui? No meu entendimento, tá? Pensa que o fluxo que a [LOCAL] vai fazer, que é esse aqui. Vamos imaginar que esse aqui já esteja o fluxo pronto. Ele vai estar... Ah, vocês não estão vendo minha tela mais não, né? [LOCUTOR 16]: botar minha tela aqui. Deixa eu explicar [PESSOA] pra vocês aqui. [LOCUTOR 47]: [PESSOA] que você tá falando se procede mesmo, o que quetulio: tá acontecendo? Tem esse nível de fluxo aqui. tá? Ele já está pronto. Tudo que a gente orquestrou aqui de SRP [EMPRESA], [PESSOA], já foi feito. Então eu tô sempre batendo aqui no iPaaS. Sempre batendo aqui no iPaaS. Não tô batendo mais nesse teclado aqui, ok? [LOCAL]. Qual que é o grande ponto? Eu sempre batendo no iPaaS. Só que o iPaaS, ele tá batendo aonde? Ele tá batendo hoje no [LOCAL], sei lá, né? O que que vai ter que acontecer? Ou a gente vai ter que viabilizar de alguma forma, tá gente? O [PESSOA] e mandar informação para o RM, que é o que o gestor faz hoje, certo? Ou essa integração aqui, ela... Não, cara, mas tem que ser [PESSOA], gente. [PESSOA] parece que essa questão aí, de ele continuar depois do [LOCAL], continuar do [LOCAL], a gente tem que fazer uma integração do [LOCAL] e do [LOCAL]. Porque do [LOCAL], é conseguir recuperar parcimento, incluir, consultar, tudo [PESSOA] aqui, ó. Seria tudo [PESSOA] aqui, cadê? Pro [LOCAL], entendeu? Tudo [PESSOA] aqui para o [LOCAL], por quê? Porque a integração que a gente está promovendo aqui, ela sempre vai funcionar, porque ela é a RSD Conversa e [PESSOA]. Lá eles fizeram uma integração que a gente não tem nada a ver com [PESSOA], com o gesto. Tirou o gesto, vai ter que ter o [LOCAL], entendeu? Aí eu pergunto, em termos de proposta de serviço, a gente não tem [PESSOA] em lugar nenhum previsto, né? Acredito que não. uma eventual integração do [PESSOA] com o gesto? É que pra mim, é que assim, [PESSOA], é que pra gente essa proposta saiu direto pela [EMPRESA], tá? Então a gente não teve acesso, a gente de serviço, tá? Aí quando a gente ficou sabendo já teve esse desenho e foi um pouco do que o cliente trouxe pra gente.[PESSOA]: A\n[LOCUTOR 19]: [PESSOA]: que existe são E com o time da [LOCAL] também. E foram foram foram eles que passaram. [PESSOA] APIs entendeu. Aí [PESSOA]: depois de repentetulio: não passaram para a gente que teria tamb\n[LOCUTOR 19]: gestor juntotulio: e aí acaboutulio: ficando para trás.[PESSOA]: O que todos nós temos que nos esforçar aqui para tentar lembrar e resgatar alguma coisa. É o seguinte. Talvez o cliente tenha entendido por alguém que o [PESSOA] já entregava com a [EMPRESA] ou ele achava que [PESSOA] ia ser automático como uma varinha mágica, entendeu? Doutor,\n[LOCUTOR 12]: desculpa. Desculpa interromper, mas não, ele sabe que o [PESSOA] não entregava com a [EMPRESA] porque foi [PESSOA]: camada adicional na negociação que iniciou.[PESSOA]: Mas cadê? Esse escopo tá onde? Esse esforço? Esse que é o ponto, entendeu?\n[LOCUTOR 44]: Vou te falar assim, [PESSOA], o que tem na proposta pra gente de serviço, falando assim, ah, não tem nada de integração de [EMPRESA] com RM? Tem. Só que tem aqueles dois fluxos padrões, entendeu? Que não é o caso aqui. Aquele fluxotulio: de agendamento e [PESSOA]: fluxo de confirmação.[PESSOA]: Passar uma borracha em tudo aqui. Começar agora. A minha leitura. A gente tem um projeto. Construir os diagramas da [EMPRESA] para entregar o [EMPRESA] Conversas com a doutoralia. [PESSOA] está entendido, está atualizado pelo que eu estou vendo aqui. E tudo direcionado. O que está faltando? Uma integração do doutoralia com a [LOCAL].\n[LOCUTOR 68]: esse pós-gestor. Entendeu? [EMPRESA]? Só complementando aí, Tolio, se tá faltando [PESSOA], a gente tá entendendo agora que tá faltando [PESSOA], senão a gente não tinha colocado no escopo. Eu acredito que, por exemplo, criando um paciente no [PESSOA], como o [PESSOA] não integra com o RM, Né então teria que puxar arrastar mais uma ponta depois que eu integreitulio: o cliente no Dr. Olha eu também tenho que puxar uma pontinha e integrar o cliente com o gestor. Só que aí depois o cliente parece que vai trocar o gestor pelotulio: certo.\n[LOCUTOR 44]: [PESSOA]\n[LOCUTOR 19]: Só que\n[LOCUTOR 19]: não já vai ter os dois implantado em produção.[PESSOA]: Mas é que o gesto vai ser desligado entendeu o gesto. Não tudo bem mas é para fazer. faz um post no gestor e faz um post atualizando o cliente também no [EMPRESA] e mantém todos mantém todostulio: os ligados. Tudo bem, tudo bem, mas vai ser desligado, então a gente não vai nem integrar com gestor, vai direto com [EMPRESA] Não,\n[LOCUTOR 44]: não, vai ter que integrar, assim, na cabeça do cliente, tá, [PESSOA], o que eu entendi. Ele mantém com gestor, porque hoje o [PESSOA] já integra com gestor.\n[LOCUTOR 46]: se imagina se eu dou um [EMPRESA] na internet, você é cardiologista, se eu dou um [EMPRESA] com o seu nome e você tem o seu [PESSOA], aparece o [PESSOA] pra você, eu vou lá e agendo, entendeu? Se eu dou um [EMPRESA], mas se eu já sei qual é o seu corpo de agendamento, eu vou direto no seu WhatsApp e agendo. O que a gente tá falando aqui na prática? Que o [PESSOA] tem que bater no RM e o [EMPRESA] tem que bater no RM, entendeu? [PESSOA] é o que está no projeto é o que eu não tinha. Ele não tinha um WhatsApp. Ele só tinha o doctorado. Então por [PESSOA]\n[LOCUTOR 19]: quetulio: quero colocar o WhatsApp. Então vou colocar o WhatsApp e falar com o doctorado. Eu falo com o gesto que é [PESSOA] aqui. Entendeu que é [PESSOA] aqui. [LOCUTOR 17]: resolvido. Falta o salto da perninha. Por que não pode ser híbrido. Porque eu tenho que manter o ciclo livre das vendas. É colocar... Ah, se bem que tem [PESSOA] também, gente. Peraí,\n[LOCUTOR 44]: A integração do [EMPRESA] com gestor ele já tem, então não vai mudar. É que a gente está colocando esse pedacinho novo. Então esse pedaço para cá com gestor ele já tem, manteria.\n[LOCUTOR 19]: [PESSOA].\n[LOCUTOR 44]: O que a gente vai ter que fazer, que eu concordo com o [PESSOA], é montar uma perninha com [EMPRESA] com RM, que não está previsto.\n[LOCUTOR 44]: é o projeto agora? É fazer esse pedacinho aqui. Essa comunicação. E depois a gente tem que comunicar o [PESSOA] com o [EMPRESA] É,[PESSOA]: não, assim ó. E é até interessante a gente fazer uma provocação aqui. Por que o cliente comprou o [PESSOA] se ele já tinha o [PESSOA]? [LOCUTOR 46]: o [PESSOA] não tinha o WhatsApp. Por [PESSOA] que ele comprou o [PESSOA]. Não, não, não. Ele tem o WhatsApp e ele usa um chat bot designer.[PESSOA]:\n[LOCUTOR 44]: Ele já tem tudo. Na verdade, [PESSOA] daqui, eu não sei como foi a negociação, tá, [PESSOA]? Aí eu disse que você pode ajudar. [PESSOA] tudo aqui, ele já tem. Ele... vamos dizer assim, obrigatoriamente, ele não precisava trocar. Porque ele já tem, e pelo que ele disse, ele tá satisfeito. Só que ele tá trocando tudo por uma solução totos. Então ele tá tirando 200 fornecedores e tô colocando com o fornecedor só. Eu entenditulio: dessa forma.[PESSOA]: Então [PESSOA] aqui não precisa de ser feito? Teoricamente, não. Porque ele já tem. Ele já tem e tá ok pra ele.[PESSOA]: Quando vai trazer no [LOCAL]? Tá previsto pra julho. Aí não sei, a minha leitura é essa, que ele já tem, ele tá trocando pra ter um fornecedor único. Seria [PESSOA], né?\n[LOCUTOR 12]: Sim, quando a gente fez a negociação, então foi dado um desconto bem agressivo. na [EMPRESA], e daí a gente conseguiu embarcar todas as soluções, e visando aí a modernização de todas as ferramentas, eles aceitaram a [EMPRESA]. Tanto que, depois que eles assinaram, nem um mês depois, o Alex quis cancelar a [EMPRESA], justamente por essa questão dele ter essa necessidade de integrar com o doutorado. Mas daí a gente conseguiu reverter, e o cenário é esse.\n[LOCUTOR 12]: [PESSOA] que ele vai querertulio: um serviço, no mínimo, igual ao que ele tem hoje, né? E a doctoral é [PESSOA]: importante pra eles.\n[LOCUTOR 54]: importante. Eu acho que nós vamos ter que dar um passo pra trás, tá? E entender o cenário atual. Porque, assim, ó, baseado no agora, nisso que o [PESSOA] colocou que é importante, eu já tô começando a achar que o escopo da proposta que ele assinou não serve mais pra ele. O que a gente precisa fazer pra ele, já que ele tá prestes a entrar com o [EMPRESA], é integrar o [PESSOA] com o [LOCAL], entendeu? Porque aí vão se colocar no lugar do cliente. O [PESSOA] tem o papel dele lá, multi-canal lá que agenda, mas ele também quer agendar pelo WhatsApp, entendeu? Só que legal, o WhatsApp já faz, que é o focus padrão, só que o [PESSOA] depois quer agendar, tem que bater no [LOCAL]. Então a gente poderia negociar, não sei se os postos são iguais, me parece que Pode ser que sim, tá? Mas me parece que esse escopo tem a chance de virar um escopo de integração do [PESSOA] com [LOCAL], e não [EMPRESA] com o [PESSOA]. Agora\n[LOCUTOR 19]: ficou maistulio: concorrente. Eu entendi o que você falou, tá, [PESSOA]? Valeu. Se ele vai usar [EMPRESA], a gente vai integrar com o [PESSOA], não precisa integrar com o gestor porque vai vai estar replicando.[PESSOA]: [PESSOA] é a disponibilidade de agenda por exemplo. O mandatório é dentro do doutoral e hoje não é no [EMPRESA].\n[LOCUTOR 56]: é na verdade.\n[LOCUTOR 19]: Pelo quetulio: eu estou vendo. O que acontece o doutor não tem agenda. Ele usa a agenda da origem que no caso era o gestor e vai ser o [EMPRESA]. Porque acho que eu paro de compartilhar minha tela, né? Nossa, tem um executivo aqui xingando até a minha mãe aqui, que eu tive uma reunião com ele, o Lucas. Mas vamos lá. Você quer ir lá,[PESSOA]: [PESSOA]? A gente continua aqui?[PESSOA]: O último ponto aqui ó, então assim ó, esse aqui é o doctoral, então assim ó, vou dar um exemplo aqui ó, eu quero esse cara aqui ó, pronto, esse cara aqui. Então o que acontece? Essa agenda aqui que ele tá mostrando aqui pra mim, eu estou nesse atendimento aqui, tá? Vocês vão entender aqui se eu voltar. Eu quero marcar essa data aqui, certo? Da onde tá vindo [PESSOA] aqui? Hoje do [LOCAL]. Deveria ser no [LOCAL]. Aí o cara vem aqui, clicou e marcou. Aonde ele vai marcar? É no gestor e vai ser no [LOCAL]. Então, fazer o [EMPRESA] integrar com o gestor, até ficar pronto, o cliente já entrou com o [EMPRESA]. Entendeu? A gente colocando eu como paciente, potencial paciente desse cliente. Certo? Quando eu posso ajudar pelo WhatsApp, [EMPRESA] conversas ou por aqui. Como a base de dados dos dois vai ser igual por trás, o que que vai acontecer? Tanto o URD como o VERD. Tanto imposta, né? Pode passar pelo [EMPRESA], né? Porque ele traz essa facilidade, mas a base tem que ser única. Então, disponibilidade de horário, tudo [PESSOA], né? Por [PESSOA] que essa integração do [LOCAL] com a doutoraria é o grande projeto do [EMPRESA] aqui, entendeu? Para a doutoraria continuar sendo operacional, mais outro padrão aqui do [LOCAL]. Inclusive, essa integração aqui, que o padrão já tem, ela poderia ser exatamente igual. Não vai mudar nada. Nada. Entendeu? Por quê? Porque o [LOCAL] já bate aqui direto, E qual que é a garantia que aquele horário, depois que agendar por aqui, não vai aparecer na doutoria? A integração, que não existe. Teria que ser feita. Mas eu acho assim, a gente tem que fazer uma conversa com o cliente e dar esse passo pra trás, sem assustar, pra gente tomar uma ação que faça sentido. Seja que algo que a gente entenda que a gente não fez tudo que deveria fazer ou que o cliente não falou, seja o que for. Não estou nem tratando esse mérito. Mas é assim, O que é importante agora se o cliente falar não abro mão do [PESSOA] e eu vou entrar em produção em [PESSOA] [EMPRESA] [PESSOA]: projeto mudou o escopo mudou.\n[LOCUTOR 44]: Ele não quer ele não quer esperar o [EMPRESA] entrar para ele entrar em produção aqui. Ele quer para meio que imediato vamos dizer assim. Conectado com gesto e para usar porque ele quer parar de pagar o o.[PESSOA]: Tô entendendo, tô entendendo. O bot design para usar para pagar o [EMPRESA], entendeu?[PESSOA]: Ok, aí então esse projeto que continua. Então tudo que a gente falou aqui hoje continua,\n[LOCUTOR 19]: [PESSOA]: a gente tem uma pulguinha atrás da orelha. E é quando ele entrar com o RM na teoria, ele não vai querer não. Hoje ele não vai ter mais Então, tem [PESSOA] a ponto de vista. Então, tudo aqui continua, [PESSOA]: ele quer entrar logo. Só que tem esse risco, né? [LOCUTOR 63]: o escopo muda.  o escopo muda, e ele vai fazer [PESSOA]...\n[LOCUTOR 44]: O escopo muda, o escopo muda seria o [PESSOA] com o [EMPRESA] É essa perninhatulio: que ele tem que fazer.[PESSOA]: Essa perninha que ele tem que fazer. Por quê? Porque se ele falar que não quer mais [PESSOA], a gente já pode colocar na conta um change do [LOCAL]. Pra que ele vai ter o [LOCAL]? Porque ele vai ajudar direto o [EMPRESA] conversas com o [LOCAL], entendeu? E\n[LOCUTOR 19]: já tem nativo,[PESSOA]: já tem direto, né, [PESSOA]: É, exatamente, entendeu? Então,[PESSOA]: apesar de a gente ter um argumento para descascar, se ele falar que ele quer manter o [PESSOA] depois do [LOCAL], É, eu tô achando até melhor exportar esse abacaxi do que dar o [EMPRESA] nos sites do iPad, entendeu?\n[LOCUTOR 44]: Então, mas ó, na sua tela aí, tá vendo que ele tem um monte de, ó, get de... de paciente, de... É,[PESSOA]: mas aqui é o teu tempo, é o teu tempo, é o teu tempo, é o Botox Throne Island. Cara, se você, se não tivesse... Então, [PESSOA]: ele vai ter que fazer um get no RM depois, entendeu?[PESSOA]: Não, aí que tá, porque essa integração do Doctorado com o RM, ela não está prevista em lugar nenhum, porque é diferente dessa aqui. Entendeu?\n[LOCUTOR 58]: diferente\n[LOCUTOR 44]: disso aqui. Mas ele vai precisartulio: fazer todo esse... Ele vai ter que fazertulio: esse GET do mesmo jeito.[PESSOA]:\n[LOCUTOR 36]: bem que é um outrotulio: escorte,\n[LOCUTOR 44]: mas ele vai ter que fazertulio: esse... [PESSOA].\n[LOCUTOR 11]: a minha dúvida é assim, a gente tem API pra todos esses GETs aqui, cara?[PESSOA]: O que tem, porque eu... [PESSOA] aqui, sim, que [PESSOA] aqui, [PESSOA] aqui é a base da integração do [EMPRESA] com o [LOCAL], entendeu?\n[LOCUTOR 67]: a [PESSOA] esse não é o nosso problema, entendeu? Graças a [PESSOA]! Só que acontece na prática, [PESSOA]. O [PESSOA] que tá aqui escutando a gente, ele vai fazer um diagrama. Se ele fizer esse diagrama aqui pra preparar pra [EMPRESA] [EMPRESA], pra ela fazer um GET e botar na jornada, é um diagrama que ele fez pro teu tempo. Se ele precisar fazer a mesma coisa pro RM, é um outro diagrama. Então se ele tinha que construir 10 diagramas, ele vai ter que construir 20. Tudo bem que eles são parecidos, mas tem que construir. Entendeu? E outra coisa, essa integração aqui, essa proposta, ela é do\n[LOCUTOR 15]: [PESSOA]: o sistema [LOCAL]. Então ela é pensada nessa jornada, que é o que eu preciso pra agendar. Quando você pensa do [EMPRESA] para o Rm, eu não sei que a ordem é essa. Eu acho que os dados que são trocados é esse. Mas, de repente, a ordem quem chama o quê é um pouco diferente. Talvez não, tá?\n[LOCUTOR 44]: Entre o [PESSOA] e o [LOCAL], seria com ou sem o IPCC? mais no meio?[PESSOA]: Com toda a certeza, com toda a certeza, porque a gente não pode garantir que as APIs do RM vão ser compatíveis com o do [PESSOA], eu vou ter que ter um integrador no meio, entendeu? Os formatos de data do RM é muito confuso, é muito estranho, então assim, provavelmente, muito provavelmente, nós vamos precisar do 99,9% e houver necessidade de manter o [PESSOA] depois que eu arremetre a reprodução. Gente, eu tenho que ir lá, porque o [LOCAL] tá me xingando já o Lucas.\n[LOCUTOR 37]: fazer o seguinte,[PESSOA]: perguntas que a gente tem que ter pra gente esclarecer. Respostas, perdão. Confirmar se realmente ele quer colocar esse o [PESSOA] com o gesto no [LOCAL] para ontem que esse é o escopo original. Ok? Reconfirmar [PESSOA]. E botar esse negócio assim, ó, você vai entrar em julho, mas que vem já em abril. Eu tentava ver [PESSOA] aí. Segundo é, você entrou em produção com a [LOCAL], você vai querer continuar com o [PESSOA]? Ele vai falar, vou, mas vou ter que filmar aqui e não vou ter que ter uma bloca de chifres cascada. Porque ou a gente vai chegar pra ele e falar assim, olha meu amigo, mas você não falou [PESSOA], você não tá orçado, [PESSOA], ou eu vou ter que brigar pro investimento interno, aquela confusão toda. Não,\n[LOCUTOR 44]: acho que aqui cabe, porque vai ter tanto gap. Só pra te liberar, esse vermelho aqui é o cenário que é fora do escopo, é [PESSOA], né? Então, o que tá notulio: escopo\n[LOCUTOR 34]: [PESSOA]: verde, e o que tá fora\n[LOCUTOR 44]: é [PESSOA] daqui.[PESSOA]: Não, peraí, o que tá no escopo, ele é... Cara, pra ficar numa ordem mais adequada, tá? Cada escopo é [EMPRESA], [PESSOA], [PESSOA], [PESSOA]. É essa ordem. É esse daqui,[PESSOA]: esse pedacinho aqui. É,[PESSOA]: mas eu acho que é melhor você colocar uma ordem da esquerda pra direita, que é a ordem do fluxo normal, entendeu? R, R, D, I pass, [LOCAL]. Entendeu?[PESSOA]: A ordem é essa. O cara quer agendar no R, D, e quer ir no [LOCAL]. E tem o I pass no meio. Entendeu? Essa é a ordem mais adequada no meu caso. Então, mas como que vai integrar com o gestor, então? Beleza, eu vou inverter aqui.[PESSOA]: Por quê? Porque o [LOCAL], ele já integra com o gestor sozinho. Ele vai fazertulio: [PESSOA] lá hoje e vai ficar assim.[PESSOA]: É porque [PESSOA] é porque imagina se o [PESSOA] não existe a todos no mundo. O cliente já tem [PESSOA] integrado com o gesto. Entendeu por quais canais pelos canais do [PESSOA] que é site app etc. Ah mas eu quero trocar para a forma de WhatsApp. Não quero mais. Não quero o que eu tenho aqui. Eu quero o [EMPRESA]. Aí nasceu o nosso projeto. Entendeu. Então esse vermelho continua sendo fora do escopo, certo? Nesse caminho inverso mesmo assim.[PESSOA]: E se, caso confirme, que depois do [LOCAL] do RM, ele queira continuar usando o [LOCAL], o gap é [LOCAL] com o RM via iPaaS. Esse é o gap. Autor,[PESSOA] dos\n[LOCUTOR 69]: dei uma\n[LOCUTOR 44]: dúvida.[PESSOA] dos\n[LOCUTOR 69]: Então teria mais 10 fluxos para o gestor RM depois com o iPaaS?[PESSOA]: No princípio, sim. Pode ser um pouco a mais ou pode ser a menos. Se vocês olharem aqui na minha tela, porque conceitualmente, para você marcar uma consulta no WhatsApp ou no Doctoral, o conceito é o mesmo. Você escolhe quem é o médico, qual é o horário e tal. Então, os seus diagramas vão ser até um pouco parecidos. O que vai mudar é só a origem. Um vai usar as APIs do Doctoral e o outro vai usar as APIs do RM.\n[LOCUTOR 44]: Então mas a\n[LOCUTOR 64]: pegando\n[LOCUTOR 44]: a pergunta do [PESSOA] na cabeça do cliente é como se a gente só mudasse o apontamento se a gente vai ter que mudar para passar por aqui o negócio fica até um pouquinho mais complexo né. Complexo não tem um esforço maior na verdade não vou nem dizer que é complexo.[PESSOA]: O resumo da história se o cliente não abrir mão do [PESSOA] depois do [LOCAL] do [EMPRESA] é que a gente tem que construir uma integração com o [PESSOA] com o [EMPRESA] é [PESSOA] e nós vamos construir como? É, mas é o que o [PESSOA] comentou, vai ter mais fluxos para a gente consumir. Mais fluxos,[PESSOA]: é o esforço. É, então,[PESSOA]: é o esforço,[PESSOA]: né? É issotulio: aí, o esforço a mais que não está previsto aqui nessa proposta assinada. Tá,[PESSOA]: deixa eu atender o menino aqui. Tá,[PESSOA]: beleza. A gente tem um grupo lá, pega [PESSOA] informações e a gente marca de novo aqui para conversar. Eu vou mandar esse...[PESSOA]: Manda pra mim primeiro pra me dar um conferio antes, [PESSOA], por favor. Que aí eu mando lá, não quero polêmica à toa. Manda pra mim aqui, deixa eu te dar um conferio com calma e depois a gente coloca no grupo lá. Beleza? Valeu pessoal,[PESSOA]: até mais, [PESSOA]. [EMPRESA], oi. Porque eu não sei. Tudo bem que o projeto dele tem gap pra caramba, tá? Mas daqui eu não sei se foi um problema nosso no entendimento ou se ele mudou alguma coisa no discurso aí, tá? Porque na reunião, naquela sexta-feira que você entrou lá com a gente, pra mim ficou um pouco mais claro sobre essa questão da integração. Por [PESSOA] que eu tenho certeza que ele falou que o doutorado, ele não abre mão, tá?\n[LOCUTOR 12]: mão. É uma palavra muito utilizada aqui no [LOCAL]. Não sei no resto do [LOCAL], mas aqui no [LOCAL] todo mundo que é profissional liberal, assim, de hospital, tem o [PESSOA].\n[LOCUTOR 44]: Então, ele... talvez a gente vai ter que ter alguma matinha de para essa demanda.\n[LOCUTOR 12]: O Alex tem noção de que o [PESSOA] era uma nova camada, não foi contemplado como metria de horas para integrar a RM com o [PESSOA], [PESSOA] entrou depois.\n[LOCUTOR 44]: Pode até ser, mas é que pra ele o Doctoral é com o [EMPRESA], ele já tem. É que pra ele é como se fosse assim, ao invés de eu colocar o endereço aponta para o [EMPRESA], você só vai me falar o API que aponta para o AQM. Pra ele é um negócio simples assim, entendeu? Só que não vai ter essa questão do fluxo aqui, do [EMPRESA]. Porque ele vai ter que passar, o [LOCAL] vai ter que orquestrar, pegar [PESSOA] tudo, definir a sequência do fluxo para mandar para o ORM depois.\n[LOCUTOR 40]: [PESSOA]. Hoje vai ser assim e depois vai ser assim. Mas\n[LOCUTOR 8]: [PESSOA], eu vou pedir só para você comentar com a [PESSOA], que como ela está falando direto com o cliente, então aí os próximos passos do lado de vocês e daqui a gente segue como a gente combinou, fazendo a implementação manual, entre aspas, e aí o que ficar decidido depois desse desenvolvimento, aí a gente integra.\n[LOCUTOR 44]: Eu tenho participado com ela, [PESSOA], mas a\n[LOCUTOR 8]: gente\n[LOCUTOR 44]: reforça ali também que Talvez nesse primeiro momento a gente nem vai comentar que tem esse esforço a mais aqui.\n[LOCUTOR 29]: que eu acho, [PESSOA], é que como tem outros gaps, talvez a gente dá um jeito de embutir esse gap, não deixar explícito, que eu não sei se pra ele tá claro que é um gap mesmo. Ou se a gente deixa explícito, tá? Não tem problema. Mas se não for, se para ele não for um problema, a gente mostra. Se for para um problema, como tem outros gaps, a gente tenta embutir o valor nesses outros gaps, entendeu?\n[LOCUTOR 5]: acho que o Alex tem que entender que vai ter mais um gap e conforme for na configuração de proposta de outros, ele vai ter que... Tem que\n[LOCUTOR 44]: falar\n[LOCUTOR 12]: com o Alex, tem que ser claro com o Alex, porque ele tá... Ele pediu bastante transparência, sabe? Porque assim, ele é o braço direito do [PESSOA]. Se ele entender que é necessário e ele sabe tudo que foi negociado, ele consegue a aprovação desse serviço. Então, eu acho\n[LOCUTOR 44]: que o quanto\n[LOCUTOR 12]: antes falar com ele sobre [PESSOA] é bom.\n[LOCUTOR 44]: É, e olhando aqui, ó, você tá vendo minha tela aqui na proposta, né? Aqui deixa bem claro... Cadê o fluxozinho? Cadê? Tinha um lugar aqui que eu tinha visto. Não sei se é essa ou outra proposta que... EuWesley dos\n[LOCUTOR 69]: acho que essa daí mesmo, viu, Marcelo? Acho que tá lá em cima, não é?\n[LOCUTOR 44]: Tá lá em [LOCAL] dos\n[LOCUTOR 69]: [PESSOA] APIs aí que... Estão disponibilizadas?\n[LOCUTOR 44]: Aqui é o começo. Não tinha uma partezinha que o [PESSOA] mostrou? Então mostra lá aqueles três... Aqui ó, esse pedaço. Acho que é aqui. Ó, porque aqui tá falando R, D, I, [EMPRESA], [EMPRESA] e todo o tempo. Aqui nenhum lugar fala de gesto e nenhum lugar fala de R, M.\n[LOCUTOR 19]: É [PESSOA]\n[LOCUTOR 44]: mesmo.\n[LOCUTOR 19]: Foi eu que\n[LOCUTOR 19]: esse escopo aí, tá? Foi eu que fiz esse escopo aí.\n[LOCUTOR 44]: Ah, então. Então,\n[LOCUTOR 12]: assim, entendeu? O [EMPRESA], quando for falar com o Alex, até mostre para ele, Alex, para levar para ele de um jeito, olha, é [PESSOA] daqui, tá? Então, lá para frente a gente vai ter que fazer uma outra...\n[LOCUTOR 44]: E até aproveitar que ele assinou recentemente, fala assim, o\n[LOCUTOR 44]: já está construindo, está seguindo esse desenho, blá, blá, blá, só que trazendo o que você conversou com a gente há duas semanas atrás, Assim, a gente olhou mais em detalhe e faltou ligar com o gestor e ligar com a [LOCAL], né? E a gente volta com ele lá. Tá bom.\n[LOCUTOR 69]: [LOCAL],\n[LOCUTOR 44]: Ô, [PESSOA], sobre as agendas ali com o pessoal, tem já alguma programação ali? Porque a gente mostrou aquele cronograma que vocês montaram,\n[LOCUTOR 38]: aí tinha lá de... Era de 3 a 6, alguma coisa assim, que tinha uma agenda de capacitação, agenda de não sei o que na semana do dia... Não, não. Na\n[LOCUTOR 44]: verdade, essa\n[LOCUTOR 8]: semana agora, do dia 2 ao dia 6, é a nossa implementação, e aí eu vou mandar para eles as sugestões de agenda para a gente capacitar na próxima semana, que aí é o fechamento com eles.\n[LOCUTOR 44]: Então é por causa disso daqui ó, desse daqui né que você tá falando?\n[LOCUTOR 8]: [PESSOA].\n[LOCUTOR 44]: Então é que como é que tinha [PESSOA] agendas aqui ó, de com o cliente,\n[LOCUTOR 41]: falaram, mas quando que é? Dia 2? Vai ser a semana toda? Vai ser um dia específico?\n[LOCUTOR 8]: Ah, é que [PESSOA] daqui, por exemplo, da configuração do número, é a questão da [EMPRESA] que eu perguntei na última reunião lá pro... para o [PESSOA] e perguntei agora de novo no grupo, que a gente precisa agendar com a pessoa da [EMPRESA], que ele ficou de não passar o nome, ele não passou, lembra? Não sei se você lembra que eu comentei na reunião.\n[LOCUTOR 44]: Eu lembro sobre a confirmação do número lá, mas é que como ficou na semana, eles ficaram esse período que tá com a gente em que quando que vai\n[LOCUTOR 8]: o laranjinha, tá vendo? Próximos passos em laranja.\n[LOCUTOR 44]: queria saber, assim, vai\n[LOCUTOR 8]: ser dia\n[LOCUTOR 44]: foi mais para organizar as agendas aqui com o pessoal. Ah, tá bom, a gente...\n[LOCUTOR 44]: hora que eu...\n[LOCUTOR 8]: A hora que eu tiver o retorno é porque eu não posso falar por conta do pessoal da [EMPRESA], que são eles que fazem essa etapa. Aí o [PESSOA] me respondendo, eu já entro em contato com a pessoa aqui, não sei se é a [PESSOA], que sempre faz com o time, mas aí ela mudou de área, não sei se ela vai continuar, então eu preciso dessa confirmação. Aí eu já passo para eles, pode deixar.\n[LOCUTOR 44]: E para\n[LOCUTOR 44]: E aí o que eles pediram assim, se tiver uma agenda, meio que já definir qual o assunto até para ver se ele precisa envolver alguma outra área, algumas outras pessoas. Mas acho que [PESSOA] daqui é mais ETI, né?\n[LOCUTOR 8]: [PESSOA], na verdade as configurações são pelo time de marketing e na hora de fazer a configuração é quem tem acesso ao WhatsApp com o meta, tudo. Eu vou explicar direitinho para eles, vou registrar aqui um e-mail para ficar mais fácil. Eu só estava esperando essa reunião aqui para a gente ver se já tinha algum próximo passo para eu mandar resumido, mas como não tem, Então eu vou mandar do nosso lado, até para eles estarem cientes dos próximos passos e só esperar o [PESSOA] mandar a pessoa e eu já coloco no próprio e-mail a sugestão de agenda.\n[LOCUTOR 44]: [LOCAL]\n[LOCUTOR 8]: aí pelo tempo, a gente vai se falando ali no grupo.\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 44]: [PESSOA], pode falar.[PESSOA] dos\n[LOCUTOR 69]: Não, eu levantei uma questão com algum grupo do projeto\n[LOCUTOR 69]: Eu te passo, viu Marcelo?\n[LOCUTOR 44]: É o [PESSOA], pede pro [PESSOA], pede pro [PESSOA]. O [PESSOA] tá admin lá, tá ele e o [PESSOA] que é o comercial, mas vem com o [PESSOA].[PESSOA] dos\n[LOCUTOR 69]: Pode deixar, aí eu\n[LOCUTOR 44]: [EMPRESA] dos\n[LOCUTOR 69]: intero aqui junto com vocês.\n[LOCUTOR 8]: [LOCAL], gente.[PESSOA] dos\n[LOCUTOR 8]: [LOCAL],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:00.350619+00:00",
+    "total_linhas": 238,
+    "linhas_mantidas": 163,
+    "linhas_removidas": 75,
+    "percentual_mantido": 68.49,
+    "confianca_media": 0.4753
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 8]: [EMPRESA], gente, tudo bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4526,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA], [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tudo bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tudo, e você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Vamos lá, né? Vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: explicar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Por que minha câmera não habilita aqui?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4323,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Boa tarde, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3861,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Boa tarde, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tudo, e você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tudo,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tudo bem?[PESSOA]: E aí, pessoal, tudo bem?[PESSOA]: Como vai? Como vai? [EMPRESA],[PESSOA]: [PESSOA]. [LOCUTOR 61]: de novo aqui, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4224,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [PESSOA]: executivo tem que falar tanto igual o [PESSOA] esses dias.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 13]: aí, Marcelo? E aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [PESSOA], tudo bom?[PESSOA]: Tudo bom. Então,[PESSOA]: gente, vamos... Vamos seguir que eu estou pior do que a telecena porque a telecena é de hora em hora. Eu estou aqui uma telecena pela metade entendeu de meio e meia hora que até cinco e meia.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5014,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Nossa mas está faltando o rapaz lá né que era o principal [PESSOA] não é o nome dele.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4221,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Era o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 3]: é da R.D. não é. Ele é da [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4816,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, ele é da...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.44,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: ele é da [EMPRESA].[PESSOA]: Tá. [LOCUTOR 22]: bom, deixa eu dar um toque nele aqui, vê se ele dá um pouco [PESSOA], mas eu vou [PESSOA]: uma mensagem aqui pra ele, peraí. Engraçado,[PESSOA]: cara. É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o [PESSOA] ou o [PESSOA], né? Acho que o [PESSOA] é do time do [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5894,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: pediu para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: que fosse... Ele pediu para ser",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA]:",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: gente até mudou essa agenda por conta da disponibilidade dele também. Tinha a questão do [PESSOA] também, mas...[PESSOA]: Basicamente é eu mostrar a minha experiência da integração do iPaaS com um software tipo [LOCAL] da vida, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: O problema deles é o doutorália, né, que vai integrar também, e o prazo que precisaria. A gente da [EMPRESA] tá só pra constar aí na agenda, porque a gente tá fazendo já o fluxo manual, né, que foi o que a gente acordou na última reunião com o cliente. A questão era mais como que ia funcionar [PESSOA] dentro do [LOCAL] para poder ver as particularidades. Aí o [PESSOA], ele não sabia explicar direito o que que precisava ser feito, pediu para gente alinhar, fazer essa agenda entre você e o [PESSOA] para poder depois marcar com o cliente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Aí eu... Eu não sei se tá acordado com o cliente que ele aceitou o manual, tá? É bom a gente, talvez na rodada com eles ali...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não, já falei com eles aqui, expliquei,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: até na reunião inicial, né, que a gente marcou e tal, falei pra [PESSOA] que a gente ia seguir a parte, uma vez que a gente ia fazer essa etapa por aqui, pra eles poderem cancelar lá a outra ferramenta e não ficar pagando as duas. E ficou tudo certo, aí a gente tá fazendo a implementação do nosso lado, semana que vem a gente faz a capacitação com eles.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, beleza.[PESSOA]: Eu espero que eu coloquei no grupo lá, aquela vez que vocês confirmaram, atulio: ideia é explicar para ele como que ele vai fazer a integração com aquele duotempo lá, para agendamento, aquelas coisas. É [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA], [PESSOA] mesmo.[PESSOA]: Vou até abrir aqui a proposta, que eu lembro que vocês mandaram um grupinho lá. Vamos bajar nela aqui. Tá onde, hein? Ah, tá aqui o grupinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCUTOR 25]: ele? Tá aqui, ó. Vou baixar aqui, ó. Cadê ele, hein? Ele tá no grupo do WhatsApp também? Não, né? Pode privatizar,[PESSOA]: tá? Porque eu acho que o [PESSOA] tinha colocado ele.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 20]: vou ligar pro [PESSOA]. Peraí, segura aí. [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Boa tarde, [PESSOA]. Tudo bem?[PESSOA] dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: [EMPRESA], pessoal. Boa tarde. Desculpem o meu atraso. Imagina. É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3989,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que o [PESSOA] tinha pedido para a gente tentar agilizar, porque ele só tem até duas e meia.[PESSOA] dos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5011,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: Obrigado, Valência.[PESSOA] (pc): Vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.366,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: colocar só para gravar aqui, gente, para... [PESSOA], você está falando no mudo.[PESSOA]: Boa tarde. Tudo bom, [PESSOA]? Como vai?[PESSOA] dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4302,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: Tudo joia, meu amigo. Tudo joia.[PESSOA]: ...a tela aqui, mas só para alinhar, né? ...aqui é dar uma explicada para o [PESSOA]... ...projeto, que é a integração... ...do RT Conversas Dua tempo, certo? [LOCAL]. Então vamos lá, então. O que acontece, [PESSOA]? O... A gente olha aqui, ó. Deixa eu ver. Aqui, ó. Só para a gente colocar na mesma página. Imagina que a gente... O material... Não, eu vou direto ao ponto. Então, esse aqui é o fluxo de integração do [EMPRESA] que a [EMPRESA] implementa, que basicamente é aquilo, né? Eu identificar a pessoa pelo CPF, né? Bater numa API que já está pronta, que no caso eu trocaria somente o caminho e as credenciais, e eu vou orquestrando tudo [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA] aquitulio: é o que a gente já faz desde sempre. O que é o projeto que a gente está falando aqui? é fazer a mesma coisa com o tal do [LOCAL]. [LOCAL] me confirme, gente. [LOCAL] é o [PESSOA] ou é o sócio específico do cliente? É o nome do serviço lá da doctoralia, entendeu? É [PESSOA]: [LOCAL]. [LOCAL]. Então a integração é pro [PESSOA], mas você chamou aqui de tua tempo, faz tudo [PESSOA]. O que acontece? A gente se baseou nos mesmos API que a gente precisou para integrar com o RM, a gente se baseou para cá. O que que é? Eu preciso ter um serviço para validar o paciente, cada ponto desse para [EMPRESA] [EMPRESA]. Ela vai pegar o fluxo, vai dar o [EMPRESA], [LOCAL] nele. E o que vai ser alterado? Vou dar um exemplo bastante prático aqui, né? Aqui ela valida se o paciente existe ou não. Paciente existe, ele segue o caminho. Paciente não existe, ele cadastra o novo. O que o [EMPRESA] vai entregar para [EMPRESA] [EMPRESA]? um webhook, que é o diagrama feito, que basicamente vai consumir o próprio... as próprias APIs do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [PESSOA]: ter o mesmo objetivo. Então, na prática, a [EMPRESA], em vez de trocar aqui para uma URL lá de um ambiente de [PESSOA], vai para cada um dos [EMPRESA] que o diagrama construir, que é cada um desses que estão aqui determinados. Aqui tem até um resumo um pouco mais simplista, né? E se eu não me engano, em algum lugar aqui, foi até documentado... Eu acho que é aqui, ó. Tem até o... Aqui são os... Aqui, ó. Cada um dos endereços, né? Que são os endereços que... Do próprio... Que vai ter que ser cadastrado no [EMPRESA], né? [PESSOA], esse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: daí é o serviço da doctorália, né? Que a gente vai consultar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 59]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: passado... Que o cliente trouxe em reunião pra gente, lembra? [EMPRESA]: [PESSOA]. Então, o que eu entendo que é o projeto, né? É criar um diagrama para cada ponto desse aqui, né? Respeitando aí as características de cada API, para receber esses dados, né? De acordo com o contexto, né? Sei lá, eu quero saber as possibilidades de horário, de datas. Então, eu tenho que passar a unidade, tenho que passar o convênio, né? e aí e devolver a lista do que se precisa. Então é um diagrama para cada cara desse aqui para que a [EMPRESA] ela possa substituir a jornada, não bateram no [LOCAL] e se bateram no [EMPRESA], que o [EMPRESA] vai bater no tua tempo, certo? Aí, para finalizar aqui, para finalizar, eu participei aqui de um projeto, o [PESSOA] até se recorda, que pode ajudar, e aí [PESSOA], eu posso disponibilizar [PESSOA] para você, é até um projeto que o [PESSOA], ele já também tem acesso, esse carinha aqui ó, que chama, Eu acho que é esse aqui, [LOCAL], deixa eu confirmar, é esse aqui. Exatamente. Esse aqui, ele foi uma integração com o [PESSOA]. [PESSOA]. Que a gente fez... A jornada deles lá é um pouco mais simples. Opa! que no caso eu tenho um que devolve a especialidade, eu tenho outro que devolve os locais, o outro que busca as agendas na cara especial local, e que no final grava a agenda. Então é um exemplo só daquilo que é o RT bater aqui ao invés de direto no [EMPRESA]. Gente, é [PESSOA]. Ficou claro aí? Alguma dúvida?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: compartilhar com a gente a documentação, por favor?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 61]: está falando dessa proposta aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA], só para a gente entender direito.[PESSOA]:",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: está notulio: grupo lá, tá? Ela está naquele grupo que o [PESSOA]... Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: você mandou já. Tá, beleza.[PESSOA]: Eu [PESSOA]: pegar aqui para a gente ficar... Cadê? Esse aqui é o nosso grupinho querido lá. essa proposta aqui no dia e [PESSOA] duas propostas que no caso é essa e a outra aquela ali. As duas aqui uma [LOCUTOR 23]: a proposta e o outro o escopo técnico entendeu beleza t",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]: bom que no meu entendimento aqui tá bem claro tá gente tá bem claro né É assim, em vez do [EMPRESA] bater direto no [EMPRESA], vai bater no IP. Então o IP tem que ter um diagrama para estar na ponta de integração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA], [PESSOA]. E aí, combinando as agendas, o que é preciso ser feito? Para cada ponto que você for testar ali do fluxo no [EMPRESA], [PESSOA] já estar com o I-PASS junto. Preciso que já esteja de pé o serviço para buscar o diagrama para buscar a consulta da validação do paciente. Então, para que o fluxo ande em testes unitários junto com os testes no I-PASS. E aí o lado do I-PASS vai fazer o que? Vai utilizar... A gente precisa entrar em contato com com o time de TI do cliente, que disponibilizou os dados da API, para que o cliente possa disponibilizar os dados de autenticação para essa API também. E aí o nosso time vai tirar dúvidas técnicas também. Por exemplo, eu vou utilizar ali para validar um paciente. Então, eu vou fazer uma busca dos usuários do serviço. Mas aí eu tenho o quê? O que não tem ali? Detalhes de parâmetros. Então nosso time vai entrar em contato, vai tirar dúvida, vai fazer uma reunião técnica. Fazendo essa reunião técnica, aí a gente vai disponibilizar, testar e disponibilizar. Olha, [PESSOA], para o time da [EMPRESA] [EMPRESA]. Está aqui o diagrama de consulta, a URL de consulta de validação de paciente. E aí, essa conversa técnica tem que rolar com o seu time para fazer os testes unitários. passar um exemplo e tudo mais. Pode falar, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Boa tarde, pessoal. O [PESSOA], porque assim, a expectativa do cliente é nesse primeiro momento que está rolando o projeto da RM. Nesse primeiro momento tem o fluxo, vamos pensar assim, iPaaS até o Tô Tempo, até [EMPRESA], ele vai conectar com o legado dele, beleza? O que vai ser para verificar a disponibilidade de agenda, talvez fazer o cadastro do paciente, confirmação e demais. Vai conectar com o legado. No segundo momento, quando tiver o RM implantado, a gente vai ter que tirar essa conexão. Tudo para trás está ok. A gente vai só falar assim, em vez de se apontar para o legado, se aponta agora para o RM. Tá? Então, assim, esse é o ponto do projeto. Qual que é a minha dúvida? É... [PESSOA] APIs pra gente conectar. Aí, pensando no projeto final, tá? Que é conectando com a RM. Pra criar paciente, pra verificar negócio de agenda, tudo [PESSOA] aí do lado da RM, você sabe se já tem [PESSOA] APIs? Por quê? Se a gente não tiver, pelo menos nessa primeira etapa, que é para conectar com o legado, a gente, a equipe aqui da [PESSOA], já vai saber quais são as conexões que vão ter que conectar com o gestor, que é o [EMPRESA]. A gente não tem [PESSOA] APIs, a gente corre, enquanto está rolando o projeto do RM, a gente corre para verificar com o produto quais são [PESSOA] APIs que a gente vai precisar conectar com eles, entendeu? Então, minha d",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: é se a gente já tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: essastulio: atelhas já mapeadas. Se a gente já sabe e se existem, tá? Se você tem essa informação.[PESSOA]: E o ponto qual que é? É porque [PESSOA] demonstrações, historicamente, foi, se não me engano, em outubro, novembro, né? Então, eu não lembro mais com detalhes. Mas, assim, eu vou falar o que eu lembro. Vocês me ajudam a lembrar. Principalmente o [LOCAL] e o [PESSOA]. [PESSOA] aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: quetulio: a gente tá falando, est",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: mais claro possível porque",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 23]: a proposta que o cliente assinou. Certo? E no final do dia, parte do princípio que a proposta comercial reflete tudo o que foi combinado com o cliente. Tá legal? Então assim, nessa linha aqui, a gente entende que o [PESSOA], ele tem uma integração com o sistema dele atual. [LOCUTOR 30]: cara. Então, se a gente fizer uma integração, quetulio: é o objetivo dessa proposta, com [PESSOA] APIs, vai estar em uma doutoralia, [PESSOA]: a doutoralia vai gravando esse tema atual dele. Entendeu? [PESSOA]. [LOCUTOR 70]: que que eu não lembro com muitos detalhes? Confesso que eu não lembro. Em algum momento o cliente ia entrar em produção do RM. Eu lembro lá atrás que tinha essa discussão. Quando ele entrar em produção, ele deve continuar querendo usar a doutoralia, porque pra ele é importante, só que ele precisa que essa agenda também bata no RM. Só que o número de onde dá pelo só, que é o do... É o do [EMPRESA], que ele comprou, que ele deve ter aí, [PESSOA]: deve usar para... Ai, meu [PESSOA] do céu! Ele deve usar para outros objetivos, né? Não só para agendar, por [PESSOA] que ele usou. [LOCUTOR 13]: aí, o que acontece? A minha dúvida, eu lembro de alguma coisa quetulio: o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: integrava com o RM. Então, [PESSOA] que está sendo feito aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: iria bater no RM. É algo que eu lembro se por alto eu tinha que recuperar a gravação, porque eu não sei, entendeu? Porque qual que é o ponto? Porque se [PESSOA] não for uma verdade, se [PESSOA] não for uma verdade e o cliente vai querer continuar usando [PESSOA], depois de entrar com o [LOCAL] em produção, o diagrama do IPF do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA],[PESSOA]: do [PESSOA], vai ter que além de prever atulio: integração com o teu tempo, teria que fazer também uma integração com o [LOCAL]. Entendeu? [LOCUTOR 39]: que que eu tô falando [PESSOA], gente? Porque não adiantaria usar essa integração que já tem. Se bem que não, gente, se bem que não, porque se ele quer manter o [PESSOA], ele vai ter que ser pra [PESSOA] aqui existir. Tá entendendo o que eu tô querendo dizer? O que eu não sei é o seguinte, depois que o RMI tá em produção, ele vai continuar com o [PESSOA] ou não? Essa é a pergunta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 46]: se ele falar assim,[PESSOA]: ele vai? Então,[PESSOA]: se ele vai, [LOCUTOR 70]: que ele deve estar querendo? Estou me colocando no lugar dele. Que a gente tanto por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: lá...[PESSOA]: Acho que é [PESSOA], acho que ele agenda por lá e também direto pelo [EMPRESA]. Direto pelo [EMPRESA] a gente já sabe o que tem, que é [PESSOA] aqui. Só que o direto por lá vai bater no... Como é o nome do sistema atual dele mesmo? Que eu esqueci?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Gesta. Gesta,[PESSOA]: que já não tem mais. Entendeu? Então,[PESSOA]: de repente, pode ser [PESSOA] aqui. Se ele é vendado em doctoralia, tem quetulio: também chegar num [LOCAL]. Porque direto pro RM vai ter, que é esse aqui. Então, assim, qual que é o grampo X da questão? Quando eu leio essa proposta aqui, gente, quando eu leio essa proposta aqui, né, e o que eu lembro, a gente tá falando o seguinte, tá? O gesto, [LOCAL], dortalia. O [EMPRESA], pra entrar aqui dentro, e eu acho que não tem nada de [EMPRESA] aqui dentro, tinha que ter [PESSOA] respostas, que confesso a você que eu não me recorto, tá? Eu lembro alguns caminhos, mas eu não me recordo. O que eu falo aqui vai ser chute. Então esse que é o ponto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Na época, [PESSOA], eu também não lembro de ter ouvido o nome do RM, sabe? Senão eu teria me preocupado em relação... Putz, vou colocar onde, né? O",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: escopo aqui. O gestortulio: eu até me lembro. Mas eu não lembro de pegar esse fluxo e... Se eu vou consultar um paciente ou criar um paciente na doutoralia, Por que que eu tenho que fazer também ele no RM, né?[PESSOA]: Mas a pergunta é a seguinte. Será que o [PESSOA], ele já tem integração com o RM? Entendeu? Sim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não. Hoje ele não tem.[PESSOA]: Não tem. Não tem, né? Vocês estão vendo na minha tela?[PESSOA]: Estou.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3718,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: minha dúvida, doutor, porque assim, [PESSOA] aqui é o que vai ficar. [PESSOA] aqui é o legado, o legado e o futuro. O legado é o gesto e o futuro é o RM. A minha dúvida é assim, o cenário que a gente vai criar é o legado, o [EMPRESA] com a [EMPRESA] [LOCAL] [EMPRESA], ou é esse cenário legado, [LOCAL], [EMPRESA] [EMPRESA]?[PESSOA]: Porque",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: assim, independente do que seja, a gente vai ter que, em algum momento, a gente vai ter que trocar, apontando para o gestor e depois a gente vai ter que apontar para o RM. E aí eu não seitulio: o que para a gente, olhando o nosso cenário. [PESSOA] parece que [PESSOA] daqui fica mais... Eu acho mais fácil, porque daqui pra trás a gente não conversa mais com ninguém e aquitulio: é uma coisa que a gente vai fazer interna.[PESSOA]: Mas qual que é o ponto? Então a gente tá falando que o iPaaS é uma venda momentânea, porque daqui a cinco meses, sei lá, ele cancela o iPaaS porque ele vai integrar o [LOCAL] direto no... no [EMPRESA], entendeu? E a discussão tinha alguma coisa que não era nesse sentido. Porque assim, é por [PESSOA] que eu falo assim, gente, essa última reunião que eu tive com o cliente foi em novembro, eu não lembro mais. Teria que resgatar a transcrição, [PESSOA] coisas. E na proposta não tá escrito [PESSOA]. A proposta é muito clara. É integrar o [EMPRESA] com o do OTEMPO lá, nesse negócio, que é o [PESSOA] com a [EMPRESA]. Pronto. O que você tá falando é que o cenário era [PESSOA] daqui. Esses três",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: quadrados",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [EMPRESA]: Esse é o que está na proposta, que o cliente assinou e passou por todos os crimes. Agora, coloquei um ponto, até para a gente ser um pouco mais objetivo, a dúvida que eu tenho é assim, hoje, hoje, essa integração é importante para o cliente? que ele usa o [PESSOA] e ele usa esse tal do gesto. A pergunta-chave é assim, se alguém podia tentar obter essa informação, claro, com todo o carinho do mundo. Depois que ele entrar com R.I.A. em saúde, o [PESSOA], vai ser interessante pra ele continuar ou não?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCUTOR 27]: ser? Vai, vai, porque pra eles é um... o [PESSOA] tem um... tipo assim, é um portal de um monte detulio: médica. É um portal mais. É, entendeu?[PESSOA]: Então, o que que a gente tem aqui? No meu entendimento, tá? Pensa que o fluxo que a [LOCAL] vai fazer, que é esse aqui. Vamos imaginar que esse aqui já esteja o fluxo pronto. Ele vai estar... Ah, vocês não estão vendo minha tela mais não, né? [LOCUTOR 16]: botar minha tela aqui. Deixa eu explicar [PESSOA] pra vocês aqui. [LOCUTOR 47]: [PESSOA] que você tá falando se procede mesmo, o que quetulio: tá acontecendo? Tem esse nível de fluxo aqui. tá? Ele já está pronto. Tudo que a gente orquestrou aqui de SRP [EMPRESA], [PESSOA], já foi feito. Então eu tô sempre batendo aqui no iPaaS. Sempre batendo aqui no iPaaS. Não tô batendo mais nesse teclado aqui, ok? [LOCAL]. Qual que é o grande ponto? Eu sempre batendo no iPaaS. Só que o iPaaS, ele tá batendo aonde? Ele tá batendo hoje no [LOCAL], sei lá, né? O que que vai ter que acontecer? Ou a gente vai ter que viabilizar de alguma forma, tá gente? O [PESSOA] e mandar informação para o RM, que é o que o gestor faz hoje, certo? Ou essa integração aqui, ela... Não, cara, mas tem que ser [PESSOA], gente. [PESSOA] parece que essa questão aí, de ele continuar depois do [LOCAL], continuar do [LOCAL], a gente tem que fazer uma integração do [LOCAL] e do [LOCAL]. Porque do [LOCAL], é conseguir recuperar parcimento, incluir, consultar, tudo [PESSOA] aqui, ó. Seria tudo [PESSOA] aqui, cadê? Pro [LOCAL], entendeu? Tudo [PESSOA] aqui para o [LOCAL], por quê? Porque a integração que a gente está promovendo aqui, ela sempre vai funcionar, porque ela é a RSD Conversa e [PESSOA]. Lá eles fizeram uma integração que a gente não tem nada a ver com [PESSOA], com o gesto. Tirou o gesto, vai ter que ter o [LOCAL], entendeu? Aí eu pergunto, em termos de proposta de serviço, a gente não tem [PESSOA] em lugar nenhum previsto, né? Acredito que não. uma eventual integração do [PESSOA] com o gesto? É que pra mim, é que assim, [PESSOA], é que pra gente essa proposta saiu direto pela [EMPRESA], tá? Então a gente não teve acesso, a gente de serviço, tá? Aí quando a gente ficou sabendo já teve esse desenho e foi um pouco do que o cliente trouxe pra gente.[PESSOA]: A",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA]: que existe são E com o time da [LOCAL] também. E foram foram foram eles que passaram. [PESSOA] APIs entendeu. Aí [PESSOA]: depois de repentetulio: não passaram para a gente que teria tamb",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5444,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: gestor juntotulio: e aí acaboutulio: ficando para trás.[PESSOA]: O que todos nós temos que nos esforçar aqui para tentar lembrar e resgatar alguma coisa. É o seguinte. Talvez o cliente tenha entendido por alguém que o [PESSOA] já entregava com a [EMPRESA] ou ele achava que [PESSOA] ia ser automático como uma varinha mágica, entendeu? Doutor,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: desculpa. Desculpa interromper, mas não, ele sabe que o [PESSOA] não entregava com a [EMPRESA] porque foi [PESSOA]: camada adicional na negociação que iniciou.[PESSOA]: Mas cadê? Esse escopo tá onde? Esse esforço? Esse que é o ponto, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Vou te falar assim, [PESSOA], o que tem na proposta pra gente de serviço, falando assim, ah, não tem nada de integração de [EMPRESA] com RM? Tem. Só que tem aqueles dois fluxos padrões, entendeu? Que não é o caso aqui. Aquele fluxotulio: de agendamento e [PESSOA]: fluxo de confirmação.[PESSOA]: Passar uma borracha em tudo aqui. Começar agora. A minha leitura. A gente tem um projeto. Construir os diagramas da [EMPRESA] para entregar o [EMPRESA] Conversas com a doutoralia. [PESSOA] está entendido, está atualizado pelo que eu estou vendo aqui. E tudo direcionado. O que está faltando? Uma integração do doutoralia com a [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 68]: esse pós-gestor. Entendeu? [EMPRESA]? Só complementando aí, Tolio, se tá faltando [PESSOA], a gente tá entendendo agora que tá faltando [PESSOA], senão a gente não tinha colocado no escopo. Eu acredito que, por exemplo, criando um paciente no [PESSOA], como o [PESSOA] não integra com o RM, Né então teria que puxar arrastar mais uma ponta depois que eu integreitulio: o cliente no Dr. Olha eu também tenho que puxar uma pontinha e integrar o cliente com o gestor. Só que aí depois o cliente parece que vai trocar o gestor pelotulio: certo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Só que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: não já vai ter os dois implantado em produção.[PESSOA]: Mas é que o gesto vai ser desligado entendeu o gesto. Não tudo bem mas é para fazer. faz um post no gestor e faz um post atualizando o cliente também no [EMPRESA] e mantém todos mantém todostulio: os ligados. Tudo bem, tudo bem, mas vai ser desligado, então a gente não vai nem integrar com gestor, vai direto com [EMPRESA] Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: não, vai ter que integrar, assim, na cabeça do cliente, tá, [PESSOA], o que eu entendi. Ele mantém com gestor, porque hoje o [PESSOA] já integra com gestor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 46]: se imagina se eu dou um [EMPRESA] na internet, você é cardiologista, se eu dou um [EMPRESA] com o seu nome e você tem o seu [PESSOA], aparece o [PESSOA] pra você, eu vou lá e agendo, entendeu? Se eu dou um [EMPRESA], mas se eu já sei qual é o seu corpo de agendamento, eu vou direto no seu WhatsApp e agendo. O que a gente tá falando aqui na prática? Que o [PESSOA] tem que bater no RM e o [EMPRESA] tem que bater no RM, entendeu? [PESSOA] é o que está no projeto é o que eu não tinha. Ele não tinha um WhatsApp. Ele só tinha o doctorado. Então por [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: quetulio: quero colocar o WhatsApp. Então vou colocar o WhatsApp e falar com o doctorado. Eu falo com o gesto que é [PESSOA] aqui. Entendeu que é [PESSOA] aqui. [LOCUTOR 17]: resolvido. Falta o salto da perninha. Por que não pode ser híbrido. Porque eu tenho que manter o ciclo livre das vendas. É colocar... Ah, se bem que tem [PESSOA] também, gente. Peraí,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: peraí,[PESSOA]: peraí, peraí,[PESSOA]: peraí, peraí, peraí, peraí, peraí, peraí. Não, não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: gente. Não, não,[PESSOA]: não. Não, não, não. Para, para, para, para, para, para, para. Tá resolvido já. Peraí, peraí. Calma aí, calma aí. Deixa eu pensar aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4365,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Deixa eu ir falando aqui um ponto, ó. É que assim,[PESSOA]: o doutoradotulio:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4465,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: comtulio: gênero... Não, não tá resolvido não. É a mesma coisa. [EMPRESA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4145,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: A integração do [EMPRESA] com gestor ele já tem, então não vai mudar. É que a gente está colocando esse pedacinho novo. Então esse pedaço para cá com gestor ele já tem, manteria.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Não precisa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4503,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O que a gente vai ter que fazer, que eu concordo com o [PESSOA], é montar uma perninha com [EMPRESA] com RM, que não está previsto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: é o projeto agora? É fazer esse pedacinho aqui. Essa comunicação. E depois a gente tem que comunicar o [PESSOA] com o [EMPRESA] É,[PESSOA]: não, assim ó. E é até interessante a gente fazer uma provocação aqui. Por que o cliente comprou o [PESSOA] se ele já tinha o [PESSOA]? [LOCUTOR 46]: o [PESSOA] não tinha o WhatsApp. Por [PESSOA] que ele comprou o [PESSOA]. Não, não, não. Ele tem o WhatsApp e ele usa um chat bot designer.[PESSOA]:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: já temtulio: tudo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Ele já tem tudo. Na verdade, [PESSOA] daqui, eu não sei como foi a negociação, tá, [PESSOA]? Aí eu disse que você pode ajudar. [PESSOA] tudo aqui, ele já tem. Ele... vamos dizer assim, obrigatoriamente, ele não precisava trocar. Porque ele já tem, e pelo que ele disse, ele tá satisfeito. Só que ele tá trocando tudo por uma solução totos. Então ele tá tirando 200 fornecedores e tô colocando com o fornecedor só. Eu entenditulio: dessa forma.[PESSOA]: Então [PESSOA] aqui não precisa de ser feito? Teoricamente, não. Porque ele já tem. Ele já tem e tá ok pra ele.[PESSOA]: Quando vai trazer no [LOCAL]? Tá previsto pra julho. Aí não sei, a minha leitura é essa, que ele já tem, ele tá trocando pra ter um fornecedor único. Seria [PESSOA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Sim, quando a gente fez a negociação, então foi dado um desconto bem agressivo. na [EMPRESA], e daí a gente conseguiu embarcar todas as soluções, e visando aí a modernização de todas as ferramentas, eles aceitaram a [EMPRESA]. Tanto que, depois que eles assinaram, nem um mês depois, o Alex quis cancelar a [EMPRESA], justamente por essa questão dele ter essa necessidade de integrar com o doutorado. Mas daí a gente conseguiu reverter, e o cenário é esse.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Gente,[PESSOA]: eu acho o seguinte, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA] que ele vai querertulio: um serviço, no mínimo, igual ao que ele tem hoje, né? E a doctoral é [PESSOA]: importante pra eles.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4929,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 54]: importante. Eu acho que nós vamos ter que dar um passo pra trás, tá? E entender o cenário atual. Porque, assim, ó, baseado no agora, nisso que o [PESSOA] colocou que é importante, eu já tô começando a achar que o escopo da proposta que ele assinou não serve mais pra ele. O que a gente precisa fazer pra ele, já que ele tá prestes a entrar com o [EMPRESA], é integrar o [PESSOA] com o [LOCAL], entendeu? Porque aí vão se colocar no lugar do cliente. O [PESSOA] tem o papel dele lá, multi-canal lá que agenda, mas ele também quer agendar pelo WhatsApp, entendeu? Só que legal, o WhatsApp já faz, que é o focus padrão, só que o [PESSOA] depois quer agendar, tem que bater no [LOCAL]. Então a gente poderia negociar, não sei se os postos são iguais, me parece que Pode ser que sim, tá? Mas me parece que esse escopo tem a chance de virar um escopo de integração do [PESSOA] com [LOCAL], e não [EMPRESA] com o [PESSOA]. Agora",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: ficou maistulio: concorrente. Eu entendi o que você falou, tá, [PESSOA]? Valeu. Se ele vai usar [EMPRESA], a gente vai integrar com o [PESSOA], não precisa integrar com o gestor porque vai vai estar replicando.[PESSOA]: [PESSOA] é a disponibilidade de agenda por exemplo. O mandatório é dentro do doutoral e hoje não é no [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 56]: é na verdade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Pelo quetulio: eu estou vendo. O que acontece o doutor não tem agenda. Ele usa a agenda da origem que no caso era o gestor e vai ser o [EMPRESA]. Porque acho que eu paro de compartilhar minha tela, né? Nossa, tem um executivo aqui xingando até a minha mãe aqui, que eu tive uma reunião com ele, o Lucas. Mas vamos lá. Você quer ir lá,[PESSOA]: [PESSOA]? A gente continua aqui?[PESSOA]: O último ponto aqui ó, então assim ó, esse aqui é o doctoral, então assim ó, vou dar um exemplo aqui ó, eu quero esse cara aqui ó, pronto, esse cara aqui. Então o que acontece? Essa agenda aqui que ele tá mostrando aqui pra mim, eu estou nesse atendimento aqui, tá? Vocês vão entender aqui se eu voltar. Eu quero marcar essa data aqui, certo? Da onde tá vindo [PESSOA] aqui? Hoje do [LOCAL]. Deveria ser no [LOCAL]. Aí o cara vem aqui, clicou e marcou. Aonde ele vai marcar? É no gestor e vai ser no [LOCAL]. Então, fazer o [EMPRESA] integrar com o gestor, até ficar pronto, o cliente já entrou com o [EMPRESA]. Entendeu? A gente colocando eu como paciente, potencial paciente desse cliente. Certo? Quando eu posso ajudar pelo WhatsApp, [EMPRESA] conversas ou por aqui. Como a base de dados dos dois vai ser igual por trás, o que que vai acontecer? Tanto o URD como o VERD. Tanto imposta, né? Pode passar pelo [EMPRESA], né? Porque ele traz essa facilidade, mas a base tem que ser única. Então, disponibilidade de horário, tudo [PESSOA], né? Por [PESSOA] que essa integração do [LOCAL] com a doutoraria é o grande projeto do [EMPRESA] aqui, entendeu? Para a doutoraria continuar sendo operacional, mais outro padrão aqui do [LOCAL]. Inclusive, essa integração aqui, que o padrão já tem, ela poderia ser exatamente igual. Não vai mudar nada. Nada. Entendeu? Por quê? Porque o [LOCAL] já bate aqui direto, E qual que é a garantia que aquele horário, depois que agendar por aqui, não vai aparecer na doutoria? A integração, que não existe. Teria que ser feita. Mas eu acho assim, a gente tem que fazer uma conversa com o cliente e dar esse passo pra trás, sem assustar, pra gente tomar uma ação que faça sentido. Seja que algo que a gente entenda que a gente não fez tudo que deveria fazer ou que o cliente não falou, seja o que for. Não estou nem tratando esse mérito. Mas é assim, O que é importante agora se o cliente falar não abro mão do [PESSOA] e eu vou entrar em produção em [PESSOA] [EMPRESA] [PESSOA]: projeto mudou o escopo mudou.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Ele não quer ele não quer esperar o [EMPRESA] entrar para ele entrar em produção aqui. Ele quer para meio que imediato vamos dizer assim. Conectado com gesto e para usar porque ele quer parar de pagar o o.[PESSOA]: Tô entendendo, tô entendendo. O bot design para usar para pagar o [EMPRESA], entendeu?[PESSOA]: Ok, aí então esse projeto que continua. Então tudo que a gente falou aqui hoje continua,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5503,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [PESSOA]: a gente tem uma pulguinha atrás da orelha. E é quando ele entrar com o RM na teoria, ele não vai querer não. Hoje ele não vai ter mais Então, tem [PESSOA] a ponto de vista. Então, tudo aqui continua, [PESSOA]: ele quer entrar logo. Só que tem esse risco, né? [LOCUTOR 63]: o escopo muda.  o escopo muda, e ele vai fazer [PESSOA]...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: O escopo muda, o escopo muda seria o [PESSOA] com o [EMPRESA] É essa perninhatulio: que ele tem que fazer.[PESSOA]: Essa perninha que ele tem que fazer. Por quê? Porque se ele falar que não quer mais [PESSOA], a gente já pode colocar na conta um change do [LOCAL]. Pra que ele vai ter o [LOCAL]? Porque ele vai ajudar direto o [EMPRESA] conversas com o [LOCAL], entendeu? E",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5439,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: já tem nativo,[PESSOA]: já tem direto, né, [PESSOA]: É, exatamente, entendeu? Então,[PESSOA]: apesar de a gente ter um argumento para descascar, se ele falar que ele quer manter o [PESSOA] depois do [LOCAL], É, eu tô achando até melhor exportar esse abacaxi do que dar o [EMPRESA] nos sites do iPad, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5896,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então, mas ó, na sua tela aí, tá vendo que ele tem um monte de, ó, get de... de paciente, de... É,[PESSOA]: mas aqui é o teu tempo, é o teu tempo, é o teu tempo, é o Botox Throne Island. Cara, se você, se não tivesse... Então, [PESSOA]: ele vai ter que fazer um get no RM depois, entendeu?[PESSOA]: Não, aí que tá, porque essa integração do Doctorado com o RM, ela não está prevista em lugar nenhum, porque é diferente dessa aqui. Entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 58]: diferente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: disso aqui. Mas ele vai precisartulio: fazer todo esse... Ele vai ter que fazertulio: esse GET do mesmo jeito.[PESSOA]:",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: bem que é um outrotulio: escorte,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: mas ele vai ter que fazertulio: esse... [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: a minha dúvida é assim, a gente tem API pra todos esses GETs aqui, cara?[PESSOA]: O que tem, porque eu... [PESSOA] aqui, sim, que [PESSOA] aqui, [PESSOA] aqui é a base da integração do [EMPRESA] com o [LOCAL], entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 67]: a [PESSOA] esse não é o nosso problema, entendeu? Graças a [PESSOA]! Só que acontece na prática, [PESSOA]. O [PESSOA] que tá aqui escutando a gente, ele vai fazer um diagrama. Se ele fizer esse diagrama aqui pra preparar pra [EMPRESA] [EMPRESA], pra ela fazer um GET e botar na jornada, é um diagrama que ele fez pro teu tempo. Se ele precisar fazer a mesma coisa pro RM, é um outro diagrama. Então se ele tinha que construir 10 diagramas, ele vai ter que construir 20. Tudo bem que eles são parecidos, mas tem que construir. Entendeu? E outra coisa, essa integração aqui, essa proposta, ela é do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [PESSOA]: o sistema [LOCAL]. Então ela é pensada nessa jornada, que é o que eu preciso pra agendar. Quando você pensa do [EMPRESA] para o Rm, eu não sei que a ordem é essa. Eu acho que os dados que são trocados é esse. Mas, de repente, a ordem quem chama o quê é um pouco diferente. Talvez não, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Entre o [PESSOA] e o [LOCAL], seria com ou sem o IPCC? mais no meio?[PESSOA]: Com toda a certeza, com toda a certeza, porque a gente não pode garantir que as APIs do RM vão ser compatíveis com o do [PESSOA], eu vou ter que ter um integrador no meio, entendeu? Os formatos de data do RM é muito confuso, é muito estranho, então assim, provavelmente, muito provavelmente, nós vamos precisar do 99,9% e houver necessidade de manter o [PESSOA] depois que eu arremetre a reprodução. Gente, eu tenho que ir lá, porque o [LOCAL] tá me xingando já o Lucas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 37]: fazer o seguinte,[PESSOA]: perguntas que a gente tem que ter pra gente esclarecer. Respostas, perdão. Confirmar se realmente ele quer colocar esse o [PESSOA] com o gesto no [LOCAL] para ontem que esse é o escopo original. Ok? Reconfirmar [PESSOA]. E botar esse negócio assim, ó, você vai entrar em julho, mas que vem já em abril. Eu tentava ver [PESSOA] aí. Segundo é, você entrou em produção com a [LOCAL], você vai querer continuar com o [PESSOA]? Ele vai falar, vou, mas vou ter que filmar aqui e não vou ter que ter uma bloca de chifres cascada. Porque ou a gente vai chegar pra ele e falar assim, olha meu amigo, mas você não falou [PESSOA], você não tá orçado, [PESSOA], ou eu vou ter que brigar pro investimento interno, aquela confusão toda. Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: acho que aqui cabe, porque vai ter tanto gap. Só pra te liberar, esse vermelho aqui é o cenário que é fora do escopo, é [PESSOA], né? Então, o que tá notulio: escopo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [PESSOA]: verde, e o que tá fora",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: é [PESSOA] daqui.[PESSOA]: Não, peraí, o que tá no escopo, ele é... Cara, pra ficar numa ordem mais adequada, tá? Cada escopo é [EMPRESA], [PESSOA], [PESSOA], [PESSOA]. É essa ordem. É esse daqui,[PESSOA]: esse pedacinho aqui. É,[PESSOA]: mas eu acho que é melhor você colocar uma ordem da esquerda pra direita, que é a ordem do fluxo normal, entendeu? R, R, D, I pass, [LOCAL]. Entendeu?[PESSOA]: A ordem é essa. O cara quer agendar no R, D, e quer ir no [LOCAL]. E tem o I pass no meio. Entendeu? Essa é a ordem mais adequada no meu caso. Então, mas como que vai integrar com o gestor, então? Beleza, eu vou inverter aqui.[PESSOA]: Por quê? Porque o [LOCAL], ele já integra com o gestor sozinho. Ele vai fazertulio: [PESSOA] lá hoje e vai ficar assim.[PESSOA]: É porque [PESSOA] é porque imagina se o [PESSOA] não existe a todos no mundo. O cliente já tem [PESSOA] integrado com o gesto. Entendeu por quais canais pelos canais do [PESSOA] que é site app etc. Ah mas eu quero trocar para a forma de WhatsApp. Não quero mais. Não quero o que eu tenho aqui. Eu quero o [EMPRESA]. Aí nasceu o nosso projeto. Entendeu. Então esse vermelho continua sendo fora do escopo, certo? Nesse caminho inverso mesmo assim.[PESSOA]: E se, caso confirme, que depois do [LOCAL] do RM, ele queira continuar usando o [LOCAL], o gap é [LOCAL] com o RM via iPaaS. Esse é o gap. Autor,[PESSOA] dos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 69]: dei uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: dúvida.[PESSOA] dos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: Então teria mais 10 fluxos para o gestor RM depois com o iPaaS?[PESSOA]: No princípio, sim. Pode ser um pouco a mais ou pode ser a menos. Se vocês olharem aqui na minha tela, porque conceitualmente, para você marcar uma consulta no WhatsApp ou no Doctoral, o conceito é o mesmo. Você escolhe quem é o médico, qual é o horário e tal. Então, os seus diagramas vão ser até um pouco parecidos. O que vai mudar é só a origem. Um vai usar as APIs do Doctoral e o outro vai usar as APIs do RM.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então mas a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 64]: pegando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: a pergunta do [PESSOA] na cabeça do cliente é como se a gente só mudasse o apontamento se a gente vai ter que mudar para passar por aqui o negócio fica até um pouquinho mais complexo né. Complexo não tem um esforço maior na verdade não vou nem dizer que é complexo.[PESSOA]: O resumo da história se o cliente não abrir mão do [PESSOA] depois do [LOCAL] do [EMPRESA] é que a gente tem que construir uma integração com o [PESSOA] com o [EMPRESA] é [PESSOA] e nós vamos construir como? É, mas é o que o [PESSOA] comentou, vai ter mais fluxos para a gente consumir. Mais fluxos,[PESSOA]: é o esforço. É, então,[PESSOA]: é o esforço,[PESSOA]: né? É issotulio: aí, o esforço a mais que não está previsto aqui nessa proposta assinada. Tá,[PESSOA]: deixa eu atender o menino aqui. Tá,[PESSOA]: beleza. A gente tem um grupo lá, pega [PESSOA] informações e a gente marca de novo aqui para conversar. Eu vou mandar esse...[PESSOA]: Manda pra mim primeiro pra me dar um conferio antes, [PESSOA], por favor. Que aí eu mando lá, não quero polêmica à toa. Manda pra mim aqui, deixa eu te dar um conferio com calma e depois a gente coloca no grupo lá. Beleza? Valeu pessoal,[PESSOA]: até mais, [PESSOA]. [EMPRESA], oi. Porque eu não sei. Tudo bem que o projeto dele tem gap pra caramba, tá? Mas daqui eu não sei se foi um problema nosso no entendimento ou se ele mudou alguma coisa no discurso aí, tá? Porque na reunião, naquela sexta-feira que você entrou lá com a gente, pra mim ficou um pouco mais claro sobre essa questão da integração. Por [PESSOA] que eu tenho certeza que ele falou que o doutorado, ele não abre mão, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]: [LOCUTOR 18]: não abre",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: mão. É uma palavra muito utilizada aqui no [LOCAL]. Não sei no resto do [LOCAL], mas aqui no [LOCAL] todo mundo que é profissional liberal, assim, de hospital, tem o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5409,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então, ele... talvez a gente vai ter que ter alguma matinha de para essa demanda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5843,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: O Alex tem noção de que o [PESSOA] era uma nova camada, não foi contemplado como metria de horas para integrar a RM com o [PESSOA], [PESSOA] entrou depois.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Pode até ser, mas é que pra ele o Doctoral é com o [EMPRESA], ele já tem. É que pra ele é como se fosse assim, ao invés de eu colocar o endereço aponta para o [EMPRESA], você só vai me falar o API que aponta para o AQM. Pra ele é um negócio simples assim, entendeu? Só que não vai ter essa questão do fluxo aqui, do [EMPRESA]. Porque ele vai ter que passar, o [LOCAL] vai ter que orquestrar, pegar [PESSOA] tudo, definir a sequência do fluxo para mandar para o ORM depois.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 19]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 40]: [PESSOA]. Hoje vai ser assim e depois vai ser assim. Mas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4898,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: eu vou mandar esse daqui para o [PESSOA], ele ajusta o diagrama.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA], eu vou pedir só para você comentar com a [PESSOA], que como ela está falando direto com o cliente, então aí os próximos passos do lado de vocês e daqui a gente segue como a gente combinou, fazendo a implementação manual, entre aspas, e aí o que ficar decidido depois desse desenvolvimento, aí a gente integra.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Eu tenho participado com ela, [PESSOA], mas a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: reforça ali também que Talvez nesse primeiro momento a gente nem vai comentar que tem esse esforço a mais aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4789,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 29]: que eu acho, [PESSOA], é que como tem outros gaps, talvez a gente dá um jeito de embutir esse gap, não deixar explícito, que eu não sei se pra ele tá claro que é um gap mesmo. Ou se a gente deixa explícito, tá? Não tem problema. Mas se não for, se para ele não for um problema, a gente mostra. Se for para um problema, como tem outros gaps, a gente tenta embutir o valor nesses outros gaps, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: acho que o Alex tem que entender que vai ter mais um gap e conforme for na configuração de proposta de outros, ele vai ter que... Tem que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: falar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: com o Alex, tem que ser claro com o Alex, porque ele tá... Ele pediu bastante transparência, sabe? Porque assim, ele é o braço direito do [PESSOA]. Se ele entender que é necessário e ele sabe tudo que foi negociado, ele consegue a aprovação desse serviço. Então, eu acho",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: que o quanto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: antes falar com ele sobre [PESSOA] é bom.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É, e olhando aqui, ó, você tá vendo minha tela aqui na proposta, né? Aqui deixa bem claro... Cadê o fluxozinho? Cadê? Tinha um lugar aqui que eu tinha visto. Não sei se é essa ou outra proposta que... EuWesley dos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 69]: acho que essa daí mesmo, viu, Marcelo? Acho que tá lá em cima, não é?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4811,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá lá em [LOCAL] dos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: [PESSOA] APIs aí que... Estão disponibilizadas?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Aqui é o começo. Não tinha uma partezinha que o [PESSOA] mostrou? Então mostra lá aqueles três... Aqui ó, esse pedaço. Acho que é aqui. Ó, porque aqui tá falando R, D, I, [EMPRESA], [EMPRESA] e todo o tempo. Aqui nenhum lugar fala de gesto e nenhum lugar fala de R, M.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5294,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: É [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: Foi eu que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5085,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: fiz",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 19]: esse escopo aí, tá? Foi eu que fiz esse escopo aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5085,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Ah, então. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: assim, entendeu? O [EMPRESA], quando for falar com o Alex, até mostre para ele, Alex, para levar para ele de um jeito, olha, é [PESSOA] daqui, tá? Então, lá para frente a gente vai ter que fazer uma outra...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5651,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: E até aproveitar que ele assinou recentemente, fala assim, o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: pessoal",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: já está construindo, está seguindo esse desenho, blá, blá, blá, só que trazendo o que você conversou com a gente há duas semanas atrás, Assim, a gente olhou mais em detalhe e faltou ligar com o gestor e ligar com a [LOCAL], né? E a gente volta com ele lá. Tá bom.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4993,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Beleza? Beleza, pessoal. Vou deixar ele lá também. Um abraço.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3462,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Valeu, obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: pessoal.[PESSOA] dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Ô, [PESSOA], sobre as agendas ali com o pessoal, tem já alguma programação ali? Porque a gente mostrou aquele cronograma que vocês montaram,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 38]: aí tinha lá de... Era de 3 a 6, alguma coisa assim, que tinha uma agenda de capacitação, agenda de não sei o que na semana do dia... Não, não. Na",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: verdade, essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: semana agora, do dia 2 ao dia 6, é a nossa implementação, e aí eu vou mandar para eles as sugestões de agenda para a gente capacitar na próxima semana, que aí é o fechamento com eles.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então é por causa disso daqui ó, desse daqui né que você tá falando?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então é que como é que tinha [PESSOA] agendas aqui ó, de com o cliente,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 41]: falaram, mas quando que é? Dia 2? Vai ser a semana toda? Vai ser um dia específico?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4635,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Ah, é que [PESSOA] daqui, por exemplo, da configuração do número, é a questão da [EMPRESA] que eu perguntei na última reunião lá pro... para o [PESSOA] e perguntei agora de novo no grupo, que a gente precisa agendar com a pessoa da [EMPRESA], que ele ficou de não passar o nome, ele não passou, lembra? Não sei se você lembra que eu comentei na reunião.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Eu lembro sobre a confirmação do número lá, mas é que como ficou na semana, eles ficaram esse período que tá com a gente em que quando que vai",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ser?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: o laranjinha, tá vendo? Próximos passos em laranja.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Então, mas aqui assim, como tá a semana,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4337,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: queria saber, assim, vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ser dia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4683,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: 9, dia 10,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: foi mais para organizar as agendas aqui com o pessoal. Ah, tá bom, a gente...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4811,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 44]: hora que eu...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: A hora que eu tiver o retorno é porque eu não posso falar por conta do pessoal da [EMPRESA], que são eles que fazem essa etapa. Aí o [PESSOA] me respondendo, eu já entro em contato com a pessoa aqui, não sei se é a [PESSOA], que sempre faz com o time, mas aí ela mudou de área, não sei se ela vai continuar, então eu preciso dessa confirmação. Aí eu já passo para eles, pode deixar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: E para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: vocês também, onde é já.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É porque ele perguntou, eu falei, não, não, vai ser na semana, a gente está organizando aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4098,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: A desculpa é que realmente eu não sei nem como prever, porque aí eu coloco a semana inteira exatamente porque eu pretendo ver com eles antes de marcar qualquer coisa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4361,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: E aí o que eles pediram assim, se tiver uma agenda, meio que já definir qual o assunto até para ver se ele precisa envolver alguma outra área, algumas outras pessoas. Mas acho que [PESSOA] daqui é mais ETI, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA], na verdade as configurações são pelo time de marketing e na hora de fazer a configuração é quem tem acesso ao WhatsApp com o meta, tudo. Eu vou explicar direitinho para eles, vou registrar aqui um e-mail para ficar mais fácil. Eu só estava esperando essa reunião aqui para a gente ver se já tinha algum próximo passo para eu mandar resumido, mas como não tem, Então eu vou mandar do nosso lado, até para eles estarem cientes dos próximos passos e só esperar o [PESSOA] mandar a pessoa e eu já coloco no próprio e-mail a sugestão de agenda.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Não, beleza, tranquilo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então tá bom, gente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aí pelo tempo, a gente vai se falando ali no grupo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.526,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Tá bom, obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [PESSOA], pode falar.[PESSOA] dos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: Não, eu levantei uma questão com algum grupo do projeto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4926,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: A gente tem um interno aqui, tá? [PESSOA] passa o seu número, eu não sei nem quem que tá como admin naquele grupo aqui. Tá, de admin eu não sei, tá? Vou ver aqui.[PESSOA] dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.408,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: Eu te passo, viu Marcelo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: É o [PESSOA], pede pro [PESSOA], pede pro [PESSOA]. O [PESSOA] tá admin lá, tá ele e o [PESSOA] que é o comercial, mas vem com o [PESSOA].[PESSOA] dos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5561,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: Pode deixar, aí eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4834,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: [EMPRESA] dos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: intero aqui junto com vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4919,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: Beleza. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL], gente.[PESSOA] dos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 69]: Valeu, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

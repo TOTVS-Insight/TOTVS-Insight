@@ -1,0 +1,193 @@
+{
+  "id_reuniao": "954822",
+  "codt": "TEZSR7",
+  "data_reuniao": "2026-01-28 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SERVICOS",
+  "uf": "MG",
+  "texto_original": "[LOCUTOR 8]: Sem piada de gaúcho,\n[LOCUTOR 6]: sem piada de\n[LOCUTOR 8]: gaúcho.\n[LOCUTOR 3]: BoaDaiane - \n[LOCUTOR 7]: tarde, gente.\n[LOCUTOR 3]: Tudo bem?[PESSOA] de \n[LOCUTOR 1]: Boa tarde.[PESSOA] - \n[LOCUTOR 7]: Eu vou. Eu acabei de pausar aqui em [LOCAL] só vou achar uma mesinha. Enquanto isso eu vou fechar a câmera. A gente na zona escuta aqui.\n[LOCUTOR 6]: [LOCUTOR 2]: bom. Eu chameiJosé [PESSOA] de \n[LOCUTOR 1]: o [PESSOA] aqui agora acho que basicamente é o [PESSOA] que falta do lado nosso aqui.\n[LOCUTOR 6]: Eu acho que tem também o [PESSOA] não. a ele que vê se ele vai entrar.[PESSOA] de \n[LOCUTOR 1]: [PESSOA] e\n[LOCUTOR 6]: RafaelJosé [PESSOA] de \n[LOCUTOR 1]: o\n[LOCUTOR 6]: [PESSOA] não não está mais na empresa.[PESSOA] de \n[LOCUTOR 1]: RafaelDaiane - \n[LOCUTOR 7]: até que dá para tirar ele do envaio. É,\n[LOCUTOR 6]: é issoDaiane - \n[LOCUTOR 7]: que eu ia te\n[LOCUTOR 6]: falar.[PESSOA] - \n[LOCUTOR 7]: O Gustavo é o nosso red, e aí, como eu participo, ele me cobre numa possível ausência minha, né? O \n[LOCUTOR 5]: [PESSOA] não faz mais parte da [PESSOA].[PESSOA] de \n[LOCUTOR 1]: E o [PESSOA] também, acho que...\n[LOCUTOR 6]: É, o [PESSOA] é o gestor do [PESSOA].[PESSOA] de \n[LOCUTOR 1]: A gente vai gravar a reunião, aí precisa desse consultor aí... \n[LOCUTOR 4]: que é o Moiá.[PESSOA] de \n[LOCUTOR 1]: É, pode tirar\n[LOCUTOR 6]: ele? Pode.",
+  "texto_filtrado": "[LOCUTOR 8]: Sem piada de gaúcho,\n[LOCUTOR 6]: sem piada de\n[LOCUTOR 8]: gaúcho.\n[LOCUTOR 3]: BoaDaiane -\n[LOCUTOR 3]: Tudo bem?[PESSOA] de\n[LOCUTOR 6]: [LOCUTOR 2]: bom. Eu chameiJosé [PESSOA] de\n[LOCUTOR 1]: o [PESSOA] aqui agora acho que basicamente é o [PESSOA] que falta do lado nosso aqui.\n[LOCUTOR 6]: Eu acho que tem também o [PESSOA] não. a ele que vê se ele vai entrar.[PESSOA] de\n[LOCUTOR 1]: [PESSOA] e\n[LOCUTOR 6]: RafaelJosé [PESSOA] de\n[LOCUTOR 1]: RafaelDaiane -\n[LOCUTOR 7]: até que dá para tirar ele do envaio. É,\n[LOCUTOR 6]: é issoDaiane -\n[LOCUTOR 7]: que eu ia te\n[LOCUTOR 6]: falar.[PESSOA] -\n[LOCUTOR 1]: E o [PESSOA] também, acho que...\n[LOCUTOR 6]: É, o [PESSOA] é o gestor do [PESSOA].[PESSOA] de\n[LOCUTOR 1]: A gente vai gravar a reunião, aí precisa desse consultor aí...\n[LOCUTOR 4]: que é o Moiá.[PESSOA] de\n[LOCUTOR 1]: É, pode tirar\n[LOCUTOR 6]: ele? Pode.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:16.060475+00:00",
+    "total_linhas": 28,
+    "linhas_mantidas": 21,
+    "linhas_removidas": 7,
+    "percentual_mantido": 75.0,
+    "confianca_media": 0.5026
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 8]: Sem piada de gaúcho,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: sem piada de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gaúcho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: BoaDaiane -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tarde, gente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tudo bem?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4622,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Boa tarde.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Eu vou. Eu acabei de pausar aqui em [LOCAL] só vou achar uma mesinha. Enquanto isso eu vou fechar a câmera. A gente na zona escuta aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4538,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCUTOR 2]: bom. Eu chameiJosé [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4707,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: o [PESSOA] aqui agora acho que basicamente é o [PESSOA] que falta do lado nosso aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Eu acho que tem também o [PESSOA] não. a ele que vê se ele vai entrar.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4876,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA] e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: RafaelJosé [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA] não não está mais na empresa.[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4378,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: RafaelDaiane -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: até que dá para tirar ele do envaio. É,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5539,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: é issoDaiane -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: que eu ia te",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: falar.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: O Gustavo é o nosso red, e aí, como eu participo, ele me cobre numa possível ausência minha, né? O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4095,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA] não faz mais parte da [PESSOA].[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4561,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: E o [PESSOA] também, acho que...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É, o [PESSOA] é o gestor do [PESSOA].[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6317,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: A gente vai gravar a reunião, aí precisa desse consultor aí...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5411,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: que é o Moiá.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É, pode tirar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: ele? Pode.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    }
+  ]
+}

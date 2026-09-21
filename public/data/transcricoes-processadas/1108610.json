@@ -1,0 +1,1387 @@
+{
+  "id_reuniao": "1108610",
+  "codt": "TFDPBV",
+  "data_reuniao": "2026-02-23 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAO PAULO",
+  "segmento": "SERVICOS",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 18]: [EMPRESA], [PESSOA], tudo bem?\n[LOCUTOR 3]: Tudo bem, [PESSOA]. Boa tarde. Acho que você está imudo aí.\n[LOCUTOR 18]: Quem? Eu ou o [PESSOA]?\n[LOCUTOR 3]: O [PESSOA]. Você está ouvindo\n[LOCUTOR 18]: o\n[LOCUTOR 3]: [PESSOA], [PESSOA]?\n[LOCUTOR 18]: Tudo bem. Fala aí, [PESSOA]. É, não estamos te ouvindo. Olá,[PESSOA] de \n[LOCUTOR 10]: pessoal. Tudo bem? Estão me ouvindo aí?\n[LOCUTOR 3]: Tudo bem?\n[LOCUTOR 18]: Boa\n[LOCUTOR 3]: tarde.[PESSOA] de \n[LOCUTOR 10]: mas estou falando mudo. Gente, acho que só o [PESSOA] não vai conseguir participar. Ele está com compromisso agora de tarde. Vamos ver se ele entra depois no meio da reunião.\n[LOCUTOR 18]: [LOCAL], vai entrar mais alguém? Fora nós dois ou tu que vai tocar ou vai entrar\n[LOCUTOR 3]: o\n[LOCUTOR 18]: [PESSOA],\n[LOCUTOR 3]: o [PESSOA]? O [PESSOA] e o [PESSOA] estão para entrar aqui.\n[LOCUTOR 18]: Será\n[LOCUTOR 3]: que eles não estão na sala?\n[LOCUTOR 18]: Ainda não.\n[LOCUTOR 3]: \n[LOCUTOR 15]: o que vocês devem saber é que o governo vai gerar um conflito national.\n[LOCUTOR 5]: Boa tarde, pessoal. Tudo bem?\n[LOCUTOR 3]: Boa tarde.\n[LOCUTOR 18]: BoaRodrigo de \n[LOCUTOR 10]: tarde, [PESSOA].\n[LOCUTOR 3]: Acho que podemos seguir. O [PESSOA] estava terminando uma reunião lá.[PESSOA] de \n[LOCUTOR 10]: [LOCAL].\n[LOCUTOR 18]: para gravar. Então, [LOCAL], até comentei com o [PESSOA] agora há pouco, né, [PESSOA], que o [LOCAL] localizou ali, só para a gente alinhar, né, um documento que o [PESSOA] tinha mandado para o [PESSOA] no Whats, um tempo atrás, e aí, só para a gente explicar que o documento que a gente fez, aquela Meet 44 que a gente fez, que a gente mandou sexta-feira, não foi olhando este documento, tá? Foi as funcionalidades do Todos Coleta Entrega para fazer no [LOCAL], para vocês poderem substituir\n[LOCUTOR 3]: o\n[LOCUTOR 18]: Todos Coleta Entrega. Daí hoje o [LOCAL] acabou localizando esse documento que o [PESSOA] tinha mandado ali para o [PESSOA], e aí olhou e viu que tem outras funcionalidades. Então, realmente, o documento que foi feito sexta-feira, ele não foi baseado neste documento que o [PESSOA] mandou. Então, talvez por isso tenha aquela diferença que tu comentou, né? fez uma leitura assim, já sinalizou. Tá, então, assim, a gente não teve, né, uma decisão tempoável de analisar detalhadamente este documento, mas daí a nossa ideia na reunião é até conversar sobre ele e a gente poder separar, né, o que são funcionalidades para substituir o tóxico letra-entrega, e até vocês confirmarem se realmente precisam todas elas ou não, e separar neste outro documento que funcionalidades tem ali a mais que não teria nem do Todos Coleta Entrega. Aí o [LOCAL] pode abrir ali e a gente se diz, ó, isso nem teria lá. A gente pode orçar também, de forma separada, sugestão. E vocês até avaliarem, né, [PESSOA]? Ah, quem sabe vamos fazer uma primeira fase para poder usar e poder acelerar. Só o que realmente é essencial ali do Todos Coleta Entrega. Funcionou, depois a gente pode ir avaliando outros funcionalidades adicionais para ficar atendendo a nossa totalidade. mas a gente separar por fases. Tá?[PESSOA] de \n[LOCUTOR 10]: Ok.\n[LOCUTOR 18]: Ok,[PESSOA] de \n[LOCUTOR 10]: não está claro. Acho que a ideia, realmente, é partir para esse tipo de projeto aí. Fazer a primeira fase, a primeira onda, atender 100% o que estava contemplando, né? Plugue mais coleta e entrega. E se tiver alguma outra funcionalidade e tudo mais, a gente fazer na... uma fase adicional. Porém, só uma pontuação, o [PESSOA] acabou assumindo a gerência de logística e transporte e ele fez todo um estudo profundo ali do escopo inicial, o que seria o coleta-entrega, fluig, ele acabou compilando ali toda a informação que seria necessário falando só de escopo inicial mesmo, por isso que a gente acabou falando sobre essas diferenças, que talvez faltaria algumas funcionalidades. para poder fazer esse escopo número um. E aí, melhorias, coisas que você pontuou, [PESSOA], que nem teria no coleto-entrega, aí, sim, a gente entende que tem que ficar para o segundo, acho que é mais um alinhamento, então, que seria. E aí, [PESSOA], se quiser apontar, ou [LOCAL] também pontuar, mas só para alinhar a nossa expectativa aqui.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: [PESSOA]. Eu não sei se vocês estão me ouvindo agora,[PESSOA] de \n[LOCUTOR 10]: Então sim, [PESSOA].[PESSOA] [PESSOA] de \n[LOCUTOR 14]: [PESSOA]. Então, boa tarde novamente. É um prazer conhecer vocês, [PESSOA], [LOCAL], com [PESSOA]. Acho que eu participei de uma reunião algumas semanas atrás, com o [PESSOA] e com o [PESSOA]. A [PESSOA] e o [LOCAL] ainda não tinham tido a oportunidade de falar com eles. Então, complementando o que o [PESSOA] já deu pra gente de introdução. Então, de fato, eu cheguei, eu entrei na [LOCAL] justamente num momento crucial, né? Tava se decidindo e já caminhando, já, para uma decisão de implementação dos dois sistemas, tanto de algumas funcionalidades dentro do Fluig, quanto de todas as funcionalidades do coletor-entrega. E a ideia inicial realmente era substituir, usar esses dois sistemas substituindo outros sistemas que nós já tínhamos rodando aqui na operação. E fazendo uma análise geral de todo esse fluxo de atendimento dos nossos processos, das operações, de transporte e tudo mais, Então, o entendimento foi um pouco diferente, de que até de alguma experiência já de implementação de outras soluções, de desenvolvimento de outras soluções, de que, na verdade, o que se desejava colocar dentro dessas duas ferramentas para a substituição da [PESSOA] que estava rodando, não seriam suficientes e dificilmente a gente alcançaria o sucesso, porque a gente está falando de hoje ferramentas que já são nativas em alguns processos, são especialistas em alguns processos, e o principal deles é a gestão das operações de transporte. E daí você, na prática, trazer isso para uma outra ferramenta que vai ser desenvolvida e tudo mais, isso daria realmente uma complexidade. E pelo escopo que eu vi inicial, a gente não teria todas as funcionalidades que a gente precisa para poder gerenciar toda a nossa operação de transporte, no que diz respeito Não só a coleta, e daí já foi mais um redirecionamento do escopo, porque esse escopo inicial ele vem falando muito de ordem de coleta, só que ordem de coleta, na verdade, é só uma das demandas que a gente tem para a nossa frota, é uma das demandas de transporte. A gente tem outros tipos de coleta, a gente tem entrega, a gente tem operação de transporte de destinação de resíduos e tudo mais. Então eu entendi, de fato, e conversando com o [PESSOA] e com o [PESSOA], ele chegar no mesmo entendimento. de que a gente precisava mudar um pouco o escopo, talvez deixá-lo um pouco mais amplo em alguns aspectos que para nós são importantes e faria todo sentido a gente desenvolver e muitas dessas funcionalidades já tiveram início, já, no desenvolvimento dentro do Fluig, e outros aspectos, outras funcionalidades que daí são funcionalidades que nós já temos sistemas que são especialistas nisso, toda a parte de geolocalização, criação de rota, gerenciamento da execução da rota, com uma série de particularidades. Hoje nós já temos sistemas nativos e especialistas nisso. Então, o meu entendimento foi que não faria muito sentido a gente tentar desenvolver tudo isso dentro do Fluig, já considerando o Fluig, não mais a questão do coleta-entrega. Então, diante disso, Aí veio todo esse levantamento que o [PESSOA] comentou, do que seria necessário e do que faria sentido a gente fazer dentro do Fluig, e aquilo que realmente não faria sentido a gente desenvolver no Fluig. E aí a gente vai trazer um sistema especialista para executar essas operações para a gente. Eu separei bem o que seria o escopo do Fluig, dentro do escopo inicial, não foge muito desse conceito de criação de ordem, e depois o gerenciamento da realização dessa ordem, com registro de informações e por aí vai. só que de uma forma um pouco mais ampla, de forma que a gente consiga abranger não só essa ordem de coleta, mas que a gente consiga abranger também a ordem de transporte de destinação, o fluxo de expedição e tudo mais. Então, mudando esse conceito de ordem de coleta para uma ordem de serviço, por tipos diferentes e assim por diante. E toda aquela parte de geolocalização, controle de posicionamento do motorista, até mesmo a questão de aplicativo do motorista, que funcionaria muito mais para essa gestão de rota, tudo isso dentro de uma outra ferramenta de um sistema especialista nesse tipo de processo. É só para a gente estar na mesma página da necessidade de mudança nesse escopo. E daí, aproveitando que esse documento vai precisar ser refeito, com base nessa última informação do [PESSOA] lá atrás, que não havia sido contemplada nesse primeiro documento, a gente já considerar um outro documento que eu desenvolvi, já nesse novo conceito, para que a gente possa desenvolver um documento final com base nesse que foi desenvolvido inicialmente.\n[LOCUTOR 3]: Então, [PESSOA], boa tarde, antes de mais nada. A [EMPRESA] tem diversas soluções de logística, inclusive tem algumas funcionalidades, algumas ferramentas que foram desenvolvidas nos últimos anos, então são ferramentas altamente modernas. Por exemplo, o [EMPRESA] [LOCAL] entrega, que é o famoso [LOCAL]. Ele tem dessas funcionalidades que eu recebi aqui na documentação, ele tem tudo isso, cara. [PESSOA] de \n[LOCUTOR 14]: tem\n[LOCUTOR 3]: geolocalização, ele tem toda uma questão de planejamento ali, de roteirização, e se você desejar, a gente pode colocar o especialista da ferramenta aqui, o [PESSOA]. Você também se chama [PESSOA], aliás?[PESSOA] [PESSOA] de \n[LOCUTOR 14]: que é o\n[LOCUTOR 3]: P.O. do produto, fazendo a apresentação da ferramenta para você. Aí você vai... É só sobre [LOCAL]. A gente falou dissoLuiz [PESSOA] de \n[LOCUTOR 14]: um\n[LOCUTOR 3]: pouquinho quando eu estive pessoalmente na Múltiplus, antes de começar o projeto. E aí a gente entendeu que era muito, naquele momento, para Múltiplus. Então, vamos começar com uma coisa mais simples, depois a gente vai para uma ferramenta mais robusta. Mas a [EMPRESA] tem essa ferramenta de [LOCAL], que ela é muito mais completa do que o coleta-entrega, sabe? Ela é completinha mesmo. Aí a gente pode fazer uma apresentação sobre ela.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Acho que é excelente, acho que a gente pode fazer isso o quanto antes. E, na verdade, o que acabou acontecendo é que essa versão mais simples, que até foi acordada com o [PESSOA], com o [PESSOA], Na verdade, essa solução, essa versão mais simples, ela, na verdade, não atenderia ao que a gente precisa hoje, o que a gente tem como necessidade de gerenciamento das operações de transporte. E nem a abrangência necessária, como eu te falei. Não faz sentido eu só gerenciar a ordem de coleta. Ordem de coleta, sei lá, ela representa algo em torno de 30, 40% da minha demanda da demanda pela minha frota. Eu preciso gerenciar os outros 60 também. Não adianta gerenciar 40 e deixar 60% gerenciado na mão.\n[LOCUTOR 3]: Então,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: uma das principais mudanças nesse escopo inicial é essa. Ele precisa ser mais abrangente. Ele precisa refletir melhor o que a gente tem de necessidade na operação. E uma dessas necessidades é justamente essa questão pegar uma ordem de coleta, transformá-la numa rota, direcionar essa rota para um dos meus veículos e daí fazer toda a gestão da execução dessa rota. A gente envolve o rastreamento, a gente envolve uma série de checkpoints automáticos no sistema, baseado na geolocalização do veículo dentro daquela rota que está linkada a uma ordem de serviço, no caso, uma ordem de coleta e assim por diante. Então, se você tem uma ferramenta que poderia nos suportar em todos esses processos, eu gostaria de conhecer. Eu estou essa semana, se for possível, agendar com especialistas de vocês para a gente explorar, acho que seria bastante oportuno.\n[LOCUTOR 3]: Sim, é possível. A gente providencia isso aqui, uma agenda com o especialista do [LOCAL], e aí você vai conhecer, a fabricante é super moderna. A gente falou dela quando a gente esteve pessoalmente aí.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Inclusive,\n[LOCUTOR 3]: a gente foi junto com o especialista de logística, foi eu e mais esse especialista. Foi de todas as soluções que a [EMPRESA] tem, né, [PESSOA]? Mas, no momento, [PESSOA] [PESSOA], no caso, aqui. Boa tarde, [PESSOA] [PESSOA]. No momento, havia uma preocupação maior, [PESSOA] [PESSOA], de a gente começar com o estruturante, que a gente chama, que é Proteus, BackOffice, cara, isso estava doendo muito. Então, eu tenho certeza que a decisão do [PESSOA] e do pessoal da direção da [LOCAL] foi assertiva, porque, cara, vamos estruturar primeiro, depois a gente vai acrescentando soluções. de logística e [LOCAL] de \n[LOCUTOR 14]: outra\n[LOCUTOR 3]: solução também super interessanteLuiz [PESSOA] de \n[LOCUTOR 14]: é\n[LOCUTOR 3]: o gestão de frotas, tudo que vocês colocam aqui pra gente, controle de viagens, pneus, abastecimento, multa, jáLuiz [PESSOA] de \n[LOCUTOR 14]: tem\n[LOCUTOR 3]: o módulo do Proteus que faz isso, tá pronto, é só implementar, dar treinamento em cima do Proteus, é um dos módulos que o Proteus tem.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Não sabia que o [EMPRESA] tinha todos esses módulos aí. Eu sei que às vezes esse processo está um pouco truncado, mas é natural. A gente não tinha, na companhia, uma pessoa de logística, olhando para a\n[LOCUTOR 3]: logísticaLuiz [PESSOA] de \n[LOCUTOR 14]: de maneira técnica, estratégica,\n[LOCUTOR 3]: [PESSOA] de \n[LOCUTOR 14]: realmente quando eu entrei, eu comecei a olhar principalmente esses processos que já estavam em viagem de tomar uma decisão. E daí, de fato, do jeito que foi definido inicialmente, essa estratégia de estruturar, eu sou totalmente a favor, mas a gente precisa ter como ponto de partida algo que atenda a operação, já atenda já às nossas necessidades e da forma como foi escopado, foi definido e iria ser implementado, de fato criaria dificuldades adicionais para o dia a dia da nossa operação. Então eu realmente não podia deixar isso seguir e por isso da conversa com o [PESSOA] e com o [PESSOA], a primeira decisão foi realmente a gente interromper a questão do coleto e entrega, e focar a nossa atenção no Fluig, não necessariamente pro Fluig fazer essas funções que você acabou de citar, de toda essa parte de gestão de execução de rota, de transporte e tudo mais, e também a parte de gestão de frota. Eu já passei por alguns processos de desenvolvimento em plataformas de low-code, desenvolvimento de sistemas complexos, E, assim, é um processo muito difícil. É um processo que exige muita dedicação técnica. Então, não é a nossa realidade hoje. Eu não tenho nem braço para poder tocar um projeto desses. Ainda mais quando a gente tem no mercado, a exemplo do que você citou, dos módulos do [EMPRESA], que são sistemas especialistas, que já entregam isso de forma mais simples, mais rápida. Então, por isso, realmente é da necessidade dessa mudança de escopo.\n[LOCUTOR 3]: Inclusive, né, [PESSOA] [PESSOA], a gente tomou um cuidado aqui, eu, como, vamos dizer, ser arquiteto inicial da solução, como sou mais completa, não sou especialista em logística, como tem alguns aqui, de não vender mais do que a [EMPRESA] ia precisar. Eu falei, cara, vamos entregar o mínimo necessário. A discussão no fechamento, acho que o [PESSOA] [PESSOA] lembra, cara, vamos colocar o gestão de frotas, ele gera muito valor pra vocês. Economia com gás de pneu. Cara, mas aí é o budget. Aí ele falou, quer saber? O budget parece que não cabia no final e tal. Vamos deixar pra uma segunda fase? O módulo é integrado ao Proteus. Ele é nativo do Proteus, [PESSOA] [PESSOA], só pra você entender. E gera muito valor. Cara, eu fiquei com uma dor no coração. Falei, cara, isso aqui vai gerar muito resultado pra ele.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: [LOCUTOR 2]: assim, a gente está no final agora da primeira onda, que é entregar o módulo de back-office. Aí sim,[PESSOA] [PESSOA] de  agora é muito\n[LOCUTOR 3]: mais fácil você acrescentar o gestão de frota, os [LOCAL], inclusive tem o módulo também de balanças, que chama pesagem, que a gente consegue integrar com a balança de vocês e gerar indicador, sei lá, em algum lugar, no [LOCAL], seja lá onde for. Então eu entendo assim, é um escopo mais abrangente que a gente chegou a discutir pessoalmente, mas eram tantos assuntos E eu acho que agora a gente pode começar a fazer agendas de demonstração, se me permite a sugestão,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: para\n[LOCUTOR 3]: cada um desses produtos, para depois a gente fazer uma agenda completa e ver a estruturaLuiz [PESSOA] de \n[LOCUTOR 14]: de\n[LOCUTOR 3]: integrações, se tem algum [PESSOA] de \n[LOCUTOR 14]: ali\n[LOCUTOR 3]: e desenhar essa segunda fase.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Eu acho que estamos alinhados em relação a isso, e quanto antes a gente conseguir colocar uma agenda para eu conhecer melhor esses dois outros módulos que você citou, seria importantíssimo. De qualquer forma, isso ele corre de forma paralela.\n[LOCUTOR 3]: [PESSOA], éLuiz [PESSOA] de \n[LOCUTOR 14]: isso que eu\n[LOCUTOR 3]: queria saber.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: É, ele corre de forma paralela, por quê? Porque o que, enfim, eu ajustei de escopo para o [EMPRESA], ele não está muito fora do que já vinha sendo discutido. Na verdade,\n[LOCUTOR 3]: a gente [PESSOA] de \n[LOCUTOR 14]: mais coisas complexas a tirar do escopo, Como por exemplo, essa parte de geolocalização.\n[LOCUTOR 3]: Vou compartilhar, me permita aquiLuiz [PESSOA] de \n[LOCUTOR 14]: a oportunidade que eu vou\n[LOCUTOR 3]: compartilhar então o escopo do [LOCAL], que é isso que eu queria saber, que éLuiz [PESSOA] de \n[LOCUTOR 14]: essa\n[LOCUTOR 3]: segunda sprint. A gente falouLuiz [PESSOA] de \n[LOCUTOR 14]: aqui de\n[LOCUTOR 3]: alguns cadastros de motoristas, veículos e tal, para a gente poder fazer o início deLuiz [PESSOA] de \n[LOCUTOR 14]: um processo\n[LOCUTOR 3]: de,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: podemos\n[LOCUTOR 3]: chamar de coleta, alguma coisa assim. E aíLuiz [PESSOA] de \n[LOCUTOR 14]: eu\n[LOCUTOR 3]: coloquei,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: como\n[LOCUTOR 3]: a necessidade, a primeira decisão que tem no coleta e entrega você faz no [LOCAL], eu coloquei três funcionalidades que você talvez não queira, que é o GPS, assinatura e fotos.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Isso, então, por exemplo, são coisas, dando isso como exemplo, a questão do GPS. O que a gente precisa é criar uma rota e fazer o gerenciamento da execução daquela rota. Por isso que eu estou dizendo, por isso que o GPS do Fluid para a gente não é aplicável, ele não vai trazer\n[LOCUTOR 3]: grandesLuiz [PESSOA] de \n[LOCUTOR 14]: benefícios. A questão da assinatura eletrônica, a assinatura eletrônica lá, eu conversei muito com o pessoal da área comercial, tem contato diretamente com os nossos clientes, E pra nós, o que é mais importante e viável, por exemplo, é o próprio motorista informar lá, né, com a pessoa, o nome da pessoa e o número do documento. Porque assim, na\n[LOCUTOR 3]: telaLuiz [PESSOA] de \n[LOCUTOR 14]: eletrônica, na tela do celular, assim, e é um processo bastante inviável no dia a\n[LOCUTOR 3]: dia, né?[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Até pelas pessoas com as quais a gente trata no ponto de coleta, são as pessoas que estão envolvidas no trabalho, às vezes estão com a mão suja, estão usando luva, têm dificuldade de fazer isso no celular. Então a gente realmente não vai precisar disso. A questão das\n[LOCUTOR 3]: fotosLuiz [PESSOA] de \n[LOCUTOR 14]: aí depende muito. E a questão das fotos eu entendo que está amarrada diretamente ao app que a gente vai disponibilizar para o motorista.\n[LOCUTOR 3]: [PESSOA] de \n[LOCUTOR 14]: a gente fala de dois sistemas apartados, o fluir, fazendo a gestão de alguns processos, e outro sistema de roteirização, fazendo a gestão da rota e tudo\n[LOCUTOR 3]: mais,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: e daí eu imagino que com um aplicativo também, que o\n[LOCUTOR 3]: motoristaLuiz [PESSOA] de \n[LOCUTOR 14]: vai receber a atividade dele,\n[LOCUTOR 3]: [PESSOA] [PESSOA] de \n[LOCUTOR 14]: é uma questão de decisão, né? Se a gente vai usar o aplicativo do [LOCAL], do gestor de operações, de transporte, então essa questão das fotos, ela vai ter que estar nesse aplicativo, porque senão a gente vai ter que liberar dois aplicativos diferentes que motoristas e só vai\n[LOCUTOR 3]: complicarLuiz [PESSOA] de \n[LOCUTOR 14]: mais a vida deles no dia a dia, tá? Então, aí é uma questão de decisão, né? Mas eu entendo que faria mais sentido estar em um aplicativo que ele vai usar dentro da plataforma de gestão de operações de transporte.\n[LOCUTOR 3]: Não, está tranquilo. Seguindo o que seria esse primeiro escopo, estritamente essencial, os cadastros para a gente poder fazer um pedido de coleta, o processo de agendamento, nessa parteLuiz [PESSOA] de \n[LOCUTOR 14]: de\n[LOCUTOR 3]: agendamento, Acredito que você vai talvez querer fazer no Fluig ou não. Talvez você faça no [PESSOA], eu não sei. Depois a gente pode ver como é que vai ser isso. depois [PESSOA] de \n[LOCUTOR 14]: voc\n[LOCUTOR 1]: conheceuLuiz [PESSOA] de \n[LOCUTOR 14]: o\n[LOCUTOR 3]: [PESSOA].[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Quando você fala do agendamento, que processo você está se\n[LOCUTOR 3]: referindo? Porque o agendamento eu estou falando de calendário, eu estou falando de datas, horas, datas ali para o calendário de cada caminhão, o calendário para cada cliente, você tem todo um controle ali deLuiz [PESSOA] de \n[LOCUTOR 14]: agendas\n[LOCUTOR 3]: que você... Porque eu penso o seguinte, você tem uma origem, alguém cria esse agendamento,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: essa\n[LOCUTOR 3]: [PESSOA] de \n[LOCUTOR 14]: talvez\n[LOCUTOR 3]: você sempre faça no Fluig, viu, [PESSOA]? Porque eu acredito que, pelo que eu entendi o processo de vocês pessoalmente, ele é um tanto complexo, né? Tem vários tipos de você iniciar uma coleta, uma retirada, uma coleta, uma entrega, né? E aí eu penso que esse início do processo, possivelmente, vocêLuiz [PESSOA] de \n[LOCUTOR 14]: vai\n[LOCUTOR 3]: sempre fazer no Fluig. E dali pra frente, você vai usar os aplicativos ou sistemas especialistas, sabe? [PESSOA] de \n[LOCUTOR 14]: esse\n[LOCUTOR 3]: processo de início de coleta, no meu entendimento, acho que vai sempre ser Fluig.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Isso, não tenho dúvida, porque o agendamento é feito no momento da criação da ordem de serviço, né?\n[LOCUTOR 3]: Isso, exato, criação da ordemLuiz [PESSOA] de \n[LOCUTOR 14]: de\n[LOCUTOR 3]: serviço, esseLuiz [PESSOA] de \n[LOCUTOR 14]: é o tema. E tudo isso que a gente está falando aqui, minha concepção é que isso tem que ser dentro do fluido.\n[LOCUTOR 3]: É cara,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: dificilmente\n[LOCUTOR 3]: se vai, porque assim, a gente já olhou o [LOCAL] pra isso, [LOCAL] de \n[LOCUTOR 14]: não\n[LOCUTOR 3]: faz, ele não tem esse nível de integração com o Proteus, então o Fluig vai [LOCAL] de \n[LOCUTOR 14]: esse\n[LOCUTOR 3]: pedaço que vai começar o processo mesmo, e aí depois vai para os sistemasLuiz [PESSOA] de \n[LOCUTOR 14]: Proteus,\n[LOCUTOR 3]: [LOCAL].[PESSOA] [PESSOA] de \n[LOCUTOR 14]: E ele na verdade é planejamento e execução daquilo que foi agendado, então o agendamento ele vem num processo anterior aí.\n[LOCUTOR 3]: É isso. Aí estamos alinhados nesse aspecto. Então, entendi. [PESSOA]. Então, cara, eu considero que o scope ficou menor, né? Porque eu vou tirar três funcionalidades importantes que a gente ia desenvolver. Ficou de... Pô, já tirei GPS, tirei assinatura. Fotos ali, não é? Pô, terminou tranquilo de fazer, tá? Eu tiro toda essa parte de GPS. PeraíLuiz [PESSOA] de \n[LOCUTOR 14]: que\n[LOCUTOR 3]: travou meu Word aqui. Que beleza, ó. Travou. [PESSOA] de \n[LOCUTOR 14]: até para facilitar, [LOCAL], eu preparei um escopo, um documento relativamente parecido com o seu, justamente com esse detalhamento do que eu entendo que seria necessário e seriam as funcionalidades que nós teríamos no [LOCAL]. Justamente abrangendo todos esses processos, né? E daí, nesse documento tem detalhado quais são esses processos, de acordo com o tipo de ordem de serviço. Então nós temos, sei lá, eu criei acho que cinco tipos de ordem de serviço diferentes, e daí, sei lá, com três fluxos diferentes para atender esses cinco tipos de ordem de serviço diferentes. Porque nós temos ordem de serviço que consome a nossa frota, nós temos ordem de serviço que ela estarta um processo com uma transportadora terceira, e nós temos um outro processo que ele está fora da ordem de serviço. Que é, por exemplo, quando um cliente meu, ele tem um material que ele vai destinar, que seria o material que nós coletar, ele mesmo contrata o frete, ele carrega o caminhão e manda entregar aqui pra gente. Então é um controle, é um fluxo que eu preciso controlar,\n[LOCUTOR 3]: por quê?[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Porque eu faço diversas apurações no recebimento desse material, informações extras que vão servir de base, de integração, pra gente fazer a entrada no estoque pelo Proteus, entendeu?\n[LOCUTOR 3]: [PESSOA] de \n[LOCUTOR 14]: esse não necessariamente gera uma ordem de serviço, porque às vezes eu nem sei. Eu nem sei que esse material está chegando. A gente carrega, compra do transporte, carrega e manda entregar aqui. Eu só sei quando chega aqui pra mim. Então todos esses fluxos, eles estão nesse documento. Separado direitinho lá, escopado quais os processos a gente faria gestão dentro do [EMPRESA]. E tudo que não está nesse documento significa que é o que a gente vai fazer num sistema especialista. Aí pode\n[LOCUTOR 3]: [LOCAL] de \n[LOCUTOR 14]: que sejam essas duas plataformas que você mencionou da [LOCAL], conforme a gente vai avaliar, ou qualquer outra ferramenta que a gente já tem disponível no mercado, tá?\n[LOCUTOR 3]: Tá bom. Excelente, então eu vou aguardar receber esse documento para poder fazer a parte do escopo aqui dessa segunda onda e aí a gente alinha aqui internamente essas apresentações para você do [LOCAL], a balança e o gestão de frotas.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Não, está perfeito. E daí é só para a gente deixar alinhado que o foco nesse momento é realmente a gente implementar essa primeira fase.\n[LOCUTOR 3]: [PESSOA] de \n[LOCUTOR 14]: bom,\n[LOCUTOR 3]: entendi. Que vai ser o documento que você vai me mandar, é isso?[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Que vai ser esse documento que eu\n[LOCUTOR 3]: vou teLuiz [PESSOA] de \n[LOCUTOR 14]: mandar, tá? Então\n[LOCUTOR 3]: trabalhamos em paraleloLuiz [PESSOA] de \n[LOCUTOR 14]: ali. Ele tá bem restrito a essa primeira fase. Porque a gente já vem acertando isso, entre idas e vindas. Então, realmente, eu tenho o compromisso de colocar isso para funcionar e, em paralelo, a gente vai entendendo melhor essas ferramentas que você me disse que tem disponíveis, como é\n[LOCUTOR 3]: que elas seLuiz [PESSOA] de \n[LOCUTOR 14]: encaixariam, a gente vai levantando valores disso e tudo mais, e a gente vai tratando isso em paralelo. Aí, lá na frente, se a gente realmente for por esse caminho, a gente só se encontra lá na frente com as duas soluções. Beleza?\n[LOCUTOR 3]: Tá bom. E aí, um último pedido. O documento chegou para o... Esse segundo aqui, para o... O [PESSOA] mandou para o [PESSOA] no Whats dele, na sexta-feira. O [PESSOA] acabou... Assim, só para a gente evitar de acontecer de novo. O [PESSOA] acabou nem olhando, porque era sexta-feira, né? Se for olhar isso hoje. [PESSOA] de \n[LOCUTOR 14]: aí, sim,\n[LOCUTOR 3]: só para a gente manter a mesma trilha de e-mails, que daí fica todo mundo na mesma página e...[PESSOA] [PESSOA] de \n[LOCUTOR 14]: É,\n[LOCUTOR 3]: não [PESSOA] de \n[LOCUTOR 14]: perder. E a\n[LOCUTOR 3]: comunicação por e-mail, por favor.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: [LOCAL] para frente eu vou concentrar as ações e a comunicação relacionadas a esse projeto, que é um projeto que está relacionado diretamente às operações logísticas. e de portaria aqui também. Então, os documentos formalizados, tal, sempre você receberá por mim. E, daí, nas devolutivas, dúvidas, definições, aí, inicialmente, a discussão comigo e,\n[LOCUTOR 3]: daí, aquiloLuiz [PESSOA] de \n[LOCUTOR 14]: que realmente precisa de uma participação, uma decisão de participação do [PESSOA], do próprio [PESSOA], já que a gente está falando de integração, de informações que vão para dentro do Proteus, Aí eu trato internamente com eles, e se houver a necessidade de envolvê-los... aí a gente faz um foro maior. Assim, acho que a gente ganha velocidade.\n[LOCUTOR 3]: Tá bom. Eu posso apoiar nesse processo de arquitetura das soluções mais complexas quando for entrando especificamente em apresentações, soluções. A [PESSOA] aqui, o [PESSOA], super vai apoiar. Mas eu, como estive pessoalmente ali, conheci vocês, então desde o comecinhoLuiz [PESSOA] de \n[LOCUTOR 14]: eu\n[LOCUTOR 3]: vou dando, pelo menos, uma orientação em relação à arquitetura. E a genteLuiz [PESSOA] de \n[LOCUTOR 14]: vai\n[LOCUTOR 3]: fechando junto essa ideia geral. Porque você vê que tem muita integração. Esse sistemaLuiz [PESSOA] de \n[LOCUTOR 14]: logístico\n[LOCUTOR 3]: pode ser um sistema terceiro, só pra gente não perder a mão, né cara? o tracking inteiro ali,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: né\n[LOCUTOR 3]: cara? Onde a gente quer chegar,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: né?\n[LOCUTOR 3]: Senão daqui a pouco vira um Frankenstein issoLuiz [PESSOA] de \n[LOCUTOR 14]: aqui. Exato, exato. Essa foi minha preocupação também. Então, encerrando aqui, eu vou pedir a gentileza de você me passar o teu e-mail, [LOCAL].\n[LOCUTOR 3]: Mano,[PESSOA] [PESSOA] de \n[LOCUTOR 14]: qual\n[LOCUTOR 3]: que é o seu e-mail? Porque daí eu incluo você na última trilha, né [PESSOA]? A gente pega o último e-mail que a gente tá [PESSOA] de \n[LOCUTOR 14]: de\n[LOCUTOR 3]: informação, incluo você no último e-mail e dali pra frente a gente segue.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Pode ser, pode ser.\n[LOCUTOR 3]: Se quiser colocarLuiz [PESSOA] de \n[LOCUTOR 14]: aqui\n[LOCUTOR 3]: no chat seu endereço aqui para a gente ler.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Coloco, coloco sim.\n[LOCUTOR 3]: [PESSOA] de \n[LOCUTOR 14]: no chat. Aí você me encaminha um e-mail e daí na sequência eu já mando, formalizo para você o documento, tudo certinho. E aí você faz uma versão juntamente com o [PESSOA], e caso tenha qualquer dúvida em alguma informação desse documento, pode me falar, a gente pode agendar uma outra call para falar especificamente dessas dúvidas. O mais importante é a gente deixar o mais claro possível para que a gente já já vá no caminho certo, sem ter que\n[LOCUTOR 3]: irLuiz [PESSOA] de \n[LOCUTOR 14]: trabalhar.\n[LOCUTOR 3]: Inclusive, o último e-mail, [PESSOA], vocêLuiz [PESSOA] de \n[LOCUTOR 14]: estava\n[LOCUTOR 3]: nele, eu vou mandar aqui, vou colocar até aqui, logística.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Esse e-mail da [PESSOA], você se refere?\n[LOCUTOR 3]: Isso, isso.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Pode ser, pode ser. Pode ser\n[LOCUTOR 3]: nele mesmo.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Podemos seguir no histórico desse e-mail.\n[LOCUTOR 3]: Ótimo.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Combinado. Eu já, na sequência, compartilhe o documento com vocês.\n[LOCUTOR 3]: Excelente.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Algum\n[LOCUTOR 3]: comentário [PESSOA] ou [PESSOA] [PESSOA]?\n[LOCUTOR 8]: Não, acho que é isso, vou correr aqui também com as agendas e a gente segue dessa forma aí com essa análise e depois com as apresentações. Prazer aí [PESSOA], meu xará.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Prazer. Eu\n[LOCUTOR 8]: cheguei um pouquinho atrasado, tava em outra agenda, mas que bom [PESSOA] de \n[LOCUTOR 14]: consegui.\n[LOCUTOR 8]: Aí acho que a gente Tá claro e para nossos próximos passos. Valeu pessoal. Boa semana.\n[LOCUTOR 3]: Obrigado gente.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Boa\n[LOCUTOR 3]: semana\n[LOCUTOR 18]: para vocês.[PESSOA] de \n[LOCUTOR 10]: \n[LOCUTOR 12]: gente.[PESSOA] [PESSOA] de \n[LOCUTOR 14]: Valeu pessoal.",
+  "texto_filtrado": "[LOCUTOR 3]: [PESSOA], [PESSOA]?\n[LOCUTOR 3]: tarde.[PESSOA] de\n[LOCUTOR 10]: mas estou falando mudo. Gente, acho que só o [PESSOA] não vai conseguir participar. Ele está com compromisso agora de tarde. Vamos ver se ele entra depois no meio da reunião.\n[LOCUTOR 18]: [LOCAL], vai entrar mais alguém? Fora nós dois ou tu que vai tocar ou vai entrar\n[LOCUTOR 18]: [PESSOA],\n[LOCUTOR 3]: o [PESSOA]? O [PESSOA] e o [PESSOA] estão para entrar aqui.\n[LOCUTOR 18]: Será\n[LOCUTOR 15]: o que vocês devem saber é que o governo vai gerar um conflito national.\n[LOCUTOR 18]: BoaRodrigo de\n[LOCUTOR 3]: Acho que podemos seguir. O [PESSOA] estava terminando uma reunião lá.[PESSOA] de\n[LOCUTOR 10]: [LOCAL].\n[LOCUTOR 18]: para gravar. Então, [LOCAL], até comentei com o [PESSOA] agora há pouco, né, [PESSOA], que o [LOCAL] localizou ali, só para a gente alinhar, né, um documento que o [PESSOA] tinha mandado para o [PESSOA] no Whats, um tempo atrás, e aí, só para a gente explicar que o documento que a gente fez, aquela Meet 44 que a gente fez, que a gente mandou sexta-feira, não foi olhando este documento, tá? Foi as funcionalidades do Todos Coleta Entrega para fazer no [LOCAL], para vocês poderem substituir\n[LOCUTOR 18]: Todos Coleta Entrega. Daí hoje o [LOCAL] acabou localizando esse documento que o [PESSOA] tinha mandado ali para o [PESSOA], e aí olhou e viu que tem outras funcionalidades. Então, realmente, o documento que foi feito sexta-feira, ele não foi baseado neste documento que o [PESSOA] mandou. Então, talvez por isso tenha aquela diferença que tu comentou, né? fez uma leitura assim, já sinalizou. Tá, então, assim, a gente não teve, né, uma decisão tempoável de analisar detalhadamente este documento, mas daí a nossa ideia na reunião é até conversar sobre ele e a gente poder separar, né, o que são funcionalidades para substituir o tóxico letra-entrega, e até vocês confirmarem se realmente precisam todas elas ou não, e separar neste outro documento que funcionalidades tem ali a mais que não teria nem do Todos Coleta Entrega. Aí o [LOCAL] pode abrir ali e a gente se diz, ó, isso nem teria lá. A gente pode orçar também, de forma separada, sugestão. E vocês até avaliarem, né, [PESSOA]? Ah, quem sabe vamos fazer uma primeira fase para poder usar e poder acelerar. Só o que realmente é essencial ali do Todos Coleta Entrega. Funcionou, depois a gente pode ir avaliando outros funcionalidades adicionais para ficar atendendo a nossa totalidade. mas a gente separar por fases. Tá?[PESSOA] de\n[LOCUTOR 18]: Ok,[PESSOA] de\n[LOCUTOR 10]: não está claro. Acho que a ideia, realmente, é partir para esse tipo de projeto aí. Fazer a primeira fase, a primeira onda, atender 100% o que estava contemplando, né? Plugue mais coleta e entrega. E se tiver alguma outra funcionalidade e tudo mais, a gente fazer na... uma fase adicional. Porém, só uma pontuação, o [PESSOA] acabou assumindo a gerência de logística e transporte e ele fez todo um estudo profundo ali do escopo inicial, o que seria o coleta-entrega, fluig, ele acabou compilando ali toda a informação que seria necessário falando só de escopo inicial mesmo, por isso que a gente acabou falando sobre essas diferenças, que talvez faltaria algumas funcionalidades. para poder fazer esse escopo número um. E aí, melhorias, coisas que você pontuou, [PESSOA], que nem teria no coleto-entrega, aí, sim, a gente entende que tem que ficar para o segundo, acho que é mais um alinhamento, então, que seria. E aí, [PESSOA], se quiser apontar, ou [LOCAL] também pontuar, mas só para alinhar a nossa expectativa aqui.[PESSOA] [PESSOA] de\n[LOCUTOR 10]: Então sim, [PESSOA].[PESSOA] [PESSOA] de\n[LOCUTOR 14]: [PESSOA]. Então, boa tarde novamente. É um prazer conhecer vocês, [PESSOA], [LOCAL], com [PESSOA]. Acho que eu participei de uma reunião algumas semanas atrás, com o [PESSOA] e com o [PESSOA]. A [PESSOA] e o [LOCAL] ainda não tinham tido a oportunidade de falar com eles. Então, complementando o que o [PESSOA] já deu pra gente de introdução. Então, de fato, eu cheguei, eu entrei na [LOCAL] justamente num momento crucial, né? Tava se decidindo e já caminhando, já, para uma decisão de implementação dos dois sistemas, tanto de algumas funcionalidades dentro do Fluig, quanto de todas as funcionalidades do coletor-entrega. E a ideia inicial realmente era substituir, usar esses dois sistemas substituindo outros sistemas que nós já tínhamos rodando aqui na operação. E fazendo uma análise geral de todo esse fluxo de atendimento dos nossos processos, das operações, de transporte e tudo mais, Então, o entendimento foi um pouco diferente, de que até de alguma experiência já de implementação de outras soluções, de desenvolvimento de outras soluções, de que, na verdade, o que se desejava colocar dentro dessas duas ferramentas para a substituição da [PESSOA] que estava rodando, não seriam suficientes e dificilmente a gente alcançaria o sucesso, porque a gente está falando de hoje ferramentas que já são nativas em alguns processos, são especialistas em alguns processos, e o principal deles é a gestão das operações de transporte. E daí você, na prática, trazer isso para uma outra ferramenta que vai ser desenvolvida e tudo mais, isso daria realmente uma complexidade. E pelo escopo que eu vi inicial, a gente não teria todas as funcionalidades que a gente precisa para poder gerenciar toda a nossa operação de transporte, no que diz respeito Não só a coleta, e daí já foi mais um redirecionamento do escopo, porque esse escopo inicial ele vem falando muito de ordem de coleta, só que ordem de coleta, na verdade, é só uma das demandas que a gente tem para a nossa frota, é uma das demandas de transporte. A gente tem outros tipos de coleta, a gente tem entrega, a gente tem operação de transporte de destinação de resíduos e tudo mais. Então eu entendi, de fato, e conversando com o [PESSOA] e com o [PESSOA], ele chegar no mesmo entendimento. de que a gente precisava mudar um pouco o escopo, talvez deixá-lo um pouco mais amplo em alguns aspectos que para nós são importantes e faria todo sentido a gente desenvolver e muitas dessas funcionalidades já tiveram início, já, no desenvolvimento dentro do Fluig, e outros aspectos, outras funcionalidades que daí são funcionalidades que nós já temos sistemas que são especialistas nisso, toda a parte de geolocalização, criação de rota, gerenciamento da execução da rota, com uma série de particularidades. Hoje nós já temos sistemas nativos e especialistas nisso. Então, o meu entendimento foi que não faria muito sentido a gente tentar desenvolver tudo isso dentro do Fluig, já considerando o Fluig, não mais a questão do coleta-entrega. Então, diante disso, Aí veio todo esse levantamento que o [PESSOA] comentou, do que seria necessário e do que faria sentido a gente fazer dentro do Fluig, e aquilo que realmente não faria sentido a gente desenvolver no Fluig. E aí a gente vai trazer um sistema especialista para executar essas operações para a gente. Eu separei bem o que seria o escopo do Fluig, dentro do escopo inicial, não foge muito desse conceito de criação de ordem, e depois o gerenciamento da realização dessa ordem, com registro de informações e por aí vai. só que de uma forma um pouco mais ampla, de forma que a gente consiga abranger não só essa ordem de coleta, mas que a gente consiga abranger também a ordem de transporte de destinação, o fluxo de expedição e tudo mais. Então, mudando esse conceito de ordem de coleta para uma ordem de serviço, por tipos diferentes e assim por diante. E toda aquela parte de geolocalização, controle de posicionamento do motorista, até mesmo a questão de aplicativo do motorista, que funcionaria muito mais para essa gestão de rota, tudo isso dentro de uma outra ferramenta de um sistema especialista nesse tipo de processo. É só para a gente estar na mesma página da necessidade de mudança nesse escopo. E daí, aproveitando que esse documento vai precisar ser refeito, com base nessa última informação do [PESSOA] lá atrás, que não havia sido contemplada nesse primeiro documento, a gente já considerar um outro documento que eu desenvolvi, já nesse novo conceito, para que a gente possa desenvolver um documento final com base nesse que foi desenvolvido inicialmente.\n[LOCUTOR 3]: Então, [PESSOA], boa tarde, antes de mais nada. A [EMPRESA] tem diversas soluções de logística, inclusive tem algumas funcionalidades, algumas ferramentas que foram desenvolvidas nos últimos anos, então são ferramentas altamente modernas. Por exemplo, o [EMPRESA] [LOCAL] entrega, que é o famoso [LOCAL]. Ele tem dessas funcionalidades que eu recebi aqui na documentação, ele tem tudo isso, cara. [PESSOA] de\n[LOCUTOR 3]: geolocalização, ele tem toda uma questão de planejamento ali, de roteirização, e se você desejar, a gente pode colocar o especialista da ferramenta aqui, o [PESSOA]. Você também se chama [PESSOA], aliás?[PESSOA] [PESSOA] de\n[LOCUTOR 14]: que é o\n[LOCUTOR 3]: P.O. do produto, fazendo a apresentação da ferramenta para você. Aí você vai... É só sobre [LOCAL]. A gente falou dissoLuiz [PESSOA] de\n[LOCUTOR 3]: pouquinho quando eu estive pessoalmente na Múltiplus, antes de começar o projeto. E aí a gente entendeu que era muito, naquele momento, para Múltiplus. Então, vamos começar com uma coisa mais simples, depois a gente vai para uma ferramenta mais robusta. Mas a [EMPRESA] tem essa ferramenta de [LOCAL], que ela é muito mais completa do que o coleta-entrega, sabe? Ela é completinha mesmo. Aí a gente pode fazer uma apresentação sobre ela.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Acho que é excelente, acho que a gente pode fazer isso o quanto antes. E, na verdade, o que acabou acontecendo é que essa versão mais simples, que até foi acordada com o [PESSOA], com o [PESSOA], Na verdade, essa solução, essa versão mais simples, ela, na verdade, não atenderia ao que a gente precisa hoje, o que a gente tem como necessidade de gerenciamento das operações de transporte. E nem a abrangência necessária, como eu te falei. Não faz sentido eu só gerenciar a ordem de coleta. Ordem de coleta, sei lá, ela representa algo em torno de 30, 40% da minha demanda da demanda pela minha frota. Eu preciso gerenciar os outros 60 também. Não adianta gerenciar 40 e deixar 60% gerenciado na mão.\n[LOCUTOR 3]: Então,[PESSOA] [PESSOA] de\n[LOCUTOR 14]: uma das principais mudanças nesse escopo inicial é essa. Ele precisa ser mais abrangente. Ele precisa refletir melhor o que a gente tem de necessidade na operação. E uma dessas necessidades é justamente essa questão pegar uma ordem de coleta, transformá-la numa rota, direcionar essa rota para um dos meus veículos e daí fazer toda a gestão da execução dessa rota. A gente envolve o rastreamento, a gente envolve uma série de checkpoints automáticos no sistema, baseado na geolocalização do veículo dentro daquela rota que está linkada a uma ordem de serviço, no caso, uma ordem de coleta e assim por diante. Então, se você tem uma ferramenta que poderia nos suportar em todos esses processos, eu gostaria de conhecer. Eu estou essa semana, se for possível, agendar com especialistas de vocês para a gente explorar, acho que seria bastante oportuno.\n[LOCUTOR 3]: Sim, é possível. A gente providencia isso aqui, uma agenda com o especialista do [LOCAL], e aí você vai conhecer, a fabricante é super moderna. A gente falou dela quando a gente esteve pessoalmente aí.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Inclusive,\n[LOCUTOR 3]: a gente foi junto com o especialista de logística, foi eu e mais esse especialista. Foi de todas as soluções que a [EMPRESA] tem, né, [PESSOA]? Mas, no momento, [PESSOA] [PESSOA], no caso, aqui. Boa tarde, [PESSOA] [PESSOA]. No momento, havia uma preocupação maior, [PESSOA] [PESSOA], de a gente começar com o estruturante, que a gente chama, que é Proteus, BackOffice, cara, isso estava doendo muito. Então, eu tenho certeza que a decisão do [PESSOA] e do pessoal da direção da [LOCAL] foi assertiva, porque, cara, vamos estruturar primeiro, depois a gente vai acrescentando soluções. de logística e [LOCAL] de\n[LOCUTOR 14]: outra\n[LOCUTOR 3]: solução também super interessanteLuiz [PESSOA] de\n[LOCUTOR 3]: o gestão de frotas, tudo que vocês colocam aqui pra gente, controle de viagens, pneus, abastecimento, multa, jáLuiz [PESSOA] de\n[LOCUTOR 3]: o módulo do Proteus que faz isso, tá pronto, é só implementar, dar treinamento em cima do Proteus, é um dos módulos que o Proteus tem.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Não sabia que o [EMPRESA] tinha todos esses módulos aí. Eu sei que às vezes esse processo está um pouco truncado, mas é natural. A gente não tinha, na companhia, uma pessoa de logística, olhando para a\n[LOCUTOR 3]: logísticaLuiz [PESSOA] de\n[LOCUTOR 14]: de maneira técnica, estratégica,\n[LOCUTOR 3]: [PESSOA] de\n[LOCUTOR 14]: realmente quando eu entrei, eu comecei a olhar principalmente esses processos que já estavam em viagem de tomar uma decisão. E daí, de fato, do jeito que foi definido inicialmente, essa estratégia de estruturar, eu sou totalmente a favor, mas a gente precisa ter como ponto de partida algo que atenda a operação, já atenda já às nossas necessidades e da forma como foi escopado, foi definido e iria ser implementado, de fato criaria dificuldades adicionais para o dia a dia da nossa operação. Então eu realmente não podia deixar isso seguir e por isso da conversa com o [PESSOA] e com o [PESSOA], a primeira decisão foi realmente a gente interromper a questão do coleto e entrega, e focar a nossa atenção no Fluig, não necessariamente pro Fluig fazer essas funções que você acabou de citar, de toda essa parte de gestão de execução de rota, de transporte e tudo mais, e também a parte de gestão de frota. Eu já passei por alguns processos de desenvolvimento em plataformas de low-code, desenvolvimento de sistemas complexos, E, assim, é um processo muito difícil. É um processo que exige muita dedicação técnica. Então, não é a nossa realidade hoje. Eu não tenho nem braço para poder tocar um projeto desses. Ainda mais quando a gente tem no mercado, a exemplo do que você citou, dos módulos do [EMPRESA], que são sistemas especialistas, que já entregam isso de forma mais simples, mais rápida. Então, por isso, realmente é da necessidade dessa mudança de escopo.\n[LOCUTOR 3]: Inclusive, né, [PESSOA] [PESSOA], a gente tomou um cuidado aqui, eu, como, vamos dizer, ser arquiteto inicial da solução, como sou mais completa, não sou especialista em logística, como tem alguns aqui, de não vender mais do que a [EMPRESA] ia precisar. Eu falei, cara, vamos entregar o mínimo necessário. A discussão no fechamento, acho que o [PESSOA] [PESSOA] lembra, cara, vamos colocar o gestão de frotas, ele gera muito valor pra vocês. Economia com gás de pneu. Cara, mas aí é o budget. Aí ele falou, quer saber? O budget parece que não cabia no final e tal. Vamos deixar pra uma segunda fase? O módulo é integrado ao Proteus. Ele é nativo do Proteus, [PESSOA] [PESSOA], só pra você entender. E gera muito valor. Cara, eu fiquei com uma dor no coração. Falei, cara, isso aqui vai gerar muito resultado pra ele.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: [LOCUTOR 2]: assim, a gente está no final agora da primeira onda, que é entregar o módulo de back-office. Aí sim,[PESSOA] [PESSOA] de  agora é muito\n[LOCUTOR 3]: mais fácil você acrescentar o gestão de frota, os [LOCAL], inclusive tem o módulo também de balanças, que chama pesagem, que a gente consegue integrar com a balança de vocês e gerar indicador, sei lá, em algum lugar, no [LOCAL], seja lá onde for. Então eu entendo assim, é um escopo mais abrangente que a gente chegou a discutir pessoalmente, mas eram tantos assuntos E eu acho que agora a gente pode começar a fazer agendas de demonstração, se me permite a sugestão,[PESSOA] [PESSOA] de\n[LOCUTOR 14]: para\n[LOCUTOR 3]: cada um desses produtos, para depois a gente fazer uma agenda completa e ver a estruturaLuiz [PESSOA] de\n[LOCUTOR 3]: integrações, se tem algum [PESSOA] de\n[LOCUTOR 3]: e desenhar essa segunda fase.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Eu acho que estamos alinhados em relação a isso, e quanto antes a gente conseguir colocar uma agenda para eu conhecer melhor esses dois outros módulos que você citou, seria importantíssimo. De qualquer forma, isso ele corre de forma paralela.\n[LOCUTOR 3]: [PESSOA], éLuiz [PESSOA] de\n[LOCUTOR 14]: isso que eu\n[LOCUTOR 3]: queria saber.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: É, ele corre de forma paralela, por quê? Porque o que, enfim, eu ajustei de escopo para o [EMPRESA], ele não está muito fora do que já vinha sendo discutido. Na verdade,\n[LOCUTOR 3]: a gente [PESSOA] de\n[LOCUTOR 14]: mais coisas complexas a tirar do escopo, Como por exemplo, essa parte de geolocalização.\n[LOCUTOR 3]: Vou compartilhar, me permita aquiLuiz [PESSOA] de\n[LOCUTOR 14]: a oportunidade que eu vou\n[LOCUTOR 3]: compartilhar então o escopo do [LOCAL], que é isso que eu queria saber, que éLuiz [PESSOA] de\n[LOCUTOR 14]: essa\n[LOCUTOR 3]: segunda sprint. A gente falouLuiz [PESSOA] de\n[LOCUTOR 14]: aqui de\n[LOCUTOR 3]: alguns cadastros de motoristas, veículos e tal, para a gente poder fazer o início deLuiz [PESSOA] de\n[LOCUTOR 14]: um processo\n[LOCUTOR 3]: de,[PESSOA] [PESSOA] de\n[LOCUTOR 14]: podemos\n[LOCUTOR 3]: chamar de coleta, alguma coisa assim. E aíLuiz [PESSOA] de\n[LOCUTOR 3]: coloquei,[PESSOA] [PESSOA] de\n[LOCUTOR 3]: a necessidade, a primeira decisão que tem no coleta e entrega você faz no [LOCAL], eu coloquei três funcionalidades que você talvez não queira, que é o GPS, assinatura e fotos.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Isso, então, por exemplo, são coisas, dando isso como exemplo, a questão do GPS. O que a gente precisa é criar uma rota e fazer o gerenciamento da execução daquela rota. Por isso que eu estou dizendo, por isso que o GPS do Fluid para a gente não é aplicável, ele não vai trazer\n[LOCUTOR 3]: grandesLuiz [PESSOA] de\n[LOCUTOR 14]: benefícios. A questão da assinatura eletrônica, a assinatura eletrônica lá, eu conversei muito com o pessoal da área comercial, tem contato diretamente com os nossos clientes, E pra nós, o que é mais importante e viável, por exemplo, é o próprio motorista informar lá, né, com a pessoa, o nome da pessoa e o número do documento. Porque assim, na\n[LOCUTOR 3]: telaLuiz [PESSOA] de\n[LOCUTOR 14]: eletrônica, na tela do celular, assim, e é um processo bastante inviável no dia a\n[LOCUTOR 3]: dia, né?[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Até pelas pessoas com as quais a gente trata no ponto de coleta, são as pessoas que estão envolvidas no trabalho, às vezes estão com a mão suja, estão usando luva, têm dificuldade de fazer isso no celular. Então a gente realmente não vai precisar disso. A questão das\n[LOCUTOR 3]: fotosLuiz [PESSOA] de\n[LOCUTOR 14]: aí depende muito. E a questão das fotos eu entendo que está amarrada diretamente ao app que a gente vai disponibilizar para o motorista.\n[LOCUTOR 3]: [PESSOA] de\n[LOCUTOR 14]: a gente fala de dois sistemas apartados, o fluir, fazendo a gestão de alguns processos, e outro sistema de roteirização, fazendo a gestão da rota e tudo\n[LOCUTOR 3]: mais,[PESSOA] [PESSOA] de\n[LOCUTOR 14]: e daí eu imagino que com um aplicativo também, que o\n[LOCUTOR 3]: motoristaLuiz [PESSOA] de\n[LOCUTOR 14]: vai receber a atividade dele,\n[LOCUTOR 3]: [PESSOA] [PESSOA] de\n[LOCUTOR 14]: é uma questão de decisão, né? Se a gente vai usar o aplicativo do [LOCAL], do gestor de operações, de transporte, então essa questão das fotos, ela vai ter que estar nesse aplicativo, porque senão a gente vai ter que liberar dois aplicativos diferentes que motoristas e só vai\n[LOCUTOR 3]: complicarLuiz [PESSOA] de\n[LOCUTOR 14]: mais a vida deles no dia a dia, tá? Então, aí é uma questão de decisão, né? Mas eu entendo que faria mais sentido estar em um aplicativo que ele vai usar dentro da plataforma de gestão de operações de transporte.\n[LOCUTOR 3]: Não, está tranquilo. Seguindo o que seria esse primeiro escopo, estritamente essencial, os cadastros para a gente poder fazer um pedido de coleta, o processo de agendamento, nessa parteLuiz [PESSOA] de\n[LOCUTOR 3]: agendamento, Acredito que você vai talvez querer fazer no Fluig ou não. Talvez você faça no [PESSOA], eu não sei. Depois a gente pode ver como é que vai ser isso. depois [PESSOA] de\n[LOCUTOR 1]: conheceuLuiz [PESSOA] de\n[LOCUTOR 3]: [PESSOA].[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Quando você fala do agendamento, que processo você está se\n[LOCUTOR 3]: referindo? Porque o agendamento eu estou falando de calendário, eu estou falando de datas, horas, datas ali para o calendário de cada caminhão, o calendário para cada cliente, você tem todo um controle ali deLuiz [PESSOA] de\n[LOCUTOR 14]: agendas\n[LOCUTOR 3]: que você... Porque eu penso o seguinte, você tem uma origem, alguém cria esse agendamento,[PESSOA] [PESSOA] de\n[LOCUTOR 14]: essa\n[LOCUTOR 3]: [PESSOA] de\n[LOCUTOR 14]: talvez\n[LOCUTOR 3]: você sempre faça no Fluig, viu, [PESSOA]? Porque eu acredito que, pelo que eu entendi o processo de vocês pessoalmente, ele é um tanto complexo, né? Tem vários tipos de você iniciar uma coleta, uma retirada, uma coleta, uma entrega, né? E aí eu penso que esse início do processo, possivelmente, vocêLuiz [PESSOA] de\n[LOCUTOR 3]: sempre fazer no Fluig. E dali pra frente, você vai usar os aplicativos ou sistemas especialistas, sabe? [PESSOA] de\n[LOCUTOR 14]: esse\n[LOCUTOR 3]: processo de início de coleta, no meu entendimento, acho que vai sempre ser Fluig.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Isso, não tenho dúvida, porque o agendamento é feito no momento da criação da ordem de serviço, né?\n[LOCUTOR 3]: Isso, exato, criação da ordemLuiz [PESSOA] de\n[LOCUTOR 3]: serviço, esseLuiz [PESSOA] de\n[LOCUTOR 14]: é o tema. E tudo isso que a gente está falando aqui, minha concepção é que isso tem que ser dentro do fluido.\n[LOCUTOR 3]: É cara,[PESSOA] [PESSOA] de\n[LOCUTOR 14]: dificilmente\n[LOCUTOR 3]: se vai, porque assim, a gente já olhou o [LOCAL] pra isso, [LOCAL] de\n[LOCUTOR 3]: faz, ele não tem esse nível de integração com o Proteus, então o Fluig vai [LOCAL] de\n[LOCUTOR 14]: esse\n[LOCUTOR 3]: pedaço que vai começar o processo mesmo, e aí depois vai para os sistemasLuiz [PESSOA] de\n[LOCUTOR 14]: Proteus,\n[LOCUTOR 3]: [LOCAL].[PESSOA] [PESSOA] de\n[LOCUTOR 14]: E ele na verdade é planejamento e execução daquilo que foi agendado, então o agendamento ele vem num processo anterior aí.\n[LOCUTOR 3]: É isso. Aí estamos alinhados nesse aspecto. Então, entendi. [PESSOA]. Então, cara, eu considero que o scope ficou menor, né? Porque eu vou tirar três funcionalidades importantes que a gente ia desenvolver. Ficou de... Pô, já tirei GPS, tirei assinatura. Fotos ali, não é? Pô, terminou tranquilo de fazer, tá? Eu tiro toda essa parte de GPS. PeraíLuiz [PESSOA] de\n[LOCUTOR 3]: travou meu Word aqui. Que beleza, ó. Travou. [PESSOA] de\n[LOCUTOR 14]: até para facilitar, [LOCAL], eu preparei um escopo, um documento relativamente parecido com o seu, justamente com esse detalhamento do que eu entendo que seria necessário e seriam as funcionalidades que nós teríamos no [LOCAL]. Justamente abrangendo todos esses processos, né? E daí, nesse documento tem detalhado quais são esses processos, de acordo com o tipo de ordem de serviço. Então nós temos, sei lá, eu criei acho que cinco tipos de ordem de serviço diferentes, e daí, sei lá, com três fluxos diferentes para atender esses cinco tipos de ordem de serviço diferentes. Porque nós temos ordem de serviço que consome a nossa frota, nós temos ordem de serviço que ela estarta um processo com uma transportadora terceira, e nós temos um outro processo que ele está fora da ordem de serviço. Que é, por exemplo, quando um cliente meu, ele tem um material que ele vai destinar, que seria o material que nós coletar, ele mesmo contrata o frete, ele carrega o caminhão e manda entregar aqui pra gente. Então é um controle, é um fluxo que eu preciso controlar,\n[LOCUTOR 3]: por quê?[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Porque eu faço diversas apurações no recebimento desse material, informações extras que vão servir de base, de integração, pra gente fazer a entrada no estoque pelo Proteus, entendeu?\n[LOCUTOR 3]: [PESSOA] de\n[LOCUTOR 14]: esse não necessariamente gera uma ordem de serviço, porque às vezes eu nem sei. Eu nem sei que esse material está chegando. A gente carrega, compra do transporte, carrega e manda entregar aqui. Eu só sei quando chega aqui pra mim. Então todos esses fluxos, eles estão nesse documento. Separado direitinho lá, escopado quais os processos a gente faria gestão dentro do [EMPRESA]. E tudo que não está nesse documento significa que é o que a gente vai fazer num sistema especialista. Aí pode\n[LOCUTOR 3]: [LOCAL] de\n[LOCUTOR 14]: que sejam essas duas plataformas que você mencionou da [LOCAL], conforme a gente vai avaliar, ou qualquer outra ferramenta que a gente já tem disponível no mercado, tá?\n[LOCUTOR 3]: Tá bom. Excelente, então eu vou aguardar receber esse documento para poder fazer a parte do escopo aqui dessa segunda onda e aí a gente alinha aqui internamente essas apresentações para você do [LOCAL], a balança e o gestão de frotas.[PESSOA] [PESSOA] de\n[LOCUTOR 3]: [PESSOA] de\n[LOCUTOR 3]: entendi. Que vai ser o documento que você vai me mandar, é isso?[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Que vai ser esse documento que eu\n[LOCUTOR 3]: vou teLuiz [PESSOA] de\n[LOCUTOR 14]: mandar, tá? Então\n[LOCUTOR 3]: trabalhamos em paraleloLuiz [PESSOA] de\n[LOCUTOR 14]: ali. Ele tá bem restrito a essa primeira fase. Porque a gente já vem acertando isso, entre idas e vindas. Então, realmente, eu tenho o compromisso de colocar isso para funcionar e, em paralelo, a gente vai entendendo melhor essas ferramentas que você me disse que tem disponíveis, como é\n[LOCUTOR 3]: que elas seLuiz [PESSOA] de\n[LOCUTOR 14]: encaixariam, a gente vai levantando valores disso e tudo mais, e a gente vai tratando isso em paralelo. Aí, lá na frente, se a gente realmente for por esse caminho, a gente só se encontra lá na frente com as duas soluções. Beleza?\n[LOCUTOR 3]: Tá bom. E aí, um último pedido. O documento chegou para o... Esse segundo aqui, para o... O [PESSOA] mandou para o [PESSOA] no Whats dele, na sexta-feira. O [PESSOA] acabou... Assim, só para a gente evitar de acontecer de novo. O [PESSOA] acabou nem olhando, porque era sexta-feira, né? Se for olhar isso hoje. [PESSOA] de\n[LOCUTOR 3]: só para a gente manter a mesma trilha de e-mails, que daí fica todo mundo na mesma página e...[PESSOA] [PESSOA] de\n[LOCUTOR 3]: não [PESSOA] de\n[LOCUTOR 14]: perder. E a\n[LOCUTOR 3]: comunicação por e-mail, por favor.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: [LOCAL] para frente eu vou concentrar as ações e a comunicação relacionadas a esse projeto, que é um projeto que está relacionado diretamente às operações logísticas. e de portaria aqui também. Então, os documentos formalizados, tal, sempre você receberá por mim. E, daí, nas devolutivas, dúvidas, definições, aí, inicialmente, a discussão comigo e,\n[LOCUTOR 3]: daí, aquiloLuiz [PESSOA] de\n[LOCUTOR 14]: que realmente precisa de uma participação, uma decisão de participação do [PESSOA], do próprio [PESSOA], já que a gente está falando de integração, de informações que vão para dentro do Proteus, Aí eu trato internamente com eles, e se houver a necessidade de envolvê-los... aí a gente faz um foro maior. Assim, acho que a gente ganha velocidade.\n[LOCUTOR 3]: Tá bom. Eu posso apoiar nesse processo de arquitetura das soluções mais complexas quando for entrando especificamente em apresentações, soluções. A [PESSOA] aqui, o [PESSOA], super vai apoiar. Mas eu, como estive pessoalmente ali, conheci vocês, então desde o comecinhoLuiz [PESSOA] de\n[LOCUTOR 3]: vou dando, pelo menos, uma orientação em relação à arquitetura. E a genteLuiz [PESSOA] de\n[LOCUTOR 3]: fechando junto essa ideia geral. Porque você vê que tem muita integração. Esse sistemaLuiz [PESSOA] de\n[LOCUTOR 14]: logístico\n[LOCUTOR 3]: pode ser um sistema terceiro, só pra gente não perder a mão, né cara? o tracking inteiro ali,[PESSOA] [PESSOA] de\n[LOCUTOR 3]: cara? Onde a gente quer chegar,[PESSOA] [PESSOA] de\n[LOCUTOR 3]: Senão daqui a pouco vira um Frankenstein issoLuiz [PESSOA] de\n[LOCUTOR 14]: aqui. Exato, exato. Essa foi minha preocupação também. Então, encerrando aqui, eu vou pedir a gentileza de você me passar o teu e-mail, [LOCAL].\n[LOCUTOR 3]: Mano,[PESSOA] [PESSOA] de\n[LOCUTOR 14]: qual\n[LOCUTOR 3]: que é o seu e-mail? Porque daí eu incluo você na última trilha, né [PESSOA]? A gente pega o último e-mail que a gente tá [PESSOA] de\n[LOCUTOR 3]: informação, incluo você no último e-mail e dali pra frente a gente segue.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Pode ser, pode ser.\n[LOCUTOR 3]: Se quiser colocarLuiz [PESSOA] de\n[LOCUTOR 14]: aqui\n[LOCUTOR 3]: no chat seu endereço aqui para a gente ler.[PESSOA] [PESSOA] de\n[LOCUTOR 3]: [PESSOA] de\n[LOCUTOR 14]: no chat. Aí você me encaminha um e-mail e daí na sequência eu já mando, formalizo para você o documento, tudo certinho. E aí você faz uma versão juntamente com o [PESSOA], e caso tenha qualquer dúvida em alguma informação desse documento, pode me falar, a gente pode agendar uma outra call para falar especificamente dessas dúvidas. O mais importante é a gente deixar o mais claro possível para que a gente já já vá no caminho certo, sem ter que\n[LOCUTOR 3]: irLuiz [PESSOA] de\n[LOCUTOR 14]: trabalhar.\n[LOCUTOR 3]: Inclusive, o último e-mail, [PESSOA], vocêLuiz [PESSOA] de\n[LOCUTOR 14]: estava\n[LOCUTOR 14]: Esse e-mail da [PESSOA], você se refere?\n[LOCUTOR 3]: Isso, isso.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Pode ser, pode ser. Pode ser\n[LOCUTOR 3]: nele mesmo.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Podemos seguir no histórico desse e-mail.\n[LOCUTOR 3]: Ótimo.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Combinado. Eu já, na sequência, compartilhe o documento com vocês.\n[LOCUTOR 3]: Excelente.[PESSOA] [PESSOA] de\n[LOCUTOR 14]: Algum\n[LOCUTOR 3]: comentário [PESSOA] ou [PESSOA] [PESSOA]?\n[LOCUTOR 8]: Não, acho que é isso, vou correr aqui também com as agendas e a gente segue dessa forma aí com essa análise e depois com as apresentações. Prazer aí [PESSOA], meu xará.[PESSOA] [PESSOA] de\n[LOCUTOR 8]: cheguei um pouquinho atrasado, tava em outra agenda, mas que bom [PESSOA] de\n[LOCUTOR 14]: consegui.\n[LOCUTOR 3]: Obrigado gente.[PESSOA] [PESSOA] de\n[LOCUTOR 18]: para vocês.[PESSOA] de\n[LOCUTOR 12]: gente.[PESSOA] [PESSOA] de",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:24.506547+00:00",
+    "total_linhas": 227,
+    "linhas_mantidas": 176,
+    "linhas_removidas": 51,
+    "percentual_mantido": 77.53,
+    "confianca_media": 0.5188
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 18]: [EMPRESA], [PESSOA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tudo bem, [PESSOA]. Boa tarde. Acho que você está imudo aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4049,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Quem? Eu ou o [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: O [PESSOA]. Você está ouvindo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.432,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA], [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Tudo bem. Fala aí, [PESSOA]. É, não estamos te ouvindo. Olá,[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4113,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: pessoal. Tudo bem? Estão me ouvindo aí?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3533,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: tarde.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: mas estou falando mudo. Gente, acho que só o [PESSOA] não vai conseguir participar. Ele está com compromisso agora de tarde. Vamos ver se ele entra depois no meio da reunião.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5135,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [LOCAL], vai entrar mais alguém? Fora nós dois ou tu que vai tocar ou vai entrar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o [PESSOA]? O [PESSOA] e o [PESSOA] estão para entrar aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5007,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Será",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5341,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que eles não estão na sala?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Ainda não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 15]: o que vocês devem saber é que o governo vai gerar um conflito national.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4832,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Boa tarde, pessoal. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3709,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: BoaRodrigo de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tarde, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Acho que podemos seguir. O [PESSOA] estava terminando uma reunião lá.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: para gravar. Então, [LOCAL], até comentei com o [PESSOA] agora há pouco, né, [PESSOA], que o [LOCAL] localizou ali, só para a gente alinhar, né, um documento que o [PESSOA] tinha mandado para o [PESSOA] no Whats, um tempo atrás, e aí, só para a gente explicar que o documento que a gente fez, aquela Meet 44 que a gente fez, que a gente mandou sexta-feira, não foi olhando este documento, tá? Foi as funcionalidades do Todos Coleta Entrega para fazer no [LOCAL], para vocês poderem substituir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5634,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Todos Coleta Entrega. Daí hoje o [LOCAL] acabou localizando esse documento que o [PESSOA] tinha mandado ali para o [PESSOA], e aí olhou e viu que tem outras funcionalidades. Então, realmente, o documento que foi feito sexta-feira, ele não foi baseado neste documento que o [PESSOA] mandou. Então, talvez por isso tenha aquela diferença que tu comentou, né? fez uma leitura assim, já sinalizou. Tá, então, assim, a gente não teve, né, uma decisão tempoável de analisar detalhadamente este documento, mas daí a nossa ideia na reunião é até conversar sobre ele e a gente poder separar, né, o que são funcionalidades para substituir o tóxico letra-entrega, e até vocês confirmarem se realmente precisam todas elas ou não, e separar neste outro documento que funcionalidades tem ali a mais que não teria nem do Todos Coleta Entrega. Aí o [LOCAL] pode abrir ali e a gente se diz, ó, isso nem teria lá. A gente pode orçar também, de forma separada, sugestão. E vocês até avaliarem, né, [PESSOA]? Ah, quem sabe vamos fazer uma primeira fase para poder usar e poder acelerar. Só o que realmente é essencial ali do Todos Coleta Entrega. Funcionou, depois a gente pode ir avaliando outros funcionalidades adicionais para ficar atendendo a nossa totalidade. mas a gente separar por fases. Tá?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Ok,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: não está claro. Acho que a ideia, realmente, é partir para esse tipo de projeto aí. Fazer a primeira fase, a primeira onda, atender 100% o que estava contemplando, né? Plugue mais coleta e entrega. E se tiver alguma outra funcionalidade e tudo mais, a gente fazer na... uma fase adicional. Porém, só uma pontuação, o [PESSOA] acabou assumindo a gerência de logística e transporte e ele fez todo um estudo profundo ali do escopo inicial, o que seria o coleta-entrega, fluig, ele acabou compilando ali toda a informação que seria necessário falando só de escopo inicial mesmo, por isso que a gente acabou falando sobre essas diferenças, que talvez faltaria algumas funcionalidades. para poder fazer esse escopo número um. E aí, melhorias, coisas que você pontuou, [PESSOA], que nem teria no coleto-entrega, aí, sim, a gente entende que tem que ficar para o segundo, acho que é mais um alinhamento, então, que seria. E aí, [PESSOA], se quiser apontar, ou [LOCAL] também pontuar, mas só para alinhar a nossa expectativa aqui.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [PESSOA]. Eu não sei se vocês estão me ouvindo agora,[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3898,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Então sim, [PESSOA].[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [PESSOA]. Então, boa tarde novamente. É um prazer conhecer vocês, [PESSOA], [LOCAL], com [PESSOA]. Acho que eu participei de uma reunião algumas semanas atrás, com o [PESSOA] e com o [PESSOA]. A [PESSOA] e o [LOCAL] ainda não tinham tido a oportunidade de falar com eles. Então, complementando o que o [PESSOA] já deu pra gente de introdução. Então, de fato, eu cheguei, eu entrei na [LOCAL] justamente num momento crucial, né? Tava se decidindo e já caminhando, já, para uma decisão de implementação dos dois sistemas, tanto de algumas funcionalidades dentro do Fluig, quanto de todas as funcionalidades do coletor-entrega. E a ideia inicial realmente era substituir, usar esses dois sistemas substituindo outros sistemas que nós já tínhamos rodando aqui na operação. E fazendo uma análise geral de todo esse fluxo de atendimento dos nossos processos, das operações, de transporte e tudo mais, Então, o entendimento foi um pouco diferente, de que até de alguma experiência já de implementação de outras soluções, de desenvolvimento de outras soluções, de que, na verdade, o que se desejava colocar dentro dessas duas ferramentas para a substituição da [PESSOA] que estava rodando, não seriam suficientes e dificilmente a gente alcançaria o sucesso, porque a gente está falando de hoje ferramentas que já são nativas em alguns processos, são especialistas em alguns processos, e o principal deles é a gestão das operações de transporte. E daí você, na prática, trazer isso para uma outra ferramenta que vai ser desenvolvida e tudo mais, isso daria realmente uma complexidade. E pelo escopo que eu vi inicial, a gente não teria todas as funcionalidades que a gente precisa para poder gerenciar toda a nossa operação de transporte, no que diz respeito Não só a coleta, e daí já foi mais um redirecionamento do escopo, porque esse escopo inicial ele vem falando muito de ordem de coleta, só que ordem de coleta, na verdade, é só uma das demandas que a gente tem para a nossa frota, é uma das demandas de transporte. A gente tem outros tipos de coleta, a gente tem entrega, a gente tem operação de transporte de destinação de resíduos e tudo mais. Então eu entendi, de fato, e conversando com o [PESSOA] e com o [PESSOA], ele chegar no mesmo entendimento. de que a gente precisava mudar um pouco o escopo, talvez deixá-lo um pouco mais amplo em alguns aspectos que para nós são importantes e faria todo sentido a gente desenvolver e muitas dessas funcionalidades já tiveram início, já, no desenvolvimento dentro do Fluig, e outros aspectos, outras funcionalidades que daí são funcionalidades que nós já temos sistemas que são especialistas nisso, toda a parte de geolocalização, criação de rota, gerenciamento da execução da rota, com uma série de particularidades. Hoje nós já temos sistemas nativos e especialistas nisso. Então, o meu entendimento foi que não faria muito sentido a gente tentar desenvolver tudo isso dentro do Fluig, já considerando o Fluig, não mais a questão do coleta-entrega. Então, diante disso, Aí veio todo esse levantamento que o [PESSOA] comentou, do que seria necessário e do que faria sentido a gente fazer dentro do Fluig, e aquilo que realmente não faria sentido a gente desenvolver no Fluig. E aí a gente vai trazer um sistema especialista para executar essas operações para a gente. Eu separei bem o que seria o escopo do Fluig, dentro do escopo inicial, não foge muito desse conceito de criação de ordem, e depois o gerenciamento da realização dessa ordem, com registro de informações e por aí vai. só que de uma forma um pouco mais ampla, de forma que a gente consiga abranger não só essa ordem de coleta, mas que a gente consiga abranger também a ordem de transporte de destinação, o fluxo de expedição e tudo mais. Então, mudando esse conceito de ordem de coleta para uma ordem de serviço, por tipos diferentes e assim por diante. E toda aquela parte de geolocalização, controle de posicionamento do motorista, até mesmo a questão de aplicativo do motorista, que funcionaria muito mais para essa gestão de rota, tudo isso dentro de uma outra ferramenta de um sistema especialista nesse tipo de processo. É só para a gente estar na mesma página da necessidade de mudança nesse escopo. E daí, aproveitando que esse documento vai precisar ser refeito, com base nessa última informação do [PESSOA] lá atrás, que não havia sido contemplada nesse primeiro documento, a gente já considerar um outro documento que eu desenvolvi, já nesse novo conceito, para que a gente possa desenvolver um documento final com base nesse que foi desenvolvido inicialmente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então, [PESSOA], boa tarde, antes de mais nada. A [EMPRESA] tem diversas soluções de logística, inclusive tem algumas funcionalidades, algumas ferramentas que foram desenvolvidas nos últimos anos, então são ferramentas altamente modernas. Por exemplo, o [EMPRESA] [LOCAL] entrega, que é o famoso [LOCAL]. Ele tem dessas funcionalidades que eu recebi aqui na documentação, ele tem tudo isso, cara. [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: geolocalização, ele tem toda uma questão de planejamento ali, de roteirização, e se você desejar, a gente pode colocar o especialista da ferramenta aqui, o [PESSOA]. Você também se chama [PESSOA], aliás?[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: que é o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: P.O. do produto, fazendo a apresentação da ferramenta para você. Aí você vai... É só sobre [LOCAL]. A gente falou dissoLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pouquinho quando eu estive pessoalmente na Múltiplus, antes de começar o projeto. E aí a gente entendeu que era muito, naquele momento, para Múltiplus. Então, vamos começar com uma coisa mais simples, depois a gente vai para uma ferramenta mais robusta. Mas a [EMPRESA] tem essa ferramenta de [LOCAL], que ela é muito mais completa do que o coleta-entrega, sabe? Ela é completinha mesmo. Aí a gente pode fazer uma apresentação sobre ela.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Acho que é excelente, acho que a gente pode fazer isso o quanto antes. E, na verdade, o que acabou acontecendo é que essa versão mais simples, que até foi acordada com o [PESSOA], com o [PESSOA], Na verdade, essa solução, essa versão mais simples, ela, na verdade, não atenderia ao que a gente precisa hoje, o que a gente tem como necessidade de gerenciamento das operações de transporte. E nem a abrangência necessária, como eu te falei. Não faz sentido eu só gerenciar a ordem de coleta. Ordem de coleta, sei lá, ela representa algo em torno de 30, 40% da minha demanda da demanda pela minha frota. Eu preciso gerenciar os outros 60 também. Não adianta gerenciar 40 e deixar 60% gerenciado na mão.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Então,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: uma das principais mudanças nesse escopo inicial é essa. Ele precisa ser mais abrangente. Ele precisa refletir melhor o que a gente tem de necessidade na operação. E uma dessas necessidades é justamente essa questão pegar uma ordem de coleta, transformá-la numa rota, direcionar essa rota para um dos meus veículos e daí fazer toda a gestão da execução dessa rota. A gente envolve o rastreamento, a gente envolve uma série de checkpoints automáticos no sistema, baseado na geolocalização do veículo dentro daquela rota que está linkada a uma ordem de serviço, no caso, uma ordem de coleta e assim por diante. Então, se você tem uma ferramenta que poderia nos suportar em todos esses processos, eu gostaria de conhecer. Eu estou essa semana, se for possível, agendar com especialistas de vocês para a gente explorar, acho que seria bastante oportuno.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Sim, é possível. A gente providencia isso aqui, uma agenda com o especialista do [LOCAL], e aí você vai conhecer, a fabricante é super moderna. A gente falou dela quando a gente esteve pessoalmente aí.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5455,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Inclusive,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: a gente foi junto com o especialista de logística, foi eu e mais esse especialista. Foi de todas as soluções que a [EMPRESA] tem, né, [PESSOA]? Mas, no momento, [PESSOA] [PESSOA], no caso, aqui. Boa tarde, [PESSOA] [PESSOA]. No momento, havia uma preocupação maior, [PESSOA] [PESSOA], de a gente começar com o estruturante, que a gente chama, que é Proteus, BackOffice, cara, isso estava doendo muito. Então, eu tenho certeza que a decisão do [PESSOA] e do pessoal da direção da [LOCAL] foi assertiva, porque, cara, vamos estruturar primeiro, depois a gente vai acrescentando soluções. de logística e [LOCAL] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: outra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: solução também super interessanteLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5653,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o gestão de frotas, tudo que vocês colocam aqui pra gente, controle de viagens, pneus, abastecimento, multa, jáLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5257,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: o módulo do Proteus que faz isso, tá pronto, é só implementar, dar treinamento em cima do Proteus, é um dos módulos que o Proteus tem.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6036,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Não sabia que o [EMPRESA] tinha todos esses módulos aí. Eu sei que às vezes esse processo está um pouco truncado, mas é natural. A gente não tinha, na companhia, uma pessoa de logística, olhando para a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: logísticaLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: de maneira técnica, estratégica,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: realmente quando eu entrei, eu comecei a olhar principalmente esses processos que já estavam em viagem de tomar uma decisão. E daí, de fato, do jeito que foi definido inicialmente, essa estratégia de estruturar, eu sou totalmente a favor, mas a gente precisa ter como ponto de partida algo que atenda a operação, já atenda já às nossas necessidades e da forma como foi escopado, foi definido e iria ser implementado, de fato criaria dificuldades adicionais para o dia a dia da nossa operação. Então eu realmente não podia deixar isso seguir e por isso da conversa com o [PESSOA] e com o [PESSOA], a primeira decisão foi realmente a gente interromper a questão do coleto e entrega, e focar a nossa atenção no Fluig, não necessariamente pro Fluig fazer essas funções que você acabou de citar, de toda essa parte de gestão de execução de rota, de transporte e tudo mais, e também a parte de gestão de frota. Eu já passei por alguns processos de desenvolvimento em plataformas de low-code, desenvolvimento de sistemas complexos, E, assim, é um processo muito difícil. É um processo que exige muita dedicação técnica. Então, não é a nossa realidade hoje. Eu não tenho nem braço para poder tocar um projeto desses. Ainda mais quando a gente tem no mercado, a exemplo do que você citou, dos módulos do [EMPRESA], que são sistemas especialistas, que já entregam isso de forma mais simples, mais rápida. Então, por isso, realmente é da necessidade dessa mudança de escopo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Inclusive, né, [PESSOA] [PESSOA], a gente tomou um cuidado aqui, eu, como, vamos dizer, ser arquiteto inicial da solução, como sou mais completa, não sou especialista em logística, como tem alguns aqui, de não vender mais do que a [EMPRESA] ia precisar. Eu falei, cara, vamos entregar o mínimo necessário. A discussão no fechamento, acho que o [PESSOA] [PESSOA] lembra, cara, vamos colocar o gestão de frotas, ele gera muito valor pra vocês. Economia com gás de pneu. Cara, mas aí é o budget. Aí ele falou, quer saber? O budget parece que não cabia no final e tal. Vamos deixar pra uma segunda fase? O módulo é integrado ao Proteus. Ele é nativo do Proteus, [PESSOA] [PESSOA], só pra você entender. E gera muito valor. Cara, eu fiquei com uma dor no coração. Falei, cara, isso aqui vai gerar muito resultado pra ele.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [LOCUTOR 2]: assim, a gente está no final agora da primeira onda, que é entregar o módulo de back-office. Aí sim,[PESSOA] [PESSOA] de  agora é muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5323,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mais fácil você acrescentar o gestão de frota, os [LOCAL], inclusive tem o módulo também de balanças, que chama pesagem, que a gente consegue integrar com a balança de vocês e gerar indicador, sei lá, em algum lugar, no [LOCAL], seja lá onde for. Então eu entendo assim, é um escopo mais abrangente que a gente chegou a discutir pessoalmente, mas eram tantos assuntos E eu acho que agora a gente pode começar a fazer agendas de demonstração, se me permite a sugestão,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: cada um desses produtos, para depois a gente fazer uma agenda completa e ver a estruturaLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5609,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: integrações, se tem algum [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: ali",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: e desenhar essa segunda fase.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Eu acho que estamos alinhados em relação a isso, e quanto antes a gente conseguir colocar uma agenda para eu conhecer melhor esses dois outros módulos que você citou, seria importantíssimo. De qualquer forma, isso ele corre de forma paralela.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA], éLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: isso que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: queria saber.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: É, ele corre de forma paralela, por quê? Porque o que, enfim, eu ajustei de escopo para o [EMPRESA], ele não está muito fora do que já vinha sendo discutido. Na verdade,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: a gente [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: mais coisas complexas a tirar do escopo, Como por exemplo, essa parte de geolocalização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Vou compartilhar, me permita aquiLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: a oportunidade que eu vou",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: compartilhar então o escopo do [LOCAL], que é isso que eu queria saber, que éLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5322,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: segunda sprint. A gente falouLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: aqui de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: alguns cadastros de motoristas, veículos e tal, para a gente poder fazer o início deLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6014,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: um processo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: de,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: podemos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: chamar de coleta, alguma coisa assim. E aíLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: coloquei,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: a necessidade, a primeira decisão que tem no coleta e entrega você faz no [LOCAL], eu coloquei três funcionalidades que você talvez não queira, que é o GPS, assinatura e fotos.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Isso, então, por exemplo, são coisas, dando isso como exemplo, a questão do GPS. O que a gente precisa é criar uma rota e fazer o gerenciamento da execução daquela rota. Por isso que eu estou dizendo, por isso que o GPS do Fluid para a gente não é aplicável, ele não vai trazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5179,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: grandesLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: benefícios. A questão da assinatura eletrônica, a assinatura eletrônica lá, eu conversei muito com o pessoal da área comercial, tem contato diretamente com os nossos clientes, E pra nós, o que é mais importante e viável, por exemplo, é o próprio motorista informar lá, né, com a pessoa, o nome da pessoa e o número do documento. Porque assim, na",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: telaLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: eletrônica, na tela do celular, assim, e é um processo bastante inviável no dia a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: dia, né?[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Até pelas pessoas com as quais a gente trata no ponto de coleta, são as pessoas que estão envolvidas no trabalho, às vezes estão com a mão suja, estão usando luva, têm dificuldade de fazer isso no celular. Então a gente realmente não vai precisar disso. A questão das",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5241,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: fotosLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: aí depende muito. E a questão das fotos eu entendo que está amarrada diretamente ao app que a gente vai disponibilizar para o motorista.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4989,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: a gente fala de dois sistemas apartados, o fluir, fazendo a gestão de alguns processos, e outro sistema de roteirização, fazendo a gestão da rota e tudo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mais,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: e daí eu imagino que com um aplicativo também, que o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5036,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: motoristaLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: vai receber a atividade dele,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: é uma questão de decisão, né? Se a gente vai usar o aplicativo do [LOCAL], do gestor de operações, de transporte, então essa questão das fotos, ela vai ter que estar nesse aplicativo, porque senão a gente vai ter que liberar dois aplicativos diferentes que motoristas e só vai",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: complicarLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: mais a vida deles no dia a dia, tá? Então, aí é uma questão de decisão, né? Mas eu entendo que faria mais sentido estar em um aplicativo que ele vai usar dentro da plataforma de gestão de operações de transporte.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, está tranquilo. Seguindo o que seria esse primeiro escopo, estritamente essencial, os cadastros para a gente poder fazer um pedido de coleta, o processo de agendamento, nessa parteLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: agendamento, Acredito que você vai talvez querer fazer no Fluig ou não. Talvez você faça no [PESSOA], eu não sei. Depois a gente pode ver como é que vai ser isso. depois [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: conheceuLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA].[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Quando você fala do agendamento, que processo você está se",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: referindo? Porque o agendamento eu estou falando de calendário, eu estou falando de datas, horas, datas ali para o calendário de cada caminhão, o calendário para cada cliente, você tem todo um controle ali deLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: agendas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que você... Porque eu penso o seguinte, você tem uma origem, alguém cria esse agendamento,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5257,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: talvez",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: você sempre faça no Fluig, viu, [PESSOA]? Porque eu acredito que, pelo que eu entendi o processo de vocês pessoalmente, ele é um tanto complexo, né? Tem vários tipos de você iniciar uma coleta, uma retirada, uma coleta, uma entrega, né? E aí eu penso que esse início do processo, possivelmente, vocêLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: sempre fazer no Fluig. E dali pra frente, você vai usar os aplicativos ou sistemas especialistas, sabe? [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: processo de início de coleta, no meu entendimento, acho que vai sempre ser Fluig.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Isso, não tenho dúvida, porque o agendamento é feito no momento da criação da ordem de serviço, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, exato, criação da ordemLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: serviço, esseLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: é o tema. E tudo isso que a gente está falando aqui, minha concepção é que isso tem que ser dentro do fluido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É cara,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: dificilmente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: se vai, porque assim, a gente já olhou o [LOCAL] pra isso, [LOCAL] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: faz, ele não tem esse nível de integração com o Proteus, então o Fluig vai [LOCAL] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pedaço que vai começar o processo mesmo, e aí depois vai para os sistemasLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Proteus,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL].[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: E ele na verdade é planejamento e execução daquilo que foi agendado, então o agendamento ele vem num processo anterior aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É isso. Aí estamos alinhados nesse aspecto. Então, entendi. [PESSOA]. Então, cara, eu considero que o scope ficou menor, né? Porque eu vou tirar três funcionalidades importantes que a gente ia desenvolver. Ficou de... Pô, já tirei GPS, tirei assinatura. Fotos ali, não é? Pô, terminou tranquilo de fazer, tá? Eu tiro toda essa parte de GPS. PeraíLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: travou meu Word aqui. Que beleza, ó. Travou. [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4628,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: até para facilitar, [LOCAL], eu preparei um escopo, um documento relativamente parecido com o seu, justamente com esse detalhamento do que eu entendo que seria necessário e seriam as funcionalidades que nós teríamos no [LOCAL]. Justamente abrangendo todos esses processos, né? E daí, nesse documento tem detalhado quais são esses processos, de acordo com o tipo de ordem de serviço. Então nós temos, sei lá, eu criei acho que cinco tipos de ordem de serviço diferentes, e daí, sei lá, com três fluxos diferentes para atender esses cinco tipos de ordem de serviço diferentes. Porque nós temos ordem de serviço que consome a nossa frota, nós temos ordem de serviço que ela estarta um processo com uma transportadora terceira, e nós temos um outro processo que ele está fora da ordem de serviço. Que é, por exemplo, quando um cliente meu, ele tem um material que ele vai destinar, que seria o material que nós coletar, ele mesmo contrata o frete, ele carrega o caminhão e manda entregar aqui pra gente. Então é um controle, é um fluxo que eu preciso controlar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: por quê?[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5538,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Porque eu faço diversas apurações no recebimento desse material, informações extras que vão servir de base, de integração, pra gente fazer a entrada no estoque pelo Proteus, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: esse não necessariamente gera uma ordem de serviço, porque às vezes eu nem sei. Eu nem sei que esse material está chegando. A gente carrega, compra do transporte, carrega e manda entregar aqui. Eu só sei quando chega aqui pra mim. Então todos esses fluxos, eles estão nesse documento. Separado direitinho lá, escopado quais os processos a gente faria gestão dentro do [EMPRESA]. E tudo que não está nesse documento significa que é o que a gente vai fazer num sistema especialista. Aí pode",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: que sejam essas duas plataformas que você mencionou da [LOCAL], conforme a gente vai avaliar, ou qualquer outra ferramenta que a gente já tem disponível no mercado, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom. Excelente, então eu vou aguardar receber esse documento para poder fazer a parte do escopo aqui dessa segunda onda e aí a gente alinha aqui internamente essas apresentações para você do [LOCAL], a balança e o gestão de frotas.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5538,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Não, está perfeito. E daí é só para a gente deixar alinhado que o foco nesse momento é realmente a gente implementar essa primeira fase.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4589,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: entendi. Que vai ser o documento que você vai me mandar, é isso?[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.479,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Que vai ser esse documento que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5038,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vou teLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4817,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: mandar, tá? Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: trabalhamos em paraleloLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5815,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: ali. Ele tá bem restrito a essa primeira fase. Porque a gente já vem acertando isso, entre idas e vindas. Então, realmente, eu tenho o compromisso de colocar isso para funcionar e, em paralelo, a gente vai entendendo melhor essas ferramentas que você me disse que tem disponíveis, como é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.508,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que elas seLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: encaixariam, a gente vai levantando valores disso e tudo mais, e a gente vai tratando isso em paralelo. Aí, lá na frente, se a gente realmente for por esse caminho, a gente só se encontra lá na frente com as duas soluções. Beleza?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom. E aí, um último pedido. O documento chegou para o... Esse segundo aqui, para o... O [PESSOA] mandou para o [PESSOA] no Whats dele, na sexta-feira. O [PESSOA] acabou... Assim, só para a gente evitar de acontecer de novo. O [PESSOA] acabou nem olhando, porque era sexta-feira, né? Se for olhar isso hoje. [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5703,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: aí, sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: só para a gente manter a mesma trilha de e-mails, que daí fica todo mundo na mesma página e...[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5926,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: não [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: perder. E a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: comunicação por e-mail, por favor.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [LOCAL] para frente eu vou concentrar as ações e a comunicação relacionadas a esse projeto, que é um projeto que está relacionado diretamente às operações logísticas. e de portaria aqui também. Então, os documentos formalizados, tal, sempre você receberá por mim. E, daí, nas devolutivas, dúvidas, definições, aí, inicialmente, a discussão comigo e,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: daí, aquiloLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: que realmente precisa de uma participação, uma decisão de participação do [PESSOA], do próprio [PESSOA], já que a gente está falando de integração, de informações que vão para dentro do Proteus, Aí eu trato internamente com eles, e se houver a necessidade de envolvê-los... aí a gente faz um foro maior. Assim, acho que a gente ganha velocidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom. Eu posso apoiar nesse processo de arquitetura das soluções mais complexas quando for entrando especificamente em apresentações, soluções. A [PESSOA] aqui, o [PESSOA], super vai apoiar. Mas eu, como estive pessoalmente ali, conheci vocês, então desde o comecinhoLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: vou dando, pelo menos, uma orientação em relação à arquitetura. E a genteLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: fechando junto essa ideia geral. Porque você vê que tem muita integração. Esse sistemaLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: logístico",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pode ser um sistema terceiro, só pra gente não perder a mão, né cara? o tracking inteiro ali,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5139,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: né",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: cara? Onde a gente quer chegar,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5875,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Senão daqui a pouco vira um Frankenstein issoLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: aqui. Exato, exato. Essa foi minha preocupação também. Então, encerrando aqui, eu vou pedir a gentileza de você me passar o teu e-mail, [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Mano,[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: qual",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que é o seu e-mail? Porque daí eu incluo você na última trilha, né [PESSOA]? A gente pega o último e-mail que a gente tá [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5287,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: informação, incluo você no último e-mail e dali pra frente a gente segue.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Pode ser, pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Se quiser colocarLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: no chat seu endereço aqui para a gente ler.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5881,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Coloco, coloco sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: no chat. Aí você me encaminha um e-mail e daí na sequência eu já mando, formalizo para você o documento, tudo certinho. E aí você faz uma versão juntamente com o [PESSOA], e caso tenha qualquer dúvida em alguma informação desse documento, pode me falar, a gente pode agendar uma outra call para falar especificamente dessas dúvidas. O mais importante é a gente deixar o mais claro possível para que a gente já já vá no caminho certo, sem ter que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: irLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: trabalhar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Inclusive, o último e-mail, [PESSOA], vocêLuiz [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: estava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: nele, eu vou mandar aqui, vou colocar até aqui, logística.[PESSOA] [PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4217,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Esse e-mail da [PESSOA], você se refere?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5263,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Isso, isso.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Pode ser, pode ser. Pode ser",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: nele mesmo.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Podemos seguir no histórico desse e-mail.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ótimo.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Combinado. Eu já, na sequência, compartilhe o documento com vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4858,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Excelente.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Algum",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: comentário [PESSOA] ou [PESSOA] [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não, acho que é isso, vou correr aqui também com as agendas e a gente segue dessa forma aí com essa análise e depois com as apresentações. Prazer aí [PESSOA], meu xará.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Prazer. Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: cheguei um pouquinho atrasado, tava em outra agenda, mas que bom [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5189,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: consegui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Aí acho que a gente Tá claro e para nossos próximos passos. Valeu pessoal. Boa semana.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4473,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Obrigado gente.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: semana",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: para vocês.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5434,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 12]: gente.[PESSOA] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Valeu pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    }
+  ]
+}

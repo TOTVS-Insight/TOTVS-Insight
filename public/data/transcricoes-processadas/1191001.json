@@ -1,0 +1,1921 @@
+{
+  "id_reuniao": "1191001",
+  "codt": "TFEHER",
+  "data_reuniao": "2026-03-12 14:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 8]: Tem mais alguém entrando aí, parece? Ah não, acho que é a IA, né? \n[LOCUTOR 46]: aceitei\n[LOCUTOR 45]: as IAs aí do Marcelo e não sei mais quem que contou uma IA. Bom,\n[LOCUTOR 8]: pessoal. Então, só para atualizar a todos na semana passada, a gente não fez o status ali na quinta-feira tarde da semana passada, pessoal. A gente fez um plano na semana passada de fazer uma reunião ali diária para tacar as principais pendências ali e os pontos que estavam mais críticos no projeto. Então a gente fez uma reunião tanto na quarta, na quinta e na sexta também desses pontos e a gente continua seguindo a listagem de pendências. A gente continua seguindo a listagem de pendências de acordo com as prioridades que a gente tem. E aí, nesse sentido, da mesma forma que a gente estava batendo as principais tendências e a listagem e acompanhamento de evolução da semana passada, eu pedi para o [PESSOA] entrar aqui para a gente bater a listagem ali e combinar os próximos passos, entender essa semana o andamento dos itens, para a gente pegar os próximos itens que estão ali e também já continuar na programação. Paralelo a isso, A gente fez aqui também, até para dar uma posição para vocês, a gente fez um desenho e uma documentação mais estruturada daquele bate-papo da integração do [EMPRESA] que nós tivemos na semana anterior, retrasada, na semana passada, no alto da semana. E aí a gente tirou uma documentação junto com a equipe de [LOCAL] E a gente vai passar para vocês, até para ter uma revisão dos pontos, seria bacana a gente passar com o time do [LOCAL] também, acho que ele vai estar mais... inteiro no processo, até para ele bater o olho ali, olhar, analisar essa documentação para ver se tem algum ponto ali que eventualmente ficou faltando, se tem alguma coisa que foi conversado que não está ali, para a gente conseguir, de fato, iniciar as execuções. Então, a gente não quer iniciar antes de fazer essa documentação e passar para vocês analisar. E aí, só confirmando o Marcelo, aquela questão do [LOCAL] tá ok, né?[PESSOA] de \n[LOCUTOR 33]: Não sei. E em partes. O que aconteceu? A gente dimensionou todo o ambiente, a gente abriu o projeto do Yasu, tudo certo, em Oracle e Linux, daqui a pouco a [LOCAL] levantou a mão e disse, opa, nossa aplicação só roda em Windows,\n[LOCUTOR 8]: nãoMarcelo [PESSOA] de \n[LOCUTOR 33]: roda em Linux, tá? O que a gente fez? A gente já mandou uma proposta complementar ali, vai dar 500 reais mais ou menos, pra gente poder fazer o ambiente Windows, e tá na mão, aí voltamos para a mão do [PESSOA] e do [LOCAL], tá? Então assim, eu tenho uma reunião com o [LOCAL] hoje aqui e eu vou levar algumas demandas do que, o que a gente tá, como é que a gente tá no consórcio, eu vou apertar ele quanto a assinatura dessa proposta, e aí é apertar o [PESSOA] aí, que parece não ser um bom dia talvez para isso, né Marcelo?\n[LOCUTOR 39]: Exatamente, porque hoje tá complicado aqui, eu não consegui parar pra fazer nada ainda da minha rotina, mas é o seguinte, se você precisar de ajuda, me passa o link que eu entro em contato com eles, não sei se a gente hoje vai conseguir, que nem a gente fez da última vez que a gente conseguiu com outro, foi bem rápido. Eu acho que amanhã, se você não conseguir diretamente com eles, me passa, principalmente para o [PESSOA], é mais fácil, mas você não está atento com os dois, se você não conseguir diretamente, tá?[PESSOA] de \n[LOCUTOR 33]: [LOCUTOR 6]: aí eu prefiro que você me passe o link ou me passe, dá o que nem a gente fez da última vez, eu não sei se foi o e-mail,[PESSOA] de  se foi o link,\n[LOCUTOR 39]: que aí facilita, entendeu?[PESSOA] de \n[LOCUTOR 33]: Tá, ótimo, vou fazer isso já, já, assim que acabar essa reunião aqui, já te mando tudo, tá? Bom, esse é o ponto número um. O ponto número dois de integração do AVEPA que a gente tem, [PESSOA], e aí talvez a gente vai ter que trazer isso de uma outra forma, que é o atendimento de produção. Tem que colocar todo mundo na mesma página, onde estão. Lembra o assunto, ia ser pela vela, aí depois ia ser em tela de proteus. E aí o [PESSOA] levantou a mão dizendo, gente, para fazer na tela do proteus eu vou precisar de 14, 15 pessoas para poder fazer isso. Ele já tinha isso uma experiência anterior, e ele disse, cara, fazer isso, eu preciso desse número de pessoas. Então, o que a gente pensou? Vamos com o app e minha produção. O app, por ser um produto fechado, digamos assim, ele não permite customizações no nível que o source precisa. Então, o que a gente fez? A gente desenhou um mockup dentro do Fluig, e a gente vai fazer isso via Fluig, tá? Então, nós vamos ter um ponto de integração ali do [LOCAL] com o Fluig em algum momento. para receber os apontamentos de produção, tá bom? E aí, pessoal, amanhã, como eu vou estar aí no consórcio, a minha ideia já é elevar os custos disso, tá? Que não estão previstos no projeto, nem os custos de implantação, nem a customização, nem nada, né? Isso não é um aditivo que a gente tem aí. Só assim, aí [PESSOA], o que a gente vai fazer? A gente vai validar, tecnicamente, a solução ainda com o [PESSOA], temos que validar financeiramente, né, se é esse o caminho, e com o sinal verde aí nós vamos ter que fazer um asterisco aí no Terminatório de Documentação da Integração com o [EMPRESA],\n[LOCUTOR 8]: tá?[PESSOA] de \n[LOCUTOR 33]: Entendem aí?\n[LOCUTOR 8]: É isso que eu ia perguntar ao Marcelo. Então assim, a gente está com a documentação pronta aqui. Acha melhor a gente segurar até amanhã para entender como vai ficar? Será que vai mudar alguma coisa ali naMarcelo [PESSOA] de \n[LOCUTOR 33]: espaçamento? A gente deve segurar porque a gente pode ver todos os outros pontos que envolvem a integração. Principalmente quando a gente fala em nível do Proteus, tá? Assim, navega com o Proteus, vai aprovando tudo que dá do fluxo do Proteus e depois a gente entra nesse detalhe do apontamento de produção com o Fluid, tá? Só que isso não vai impactar no projeto que tu toca [PESSOA], porque a gente vai fazer via works aqui, que é o time do [PESSOA] mesmo que implanta. Então, como a gente tem um cara sênior que veio da [PESSOA], que é o Cauê, eu gostaria de colocar ele nesse projeto caso ele seja aprovado. Diga ele, [PESSOA].\n[LOCUTOR 50]: Só porque a pergunta é indiferente, enquanto a gente não fechar aqui a proposta para não aceitarem a proposta para fazer o apontamento no [LOCAL], como estão fazendo, de qualquer forma, não impede de continuar a instalação, como se fosse fazer o manual e gastar 15 pessoas, que é uma fortuna. Para não atrasar o projeto por causa disso, entendeu? Porque pode começar aquela negociação de vai e vem que a gente conhece bem, e aí esse é [PESSOA] de \n[LOCUTOR 33]: ponto de\n[LOCUTOR 50]: ter certeza.[PESSOA] de \n[LOCUTOR 33]: Ele não impacta, porque assim, a gente dentro daquilo que o [PESSOA] desenhou, a gente tem toda uma tratativa de ordem de produção, de estoque, de movimentação, etc, que não muda, é independente do apontamento.\n[LOCUTOR 8]: [PESSOA] de \n[LOCUTOR 33]: Fluig, ele não vai apontar para o Proteus, ele vai apontar para o Aveba, então, porque é o Aveba que faz o avanço de obra, que faz o cronograma, que faz as medições para fechar, Então, como a gente vai mandar a informação para lá e aí o [LOCAL] depois vai levar para o Proteus? Então, não muda. Então, tu pode seguir validando, tá [PESSOA]?\n[LOCUTOR 8]: Tá bom. Então, o que eu vou fazer? Então, finalizando aqui a reunião, já mando a documentação para vocês. Coloco o [PESSOA], o Marcelo, vou traduzir também, a [PESSOA], já coloco o [PESSOA] também. Aí eu peço uma análise para vocês. surgir dúvidas, se vocês retornam ali, se precisar de algum alinhamento, alguma reuniãozinha, alguma coisa nesse sentido, aí a gente envolve o arquiteto que prepara a optimização ali para a gente, para tirar essas dúvidas de vocês, se tiver algum ponto faltando ou algum ponto para acrescentar ali, que vocês identifiquem e a gente já coloca também no mesmo circuito. [PESSOA] de \n[LOCUTOR 33]: vou te pedir, copia eu e o [PESSOA] nesse e-mail, por favor.\n[LOCUTOR 8]: Sim.[PESSOA] de \n[LOCUTOR 33]: Ah, porque assim, aí a gente consegue manter a comunicação mais centralizada em\n[LOCUTOR 8]: todos,[PESSOA] de \n[LOCUTOR 33]: né? Porque daí, como a gente tá tratando todo um outro lado, a gente fica\n[LOCUTOR 8]: conectadoMarcelo [PESSOA] de \n[LOCUTOR 33]: nesse assunto pra não deixar ele\n[LOCUTOR 8]: cair. E manter o ciclo, assim, de certa forma, manter o ciclo que você e o [PESSOA] começou lá atrás no levantamento inicial, né? O planejamento inicial,[PESSOA] de \n[LOCUTOR 33]: o que foi\n[LOCUTOR 8]: pensado,[PESSOA] de \n[LOCUTOR 33]: tudo. [LOCAL], isso mesmo,\n[LOCUTOR 8]: issoMarcelo [PESSOA] de \n[LOCUTOR 33]: mesmo.\n[LOCUTOR 8]: Não, copio, sim. Então, nesse ponto a gente já tá anotado aqui, eu já envio pra vocês na sequência. E nos demais pontos, pessoal, vem relacionada a nossa listagem de dependências. Vou até abrir ela aqui.\n[LOCUTOR 50]: antes, só porque a [LOCAL] está aqui, até porque as pendências são... Alguma coisa é até do [EMPRESA] também, mas só para entender, aquela atualização, cópia da produção que tinha sido feita, está tudo resolvido lá, do que impactava as coisas do [EMPRESA], estava copiando a produção para homologação, para\n[LOCUTOR 1]: poder\n[LOCUTOR 50]: fazer alguma coisa.\n[LOCUTOR 1]: É, porque a gente tinha parado.\n[LOCUTOR 8]: Isso. O pessoal fez a cópia no final de semana. Fiz a parametrização que estava só em ambiente de teste. Foi feito também em ambiente de produção. A gente deu o acesso lá para o pessoal, para eles seguirem também. Então, se precisar eventualmente replicar novamente depois, vai ter esse ponto em que não precisa parametrizar tudo de novo igual a gente fez lá atrás.\n[LOCUTOR 1]: E aqui falo que eu ainda não tô entendendo os pontos que eu tô discutindo com o [LOCAL], né? Enquanto ele tá me apresentando o sistema, eu tô comentando coisas que talvez depois venham a chegar aqui com a nossa inserção de customização, ou assim, de parametrização. Tá? Muito obrigada.\n[LOCUTOR 8]: Deixa eu abrir aqui então, para a gente passar as principais informações.\n[LOCUTOR 23]: Você vai filtrar, tira o filtro de... Acho que\n[LOCUTOR 8]: estava\n[LOCUTOR 23]: só com tosse. Tira, deixa pra todos o eco, por favor.\n[LOCUTOR 8]: [PESSOA], só um minutinho. É que quando eu abri que já estava filtrado, né?\n[LOCUTOR 23]: É, já estava filtrado, que eu estava analisando pela manhã. Eu bato sua panilha todo dia quando chega\n[LOCUTOR 8]: aqui. \n[LOCUTOR 26]: toda pra mexer nesse filtro aí.\n[LOCUTOR 8]: \n[LOCUTOR 22]: gosta do Google Sheet. Quando eu preciso mexer aqui ou entender alguma coisa ali, dar uma passada, eu gosto de baixar aqui pro meu notebook, aí eu olho lá, vejo o que eu preciso olhar e depois se precisa alterar alguma coisa, aí eu altero no drive.\n[LOCUTOR 23]: Mas antigamente eu fazia isso, mas acostumei, cara. Hoje eu já uso esse bicho aí, tipo, faço até fórmula nele já. Às vezes até programa nesse bicho aí, às vezes faço umas brincadeiras nele. Vamos lá, pessoal. Nós estávamos seguindo, né, Marcelo, seguindo aquela lista, Focando no fechamento, inclusive hoje o [PESSOA], vou até pegar o resultado com o [PESSOA] da agenda da manhã da contabilidade, que o [PESSOA] está agora à tarde atuando. Nós tivemos a atualização da base e voltamos a atuar naqueles itens do financeiro. Eu até pedi que o [PESSOA] atualizasse o número do chamado, que ele abriu um chamado para ver aquela questão que mata dois itens, que é os extratos. E o [LOCAL], a gente teve um avanço ontem, conseguindo transmitir o R1000 pelo Proteus. E aí eu queria trazer uma discussão do [LOCAL] aqui para que a gente tomasse a decisão juntos. Porque assim, como vocês já encerraram o [LOCAL] desse mês lá no [LOCAL], eu não consigo transmitir novamente porque o [LOCAL] foi transmitido lá e já está fechado o período. A gente precisaria esperar o mês do [LOCAL] virar para que isso fosse transmitido pelo Proteus. Como a gente já capacitou o usuário, já mostrou como é que apura, já mostrou como é que transmite, porque os outros eventos, eles são meio que iguais ao que ele fez no R1000. Ele vai apurar, ele vai transmitir, vai monitorar. Ele vai fazendo isso por evento. Se a gente já pode encerrar esse item do re-inf, ou se vocês querem aguardar chegar lá no mês para poder transmitir, para a gente tomar essa decisão juntos aqui.\n[LOCUTOR 50]: Sempre complicada. Eu poderia dizer que poderia até fechar, mas aí a gente vai ter que... Minha\n[LOCUTOR 8]: preocupa\n[LOCUTOR 36]: é se chegar na hora de dar algum xabu, porque realmente o [PESSOA] me falou que foi tudo certinho, que deu tudo certo, mas a gente não fez o final, o último para valer.\n[LOCUTOR 8]: A\n[LOCUTOR 23]: movimentação e encerramento, né? Porque o erro ímpar tem um bloco de\n[LOCUTOR 8]: abertura,\n[LOCUTOR 23]: que foi o que foi transmitido, tem os\n[LOCUTOR 8]: blocos de\n[LOCUTOR 23]: movimentação e tem o bloco de encerramento. Como já estava encerrado e já tinha movimentação, a gente não conseguia mandar de novo, né?\n[LOCUTOR 50]: Acho que podia botar um 95% e colocar para o final da fila, entendeu?\n[LOCUTOR 8]: Eu até estava dando uma olhada aqui na listagem, um pouco mais cedo também, nesses itens. Tem alguns itens que foram colocados aqui, adicionados durante a semana, que eu estava observando aqui. e que o que eu Estou até tentando pensar em alguma situação aqui pra gente bater o martelo juntos, é no sentido porque assim, a gente tem daqui pra frente, eu entendo que a listagem de pendência em si, eu acho que a gente tem que quebrar ele em dois níveis, até pra gente entender o ataque desses níveis. Qual que seriam esses níveis? O primeiro item é referente ao nosso projeto principal, pra gente fazer o fechamento ali, o encontro de conta, das horas, tudo que a gente precisa atacar ali pra esse projeto. E os itens, que é normal, eu entendo que todo lugar vai ser dessa forma, vai ser os itens de sustentação de vocês no dia a dia. Ah, eu fui entrar numa nota aqui hoje e fiquei com dúvida. fui transmitir alguma nota, aconteceu alguma coisa, alguma coisa nesse sentido, porque para a gente colocar até mesmo a questão do que é sustentação ali no dia a dia e do que a gente precisa focar e encerrar da implantação original ali, né, que a gente precisa tacar. Se tem, por exemplo, algum ponto do fechamento que está pendente de janeiro que a gente precisa tacar, tem, a gente lista esses itens e já mata esses itens, senão que a gente vai deixar de fazer os outros. Então, por exemplo, a questão do reínfo, beleza, se eu for fazer o fechamento do reínfo no mês seguinte, se surgir alguma dúvida, se surgir algum ponto, como que eu vou fazer o ajuste disso? Pra gente, de alguma forma, ter essa separação. no final do dia, tudo um bompo de horas que a gente vai estar utilizando, mas pelo menos para a gente entender a classificação desses itens. Não sei, eu estava pensando alguma coisa nesse sentido. Até trouxe hoje aqui para a gente discutir junto, entender com você, [PESSOA], [PESSOA], [PESSOA], o [PESSOA], a gente pensar em algum cenário nesse sentido, até para não dar o sentimento, tipo assim, minha lista de dependências, toda semana acrescenta coisa e eu não vou encerrar ela nunca, Entendeu? Alguma coisa nesse sentido, fazer uma classificação ali. Alguém levantou a mão? Desculpa,\n[LOCUTOR 50]: não estou ouvindo.\n[LOCUTOR 39]: Alguns itens. Isso, sim, eu acho que pode ser mais uma coluna para dizer se é rotina ou se é implantação. Isso daí já... E, normalmente, a implantação passaria na frente da rotina. Mas tem coisas que são os dois. e aí tem que ver como é que vai fazer, né, que normalmente passaria na frente de qualquer coisa. Como, por exemplo, não sei se, eu comentei com a [PESSOA], não sei se ela chegou a adicionar, eu, assim, eu tô muito preocupada, como, por exemplo, o [EMPRESA] parou de funcionar. Entendeu? Sem contar que eu não tenho o [EMPRESA] de união. Como é que passa pra gente o [EMPRESA] e não tá completo? Entendeu? Como é que não instruem a gente, como eu tinha falado antes, perguntando, mas isso é uma configuração? Você falou sim, mas por que precisa de uma outra orientação, sim, mas não passaram nada para a gente. Entendeu? Eu estou colocando lá exatamente um [PESSOA] da [LOCAL] como se fosse um de oferecedor comum e aí não funciona. Achando que é problema nosso daqui, que a gente tinha feito errado, aí faz de novo, não funciona, funciona, não funciona, e quando eu vou descobrir é porque realmente não funciona, porque não foi configurado, tá? Agora, num instante, o [LOCAL] não funcionando, agora nada funciona, agora tá tudo zerado, você não tem, não tem nenhum [LOCAL] no KNAB, gerando. Aí eu não\n[LOCUTOR 23]: sei se \n[LOCUTOR 25]: um problema nosso aqui ou alguma coisa que aconteceu nesse meio-terno.\n[LOCUTOR 23]: Mas fornecedor também parou? Ou só a [LOCAL] que não está ainda? Não está ainda mais nada?\n[LOCUTOR 39]: Agora não está indo mais nada, pelo que me informaram. É assim,\n[LOCUTOR 50]: precisaria\n[LOCUTOR 39]: de um consultor olhar com o nosso pessoal aqui.\n[LOCUTOR 50]: Eu até acabei de passar para a [PESSOA] e pedir para considerar para o [PESSOA] tratar como prioridade os dois assuntos mais urgentes aqui da [PESSOA].\n[LOCUTOR 39]: que \n[LOCUTOR 41]: a [LOCAL], porque simplesmente parou, e é o centro de custos, porque você está precisando muito do relatório. Então, eles até vêm no centro de custos agora com o [EMPRESA], por isso que ele não está com a [PESSOA]. A [PESSOA] acabou de me falar que ele está com o [EMPRESA], com o [EMPRESA] ajudando ele para entender a questão que o próprio [EMPRESA] falou com a gente lá no dia da reunião. Então, assim, eu concordo com o gênero no Murigrau, que a [PESSOA] falou, porque esse, por exemplo, é o ponto do [LOCAL], A gente está falando de horas de implementação e horas de coisas que mexem. Por exemplo,\n[LOCUTOR 39]: o\n[LOCUTOR 50]: [LOCAL], que eu posso considerar que foi implementado depois que eu testo ele funcionando. Tudo bem, o [PESSOA] ele estava testando funcionando, mas estava faltando uma das modalidades que deveria ter sido colocada, alertada. A gente pode tentar aqui classificar, mas eu só considero que está implementado depois que a testada está funcionando, entendeu?\n[LOCUTOR 23]: Um dos pontos, pessoal, que eu queria entender, tá? Quando o analista configura esse KNAB, ele vai botando os títulos, né? Eu tenho fornecedores, eu tenho isso. Vocês chegaram a passar para eles quais impostos tinham lá que vocês queriam pagar dentro desse KNAB? Porque me estranha não ter sido configurado nada de imposto. Vocês passaram para eles, olha, a gente paga imposto com o \n[LOCUTOR 32]: e\n[LOCUTOR 23]: tem empresa que não paga imposto com o KNAB, tem empresa que paga guia direto na contabilidade. Foi informado para eles que teria esses blocos e quais impostos, porque assim, tem imposto que só paga pela caixa, só sai guia na caixa e você não paga dentro do KNAB. Foi informado para eles qual era exatamente quais impostos eles iam pagar por esse KNAB que vocês estão usando.\n[LOCUTOR 39]: Provavelmente não, mas também não foi levantado. A gente tá fazendo tudo junto. Vocês sabem que todo mundo a gente tá caminhando se não for levantado. A gente tá fazendo nossa rotina ao mesmo tempo, que a gente tá começando os dois processos ao mesmo tempo. Tanto o [EMPRESA] quanto a [PESSOA], né? Então, assim, a gente tá da mesma forma que vocês, Só que, assim, o fato é que você já tem essa bagagem. Eu não preciso saber que é diferente, entendeu? No caso do sistema. Eu não tenho como saber que é diferente. Para mim, eu estou considerando que é igual. Entendeu? Os da [LOCAL] não funcionam. Isso eu tenho certeza. E agora nenhum outro, pelo que me explicaram. Pode ser um problema não necessariamente daí. Pode ser daqui. Entendeu? Mas, assim...\n[LOCUTOR 23]: Do fornecedor, de parar de funcionar, é bem estranho, sabe? Porque ninguém deu mais manutenção que nada, sabe? o da [LOCAL] entendo que pode não estar configurado os impostos. Mas não est\n[LOCUTOR 10]: configurando o extrato, não? Que o extrato é ponto rete, não influencia, não?\n[LOCUTOR 23]: Desculpa, falhou um pouquinho.\n[LOCUTOR 39]: Eles, teoricamente, disseram que tinham que configurar também alguma coisa de extrato. O extrato também é ponto rete, não tem a ver, não? Não sei\n[LOCUTOR 23]: se... O extrato é ponto rete porque ele é um retorno do banco, né? Ele... Sim, o que o KNAB que você está se referindo\n[LOCUTOR 39]: [LOCUTOR 13]: o ponto REN, que é uma remessa para o banco. Eu estou enviando algo para o banco. É esse que eu entendo que não está saindo e que deve estar saindo zerado. Pode ser por vários motivos. Um\n[LOCUTOR 23]: dos motivos mais clássicos que tem \n[LOCUTOR 25]: quando\n[LOCUTOR 23]: você bota o nome do arquivo de KNAB na hora que você vai gerar errado. Ele não acha e gera em branco. Às vezes a gente até trava esse campo para que vocês não consigam mudar. Não estou dizendo que é isso, não analisei, mas normalmente um KNAB parar de funcionar, pode ser uma atualização do sistema, alguma coisa, mas que também não foi feita, não aplicaram nada no financeiro, até onde eu sei. Pode ser isso, pode ser algumas coisas, mas o fornecedor, eu sei que ele funciona. Agora, realmente, os KNAB de impostos, que são blocos diferentes, a primeira orientação que eu vou dar ao time é, levante com vocês quais são os impostos que eles querem pagar lá dentro. Porque tem impostos que só são pela caixa. Tem impostos que vocês não conseguem pagar por o banco que você trabalha.\n[LOCUTOR 39]: Não, mas\n[LOCUTOR 23]: esse\n[LOCUTOR 39]: especificamente eu\n[LOCUTOR 23]: testei\n[LOCUTOR 39]: em código de barra e ele lê.\n[LOCUTOR 23]: Ele vai, né?\n[LOCUTOR 39]: Ele vai.\n[LOCUTOR 23]: Pronto, que aí a gente vai justamente olhar. Depois que vocês passarem quais impostos, a gente vai olhar na documentação do banco de vocês. A gente tem lá essa documentação que vocês passaram lá. Qual é o layout, qual é o bloco que vai esse imposto em específico. Por isso que a gente vai precisar de quais impostos especificamente vocês estão falando. Para que a gente configure esse bloco e aí passa a gerar. Só que\n[LOCUTOR 39]: o\n[LOCUTOR 23]: pessoal vai explicar para vocês. [LOCAL] são diferentes. Você não monta bordereaux de imposto junto com bordereaux de fornecedor.\n[LOCUTOR 39]: Eu cheguei a fazer esse teste.\n[LOCUTOR 23]: Realmente n\n[LOCUTOR 10]: funcionou.\n[LOCUTOR 23]: Não tem nada de diferente. Não deve estar funcionando porque o teu KNAB não deve ter esse bloco. Só para você entender, quando a gente configura um Kinect, a gente não configura ele com tudo o que tem dentro de um layout do banco, até porque senão a gente iria configurar e gastar horas que não necessariamente você vai usar. A gente configura, habilita, configura exatamente com o que você usa. Ah, eu pago só tornecedor, eu pago TED, eu pago PIX, a gente faz conforme o que vocês utilizam. Por isso que o Kinabwe [PESSOA], se eu não me engano, ele tem até [EMPRESA], não tem?\n[LOCUTOR 39]: Em relação ao KNAB, só um conselho, próxima vez comenta, pergunta, quais são os impostos que vocês utilizam? Porque aí facilita outra área que está já na atuação, já está fazendo os dois ao mesmo tempo, para que ela possa orientar. Normalmente,\n[LOCUTOR 23]: isso é uma pergunta que faz parte dos roteiros de KNAB. Isso normalmente é perguntado. Eu vou olhar essa meeting, o que é que está lá. mencionando nela, mas, novamente, é bem comum se perguntar, tá?\n[LOCUTOR 8]: \n[LOCUTOR 16]: paga... A gente tem algo financeiro, né? O levantamento, entendeu?[PESSOA] de \n[LOCUTOR 33]: Ô,\n[LOCUTOR 23]: [PESSOA], deixa [LOCAL] [PESSOA] de \n[LOCUTOR 33]: só... Ô, [PESSOA],\n[LOCUTOR 23]: deixa [LOCAL] [PESSOA] de \n[LOCUTOR 33]: só... Tudo\n[LOCUTOR 23]: bem.[PESSOA] de \n[LOCUTOR 33]: Bem rapidão, tá? Pessoal do consórcio, eu vou sair porque o [LOCAL] tá vindo pra cá, ele conseguiu antecipar lá, terminou a reunião dele com a [EMPRESA], e aí ele já tá vindo pra cá, eu preciso correr pra mudar a sala, essas coisas todas. Então, assim, amanhã eu tô aí,\n[LOCUTOR 39]: [PESSOA] de \n[LOCUTOR 33]: ideia é a gente vai começar com o [LOCAL] amanhã de manhã. Então conseguiu o especialista para as 8 e meia. Então 8 e meia estarei pronto na sala. Vou tentar chegar um pouquinho antes já até para garantir que eu vou conseguir chegar no horário e aí depois eu preparei já aqui uma apresentação para mostrar onde a gente está ali na nossa linha do tempo. O que a gente tem de adicional a gente consegue colocar e a minha ideia é já conseguir levar os valores do que eu tiver na mão para que a gente consiga discutir isso. Para dar uma ideia para vocês, a gente não pode ficar colocando muita solução sem que antes a gente fale de dinheiro também, não é? Bate na trave aí depois, tá bom? Certo? Nos vemos amanhã então, tá?\n[LOCUTOR 50]: [PESSOA] [PESSOA], oito e meia, que o Marcelo marcou, só para você saber.\n[LOCUTOR 39]: \n[LOCUTOR 42]: bom, vouMarcelo [PESSOA] de \n[LOCUTOR 33]: avisar\n[LOCUTOR 39]: osMarcelo [PESSOA] de \n[LOCUTOR 33]: meus\n[LOCUTOR 39]: namoradosMarcelo [PESSOA] de \n[LOCUTOR 33]: também. O café na xícara da capivara.\n[LOCUTOR 39]: Não,[PESSOA] de \n[LOCUTOR 33]: a\n[LOCUTOR 39]: capivaraMarcelo [PESSOA] de \n[LOCUTOR 33]: [LOCUTOR 25]: pessoal.[PESSOA] de  Não tá bom gente até amanhã\n[LOCUTOR 8]: tá. O pior é que aqui onde eu fico que nem [LOCAL] é o símbolo da cidade aqui [LOCAL]. Gente\n[LOCUTOR 39]: mas tá o símbolo de todo lugar agora [LOCAL] não sei.\n[LOCUTOR 8]: \n[LOCUTOR 14]: em [LOCAL] tem [LOCAL] agora na beira\n[LOCUTOR 39]: do lago. Você passa na lagoa, tá cheio de capivara, capivarinha. Você vai na [LOCAL] ali, você vê invadindo as casas.\n[LOCUTOR 8]: É igual aqui também. Viram patrimônio da...\n[LOCUTOR 39]: Proliferação de... de capivara e virou símbolo do [LOCAL].\n[LOCUTOR 8]: [PESSOA]. Não conseguiu acabar, então deixa\n[LOCUTOR 39]: aí.\n[LOCUTOR 8]: Já que a gente não consegue\n[LOCUTOR 39]: terminar,\n[LOCUTOR 8]: a gente...\n[LOCUTOR 39]: Acho\n[LOCUTOR 8]: que\n[LOCUTOR 39]: vai ser o próximo animal da Copa ou das Olimpíadas,\n[LOCUTOR 8]: alguma coisa\n[LOCUTOR 39]: daquilo.\n[LOCUTOR 8]: Olha, não acho difícil,\n[LOCUTOR 45]: não, de\n[LOCUTOR 8]: repetir ele em todo lugar que você vê, né?\n[LOCUTOR 39]: [LOCUTOR 2]: lá. Mas assim,\n[LOCUTOR 23]: então...\n[LOCUTOR 8]: \n[LOCUTOR 11]: em resolução do [LOCAL], eu acho que é averiguar ali, Normalmente, pessoal, é uma pergunta que se faz, de nada. Faz impostos, até porque precisa configurar esses blocos, mas a primeira coisa que eu vou pedir é que levante quais são esses impostos. Vou até pedir que o [PESSOA] faça logo isso. Já está com vocês aí. Entenda que impostos são esses.\n[LOCUTOR 23]: Pegue a documentação do banco e veja se esses blocos estão implementados. Se não, a gente já traça ali o plano para botar esses blocos. E vê essa questão do fornecedor também, até porque são, sim, o fornecedor pode ir funcionando enquanto a gente vai configurando esses impostos? Desculpa, [PESSOA], eu acabei interrompendo o seu foco.\n[LOCUTOR 8]: Não, não, eu ia falar nesse sentido mesmo, né, que o... Como o [PESSOA] já está lá, já aproveitei a pergunta quais são esses impostos, entende ali, tem a [EMPRESA] que foi levantada do financeiro, então entendo que todas as perguntas devem estar lá, né, nesse ponto, mas, provavelmente, se não está configurado, não teve essa conversa, estou entendendo, né? Então ficou ali... ou ficou subentendido ali por parte da [PESSOA] e da [PESSOA], ah, estou entendendo que pagar é pagar tudo, ou, sei lá, na época o [EMPRESA] não fez essa pergunta específica dos tributos, então acabou passando. Então, se quiser revisar a Meet, eu posso reenviar a Meet aqui para vocês, não tem problema, mas já aproveitando que o [PESSOA] já está na agenda, já pergunto quais são, já entende ali, j\n[LOCUTOR 20]: vê essa\n[LOCUTOR 8]: questão pelo\n[LOCUTOR 23]: [LOCUTOR 3]: sendo gerado, zerado ali, que normalmente pode ser alguma coisa de pergunta mesmo, alguma questão ali, de montagem de perguntas, porque tem bastante perguntas na hora de você gerar os arquivos. Então, normalmente, provavelmente, deve ser isso, essa questão de perguntas. E assim, pessoal, como está tudo muito novo aqui, eu vou avaliar, pode ser até que o Kinect de vocês já tenha esse bloco, tá? Por algum motivo, só não está gerando, alguma coisa assim, tá? Mas deixa eu fazer uma análise, até para trazer mais informações para vocês, para não\n[LOCUTOR 8]: passar\n[LOCUTOR 23]: nenhuma informação que não, de fato, seja verídica. Preciso olhar se esses blocos estão. Primeiro, quais são os impostos, ver quais são os blocos na documentação do banco e ver se já tem no KNAB de vocês. E aí eu consigo dar um panorama melhor para vocês. Eu passo essa informação, [PESSOA], para você. Ou você quer que eu alinhe direto com\n[LOCUTOR 8]: o\n[LOCUTOR 23]: pessoal da [LOCAL]? Porque com a forma que você prefere que eu faça,\n[LOCUTOR 8]: Então, a gente tendo essa resposta de onde está com furado, não está com furado, está faltando alguma coisa, o que é, pode passar para a gente. se quiser, por exemplo, formalizar no e-mail pra gente ali, ó, o pessoal tá configurado ou não tá, ou vamos configurar aqui, paralelo às agendas de vocês, disponibilizamos até tal dia, a gente só posiciona\n[LOCUTOR 23]: pra gente. Tranquilo, até porque isso é algo que é feito meio que em paralelo, assim, né, é mais a validação com eles, né, envio pro banco e tal, mas a gente consegue fazer esse responda, tá?\n[LOCUTOR 8]: Então, só pra gente passar aqui, ô [PESSOA], só pra não passar item a item aqui, mas eu tava até dando uma olhada aqui, até pra não estender muito a nossa reunião aqui, mas assim, a questão aqui do [PESSOA], ele tá vendo esses primeiros itens aqui que estão sendo colocados como prioridade, que é esse antifúcio que a [EMPRESA] comentou, a questão do pin-up, que provavelmente ele vai ver na sequência, né, e a questão dos saldos aqui dos títulos, tava dando diferença lá, né, a divergência.\n[LOCUTOR 23]: Esse\n[LOCUTOR 8]: saldo,\n[LOCUTOR 23]: ele tá vendo com o chamado, tá, [PESSOA]? Tem um chamado pra pegar lá na descrição, tá?\n[LOCUTOR 8]: E o\n[LOCUTOR 23]: chamado aberto, eu vou até ver com ele se tá tendo devolução, se não tiver eu vou te pedir pra escalar, mas o chamado, se eu não me engano, foi de ontem ou foi desde ontem, eu acho que eles vão começar a responder agora, porque demoram um dia mais ou menos.\n[LOCUTOR 8]: E aí, [PESSOA], a gente conversou na semana passada lá, quando o consul tiver algum chamado assim, já pede pra copiar a gente, entendeu?\n[LOCUTOR 23]: O [PESSOA] já tava com essa orientação, mas eu vou só me certificar que\n[LOCUTOR 8]: ele\n[LOCUTOR 23]: fez, tá?\n[LOCUTOR 8]: Pelo menos eu não vi aqui um copio de chamado pra mim. Não sei se ele copiou a [PESSOA] ou o [PESSOA], mas pelo menos\n[LOCUTOR 50]: eu não recebi. Ele não copiou. Eu até cobrei isso hoje. Acho que não me copiaram nos chamados de\n[LOCUTOR 23]: novo. A orientação, vou até reforçar novamente, eu até falei com a [PESSOA] hoje na reunião, que é botar o número do chamado aqui na descrição e copiar todos pra quem esteja. Eu já sou copiado porque ele já me bota no meu e-mail, abre no meu e-mail, mas pra que vocês\n[LOCUTOR 8]: tenham\n[LOCUTOR 23]: esse acompanhamento, perguntando onde é que tá o chamado, ele vai recebendo o e-mail. Eu vou repassar\n[LOCUTOR 8]: isso\n[LOCUTOR 45]: novamente\n[LOCUTOR 23]: para\n[LOCUTOR 45]: o [PESSOA], tá? [PESSOA] e [PESSOA], eu queria pedir um favor para vocês, tá?\n[LOCUTOR 8]: \n[LOCUTOR 37]: recebo muitos e-mails todos os dias, então às vezes eu não dou conta. Quando eu tiver chamado, o que tem que pedir prioridade, se puder me mandar ali no WhatsApp, que tem nossos grupos aí.\n[LOCUTOR 23]: Eu te aviso, tá,\n[LOCUTOR 45]: [PESSOA]?\n[LOCUTOR 23]: Esse é porque ainda não chegou num nível deles não responderem a alguma coisa assim, Mas sempre que eu for pedir prioridade, eu falo, ó, você consegue dar prioridade nesse chamado aqui? Eu te peço por um número, tá?\n[LOCUTOR 45]: [LOCAL]. E daí eu entro no sistema aqui interno que eu tenho para pedir prioridade e escalar o assunto para ganhar celeridade.\n[LOCUTOR 23]: Às vezes a gente chama o analista direto naquele chat, né? Às vezes a gente chama ele lá e tenta trocar uma ideia ali com o analista que está atendendo, né? A gente tem esse costume quase que interno, né? Aquele chatzinho que a gente consegue chamar o analista da matriz direto, né? Às vezes\n[LOCUTOR 45]: a gente\n[LOCUTOR 23]: acelera também, mas claro que quando pede prioridade acelera. Tá bom. Então [PESSOA], como saída? A gente vai classificar alguma coisa no sentido do que é? a implantação e o que é que virou suporte, eu só perdi um pouco dessa parte que eu falei a definição. Eu sei que o pessoal explicou aí a questão de que tem coisas que é os dois, mas eu não sei se a gente teve uma definição sobre esse ponto.\n[LOCUTOR 8]: [LOCUTOR 7]: um pouquinho confuso. Acho que a pessoa levantou a mão ainda.\n[LOCUTOR 23]: Eu não brinquei com ele.\n[LOCUTOR 8]: \n[LOCUTOR 27]: duas mãos.\n[LOCUTOR 23]: \n[LOCUTOR 38]: embolei o português aqui. Um ponto só, eu sei que esse momento não é para a gente verificar essa lista agora, aquela reunião curta, mas esse primeiro ponto aí que está com o [PESSOA], a gente tinha ficado de testar junto o arquivo que a [PESSOA] recebeu. Vou aproveitar que a [PESSOA] está aqui para dizer para o [PESSOA], se puder, aproveitar que ele já vai falar com a [PESSOA], já está em contato com ela, para já colocar isso no item também. \n[LOCUTOR 18]: retorno, não é, [PESSOA], do\n[LOCUTOR 50]: extrato? Do extrato. Isso,\n[LOCUTOR 23]: isso.\n[LOCUTOR 50]: Eu que estou falando, mas é assunto da [PESSOA], mas eu quis antecipar aqui.\n[LOCUTOR 23]: É que é dela e eu troquei.\n[LOCUTOR 50]: E, assim, eu acho que a gente pode tentar sentar, não agora, mas num outro momento, igual a gente estava fazendo daquelas reuniões de verificar item a item, e a gente tentar ver aqui\n[LOCUTOR 8]: o que\n[LOCUTOR 50]: é um, o que é dois, o que é os dois, para\n[LOCUTOR 8]: poder... Então, qual é o meu objetivo, [PESSOA], nesse sentido aqui? Pegar os itens que a gente precisa fazer o ciclo em seguida à implantação. Eu sei que tem itens que vão surgir, que é prioridade, que dá para ter que atacar, isso acontece,\n[LOCUTOR 50]: mas\n[LOCUTOR 8]: eu queria montar um plano de ação aqui para a gente ver se a gente pega uma carga um pouco maior de agenda, talvez uma semana e faz um plano de ação,\n[LOCUTOR 50]: para a\n[LOCUTOR 8]: gente fechar esses itens para não... Para não dar aquela sensação de que passou mais uma semana e a gente está falando dos mesmos itens. E dentro desses itens vai surgir coisa nova no dia a dia. Semana que vem você pode\n[LOCUTOR 23]: fazer\n[LOCUTOR 8]: uma aprovação lá no financeiro. [PESSOA], essa aprovação em específico não foi, vou precisar olhar. Aí cai na sustentação, porque assim, isso vai ter no dia a dia. Nos próximos anos você vai estar usando, pode dar divergência no seu dia a dia. Aí a gente\n[LOCUTOR 50]: tem\n[LOCUTOR 8]: que pensar. Isso, isso aí que eu queria entender dessa lista. O que são itens do dia a dia que é suporte? Aí eu não sei, tá? Aí seria uma reunião que a gente pode fazer em sequência também. Primeiro faz a classificação, entende? Pra gente matar esses pontos de implantação. E aí uma segunda classificação, porque assim, como que a gente vai tratar o suporte da [LOCAL]? Aí não sei se o [PESSOA], o Marcelo, o pessoal, como que eles... Como que eles estão, se eles já falaram com vocês alguma coisa nesse sentido de suporte, de tretação do dia a dia? Porque vocês vão precisar levar mal isso aí, né? Todo cliente\n[LOCUTOR 50]: tem um\n[LOCUTOR 8]: plano de suporte depois do MoLive, né?\n[LOCUTOR 50]: Mas aí, [PESSOA], assim, pra eu considerar suporte, ele tem que ter funcionado pelo menos uma vez. E as\n[LOCUTOR 8]: coisas que\n[LOCUTOR 50]: eu sei, com exceção do Kinect, que realmente foi uma surpresa hoje, as coisas que a gente tem aqui são coisas que a gente não... nunca conseguiu fazer funcionar que eram para funcionar e por exemplo a questão do centro de custo no financeiro desde o início não vai aparecer no financeiro mas nunca aparece só aparece no financeiro\n[LOCUTOR 8]: o que a\n[LOCUTOR 50]: [PESSOA] e o time dela lançam direto no financeiro. Não é suporte. Eu não sei se vai ter muita coisa. Agora, se você conseguir aumentar as agendas, que nem hoje, eu vou até agradecer. [PESSOA], vocês conseguiram aí para a gente um consultor de contabilidade e a gente deu uma antecipada legal aqui nos pontos de contabilidade. O time aqui já está trabalhando em preparar os relatórios gerenciais, as regrinhas que tem que preparar para poder ter relatório gerencial. Então, assim, conseguir mais técnico, principalmente consultor, principalmente consultor especialista, para a gente adianta muito, que eu acho que\n[LOCUTOR 8]: vai\n[LOCUTOR 50]: terminar\n[LOCUTOR 8]: isso\n[LOCUTOR 50]: logo.\n[LOCUTOR 8]: É, então, nesse sentido, Thalena, assim, eu não olhei itens bonitos na lista, então, não tô julgando que tem muita coisa de suporte que eu estou dando essa ideia até pra pensar nesse plano de ação, né? Então, assim, a gente até, aí a gente entra pra dentro de casa aqui e olha, [PESSOA], cara, tem na lista aqui, tem 50 itens na lista. Desses 50 itens, cara, 45 itens que estão sendo usados pela primeira vez e nunca funcionou. Gente, a gente precisa montar um plano de ação aqui, vamos atacar isso aqui e que esses itens sejam finalizados para a gente virar essa página dos pontos de implantação. \n[LOCUTOR 34]: gente teve uma situação especial aqui, porque como a gente é uma empresa que está começando, o que acontece? Tem coisas que acontecem que a gente não sabia que ia ter, porque é diferente de uma empresa que tem a lixinha de todos os [EMPRESA], todos os pagamentos de imposto, que ela já fazia antes. Então assim aí acaba que é por isso que a gente até conta muito como a [PESSOA] falou com vocês também. Eu sei que não é uma plantação comum a plantação comum\n[LOCUTOR 8]: de voc\n[LOCUTOR 21]: todo mundo tem a\n[LOCUTOR 8]: lista de\n[LOCUTOR 50]: tudo que paga e você vai lá e repete. E às vezes é\n[LOCUTOR 8]: que\n[LOCUTOR 50]: esse pagamento da [EMPRESA] mesmo um dos pagamentos que a [EMPRESA] foi uma coisa eu até já sabia mas talvez o time do financeiro não sabia talvez faltou um pouco de comunicação enfim em outros pontos. Mas de qualquer forma o pagamento de tributos é uma coisa normal então assim Às vezes, eu acho que algumas coisas demoram um pouco mais a andar, mas tem bastante coisa ainda que a gente conversou e aí vai ter, mas aí não funciona, ou\n[LOCUTOR 8]: atrasou,\n[LOCUTOR 50]: mas tá andando,\n[LOCUTOR 8]: só se\n[LOCUTOR 50]: a gente\n[LOCUTOR 8]: puder\n[LOCUTOR 50]: acelerar\n[LOCUTOR 8]: realmente. Eu entendo que sim, eu vejo ali a avanço da lista, toda semana temos aqueles concluídos. A minha preocupação é só a gente ter esse sentimento. Pessoal, [PESSOA], legal. Fechamos aqui os pontos da implantação, os itens aqui, É lógico, tem o que você falou, [PESSOA]. É um projeto totalmente atípico, então não é uma empresa que está surgindo, então tem processos que vocês eventualmente estão testando ou, não testando, mas fazendo pela primeira vez agora, porque lá atrás não tinha nenhum cenário ainda para fazer. Enfim, vai ter de tudo, mas foi mais um ponto só para se a\n[LOCUTOR 50]: gente conseguir\n[LOCUTOR 8]: aí depois...\n[LOCUTOR 50]: Vamos olhar, sim. Depois alguém me ensina como é que baixa esse negócio aqui do [EMPRESA], que eu não sei baixar isso não.\n[LOCUTOR 8]: Você vai alinhar aqui, ó. Você vai alinhar aqui o arquivo.\n[LOCUTOR 50]: Baixar. Ah, obrigada. Gente,\n[LOCUTOR 39]: desculpa, eu tô correndo aqui. É preciso ainda de mim alguma coisinha?\n[LOCUTOR 8]: \n[LOCUTOR 12]: posso... Eu acho que é isso, [PESSOA]. Acho que os pontos principais que a gente bateu aqui, o ponto é só que... Eu só queria dar uma olhada pra essa listagem aqui, porque pra eu sentar com o [PESSOA] e com a [PESSOA] aqui, eu queria trazer um plano de ação um pouco mais agressivo pra gente tentar focar nos pontos ali e se anal, entendeu?\n[LOCUTOR 39]: [LOCAL].\n[LOCUTOR 50]: Se vocês quiserem fazer uma pré-avaliação de vocês, e aí, de repente, marcar uma reunião amanhã só, nós, de repente, com os usuários, para a gente fechar isso aí, tentar fechar o que é, o que não é. A única coisa é que amanhã, no final da tarde, eu não vou estar aqui. Então, ou amanhã, a partir da manhã, depois que o Marcelo for embora, ou segunda, a gente fecha isso.\n[LOCUTOR 8]: Tá bom, eu vou falar com o [PESSOA] aqui, a gente pensa em alguma coisa e fala com você, tá, [PESSOA]?\n[LOCUTOR 39]: Olha, depende, acho que até segunda-feira eu vou estar Eu não sei, eu acho\n[LOCUTOR 8]: que minha equipe\n[LOCUTOR 39]: também, entendeu?\n[LOCUTOR 8]: Então acho\n[LOCUTOR 39]: que se der pra fazer na terça, eu\n[LOCUTOR 8]: agradeço. Fica tranquilo,\n[LOCUTOR 39]: [PESSOA]. A\n[LOCUTOR 8]: gente já pensou em alguma coisa\n[LOCUTOR 39]: aqui,\n[LOCUTOR 8]: eu e [PESSOA]\n[LOCUTOR 39]: e a\n[LOCUTOR 8]: [PESSOA]. Aí a gente fala com a [PESSOA], né? Então, [PESSOA], talvez a gente puxa a [PESSOA], centraliza ali e depois\n[LOCUTOR 39]: ela\n[LOCUTOR 8]: liga com vocês no momento. \n[LOCUTOR 34]: gente já passa uma chegada. A gente já\n[LOCUTOR 8]: passa uma\n[LOCUTOR 50]: chegada só pra eles darem o de acordo.\n[LOCUTOR 8]: É isso?\n[LOCUTOR 50]: Beleza.\n[LOCUTOR 45]: [LOCAL]. \n[LOCUTOR 4]: para\n[LOCUTOR 45]: finalizar, [PESSOA], eu acho que na\n[LOCUTOR 8]: semana que\n[LOCUTOR 45]: vem aí eu\n[LOCUTOR 39]: e o\n[LOCUTOR 45]: [PESSOA] vamos alinhar aí. [LOCAL], [PESSOA]. Na semana que vem aí, o [PESSOA] e eu vamos alinhar\n[LOCUTOR 8]: tanto\n[LOCUTOR 45]: a continuidade, a próxima onda que a gente vai ter que fazer de manufatura, verba, tudo mais, né? E aí, essa questão do suporte continuado, vamos dizer assim. Porque, na verdade, não é suporte, né? É uma consultoria, alguma coisa nesse sentido, né? Porque é como tu falaste, né? A empresa nasceu agora, tem situações que a gente não conseguiu testar, não conseguiu prever. E vai surgir. E aí eu vou ver com o [PESSOA] qual é a melhor forma de atender, se vai continuar sendo pela equipe do [PESSOA] lá, ou se daqui a pouco a [LOCAL] do [LOCAL] assume, e a gente começa a botar alguns outros consultores pra girar e pra atender, a gente vai combinando esse jogo aí, pra vocês terem o melhor atendimento possível, porque isso aqui é só o início, né? Pelo que o Marcelo me falou, vocês estão prevendo um monte de coisa aí pros próximos meses, né?\n[LOCUTOR 50]: Eu tive uma conversa com o Marcelo e assim, amanhã ele deve trazer alguma coisa, infelizmente acho que o [PESSOA] não vai estar aqui, porque a gente está chegando cada vez mais à conclusão que eu preciso do contrato, gestão de contratos para o [EMPRESA]. E aí ele já me deu mais ou menos uma estimativa de horas. A outra coisa que eu ia te pedir, [PESSOA], assim que você puder, me manda, acho que eu só tenho horas até janeiro.\n[LOCUTOR 45]: Relatório de horas, eu\n[LOCUTOR 50]: também\n[LOCUTOR 45]: pedi para o [PESSOA] isso.\n[LOCUTOR 50]: Manda para a gente, a gente está acompanhado. [PESSOA], me ajuda, aperta, vamos diminuir as horas de comércio, a [LOCAL] já saiu. Vamos diminuir a hora do comércio,\n[LOCUTOR 45]: porque\n[LOCUTOR 50]: tem menos coisa lá do que eu acho que foi estimado. Tem mais coisa lá do que foi estimado, eu acho. E aí vamos para ver se eu consigo, porque eu sei que tirar dinheiro aqui é bem difícil.\n[LOCUTOR 45]: Imagino.\n[LOCUTOR 50]: Conversem com o Marcelo que vocês vão entender como é que funciona aqui. Mas eu acho que esse módulo de gestão de compras, o [PESSOA] tem me cobrado e eu acho que ele vai atender um monte de coisa para a [PESSOA], porque com ele que você consegue ver o funcionamento do que já tem em ordem de compra. Então, eu acho que a gente vai ter que fazer mais um que não estava na previsão de vocês. Mas, de repente, vamos ver. Vamos ver se a gente consegue. \n[LOCUTOR 14]: pegando esse gancho antes do [PESSOA] falar das horas, falou do [EMPRESA]. Daqui a pouco, a gente vai ter que ter uma conversa com a [LOCAL], [PESSOA], para ver se realmente tudo aquilo que foi pedido realmente vai ser necessário agora. Talvez, daqui a pouco, a gente reduza o escopo. Não, isso aqui não se cita agora. Pode entrar daqui seis meses, pode entrar do que vem. Pessoal, tem\n[LOCUTOR 23]: mais um\n[LOCUTOR 50]: pouco, eu\n[LOCUTOR 23]: tenho uma reunião aqui agora, um pouquinho atrasado para ela.\n[LOCUTOR 45]: Beleza, [PESSOA]. Obrigado.\n[LOCUTOR 50]: Valeu, [PESSOA].\n[LOCUTOR 8]: Beleza, [PESSOA]. Valeu. Tá, eu mando sim, tá na sequência aqui, já estava pronto no slide aqui já, tá, [PESSOA]? Então a gente teve, eu mandei até janeiro, né, porque foi um pouco a mais janeiro ali por causa do [PESSOA], né, a gente usou um pouco mais de horas. E aí dentro de fevereiro aqui já reduziu bastante também, a gente reduziu até 149 horas aqui em fevereiro. Mas eu mando pra vocês, tá? Acompanhado certinho.\n[LOCUTOR 50]: Essas horas são por causa do carnaval e do fim de semana, porque se fosse pela demanda... Carnaval é mês de 28\n[LOCUTOR 8]: dias.\n[LOCUTOR 50]: [LOCUTOR 15]: na conta tá as horas da equipe do [PESSOA], mais 20 horas de gestão que é minha. Aqui, interna\n[LOCUTOR 45]: da TOTUS, não está o [EMPRESA].\n[LOCUTOR 50]: [LOCUTOR 37]: vou cobrar a [PESSOA] disso, inclusive, para trazer o status\n[LOCUTOR 45]: report.\n[LOCUTOR 50]: De repente, para trazer o status report agora e a gente colocar ali, sei lá, com a coluninha do lado do [PESSOA], depois que o \n[LOCUTOR 5]: passar,\n[LOCUTOR 50]: a gente junte, ou você junte, [PESSOA], para a gente, porque eu preciso acompanhar...\n[LOCUTOR 45]: Eu consolido. Isso,\n[LOCUTOR 50]: eu\n[LOCUTOR 45]: consolido, porque eu tenho que controlar o contrato, né? Então, eu consolido.\n[LOCUTOR 50]: Pois é, e eu também, senão o [PESSOA] aqui me... Puxa orelha. Tá bom. Obrigado.\n[LOCUTOR 8]: \n[LOCUTOR 17]: assim. Beleza, gente. Eu mando pra vocês. Obrigado.\n[LOCUTOR 45]: Obrigado, pessoal.\n[LOCUTOR 8]: [LOCAL],\n[LOCUTOR 45]: gente. [LOCAL].\n[LOCUTOR 8]: [LOCAL],\n[LOCUTOR 52]: gente. Bom trabalho.",
+  "texto_filtrado": "[LOCUTOR 46]: aceitei\n[LOCUTOR 45]: as IAs aí do Marcelo e não sei mais quem que contou uma IA. Bom,\n[LOCUTOR 8]: pessoal. Então, só para atualizar a todos na semana passada, a gente não fez o status ali na quinta-feira tarde da semana passada, pessoal. A gente fez um plano na semana passada de fazer uma reunião ali diária para tacar as principais pendências ali e os pontos que estavam mais críticos no projeto. Então a gente fez uma reunião tanto na quarta, na quinta e na sexta também desses pontos e a gente continua seguindo a listagem de pendências. A gente continua seguindo a listagem de pendências de acordo com as prioridades que a gente tem. E aí, nesse sentido, da mesma forma que a gente estava batendo as principais tendências e a listagem e acompanhamento de evolução da semana passada, eu pedi para o [PESSOA] entrar aqui para a gente bater a listagem ali e combinar os próximos passos, entender essa semana o andamento dos itens, para a gente pegar os próximos itens que estão ali e também já continuar na programação. Paralelo a isso, A gente fez aqui também, até para dar uma posição para vocês, a gente fez um desenho e uma documentação mais estruturada daquele bate-papo da integração do [EMPRESA] que nós tivemos na semana anterior, retrasada, na semana passada, no alto da semana. E aí a gente tirou uma documentação junto com a equipe de [LOCAL] E a gente vai passar para vocês, até para ter uma revisão dos pontos, seria bacana a gente passar com o time do [LOCAL] também, acho que ele vai estar mais... inteiro no processo, até para ele bater o olho ali, olhar, analisar essa documentação para ver se tem algum ponto ali que eventualmente ficou faltando, se tem alguma coisa que foi conversado que não está ali, para a gente conseguir, de fato, iniciar as execuções. Então, a gente não quer iniciar antes de fazer essa documentação e passar para vocês analisar. E aí, só confirmando o Marcelo, aquela questão do [LOCAL] tá ok, né?[PESSOA] de\n[LOCUTOR 33]: Não sei. E em partes. O que aconteceu? A gente dimensionou todo o ambiente, a gente abriu o projeto do Yasu, tudo certo, em Oracle e Linux, daqui a pouco a [LOCAL] levantou a mão e disse, opa, nossa aplicação só roda em Windows,\n[LOCUTOR 8]: nãoMarcelo [PESSOA] de\n[LOCUTOR 33]: roda em Linux, tá? O que a gente fez? A gente já mandou uma proposta complementar ali, vai dar 500 reais mais ou menos, pra gente poder fazer o ambiente Windows, e tá na mão, aí voltamos para a mão do [PESSOA] e do [LOCAL], tá? Então assim, eu tenho uma reunião com o [LOCAL] hoje aqui e eu vou levar algumas demandas do que, o que a gente tá, como é que a gente tá no consórcio, eu vou apertar ele quanto a assinatura dessa proposta, e aí é apertar o [PESSOA] aí, que parece não ser um bom dia talvez para isso, né Marcelo?\n[LOCUTOR 39]: Exatamente, porque hoje tá complicado aqui, eu não consegui parar pra fazer nada ainda da minha rotina, mas é o seguinte, se você precisar de ajuda, me passa o link que eu entro em contato com eles, não sei se a gente hoje vai conseguir, que nem a gente fez da última vez que a gente conseguiu com outro, foi bem rápido. Eu acho que amanhã, se você não conseguir diretamente com eles, me passa, principalmente para o [PESSOA], é mais fácil, mas você não está atento com os dois, se você não conseguir diretamente, tá?[PESSOA] de\n[LOCUTOR 33]: [LOCUTOR 6]: aí eu prefiro que você me passe o link ou me passe, dá o que nem a gente fez da última vez, eu não sei se foi o e-mail,[PESSOA] de  se foi o link,\n[LOCUTOR 39]: que aí facilita, entendeu?[PESSOA] de\n[LOCUTOR 33]: Tá, ótimo, vou fazer isso já, já, assim que acabar essa reunião aqui, já te mando tudo, tá? Bom, esse é o ponto número um. O ponto número dois de integração do AVEPA que a gente tem, [PESSOA], e aí talvez a gente vai ter que trazer isso de uma outra forma, que é o atendimento de produção. Tem que colocar todo mundo na mesma página, onde estão. Lembra o assunto, ia ser pela vela, aí depois ia ser em tela de proteus. E aí o [PESSOA] levantou a mão dizendo, gente, para fazer na tela do proteus eu vou precisar de 14, 15 pessoas para poder fazer isso. Ele já tinha isso uma experiência anterior, e ele disse, cara, fazer isso, eu preciso desse número de pessoas. Então, o que a gente pensou? Vamos com o app e minha produção. O app, por ser um produto fechado, digamos assim, ele não permite customizações no nível que o source precisa. Então, o que a gente fez? A gente desenhou um mockup dentro do Fluig, e a gente vai fazer isso via Fluig, tá? Então, nós vamos ter um ponto de integração ali do [LOCAL] com o Fluig em algum momento. para receber os apontamentos de produção, tá bom? E aí, pessoal, amanhã, como eu vou estar aí no consórcio, a minha ideia já é elevar os custos disso, tá? Que não estão previstos no projeto, nem os custos de implantação, nem a customização, nem nada, né? Isso não é um aditivo que a gente tem aí. Só assim, aí [PESSOA], o que a gente vai fazer? A gente vai validar, tecnicamente, a solução ainda com o [PESSOA], temos que validar financeiramente, né, se é esse o caminho, e com o sinal verde aí nós vamos ter que fazer um asterisco aí no Terminatório de Documentação da Integração com o [EMPRESA],\n[LOCUTOR 8]: tá?[PESSOA] de\n[LOCUTOR 33]: Entendem aí?\n[LOCUTOR 8]: É isso que eu ia perguntar ao Marcelo. Então assim, a gente está com a documentação pronta aqui. Acha melhor a gente segurar até amanhã para entender como vai ficar? Será que vai mudar alguma coisa ali naMarcelo [PESSOA] de\n[LOCUTOR 33]: espaçamento? A gente deve segurar porque a gente pode ver todos os outros pontos que envolvem a integração. Principalmente quando a gente fala em nível do Proteus, tá? Assim, navega com o Proteus, vai aprovando tudo que dá do fluxo do Proteus e depois a gente entra nesse detalhe do apontamento de produção com o Fluid, tá? Só que isso não vai impactar no projeto que tu toca [PESSOA], porque a gente vai fazer via works aqui, que é o time do [PESSOA] mesmo que implanta. Então, como a gente tem um cara sênior que veio da [PESSOA], que é o Cauê, eu gostaria de colocar ele nesse projeto caso ele seja aprovado. Diga ele, [PESSOA].\n[LOCUTOR 50]: Só porque a pergunta é indiferente, enquanto a gente não fechar aqui a proposta para não aceitarem a proposta para fazer o apontamento no [LOCAL], como estão fazendo, de qualquer forma, não impede de continuar a instalação, como se fosse fazer o manual e gastar 15 pessoas, que é uma fortuna. Para não atrasar o projeto por causa disso, entendeu? Porque pode começar aquela negociação de vai e vem que a gente conhece bem, e aí esse é [PESSOA] de\n[LOCUTOR 33]: ponto de\n[LOCUTOR 50]: ter certeza.[PESSOA] de\n[LOCUTOR 33]: Ele não impacta, porque assim, a gente dentro daquilo que o [PESSOA] desenhou, a gente tem toda uma tratativa de ordem de produção, de estoque, de movimentação, etc, que não muda, é independente do apontamento.\n[LOCUTOR 8]: [PESSOA] de\n[LOCUTOR 33]: Fluig, ele não vai apontar para o Proteus, ele vai apontar para o Aveba, então, porque é o Aveba que faz o avanço de obra, que faz o cronograma, que faz as medições para fechar, Então, como a gente vai mandar a informação para lá e aí o [LOCAL] depois vai levar para o Proteus? Então, não muda. Então, tu pode seguir validando, tá [PESSOA]?\n[LOCUTOR 8]: Tá bom. Então, o que eu vou fazer? Então, finalizando aqui a reunião, já mando a documentação para vocês. Coloco o [PESSOA], o Marcelo, vou traduzir também, a [PESSOA], já coloco o [PESSOA] também. Aí eu peço uma análise para vocês. surgir dúvidas, se vocês retornam ali, se precisar de algum alinhamento, alguma reuniãozinha, alguma coisa nesse sentido, aí a gente envolve o arquiteto que prepara a optimização ali para a gente, para tirar essas dúvidas de vocês, se tiver algum ponto faltando ou algum ponto para acrescentar ali, que vocês identifiquem e a gente já coloca também no mesmo circuito. [PESSOA] de\n[LOCUTOR 8]: Sim.[PESSOA] de\n[LOCUTOR 33]: Ah, porque assim, aí a gente consegue manter a comunicação mais centralizada em\n[LOCUTOR 8]: todos,[PESSOA] de\n[LOCUTOR 8]: conectadoMarcelo [PESSOA] de\n[LOCUTOR 8]: cair. E manter o ciclo, assim, de certa forma, manter o ciclo que você e o [PESSOA] começou lá atrás no levantamento inicial, né? O planejamento inicial,[PESSOA] de\n[LOCUTOR 33]: o que foi\n[LOCUTOR 8]: pensado,[PESSOA] de\n[LOCUTOR 8]: issoMarcelo [PESSOA] de\n[LOCUTOR 33]: mesmo.\n[LOCUTOR 50]: antes, só porque a [LOCAL] está aqui, até porque as pendências são... Alguma coisa é até do [EMPRESA] também, mas só para entender, aquela atualização, cópia da produção que tinha sido feita, está tudo resolvido lá, do que impactava as coisas do [EMPRESA], estava copiando a produção para homologação, para\n[LOCUTOR 1]: poder\n[LOCUTOR 50]: fazer alguma coisa.\n[LOCUTOR 1]: É, porque a gente tinha parado.\n[LOCUTOR 8]: Isso. O pessoal fez a cópia no final de semana. Fiz a parametrização que estava só em ambiente de teste. Foi feito também em ambiente de produção. A gente deu o acesso lá para o pessoal, para eles seguirem também. Então, se precisar eventualmente replicar novamente depois, vai ter esse ponto em que não precisa parametrizar tudo de novo igual a gente fez lá atrás.\n[LOCUTOR 1]: E aqui falo que eu ainda não tô entendendo os pontos que eu tô discutindo com o [LOCAL], né? Enquanto ele tá me apresentando o sistema, eu tô comentando coisas que talvez depois venham a chegar aqui com a nossa inserção de customização, ou assim, de parametrização. Tá? Muito obrigada.\n[LOCUTOR 8]: Deixa eu abrir aqui então, para a gente passar as principais informações.\n[LOCUTOR 23]: Você vai filtrar, tira o filtro de... Acho que\n[LOCUTOR 8]: estava\n[LOCUTOR 8]: [PESSOA], só um minutinho. É que quando eu abri que já estava filtrado, né?\n[LOCUTOR 23]: É, já estava filtrado, que eu estava analisando pela manhã. Eu bato sua panilha todo dia quando chega\n[LOCUTOR 8]: aqui.\n[LOCUTOR 26]: toda pra mexer nesse filtro aí.\n[LOCUTOR 22]: gosta do Google Sheet. Quando eu preciso mexer aqui ou entender alguma coisa ali, dar uma passada, eu gosto de baixar aqui pro meu notebook, aí eu olho lá, vejo o que eu preciso olhar e depois se precisa alterar alguma coisa, aí eu altero no drive.\n[LOCUTOR 23]: Mas antigamente eu fazia isso, mas acostumei, cara. Hoje eu já uso esse bicho aí, tipo, faço até fórmula nele já. Às vezes até programa nesse bicho aí, às vezes faço umas brincadeiras nele. Vamos lá, pessoal. Nós estávamos seguindo, né, Marcelo, seguindo aquela lista, Focando no fechamento, inclusive hoje o [PESSOA], vou até pegar o resultado com o [PESSOA] da agenda da manhã da contabilidade, que o [PESSOA] está agora à tarde atuando. Nós tivemos a atualização da base e voltamos a atuar naqueles itens do financeiro. Eu até pedi que o [PESSOA] atualizasse o número do chamado, que ele abriu um chamado para ver aquela questão que mata dois itens, que é os extratos. E o [LOCAL], a gente teve um avanço ontem, conseguindo transmitir o R1000 pelo Proteus. E aí eu queria trazer uma discussão do [LOCAL] aqui para que a gente tomasse a decisão juntos. Porque assim, como vocês já encerraram o [LOCAL] desse mês lá no [LOCAL], eu não consigo transmitir novamente porque o [LOCAL] foi transmitido lá e já está fechado o período. A gente precisaria esperar o mês do [LOCAL] virar para que isso fosse transmitido pelo Proteus. Como a gente já capacitou o usuário, já mostrou como é que apura, já mostrou como é que transmite, porque os outros eventos, eles são meio que iguais ao que ele fez no R1000. Ele vai apurar, ele vai transmitir, vai monitorar. Ele vai fazendo isso por evento. Se a gente já pode encerrar esse item do re-inf, ou se vocês querem aguardar chegar lá no mês para poder transmitir, para a gente tomar essa decisão juntos aqui.\n[LOCUTOR 50]: Sempre complicada. Eu poderia dizer que poderia até fechar, mas aí a gente vai ter que... Minha\n[LOCUTOR 8]: preocupa\n[LOCUTOR 36]: é se chegar na hora de dar algum xabu, porque realmente o [PESSOA] me falou que foi tudo certinho, que deu tudo certo, mas a gente não fez o final, o último para valer.\n[LOCUTOR 23]: movimentação e encerramento, né? Porque o erro ímpar tem um bloco de\n[LOCUTOR 8]: abertura,\n[LOCUTOR 23]: que foi o que foi transmitido, tem os\n[LOCUTOR 8]: blocos de\n[LOCUTOR 23]: movimentação e tem o bloco de encerramento. Como já estava encerrado e já tinha movimentação, a gente não conseguia mandar de novo, né?\n[LOCUTOR 50]: Acho que podia botar um 95% e colocar para o final da fila, entendeu?\n[LOCUTOR 8]: Eu até estava dando uma olhada aqui na listagem, um pouco mais cedo também, nesses itens. Tem alguns itens que foram colocados aqui, adicionados durante a semana, que eu estava observando aqui. e que o que eu Estou até tentando pensar em alguma situação aqui pra gente bater o martelo juntos, é no sentido porque assim, a gente tem daqui pra frente, eu entendo que a listagem de pendência em si, eu acho que a gente tem que quebrar ele em dois níveis, até pra gente entender o ataque desses níveis. Qual que seriam esses níveis? O primeiro item é referente ao nosso projeto principal, pra gente fazer o fechamento ali, o encontro de conta, das horas, tudo que a gente precisa atacar ali pra esse projeto. E os itens, que é normal, eu entendo que todo lugar vai ser dessa forma, vai ser os itens de sustentação de vocês no dia a dia. Ah, eu fui entrar numa nota aqui hoje e fiquei com dúvida. fui transmitir alguma nota, aconteceu alguma coisa, alguma coisa nesse sentido, porque para a gente colocar até mesmo a questão do que é sustentação ali no dia a dia e do que a gente precisa focar e encerrar da implantação original ali, né, que a gente precisa tacar. Se tem, por exemplo, algum ponto do fechamento que está pendente de janeiro que a gente precisa tacar, tem, a gente lista esses itens e já mata esses itens, senão que a gente vai deixar de fazer os outros. Então, por exemplo, a questão do reínfo, beleza, se eu for fazer o fechamento do reínfo no mês seguinte, se surgir alguma dúvida, se surgir algum ponto, como que eu vou fazer o ajuste disso? Pra gente, de alguma forma, ter essa separação. no final do dia, tudo um bompo de horas que a gente vai estar utilizando, mas pelo menos para a gente entender a classificação desses itens. Não sei, eu estava pensando alguma coisa nesse sentido. Até trouxe hoje aqui para a gente discutir junto, entender com você, [PESSOA], [PESSOA], [PESSOA], o [PESSOA], a gente pensar em algum cenário nesse sentido, até para não dar o sentimento, tipo assim, minha lista de dependências, toda semana acrescenta coisa e eu não vou encerrar ela nunca, Entendeu? Alguma coisa nesse sentido, fazer uma classificação ali. Alguém levantou a mão? Desculpa,\n[LOCUTOR 39]: Alguns itens. Isso, sim, eu acho que pode ser mais uma coluna para dizer se é rotina ou se é implantação. Isso daí já... E, normalmente, a implantação passaria na frente da rotina. Mas tem coisas que são os dois. e aí tem que ver como é que vai fazer, né, que normalmente passaria na frente de qualquer coisa. Como, por exemplo, não sei se, eu comentei com a [PESSOA], não sei se ela chegou a adicionar, eu, assim, eu tô muito preocupada, como, por exemplo, o [EMPRESA] parou de funcionar. Entendeu? Sem contar que eu não tenho o [EMPRESA] de união. Como é que passa pra gente o [EMPRESA] e não tá completo? Entendeu? Como é que não instruem a gente, como eu tinha falado antes, perguntando, mas isso é uma configuração? Você falou sim, mas por que precisa de uma outra orientação, sim, mas não passaram nada para a gente. Entendeu? Eu estou colocando lá exatamente um [PESSOA] da [LOCAL] como se fosse um de oferecedor comum e aí não funciona. Achando que é problema nosso daqui, que a gente tinha feito errado, aí faz de novo, não funciona, funciona, não funciona, e quando eu vou descobrir é porque realmente não funciona, porque não foi configurado, tá? Agora, num instante, o [LOCAL] não funcionando, agora nada funciona, agora tá tudo zerado, você não tem, não tem nenhum [LOCAL] no KNAB, gerando. Aí eu não\n[LOCUTOR 23]: sei se\n[LOCUTOR 25]: um problema nosso aqui ou alguma coisa que aconteceu nesse meio-terno.\n[LOCUTOR 23]: Mas fornecedor também parou? Ou só a [LOCAL] que não está ainda? Não está ainda mais nada?\n[LOCUTOR 39]: Agora não está indo mais nada, pelo que me informaram. É assim,\n[LOCUTOR 50]: precisaria\n[LOCUTOR 39]: de um consultor olhar com o nosso pessoal aqui.\n[LOCUTOR 50]: Eu até acabei de passar para a [PESSOA] e pedir para considerar para o [PESSOA] tratar como prioridade os dois assuntos mais urgentes aqui da [PESSOA].\n[LOCUTOR 41]: a [LOCAL], porque simplesmente parou, e é o centro de custos, porque você está precisando muito do relatório. Então, eles até vêm no centro de custos agora com o [EMPRESA], por isso que ele não está com a [PESSOA]. A [PESSOA] acabou de me falar que ele está com o [EMPRESA], com o [EMPRESA] ajudando ele para entender a questão que o próprio [EMPRESA] falou com a gente lá no dia da reunião. Então, assim, eu concordo com o gênero no Murigrau, que a [PESSOA] falou, porque esse, por exemplo, é o ponto do [LOCAL], A gente está falando de horas de implementação e horas de coisas que mexem. Por exemplo,\n[LOCUTOR 23]: Um dos pontos, pessoal, que eu queria entender, tá? Quando o analista configura esse KNAB, ele vai botando os títulos, né? Eu tenho fornecedores, eu tenho isso. Vocês chegaram a passar para eles quais impostos tinham lá que vocês queriam pagar dentro desse KNAB? Porque me estranha não ter sido configurado nada de imposto. Vocês passaram para eles, olha, a gente paga imposto com o\n[LOCUTOR 23]: tem empresa que não paga imposto com o KNAB, tem empresa que paga guia direto na contabilidade. Foi informado para eles que teria esses blocos e quais impostos, porque assim, tem imposto que só paga pela caixa, só sai guia na caixa e você não paga dentro do KNAB. Foi informado para eles qual era exatamente quais impostos eles iam pagar por esse KNAB que vocês estão usando.\n[LOCUTOR 39]: Provavelmente não, mas também não foi levantado. A gente tá fazendo tudo junto. Vocês sabem que todo mundo a gente tá caminhando se não for levantado. A gente tá fazendo nossa rotina ao mesmo tempo, que a gente tá começando os dois processos ao mesmo tempo. Tanto o [EMPRESA] quanto a [PESSOA], né? Então, assim, a gente tá da mesma forma que vocês, Só que, assim, o fato é que você já tem essa bagagem. Eu não preciso saber que é diferente, entendeu? No caso do sistema. Eu não tenho como saber que é diferente. Para mim, eu estou considerando que é igual. Entendeu? Os da [LOCAL] não funcionam. Isso eu tenho certeza. E agora nenhum outro, pelo que me explicaram. Pode ser um problema não necessariamente daí. Pode ser daqui. Entendeu? Mas, assim...\n[LOCUTOR 23]: Do fornecedor, de parar de funcionar, é bem estranho, sabe? Porque ninguém deu mais manutenção que nada, sabe? o da [LOCAL] entendo que pode não estar configurado os impostos. Mas não est\n[LOCUTOR 23]: se... O extrato é ponto rete porque ele é um retorno do banco, né? Ele... Sim, o que o KNAB que você está se referindo\n[LOCUTOR 39]: [LOCUTOR 13]: o ponto REN, que é uma remessa para o banco. Eu estou enviando algo para o banco. É esse que eu entendo que não está saindo e que deve estar saindo zerado. Pode ser por vários motivos. Um\n[LOCUTOR 23]: dos motivos mais clássicos que tem\n[LOCUTOR 25]: quando\n[LOCUTOR 23]: você bota o nome do arquivo de KNAB na hora que você vai gerar errado. Ele não acha e gera em branco. Às vezes a gente até trava esse campo para que vocês não consigam mudar. Não estou dizendo que é isso, não analisei, mas normalmente um KNAB parar de funcionar, pode ser uma atualização do sistema, alguma coisa, mas que também não foi feita, não aplicaram nada no financeiro, até onde eu sei. Pode ser isso, pode ser algumas coisas, mas o fornecedor, eu sei que ele funciona. Agora, realmente, os KNAB de impostos, que são blocos diferentes, a primeira orientação que eu vou dar ao time é, levante com vocês quais são os impostos que eles querem pagar lá dentro. Porque tem impostos que só são pela caixa. Tem impostos que vocês não conseguem pagar por o banco que você trabalha.\n[LOCUTOR 23]: esse\n[LOCUTOR 23]: testei\n[LOCUTOR 39]: em código de barra e ele lê.\n[LOCUTOR 23]: Ele vai, né?\n[LOCUTOR 39]: Ele vai.\n[LOCUTOR 23]: Pronto, que aí a gente vai justamente olhar. Depois que vocês passarem quais impostos, a gente vai olhar na documentação do banco de vocês. A gente tem lá essa documentação que vocês passaram lá. Qual é o layout, qual é o bloco que vai esse imposto em específico. Por isso que a gente vai precisar de quais impostos especificamente vocês estão falando. Para que a gente configure esse bloco e aí passa a gerar. Só que\n[LOCUTOR 23]: pessoal vai explicar para vocês. [LOCAL] são diferentes. Você não monta bordereaux de imposto junto com bordereaux de fornecedor.\n[LOCUTOR 23]: Realmente n\n[LOCUTOR 10]: funcionou.\n[LOCUTOR 23]: Não tem nada de diferente. Não deve estar funcionando porque o teu KNAB não deve ter esse bloco. Só para você entender, quando a gente configura um Kinect, a gente não configura ele com tudo o que tem dentro de um layout do banco, até porque senão a gente iria configurar e gastar horas que não necessariamente você vai usar. A gente configura, habilita, configura exatamente com o que você usa. Ah, eu pago só tornecedor, eu pago TED, eu pago PIX, a gente faz conforme o que vocês utilizam. Por isso que o Kinabwe [PESSOA], se eu não me engano, ele tem até [EMPRESA], não tem?\n[LOCUTOR 39]: Em relação ao KNAB, só um conselho, próxima vez comenta, pergunta, quais são os impostos que vocês utilizam? Porque aí facilita outra área que está já na atuação, já está fazendo os dois ao mesmo tempo, para que ela possa orientar. Normalmente,\n[LOCUTOR 23]: isso é uma pergunta que faz parte dos roteiros de KNAB. Isso normalmente é perguntado. Eu vou olhar essa meeting, o que é que está lá. mencionando nela, mas, novamente, é bem comum se perguntar, tá?\n[LOCUTOR 16]: paga... A gente tem algo financeiro, né? O levantamento, entendeu?[PESSOA] de\n[LOCUTOR 23]: [PESSOA], deixa [LOCAL] [PESSOA] de\n[LOCUTOR 33]: só... Ô, [PESSOA],\n[LOCUTOR 23]: deixa [LOCAL] [PESSOA] de\n[LOCUTOR 23]: bem.[PESSOA] de\n[LOCUTOR 33]: Bem rapidão, tá? Pessoal do consórcio, eu vou sair porque o [LOCAL] tá vindo pra cá, ele conseguiu antecipar lá, terminou a reunião dele com a [EMPRESA], e aí ele já tá vindo pra cá, eu preciso correr pra mudar a sala, essas coisas todas. Então, assim, amanhã eu tô aí,\n[LOCUTOR 39]: [PESSOA] de\n[LOCUTOR 33]: ideia é a gente vai começar com o [LOCAL] amanhã de manhã. Então conseguiu o especialista para as 8 e meia. Então 8 e meia estarei pronto na sala. Vou tentar chegar um pouquinho antes já até para garantir que eu vou conseguir chegar no horário e aí depois eu preparei já aqui uma apresentação para mostrar onde a gente está ali na nossa linha do tempo. O que a gente tem de adicional a gente consegue colocar e a minha ideia é já conseguir levar os valores do que eu tiver na mão para que a gente consiga discutir isso. Para dar uma ideia para vocês, a gente não pode ficar colocando muita solução sem que antes a gente fale de dinheiro também, não é? Bate na trave aí depois, tá bom? Certo? Nos vemos amanhã então, tá?\n[LOCUTOR 50]: [PESSOA] [PESSOA], oito e meia, que o Marcelo marcou, só para você saber.\n[LOCUTOR 42]: bom, vouMarcelo [PESSOA] de\n[LOCUTOR 33]: avisar\n[LOCUTOR 39]: osMarcelo [PESSOA] de\n[LOCUTOR 33]: meus\n[LOCUTOR 39]: namoradosMarcelo [PESSOA] de\n[LOCUTOR 33]: também. O café na xícara da capivara.\n[LOCUTOR 39]: Não,[PESSOA] de\n[LOCUTOR 39]: capivaraMarcelo [PESSOA] de\n[LOCUTOR 8]: tá. O pior é que aqui onde eu fico que nem [LOCAL] é o símbolo da cidade aqui [LOCAL]. Gente\n[LOCUTOR 39]: mas tá o símbolo de todo lugar agora [LOCAL] não sei.\n[LOCUTOR 14]: em [LOCAL] tem [LOCAL] agora na beira\n[LOCUTOR 39]: do lago. Você passa na lagoa, tá cheio de capivara, capivarinha. Você vai na [LOCAL] ali, você vê invadindo as casas.\n[LOCUTOR 8]: É igual aqui também. Viram patrimônio da...\n[LOCUTOR 39]: Proliferação de... de capivara e virou símbolo do [LOCAL].\n[LOCUTOR 39]: terminar,\n[LOCUTOR 8]: a gente...\n[LOCUTOR 39]: Acho\n[LOCUTOR 39]: vai ser o próximo animal da Copa ou das Olimpíadas,\n[LOCUTOR 8]: alguma coisa\n[LOCUTOR 39]: daquilo.\n[LOCUTOR 45]: não, de\n[LOCUTOR 8]: repetir ele em todo lugar que você vê, né?\n[LOCUTOR 39]: [LOCUTOR 2]: lá. Mas assim,\n[LOCUTOR 23]: então...\n[LOCUTOR 11]: em resolução do [LOCAL], eu acho que é averiguar ali, Normalmente, pessoal, é uma pergunta que se faz, de nada. Faz impostos, até porque precisa configurar esses blocos, mas a primeira coisa que eu vou pedir é que levante quais são esses impostos. Vou até pedir que o [PESSOA] faça logo isso. Já está com vocês aí. Entenda que impostos são esses.\n[LOCUTOR 23]: Pegue a documentação do banco e veja se esses blocos estão implementados. Se não, a gente já traça ali o plano para botar esses blocos. E vê essa questão do fornecedor também, até porque são, sim, o fornecedor pode ir funcionando enquanto a gente vai configurando esses impostos? Desculpa, [PESSOA], eu acabei interrompendo o seu foco.\n[LOCUTOR 8]: Não, não, eu ia falar nesse sentido mesmo, né, que o... Como o [PESSOA] já está lá, já aproveitei a pergunta quais são esses impostos, entende ali, tem a [EMPRESA] que foi levantada do financeiro, então entendo que todas as perguntas devem estar lá, né, nesse ponto, mas, provavelmente, se não está configurado, não teve essa conversa, estou entendendo, né? Então ficou ali... ou ficou subentendido ali por parte da [PESSOA] e da [PESSOA], ah, estou entendendo que pagar é pagar tudo, ou, sei lá, na época o [EMPRESA] não fez essa pergunta específica dos tributos, então acabou passando. Então, se quiser revisar a Meet, eu posso reenviar a Meet aqui para vocês, não tem problema, mas já aproveitando que o [PESSOA] já está na agenda, já pergunto quais são, já entende ali, j\n[LOCUTOR 20]: vê essa\n[LOCUTOR 8]: questão pelo\n[LOCUTOR 23]: [LOCUTOR 3]: sendo gerado, zerado ali, que normalmente pode ser alguma coisa de pergunta mesmo, alguma questão ali, de montagem de perguntas, porque tem bastante perguntas na hora de você gerar os arquivos. Então, normalmente, provavelmente, deve ser isso, essa questão de perguntas. E assim, pessoal, como está tudo muito novo aqui, eu vou avaliar, pode ser até que o Kinect de vocês já tenha esse bloco, tá? Por algum motivo, só não está gerando, alguma coisa assim, tá? Mas deixa eu fazer uma análise, até para trazer mais informações para vocês, para não\n[LOCUTOR 8]: passar\n[LOCUTOR 23]: nenhuma informação que não, de fato, seja verídica. Preciso olhar se esses blocos estão. Primeiro, quais são os impostos, ver quais são os blocos na documentação do banco e ver se já tem no KNAB de vocês. E aí eu consigo dar um panorama melhor para vocês. Eu passo essa informação, [PESSOA], para você. Ou você quer que eu alinhe direto com\n[LOCUTOR 23]: pessoal da [LOCAL]? Porque com a forma que você prefere que eu faça,\n[LOCUTOR 8]: Então, a gente tendo essa resposta de onde está com furado, não está com furado, está faltando alguma coisa, o que é, pode passar para a gente. se quiser, por exemplo, formalizar no e-mail pra gente ali, ó, o pessoal tá configurado ou não tá, ou vamos configurar aqui, paralelo às agendas de vocês, disponibilizamos até tal dia, a gente só posiciona\n[LOCUTOR 23]: pra gente. Tranquilo, até porque isso é algo que é feito meio que em paralelo, assim, né, é mais a validação com eles, né, envio pro banco e tal, mas a gente consegue fazer esse responda, tá?\n[LOCUTOR 8]: Então, só pra gente passar aqui, ô [PESSOA], só pra não passar item a item aqui, mas eu tava até dando uma olhada aqui, até pra não estender muito a nossa reunião aqui, mas assim, a questão aqui do [PESSOA], ele tá vendo esses primeiros itens aqui que estão sendo colocados como prioridade, que é esse antifúcio que a [EMPRESA] comentou, a questão do pin-up, que provavelmente ele vai ver na sequência, né, e a questão dos saldos aqui dos títulos, tava dando diferença lá, né, a divergência.\n[LOCUTOR 23]: Esse\n[LOCUTOR 8]: saldo,\n[LOCUTOR 23]: ele tá vendo com o chamado, tá, [PESSOA]? Tem um chamado pra pegar lá na descrição, tá?\n[LOCUTOR 8]: E aí, [PESSOA], a gente conversou na semana passada lá, quando o consul tiver algum chamado assim, já pede pra copiar a gente, entendeu?\n[LOCUTOR 23]: O [PESSOA] já tava com essa orientação, mas eu vou só me certificar que\n[LOCUTOR 23]: fez, tá?\n[LOCUTOR 23]: novo. A orientação, vou até reforçar novamente, eu até falei com a [PESSOA] hoje na reunião, que é botar o número do chamado aqui na descrição e copiar todos pra quem esteja. Eu já sou copiado porque ele já me bota no meu e-mail, abre no meu e-mail, mas pra que vocês\n[LOCUTOR 8]: tenham\n[LOCUTOR 8]: isso\n[LOCUTOR 45]: novamente\n[LOCUTOR 23]: para\n[LOCUTOR 37]: recebo muitos e-mails todos os dias, então às vezes eu não dou conta. Quando eu tiver chamado, o que tem que pedir prioridade, se puder me mandar ali no WhatsApp, que tem nossos grupos aí.\n[LOCUTOR 45]: [PESSOA]?\n[LOCUTOR 45]: [LOCAL]. E daí eu entro no sistema aqui interno que eu tenho para pedir prioridade e escalar o assunto para ganhar celeridade.\n[LOCUTOR 23]: Às vezes a gente chama o analista direto naquele chat, né? Às vezes a gente chama ele lá e tenta trocar uma ideia ali com o analista que está atendendo, né? A gente tem esse costume quase que interno, né? Aquele chatzinho que a gente consegue chamar o analista da matriz direto, né? Às vezes\n[LOCUTOR 45]: a gente\n[LOCUTOR 23]: acelera também, mas claro que quando pede prioridade acelera. Tá bom. Então [PESSOA], como saída? A gente vai classificar alguma coisa no sentido do que é? a implantação e o que é que virou suporte, eu só perdi um pouco dessa parte que eu falei a definição. Eu sei que o pessoal explicou aí a questão de que tem coisas que é os dois, mas eu não sei se a gente teve uma definição sobre esse ponto.\n[LOCUTOR 8]: [LOCUTOR 7]: um pouquinho confuso. Acho que a pessoa levantou a mão ainda.\n[LOCUTOR 27]: duas mãos.\n[LOCUTOR 38]: embolei o português aqui. Um ponto só, eu sei que esse momento não é para a gente verificar essa lista agora, aquela reunião curta, mas esse primeiro ponto aí que está com o [PESSOA], a gente tinha ficado de testar junto o arquivo que a [PESSOA] recebeu. Vou aproveitar que a [PESSOA] está aqui para dizer para o [PESSOA], se puder, aproveitar que ele já vai falar com a [PESSOA], já está em contato com ela, para já colocar isso no item também.\n[LOCUTOR 18]: retorno, não é, [PESSOA], do\n[LOCUTOR 50]: extrato? Do extrato. Isso,\n[LOCUTOR 23]: isso.\n[LOCUTOR 50]: Eu que estou falando, mas é assunto da [PESSOA], mas eu quis antecipar aqui.\n[LOCUTOR 23]: É que é dela e eu troquei.\n[LOCUTOR 50]: E, assim, eu acho que a gente pode tentar sentar, não agora, mas num outro momento, igual a gente estava fazendo daquelas reuniões de verificar item a item, e a gente tentar ver aqui\n[LOCUTOR 8]: o que\n[LOCUTOR 50]: é um, o que é dois, o que é os dois, para\n[LOCUTOR 8]: poder... Então, qual é o meu objetivo, [PESSOA], nesse sentido aqui? Pegar os itens que a gente precisa fazer o ciclo em seguida à implantação. Eu sei que tem itens que vão surgir, que é prioridade, que dá para ter que atacar, isso acontece,\n[LOCUTOR 8]: eu queria montar um plano de ação aqui para a gente ver se a gente pega uma carga um pouco maior de agenda, talvez uma semana e faz um plano de ação,\n[LOCUTOR 50]: para a\n[LOCUTOR 8]: gente fechar esses itens para não... Para não dar aquela sensação de que passou mais uma semana e a gente está falando dos mesmos itens. E dentro desses itens vai surgir coisa nova no dia a dia. Semana que vem você pode\n[LOCUTOR 23]: fazer\n[LOCUTOR 8]: uma aprovação lá no financeiro. [PESSOA], essa aprovação em específico não foi, vou precisar olhar. Aí cai na sustentação, porque assim, isso vai ter no dia a dia. Nos próximos anos você vai estar usando, pode dar divergência no seu dia a dia. Aí a gente\n[LOCUTOR 8]: que pensar. Isso, isso aí que eu queria entender dessa lista. O que são itens do dia a dia que é suporte? Aí eu não sei, tá? Aí seria uma reunião que a gente pode fazer em sequência também. Primeiro faz a classificação, entende? Pra gente matar esses pontos de implantação. E aí uma segunda classificação, porque assim, como que a gente vai tratar o suporte da [LOCAL]? Aí não sei se o [PESSOA], o Marcelo, o pessoal, como que eles... Como que eles estão, se eles já falaram com vocês alguma coisa nesse sentido de suporte, de tretação do dia a dia? Porque vocês vão precisar levar mal isso aí, né? Todo cliente\n[LOCUTOR 50]: tem um\n[LOCUTOR 8]: plano de suporte depois do MoLive, né?\n[LOCUTOR 50]: Mas aí, [PESSOA], assim, pra eu considerar suporte, ele tem que ter funcionado pelo menos uma vez. E as\n[LOCUTOR 8]: coisas que\n[LOCUTOR 50]: eu sei, com exceção do Kinect, que realmente foi uma surpresa hoje, as coisas que a gente tem aqui são coisas que a gente não... nunca conseguiu fazer funcionar que eram para funcionar e por exemplo a questão do centro de custo no financeiro desde o início não vai aparecer no financeiro mas nunca aparece só aparece no financeiro\n[LOCUTOR 8]: o que a\n[LOCUTOR 50]: [PESSOA] e o time dela lançam direto no financeiro. Não é suporte. Eu não sei se vai ter muita coisa. Agora, se você conseguir aumentar as agendas, que nem hoje, eu vou até agradecer. [PESSOA], vocês conseguiram aí para a gente um consultor de contabilidade e a gente deu uma antecipada legal aqui nos pontos de contabilidade. O time aqui já está trabalhando em preparar os relatórios gerenciais, as regrinhas que tem que preparar para poder ter relatório gerencial. Então, assim, conseguir mais técnico, principalmente consultor, principalmente consultor especialista, para a gente adianta muito, que eu acho que\n[LOCUTOR 50]: terminar\n[LOCUTOR 8]: isso\n[LOCUTOR 50]: logo.\n[LOCUTOR 8]: É, então, nesse sentido, Thalena, assim, eu não olhei itens bonitos na lista, então, não tô julgando que tem muita coisa de suporte que eu estou dando essa ideia até pra pensar nesse plano de ação, né? Então, assim, a gente até, aí a gente entra pra dentro de casa aqui e olha, [PESSOA], cara, tem na lista aqui, tem 50 itens na lista. Desses 50 itens, cara, 45 itens que estão sendo usados pela primeira vez e nunca funcionou. Gente, a gente precisa montar um plano de ação aqui, vamos atacar isso aqui e que esses itens sejam finalizados para a gente virar essa página dos pontos de implantação.\n[LOCUTOR 34]: gente teve uma situação especial aqui, porque como a gente é uma empresa que está começando, o que acontece? Tem coisas que acontecem que a gente não sabia que ia ter, porque é diferente de uma empresa que tem a lixinha de todos os [EMPRESA], todos os pagamentos de imposto, que ela já fazia antes. Então assim aí acaba que é por isso que a gente até conta muito como a [PESSOA] falou com vocês também. Eu sei que não é uma plantação comum a plantação comum\n[LOCUTOR 8]: de voc\n[LOCUTOR 21]: todo mundo tem a\n[LOCUTOR 8]: lista de\n[LOCUTOR 50]: tudo que paga e você vai lá e repete. E às vezes é\n[LOCUTOR 50]: esse pagamento da [EMPRESA] mesmo um dos pagamentos que a [EMPRESA] foi uma coisa eu até já sabia mas talvez o time do financeiro não sabia talvez faltou um pouco de comunicação enfim em outros pontos. Mas de qualquer forma o pagamento de tributos é uma coisa normal então assim Às vezes, eu acho que algumas coisas demoram um pouco mais a andar, mas tem bastante coisa ainda que a gente conversou e aí vai ter, mas aí não funciona, ou\n[LOCUTOR 8]: atrasou,\n[LOCUTOR 50]: mas tá andando,\n[LOCUTOR 8]: só se\n[LOCUTOR 50]: a gente\n[LOCUTOR 8]: puder\n[LOCUTOR 50]: acelerar\n[LOCUTOR 8]: realmente. Eu entendo que sim, eu vejo ali a avanço da lista, toda semana temos aqueles concluídos. A minha preocupação é só a gente ter esse sentimento. Pessoal, [PESSOA], legal. Fechamos aqui os pontos da implantação, os itens aqui, É lógico, tem o que você falou, [PESSOA]. É um projeto totalmente atípico, então não é uma empresa que está surgindo, então tem processos que vocês eventualmente estão testando ou, não testando, mas fazendo pela primeira vez agora, porque lá atrás não tinha nenhum cenário ainda para fazer. Enfim, vai ter de tudo, mas foi mais um ponto só para se a\n[LOCUTOR 50]: gente conseguir\n[LOCUTOR 8]: aí depois...\n[LOCUTOR 50]: Vamos olhar, sim. Depois alguém me ensina como é que baixa esse negócio aqui do [EMPRESA], que eu não sei baixar isso não.\n[LOCUTOR 8]: Você vai alinhar aqui, ó. Você vai alinhar aqui o arquivo.\n[LOCUTOR 50]: Baixar. Ah, obrigada. Gente,\n[LOCUTOR 39]: desculpa, eu tô correndo aqui. É preciso ainda de mim alguma coisinha?\n[LOCUTOR 12]: posso... Eu acho que é isso, [PESSOA]. Acho que os pontos principais que a gente bateu aqui, o ponto é só que... Eu só queria dar uma olhada pra essa listagem aqui, porque pra eu sentar com o [PESSOA] e com a [PESSOA] aqui, eu queria trazer um plano de ação um pouco mais agressivo pra gente tentar focar nos pontos ali e se anal, entendeu?\n[LOCUTOR 39]: [LOCAL].\n[LOCUTOR 50]: Se vocês quiserem fazer uma pré-avaliação de vocês, e aí, de repente, marcar uma reunião amanhã só, nós, de repente, com os usuários, para a gente fechar isso aí, tentar fechar o que é, o que não é. A única coisa é que amanhã, no final da tarde, eu não vou estar aqui. Então, ou amanhã, a partir da manhã, depois que o Marcelo for embora, ou segunda, a gente fecha isso.\n[LOCUTOR 8]: Tá bom, eu vou falar com o [PESSOA] aqui, a gente pensa em alguma coisa e fala com você, tá, [PESSOA]?\n[LOCUTOR 8]: que minha equipe\n[LOCUTOR 39]: também, entendeu?\n[LOCUTOR 8]: Então acho\n[LOCUTOR 39]: que se der pra fazer na terça, eu\n[LOCUTOR 8]: agradeço. Fica tranquilo,\n[LOCUTOR 39]: [PESSOA]. A\n[LOCUTOR 8]: gente já pensou em alguma coisa\n[LOCUTOR 39]: aqui,\n[LOCUTOR 8]: [PESSOA]. Aí a gente fala com a [PESSOA], né? Então, [PESSOA], talvez a gente puxa a [PESSOA], centraliza ali e depois\n[LOCUTOR 8]: liga com vocês no momento.\n[LOCUTOR 34]: gente já passa uma chegada. A gente já\n[LOCUTOR 8]: passa uma\n[LOCUTOR 50]: chegada só pra eles darem o de acordo.\n[LOCUTOR 8]: É isso?\n[LOCUTOR 45]: [LOCAL].\n[LOCUTOR 4]: para\n[LOCUTOR 45]: finalizar, [PESSOA], eu acho que na\n[LOCUTOR 8]: semana que\n[LOCUTOR 45]: [PESSOA] vamos alinhar aí. [LOCAL], [PESSOA]. Na semana que vem aí, o [PESSOA] e eu vamos alinhar\n[LOCUTOR 8]: tanto\n[LOCUTOR 45]: a continuidade, a próxima onda que a gente vai ter que fazer de manufatura, verba, tudo mais, né? E aí, essa questão do suporte continuado, vamos dizer assim. Porque, na verdade, não é suporte, né? É uma consultoria, alguma coisa nesse sentido, né? Porque é como tu falaste, né? A empresa nasceu agora, tem situações que a gente não conseguiu testar, não conseguiu prever. E vai surgir. E aí eu vou ver com o [PESSOA] qual é a melhor forma de atender, se vai continuar sendo pela equipe do [PESSOA] lá, ou se daqui a pouco a [LOCAL] do [LOCAL] assume, e a gente começa a botar alguns outros consultores pra girar e pra atender, a gente vai combinando esse jogo aí, pra vocês terem o melhor atendimento possível, porque isso aqui é só o início, né? Pelo que o Marcelo me falou, vocês estão prevendo um monte de coisa aí pros próximos meses, né?\n[LOCUTOR 50]: Eu tive uma conversa com o Marcelo e assim, amanhã ele deve trazer alguma coisa, infelizmente acho que o [PESSOA] não vai estar aqui, porque a gente está chegando cada vez mais à conclusão que eu preciso do contrato, gestão de contratos para o [EMPRESA]. E aí ele já me deu mais ou menos uma estimativa de horas. A outra coisa que eu ia te pedir, [PESSOA], assim que você puder, me manda, acho que eu só tenho horas até janeiro.\n[LOCUTOR 45]: Relatório de horas, eu\n[LOCUTOR 50]: também\n[LOCUTOR 45]: pedi para o [PESSOA] isso.\n[LOCUTOR 50]: Manda para a gente, a gente está acompanhado. [PESSOA], me ajuda, aperta, vamos diminuir as horas de comércio, a [LOCAL] já saiu. Vamos diminuir a hora do comércio,\n[LOCUTOR 45]: porque\n[LOCUTOR 50]: tem menos coisa lá do que eu acho que foi estimado. Tem mais coisa lá do que foi estimado, eu acho. E aí vamos para ver se eu consigo, porque eu sei que tirar dinheiro aqui é bem difícil.\n[LOCUTOR 45]: Imagino.\n[LOCUTOR 50]: Conversem com o Marcelo que vocês vão entender como é que funciona aqui. Mas eu acho que esse módulo de gestão de compras, o [PESSOA] tem me cobrado e eu acho que ele vai atender um monte de coisa para a [PESSOA], porque com ele que você consegue ver o funcionamento do que já tem em ordem de compra. Então, eu acho que a gente vai ter que fazer mais um que não estava na previsão de vocês. Mas, de repente, vamos ver. Vamos ver se a gente consegue.\n[LOCUTOR 14]: pegando esse gancho antes do [PESSOA] falar das horas, falou do [EMPRESA]. Daqui a pouco, a gente vai ter que ter uma conversa com a [LOCAL], [PESSOA], para ver se realmente tudo aquilo que foi pedido realmente vai ser necessário agora. Talvez, daqui a pouco, a gente reduza o escopo. Não, isso aqui não se cita agora. Pode entrar daqui seis meses, pode entrar do que vem. Pessoal, tem\n[LOCUTOR 23]: tenho uma reunião aqui agora, um pouquinho atrasado para ela.\n[LOCUTOR 50]: Valeu, [PESSOA].\n[LOCUTOR 8]: Beleza, [PESSOA]. Valeu. Tá, eu mando sim, tá na sequência aqui, já estava pronto no slide aqui já, tá, [PESSOA]? Então a gente teve, eu mandei até janeiro, né, porque foi um pouco a mais janeiro ali por causa do [PESSOA], né, a gente usou um pouco mais de horas. E aí dentro de fevereiro aqui já reduziu bastante também, a gente reduziu até 149 horas aqui em fevereiro. Mas eu mando pra vocês, tá? Acompanhado certinho.\n[LOCUTOR 50]: Essas horas são por causa do carnaval e do fim de semana, porque se fosse pela demanda... Carnaval é mês de 28\n[LOCUTOR 50]: [LOCUTOR 15]: na conta tá as horas da equipe do [PESSOA], mais 20 horas de gestão que é minha. Aqui, interna\n[LOCUTOR 50]: [LOCUTOR 37]: vou cobrar a [PESSOA] disso, inclusive, para trazer o status\n[LOCUTOR 45]: report.\n[LOCUTOR 50]: De repente, para trazer o status report agora e a gente colocar ali, sei lá, com a coluninha do lado do [PESSOA], depois que o\n[LOCUTOR 5]: passar,\n[LOCUTOR 50]: a gente junte, ou você junte, [PESSOA], para a gente, porque eu preciso acompanhar...\n[LOCUTOR 45]: consolido, porque eu tenho que controlar o contrato, né? Então, eu consolido.\n[LOCUTOR 8]: [LOCAL],\n[LOCUTOR 45]: gente. [LOCAL].\n[LOCUTOR 8]: [LOCAL],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:31.696347+00:00",
+    "total_linhas": 316,
+    "linhas_mantidas": 244,
+    "linhas_removidas": 72,
+    "percentual_mantido": 77.22,
+    "confianca_media": 0.4918
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 8]: Tem mais alguém entrando aí, parece? Ah não, acho que é a IA, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4134,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 46]: aceitei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: as IAs aí do Marcelo e não sei mais quem que contou uma IA. Bom,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.47,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: pessoal. Então, só para atualizar a todos na semana passada, a gente não fez o status ali na quinta-feira tarde da semana passada, pessoal. A gente fez um plano na semana passada de fazer uma reunião ali diária para tacar as principais pendências ali e os pontos que estavam mais críticos no projeto. Então a gente fez uma reunião tanto na quarta, na quinta e na sexta também desses pontos e a gente continua seguindo a listagem de pendências. A gente continua seguindo a listagem de pendências de acordo com as prioridades que a gente tem. E aí, nesse sentido, da mesma forma que a gente estava batendo as principais tendências e a listagem e acompanhamento de evolução da semana passada, eu pedi para o [PESSOA] entrar aqui para a gente bater a listagem ali e combinar os próximos passos, entender essa semana o andamento dos itens, para a gente pegar os próximos itens que estão ali e também já continuar na programação. Paralelo a isso, A gente fez aqui também, até para dar uma posição para vocês, a gente fez um desenho e uma documentação mais estruturada daquele bate-papo da integração do [EMPRESA] que nós tivemos na semana anterior, retrasada, na semana passada, no alto da semana. E aí a gente tirou uma documentação junto com a equipe de [LOCAL] E a gente vai passar para vocês, até para ter uma revisão dos pontos, seria bacana a gente passar com o time do [LOCAL] também, acho que ele vai estar mais... inteiro no processo, até para ele bater o olho ali, olhar, analisar essa documentação para ver se tem algum ponto ali que eventualmente ficou faltando, se tem alguma coisa que foi conversado que não está ali, para a gente conseguir, de fato, iniciar as execuções. Então, a gente não quer iniciar antes de fazer essa documentação e passar para vocês analisar. E aí, só confirmando o Marcelo, aquela questão do [LOCAL] tá ok, né?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Não sei. E em partes. O que aconteceu? A gente dimensionou todo o ambiente, a gente abriu o projeto do Yasu, tudo certo, em Oracle e Linux, daqui a pouco a [LOCAL] levantou a mão e disse, opa, nossa aplicação só roda em Windows,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: nãoMarcelo [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: roda em Linux, tá? O que a gente fez? A gente já mandou uma proposta complementar ali, vai dar 500 reais mais ou menos, pra gente poder fazer o ambiente Windows, e tá na mão, aí voltamos para a mão do [PESSOA] e do [LOCAL], tá? Então assim, eu tenho uma reunião com o [LOCAL] hoje aqui e eu vou levar algumas demandas do que, o que a gente tá, como é que a gente tá no consórcio, eu vou apertar ele quanto a assinatura dessa proposta, e aí é apertar o [PESSOA] aí, que parece não ser um bom dia talvez para isso, né Marcelo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Exatamente, porque hoje tá complicado aqui, eu não consegui parar pra fazer nada ainda da minha rotina, mas é o seguinte, se você precisar de ajuda, me passa o link que eu entro em contato com eles, não sei se a gente hoje vai conseguir, que nem a gente fez da última vez que a gente conseguiu com outro, foi bem rápido. Eu acho que amanhã, se você não conseguir diretamente com eles, me passa, principalmente para o [PESSOA], é mais fácil, mas você não está atento com os dois, se você não conseguir diretamente, tá?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 6]: aí eu prefiro que você me passe o link ou me passe, dá o que nem a gente fez da última vez, eu não sei se foi o e-mail,[PESSOA] de  se foi o link,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4926,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: que aí facilita, entendeu?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Tá, ótimo, vou fazer isso já, já, assim que acabar essa reunião aqui, já te mando tudo, tá? Bom, esse é o ponto número um. O ponto número dois de integração do AVEPA que a gente tem, [PESSOA], e aí talvez a gente vai ter que trazer isso de uma outra forma, que é o atendimento de produção. Tem que colocar todo mundo na mesma página, onde estão. Lembra o assunto, ia ser pela vela, aí depois ia ser em tela de proteus. E aí o [PESSOA] levantou a mão dizendo, gente, para fazer na tela do proteus eu vou precisar de 14, 15 pessoas para poder fazer isso. Ele já tinha isso uma experiência anterior, e ele disse, cara, fazer isso, eu preciso desse número de pessoas. Então, o que a gente pensou? Vamos com o app e minha produção. O app, por ser um produto fechado, digamos assim, ele não permite customizações no nível que o source precisa. Então, o que a gente fez? A gente desenhou um mockup dentro do Fluig, e a gente vai fazer isso via Fluig, tá? Então, nós vamos ter um ponto de integração ali do [LOCAL] com o Fluig em algum momento. para receber os apontamentos de produção, tá bom? E aí, pessoal, amanhã, como eu vou estar aí no consórcio, a minha ideia já é elevar os custos disso, tá? Que não estão previstos no projeto, nem os custos de implantação, nem a customização, nem nada, né? Isso não é um aditivo que a gente tem aí. Só assim, aí [PESSOA], o que a gente vai fazer? A gente vai validar, tecnicamente, a solução ainda com o [PESSOA], temos que validar financeiramente, né, se é esse o caminho, e com o sinal verde aí nós vamos ter que fazer um asterisco aí no Terminatório de Documentação da Integração com o [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tá?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Entendem aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É isso que eu ia perguntar ao Marcelo. Então assim, a gente está com a documentação pronta aqui. Acha melhor a gente segurar até amanhã para entender como vai ficar? Será que vai mudar alguma coisa ali naMarcelo [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: espaçamento? A gente deve segurar porque a gente pode ver todos os outros pontos que envolvem a integração. Principalmente quando a gente fala em nível do Proteus, tá? Assim, navega com o Proteus, vai aprovando tudo que dá do fluxo do Proteus e depois a gente entra nesse detalhe do apontamento de produção com o Fluid, tá? Só que isso não vai impactar no projeto que tu toca [PESSOA], porque a gente vai fazer via works aqui, que é o time do [PESSOA] mesmo que implanta. Então, como a gente tem um cara sênior que veio da [PESSOA], que é o Cauê, eu gostaria de colocar ele nesse projeto caso ele seja aprovado. Diga ele, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Só porque a pergunta é indiferente, enquanto a gente não fechar aqui a proposta para não aceitarem a proposta para fazer o apontamento no [LOCAL], como estão fazendo, de qualquer forma, não impede de continuar a instalação, como se fosse fazer o manual e gastar 15 pessoas, que é uma fortuna. Para não atrasar o projeto por causa disso, entendeu? Porque pode começar aquela negociação de vai e vem que a gente conhece bem, e aí esse é [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: ponto de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: ter certeza.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Ele não impacta, porque assim, a gente dentro daquilo que o [PESSOA] desenhou, a gente tem toda uma tratativa de ordem de produção, de estoque, de movimentação, etc, que não muda, é independente do apontamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Fluig, ele não vai apontar para o Proteus, ele vai apontar para o Aveba, então, porque é o Aveba que faz o avanço de obra, que faz o cronograma, que faz as medições para fechar, Então, como a gente vai mandar a informação para lá e aí o [LOCAL] depois vai levar para o Proteus? Então, não muda. Então, tu pode seguir validando, tá [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá bom. Então, o que eu vou fazer? Então, finalizando aqui a reunião, já mando a documentação para vocês. Coloco o [PESSOA], o Marcelo, vou traduzir também, a [PESSOA], já coloco o [PESSOA] também. Aí eu peço uma análise para vocês. surgir dúvidas, se vocês retornam ali, se precisar de algum alinhamento, alguma reuniãozinha, alguma coisa nesse sentido, aí a gente envolve o arquiteto que prepara a optimização ali para a gente, para tirar essas dúvidas de vocês, se tiver algum ponto faltando ou algum ponto para acrescentar ali, que vocês identifiquem e a gente já coloca também no mesmo circuito. [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: vou te pedir, copia eu e o [PESSOA] nesse e-mail, por favor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4063,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Sim.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Ah, porque assim, aí a gente consegue manter a comunicação mais centralizada em",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: todos,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: né? Porque daí, como a gente tá tratando todo um outro lado, a gente fica",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4499,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: conectadoMarcelo [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: nesse assunto pra não deixar ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: cair. E manter o ciclo, assim, de certa forma, manter o ciclo que você e o [PESSOA] começou lá atrás no levantamento inicial, né? O planejamento inicial,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: o que foi",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5415,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: pensado,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: tudo. [LOCAL], isso mesmo,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: issoMarcelo [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não, copio, sim. Então, nesse ponto a gente já tá anotado aqui, eu já envio pra vocês na sequência. E nos demais pontos, pessoal, vem relacionada a nossa listagem de dependências. Vou até abrir ela aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3544,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: antes, só porque a [LOCAL] está aqui, até porque as pendências são... Alguma coisa é até do [EMPRESA] também, mas só para entender, aquela atualização, cópia da produção que tinha sido feita, está tudo resolvido lá, do que impactava as coisas do [EMPRESA], estava copiando a produção para homologação, para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: poder",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: fazer alguma coisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É, porque a gente tinha parado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Isso. O pessoal fez a cópia no final de semana. Fiz a parametrização que estava só em ambiente de teste. Foi feito também em ambiente de produção. A gente deu o acesso lá para o pessoal, para eles seguirem também. Então, se precisar eventualmente replicar novamente depois, vai ter esse ponto em que não precisa parametrizar tudo de novo igual a gente fez lá atrás.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: E aqui falo que eu ainda não tô entendendo os pontos que eu tô discutindo com o [LOCAL], né? Enquanto ele tá me apresentando o sistema, eu tô comentando coisas que talvez depois venham a chegar aqui com a nossa inserção de customização, ou assim, de parametrização. Tá? Muito obrigada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Deixa eu abrir aqui então, para a gente passar as principais informações.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Você vai filtrar, tira o filtro de... Acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: estava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: só com tosse. Tira, deixa pra todos o eco, por favor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA], só um minutinho. É que quando eu abri que já estava filtrado, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4845,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: É, já estava filtrado, que eu estava analisando pela manhã. Eu bato sua panilha todo dia quando chega",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4617,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: toda pra mexer nesse filtro aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 22]: gosta do Google Sheet. Quando eu preciso mexer aqui ou entender alguma coisa ali, dar uma passada, eu gosto de baixar aqui pro meu notebook, aí eu olho lá, vejo o que eu preciso olhar e depois se precisa alterar alguma coisa, aí eu altero no drive.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5324,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Mas antigamente eu fazia isso, mas acostumei, cara. Hoje eu já uso esse bicho aí, tipo, faço até fórmula nele já. Às vezes até programa nesse bicho aí, às vezes faço umas brincadeiras nele. Vamos lá, pessoal. Nós estávamos seguindo, né, Marcelo, seguindo aquela lista, Focando no fechamento, inclusive hoje o [PESSOA], vou até pegar o resultado com o [PESSOA] da agenda da manhã da contabilidade, que o [PESSOA] está agora à tarde atuando. Nós tivemos a atualização da base e voltamos a atuar naqueles itens do financeiro. Eu até pedi que o [PESSOA] atualizasse o número do chamado, que ele abriu um chamado para ver aquela questão que mata dois itens, que é os extratos. E o [LOCAL], a gente teve um avanço ontem, conseguindo transmitir o R1000 pelo Proteus. E aí eu queria trazer uma discussão do [LOCAL] aqui para que a gente tomasse a decisão juntos. Porque assim, como vocês já encerraram o [LOCAL] desse mês lá no [LOCAL], eu não consigo transmitir novamente porque o [LOCAL] foi transmitido lá e já está fechado o período. A gente precisaria esperar o mês do [LOCAL] virar para que isso fosse transmitido pelo Proteus. Como a gente já capacitou o usuário, já mostrou como é que apura, já mostrou como é que transmite, porque os outros eventos, eles são meio que iguais ao que ele fez no R1000. Ele vai apurar, ele vai transmitir, vai monitorar. Ele vai fazendo isso por evento. Se a gente já pode encerrar esse item do re-inf, ou se vocês querem aguardar chegar lá no mês para poder transmitir, para a gente tomar essa decisão juntos aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Sempre complicada. Eu poderia dizer que poderia até fechar, mas aí a gente vai ter que... Minha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4646,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: preocupa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: é se chegar na hora de dar algum xabu, porque realmente o [PESSOA] me falou que foi tudo certinho, que deu tudo certo, mas a gente não fez o final, o último para valer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4706,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: movimentação e encerramento, né? Porque o erro ímpar tem um bloco de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: abertura,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: que foi o que foi transmitido, tem os",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: blocos de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: movimentação e tem o bloco de encerramento. Como já estava encerrado e já tinha movimentação, a gente não conseguia mandar de novo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Acho que podia botar um 95% e colocar para o final da fila, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Eu até estava dando uma olhada aqui na listagem, um pouco mais cedo também, nesses itens. Tem alguns itens que foram colocados aqui, adicionados durante a semana, que eu estava observando aqui. e que o que eu Estou até tentando pensar em alguma situação aqui pra gente bater o martelo juntos, é no sentido porque assim, a gente tem daqui pra frente, eu entendo que a listagem de pendência em si, eu acho que a gente tem que quebrar ele em dois níveis, até pra gente entender o ataque desses níveis. Qual que seriam esses níveis? O primeiro item é referente ao nosso projeto principal, pra gente fazer o fechamento ali, o encontro de conta, das horas, tudo que a gente precisa atacar ali pra esse projeto. E os itens, que é normal, eu entendo que todo lugar vai ser dessa forma, vai ser os itens de sustentação de vocês no dia a dia. Ah, eu fui entrar numa nota aqui hoje e fiquei com dúvida. fui transmitir alguma nota, aconteceu alguma coisa, alguma coisa nesse sentido, porque para a gente colocar até mesmo a questão do que é sustentação ali no dia a dia e do que a gente precisa focar e encerrar da implantação original ali, né, que a gente precisa tacar. Se tem, por exemplo, algum ponto do fechamento que está pendente de janeiro que a gente precisa tacar, tem, a gente lista esses itens e já mata esses itens, senão que a gente vai deixar de fazer os outros. Então, por exemplo, a questão do reínfo, beleza, se eu for fazer o fechamento do reínfo no mês seguinte, se surgir alguma dúvida, se surgir algum ponto, como que eu vou fazer o ajuste disso? Pra gente, de alguma forma, ter essa separação. no final do dia, tudo um bompo de horas que a gente vai estar utilizando, mas pelo menos para a gente entender a classificação desses itens. Não sei, eu estava pensando alguma coisa nesse sentido. Até trouxe hoje aqui para a gente discutir junto, entender com você, [PESSOA], [PESSOA], [PESSOA], o [PESSOA], a gente pensar em algum cenário nesse sentido, até para não dar o sentimento, tipo assim, minha lista de dependências, toda semana acrescenta coisa e eu não vou encerrar ela nunca, Entendeu? Alguma coisa nesse sentido, fazer uma classificação ali. Alguém levantou a mão? Desculpa,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: não estou ouvindo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Alguns itens. Isso, sim, eu acho que pode ser mais uma coluna para dizer se é rotina ou se é implantação. Isso daí já... E, normalmente, a implantação passaria na frente da rotina. Mas tem coisas que são os dois. e aí tem que ver como é que vai fazer, né, que normalmente passaria na frente de qualquer coisa. Como, por exemplo, não sei se, eu comentei com a [PESSOA], não sei se ela chegou a adicionar, eu, assim, eu tô muito preocupada, como, por exemplo, o [EMPRESA] parou de funcionar. Entendeu? Sem contar que eu não tenho o [EMPRESA] de união. Como é que passa pra gente o [EMPRESA] e não tá completo? Entendeu? Como é que não instruem a gente, como eu tinha falado antes, perguntando, mas isso é uma configuração? Você falou sim, mas por que precisa de uma outra orientação, sim, mas não passaram nada para a gente. Entendeu? Eu estou colocando lá exatamente um [PESSOA] da [LOCAL] como se fosse um de oferecedor comum e aí não funciona. Achando que é problema nosso daqui, que a gente tinha feito errado, aí faz de novo, não funciona, funciona, não funciona, e quando eu vou descobrir é porque realmente não funciona, porque não foi configurado, tá? Agora, num instante, o [LOCAL] não funcionando, agora nada funciona, agora tá tudo zerado, você não tem, não tem nenhum [LOCAL] no KNAB, gerando. Aí eu não",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: sei se",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: um problema nosso aqui ou alguma coisa que aconteceu nesse meio-terno.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Mas fornecedor também parou? Ou só a [LOCAL] que não está ainda? Não está ainda mais nada?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Agora não está indo mais nada, pelo que me informaram. É assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: precisaria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: de um consultor olhar com o nosso pessoal aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4909,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Eu até acabei de passar para a [PESSOA] e pedir para considerar para o [PESSOA] tratar como prioridade os dois assuntos mais urgentes aqui da [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5063,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 41]: a [LOCAL], porque simplesmente parou, e é o centro de custos, porque você está precisando muito do relatório. Então, eles até vêm no centro de custos agora com o [EMPRESA], por isso que ele não está com a [PESSOA]. A [PESSOA] acabou de me falar que ele está com o [EMPRESA], com o [EMPRESA] ajudando ele para entender a questão que o próprio [EMPRESA] falou com a gente lá no dia da reunião. Então, assim, eu concordo com o gênero no Murigrau, que a [PESSOA] falou, porque esse, por exemplo, é o ponto do [LOCAL], A gente está falando de horas de implementação e horas de coisas que mexem. Por exemplo,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCAL], que eu posso considerar que foi implementado depois que eu testo ele funcionando. Tudo bem, o [PESSOA] ele estava testando funcionando, mas estava faltando uma das modalidades que deveria ter sido colocada, alertada. A gente pode tentar aqui classificar, mas eu só considero que está implementado depois que a testada está funcionando, entendeu?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4473,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Um dos pontos, pessoal, que eu queria entender, tá? Quando o analista configura esse KNAB, ele vai botando os títulos, né? Eu tenho fornecedores, eu tenho isso. Vocês chegaram a passar para eles quais impostos tinham lá que vocês queriam pagar dentro desse KNAB? Porque me estranha não ter sido configurado nada de imposto. Vocês passaram para eles, olha, a gente paga imposto com o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: tem empresa que não paga imposto com o KNAB, tem empresa que paga guia direto na contabilidade. Foi informado para eles que teria esses blocos e quais impostos, porque assim, tem imposto que só paga pela caixa, só sai guia na caixa e você não paga dentro do KNAB. Foi informado para eles qual era exatamente quais impostos eles iam pagar por esse KNAB que vocês estão usando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Provavelmente não, mas também não foi levantado. A gente tá fazendo tudo junto. Vocês sabem que todo mundo a gente tá caminhando se não for levantado. A gente tá fazendo nossa rotina ao mesmo tempo, que a gente tá começando os dois processos ao mesmo tempo. Tanto o [EMPRESA] quanto a [PESSOA], né? Então, assim, a gente tá da mesma forma que vocês, Só que, assim, o fato é que você já tem essa bagagem. Eu não preciso saber que é diferente, entendeu? No caso do sistema. Eu não tenho como saber que é diferente. Para mim, eu estou considerando que é igual. Entendeu? Os da [LOCAL] não funcionam. Isso eu tenho certeza. E agora nenhum outro, pelo que me explicaram. Pode ser um problema não necessariamente daí. Pode ser daqui. Entendeu? Mas, assim...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Do fornecedor, de parar de funcionar, é bem estranho, sabe? Porque ninguém deu mais manutenção que nada, sabe? o da [LOCAL] entendo que pode não estar configurado os impostos. Mas não est",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: configurando o extrato, não? Que o extrato é ponto rete, não influencia, não?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Desculpa, falhou um pouquinho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4341,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Eles, teoricamente, disseram que tinham que configurar também alguma coisa de extrato. O extrato também é ponto rete, não tem a ver, não? Não sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.452,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: se... O extrato é ponto rete porque ele é um retorno do banco, né? Ele... Sim, o que o KNAB que você está se referindo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4958,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [LOCUTOR 13]: o ponto REN, que é uma remessa para o banco. Eu estou enviando algo para o banco. É esse que eu entendo que não está saindo e que deve estar saindo zerado. Pode ser por vários motivos. Um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4959,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: dos motivos mais clássicos que tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: você bota o nome do arquivo de KNAB na hora que você vai gerar errado. Ele não acha e gera em branco. Às vezes a gente até trava esse campo para que vocês não consigam mudar. Não estou dizendo que é isso, não analisei, mas normalmente um KNAB parar de funcionar, pode ser uma atualização do sistema, alguma coisa, mas que também não foi feita, não aplicaram nada no financeiro, até onde eu sei. Pode ser isso, pode ser algumas coisas, mas o fornecedor, eu sei que ele funciona. Agora, realmente, os KNAB de impostos, que são blocos diferentes, a primeira orientação que eu vou dar ao time é, levante com vocês quais são os impostos que eles querem pagar lá dentro. Porque tem impostos que só são pela caixa. Tem impostos que vocês não conseguem pagar por o banco que você trabalha.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Não, mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: especificamente eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: testei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: em código de barra e ele lê.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5815,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Ele vai, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Ele vai.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Pronto, que aí a gente vai justamente olhar. Depois que vocês passarem quais impostos, a gente vai olhar na documentação do banco de vocês. A gente tem lá essa documentação que vocês passaram lá. Qual é o layout, qual é o bloco que vai esse imposto em específico. Por isso que a gente vai precisar de quais impostos especificamente vocês estão falando. Para que a gente configure esse bloco e aí passa a gerar. Só que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: pessoal vai explicar para vocês. [LOCAL] são diferentes. Você não monta bordereaux de imposto junto com bordereaux de fornecedor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Eu cheguei a fazer esse teste.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Realmente n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: funcionou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Não tem nada de diferente. Não deve estar funcionando porque o teu KNAB não deve ter esse bloco. Só para você entender, quando a gente configura um Kinect, a gente não configura ele com tudo o que tem dentro de um layout do banco, até porque senão a gente iria configurar e gastar horas que não necessariamente você vai usar. A gente configura, habilita, configura exatamente com o que você usa. Ah, eu pago só tornecedor, eu pago TED, eu pago PIX, a gente faz conforme o que vocês utilizam. Por isso que o Kinabwe [PESSOA], se eu não me engano, ele tem até [EMPRESA], não tem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Em relação ao KNAB, só um conselho, próxima vez comenta, pergunta, quais são os impostos que vocês utilizam? Porque aí facilita outra área que está já na atuação, já está fazendo os dois ao mesmo tempo, para que ela possa orientar. Normalmente,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: isso é uma pergunta que faz parte dos roteiros de KNAB. Isso normalmente é perguntado. Eu vou olhar essa meeting, o que é que está lá. mencionando nela, mas, novamente, é bem comum se perguntar, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 16]: paga... A gente tem algo financeiro, né? O levantamento, entendeu?[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Ô,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [PESSOA], deixa [LOCAL] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: só... Ô, [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: deixa [LOCAL] [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: só... Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: bem.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Bem rapidão, tá? Pessoal do consórcio, eu vou sair porque o [LOCAL] tá vindo pra cá, ele conseguiu antecipar lá, terminou a reunião dele com a [EMPRESA], e aí ele já tá vindo pra cá, eu preciso correr pra mudar a sala, essas coisas todas. Então, assim, amanhã eu tô aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: ideia é a gente vai começar com o [LOCAL] amanhã de manhã. Então conseguiu o especialista para as 8 e meia. Então 8 e meia estarei pronto na sala. Vou tentar chegar um pouquinho antes já até para garantir que eu vou conseguir chegar no horário e aí depois eu preparei já aqui uma apresentação para mostrar onde a gente está ali na nossa linha do tempo. O que a gente tem de adicional a gente consegue colocar e a minha ideia é já conseguir levar os valores do que eu tiver na mão para que a gente consiga discutir isso. Para dar uma ideia para vocês, a gente não pode ficar colocando muita solução sem que antes a gente fale de dinheiro também, não é? Bate na trave aí depois, tá bom? Certo? Nos vemos amanhã então, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA] [PESSOA], oito e meia, que o Marcelo marcou, só para você saber.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5474,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 42]: bom, vouMarcelo [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: avisar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: osMarcelo [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: meus",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: namoradosMarcelo [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: também. O café na xícara da capivara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Não,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 39]: capivaraMarcelo [PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: [LOCUTOR 25]: pessoal.[PESSOA] de  Não tá bom gente até amanhã",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3765,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tá. O pior é que aqui onde eu fico que nem [LOCAL] é o símbolo da cidade aqui [LOCAL]. Gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5038,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: mas tá o símbolo de todo lugar agora [LOCAL] não sei.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 14]: em [LOCAL] tem [LOCAL] agora na beira",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5366,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: do lago. Você passa na lagoa, tá cheio de capivara, capivarinha. Você vai na [LOCAL] ali, você vê invadindo as casas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É igual aqui também. Viram patrimônio da...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Proliferação de... de capivara e virou símbolo do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]. Não conseguiu acabar, então deixa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Já que a gente não consegue",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: terminar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a gente...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 39]: vai ser o próximo animal da Copa ou das Olimpíadas,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5358,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: alguma coisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: daquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Olha, não acho difícil,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: não, de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: repetir ele em todo lugar que você vê, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5366,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [LOCUTOR 2]: lá. Mas assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 11]: em resolução do [LOCAL], eu acho que é averiguar ali, Normalmente, pessoal, é uma pergunta que se faz, de nada. Faz impostos, até porque precisa configurar esses blocos, mas a primeira coisa que eu vou pedir é que levante quais são esses impostos. Vou até pedir que o [PESSOA] faça logo isso. Já está com vocês aí. Entenda que impostos são esses.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Pegue a documentação do banco e veja se esses blocos estão implementados. Se não, a gente já traça ali o plano para botar esses blocos. E vê essa questão do fornecedor também, até porque são, sim, o fornecedor pode ir funcionando enquanto a gente vai configurando esses impostos? Desculpa, [PESSOA], eu acabei interrompendo o seu foco.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não, não, eu ia falar nesse sentido mesmo, né, que o... Como o [PESSOA] já está lá, já aproveitei a pergunta quais são esses impostos, entende ali, tem a [EMPRESA] que foi levantada do financeiro, então entendo que todas as perguntas devem estar lá, né, nesse ponto, mas, provavelmente, se não está configurado, não teve essa conversa, estou entendendo, né? Então ficou ali... ou ficou subentendido ali por parte da [PESSOA] e da [PESSOA], ah, estou entendendo que pagar é pagar tudo, ou, sei lá, na época o [EMPRESA] não fez essa pergunta específica dos tributos, então acabou passando. Então, se quiser revisar a Meet, eu posso reenviar a Meet aqui para vocês, não tem problema, mas já aproveitando que o [PESSOA] já está na agenda, já pergunto quais são, já entende ali, j",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: vê essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: questão pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCUTOR 3]: sendo gerado, zerado ali, que normalmente pode ser alguma coisa de pergunta mesmo, alguma questão ali, de montagem de perguntas, porque tem bastante perguntas na hora de você gerar os arquivos. Então, normalmente, provavelmente, deve ser isso, essa questão de perguntas. E assim, pessoal, como está tudo muito novo aqui, eu vou avaliar, pode ser até que o Kinect de vocês já tenha esse bloco, tá? Por algum motivo, só não está gerando, alguma coisa assim, tá? Mas deixa eu fazer uma análise, até para trazer mais informações para vocês, para não",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: passar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: nenhuma informação que não, de fato, seja verídica. Preciso olhar se esses blocos estão. Primeiro, quais são os impostos, ver quais são os blocos na documentação do banco e ver se já tem no KNAB de vocês. E aí eu consigo dar um panorama melhor para vocês. Eu passo essa informação, [PESSOA], para você. Ou você quer que eu alinhe direto com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: pessoal da [LOCAL]? Porque com a forma que você prefere que eu faça,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então, a gente tendo essa resposta de onde está com furado, não está com furado, está faltando alguma coisa, o que é, pode passar para a gente. se quiser, por exemplo, formalizar no e-mail pra gente ali, ó, o pessoal tá configurado ou não tá, ou vamos configurar aqui, paralelo às agendas de vocês, disponibilizamos até tal dia, a gente só posiciona",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: pra gente. Tranquilo, até porque isso é algo que é feito meio que em paralelo, assim, né, é mais a validação com eles, né, envio pro banco e tal, mas a gente consegue fazer esse responda, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então, só pra gente passar aqui, ô [PESSOA], só pra não passar item a item aqui, mas eu tava até dando uma olhada aqui, até pra não estender muito a nossa reunião aqui, mas assim, a questão aqui do [PESSOA], ele tá vendo esses primeiros itens aqui que estão sendo colocados como prioridade, que é esse antifúcio que a [EMPRESA] comentou, a questão do pin-up, que provavelmente ele vai ver na sequência, né, e a questão dos saldos aqui dos títulos, tava dando diferença lá, né, a divergência.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4724,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: saldo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: ele tá vendo com o chamado, tá, [PESSOA]? Tem um chamado pra pegar lá na descrição, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4987,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: E o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: chamado aberto, eu vou até ver com ele se tá tendo devolução, se não tiver eu vou te pedir pra escalar, mas o chamado, se eu não me engano, foi de ontem ou foi desde ontem, eu acho que eles vão começar a responder agora, porque demoram um dia mais ou menos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4186,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: E aí, [PESSOA], a gente conversou na semana passada lá, quando o consul tiver algum chamado assim, já pede pra copiar a gente, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: O [PESSOA] já tava com essa orientação, mas eu vou só me certificar que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: fez, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Pelo menos eu não vi aqui um copio de chamado pra mim. Não sei se ele copiou a [PESSOA] ou o [PESSOA], mas pelo menos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: eu não recebi. Ele não copiou. Eu até cobrei isso hoje. Acho que não me copiaram nos chamados de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: novo. A orientação, vou até reforçar novamente, eu até falei com a [PESSOA] hoje na reunião, que é botar o número do chamado aqui na descrição e copiar todos pra quem esteja. Eu já sou copiado porque ele já me bota no meu e-mail, abre no meu e-mail, mas pra que vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tenham",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: esse acompanhamento, perguntando onde é que tá o chamado, ele vai recebendo o e-mail. Eu vou repassar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4394,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: novamente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: o [PESSOA], tá? [PESSOA] e [PESSOA], eu queria pedir um favor para vocês, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4556,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 37]: recebo muitos e-mails todos os dias, então às vezes eu não dou conta. Quando eu tiver chamado, o que tem que pedir prioridade, se puder me mandar ali no WhatsApp, que tem nossos grupos aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Eu te aviso, tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Esse é porque ainda não chegou num nível deles não responderem a alguma coisa assim, Mas sempre que eu for pedir prioridade, eu falo, ó, você consegue dar prioridade nesse chamado aqui? Eu te peço por um número, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4196,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [LOCAL]. E daí eu entro no sistema aqui interno que eu tenho para pedir prioridade e escalar o assunto para ganhar celeridade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5355,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Às vezes a gente chama o analista direto naquele chat, né? Às vezes a gente chama ele lá e tenta trocar uma ideia ali com o analista que está atendendo, né? A gente tem esse costume quase que interno, né? Aquele chatzinho que a gente consegue chamar o analista da matriz direto, né? Às vezes",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5455,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: acelera também, mas claro que quando pede prioridade acelera. Tá bom. Então [PESSOA], como saída? A gente vai classificar alguma coisa no sentido do que é? a implantação e o que é que virou suporte, eu só perdi um pouco dessa parte que eu falei a definição. Eu sei que o pessoal explicou aí a questão de que tem coisas que é os dois, mas eu não sei se a gente teve uma definição sobre esse ponto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 7]: um pouquinho confuso. Acho que a pessoa levantou a mão ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4956,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Eu não brinquei com ele.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4355,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 27]: duas mãos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 38]: embolei o português aqui. Um ponto só, eu sei que esse momento não é para a gente verificar essa lista agora, aquela reunião curta, mas esse primeiro ponto aí que está com o [PESSOA], a gente tinha ficado de testar junto o arquivo que a [PESSOA] recebeu. Vou aproveitar que a [PESSOA] está aqui para dizer para o [PESSOA], se puder, aproveitar que ele já vai falar com a [PESSOA], já está em contato com ela, para já colocar isso no item também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: retorno, não é, [PESSOA], do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4766,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: extrato? Do extrato. Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Eu que estou falando, mas é assunto da [PESSOA], mas eu quis antecipar aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: É que é dela e eu troquei.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: E, assim, eu acho que a gente pode tentar sentar, não agora, mas num outro momento, igual a gente estava fazendo daquelas reuniões de verificar item a item, e a gente tentar ver aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4815,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: é um, o que é dois, o que é os dois, para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5363,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: poder... Então, qual é o meu objetivo, [PESSOA], nesse sentido aqui? Pegar os itens que a gente precisa fazer o ciclo em seguida à implantação. Eu sei que tem itens que vão surgir, que é prioridade, que dá para ter que atacar, isso acontece,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: eu queria montar um plano de ação aqui para a gente ver se a gente pega uma carga um pouco maior de agenda, talvez uma semana e faz um plano de ação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: para a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gente fechar esses itens para não... Para não dar aquela sensação de que passou mais uma semana e a gente está falando dos mesmos itens. E dentro desses itens vai surgir coisa nova no dia a dia. Semana que vem você pode",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: uma aprovação lá no financeiro. [PESSOA], essa aprovação em específico não foi, vou precisar olhar. Aí cai na sustentação, porque assim, isso vai ter no dia a dia. Nos próximos anos você vai estar usando, pode dar divergência no seu dia a dia. Aí a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que pensar. Isso, isso aí que eu queria entender dessa lista. O que são itens do dia a dia que é suporte? Aí eu não sei, tá? Aí seria uma reunião que a gente pode fazer em sequência também. Primeiro faz a classificação, entende? Pra gente matar esses pontos de implantação. E aí uma segunda classificação, porque assim, como que a gente vai tratar o suporte da [LOCAL]? Aí não sei se o [PESSOA], o Marcelo, o pessoal, como que eles... Como que eles estão, se eles já falaram com vocês alguma coisa nesse sentido de suporte, de tretação do dia a dia? Porque vocês vão precisar levar mal isso aí, né? Todo cliente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: tem um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: plano de suporte depois do MoLive, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6087,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Mas aí, [PESSOA], assim, pra eu considerar suporte, ele tem que ter funcionado pelo menos uma vez. E as",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5219,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: coisas que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: eu sei, com exceção do Kinect, que realmente foi uma surpresa hoje, as coisas que a gente tem aqui são coisas que a gente não... nunca conseguiu fazer funcionar que eram para funcionar e por exemplo a questão do centro de custo no financeiro desde o início não vai aparecer no financeiro mas nunca aparece só aparece no financeiro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: o que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA] e o time dela lançam direto no financeiro. Não é suporte. Eu não sei se vai ter muita coisa. Agora, se você conseguir aumentar as agendas, que nem hoje, eu vou até agradecer. [PESSOA], vocês conseguiram aí para a gente um consultor de contabilidade e a gente deu uma antecipada legal aqui nos pontos de contabilidade. O time aqui já está trabalhando em preparar os relatórios gerenciais, as regrinhas que tem que preparar para poder ter relatório gerencial. Então, assim, conseguir mais técnico, principalmente consultor, principalmente consultor especialista, para a gente adianta muito, que eu acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 50]: terminar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: logo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É, então, nesse sentido, Thalena, assim, eu não olhei itens bonitos na lista, então, não tô julgando que tem muita coisa de suporte que eu estou dando essa ideia até pra pensar nesse plano de ação, né? Então, assim, a gente até, aí a gente entra pra dentro de casa aqui e olha, [PESSOA], cara, tem na lista aqui, tem 50 itens na lista. Desses 50 itens, cara, 45 itens que estão sendo usados pela primeira vez e nunca funcionou. Gente, a gente precisa montar um plano de ação aqui, vamos atacar isso aqui e que esses itens sejam finalizados para a gente virar essa página dos pontos de implantação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: gente teve uma situação especial aqui, porque como a gente é uma empresa que está começando, o que acontece? Tem coisas que acontecem que a gente não sabia que ia ter, porque é diferente de uma empresa que tem a lixinha de todos os [EMPRESA], todos os pagamentos de imposto, que ela já fazia antes. Então assim aí acaba que é por isso que a gente até conta muito como a [PESSOA] falou com vocês também. Eu sei que não é uma plantação comum a plantação comum",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: de voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: todo mundo tem a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: lista de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: tudo que paga e você vai lá e repete. E às vezes é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5053,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 50]: esse pagamento da [EMPRESA] mesmo um dos pagamentos que a [EMPRESA] foi uma coisa eu até já sabia mas talvez o time do financeiro não sabia talvez faltou um pouco de comunicação enfim em outros pontos. Mas de qualquer forma o pagamento de tributos é uma coisa normal então assim Às vezes, eu acho que algumas coisas demoram um pouco mais a andar, mas tem bastante coisa ainda que a gente conversou e aí vai ter, mas aí não funciona, ou",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: atrasou,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: mas tá andando,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: só se",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: puder",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: acelerar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: realmente. Eu entendo que sim, eu vejo ali a avanço da lista, toda semana temos aqueles concluídos. A minha preocupação é só a gente ter esse sentimento. Pessoal, [PESSOA], legal. Fechamos aqui os pontos da implantação, os itens aqui, É lógico, tem o que você falou, [PESSOA]. É um projeto totalmente atípico, então não é uma empresa que está surgindo, então tem processos que vocês eventualmente estão testando ou, não testando, mas fazendo pela primeira vez agora, porque lá atrás não tinha nenhum cenário ainda para fazer. Enfim, vai ter de tudo, mas foi mais um ponto só para se a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: gente conseguir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aí depois...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Vamos olhar, sim. Depois alguém me ensina como é que baixa esse negócio aqui do [EMPRESA], que eu não sei baixar isso não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Você vai alinhar aqui, ó. Você vai alinhar aqui o arquivo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Baixar. Ah, obrigada. Gente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: desculpa, eu tô correndo aqui. É preciso ainda de mim alguma coisinha?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4857,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 12]: posso... Eu acho que é isso, [PESSOA]. Acho que os pontos principais que a gente bateu aqui, o ponto é só que... Eu só queria dar uma olhada pra essa listagem aqui, porque pra eu sentar com o [PESSOA] e com a [PESSOA] aqui, eu queria trazer um plano de ação um pouco mais agressivo pra gente tentar focar nos pontos ali e se anal, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Se vocês quiserem fazer uma pré-avaliação de vocês, e aí, de repente, marcar uma reunião amanhã só, nós, de repente, com os usuários, para a gente fechar isso aí, tentar fechar o que é, o que não é. A única coisa é que amanhã, no final da tarde, eu não vou estar aqui. Então, ou amanhã, a partir da manhã, depois que o Marcelo for embora, ou segunda, a gente fecha isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá bom, eu vou falar com o [PESSOA] aqui, a gente pensa em alguma coisa e fala com você, tá, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4697,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Olha, depende, acho que até segunda-feira eu vou estar Eu não sei, eu acho",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4073,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que minha equipe",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: também, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Então acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: que se der pra fazer na terça, eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5073,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: agradeço. Fica tranquilo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [PESSOA]. A",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gente já pensou em alguma coisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: eu e [PESSOA]",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: e a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]. Aí a gente fala com a [PESSOA], né? Então, [PESSOA], talvez a gente puxa a [PESSOA], centraliza ali e depois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: ela",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: liga com vocês no momento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.509,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: gente já passa uma chegada. A gente já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: passa uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: chegada só pra eles darem o de acordo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: finalizar, [PESSOA], eu acho que na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4953,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: semana que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4772,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: vem aí eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: e o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 45]: [PESSOA] vamos alinhar aí. [LOCAL], [PESSOA]. Na semana que vem aí, o [PESSOA] e eu vamos alinhar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4756,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tanto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: a continuidade, a próxima onda que a gente vai ter que fazer de manufatura, verba, tudo mais, né? E aí, essa questão do suporte continuado, vamos dizer assim. Porque, na verdade, não é suporte, né? É uma consultoria, alguma coisa nesse sentido, né? Porque é como tu falaste, né? A empresa nasceu agora, tem situações que a gente não conseguiu testar, não conseguiu prever. E vai surgir. E aí eu vou ver com o [PESSOA] qual é a melhor forma de atender, se vai continuar sendo pela equipe do [PESSOA] lá, ou se daqui a pouco a [LOCAL] do [LOCAL] assume, e a gente começa a botar alguns outros consultores pra girar e pra atender, a gente vai combinando esse jogo aí, pra vocês terem o melhor atendimento possível, porque isso aqui é só o início, né? Pelo que o Marcelo me falou, vocês estão prevendo um monte de coisa aí pros próximos meses, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Eu tive uma conversa com o Marcelo e assim, amanhã ele deve trazer alguma coisa, infelizmente acho que o [PESSOA] não vai estar aqui, porque a gente está chegando cada vez mais à conclusão que eu preciso do contrato, gestão de contratos para o [EMPRESA]. E aí ele já me deu mais ou menos uma estimativa de horas. A outra coisa que eu ia te pedir, [PESSOA], assim que você puder, me manda, acho que eu só tenho horas até janeiro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Relatório de horas, eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: também",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: pedi para o [PESSOA] isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Manda para a gente, a gente está acompanhado. [PESSOA], me ajuda, aperta, vamos diminuir as horas de comércio, a [LOCAL] já saiu. Vamos diminuir a hora do comércio,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5631,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: tem menos coisa lá do que eu acho que foi estimado. Tem mais coisa lá do que foi estimado, eu acho. E aí vamos para ver se eu consigo, porque eu sei que tirar dinheiro aqui é bem difícil.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5301,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Imagino.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Conversem com o Marcelo que vocês vão entender como é que funciona aqui. Mas eu acho que esse módulo de gestão de compras, o [PESSOA] tem me cobrado e eu acho que ele vai atender um monte de coisa para a [PESSOA], porque com ele que você consegue ver o funcionamento do que já tem em ordem de compra. Então, eu acho que a gente vai ter que fazer mais um que não estava na previsão de vocês. Mas, de repente, vamos ver. Vamos ver se a gente consegue.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: pegando esse gancho antes do [PESSOA] falar das horas, falou do [EMPRESA]. Daqui a pouco, a gente vai ter que ter uma conversa com a [LOCAL], [PESSOA], para ver se realmente tudo aquilo que foi pedido realmente vai ser necessário agora. Talvez, daqui a pouco, a gente reduza o escopo. Não, isso aqui não se cita agora. Pode entrar daqui seis meses, pode entrar do que vem. Pessoal, tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: mais um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4363,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: pouco, eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: tenho uma reunião aqui agora, um pouquinho atrasado para ela.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5331,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Beleza, [PESSOA]. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Valeu, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Beleza, [PESSOA]. Valeu. Tá, eu mando sim, tá na sequência aqui, já estava pronto no slide aqui já, tá, [PESSOA]? Então a gente teve, eu mandei até janeiro, né, porque foi um pouco a mais janeiro ali por causa do [PESSOA], né, a gente usou um pouco mais de horas. E aí dentro de fevereiro aqui já reduziu bastante também, a gente reduziu até 149 horas aqui em fevereiro. Mas eu mando pra vocês, tá? Acompanhado certinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4704,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Essas horas são por causa do carnaval e do fim de semana, porque se fosse pela demanda... Carnaval é mês de 28",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5562,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: dias.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4428,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCUTOR 15]: na conta tá as horas da equipe do [PESSOA], mais 20 horas de gestão que é minha. Aqui, interna",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5763,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: da TOTUS, não está o [EMPRESA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCUTOR 37]: vou cobrar a [PESSOA] disso, inclusive, para trazer o status",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4743,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: report.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: De repente, para trazer o status report agora e a gente colocar ali, sei lá, com a coluninha do lado do [PESSOA], depois que o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6384,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: passar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: a gente junte, ou você junte, [PESSOA], para a gente, porque eu preciso acompanhar...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5029,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Eu consolido. Isso,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 45]: consolido, porque eu tenho que controlar o contrato, né? Então, eu consolido.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Pois é, e eu também, senão o [PESSOA] aqui me... Puxa orelha. Tá bom. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3642,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 17]: assim. Beleza, gente. Eu mando pra vocês. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3588,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: Obrigado, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 45]: gente. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: gente. Bom trabalho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    }
+  ]
+}

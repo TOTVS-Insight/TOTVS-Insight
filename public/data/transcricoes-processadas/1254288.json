@@ -1,0 +1,1423 @@
+{
+  "id_reuniao": "1254288",
+  "codt": "DBN485",
+  "data_reuniao": "2026-03-20 10:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 30]: Fala [PESSOA], bom dia.\n[LOCUTOR 26]: Bom dia, estava te respondendo aqui.\n[LOCUTOR 30]: [LOCAL], tranquilo.\n[LOCUTOR 47]: Sei\n[LOCUTOR 30]: que a agenda é corrida, às vezes acaba uma ou outra, passando uns minutinhos. [PESSOA], eu tinha passado aqui para o [PESSOA], porque da nossa agenda de hoje, que a gente já tinha passado, eu e o [PESSOA], nessa última agenda que a gente teve, a visão de investimento, falando de Proteus pontualmente, a gente teve aquela outra agenda do Agora, mas agora a gente falar sobre possíveis dúvidas que tu venha ter em relação ao que consta naquele documento que eu compartilhei contigo,\n[LOCUTOR 26]: do\n[LOCUTOR 30]: escopo ali daqueles módulos do RT Proteus na modalidade Essential, né? Tu tinha solicitado essa agenda para, de repente, tirar qualquer dúvida que tu possa ter em relação à leitura que tu faz naquele documento, né? Mais ou menos isso, correto?\n[LOCUTOR 26]: [LOCAL].\n[LOCUTOR 30]: Tá? Se tiver vontade, se tiver algum questionamento pontual, aí o [PESSOA] pode ajudar a gente nesse esclarecimento dessas dúvidas contigo.\n[LOCUTOR 47]: Tu quer compartilhar a tela ali, [PESSOA]? Que daí o\n[LOCUTOR 30]: \n[LOCUTOR 45]: vai conversando e eu vou explicando aqui do outro lado. Pode ser? Pode. \n[LOCUTOR 32]: me apresentar então, [PESSOA].\n[LOCUTOR 30]: \n[LOCUTOR 33]: o [PESSOA]. Trabalho aí como apoio da área de vendas, tá? Trabalho numa área chamada de\n[LOCUTOR 47]: engenharia de valor da [EMPRESA].\n[LOCUTOR 30]: \n[LOCUTOR 42]: a gente monta as arquiteturas e os pacotes de implantação de RPs. Então, a gente é responsável por fazer essa arquitetura\n[LOCUTOR 47]: aí para a [LOCAL].\n[LOCUTOR 30]: A palavra\n[LOCUTOR 47]: é\n[LOCUTOR 30]: sua, [PESSOA].\n[LOCUTOR 47]: Onde é que tu tem as dúvidas aí? Agora que a gente vai se posicionando aí sem problema nenhum, cara.\n[LOCUTOR 30]: Tá\n[LOCUTOR 26]: bom. Não, vamos lá. Eu acho que são dúvidas bem\n[LOCUTOR 30]: básicas\n[LOCUTOR 26]: e a gente consegue matar\n[LOCUTOR 30]: rapidinho\n[LOCUTOR 26]: aqui,\n[LOCUTOR 30]: gente.\n[LOCUTOR 26]: É entender. Dentro do módulo ofertado, tudo que está contemplado. Quando eu digo tudo que está contemplado, são quatro itens, basicamente, que a gente falou em [LOCAL]\n[LOCUTOR 30]: [LOCUTOR 20]: financeira, contas a pagar, contas a receber, orçamento, Pagamento de conta com integração com o banco, controle de caixa, etc, etc, etc. O segundo é controle de contratos, ou seja, cadastro de contrato, paso de vencimento de contratos, os itens que estão relacionados naquele contrato, seja de serviço, seja\n[LOCUTOR 26]: de locação, se tem\n[LOCUTOR 47]: equipamentos\n[LOCUTOR 26]: relacionados, etc.\n[LOCUTOR 47]: As planilhas,\n[LOCUTOR 26]: planilhas,\n[LOCUTOR 47]: revisões de planilhas, vendeções, tudo isso está lá dentro do contrato, está lá dentro.\n[LOCUTOR 26]: terceiro que é a conta de inventário, né? Então se eu tenho o inventário dos equipamentos, por exemplo, adquiro um equipamento, ele entra para o meu estoque, vamos chamar assim. Eu não fico equipamento estoque, mas ele entra para a minha base de estoque, e aí ele vai, ele está atrelado a um contrato, e ele vai lá para o meu cliente, vamos dizer assim, para\n[LOCUTOR 30]: a\n[LOCUTOR 26]: alocação. Ou ele\n[LOCUTOR 30]: volta\n[LOCUTOR 26]: lá, porque\n[LOCUTOR 30]: encerrou\n[LOCUTOR 26]: aquela alocação, etc.,\n[LOCUTOR 30]: aquele\n[LOCUTOR 26]: serviço,\n[LOCUTOR 30]: e\n[LOCUTOR 26]: aí ele\n[LOCUTOR 30]: fica\n[LOCUTOR 26]: no meu estoque.\n[LOCUTOR 47]: [LOCUTOR 9]: o quarto item que está relacionado\n[LOCUTOR 30]: com\n[LOCUTOR 26]: o financeiro, que é de emissão de nota fiscal, de forma automatizada, nota de\n[LOCUTOR 30]: serviço,\n[LOCUTOR 26]: nota de locação, enfim, e assim por diante. Então, são esses quatro itens, principalmente, que eu queria entender se tudo isso realmente está dentro desse primeiro módulo, vamos dizer\n[LOCUTOR 30]: assim,\n[LOCUTOR 26]: de contratação que a gente está trabalhando.\n[LOCUTOR 47]: [LOCAL].\n[LOCUTOR 30]: \n[LOCUTOR 32]: falar um pouquinho\n[LOCUTOR 47]: do módulo de gestão de contratos, primeiro de tudo. Ali no gestão de contratos, [PESSOA], a gente vai fazer toda essa gestão do teu contrato. Tu vai criar o contrato lá, nós vamos ter as medições, a planilha financeira com integração com o financeiro, né? E lá tu vai fazer as remessas, né? Também vai sair daí as remessas de itens incomodado, que é os teus equipamentos. Esses equipamentos, eles serão monitorados e controlados dentro do sistema por uma rotina que a gente chama de saldo em poder de terceiros, Então, por exemplo, eu quero tirar uma relação de um determinado produto. Eu posso filtrar pelo produto, eu posso filtrar pelo meu cliente. Eu quero tirar aqui, vamos dizer assim, de um notebook. Eu quero saber onde é que estão todos os meus notebooks aqui. É um relatório que a gente chama de saldo em poder de terceiros e eu vou ter todos eles, onde é que eles estão e com quem estão. Número da nota, Se já foi devolvido ou não foi devolvido. Se foi devolvido, se tem nota. Se não tiver nota, a gente tem que fazer o que a gente chama de uma nota de entrada dentro da [LOCAL] para poder fazer essa baixa. Tudo é com origem fiscal. Então, tudo parte de uma nota fiscal para essa movimentação dos itens. Tu fornece pessoa física também, [PESSOA]? Está no mundo\n[LOCUTOR 26]: Desculpa, desculpa.\n[LOCUTOR 47]: [LOCUTOR 3]: eu presto serviço para a pessoa física? Isto.\n[LOCUTOR 26]: Não, só jurídico.\n[LOCUTOR 47]: Não, tranquilo. Porque às vezes tu presta para a pessoa física e ela não tem a nota de devolução do equipamento para ti, né. Então aí teria que fazer essa nota de entrada que eu disse dentro da [LOCAL]. Mas como tu tem, trabalha para a pessoa jurídica o pessoal sempre vai acabar te emitindo as notas aí de devolução. E aí tu vai ter todo esse contrato, esse controle, né. Quando foi, quando voltou Posso controlar por número de séries se eu precisar, tá, [PESSOA]? Preciso saber o que eu tenho lá de número de série fora de casa, consigo controlar para o número de série. Então, eu tenho uma série de indicadores que eu consigo trazer dentro desta parte dos contratos e da parte de estoque e inventário que a gente chama. Na parte de faturamento, sim, a gente vai emitir as suas notas de saída. As notas fiscais de serviço, quais são as prefeituras que você emite nota fiscal de serviço? Só para mim ter esse dado. Não sei se os meninos já te perguntaram né.\n[LOCUTOR 26]: Como é que é não entendi desculpa. \n[LOCUTOR 16]: emite nota fiscal de serviço de quais cidades.\n[LOCUTOR 26]: As notas a partir de qual cidade. A partir de\n[LOCUTOR 47]: qual cidade.\n[LOCUTOR 26]: Tudo de [LOCAL].\n[LOCUTOR 47]: Tudo de [LOCAL].\n[LOCUTOR 26]: [LOCAL].\n[LOCUTOR 47]: Então não tem problema também com as notas cais eletrônicas de serviço. Sem problema algum também. E a parte financeira, tá? A gente tem ali, então, todas as contas a pagar, contas a receber, né? Se eu não me engano, eu trabalho muito com o pessoal de vendas, tá, [PESSOA]? Eu posso estar enganado. Mas se eu não estou enganado, o LH e o [PESSOA] me falaram que tu trabalha com o [LOCAL] e [LOCAL], né? Eu acho que é isso mesmo, né?\n[LOCUTOR 26]: [LOCAL] e [LOCAL]. \n[LOCUTOR 15]: [LOCAL] e [LOCAL].\n[LOCUTOR 26]: Eu tenho ainda alguma coisa de [PESSOA], mas estou descontinuando.\n[LOCUTOR 47]: Tá, tranquilo. Então, esses bancos hoje são através de arquivos KNAB. A gente faz a transação entre eles, sem problema algum. Esse é o modelo consolidado. A TOTUS vem no modelo de algumas APIs de bancos, mas a gente não consegue desenvolver todos de uma única vez. E aí, você escolhe algumas batalhas. Então, a gente já tem alguns bancos com APIs prontas, mas, infelizmente, ainda não se crede e o [LOCAL] ainda não está com APIs dentro do sistema. Então, a gente tem que trabalhar no modelo de arquivo KNAB, tá? No 240 posições ou no 400 posições, tanto faz, né? Geralmente, quem usava 400 posições era só a [EMPRESA], mas a gente vai te atender também nesse quesito aí, tá?\n[LOCUTOR 26]: Tá.\n[LOCUTOR 47]: Fluxo de caixa, tá? fluxo de caixa, fluxo de caixa por natureza de operação, por natureza financeira, que a gente chama que é um DRE financeiro, basicamente dentro da empresa, né? A gente vai te atender também aí.\n[LOCUTOR 26]: Tá, perfeito. Ótimo.\n[LOCUTOR 47]: O modelo Essential, tá, [PESSOA]? Ele é uma ferramenta que O sistema recebe o mesmo do que qualquer outra empresa que compra de totes independente do modelo de negociação. Por exemplo o teu financeiro é o mesmo que vai estar a. numa [LOCAL], aqui no [LOCAL], vai estar numa [PESSOA]. O que que diferencia? É a metodologia da implantação e as funcionalidades que são implementadas, mas a ferramenta a gente entrega ela completa. Então, a Cláudia daqui Seis meses, eu quero implantar outros módulos que eu tenho da ferramenta. Posso? Posso implementar. Quero aumentar o número de empresas dentro do meu negócio. Posso? Posso aumentar sem problemas nenhum. O Essential é somente uma metodologia de implantação.\n[LOCUTOR 26]: Tá, perfeito. [PESSOA],\n[LOCUTOR 17]: só pegando esse gancho, eu acho importante também trazer que Embora seja uma metodologia que tem suas premissas ali, pela questão de ser remoto e tal, é um projeto que vai envolver pessoas. A gente tem toda uma metodologia e um cuidado de fato, até pela robustez do R&P que vocês estão contratando, de se ter todo um processo mesmo, uma metodologia, como envolvendo pessoas, não negligenciando todas as etapas ali, desde parametrizações, instalações, até os treinamentos e capacitações para vocês, Porque não poderia ser diferente, né, cara? Aqui a gente não está falando de um projeto que é um software plug and play, né? Próximo aí do que você usa hoje, por exemplo, que é algo mais simplificado. Então, a gente tem esse cuidado, tá? Então, até por isso, o investimento ali no projeto de implantação, porque vai envolver do nosso lado aqui consultores, o pessoal que vai estar olhando para ti com um projeto específico e certificando de que, ao final desse projeto, vocês de fato vão poder extrair todo o valor e ter todos os resultados que a gente está pensando juntos aqui, tá? Então, só assim, queria justamente reforçar, assim, essa metodologia e esse cuidado que a gente tem de não só instalar e, pô, te vira aí, [PESSOA], vai ver uma e-learning, uma universidade [EMPRESA] com vídeos gravados e, cara, segue a vida aí. Nós não conseguimos trabalhar dessa forma, tá? Para que vocês tenham, de fato, os resultados e extraiam o valor da plataforma, a gente vê como importante aí cumprir toda a metodologia que é auditada. Enfim, a gente tem todo um método aí para garantir isso.\n[LOCUTOR 47]: É uma jordada, né, [PESSOA]? Ela é uma caminhada juntos aqui. Então,\n[LOCUTOR 26]: muitas\n[LOCUTOR 47]: empresas, elas começam com o modelo do Essential. A gente entra com o modelo de Essential e, gradativamente, eles vão aumentando o seu uso de sistema e a gente continua sendo o parceiro\n[LOCUTOR 26]: que\n[LOCUTOR 47]: está ao lado de vocês. Então, a gente tem toda uma metodologia Nós somos uma unidade própria, eu costumo dizer, onde a própria TOTOS nos audita e se a gente não seguir Toda a metodologia que a gente tem, documentações que a gente tem que ter durante um projeto, nós somos penalizados. E para a [EMPRESA], uma reclamação, seja de um cliente de médio porte, grande porte, pequeno porte, independente do tamanho do cliente, é uma reclamação e isso tem um peso muito grande na nossa avaliação. Então a gente tem\n[LOCUTOR 26]: todo\n[LOCUTOR 47]: esse cuidado, eu digo assim, A gente vende softwares plug and play. Vendemos softwares plug and play para restaurantes, bares. É plug and play. Chego lá, instalo, fico lá um dia. Isso aí. Fico lá,\n[LOCUTOR 17]: te\n[LOCUTOR 47]: dou um treinamento de um dia e vou embora. Só que softwares, que nem a gente está conversando aqui, a gente tem que ter todo um cuidado, porque a empresa está numa caminhada de crescimento. Você que está procurando a TOTOS hoje, Não é porque tu acha bonito a [EMPRESA]. Tu vem numa crescente, tu tá sentindo necessidade e tu precisa ter um parceiro de negócio que vai te acompanhar daqui pra frente. O\n[LOCUTOR 17]: \n[LOCUTOR 37]: nosso parceiro, [PESSOA]. \n[LOCUTOR 40]: [LOCUTOR 11]: é nosso parceiro. Estava esses dias ali no escritório da [LOCAL]. Nosso parceiro fornecedor aí, cara. E eu acho que é legal essa visão, né, [PESSOA]. Cara, a [EMPRESA] aqui vê um projeto novo aí com no mínimo 10 anos juntos, né, cara? 15, 20 anos,\n[LOCUTOR 26]: né, cara?\n[LOCUTOR 17]: Não tem como ser diferente, né, velho? \n[LOCUTOR 2]: n\n[LOCUTOR 4]: t\n[LOCUTOR 29]: conversando\n[LOCUTOR 17]: conosco pra daqui a 5 anos trocar de sistema, não existe isso, né?\n[LOCUTOR 47]: Nossa, a média hoje é 17 anos, né, LH? Aí,\n[LOCUTOR 17]: cara,\n[LOCUTOR 47]: é isso aí.\n[LOCUTOR 30]: [LOCUTOR 19]: recebi ali, [PESSOA], tu mandou o do RH também, que foi o que a gente viu na sexta aqui. Seria no segundo momento, tá? Mas ele tá integrado ao Proteus, né? Ou seja, ele vai aparecer dentro da mesma estrutura, não é um software à parte. O que eu quero dizer? No momento que eu logo ali, eu tenho os módulos que eu tenho contratado, certo? Eu consigo fazer aquele acompanhamento ali de dentro, [LOCUTOR 8]: isso? Se eu entendi bem. Não, são sistemas separados.\n[LOCUTOR 26]: Mas ele não está integrado ao Proteus? O que eu quero dizer? Hoje eu logo, pelo menos nos outros que me mostraram, tá? Eu logo, lá. Eu tenho os módulos. Eu tenho módulo financeiro, módulo de contrato, módulo de RH, módulo de\n[LOCUTOR 30]: qualquer\n[LOCUTOR 26]: coisa. E aí eu não sei se funciona da mesma forma.\n[LOCUTOR 47]: Bom, deixa eu... Eu vou te fazer o\n[LOCUTOR 30]: coment\n[LOCUTOR 23]: aí, né?\n[LOCUTOR 30]: \n[LOCUTOR 31]: do Proteus, [PESSOA], a gente tem uma\n[LOCUTOR 47]: folha de pagamento.\n[LOCUTOR 30]: O que\n[LOCUTOR 47]: o [PESSOA] te ofereceu é a folha do RM. É a nossa folha semiada.\n[LOCUTOR 17]: Não fui nem na folha, né, [PESSOA]? Aqui a gente está falando\n[LOCUTOR 47]: do ponto.\n[LOCUTOR 30]: Agora,\n[LOCUTOR 17]: ponto\n[LOCUTOR 30]: eletrônico.\n[LOCUTOR 47]: Ah, do ponto. Aí são ferramentas que a gente traz de benefício. Elas não estão dentro do mesmo [EMPRESA]. Mas elas\n[LOCUTOR 26]: vêm para\n[LOCUTOR 47]: trabalhar de uma maneira integrada depois aos RPs da TOTOS, tá?\n[LOCUTOR 26]: Tá, entendi.\n[LOCUTOR 30]: [EMPRESA].\n[LOCUTOR 26]: [LOCUTOR 21]: falei da folha RH ali, da folha RM, tá? Não sabia que era só o agora, mas\n[LOCUTOR 30]: quando\n[LOCUTOR 47]: for folha também a gente usa o \n[LOCUTOR 5]: e\n[LOCUTOR 47]: a nossa folha de pagamento premiada que a\n[LOCUTOR 30]: gente\n[LOCUTOR 47]: diz.\n[LOCUTOR 30]: [LOCUTOR 1]: folha que é reconhecida e a\n[LOCUTOR 47]: folha que hoje atende os nossos clientes deve estar em torno já de 90%, tá? Ela vem muito forte,\n[LOCUTOR 30]: a nossa\n[LOCUTOR 47]: folha do RM.\n[LOCUTOR 30]: Que\n[LOCUTOR 17]: está integrada aos outros EPs, né? \n[LOCUTOR 22]: aí.\n[LOCUTOR 30]: [LOCUTOR 7]: nativas, né? [EMPRESA] são DOTOS, né? [EMPRESA],\n[LOCUTOR 26]: tá.\n[LOCUTOR 30]: [EMPRESA],\n[LOCUTOR 26]: eu acho que tá bem esclarecido, assim. Minha dúvida era só pra fazer um double check se tudo que a gente tinha previsto tava realmente dentro desses\n[LOCUTOR 30]: módulos,\n[LOCUTOR 26]: né? É aquilo que vocês falaram, a ideia na\n[LOCUTOR 30]: contratação\n[LOCUTOR 26]: de [LOCAL] é que Não vou dizer para sempre, porque para sempre é muito tempo, mas é para ser um casamento de longo prazo, que se tem, ninguém muda de [LOCAL] todo ano, até porque tem um trabalho de implanta\n[LOCUTOR 6]: grande,\n[LOCUTOR 26]: tem uma curva de aprendizado, enfim, até estabilização. Então, você tem aí diversos processos a serem feitos antes efetivamente de fazer\n[LOCUTOR 30]: a\n[LOCUTOR 26]: coisa funcionar. Então, tem que ser muito bem pensada e eu preciso analisar com muita calma se tudo\n[LOCUTOR 30]: o que\n[LOCUTOR 26]: a gente precisa está ali dentro e se tudo o que eu vou precisar no futuro também tem uma possibilidade, né? Folha, CRM, enfim. Folha não, desculpa. A parte de, enfim,\n[LOCUTOR 30]: ponto,\n[LOCUTOR 26]: controle de colaboradores e assim por diante. E o CRM que vocês conseguem entregar\n[LOCUTOR 30]: tamb\n[LOCUTOR 25]: em outras fases aí do projeto. Mas está\n[LOCUTOR 30]: bem\n[LOCUTOR 26]: claro, está bem entendido que agora é conta, agora é... \n[LOCUTOR 10]: o\n[LOCUTOR 26]: [PESSOA] precisa me ajudar a ajudar ele com\n[LOCUTOR 30]: relação\n[LOCUTOR 26]: aos valores ali e a gente vai ter umas contas internas aqui também pra ver se a gente consegue chegar\n[LOCUTOR 30]: aí no denominador. \n[LOCUTOR 14]: algumas coisas importantes assim,\n[LOCUTOR 30]: cara, que eu acho\n[LOCUTOR 17]: que é legal relembrar, tá?\n[LOCUTOR 30]: Tá.\n[LOCUTOR 17]: \n[LOCUTOR 24]: dos principais RPs aqui no\n[LOCUTOR 30]: [LOCAL].\n[LOCUTOR 26]: É o\n[LOCUTOR 17]: principal [EMPRESA] da [EMPRESA], onde a [EMPRESA] mais investe, tem um roadmap nos próximos dois anos, a [EMPRESA] vai capitanear uma mudança absurda no mercado de [LOCAL] com IA embarcada, com agentes de IA embarcados ao [LOCAL]. agentes especializados que tu vai poder criar, inclusive, para assumir tarefas ou apoiar no teu processo, que hoje investe algum tempo de pessoa ou humano, né?\n[LOCUTOR 26]: A\n[LOCUTOR 17]: gente está investindo mais de 600 milhões nos próximos quatro anos só na Lean, que é essa foundation B2B aí. Então, cara, assim, tu está contratando o [EMPRESA]. Não é um software de entrada a [EMPRESA], É o software especialista do segmento, onde a [EMPRESA] mais investe, onde mais tem inovação, onde tem muita coisa, um roadmap vastíssimo para... Cara, assim, tu pode ficar tranquilo de que o que a gente está te apresentando aqui é o que tem de melhor. Agora, falando de preço, valores, cara, o [PESSOA] aí, eu não tenho dúvidas, com o meu apoio e com o apoio da nossa gestão aí, a gente vai conseguir resolver, cara. Isso aí está na nossa mão, tá? Tu dizendo assim, cara, quero fechar com vocês, a gente dá um jeito.\n[LOCUTOR 30]: que\n[LOCUTOR 17]: a\n[LOCUTOR 26]: gente\n[LOCUTOR 17]: faça acontecer.\n[LOCUTOR 26]: [LOCAL]. Combinadíssimos,\n[LOCUTOR 30]: meus\n[LOCUTOR 26]: amigos.\n[LOCUTOR 30]: Obrigado\n[LOCUTOR 26]: pela disponibilidade. Obrigado, [PESSOA], pelas explanações.\n[LOCUTOR 30]: [LOCAL], [PESSOA].\n[LOCUTOR 26]: Validei ali o que eu precisava. Vou sentar agora com o [EMPRESA], vou sentar com a [PESSOA] aqui, principalmente, validar, fazer algumas contas e a gente retoma aí, [PESSOA], sem problema.\n[LOCUTOR 47]: E precisando, pessoal, do nosso apoio, chama o [PESSOA] aí, Eu entro na conversa com vocês sem problema nenhum e explico. Tem dúvidas quanto à proposta. [PESSOA] chamem que eu auxilio vocês aí sem problema\n[LOCUTOR 17]: nenhum.\n[LOCUTOR 47]: Estou aí\n[LOCUTOR 26]: para\n[LOCUTOR 17]: isso\n[LOCUTOR 30]: [PESSOA].\n[LOCUTOR 17]: Se tiver por [LOCAL] nos avisa. A gente quer te apresentar um escritório novo.\n[LOCUTOR 26]: Tá bom. Na verdade eu moro em [LOCAL]. Vamos\n[LOCUTOR 17]: combinar ensinar juntos aqui\n[LOCUTOR 30]: então. \n[LOCUTOR 19]: moro em [LOCAL], então casualmente hoje estou. Às vezes estou viajando, às vezes estou aqui, mas vamos combinar assim. Faço questão de conhecer. Eu conheci, cara, o escritório de vocês há muitos anos, quando ela era na [LOCAL], que era uma\n[LOCUTOR 17]: franquia\n[LOCUTOR 26]: ainda ali na [LOCAL], estou te falando há 10 anos atrás, eu acho, sei lá, cara. Algo nesse número, mais ou menos. Era ali na [LOCAL], quase num prédio da esquina, num prédiozinho ali.\n[LOCUTOR 17]: Sim, ele foi\n[LOCUTOR 26]: por muito\n[LOCUTOR 17]: tempo ali.\n[LOCUTOR 47]: Aquele\n[LOCUTOR 17]: prédio é do [LOCAL], né? É do [LOCAL]. Foi por muito tempo ali e agora, essa semana, oficialmente a gente se mudou pra um escritório novo que é no [LOCAL], na [LOCAL], ali. [LOCAL] gostar ali de estar chegando ali também.\n[LOCUTOR 26]: Tá bom. Vamos marcar sim, com certeza. Faço questão de conhecer ali.\n[LOCUTOR 17]: Boa, velho.\n[LOCUTOR 30]: [LOCAL],\n[LOCUTOR 17]: legal. Eu falo com orgulho porque ficou bonitão o escritório e tal, tem todo investimento aí. Eu acho que a gente tem que valorizar, né?\n[LOCUTOR 26]: [LOCUTOR 13]: certeza.\n[LOCUTOR 17]: Nosso parceiro, enfim.\n[LOCUTOR 30]: \n[LOCUTOR 32]: te dar a dica, [PESSOA]. Vai no final da tarde e faz o LH te pagar o shopping ali no segundo andar. Vem fazer a nossa agenda das 3 às 4 e já fica, emenda.\n[LOCUTOR 26]: A\n[LOCUTOR 30]: gente vai\n[LOCUTOR 26]: estar por\n[LOCUTOR 30]: aqui, o LH tá na\n[LOCUTOR 47]: tarde aqui\n[LOCUTOR 30]: também, a gente já toma\n[LOCUTOR 47]: um chopp\n[LOCUTOR 30]: então. Depois das 4\n[LOCUTOR 26]: ele\n[LOCUTOR 30]: terminou a nossa agenda,\n[LOCUTOR 47]: pode ser?\n[LOCUTOR 26]: [LOCAL], boa, boa.\n[LOCUTOR 30]: Qualquer coisa, só chegar aí se quiser no presencial que a gente tá aqui, tá?\n[LOCUTOR 26]: Obrigado, meus amigos, obrigado mesmo.\n[LOCUTOR 47]: Obrigado, pessoal, até mais.\n[LOCUTOR 26]: [LOCAL],\n[LOCUTOR 30]: tchau. \n[LOCUTOR 12]: coisa me chamem aí, valeu.\n[LOCUTOR 30]: Tá bom, valeu, tchau, tchau.",
+  "texto_filtrado": "[LOCUTOR 30]: [LOCAL], tranquilo.\n[LOCUTOR 30]: que a agenda é corrida, às vezes acaba uma ou outra, passando uns minutinhos. [PESSOA], eu tinha passado aqui para o [PESSOA], porque da nossa agenda de hoje, que a gente já tinha passado, eu e o [PESSOA], nessa última agenda que a gente teve, a visão de investimento, falando de Proteus pontualmente, a gente teve aquela outra agenda do Agora, mas agora a gente falar sobre possíveis dúvidas que tu venha ter em relação ao que consta naquele documento que eu compartilhei contigo,\n[LOCUTOR 30]: escopo ali daqueles módulos do RT Proteus na modalidade Essential, né? Tu tinha solicitado essa agenda para, de repente, tirar qualquer dúvida que tu possa ter em relação à leitura que tu faz naquele documento, né? Mais ou menos isso, correto?\n[LOCUTOR 26]: [LOCAL].\n[LOCUTOR 30]: Tá? Se tiver vontade, se tiver algum questionamento pontual, aí o [PESSOA] pode ajudar a gente nesse esclarecimento dessas dúvidas contigo.\n[LOCUTOR 47]: Tu quer compartilhar a tela ali, [PESSOA]? Que daí o\n[LOCUTOR 45]: vai conversando e eu vou explicando aqui do outro lado. Pode ser? Pode.\n[LOCUTOR 33]: o [PESSOA]. Trabalho aí como apoio da área de vendas, tá? Trabalho numa área chamada de\n[LOCUTOR 47]: engenharia de valor da [EMPRESA].\n[LOCUTOR 42]: a gente monta as arquiteturas e os pacotes de implantação de RPs. Então, a gente é responsável por fazer essa arquitetura\n[LOCUTOR 47]: aí para a [LOCAL].\n[LOCUTOR 30]: A palavra\n[LOCUTOR 30]: sua, [PESSOA].\n[LOCUTOR 47]: Onde é que tu tem as dúvidas aí? Agora que a gente vai se posicionando aí sem problema nenhum, cara.\n[LOCUTOR 30]: básicas\n[LOCUTOR 26]: e a gente consegue matar\n[LOCUTOR 30]: rapidinho\n[LOCUTOR 26]: aqui,\n[LOCUTOR 30]: gente.\n[LOCUTOR 26]: É entender. Dentro do módulo ofertado, tudo que está contemplado. Quando eu digo tudo que está contemplado, são quatro itens, basicamente, que a gente falou em [LOCAL]\n[LOCUTOR 30]: [LOCUTOR 20]: financeira, contas a pagar, contas a receber, orçamento, Pagamento de conta com integração com o banco, controle de caixa, etc, etc, etc. O segundo é controle de contratos, ou seja, cadastro de contrato, paso de vencimento de contratos, os itens que estão relacionados naquele contrato, seja de serviço, seja\n[LOCUTOR 26]: de locação, se tem\n[LOCUTOR 47]: equipamentos\n[LOCUTOR 26]: relacionados, etc.\n[LOCUTOR 47]: As planilhas,\n[LOCUTOR 26]: planilhas,\n[LOCUTOR 47]: revisões de planilhas, vendeções, tudo isso está lá dentro do contrato, está lá dentro.\n[LOCUTOR 26]: terceiro que é a conta de inventário, né? Então se eu tenho o inventário dos equipamentos, por exemplo, adquiro um equipamento, ele entra para o meu estoque, vamos chamar assim. Eu não fico equipamento estoque, mas ele entra para a minha base de estoque, e aí ele vai, ele está atrelado a um contrato, e ele vai lá para o meu cliente, vamos dizer assim, para\n[LOCUTOR 26]: alocação. Ou ele\n[LOCUTOR 30]: volta\n[LOCUTOR 26]: lá, porque\n[LOCUTOR 30]: encerrou\n[LOCUTOR 26]: aquela alocação, etc.,\n[LOCUTOR 30]: aquele\n[LOCUTOR 26]: serviço,\n[LOCUTOR 26]: aí ele\n[LOCUTOR 30]: fica\n[LOCUTOR 26]: no meu estoque.\n[LOCUTOR 47]: [LOCUTOR 9]: o quarto item que está relacionado\n[LOCUTOR 26]: o financeiro, que é de emissão de nota fiscal, de forma automatizada, nota de\n[LOCUTOR 30]: serviço,\n[LOCUTOR 26]: nota de locação, enfim, e assim por diante. Então, são esses quatro itens, principalmente, que eu queria entender se tudo isso realmente está dentro desse primeiro módulo, vamos dizer\n[LOCUTOR 26]: de contratação que a gente está trabalhando.\n[LOCUTOR 47]: [LOCAL].\n[LOCUTOR 32]: falar um pouquinho\n[LOCUTOR 47]: do módulo de gestão de contratos, primeiro de tudo. Ali no gestão de contratos, [PESSOA], a gente vai fazer toda essa gestão do teu contrato. Tu vai criar o contrato lá, nós vamos ter as medições, a planilha financeira com integração com o financeiro, né? E lá tu vai fazer as remessas, né? Também vai sair daí as remessas de itens incomodado, que é os teus equipamentos. Esses equipamentos, eles serão monitorados e controlados dentro do sistema por uma rotina que a gente chama de saldo em poder de terceiros, Então, por exemplo, eu quero tirar uma relação de um determinado produto. Eu posso filtrar pelo produto, eu posso filtrar pelo meu cliente. Eu quero tirar aqui, vamos dizer assim, de um notebook. Eu quero saber onde é que estão todos os meus notebooks aqui. É um relatório que a gente chama de saldo em poder de terceiros e eu vou ter todos eles, onde é que eles estão e com quem estão. Número da nota, Se já foi devolvido ou não foi devolvido. Se foi devolvido, se tem nota. Se não tiver nota, a gente tem que fazer o que a gente chama de uma nota de entrada dentro da [LOCAL] para poder fazer essa baixa. Tudo é com origem fiscal. Então, tudo parte de uma nota fiscal para essa movimentação dos itens. Tu fornece pessoa física também, [PESSOA]? Está no mundo\n[LOCUTOR 47]: [LOCUTOR 3]: eu presto serviço para a pessoa física? Isto.\n[LOCUTOR 47]: Não, tranquilo. Porque às vezes tu presta para a pessoa física e ela não tem a nota de devolução do equipamento para ti, né. Então aí teria que fazer essa nota de entrada que eu disse dentro da [LOCAL]. Mas como tu tem, trabalha para a pessoa jurídica o pessoal sempre vai acabar te emitindo as notas aí de devolução. E aí tu vai ter todo esse contrato, esse controle, né. Quando foi, quando voltou Posso controlar por número de séries se eu precisar, tá, [PESSOA]? Preciso saber o que eu tenho lá de número de série fora de casa, consigo controlar para o número de série. Então, eu tenho uma série de indicadores que eu consigo trazer dentro desta parte dos contratos e da parte de estoque e inventário que a gente chama. Na parte de faturamento, sim, a gente vai emitir as suas notas de saída. As notas fiscais de serviço, quais são as prefeituras que você emite nota fiscal de serviço? Só para mim ter esse dado. Não sei se os meninos já te perguntaram né.\n[LOCUTOR 16]: emite nota fiscal de serviço de quais cidades.\n[LOCUTOR 26]: As notas a partir de qual cidade. A partir de\n[LOCUTOR 47]: qual cidade.\n[LOCUTOR 26]: Tudo de [LOCAL].\n[LOCUTOR 47]: Tudo de [LOCAL].\n[LOCUTOR 26]: [LOCAL].\n[LOCUTOR 47]: Então não tem problema também com as notas cais eletrônicas de serviço. Sem problema algum também. E a parte financeira, tá? A gente tem ali, então, todas as contas a pagar, contas a receber, né? Se eu não me engano, eu trabalho muito com o pessoal de vendas, tá, [PESSOA]? Eu posso estar enganado. Mas se eu não estou enganado, o LH e o [PESSOA] me falaram que tu trabalha com o [LOCAL] e [LOCAL], né? Eu acho que é isso mesmo, né?\n[LOCUTOR 26]: [LOCAL] e [LOCAL].\n[LOCUTOR 15]: [LOCAL] e [LOCAL].\n[LOCUTOR 26]: Eu tenho ainda alguma coisa de [PESSOA], mas estou descontinuando.\n[LOCUTOR 47]: Tá, tranquilo. Então, esses bancos hoje são através de arquivos KNAB. A gente faz a transação entre eles, sem problema algum. Esse é o modelo consolidado. A TOTUS vem no modelo de algumas APIs de bancos, mas a gente não consegue desenvolver todos de uma única vez. E aí, você escolhe algumas batalhas. Então, a gente já tem alguns bancos com APIs prontas, mas, infelizmente, ainda não se crede e o [LOCAL] ainda não está com APIs dentro do sistema. Então, a gente tem que trabalhar no modelo de arquivo KNAB, tá? No 240 posições ou no 400 posições, tanto faz, né? Geralmente, quem usava 400 posições era só a [EMPRESA], mas a gente vai te atender também nesse quesito aí, tá?\n[LOCUTOR 47]: Fluxo de caixa, tá? fluxo de caixa, fluxo de caixa por natureza de operação, por natureza financeira, que a gente chama que é um DRE financeiro, basicamente dentro da empresa, né? A gente vai te atender também aí.\n[LOCUTOR 26]: Tá, perfeito. Ótimo.\n[LOCUTOR 47]: O modelo Essential, tá, [PESSOA]? Ele é uma ferramenta que O sistema recebe o mesmo do que qualquer outra empresa que compra de totes independente do modelo de negociação. Por exemplo o teu financeiro é o mesmo que vai estar a. numa [LOCAL], aqui no [LOCAL], vai estar numa [PESSOA]. O que que diferencia? É a metodologia da implantação e as funcionalidades que são implementadas, mas a ferramenta a gente entrega ela completa. Então, a Cláudia daqui Seis meses, eu quero implantar outros módulos que eu tenho da ferramenta. Posso? Posso implementar. Quero aumentar o número de empresas dentro do meu negócio. Posso? Posso aumentar sem problemas nenhum. O Essential é somente uma metodologia de implantação.\n[LOCUTOR 26]: Tá, perfeito. [PESSOA],\n[LOCUTOR 17]: só pegando esse gancho, eu acho importante também trazer que Embora seja uma metodologia que tem suas premissas ali, pela questão de ser remoto e tal, é um projeto que vai envolver pessoas. A gente tem toda uma metodologia e um cuidado de fato, até pela robustez do R&P que vocês estão contratando, de se ter todo um processo mesmo, uma metodologia, como envolvendo pessoas, não negligenciando todas as etapas ali, desde parametrizações, instalações, até os treinamentos e capacitações para vocês, Porque não poderia ser diferente, né, cara? Aqui a gente não está falando de um projeto que é um software plug and play, né? Próximo aí do que você usa hoje, por exemplo, que é algo mais simplificado. Então, a gente tem esse cuidado, tá? Então, até por isso, o investimento ali no projeto de implantação, porque vai envolver do nosso lado aqui consultores, o pessoal que vai estar olhando para ti com um projeto específico e certificando de que, ao final desse projeto, vocês de fato vão poder extrair todo o valor e ter todos os resultados que a gente está pensando juntos aqui, tá? Então, só assim, queria justamente reforçar, assim, essa metodologia e esse cuidado que a gente tem de não só instalar e, pô, te vira aí, [PESSOA], vai ver uma e-learning, uma universidade [EMPRESA] com vídeos gravados e, cara, segue a vida aí. Nós não conseguimos trabalhar dessa forma, tá? Para que vocês tenham, de fato, os resultados e extraiam o valor da plataforma, a gente vê como importante aí cumprir toda a metodologia que é auditada. Enfim, a gente tem todo um método aí para garantir isso.\n[LOCUTOR 47]: É uma jordada, né, [PESSOA]? Ela é uma caminhada juntos aqui. Então,\n[LOCUTOR 26]: muitas\n[LOCUTOR 47]: empresas, elas começam com o modelo do Essential. A gente entra com o modelo de Essential e, gradativamente, eles vão aumentando o seu uso de sistema e a gente continua sendo o parceiro\n[LOCUTOR 47]: está ao lado de vocês. Então, a gente tem toda uma metodologia Nós somos uma unidade própria, eu costumo dizer, onde a própria TOTOS nos audita e se a gente não seguir Toda a metodologia que a gente tem, documentações que a gente tem que ter durante um projeto, nós somos penalizados. E para a [EMPRESA], uma reclamação, seja de um cliente de médio porte, grande porte, pequeno porte, independente do tamanho do cliente, é uma reclamação e isso tem um peso muito grande na nossa avaliação. Então a gente tem\n[LOCUTOR 26]: todo\n[LOCUTOR 47]: esse cuidado, eu digo assim, A gente vende softwares plug and play. Vendemos softwares plug and play para restaurantes, bares. É plug and play. Chego lá, instalo, fico lá um dia. Isso aí. Fico lá,\n[LOCUTOR 47]: dou um treinamento de um dia e vou embora. Só que softwares, que nem a gente está conversando aqui, a gente tem que ter todo um cuidado, porque a empresa está numa caminhada de crescimento. Você que está procurando a TOTOS hoje, Não é porque tu acha bonito a [EMPRESA]. Tu vem numa crescente, tu tá sentindo necessidade e tu precisa ter um parceiro de negócio que vai te acompanhar daqui pra frente. O\n[LOCUTOR 37]: nosso parceiro, [PESSOA].\n[LOCUTOR 40]: [LOCUTOR 11]: é nosso parceiro. Estava esses dias ali no escritório da [LOCAL]. Nosso parceiro fornecedor aí, cara. E eu acho que é legal essa visão, né, [PESSOA]. Cara, a [EMPRESA] aqui vê um projeto novo aí com no mínimo 10 anos juntos, né, cara? 15, 20 anos,\n[LOCUTOR 26]: né, cara?\n[LOCUTOR 29]: conversando\n[LOCUTOR 17]: conosco pra daqui a 5 anos trocar de sistema, não existe isso, né?\n[LOCUTOR 17]: cara,\n[LOCUTOR 47]: é isso aí.\n[LOCUTOR 30]: [LOCUTOR 19]: recebi ali, [PESSOA], tu mandou o do RH também, que foi o que a gente viu na sexta aqui. Seria no segundo momento, tá? Mas ele tá integrado ao Proteus, né? Ou seja, ele vai aparecer dentro da mesma estrutura, não é um software à parte. O que eu quero dizer? No momento que eu logo ali, eu tenho os módulos que eu tenho contratado, certo? Eu consigo fazer aquele acompanhamento ali de dentro, [LOCUTOR 8]: isso? Se eu entendi bem. Não, são sistemas separados.\n[LOCUTOR 26]: Mas ele não está integrado ao Proteus? O que eu quero dizer? Hoje eu logo, pelo menos nos outros que me mostraram, tá? Eu logo, lá. Eu tenho os módulos. Eu tenho módulo financeiro, módulo de contrato, módulo de RH, módulo de\n[LOCUTOR 30]: qualquer\n[LOCUTOR 26]: coisa. E aí eu não sei se funciona da mesma forma.\n[LOCUTOR 30]: coment\n[LOCUTOR 23]: aí, né?\n[LOCUTOR 31]: do Proteus, [PESSOA], a gente tem uma\n[LOCUTOR 47]: folha de pagamento.\n[LOCUTOR 30]: O que\n[LOCUTOR 47]: o [PESSOA] te ofereceu é a folha do RM. É a nossa folha semiada.\n[LOCUTOR 17]: Não fui nem na folha, né, [PESSOA]? Aqui a gente está falando\n[LOCUTOR 47]: do ponto.\n[LOCUTOR 30]: Agora,\n[LOCUTOR 17]: ponto\n[LOCUTOR 30]: eletrônico.\n[LOCUTOR 47]: Ah, do ponto. Aí são ferramentas que a gente traz de benefício. Elas não estão dentro do mesmo [EMPRESA]. Mas elas\n[LOCUTOR 26]: vêm para\n[LOCUTOR 47]: trabalhar de uma maneira integrada depois aos RPs da TOTOS, tá?\n[LOCUTOR 30]: [EMPRESA].\n[LOCUTOR 26]: [LOCUTOR 21]: falei da folha RH ali, da folha RM, tá? Não sabia que era só o agora, mas\n[LOCUTOR 30]: quando\n[LOCUTOR 47]: for folha também a gente usa o\n[LOCUTOR 47]: a nossa folha de pagamento premiada que a\n[LOCUTOR 30]: gente\n[LOCUTOR 30]: [LOCUTOR 1]: folha que é reconhecida e a\n[LOCUTOR 47]: folha que hoje atende os nossos clientes deve estar em torno já de 90%, tá? Ela vem muito forte,\n[LOCUTOR 30]: a nossa\n[LOCUTOR 47]: folha do RM.\n[LOCUTOR 30]: [LOCUTOR 7]: nativas, né? [EMPRESA] são DOTOS, né? [EMPRESA],\n[LOCUTOR 30]: [EMPRESA],\n[LOCUTOR 26]: eu acho que tá bem esclarecido, assim. Minha dúvida era só pra fazer um double check se tudo que a gente tinha previsto tava realmente dentro desses\n[LOCUTOR 30]: módulos,\n[LOCUTOR 26]: né? É aquilo que vocês falaram, a ideia na\n[LOCUTOR 30]: contratação\n[LOCUTOR 26]: de [LOCAL] é que Não vou dizer para sempre, porque para sempre é muito tempo, mas é para ser um casamento de longo prazo, que se tem, ninguém muda de [LOCAL] todo ano, até porque tem um trabalho de implanta\n[LOCUTOR 6]: grande,\n[LOCUTOR 26]: tem uma curva de aprendizado, enfim, até estabilização. Então, você tem aí diversos processos a serem feitos antes efetivamente de fazer\n[LOCUTOR 26]: coisa funcionar. Então, tem que ser muito bem pensada e eu preciso analisar com muita calma se tudo\n[LOCUTOR 30]: o que\n[LOCUTOR 26]: a gente precisa está ali dentro e se tudo o que eu vou precisar no futuro também tem uma possibilidade, né? Folha, CRM, enfim. Folha não, desculpa. A parte de, enfim,\n[LOCUTOR 30]: ponto,\n[LOCUTOR 26]: controle de colaboradores e assim por diante. E o CRM que vocês conseguem entregar\n[LOCUTOR 30]: tamb\n[LOCUTOR 25]: em outras fases aí do projeto. Mas está\n[LOCUTOR 26]: [PESSOA] precisa me ajudar a ajudar ele com\n[LOCUTOR 30]: relação\n[LOCUTOR 26]: aos valores ali e a gente vai ter umas contas internas aqui também pra ver se a gente consegue chegar\n[LOCUTOR 30]: aí no denominador.\n[LOCUTOR 14]: algumas coisas importantes assim,\n[LOCUTOR 30]: cara, que eu acho\n[LOCUTOR 17]: que é legal relembrar, tá?\n[LOCUTOR 24]: dos principais RPs aqui no\n[LOCUTOR 30]: [LOCAL].\n[LOCUTOR 17]: principal [EMPRESA] da [EMPRESA], onde a [EMPRESA] mais investe, tem um roadmap nos próximos dois anos, a [EMPRESA] vai capitanear uma mudança absurda no mercado de [LOCAL] com IA embarcada, com agentes de IA embarcados ao [LOCAL]. agentes especializados que tu vai poder criar, inclusive, para assumir tarefas ou apoiar no teu processo, que hoje investe algum tempo de pessoa ou humano, né?\n[LOCUTOR 17]: gente está investindo mais de 600 milhões nos próximos quatro anos só na Lean, que é essa foundation B2B aí. Então, cara, assim, tu está contratando o [EMPRESA]. Não é um software de entrada a [EMPRESA], É o software especialista do segmento, onde a [EMPRESA] mais investe, onde mais tem inovação, onde tem muita coisa, um roadmap vastíssimo para... Cara, assim, tu pode ficar tranquilo de que o que a gente está te apresentando aqui é o que tem de melhor. Agora, falando de preço, valores, cara, o [PESSOA] aí, eu não tenho dúvidas, com o meu apoio e com o apoio da nossa gestão aí, a gente vai conseguir resolver, cara. Isso aí está na nossa mão, tá? Tu dizendo assim, cara, quero fechar com vocês, a gente dá um jeito.\n[LOCUTOR 26]: gente\n[LOCUTOR 17]: faça acontecer.\n[LOCUTOR 26]: [LOCAL]. Combinadíssimos,\n[LOCUTOR 30]: meus\n[LOCUTOR 26]: amigos.\n[LOCUTOR 30]: [LOCAL], [PESSOA].\n[LOCUTOR 26]: Validei ali o que eu precisava. Vou sentar agora com o [EMPRESA], vou sentar com a [PESSOA] aqui, principalmente, validar, fazer algumas contas e a gente retoma aí, [PESSOA], sem problema.\n[LOCUTOR 47]: E precisando, pessoal, do nosso apoio, chama o [PESSOA] aí, Eu entro na conversa com vocês sem problema nenhum e explico. Tem dúvidas quanto à proposta. [PESSOA] chamem que eu auxilio vocês aí sem problema\n[LOCUTOR 17]: nenhum.\n[LOCUTOR 47]: Estou aí\n[LOCUTOR 26]: para\n[LOCUTOR 17]: isso\n[LOCUTOR 30]: [PESSOA].\n[LOCUTOR 17]: Se tiver por [LOCAL] nos avisa. A gente quer te apresentar um escritório novo.\n[LOCUTOR 26]: Tá bom. Na verdade eu moro em [LOCAL]. Vamos\n[LOCUTOR 17]: combinar ensinar juntos aqui\n[LOCUTOR 30]: então.\n[LOCUTOR 19]: moro em [LOCAL], então casualmente hoje estou. Às vezes estou viajando, às vezes estou aqui, mas vamos combinar assim. Faço questão de conhecer. Eu conheci, cara, o escritório de vocês há muitos anos, quando ela era na [LOCAL], que era uma\n[LOCUTOR 17]: franquia\n[LOCUTOR 26]: ainda ali na [LOCAL], estou te falando há 10 anos atrás, eu acho, sei lá, cara. Algo nesse número, mais ou menos. Era ali na [LOCAL], quase num prédio da esquina, num prédiozinho ali.\n[LOCUTOR 26]: por muito\n[LOCUTOR 17]: tempo ali.\n[LOCUTOR 47]: Aquele\n[LOCUTOR 17]: prédio é do [LOCAL], né? É do [LOCAL]. Foi por muito tempo ali e agora, essa semana, oficialmente a gente se mudou pra um escritório novo que é no [LOCAL], na [LOCAL], ali. [LOCAL] gostar ali de estar chegando ali também.\n[LOCUTOR 26]: Tá bom. Vamos marcar sim, com certeza. Faço questão de conhecer ali.\n[LOCUTOR 30]: [LOCAL],\n[LOCUTOR 17]: legal. Eu falo com orgulho porque ficou bonitão o escritório e tal, tem todo investimento aí. Eu acho que a gente tem que valorizar, né?\n[LOCUTOR 26]: [LOCUTOR 13]: certeza.\n[LOCUTOR 17]: Nosso parceiro, enfim.\n[LOCUTOR 32]: te dar a dica, [PESSOA]. Vai no final da tarde e faz o LH te pagar o shopping ali no segundo andar. Vem fazer a nossa agenda das 3 às 4 e já fica, emenda.\n[LOCUTOR 30]: gente vai\n[LOCUTOR 26]: estar por\n[LOCUTOR 30]: aqui, o LH tá na\n[LOCUTOR 30]: também, a gente já toma\n[LOCUTOR 47]: um chopp\n[LOCUTOR 30]: então. Depois das 4\n[LOCUTOR 30]: terminou a nossa agenda,\n[LOCUTOR 47]: pode ser?\n[LOCUTOR 30]: Qualquer coisa, só chegar aí se quiser no presencial que a gente tá aqui, tá?\n[LOCUTOR 26]: [LOCAL],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:08.406619+00:00",
+    "total_linhas": 233,
+    "linhas_mantidas": 173,
+    "linhas_removidas": 60,
+    "percentual_mantido": 74.25,
+    "confianca_media": 0.4859
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 30]: Fala [PESSOA], bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Bom dia, estava te respondendo aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCAL], tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: que a agenda é corrida, às vezes acaba uma ou outra, passando uns minutinhos. [PESSOA], eu tinha passado aqui para o [PESSOA], porque da nossa agenda de hoje, que a gente já tinha passado, eu e o [PESSOA], nessa última agenda que a gente teve, a visão de investimento, falando de Proteus pontualmente, a gente teve aquela outra agenda do Agora, mas agora a gente falar sobre possíveis dúvidas que tu venha ter em relação ao que consta naquele documento que eu compartilhei contigo,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: escopo ali daqueles módulos do RT Proteus na modalidade Essential, né? Tu tinha solicitado essa agenda para, de repente, tirar qualquer dúvida que tu possa ter em relação à leitura que tu faz naquele documento, né? Mais ou menos isso, correto?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Tá? Se tiver vontade, se tiver algum questionamento pontual, aí o [PESSOA] pode ajudar a gente nesse esclarecimento dessas dúvidas contigo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5238,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Tu quer compartilhar a tela ali, [PESSOA]? Que daí o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4621,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 45]: vai conversando e eu vou explicando aqui do outro lado. Pode ser? Pode.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5112,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: me apresentar então, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 33]: o [PESSOA]. Trabalho aí como apoio da área de vendas, tá? Trabalho numa área chamada de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: engenharia de valor da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 42]: a gente monta as arquiteturas e os pacotes de implantação de RPs. Então, a gente é responsável por fazer essa arquitetura",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: aí para a [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: A palavra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 30]: sua, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Onde é que tu tem as dúvidas aí? Agora que a gente vai se posicionando aí sem problema nenhum, cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: bom. Não, vamos lá. Eu acho que são dúvidas bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3993,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: básicas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: e a gente consegue matar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: rapidinho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É entender. Dentro do módulo ofertado, tudo que está contemplado. Quando eu digo tudo que está contemplado, são quatro itens, basicamente, que a gente falou em [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5116,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCUTOR 20]: financeira, contas a pagar, contas a receber, orçamento, Pagamento de conta com integração com o banco, controle de caixa, etc, etc, etc. O segundo é controle de contratos, ou seja, cadastro de contrato, paso de vencimento de contratos, os itens que estão relacionados naquele contrato, seja de serviço, seja",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: de locação, se tem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: equipamentos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: relacionados, etc.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: As planilhas,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: planilhas,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: revisões de planilhas, vendeções, tudo isso está lá dentro do contrato, está lá dentro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: terceiro que é a conta de inventário, né? Então se eu tenho o inventário dos equipamentos, por exemplo, adquiro um equipamento, ele entra para o meu estoque, vamos chamar assim. Eu não fico equipamento estoque, mas ele entra para a minha base de estoque, e aí ele vai, ele está atrelado a um contrato, e ele vai lá para o meu cliente, vamos dizer assim, para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: alocação. Ou ele",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: volta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: lá, porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: encerrou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aquela alocação, etc.,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: aquele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: serviço,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aí ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: fica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: no meu estoque.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: [LOCUTOR 9]: o quarto item que está relacionado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4784,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: o financeiro, que é de emissão de nota fiscal, de forma automatizada, nota de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: serviço,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: nota de locação, enfim, e assim por diante. Então, são esses quatro itens, principalmente, que eu queria entender se tudo isso realmente está dentro desse primeiro módulo, vamos dizer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: assim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: de contratação que a gente está trabalhando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 32]: falar um pouquinho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: do módulo de gestão de contratos, primeiro de tudo. Ali no gestão de contratos, [PESSOA], a gente vai fazer toda essa gestão do teu contrato. Tu vai criar o contrato lá, nós vamos ter as medições, a planilha financeira com integração com o financeiro, né? E lá tu vai fazer as remessas, né? Também vai sair daí as remessas de itens incomodado, que é os teus equipamentos. Esses equipamentos, eles serão monitorados e controlados dentro do sistema por uma rotina que a gente chama de saldo em poder de terceiros, Então, por exemplo, eu quero tirar uma relação de um determinado produto. Eu posso filtrar pelo produto, eu posso filtrar pelo meu cliente. Eu quero tirar aqui, vamos dizer assim, de um notebook. Eu quero saber onde é que estão todos os meus notebooks aqui. É um relatório que a gente chama de saldo em poder de terceiros e eu vou ter todos eles, onde é que eles estão e com quem estão. Número da nota, Se já foi devolvido ou não foi devolvido. Se foi devolvido, se tem nota. Se não tiver nota, a gente tem que fazer o que a gente chama de uma nota de entrada dentro da [LOCAL] para poder fazer essa baixa. Tudo é com origem fiscal. Então, tudo parte de uma nota fiscal para essa movimentação dos itens. Tu fornece pessoa física também, [PESSOA]? Está no mundo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Desculpa, desculpa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: [LOCUTOR 3]: eu presto serviço para a pessoa física? Isto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5029,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Não, só jurídico.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Não, tranquilo. Porque às vezes tu presta para a pessoa física e ela não tem a nota de devolução do equipamento para ti, né. Então aí teria que fazer essa nota de entrada que eu disse dentro da [LOCAL]. Mas como tu tem, trabalha para a pessoa jurídica o pessoal sempre vai acabar te emitindo as notas aí de devolução. E aí tu vai ter todo esse contrato, esse controle, né. Quando foi, quando voltou Posso controlar por número de séries se eu precisar, tá, [PESSOA]? Preciso saber o que eu tenho lá de número de série fora de casa, consigo controlar para o número de série. Então, eu tenho uma série de indicadores que eu consigo trazer dentro desta parte dos contratos e da parte de estoque e inventário que a gente chama. Na parte de faturamento, sim, a gente vai emitir as suas notas de saída. As notas fiscais de serviço, quais são as prefeituras que você emite nota fiscal de serviço? Só para mim ter esse dado. Não sei se os meninos já te perguntaram né.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Como é que é não entendi desculpa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3712,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: emite nota fiscal de serviço de quais cidades.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: As notas a partir de qual cidade. A partir de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5907,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: qual cidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tudo de [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Tudo de [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Então não tem problema também com as notas cais eletrônicas de serviço. Sem problema algum também. E a parte financeira, tá? A gente tem ali, então, todas as contas a pagar, contas a receber, né? Se eu não me engano, eu trabalho muito com o pessoal de vendas, tá, [PESSOA]? Eu posso estar enganado. Mas se eu não estou enganado, o LH e o [PESSOA] me falaram que tu trabalha com o [LOCAL] e [LOCAL], né? Eu acho que é isso mesmo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL] e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [LOCAL] e [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eu tenho ainda alguma coisa de [PESSOA], mas estou descontinuando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Tá, tranquilo. Então, esses bancos hoje são através de arquivos KNAB. A gente faz a transação entre eles, sem problema algum. Esse é o modelo consolidado. A TOTUS vem no modelo de algumas APIs de bancos, mas a gente não consegue desenvolver todos de uma única vez. E aí, você escolhe algumas batalhas. Então, a gente já tem alguns bancos com APIs prontas, mas, infelizmente, ainda não se crede e o [LOCAL] ainda não está com APIs dentro do sistema. Então, a gente tem que trabalhar no modelo de arquivo KNAB, tá? No 240 posições ou no 400 posições, tanto faz, né? Geralmente, quem usava 400 posições era só a [EMPRESA], mas a gente vai te atender também nesse quesito aí, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Fluxo de caixa, tá? fluxo de caixa, fluxo de caixa por natureza de operação, por natureza financeira, que a gente chama que é um DRE financeiro, basicamente dentro da empresa, né? A gente vai te atender também aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá, perfeito. Ótimo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: O modelo Essential, tá, [PESSOA]? Ele é uma ferramenta que O sistema recebe o mesmo do que qualquer outra empresa que compra de totes independente do modelo de negociação. Por exemplo o teu financeiro é o mesmo que vai estar a. numa [LOCAL], aqui no [LOCAL], vai estar numa [PESSOA]. O que que diferencia? É a metodologia da implantação e as funcionalidades que são implementadas, mas a ferramenta a gente entrega ela completa. Então, a Cláudia daqui Seis meses, eu quero implantar outros módulos que eu tenho da ferramenta. Posso? Posso implementar. Quero aumentar o número de empresas dentro do meu negócio. Posso? Posso aumentar sem problemas nenhum. O Essential é somente uma metodologia de implantação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá, perfeito. [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: só pegando esse gancho, eu acho importante também trazer que Embora seja uma metodologia que tem suas premissas ali, pela questão de ser remoto e tal, é um projeto que vai envolver pessoas. A gente tem toda uma metodologia e um cuidado de fato, até pela robustez do R&P que vocês estão contratando, de se ter todo um processo mesmo, uma metodologia, como envolvendo pessoas, não negligenciando todas as etapas ali, desde parametrizações, instalações, até os treinamentos e capacitações para vocês, Porque não poderia ser diferente, né, cara? Aqui a gente não está falando de um projeto que é um software plug and play, né? Próximo aí do que você usa hoje, por exemplo, que é algo mais simplificado. Então, a gente tem esse cuidado, tá? Então, até por isso, o investimento ali no projeto de implantação, porque vai envolver do nosso lado aqui consultores, o pessoal que vai estar olhando para ti com um projeto específico e certificando de que, ao final desse projeto, vocês de fato vão poder extrair todo o valor e ter todos os resultados que a gente está pensando juntos aqui, tá? Então, só assim, queria justamente reforçar, assim, essa metodologia e esse cuidado que a gente tem de não só instalar e, pô, te vira aí, [PESSOA], vai ver uma e-learning, uma universidade [EMPRESA] com vídeos gravados e, cara, segue a vida aí. Nós não conseguimos trabalhar dessa forma, tá? Para que vocês tenham, de fato, os resultados e extraiam o valor da plataforma, a gente vê como importante aí cumprir toda a metodologia que é auditada. Enfim, a gente tem todo um método aí para garantir isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: É uma jordada, né, [PESSOA]? Ela é uma caminhada juntos aqui. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: muitas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: empresas, elas começam com o modelo do Essential. A gente entra com o modelo de Essential e, gradativamente, eles vão aumentando o seu uso de sistema e a gente continua sendo o parceiro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6237,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 47]: está ao lado de vocês. Então, a gente tem toda uma metodologia Nós somos uma unidade própria, eu costumo dizer, onde a própria TOTOS nos audita e se a gente não seguir Toda a metodologia que a gente tem, documentações que a gente tem que ter durante um projeto, nós somos penalizados. E para a [EMPRESA], uma reclamação, seja de um cliente de médio porte, grande porte, pequeno porte, independente do tamanho do cliente, é uma reclamação e isso tem um peso muito grande na nossa avaliação. Então a gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: todo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: esse cuidado, eu digo assim, A gente vende softwares plug and play. Vendemos softwares plug and play para restaurantes, bares. É plug and play. Chego lá, instalo, fico lá um dia. Isso aí. Fico lá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5034,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: te",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 47]: dou um treinamento de um dia e vou embora. Só que softwares, que nem a gente está conversando aqui, a gente tem que ter todo um cuidado, porque a empresa está numa caminhada de crescimento. Você que está procurando a TOTOS hoje, Não é porque tu acha bonito a [EMPRESA]. Tu vem numa crescente, tu tá sentindo necessidade e tu precisa ter um parceiro de negócio que vai te acompanhar daqui pra frente. O",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 37]: nosso parceiro, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: [LOCUTOR 11]: é nosso parceiro. Estava esses dias ali no escritório da [LOCAL]. Nosso parceiro fornecedor aí, cara. E eu acho que é legal essa visão, né, [PESSOA]. Cara, a [EMPRESA] aqui vê um projeto novo aí com no mínimo 10 anos juntos, né, cara? 15, 20 anos,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né, cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Não tem como ser diferente, né, velho?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4272,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: t",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: conversando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: conosco pra daqui a 5 anos trocar de sistema, não existe isso, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5082,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Nossa, a média hoje é 17 anos, né, LH? Aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: cara,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: é isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCUTOR 19]: recebi ali, [PESSOA], tu mandou o do RH também, que foi o que a gente viu na sexta aqui. Seria no segundo momento, tá? Mas ele tá integrado ao Proteus, né? Ou seja, ele vai aparecer dentro da mesma estrutura, não é um software à parte. O que eu quero dizer? No momento que eu logo ali, eu tenho os módulos que eu tenho contratado, certo? Eu consigo fazer aquele acompanhamento ali de dentro, [LOCUTOR 8]: isso? Se eu entendi bem. Não, são sistemas separados.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Mas ele não está integrado ao Proteus? O que eu quero dizer? Hoje eu logo, pelo menos nos outros que me mostraram, tá? Eu logo, lá. Eu tenho os módulos. Eu tenho módulo financeiro, módulo de contrato, módulo de RH, módulo de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: qualquer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: coisa. E aí eu não sei se funciona da mesma forma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Bom, deixa eu... Eu vou te fazer o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3914,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: coment",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: aí, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 31]: do Proteus, [PESSOA], a gente tem uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5733,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: folha de pagamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: O que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: o [PESSOA] te ofereceu é a folha do RM. É a nossa folha semiada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Não fui nem na folha, né, [PESSOA]? Aqui a gente está falando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: do ponto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Agora,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: ponto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: eletrônico.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Ah, do ponto. Aí são ferramentas que a gente traz de benefício. Elas não estão dentro do mesmo [EMPRESA]. Mas elas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vêm para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: trabalhar de uma maneira integrada depois aos RPs da TOTOS, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5606,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá, entendi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCUTOR 21]: falei da folha RH ali, da folha RM, tá? Não sabia que era só o agora, mas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: for folha também a gente usa o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 47]: a nossa folha de pagamento premiada que a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: diz.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCUTOR 1]: folha que é reconhecida e a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: folha que hoje atende os nossos clientes deve estar em torno já de 90%, tá? Ela vem muito forte,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: a nossa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: folha do RM.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 17]: está integrada aos outros EPs, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCUTOR 7]: nativas, né? [EMPRESA] são DOTOS, né? [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: eu acho que tá bem esclarecido, assim. Minha dúvida era só pra fazer um double check se tudo que a gente tinha previsto tava realmente dentro desses",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4682,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: módulos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né? É aquilo que vocês falaram, a ideia na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4937,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: contratação",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: de [LOCAL] é que Não vou dizer para sempre, porque para sempre é muito tempo, mas é para ser um casamento de longo prazo, que se tem, ninguém muda de [LOCAL] todo ano, até porque tem um trabalho de implanta",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: grande,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tem uma curva de aprendizado, enfim, até estabilização. Então, você tem aí diversos processos a serem feitos antes efetivamente de fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: coisa funcionar. Então, tem que ser muito bem pensada e eu preciso analisar com muita calma se tudo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: a gente precisa está ali dentro e se tudo o que eu vou precisar no futuro também tem uma possibilidade, né? Folha, CRM, enfim. Folha não, desculpa. A parte de, enfim,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: ponto,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: controle de colaboradores e assim por diante. E o CRM que vocês conseguem entregar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: tamb",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: em outras fases aí do projeto. Mas está",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5509,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: claro, está bem entendido que agora é conta, agora é...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4579,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA] precisa me ajudar a ajudar ele com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.507,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: relação",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aos valores ali e a gente vai ter umas contas internas aqui também pra ver se a gente consegue chegar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: aí no denominador.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: algumas coisas importantes assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: cara, que eu acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: que é legal relembrar, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 17]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 24]: dos principais RPs aqui no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 17]: principal [EMPRESA] da [EMPRESA], onde a [EMPRESA] mais investe, tem um roadmap nos próximos dois anos, a [EMPRESA] vai capitanear uma mudança absurda no mercado de [LOCAL] com IA embarcada, com agentes de IA embarcados ao [LOCAL]. agentes especializados que tu vai poder criar, inclusive, para assumir tarefas ou apoiar no teu processo, que hoje investe algum tempo de pessoa ou humano, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 17]: gente está investindo mais de 600 milhões nos próximos quatro anos só na Lean, que é essa foundation B2B aí. Então, cara, assim, tu está contratando o [EMPRESA]. Não é um software de entrada a [EMPRESA], É o software especialista do segmento, onde a [EMPRESA] mais investe, onde mais tem inovação, onde tem muita coisa, um roadmap vastíssimo para... Cara, assim, tu pode ficar tranquilo de que o que a gente está te apresentando aqui é o que tem de melhor. Agora, falando de preço, valores, cara, o [PESSOA] aí, eu não tenho dúvidas, com o meu apoio e com o apoio da nossa gestão aí, a gente vai conseguir resolver, cara. Isso aí está na nossa mão, tá? Tu dizendo assim, cara, quero fechar com vocês, a gente dá um jeito.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 17]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: faça acontecer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL]. Combinadíssimos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: meus",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: amigos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Obrigado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: pela disponibilidade. Obrigado, [PESSOA], pelas explanações.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4382,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCAL], [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Validei ali o que eu precisava. Vou sentar agora com o [EMPRESA], vou sentar com a [PESSOA] aqui, principalmente, validar, fazer algumas contas e a gente retoma aí, [PESSOA], sem problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: E precisando, pessoal, do nosso apoio, chama o [PESSOA] aí, Eu entro na conversa com vocês sem problema nenhum e explico. Tem dúvidas quanto à proposta. [PESSOA] chamem que eu auxilio vocês aí sem problema",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: nenhum.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Estou aí",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Se tiver por [LOCAL] nos avisa. A gente quer te apresentar um escritório novo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5272,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá bom. Na verdade eu moro em [LOCAL]. Vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4755,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: combinar ensinar juntos aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: moro em [LOCAL], então casualmente hoje estou. Às vezes estou viajando, às vezes estou aqui, mas vamos combinar assim. Faço questão de conhecer. Eu conheci, cara, o escritório de vocês há muitos anos, quando ela era na [LOCAL], que era uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5473,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: franquia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ainda ali na [LOCAL], estou te falando há 10 anos atrás, eu acho, sei lá, cara. Algo nesse número, mais ou menos. Era ali na [LOCAL], quase num prédio da esquina, num prédiozinho ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4899,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Sim, ele foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4447,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: por muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: tempo ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Aquele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: prédio é do [LOCAL], né? É do [LOCAL]. Foi por muito tempo ali e agora, essa semana, oficialmente a gente se mudou pra um escritório novo que é no [LOCAL], na [LOCAL], ali. [LOCAL] gostar ali de estar chegando ali também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5915,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá bom. Vamos marcar sim, com certeza. Faço questão de conhecer ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4628,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Boa, velho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: legal. Eu falo com orgulho porque ficou bonitão o escritório e tal, tem todo investimento aí. Eu acho que a gente tem que valorizar, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCUTOR 13]: certeza.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: Nosso parceiro, enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 32]: te dar a dica, [PESSOA]. Vai no final da tarde e faz o LH te pagar o shopping ali no segundo andar. Vem fazer a nossa agenda das 3 às 4 e já fica, emenda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5238,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: estar por",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: aqui, o LH tá na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: tarde aqui",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: também, a gente já toma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: um chopp",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: então. Depois das 4",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: terminou a nossa agenda,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 47]: pode ser?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL], boa, boa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Qualquer coisa, só chegar aí se quiser no presencial que a gente tá aqui, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5331,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Obrigado, meus amigos, obrigado mesmo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: Obrigado, pessoal, até mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: coisa me chamem aí, valeu.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Tá bom, valeu, tchau, tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4113,
+      "motivo": "ml"
+    }
+  ]
+}

@@ -1,0 +1,763 @@
+{
+  "id_reuniao": "1367160",
+  "codt": "TFDATD",
+  "data_reuniao": "2026-04-02 10:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "RJ",
+  "texto_original": "[LOCUTOR 12]: Bom dia. Olá, bom dia.[PESSOA] da \n[LOCUTOR 6]: Olá,\n[LOCUTOR 12]: está me ouvindo? Bom dia.[PESSOA] da \n[LOCUTOR 6]: Olá. Olá, bom dia, [PESSOA]. Tudo bem?\n[LOCUTOR 12]: Bem, e você?[PESSOA] da \n[LOCUTOR 6]: Tudo jóia, graças a [PESSOA].\n[LOCUTOR 12]: Que bom.[PESSOA] da \n[LOCUTOR 6]: Prazer, tá?\n[LOCUTOR 12]: Prazer, tudo meu. Vocês chegaram a dar uma olhada no link que eu mandei pra eles? Tinha um videozinho falando um pouquinho do Totos Transmite, um material...[PESSOA] da \n[LOCUTOR 6]: Eu não consegui olhar, infelizmente.\n[LOCUTOR 12]: [PESSOA] da \n[LOCUTOR 6]: muito corrido.\n[LOCUTOR 12]: É...\n[LOCUTOR 5]: [EMPRESA],\n[LOCUTOR 12]: [PESSOA].\n[LOCUTOR 5]: Olá.[PESSOA] da \n[LOCUTOR 6]: [EMPRESA], [PESSOA], tudo bem?\n[LOCUTOR 12]: E aí?\n[LOCUTOR 5]: Tudo bom? Vamos lá, como é que... atualizações? É só abrir? Entidade?\n[LOCUTOR 12]: Da TOTUS, não.\n[LOCUTOR 5]: É um lançamento padrão. Eles não estão lançando. A gente tá ouvindo\n[LOCUTOR 12]: mais a\n[LOCUTOR 5]: pessoa\n[LOCUTOR 12]: que\n[LOCUTOR 5]: tá do\n[LOCUTOR 12]: seu lado do que\n[LOCUTOR 5]: você. Será que tem dois, três falando? Deixa eu ver se tem uma sala ali.[PESSOA] da \n[LOCUTOR 6]: Então,\n[LOCUTOR 5]: a gente está pensando em melhorar o nosso processo de pagamento. Ele é muito braçal manual.\n[LOCUTOR 12]: [PESSOA].\n[LOCUTOR 5]: Seja na parte de poder identificar notas emitidas contra GSH e contra R2-Farma, seja na parte de informar, né, isso dentro do Proteus. E, no passado, a gente já viu um pouco do Total Transmit, mas não foi pra frente, porque a gente estava fazendo a migração de base e tinha outras prioridades.\n[LOCUTOR 12]: [PESSOA].\n[LOCUTOR 5]: E,\n[LOCUTOR 12]: depois,\n[LOCUTOR 5]: a chegada da [LOCAL], a gente está retomando essa missão de melhorar, de automatizar, de tornar mais seguro, de tornar menos graçado esse processo de pagamento, na captura da nota, de importar as informações dentro do Proteus,\n[LOCUTOR 12]: Ou\n[LOCUTOR 5]: seja, é para fazer pedido de compra, solicitação de compra. Entendeu? É tudo muito braçal aqui. E o [EMPRESA], por ser uma ferramenta com mais focaria da [EMPRESA], a gente está optando em ver, para realmente saber e avaliar qual parte do processo se encaixa, se vale a pena. A gente teve o ok do nosso diretor de [EMPRESA] para retomar isso. A gente teve ano passado, a gente teve uma implantação mal sucedida que o projeto acabou, a gente acabou que descontinuouLeíse [LOCAL] da \n[LOCUTOR 6]: o\n[LOCUTOR 5]: [EMPRESA], que é uma ferramenta parecida com o [LOCAL], só que a gente não, a gente descontinuou porque a implantação ficou complexa, as áreas acabaram que não usaram, e aí a gente, pô, pra não ficar, vai ficar pagando uma coisa que não usa, é melhor descontinuar.\n[LOCUTOR 12]: [PESSOA].\n[LOCUTOR 5]: Tá? E aí, A ideia é essa, trazer para você, mostrar aqui para a [PESSOA], para ela avaliar também. Tem a [PESSOA], que é da nossa área de [EMPRESA], que ajuda nos pagamentos também, como se fosse uma usuária, ela que seria a maior beneficiária ali do uso do Transmit. É, avaliar, sabe, ver essa herramenta, mas mostrar que era isso, acho que não viu, não viu, não chegou a ver no ano passado. A [PESSOA] também é uma gestora lá da [LOCAL]. Ela gostou do que ela viu no universo TOTUS. E para a gente retomar isso, a gente recebeu o sinal verde para avaliar possibilidades de melhorar esse processo de pagamento.\n[LOCUTOR 12]: [PESSOA]. Então deixa eu compartilhar com vocês. Ele é simples, o sistema, mas que ajuda muito no dia a dia. Espera aí que eu vou compartilhar um minutinho. Alguém\n[LOCUTOR 7]: consegue autorizar a [PESSOA] a entrar na\n[LOCUTOR 12]: área? Acho que\n[LOCUTOR 7]: ela está aguardando aí.\n[LOCUTOR 12]: [PESSOA], deixa eu olhar aqui rapidinho.\n[LOCUTOR 7]: [LOCAL].\n[LOCUTOR 12]: Olha, não está aqui como pendente\n[LOCUTOR 5]: na\n[LOCUTOR 12]: lateral. Está vendo? Estamos todos e não está o pedido dela. Porque a hora que alguém pede, eu escuto um barulhinho, sabe? Tem como pedir para ela sair? Agora sim, ó.\n[LOCUTOR 7]: Apareceu.\n[LOCUTOR 12]: Isso, deu certinho.\n[LOCUTOR 7]: [LOCAL].\n[LOCUTOR 12]: Imagina, imagina. Como eu não vou estar vendo vocês, então fiquem à vontade, tá? Para abrir o microfone. Se a gente precisar de informações adicionais, aí eu vou trazendo o time junto da gente, tá bom? O que o TOTUS transmite? É uma solução que a TOTUS criou para buscar todas as notas emitidas contra o CNPJ do cliente. trazendo para o Proteus, não é só o Proteus, a gente tem os outros produtos aqui, mas falando no caso de vocês, e ele já entra como uma pré-nota, né? Então vou falar um pouquinho\n[LOCUTOR 5]: e\n[LOCUTOR 12]: aí vou dando detalhes técnicos de quais são os documentos, quais são as prefeituras. A gente tem a maioria das prefeituras, mas tem algumas que elas ainda não oferecem essa integração, mas a gente consegue pegar de outra forma, tá bom? Então a gente tem todas essas integrações para trazer os documentos eletrônicos. Além disso, a gente faz a guarda dessas notas. Então eu fui receber a nota, trago para o Proteus e guardo esse documento. Então pensando em reforma tributária, pensando em armazenamento, ele também tem essa funcionalidade.[PESSOA] da \n[LOCUTOR 6]: [LOCUTOR 1]: pegamLeíse [LOCAL] da  também, [PESSOA], de concessionárias?\n[LOCUTOR 12]: Não, não. Os meninos até me perguntaram. Ainda não. Telefone, energia, isso ainda não. Eu até perguntei para o pessoal se a gente tem algum planejamento, mas eles ainda não me deram a data, tá? Mas hoje essas contas do diaLeíse [LOCAL] da \n[LOCUTOR 6]: a\n[LOCUTOR 12]: dia ainda não estão. Depois eu passo essa apresentação para vocês, tá bom? E ele é online, não tem que ter nenhum tipo de instalação, é uma página onde a gente conecta na base de vocês, né? [EMPRESA] a integração e ele já vai recebendo tudo isso das prefeituras, tá bom? Aqui é uma carinha dele e a gente vai mostrando. Então, ele tem esse painel. O painel, eu acho ele bem bacana porque vocês conseguem ir monitorando\n[LOCUTOR 5]: tudo\n[LOCUTOR 12]: que tá acontecendo que você recebeu, qual foi o tipo da nota, se a gente já conseguiu fazer essa importação e aí vai trazendo todo o histórico, tá vendo? Então eu consigo ver o detalhe, data, valor, quem foi emitente, o destinatário, qual é o produto que está lá, os impostos que vieram nessa nota. Então ele já faz isso automaticamente, pensando em vocês que precisam fazer isso manualmente. Isso ele já vai estar pronto no sistema. ele também pode exportar para outro sistema, caso vocês queiram, aí vocês conseguem visualizar o PDF, pode gerar, enviar por e-mail também esse PDF, esse XML, se vocês precisarem, tudo pela ferramenta.[PESSOA] da \n[LOCUTOR 6]: E, [PESSOA], não estando disponível a nota fiscal numa dessas bases de prefeitura, etc., e a gente recebe por e-mail, ele integra com o e-mail também.\n[LOCUTOR 12]: Integra com o e-mail, tá vendo? Ó, integração PDF, bem na hora do vídeo. Sim, a gente configura um e-mail único, né, pra não ficar recebendo na caixa. A genteLeíse [LOCAL] da \n[LOCUTOR 6]: tem um único. A gente tem um único.\n[LOCUTOR 12]: [LOCAL]. Então é essa daí, ele já identifica e já importa aqui esse PDF. E já a gente usa o OCR pra identificar, né, pra fazer toda a leitura, a extração e trazer pro Proteus. Então é possível sim, tá? Quando a gente recebe via PDF. E aí tem todas, e fora o painel, a gente também tem os relatórios de acompanhamento. Então só recapitulando, a gente recebe, então é conectado com a [LOCAL], a gente busca todos os xml emitidos, não tem xml, posso receber por e-mail PDF, a gente transforma isso e importa. Então quais são os documentos que a gente consegue fazer a busca automática. Nota Fiscal Eletrônica,\n[LOCUTOR 5]: [LOCAL],\n[LOCUTOR 12]: [EMPRESA] e a integração via e-mail, convertendo todo o dado em nota fiscal. Relatório, ordenamento, então a gente guarda tudo isso, a manifestação do destinatário e a possibilidade de compartilhamento dessa nota. Só passar pra outra página. Aqui também, só repetindo, né, todos os documentos que a gente faz, o monitoramento. Aí eu vou compartilhar com vocês o link das prefeituras, tá? Aí ele só, nesse vídeo, ele mostra um pouquinho a integração com o Proteus. Então vou, vou no [EMPRESA], pego o XML, populo o meu monitoramento e depois eu venho e trago o Proteus E ele já está ali como uma pré-nota. Vocês podem fazer uma validação e aceitar essa nota. Aí ele já fica já no contas a pagar. Só terminando de mostrar aqui um pouquinho. Então ele ajuda muito no dia a dia e eliminar esse retrabalho, essa necessidade do lançamento dessas notas. compartilhar essa apresentação com vocês também, tá? A configuração é super simples, aqui a gente está mostrando um pouquinho de como a gente configura. É aquele, né, faz a configuração, próximo, próximo, é muito rápida a implantação, então não é algo que requer muito tempo para começar a utilização. O valor é para o volume de notas mês. Então é um valor fixo se tiver um aumento. Vocês são avisados mas a gente acaba usando uma média do ano. Então aqui só mostrando um pouquinho essa configuração. Você fala da agilidade, da facilidade, do que a gente acabou falando um pouquinho, né? Aqui temos os links falando das prefeituras homologadas, que acho que é importante, mas as maiores já estão disponíveis e geram XML. Acabamos nos deparando com as menores, mas o e-mail resolve essa dor. E aí requisito, né? Utilizar a parte de transmissão precisa estar a partir desse release, que vocês já estão já, não teria nenhum impacto. É que às vezes a gente se depara com um cliente que tá com uma... uma versão super antiga, tá? E o monitoramento e o armazenamento possuem um certificado para guardar isso. Só repetindo, não tem uma taxa de adesão, é implantação, é só Next, Next, Next, não tem limitação de CNPJ, pode ser para 1, pode ser para 5, pode ser para 7 e não tem limitação de usuários, tá? Deixa eu mostrar.\n[LOCUTOR 5]: Aqui a gente tem bastante CNPJ.\n[LOCUTOR 12]: [LOCAL], não tem nenhum tipo de restrição, tá? Ah, e aqui a gente tem uma página super detalhada que fala de tudo que tá acontecendo, se teve alguma atualização do produto, ou correção, ou novidades. Então a gente tem a página do Tots Transmite, onde o cliente pode ir acompanhando tudo que tá acontecendo. todas as expedições aqui. Aqui a gente também tem uma base de conhecimento dele, falando um pouquinho de cada um. Aqui também tem o passo a passo, né? Como que o cliente pode adquirir, como o cliente faz a configuração. Então é bem documentado, por isso que a gente fala que não tem a necessidade de contratar a TOTOS para ligar o produto, sabe? O próprio cliente acaba conseguindo fazer essas configurações. Mas ele é simples, mas que ajuda muito no dia a dia, tá? Aqui fala, tá vendo novamente os documentos. Aí eu vou passando esses links pra vocês também. Fora... Eu lembro que o [EMPRESA] comentou que vocês têm um grande volume das notas das concessionárias, né? Mas fora as concessionárias, falando um pouquinho de volume das outras notas, dos outros\n[LOCUTOR 5]: documentos\n[LOCUTOR 12]: eletrônicos, vocês têm uma ideia hoje, mensal?[PESSOA] da \n[LOCUTOR 6]: [LOCAL]...\n[LOCUTOR 12]: [LOCUTOR 2]: empresa toda, eu não sei, mas de [EMPRESA].\n[LOCUTOR 5]: Vocês lembram?\n[LOCUTOR 12]: Mas a ideia é\n[LOCUTOR 3]: que\n[LOCUTOR 12]: a\n[LOCUTOR 3]: empresa... Eu acredito\n[LOCUTOR 12]: que\n[LOCUTOR 3]: é em torno dos 260 por aí, se for juntar os dois grupos, por aí, 250.\n[LOCUTOR 5]: Da [EMPRESA], mas acho que tem que ver o volume todo.\n[LOCUTOR 3]: Não,\n[LOCUTOR 5]: mas\n[LOCUTOR 3]: seria da [EMPRESA], o volume todo da empresa não tem função.[PESSOA] da \n[LOCUTOR 6]: Também não sei, não, da empresa inteira.\n[LOCUTOR 12]: Mas a ideia era a gente expandir para todas, né?\n[LOCUTOR 5]: Para\n[LOCUTOR 12]: todas, certo, certo. ComeçarLeíse [LOCAL] da \n[LOCUTOR 6]: pela [EMPRESA], né? Deixar a [EMPRESA] toda redondinha, depois a gente expandir para as outras áreas.\n[LOCUTOR 12]: Não, tá ótimo. Está ótimo. E aqui que eu comentei com vocês das prefeituras. Onde a gente tem a lista completa, o portal falando. Então aqui tem cidade, estado, cidade. E aí fala se está disponível, se não está disponível. Qual é o ambiente, se é o nacional ou se é da prefeitura. Qual é a versão. Então está bem completo esse material.[PESSOA] da \n[LOCUTOR 6]: [LOCAL],\n[LOCUTOR 12]: é importante para vocês avaliarem. Então eu vou mandar o PDF, deixa eu só parar de compartilhar. Eu vou mandar o PDF.\n[LOCUTOR 5]: Então ele já entra como, ele consegue entrar como pré-nota, ele faz o início da na etapa da pré-nota. \n[LOCUTOR 10]: já cai no Preteos com tudo. Quem foi o remetente destinatário os impostos o produto o valor pré-nota valida confirma e ele já vai para a conta apagar. E a gente armazena o PDF também. E no monitor você também consegue saber o que aconteceu, né? Como que você recebeu, se foi via integração ou foi via PDF e que quando você já mandou para o Proteus. Então o monitor, ele também, você tem todo o acompanhamento.\n[LOCUTOR 5]: \n[LOCUTOR 9]: aí eu também fico devendo a data. Quando a gente vai trazer a melhoria da concessionária que é muito importante não só para vocês a gente toda agenda que eu entro tem essa tem essa dor que tem cliente que tem muita parte de algumas de telefonia porque a água é um energia um mas o de telefonia acaba tendo vários fornecedores. Então, além do material, se vocês tiverem algum ponto, se quiserem que eu marque com\n[LOCUTOR 12]: o time de especialista\n[LOCUTOR 5]: para\n[LOCUTOR 12]: a gente navegar e simular mesmo, além do videozinho, vocês me dão um toque, tá? Em 10 minutos ele consegue mostrar isso para vocês, mas acho que o vídeo acaba... Ainda não. O videozinho está bem didático, né? Vou compartilhar agora, táLeíse [LOCAL] da \n[LOCUTOR 6]: bom? É, o que talvez você pudesse mandar para o [PESSOA] é Eu imagino que vocês tenham um valor por volume de nota escalonado, tipo até X notas, até Y notas, e mandar para ele só uma ideia para a gente ter\n[LOCUTOR 5]: oLeíse [LOCAL] da \n[LOCUTOR 6]: custo disso.\n[LOCUTOR 12]: Tá bom, ideia de valor. Vou pegar alguns exemplos de volumeLeíse [LOCAL] da \n[LOCUTOR 6]: de\n[LOCUTOR 12]: notas, aí eu mando paraLeíse [LOCAL] da \n[LOCUTOR 6]: você.\n[LOCUTOR 5]: Aqui a gente tem o proteose da R2 Pharma e da GSH, são dois proteoses. Como é que isso funcionaria?\n[LOCUTOR 12]: Por\n[LOCUTOR 5]: volume de nota, né?\n[LOCUTOR 12]: Isso. Então, não tem restrição de quantidade de CNPJ e nem de funcionário. É por volume de nota. Então, pode ser 1, 2, 3, 4, não teria problema.\n[LOCUTOR 5]: É,\n[LOCUTOR 12]: ajuda, né? Porque a gente tem cliente também que tem vários [EMPRESA], várias bases, então não tem impacto.\n[LOCUTOR 5]: Então,\n[LOCUTOR 12]: já vou levantar. [PESSOA], já te mando esse pacotinho no e-mail,\n[LOCUTOR 5]: o\n[LOCUTOR 12]: que vocês precisarem, aí vocês me buscam, me mandam e-mail, ou me ligam, mandam mensagem no WhatsApp, aí eu vou apoiando vocês.[PESSOA] da \n[LOCUTOR 6]: [LOCAL],\n[LOCUTOR 5]: tá bom.[PESSOA] da \n[LOCUTOR 6]: Muito obrigada, [PESSOA].\n[LOCUTOR 12]: [PESSOA]. [LOCAL] dia.[PESSOA] da \n[LOCUTOR 6]: [LOCAL],\n[LOCUTOR 7]: gente.",
+  "texto_filtrado": "[LOCUTOR 12]: Bem, e você?[PESSOA] da\n[LOCUTOR 12]: Que bom.[PESSOA] da\n[LOCUTOR 6]: Prazer, tá?\n[LOCUTOR 12]: Prazer, tudo meu. Vocês chegaram a dar uma olhada no link que eu mandei pra eles? Tinha um videozinho falando um pouquinho do Totos Transmite, um material...[PESSOA] da\n[LOCUTOR 12]: [PESSOA] da\n[LOCUTOR 6]: muito corrido.\n[LOCUTOR 5]: [EMPRESA],\n[LOCUTOR 12]: [PESSOA].\n[LOCUTOR 5]: Olá.[PESSOA] da\n[LOCUTOR 5]: pessoa\n[LOCUTOR 5]: tá do\n[LOCUTOR 12]: seu lado do que\n[LOCUTOR 5]: você. Será que tem dois, três falando? Deixa eu ver se tem uma sala ali.[PESSOA] da\n[LOCUTOR 6]: Então,\n[LOCUTOR 5]: a gente está pensando em melhorar o nosso processo de pagamento. Ele é muito braçal manual.\n[LOCUTOR 12]: [PESSOA].\n[LOCUTOR 5]: Seja na parte de poder identificar notas emitidas contra GSH e contra R2-Farma, seja na parte de informar, né, isso dentro do Proteus. E, no passado, a gente já viu um pouco do Total Transmit, mas não foi pra frente, porque a gente estava fazendo a migração de base e tinha outras prioridades.\n[LOCUTOR 12]: [PESSOA].\n[LOCUTOR 12]: depois,\n[LOCUTOR 5]: a chegada da [LOCAL], a gente está retomando essa missão de melhorar, de automatizar, de tornar mais seguro, de tornar menos graçado esse processo de pagamento, na captura da nota, de importar as informações dentro do Proteus,\n[LOCUTOR 5]: seja, é para fazer pedido de compra, solicitação de compra. Entendeu? É tudo muito braçal aqui. E o [EMPRESA], por ser uma ferramenta com mais focaria da [EMPRESA], a gente está optando em ver, para realmente saber e avaliar qual parte do processo se encaixa, se vale a pena. A gente teve o ok do nosso diretor de [EMPRESA] para retomar isso. A gente teve ano passado, a gente teve uma implantação mal sucedida que o projeto acabou, a gente acabou que descontinuouLeíse [LOCAL] da\n[LOCUTOR 5]: [EMPRESA], que é uma ferramenta parecida com o [LOCAL], só que a gente não, a gente descontinuou porque a implantação ficou complexa, as áreas acabaram que não usaram, e aí a gente, pô, pra não ficar, vai ficar pagando uma coisa que não usa, é melhor descontinuar.\n[LOCUTOR 12]: [PESSOA].\n[LOCUTOR 5]: Tá? E aí, A ideia é essa, trazer para você, mostrar aqui para a [PESSOA], para ela avaliar também. Tem a [PESSOA], que é da nossa área de [EMPRESA], que ajuda nos pagamentos também, como se fosse uma usuária, ela que seria a maior beneficiária ali do uso do Transmit. É, avaliar, sabe, ver essa herramenta, mas mostrar que era isso, acho que não viu, não viu, não chegou a ver no ano passado. A [PESSOA] também é uma gestora lá da [LOCAL]. Ela gostou do que ela viu no universo TOTUS. E para a gente retomar isso, a gente recebeu o sinal verde para avaliar possibilidades de melhorar esse processo de pagamento.\n[LOCUTOR 7]: consegue autorizar a [PESSOA] a entrar na\n[LOCUTOR 12]: área? Acho que\n[LOCUTOR 7]: [LOCAL].\n[LOCUTOR 7]: Apareceu.\n[LOCUTOR 12]: Isso, deu certinho.\n[LOCUTOR 7]: [LOCAL].\n[LOCUTOR 12]: Imagina, imagina. Como eu não vou estar vendo vocês, então fiquem à vontade, tá? Para abrir o microfone. Se a gente precisar de informações adicionais, aí eu vou trazendo o time junto da gente, tá bom? O que o TOTUS transmite? É uma solução que a TOTUS criou para buscar todas as notas emitidas contra o CNPJ do cliente. trazendo para o Proteus, não é só o Proteus, a gente tem os outros produtos aqui, mas falando no caso de vocês, e ele já entra como uma pré-nota, né? Então vou falar um pouquinho\n[LOCUTOR 12]: aí vou dando detalhes técnicos de quais são os documentos, quais são as prefeituras. A gente tem a maioria das prefeituras, mas tem algumas que elas ainda não oferecem essa integração, mas a gente consegue pegar de outra forma, tá bom? Então a gente tem todas essas integrações para trazer os documentos eletrônicos. Além disso, a gente faz a guarda dessas notas. Então eu fui receber a nota, trago para o Proteus e guardo esse documento. Então pensando em reforma tributária, pensando em armazenamento, ele também tem essa funcionalidade.[PESSOA] da\n[LOCUTOR 6]: [LOCUTOR 1]: pegamLeíse [LOCAL] da  também, [PESSOA], de concessionárias?\n[LOCUTOR 12]: dia ainda não estão. Depois eu passo essa apresentação para vocês, tá bom? E ele é online, não tem que ter nenhum tipo de instalação, é uma página onde a gente conecta na base de vocês, né? [EMPRESA] a integração e ele já vai recebendo tudo isso das prefeituras, tá bom? Aqui é uma carinha dele e a gente vai mostrando. Então, ele tem esse painel. O painel, eu acho ele bem bacana porque vocês conseguem ir monitorando\n[LOCUTOR 12]: que tá acontecendo que você recebeu, qual foi o tipo da nota, se a gente já conseguiu fazer essa importação e aí vai trazendo todo o histórico, tá vendo? Então eu consigo ver o detalhe, data, valor, quem foi emitente, o destinatário, qual é o produto que está lá, os impostos que vieram nessa nota. Então ele já faz isso automaticamente, pensando em vocês que precisam fazer isso manualmente. Isso ele já vai estar pronto no sistema. ele também pode exportar para outro sistema, caso vocês queiram, aí vocês conseguem visualizar o PDF, pode gerar, enviar por e-mail também esse PDF, esse XML, se vocês precisarem, tudo pela ferramenta.[PESSOA] da\n[LOCUTOR 6]: E, [PESSOA], não estando disponível a nota fiscal numa dessas bases de prefeitura, etc., e a gente recebe por e-mail, ele integra com o e-mail também.\n[LOCUTOR 12]: Integra com o e-mail, tá vendo? Ó, integração PDF, bem na hora do vídeo. Sim, a gente configura um e-mail único, né, pra não ficar recebendo na caixa. A genteLeíse [LOCAL] da\n[LOCUTOR 6]: tem um único. A gente tem um único.\n[LOCUTOR 12]: [LOCAL]. Então é essa daí, ele já identifica e já importa aqui esse PDF. E já a gente usa o OCR pra identificar, né, pra fazer toda a leitura, a extração e trazer pro Proteus. Então é possível sim, tá? Quando a gente recebe via PDF. E aí tem todas, e fora o painel, a gente também tem os relatórios de acompanhamento. Então só recapitulando, a gente recebe, então é conectado com a [LOCAL], a gente busca todos os xml emitidos, não tem xml, posso receber por e-mail PDF, a gente transforma isso e importa. Então quais são os documentos que a gente consegue fazer a busca automática. Nota Fiscal Eletrônica,\n[LOCUTOR 5]: [LOCAL],\n[LOCUTOR 12]: [EMPRESA] e a integração via e-mail, convertendo todo o dado em nota fiscal. Relatório, ordenamento, então a gente guarda tudo isso, a manifestação do destinatário e a possibilidade de compartilhamento dessa nota. Só passar pra outra página. Aqui também, só repetindo, né, todos os documentos que a gente faz, o monitoramento. Aí eu vou compartilhar com vocês o link das prefeituras, tá? Aí ele só, nesse vídeo, ele mostra um pouquinho a integração com o Proteus. Então vou, vou no [EMPRESA], pego o XML, populo o meu monitoramento e depois eu venho e trago o Proteus E ele já está ali como uma pré-nota. Vocês podem fazer uma validação e aceitar essa nota. Aí ele já fica já no contas a pagar. Só terminando de mostrar aqui um pouquinho. Então ele ajuda muito no dia a dia e eliminar esse retrabalho, essa necessidade do lançamento dessas notas. compartilhar essa apresentação com vocês também, tá? A configuração é super simples, aqui a gente está mostrando um pouquinho de como a gente configura. É aquele, né, faz a configuração, próximo, próximo, é muito rápida a implantação, então não é algo que requer muito tempo para começar a utilização. O valor é para o volume de notas mês. Então é um valor fixo se tiver um aumento. Vocês são avisados mas a gente acaba usando uma média do ano. Então aqui só mostrando um pouquinho essa configuração. Você fala da agilidade, da facilidade, do que a gente acabou falando um pouquinho, né? Aqui temos os links falando das prefeituras homologadas, que acho que é importante, mas as maiores já estão disponíveis e geram XML. Acabamos nos deparando com as menores, mas o e-mail resolve essa dor. E aí requisito, né? Utilizar a parte de transmissão precisa estar a partir desse release, que vocês já estão já, não teria nenhum impacto. É que às vezes a gente se depara com um cliente que tá com uma... uma versão super antiga, tá? E o monitoramento e o armazenamento possuem um certificado para guardar isso. Só repetindo, não tem uma taxa de adesão, é implantação, é só Next, Next, Next, não tem limitação de CNPJ, pode ser para 1, pode ser para 5, pode ser para 7 e não tem limitação de usuários, tá? Deixa eu mostrar.\n[LOCUTOR 5]: Aqui a gente tem bastante CNPJ.\n[LOCUTOR 12]: [LOCAL], não tem nenhum tipo de restrição, tá? Ah, e aqui a gente tem uma página super detalhada que fala de tudo que tá acontecendo, se teve alguma atualização do produto, ou correção, ou novidades. Então a gente tem a página do Tots Transmite, onde o cliente pode ir acompanhando tudo que tá acontecendo. todas as expedições aqui. Aqui a gente também tem uma base de conhecimento dele, falando um pouquinho de cada um. Aqui também tem o passo a passo, né? Como que o cliente pode adquirir, como o cliente faz a configuração. Então é bem documentado, por isso que a gente fala que não tem a necessidade de contratar a TOTOS para ligar o produto, sabe? O próprio cliente acaba conseguindo fazer essas configurações. Mas ele é simples, mas que ajuda muito no dia a dia, tá? Aqui fala, tá vendo novamente os documentos. Aí eu vou passando esses links pra vocês também. Fora... Eu lembro que o [EMPRESA] comentou que vocês têm um grande volume das notas das concessionárias, né? Mas fora as concessionárias, falando um pouquinho de volume das outras notas, dos outros\n[LOCUTOR 5]: documentos\n[LOCUTOR 12]: eletrônicos, vocês têm uma ideia hoje, mensal?[PESSOA] da\n[LOCUTOR 6]: [LOCAL]...\n[LOCUTOR 12]: [LOCUTOR 2]: empresa toda, eu não sei, mas de [EMPRESA].\n[LOCUTOR 12]: Mas a ideia é\n[LOCUTOR 3]: empresa... Eu acredito\n[LOCUTOR 3]: é em torno dos 260 por aí, se for juntar os dois grupos, por aí, 250.\n[LOCUTOR 5]: Da [EMPRESA], mas acho que tem que ver o volume todo.\n[LOCUTOR 3]: seria da [EMPRESA], o volume todo da empresa não tem função.[PESSOA] da\n[LOCUTOR 12]: Mas a ideia era a gente expandir para todas, né?\n[LOCUTOR 5]: Para\n[LOCUTOR 6]: pela [EMPRESA], né? Deixar a [EMPRESA] toda redondinha, depois a gente expandir para as outras áreas.\n[LOCUTOR 6]: [LOCAL],\n[LOCUTOR 5]: Então ele já entra como, ele consegue entrar como pré-nota, ele faz o início da na etapa da pré-nota.\n[LOCUTOR 10]: já cai no Preteos com tudo. Quem foi o remetente destinatário os impostos o produto o valor pré-nota valida confirma e ele já vai para a conta apagar. E a gente armazena o PDF também. E no monitor você também consegue saber o que aconteceu, né? Como que você recebeu, se foi via integração ou foi via PDF e que quando você já mandou para o Proteus. Então o monitor, ele também, você tem todo o acompanhamento.\n[LOCUTOR 9]: aí eu também fico devendo a data. Quando a gente vai trazer a melhoria da concessionária que é muito importante não só para vocês a gente toda agenda que eu entro tem essa tem essa dor que tem cliente que tem muita parte de algumas de telefonia porque a água é um energia um mas o de telefonia acaba tendo vários fornecedores. Então, além do material, se vocês tiverem algum ponto, se quiserem que eu marque com\n[LOCUTOR 12]: o time de especialista\n[LOCUTOR 5]: para\n[LOCUTOR 6]: bom? É, o que talvez você pudesse mandar para o [PESSOA] é Eu imagino que vocês tenham um valor por volume de nota escalonado, tipo até X notas, até Y notas, e mandar para ele só uma ideia para a gente ter\n[LOCUTOR 5]: oLeíse [LOCAL] da\n[LOCUTOR 6]: custo disso.\n[LOCUTOR 12]: Tá bom, ideia de valor. Vou pegar alguns exemplos de volumeLeíse [LOCAL] da\n[LOCUTOR 12]: notas, aí eu mando paraLeíse [LOCAL] da\n[LOCUTOR 6]: você.\n[LOCUTOR 5]: Aqui a gente tem o proteose da R2 Pharma e da GSH, são dois proteoses. Como é que isso funcionaria?\n[LOCUTOR 5]: volume de nota, né?\n[LOCUTOR 12]: Isso. Então, não tem restrição de quantidade de CNPJ e nem de funcionário. É por volume de nota. Então, pode ser 1, 2, 3, 4, não teria problema.\n[LOCUTOR 12]: ajuda, né? Porque a gente tem cliente também que tem vários [EMPRESA], várias bases, então não tem impacto.\n[LOCUTOR 5]: Então,\n[LOCUTOR 12]: que vocês precisarem, aí vocês me buscam, me mandam e-mail, ou me ligam, mandam mensagem no WhatsApp, aí eu vou apoiando vocês.[PESSOA] da\n[LOCUTOR 6]: [LOCAL],\n[LOCUTOR 5]: tá bom.[PESSOA] da\n[LOCUTOR 6]: Muito obrigada, [PESSOA].\n[LOCUTOR 12]: [PESSOA]. [LOCAL] dia.[PESSOA] da\n[LOCUTOR 6]: [LOCAL],\n[LOCUTOR 7]: gente.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:09.233567+00:00",
+    "total_linhas": 123,
+    "linhas_mantidas": 79,
+    "linhas_removidas": 44,
+    "percentual_mantido": 64.23,
+    "confianca_media": 0.4793
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 12]: Bom dia. Olá, bom dia.[PESSOA] da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4058,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Olá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: está me ouvindo? Bom dia.[PESSOA] da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3783,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Olá. Olá, bom dia, [PESSOA]. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3758,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Bem, e você?[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4819,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Tudo jóia, graças a [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Que bom.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.486,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Prazer, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Prazer, tudo meu. Vocês chegaram a dar uma olhada no link que eu mandei pra eles? Tinha um videozinho falando um pouquinho do Totos Transmite, um material...[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4912,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Eu não consegui olhar, infelizmente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: muito corrido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: É...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Olá.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [EMPRESA], [PESSOA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: E aí?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tudo bom? Vamos lá, como é que... atualizações? É só abrir? Entidade?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4341,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Da TOTUS, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.44,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É um lançamento padrão. Eles não estão lançando. A gente tá ouvindo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3952,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: mais a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: pessoa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tá do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: seu lado do que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: você. Será que tem dois, três falando? Deixa eu ver se tem uma sala ali.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5006,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: a gente está pensando em melhorar o nosso processo de pagamento. Ele é muito braçal manual.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Seja na parte de poder identificar notas emitidas contra GSH e contra R2-Farma, seja na parte de informar, né, isso dentro do Proteus. E, no passado, a gente já viu um pouco do Total Transmit, mas não foi pra frente, porque a gente estava fazendo a migração de base e tinha outras prioridades.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: E,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: depois,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: a chegada da [LOCAL], a gente está retomando essa missão de melhorar, de automatizar, de tornar mais seguro, de tornar menos graçado esse processo de pagamento, na captura da nota, de importar as informações dentro do Proteus,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: seja, é para fazer pedido de compra, solicitação de compra. Entendeu? É tudo muito braçal aqui. E o [EMPRESA], por ser uma ferramenta com mais focaria da [EMPRESA], a gente está optando em ver, para realmente saber e avaliar qual parte do processo se encaixa, se vale a pena. A gente teve o ok do nosso diretor de [EMPRESA] para retomar isso. A gente teve ano passado, a gente teve uma implantação mal sucedida que o projeto acabou, a gente acabou que descontinuouLeíse [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [EMPRESA], que é uma ferramenta parecida com o [LOCAL], só que a gente não, a gente descontinuou porque a implantação ficou complexa, as áreas acabaram que não usaram, e aí a gente, pô, pra não ficar, vai ficar pagando uma coisa que não usa, é melhor descontinuar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tá? E aí, A ideia é essa, trazer para você, mostrar aqui para a [PESSOA], para ela avaliar também. Tem a [PESSOA], que é da nossa área de [EMPRESA], que ajuda nos pagamentos também, como se fosse uma usuária, ela que seria a maior beneficiária ali do uso do Transmit. É, avaliar, sabe, ver essa herramenta, mas mostrar que era isso, acho que não viu, não viu, não chegou a ver no ano passado. A [PESSOA] também é uma gestora lá da [LOCAL]. Ela gostou do que ela viu no universo TOTUS. E para a gente retomar isso, a gente recebeu o sinal verde para avaliar possibilidades de melhorar esse processo de pagamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA]. Então deixa eu compartilhar com vocês. Ele é simples, o sistema, mas que ajuda muito no dia a dia. Espera aí que eu vou compartilhar um minutinho. Alguém",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4218,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: consegue autorizar a [PESSOA] a entrar na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: área? Acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: ela está aguardando aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA], deixa eu olhar aqui rapidinho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Olha, não está aqui como pendente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3858,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: lateral. Está vendo? Estamos todos e não está o pedido dela. Porque a hora que alguém pede, eu escuto um barulhinho, sabe? Tem como pedir para ela sair? Agora sim, ó.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.401,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Apareceu.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Isso, deu certinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Imagina, imagina. Como eu não vou estar vendo vocês, então fiquem à vontade, tá? Para abrir o microfone. Se a gente precisar de informações adicionais, aí eu vou trazendo o time junto da gente, tá bom? O que o TOTUS transmite? É uma solução que a TOTUS criou para buscar todas as notas emitidas contra o CNPJ do cliente. trazendo para o Proteus, não é só o Proteus, a gente tem os outros produtos aqui, mas falando no caso de vocês, e ele já entra como uma pré-nota, né? Então vou falar um pouquinho",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: aí vou dando detalhes técnicos de quais são os documentos, quais são as prefeituras. A gente tem a maioria das prefeituras, mas tem algumas que elas ainda não oferecem essa integração, mas a gente consegue pegar de outra forma, tá bom? Então a gente tem todas essas integrações para trazer os documentos eletrônicos. Além disso, a gente faz a guarda dessas notas. Então eu fui receber a nota, trago para o Proteus e guardo esse documento. Então pensando em reforma tributária, pensando em armazenamento, ele também tem essa funcionalidade.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCUTOR 1]: pegamLeíse [LOCAL] da  também, [PESSOA], de concessionárias?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5651,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não, não. Os meninos até me perguntaram. Ainda não. Telefone, energia, isso ainda não. Eu até perguntei para o pessoal se a gente tem algum planejamento, mas eles ainda não me deram a data, tá? Mas hoje essas contas do diaLeíse [LOCAL] da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3996,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: dia ainda não estão. Depois eu passo essa apresentação para vocês, tá bom? E ele é online, não tem que ter nenhum tipo de instalação, é uma página onde a gente conecta na base de vocês, né? [EMPRESA] a integração e ele já vai recebendo tudo isso das prefeituras, tá bom? Aqui é uma carinha dele e a gente vai mostrando. Então, ele tem esse painel. O painel, eu acho ele bem bacana porque vocês conseguem ir monitorando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que tá acontecendo que você recebeu, qual foi o tipo da nota, se a gente já conseguiu fazer essa importação e aí vai trazendo todo o histórico, tá vendo? Então eu consigo ver o detalhe, data, valor, quem foi emitente, o destinatário, qual é o produto que está lá, os impostos que vieram nessa nota. Então ele já faz isso automaticamente, pensando em vocês que precisam fazer isso manualmente. Isso ele já vai estar pronto no sistema. ele também pode exportar para outro sistema, caso vocês queiram, aí vocês conseguem visualizar o PDF, pode gerar, enviar por e-mail também esse PDF, esse XML, se vocês precisarem, tudo pela ferramenta.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: E, [PESSOA], não estando disponível a nota fiscal numa dessas bases de prefeitura, etc., e a gente recebe por e-mail, ele integra com o e-mail também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Integra com o e-mail, tá vendo? Ó, integração PDF, bem na hora do vídeo. Sim, a gente configura um e-mail único, né, pra não ficar recebendo na caixa. A genteLeíse [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: tem um único. A gente tem um único.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL]. Então é essa daí, ele já identifica e já importa aqui esse PDF. E já a gente usa o OCR pra identificar, né, pra fazer toda a leitura, a extração e trazer pro Proteus. Então é possível sim, tá? Quando a gente recebe via PDF. E aí tem todas, e fora o painel, a gente também tem os relatórios de acompanhamento. Então só recapitulando, a gente recebe, então é conectado com a [LOCAL], a gente busca todos os xml emitidos, não tem xml, posso receber por e-mail PDF, a gente transforma isso e importa. Então quais são os documentos que a gente consegue fazer a busca automática. Nota Fiscal Eletrônica,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [EMPRESA] e a integração via e-mail, convertendo todo o dado em nota fiscal. Relatório, ordenamento, então a gente guarda tudo isso, a manifestação do destinatário e a possibilidade de compartilhamento dessa nota. Só passar pra outra página. Aqui também, só repetindo, né, todos os documentos que a gente faz, o monitoramento. Aí eu vou compartilhar com vocês o link das prefeituras, tá? Aí ele só, nesse vídeo, ele mostra um pouquinho a integração com o Proteus. Então vou, vou no [EMPRESA], pego o XML, populo o meu monitoramento e depois eu venho e trago o Proteus E ele já está ali como uma pré-nota. Vocês podem fazer uma validação e aceitar essa nota. Aí ele já fica já no contas a pagar. Só terminando de mostrar aqui um pouquinho. Então ele ajuda muito no dia a dia e eliminar esse retrabalho, essa necessidade do lançamento dessas notas. compartilhar essa apresentação com vocês também, tá? A configuração é super simples, aqui a gente está mostrando um pouquinho de como a gente configura. É aquele, né, faz a configuração, próximo, próximo, é muito rápida a implantação, então não é algo que requer muito tempo para começar a utilização. O valor é para o volume de notas mês. Então é um valor fixo se tiver um aumento. Vocês são avisados mas a gente acaba usando uma média do ano. Então aqui só mostrando um pouquinho essa configuração. Você fala da agilidade, da facilidade, do que a gente acabou falando um pouquinho, né? Aqui temos os links falando das prefeituras homologadas, que acho que é importante, mas as maiores já estão disponíveis e geram XML. Acabamos nos deparando com as menores, mas o e-mail resolve essa dor. E aí requisito, né? Utilizar a parte de transmissão precisa estar a partir desse release, que vocês já estão já, não teria nenhum impacto. É que às vezes a gente se depara com um cliente que tá com uma... uma versão super antiga, tá? E o monitoramento e o armazenamento possuem um certificado para guardar isso. Só repetindo, não tem uma taxa de adesão, é implantação, é só Next, Next, Next, não tem limitação de CNPJ, pode ser para 1, pode ser para 5, pode ser para 7 e não tem limitação de usuários, tá? Deixa eu mostrar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Aqui a gente tem bastante CNPJ.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCAL], não tem nenhum tipo de restrição, tá? Ah, e aqui a gente tem uma página super detalhada que fala de tudo que tá acontecendo, se teve alguma atualização do produto, ou correção, ou novidades. Então a gente tem a página do Tots Transmite, onde o cliente pode ir acompanhando tudo que tá acontecendo. todas as expedições aqui. Aqui a gente também tem uma base de conhecimento dele, falando um pouquinho de cada um. Aqui também tem o passo a passo, né? Como que o cliente pode adquirir, como o cliente faz a configuração. Então é bem documentado, por isso que a gente fala que não tem a necessidade de contratar a TOTOS para ligar o produto, sabe? O próprio cliente acaba conseguindo fazer essas configurações. Mas ele é simples, mas que ajuda muito no dia a dia, tá? Aqui fala, tá vendo novamente os documentos. Aí eu vou passando esses links pra vocês também. Fora... Eu lembro que o [EMPRESA] comentou que vocês têm um grande volume das notas das concessionárias, né? Mas fora as concessionárias, falando um pouquinho de volume das outras notas, dos outros",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: documentos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: eletrônicos, vocês têm uma ideia hoje, mensal?[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4674,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCAL]...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [LOCUTOR 2]: empresa toda, eu não sei, mas de [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4832,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Vocês lembram?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Mas a ideia é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: empresa... Eu acredito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4864,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: é em torno dos 260 por aí, se for juntar os dois grupos, por aí, 250.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5395,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Da [EMPRESA], mas acho que tem que ver o volume todo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: seria da [EMPRESA], o volume todo da empresa não tem função.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4952,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Também não sei, não, da empresa inteira.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4419,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Mas a ideia era a gente expandir para todas, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: todas, certo, certo. ComeçarLeíse [LOCAL] da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4194,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: pela [EMPRESA], né? Deixar a [EMPRESA] toda redondinha, depois a gente expandir para as outras áreas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5659,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Não, tá ótimo. Está ótimo. E aqui que eu comentei com vocês das prefeituras. Onde a gente tem a lista completa, o portal falando. Então aqui tem cidade, estado, cidade. E aí fala se está disponível, se não está disponível. Qual é o ambiente, se é o nacional ou se é da prefeitura. Qual é a versão. Então está bem completo esse material.[PESSOA] da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: é importante para vocês avaliarem. Então eu vou mandar o PDF, deixa eu só parar de compartilhar. Eu vou mandar o PDF.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4248,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Então ele já entra como, ele consegue entrar como pré-nota, ele faz o início da na etapa da pré-nota.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4915,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: já cai no Preteos com tudo. Quem foi o remetente destinatário os impostos o produto o valor pré-nota valida confirma e ele já vai para a conta apagar. E a gente armazena o PDF também. E no monitor você também consegue saber o que aconteceu, né? Como que você recebeu, se foi via integração ou foi via PDF e que quando você já mandou para o Proteus. Então o monitor, ele também, você tem todo o acompanhamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 9]: aí eu também fico devendo a data. Quando a gente vai trazer a melhoria da concessionária que é muito importante não só para vocês a gente toda agenda que eu entro tem essa tem essa dor que tem cliente que tem muita parte de algumas de telefonia porque a água é um energia um mas o de telefonia acaba tendo vários fornecedores. Então, além do material, se vocês tiverem algum ponto, se quiserem que eu marque com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: o time de especialista",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: a gente navegar e simular mesmo, além do videozinho, vocês me dão um toque, tá? Em 10 minutos ele consegue mostrar isso para vocês, mas acho que o vídeo acaba... Ainda não. O videozinho está bem didático, né? Vou compartilhar agora, táLeíse [LOCAL] da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4295,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: bom? É, o que talvez você pudesse mandar para o [PESSOA] é Eu imagino que vocês tenham um valor por volume de nota escalonado, tipo até X notas, até Y notas, e mandar para ele só uma ideia para a gente ter",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: oLeíse [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: custo disso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Tá bom, ideia de valor. Vou pegar alguns exemplos de volumeLeíse [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: notas, aí eu mando paraLeíse [LOCAL] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4841,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: você.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Aqui a gente tem o proteose da R2 Pharma e da GSH, são dois proteoses. Como é que isso funcionaria?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: volume de nota, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: Isso. Então, não tem restrição de quantidade de CNPJ e nem de funcionário. É por volume de nota. Então, pode ser 1, 2, 3, 4, não teria problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 12]: ajuda, né? Porque a gente tem cliente também que tem vários [EMPRESA], várias bases, então não tem impacto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: já vou levantar. [PESSOA], já te mando esse pacotinho no e-mail,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4567,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: que vocês precisarem, aí vocês me buscam, me mandam e-mail, ou me ligam, mandam mensagem no WhatsApp, aí eu vou apoiando vocês.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tá bom.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4684,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Muito obrigada, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA]. [LOCAL] dia.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4684,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

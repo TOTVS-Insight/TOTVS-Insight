@@ -1,0 +1,85 @@
+{
+  "id_reuniao": "1378459",
+  "codt": "T08370",
+  "data_reuniao": "2026-04-06 14:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 2]: Gente, boa tarde, tudo bem?\n[LOCUTOR 4]: Boa tarde, [PESSOA]. Como vai?\n[LOCUTOR 2]: Tudo bom.\n[LOCUTOR 1]: Boa tarde, [PESSOA] Mileni.\n[LOCUTOR 4]: Boa tarde,\n[LOCUTOR 2]: Mileni.\n[LOCUTOR 3]: Boa tarde.\n[LOCUTOR 2]: Entrei num projeto piloto de IA aqui, só que me mandaram num processo errado e entrou um consultor de vendas aqui. O meu não é comercial, vou tirar, vocês devem estar até estranhando isso aqui na reunião.\n[LOCUTOR 4]: Tá\n[LOCUTOR 2]: bem.",
+  "texto_filtrado": "[LOCUTOR 2]: Mileni.\n[LOCUTOR 2]: Entrei num projeto piloto de IA aqui, só que me mandaram num processo errado e entrou um consultor de vendas aqui. O meu não é comercial, vou tirar, vocês devem estar até estranhando isso aqui na reunião.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:32.025080+00:00",
+    "total_linhas": 10,
+    "linhas_mantidas": 2,
+    "linhas_removidas": 8,
+    "percentual_mantido": 20.0,
+    "confianca_media": 0.4259
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: Gente, boa tarde, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Boa tarde, [PESSOA]. Como vai?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4135,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tudo bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Boa tarde, [PESSOA] Mileni.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Boa tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Mileni.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Entrei num projeto piloto de IA aqui, só que me mandaram num processo errado e entrou um consultor de vendas aqui. O meu não é comercial, vou tirar, vocês devem estar até estranhando isso aqui na reunião.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    }
+  ]
+}

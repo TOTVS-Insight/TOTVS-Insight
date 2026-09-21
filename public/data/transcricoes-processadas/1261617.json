@@ -1,0 +1,2347 @@
+{
+  "id_reuniao": "1261617",
+  "codt": "118588",
+  "data_reuniao": "2026-03-17 16:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 26]: Boa tarde.\n[LOCUTOR 11]: Opa, boa tarde.\n[LOCUTOR 26]: Tudo certo?\n[LOCUTOR 11]: Tudo certo, [PESSOA], e você?\n[LOCUTOR 26]: Tudo bem também.\n[LOCUTOR 11]: Graças a [PESSOA]. Acho que o [PESSOA] deve estar acessando aí daqui a pouco.\n[LOCUTOR 26]: Vai entrar\n[LOCUTOR 11]: mais alguém nele, [PESSOA]?\n[LOCUTOR 26]: Deixa eu ver aqui no... Quem aceitou? Vamos lá, tem... [PESSOA]... Acho que não, aqui tá faltando só o [PESSOA] mesmo. O [PESSOA] acredita que não vai entrar. Se quiser já ir iniciando algum tema.\n[LOCUTOR 11]: Tá, então, a gente tá sofrendo muita lentidão aqui nas liberações de prescrição e os médicos estão reclamando bastante, a gente não consegue iniciar os projetos aqui de tempos de fila, tempos de atendimento, no pronto atendimento ali, principalmente, porque muitos médicos têm muita dificuldade de chamar o paciente ali pela fila, localizar eles, na verdade, né. E aí isso tem gerado muitos transtornos aqui pra gente, principalmente nas rotinas do pronto-atendimento, que\n[LOCUTOR 26]: é onde\n[LOCUTOR 11]: dá a maior lentidão ali dentro daquele painel de urgência e emergência. Eu percebi que quanto maior o número de senhas geradas, mais o painel fica pesado, sabe? E aí\n[LOCUTOR 26]: hoje\n[LOCUTOR 11]: isso é o que mais tá impactando na nossa rotina aqui. Isso e também nas internações, né? Nas internações a gente também notou aí que pra fazer uma cópia de prescrição médica com 10 itens, com, sei lá, mais de 5 itens que a gente identificou, tava gerando em torno de 5 minutos pra fazer uma cópia de prescrição médica. Isso também tá gerando muita dor de cabeça aqui. Tem médico que já tá desistindo de prescrever no totos.\n[LOCUTOR 26]: [LOCUTOR 9]: querendo fazer a mão, porque a mão é muito mais rápida do que pelo sistema. E isso é só a cópia, leva mais 5 minutos pra fazer a liberação. Então é em torno de 10 minutos por paciente aí. Então\n[LOCUTOR 11]: quando a gente vê aí uma prescrição de [EMPRESA], que geralmente é 25 medicamentos, entre rotinas de cuidados, 15, 18, aí cada paciente demorar em média 9 a 10 minutos não tem como, não tem\n[LOCUTOR 26]: um\n[LOCUTOR 11]: tempo muito alto.\n[LOCUTOR 26]: Sim, concordo, fica inviável para a operação.\n[LOCUTOR 11]: Isso.\n[LOCUTOR 26]: Beleza. o que eu consigo fazer para a gente tentar entender o que está acontecendo. Queria entender um pouquinho da estrutura, como hoje está instalado o ORM na infra de U6. E não sei se você tem acesso à parte de banco, à parte da instalação dos servidores mesmo, para a gente tentar pegar ali algumas métricas, ver se pode ser alguma coisa de query.\n[LOCUTOR 11]: Até\n[LOCUTOR 26]: query que o sistema faz mesmo, mas saber se ela está sendo muito aceitada ou não,\n[LOCUTOR 11]: ou\n[LOCUTOR 26]: uma otimização que a gente possa fazer ali no banco ou na configuração do RM.\n[LOCUTOR 11]: E\n[LOCUTOR 26]: em segundo momento, eu consigo [PESSOA] aqui essas lentidões e passar para o time de produto para também fazer uma análise, uma melhoria de performance.\n[LOCUTOR 11]: Beleza. Então, tem um acesso ao banco de dados aqui. Eu estou até com ele aberto aqui. Deixa eu pegar aqui. Estou com a base de produção aqui aberta pelo DBX, né?\n[LOCUTOR 26]: É o banco Oracle.\n[LOCUTOR 11]: SQL.\n[LOCUTOR 26]: Qual\n[LOCUTOR 11]: seria a query que você quer me passar aqui?\n[LOCUTOR 26]: Eu queria olhar na configuração do banco para entender como que, não sei se tem habilitado o repositório de consultas aí, eu acho que é um recurso que ajuda bastante a gente identificar queries problemáticas, \n[LOCUTOR 1]: é que eu vejo? Se eu puder ir adiantando, acho que essa parte é com o [PESSOA], mas...\n[LOCUTOR 26]: Tá. Me mostra aí o que o gerenciador do banco de dados que você está utilizando. Aqui,\n[LOCUTOR 11]: ó. \n[LOCUTOR 4]: vendo só a tela do PEP.\n[LOCUTOR 11]: Só a tela do PEP? Ah, então deve ser o jeito que eu estou apresentando. Peraí. Tela inteira.\n[LOCUTOR 26]: Aí,\n[LOCUTOR 11]: agora sim. Foi? Não,\n[LOCUTOR 26]: né?\n[LOCUTOR 11]: Aí,\n[LOCUTOR 26]: foi. Tá, pelo DBX, deixa eu verificar se dá pra gente... Melhor eu pegar o consultinho aqui pra gente ver se tá estabilitado.\n[LOCUTOR 11]: Tá.\n[LOCUTOR 26]: Vou mandar aqui na sala também.\n[LOCUTOR 11]: Você consegue\n[LOCUTOR 26]: selecionar o banco master?\n[LOCUTOR 11]: Acho que ele não foi não. Está\n[LOCUTOR 26]: aqui\n[LOCUTOR 11]: selecionado na produção.\n[LOCUTOR 26]: Deixa eu dar\n[LOCUTOR 11]: uma olhada aqui. Acho que é meu usuário, pode ser que seja.\n[LOCUTOR 26]: Acho que é o nome das colunas. Coloca só um asterisco aqui em vez de colocar o nome das colunas.\n[LOCUTOR 11]: Espera aí, rapidinho. Deixa eu só colocar aqui o [EMPRESA]. O meu está mais limitado.\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 11]: No master mesmo, né?\n[LOCUTOR 26]: Tá, agora seleciona o banco do [EMPRESA]. Qual\n[LOCUTOR 11]: que é o nome da coluna?\n[LOCUTOR 26]: E-Square Store on. Mas enquanto isso...\n[LOCUTOR 11]: Só essas aqui que estão...\n[LOCUTOR 26]: Tenta executar essa aquária aqui pra mim, que ele vai trazer as consultas mais onerosas do banco. XML,\n[LOCUTOR 11]: Data Typing... é o tipo?\n[LOCUTOR 26]: Sim, vou formatar aqui no banco local para\n[LOCUTOR 11]: deixar\n[LOCUTOR 26]: mais realidade para você. Enquanto isso, os recursos da máquina, do servidor, sabe me dizer como que\n[LOCUTOR 11]: estão,\n[LOCUTOR 26]: se está com\n[LOCUTOR 11]: recursos\n[LOCUTOR 26]: sobrando, se está chegando no limite?\n[LOCUTOR 11]: Essa parte seria o [PESSOA], deixa eu dar uma ligada aqui para ele, para ver se ele consegue\n[LOCUTOR 26]: acessar\n[LOCUTOR 11]: aqui agora.\n[LOCUTOR 26]: Eu acredito que foi bem dimensionado.\n[LOCUTOR 11]: Da última vez ele falou que estava com bastante espaço sobrando, bastante recursos sobrando.\n[LOCUTOR 26]: Falei\n[LOCUTOR 11]: com o [PESSOA], tá [PESSOA]? Ele já está acessando já. Ele falou que está chegando lá no PC. Ele vai dar mais detalhes.\n[LOCUTOR 26]: Aí.\n[LOCUTOR 51]: Boa tarde.\n[LOCUTOR 11]: Boa tarde,\n[LOCUTOR 26]: tudo bom, [PESSOA]?\n[LOCUTOR 11]: [EMPRESA],\n[LOCUTOR 26]: estou aqui.\n[LOCUTOR 51]: Tudo bom, [PESSOA]?\n[LOCUTOR 26]: \n[LOCUTOR 28]: ouvem? Sim.\n[LOCUTOR 51]: Vocês estão me ouvindo?\n[LOCUTOR 26]: Ah,\n[LOCUTOR 51]: tá.\n[LOCUTOR 11]: Estou, estou ouvindo.\n[LOCUTOR 26]: [LOCUTOR 5]: que o Edito queria saber sobre os recursos do servidor, [PESSOA].\n[LOCUTOR 51]: Ah, o que você precisa? Quais seriam os recursos?\n[LOCUTOR 26]: Primeiro, o servidor de aplicação. Eles estão na mesma máquina que o serviço de banco de dados? É só para eu entender como está a arquitetura, tá? Ou estão em máquinas diferentes? Você tem algum histórico de uso de RAM, CPU dessas duas máquinas que foram diferentes, né?\n[LOCUTOR 51]: Então, as máquinas, fisicamente, pode até ser que sejam as mesmas. Eu tenho que verificar. É porque é virtualização. Porém, são\n[LOCUTOR 26]: tr\n[LOCUTOR 29]: clusters muito potentes, né? Então, assim, pela dinâmica do hospital, o consumo das VMs, basicamente, se eu colocar todas as VMs em um único servidor desse cluster, ele ainda suporta, ele ainda sustenta, mas está distribuído entre três servidores. É feito o balanceamento de carga pela própria solução da VM. Ele tem uma\n[LOCUTOR 26]: quantidade\n[LOCUTOR 51]: de memória,\n[LOCUTOR 26]: Eu\n[LOCUTOR 51]: também de cabeça não lembro, mas é algo assim que o hospital já não alcança mais o consumo diariamente. Mas também a gente tem recurso para aumentar a memória, não seria muito\n[LOCUTOR 26]: problema. E na configuração da máquina virtual em si, quanto que está disponível para aquela máquina virtual? Porque o servidor pode ter muitos gigas, mas talvez a configuração, não sei como que é o crescimento de memória dessa máquina virtual. \n[LOCUTOR 3]: é fixa, ela é fixa e não é variável. porque a variável perderia muito o rendimento. Aí tem uma\n[LOCUTOR 26]: particularidade\n[LOCUTOR 51]: com relação ao disco dela. O disco é em SSD, porque no [LOCAL] a gente tem uma storage direta nela, com vários tipos de tecnologia de disco, no Cason 3. A VM do Pepe, ele tá especificamente, aliás, quase praticamente tudo, acho, da solução TOTUS, ele está ligado diretamente aos discos SSD de alta performance.\n[LOCUTOR 26]: Ent\n[LOCUTOR 7]: ainda tem uma particularidade que os discos também não são dinâmicos, eles são fixos, exatamente para não correr o risco de perda de performance e tentar alcançar o máximo possível da solução. Então esses produtos, assim como banco de dados, todos são discos fixos, não variáveis, todos em SSD, A memória também, a VM e tanto o cluster, eles têm bastante memória, tem folga de memória. Eu tô ligando aqui para dar uma olhada, mas eu acho que a máquina deve estar com 8 a 12 gigas. Deixa eu ver\n[LOCUTOR 26]: aqui.\n[LOCUTOR 51]: Muito obrigada. Não. Eu\n[LOCUTOR 26]: encontrei aqui o nome da coluna que eu preciso. Provavelmente vai estar desabilitada. Mas eu mandei aqui para você ali. É o actual [LOCAL].\n[LOCUTOR 11]: Beleza, deixa\n[LOCUTOR 26]: eu dar uma\n[LOCUTOR 11]: olhada aqui.\n[LOCUTOR 26]: Essa\n[LOCUTOR 11]: aqui,\n[LOCUTOR 51]: né?\n[LOCUTOR 26]: Está\n[LOCUTOR 11]: off.\n[LOCUTOR 26]: Está desligado. O que eu aconselharia a fazer? A gente habilitar o repositório de consultas no banco de produção. Pode ser por um período também, um dia, dois. E também avaliando se não vai ter um impacto. Geralmente não tem. Ele vai consumir um pouco de espaço de disco. mas ele vai registrar a cada 15 minutos, meia hora, o tempo que for determinado, o consumo de recursos pelas queries executadas no banco. A partir dessa coleta, a gente consegue entender um pouco melhor quais são as queries que mais estão onerando. Pode ser que elas estejam se comportando normalmente e o problema seja na interface. E\n[LOCUTOR 11]: aí é\n[LOCUTOR 26]: uma questão que eu verifico com o frame e com o time de produto. Mas podem haver melhorias que a gente possa fazer no banco. a criação de algum índice, não sei como está a rotina de manutenção desse banco também, desfragmentação de índice, recriação de estatísticas e coisas desse tipo.\n[LOCUTOR 51]: Não, então, com relação ao banco, existe uma aprovação diária, se não me engano, tenho que olhar aqui, com relação ao índice. Porém, aí vai entrar numa particularidade que já tinha descoberto alguns anos atrás, O banco, o [EMPRESA], ele tem, assim, das análises que eu fiz algum tempo atrás, eu parei até de fazer isso, eu senti falta de muito índice, tá? Índices, inclusive, com incremento de mais de um milhão de por cento de impacto. No começo, eu criava esses índices e realmente melhorava, porém, toda vez que a gente tinha que aplicar um patch, era um problema,\n[LOCUTOR 26]: né?\n[LOCUTOR 51]: Algumas vezes não dava nenhum problema, mas outras, quando a gente precisava de fato aplicar em produção e tudo mais, dava erro no processo de atualização e aí isso começou a criar um transtorno muito grande. Eu desfiz todos os links que eu criei. Porque eu criei com nome específico, eu criei um padrão em particular exatamente para diferenciar o que é nativo da [LOCAL].\n[LOCUTOR 26]: E\n[LOCUTOR 51]: aí eu desfiz e nunca mais eu analisei mais essa questão de criação de índice, né?\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 51]: Então o que a gente tem são rotinas automáticas no banco de produção que ele verifica a questão do índice, ele faz a otimização do índice, se precisar recriar ele já recria também. Aí com relação a AVM que a gente estava conversando, a máquina tem 16 GB de memória, está com 55% de consumo agora. Para\n[LOCUTOR 26]: subir\n[LOCUTOR 51]: também está baixíssimo, está 8% de consumo. Então, assim, aparentemente é uma AVM que está com 12 GB de CPU e está com muita folga, então nem precisava tanto assim.\n[LOCUTOR 26]: mas é que\n[LOCUTOR 51]: realmente a gente vai constatando problemas o tempo todo em torno disso e a gente começa a desconfiar de tudo um pouco, então ela tá com muita folga de processamento e memória eu particularmente nunca vi passar de 65%, né, desde\n[LOCUTOR 26]: a hora\n[LOCUTOR 51]: do ajuste que a gente fez. Então assim, nesse momento ela tá com 55%, lembrando que a interface de rede dela, a gente tem um outro particularidade da solução, vou até confirmar aqui antes de falar. Ela... É isso mesmo. A solução como um todo, ela é 10 gigas, tá? Então, para a rede, chega a 1 giga, porque o switch, onde os clientes estão conectados, é de 1 giga. Porém, dentro do datacenter, ela opera a 10 gigas. E como a storage, ela não é um equipamento à parte, Ela é uma solução integrada a [EMPRESA] da [EMPRESA], então ela não sofre com saltos. A controladora dela já é junto da solução onde ficam os clusters. Então, tem momentos aqui que a gente consegue praticamente 1.800 MB de transferência entre os clusters. Entre as VMs isso não acontece, ele fica limitado a 10 GB. mas entre os clusters, ele opera na parte física, ele chega a uma taxa muito alta. Então assim, a gente tem... basicamente assim, a gente tem muita velocidade, né?\n[LOCUTOR 26]: Entendo. Então concordo, porque realmente tá bem proporcionado o ambiente, tem recursos de hardware sobrando.\n[LOCUTOR 51]: Eu vou olhar até o\n[LOCUTOR 26]: rosto que n\n[LOCUTOR 7]: tá\n[LOCUTOR 26]: alocado\n[LOCUTOR 51]: aqui, só pra gente falar se não tá, né. Tem muita VM misturada no [LOCAL], mas acredito que não. Mesmo que estivesse, ele não acompanharia muito do recurso. Ele está no [LOCAL] 3. O banco de dados está no [LOCAL] 2. O banco de dados é um vilão. Tá em máquina física separada. O portal... Dois portais a todos. Também tá indiferente, tá no [LOCAL] 1. E um tá no [LOCAL] 3, junto com o [EMPRESA]. Mas são poucas máquinas no mesmo [LOCAL] que o [EMPRESA] aqui. Tem apenas seis servidores, pouca coisa.\n[LOCUTOR 26]: [PESSOA]. Eu estou me recordando aqui de uma situação de uma lentidão específica nessa tela que envolvia uma lentidão no carregamento do grid. Estou vendo o pessoal de produto aqui para a gente... Talvez saia algum patch\n[LOCUTOR 51]: de\n[LOCUTOR 26]: correção para isso. Pensando também na questão dos índices que a gente estava falando, de alinhar com o time de produto, o time de atendimento, um processo para que, caso você identifique a falta de um índice, seja aberta uma demanda e o produto tente incorporar esse índice na solução e que saia num patch, para que não aconteça do...\n[LOCUTOR 51]: Só\n[LOCUTOR 26]: um minutinho que eu vou entrar pelo celular. Estão me vendo?\n[LOCUTOR 51]: Estou\n[LOCUTOR 11]: ouvindo.\n[LOCUTOR 26]: Em\n[LOCUTOR 11]: [PESSOA] então? No caso ali da urgência e emergência que você estava falando, né? Esse vai sair um patch de correção.\n[LOCUTOR 26]: Eu estou confirmando aqui, porque eu vi uma situação parecida nessa tela quando ela estava com muitas senhas. vou verificar com o mídio produto aqui se já existe alguma correção, como que foi dado andamento para isso, e também vou verificar com eles, aí eu posso passar o entorno para vocês, de um processo para inclusão de índices no produto, caso seja identificado ali por vocês, para que saia via [EMPRESA] e não haja essa situação de... de vocês criarem o índice e o patch vir e gerar algum problema.\n[LOCUTOR 11]: \n[LOCUTOR 14]: também isso eu vou verificar e aí eu tento fazer um apanhado e tentar passar um processo para vocês sobre isso. E aí, gostaria de reiterar lá a sugestão de habilitar o repositório de consultas ou alguma outra ferramenta que vocês tenham de análise aí, porque o [PESSOA] falou que já fazia essa análise anteriormente. para identificar algumas consultas que também possam estar interferindo nessa tela. Esse repositório de consultas, [PESSOA], você habilita, então?\n[LOCUTOR 51]: Na hora que eu conectei, ele falou sobre isso. O que seria exatamente isso? A funcionalidade lá do banco?\n[LOCUTOR 26]: Isso. Eu costumo usar o repositório de consultas para fazer esse tipo de análise. Eu não sei como você estava fazendo essa verificação. Existem outras formas também, mas pode falar.\n[LOCUTOR 51]: Não, pode ser. Normalmente, normalmente eu utilizo o script aqui que o Fax coleta, três fichas aqui em tempo de execução, e aí dessas análises aí, do que é coletado eu consigo analisar alguma coisa, mas também pode ser.\n[LOCUTOR 26]: Tá. Essa funcionalidade do SQL Server, ela ocupa um certo espaço do disco, mas você pode configurá-la\n[LOCUTOR 51]: e\n[LOCUTOR 26]: também pode habilitar por um tempo e depois desabilitar, que\n[LOCUTOR 51]: ele\n[LOCUTOR 26]: vai fazer uma estatística de todas as queries que estão sendo executadas e te mostrar quais são as que mais consomem CPU, as que mais consomem [PESSOA] Ele já traz o plano de execução das queries também, mostrando se precisa de índice ou não, e aí a gente pode deixar analisando\n[LOCUTOR 51]: um\n[LOCUTOR 26]: dia ou mais, de acordo com o que vocês preferirem, e fazer uma análise disso. E aí, tendo que criar índices, tem que ver com o time de produto a viabilidade de fazer isso via patch.\n[LOCUTOR 51]: Tá, eu vou fazer o seguinte, eu vou pegar um horário mais ou menos de meia-noite, que é o que está mais tranquilo,\n[LOCUTOR 26]: Eu\n[LOCUTOR 51]: aplico aqui, aí você quer uma coleta de uns dois dias, mas eu acho que um dia é muito pouco.\n[LOCUTOR 26]: Tá bom, pode ser.\n[LOCUTOR 51]: Hoje sendo terça-feira, aí eu estopo ele no final do dia da quinta,\n[LOCUTOR 26]: mas\n[LOCUTOR 51]: na sexta-feira eu tenho disponibilidade.\n[LOCUTOR 26]: Tá, e aí você vai fazer via, só para confirmar, via 3 ou via repositório de consulta?\n[LOCUTOR 51]: Não, eu faço via repositório de consulta.\n[LOCUTOR 26]: Tá bom. E aí você me manda ou eu analiso, ou também se você já tiver feito uma análise prévia, pode já mandar os resultados que você achar relevante\n[LOCUTOR 51]: e\n[LOCUTOR 26]: a gente endereça isso.\n[LOCUTOR 11]: para ele te mandar para aquele e-mail que você mandou o convite para a gente, né, [PESSOA]?\n[LOCUTOR 26]: Pode ser por lá.\n[LOCUTOR 11]: Beleza. Já anoto aqui. Então tá, então você vai dar o retorno para a gente sobre aquela questão do painel da urgência e emergência, que está travando quando a gente tenta mudar as filas ali, né? E\n[LOCUTOR 26]: essa\n[LOCUTOR 11]: questão das consultas relacionadas à prescrição médica, né?\n[LOCUTOR 26]: Sim. Ele\n[LOCUTOR 11]: vai trazer tudo, na verdade, né?\n[LOCUTOR 26]: Sim,\n[LOCUTOR 11]: vai\n[LOCUTOR 26]: trazer tudo e aí...\n[LOCUTOR 11]: se\n[LOCUTOR 26]: tiver alguma específica do [EMPRESA], ele já vai mostrar\n[LOCUTOR 11]: ali\n[LOCUTOR 26]: como os maiores consumos e daí eu posso também procurar alguma queria específica para a gente analisar.\n[LOCUTOR 11]: É, porque eu fiz um um assessment com, esqueci o nome do rapaz agora, é...\n[LOCUTOR 26]: [PESSOA]?\n[LOCUTOR 11]: não, foi com outro, acho que foi [PESSOA], deixa eu lembrar, [PESSOA], [PESSOA], e aí ele falou para eu mapear as rotinas que mais estavam lentas, não só no PEP, mas também no sistema, e eu havia falado com ele sobre as rotinas de processo farmacêutico, de devolução da prescrição médica, tem dia, aí assim, a gente já está analisando porque [LOCAL] funciona bem e tem dias que não. Tem dia que a gente faz um... Tenta selecionar aqui, ó, o paciente. Cara, demora uns 4, 5 minutos só pra selecionar o paciente. quando a gente tenta fazer a devolução de medicamentos da prescrição médica, né? Só eu criar a devolução aqui, tentar selecionar o paciente, demora de 4 a 5 minutos. E aí, toda a rotina, ela é muito pesada, ela é muito lenta. Aqui, a gente faz a devolução via nome do paciente, né? E aqui a gente escolhe o paciente que quer fazer a devolução. Então aqui eu coloco, por exemplo, paciente teste aqui, que eu sei que está internado. Hoje ele está indo bem, mas tem dia que essa tela aqui trava. Entendeu? E aí a gente não sabe o motivo desses dias sim, está bem, dia não, não está, se é pelo número de pacientes também, eu não sei, o que ele carrega\n[LOCUTOR 26]: aqui,\n[LOCUTOR 11]: acho que é o leito zero. E aqui é a primeira parte da lentidão. A segunda parte é quando a gente bipa. Quando a gente bipa aqui o código do item para ser devolvido, depois ele trazer aqui na listagem, ele demora de 2 a 3 minutos para trazer um item. Aí às vezes a gente precisa devolver a prescrição inteira com 36, 40 itens, aí imagina como é que fica. Então, assim, essa parte aqui de processo farmacêutico é outra que demora bastante mesmo para carregar as funcionalidades. Então, assim, nesse repositório de consultas isso provavelmente vai buscar também, né?\n[LOCUTOR 26]: Sim, se for uma questão de query vai aparecer lá como uma query que está demorando muito tempo.\n[LOCUTOR 11]: Eu\n[LOCUTOR 26]: até lembrei agora de uma de uma outra funcionalidade que a gente pode dar uma olhada. Aqui mesmo no RM, vai no\n[LOCUTOR 11]: menu\n[LOCUTOR 26]: da esquerda.\n[LOCUTOR 11]: Qual? \n[LOCUTOR 15]: primeiro menu, do lado de cadastro.\n[LOCUTOR 11]: Aqui.\n[LOCUTOR 26]: Serviços biodais. Ambiente. Ambiente. [PESSOA] do sistema.\n[LOCUTOR 11]: [PESSOA] do\n[LOCUTOR 26]: sistema.\n[LOCUTOR 11]: [PESSOA] do [PESSOA] sistema. [PESSOA] do sistema. [PESSOA] [PESSOA] do sistema. [PESSOA] do sistema. [PESSOA] do sistema. \n[LOCUTOR 50]: do sistema. [PESSOA]\n[LOCUTOR 11]: do sistema.\n[LOCUTOR 26]: [PESSOA] do sistema.\n[LOCUTOR 11]: [PESSOA] do sistema. [PESSOA] [PESSOA] do sistema.\n[LOCUTOR 51]: [PESSOA] do sistema.\n[LOCUTOR 11]: [PESSOA] do sistema. [PESSOA] do sistema. [PESSOA] do sistema.\n[LOCUTOR 26]: [PESSOA] do sistema.\n[LOCUTOR 11]: [PESSOA]\n[LOCUTOR 26]: Alguns erros de comunicação com o server.\n[LOCUTOR 11]: Quando\n[LOCUTOR 26]: tem uma query muito lenta, ela aparece aqui também. Tem uma linha de execução muito lenta de query abaixo.\n[LOCUTOR 11]: \n[LOCUTOR 20]: você colocou? Aqui na mensagem ou não?\n[LOCUTOR 26]: Isso, na mensagem.\n[LOCUTOR 11]: Aqui, ó.\n[LOCUTOR 26]: Dá dois cliques nela para abrir a...\n[LOCUTOR 11]: Aí\n[LOCUTOR 26]: aqui nessa mensagem, nesse texto, vai aparecer a query que está Então, pode ser que tenha alguma coisa com relação à configuração de jobs\n[LOCUTOR 11]: do\n[LOCUTOR 26]: ambiente e comunicação com o [EMPRESA].\n[LOCUTOR 51]: Isso\n[LOCUTOR 11]: aqui é do RH. Tá.\n[LOCUTOR 26]: E da saúde, usuários de saúde.\n[LOCUTOR 11]: Dá para a gente filtrar aqui, [LOCAL], muito lenta.\n[LOCUTOR 26]: Aqui,\n[LOCUTOR 11]: a farmácia. Isso aqui é o processo farmacêutico.\n[LOCUTOR 26]: A\n[LOCUTOR 11]: gente\n[LOCUTOR 26]: pode tentar rodar essa query e ver o plano de execução dela e entender se tem algum... Algum problema de índice ou algo do tipo.\n[LOCUTOR 51]: Você\n[LOCUTOR 11]: fala eu copiar isso aqui e rodar ela lá, executar lá no DBX?\n[LOCUTOR 26]: Sim. Eu não costumo usar o DBX. Eu não sei se ele tem a visualização de plano de execução. Acho\n[LOCUTOR 11]: que não. Não, né, [PESSOA]?\n[LOCUTOR 51]: Não, tem não. Mas ele é bem simples.\n[LOCUTOR 26]: [LOCUTOR 8]: para consulta é simples mesmo. Aí lá embaixo você vai ter que trocar os parâmetros da\n[LOCUTOR 11]: query. Dos parâmetros da data de hoje.\n[LOCUTOR 26]: Vai\n[LOCUTOR 11]: ter só no 21, né, [PESSOA]? O Microsoft SQL serve lá?\n[LOCUTOR 51]: Eu acho que tem nas duas máquinas de suporte. A de homologação e produção.\n[LOCUTOR 11]: 021 não, 221.\n[LOCUTOR 26]: Seria interessante também exportar para mim esses logs, para eu dar uma\n[LOCUTOR 11]: analisada\n[LOCUTOR 26]: e tentar identificar mais alguns pontos. E eu acabei não perguntando, o sistema de vocês tem qual versão?\n[LOCUTOR 11]: 25.06. Na verdade, acho que está no patch menos atual do que esse aqui.\n[LOCUTOR 26]: Aqui você consegue, depois ali na aba de\n[LOCUTOR 11]: ambiente\n[LOCUTOR 26]: dá para visualizar a versão. No\n[LOCUTOR 11]: ambiente? No sobre? No\n[LOCUTOR 26]: sobre, sim. Eu teria\n[LOCUTOR 11]: que ter um código da requisição também. Qualquer um, né? Deixa eu tirar isso aqui. Eu vou pegar um aqui. Peraí, não é aqui não. Deixa eu sair aqui e vir aqui.\n[LOCUTOR 26]: A\n[LOCUTOR 11]: tela tá aqui aberta. Vou pegar um acaso aqui. Vou colocar o mesmo aqui embaixo. Aqui. 0, 9, 3, 17, não é isso?\n[LOCUTOR 26]: Isso\n[LOCUTOR 11]: é padrão. O que mais? Deixa eu ver aqui.\n[LOCUTOR 26]: Marca ali.\n[LOCUTOR 11]: [LOCAL]?\n[LOCUTOR 26]: Perto de onde você mandou executar, tem três caixinhas ligadas por uma linha. Mais para o lado. Não. Pode pausar aqui.\n[LOCUTOR 11]: Aqui? Aqui?\n[LOCUTOR 26]: Isso. Aqui tem uma verde. Essa\n[LOCUTOR 11]: aqui, né? Pode executar?\n[LOCUTOR 26]: Pode. Aqui embaixo ele até mostrou que tem uma possibilidade de criação de índice. Salva, por favor, esse botão direito aí. Onde estão aparecendo as caixinhas aqui embaixo. Aqui embaixo.\n[LOCUTOR 11]: \n[LOCUTOR 18]: embaixo onde ele mostrou os resultados. Aqui?\n[LOCUTOR 26]: Isso. Salva o plano de execução.\n[LOCUTOR 11]: Vou colocar aqui teste 17 do 3, 26. Tipo andar lá, né?\n[LOCUTOR 26]: Sim, por favor. E aí eu vou ver o time de produto. Existe a possibilidade de ser criado esse índice, se ele já não existir, de alguma outra forma, que só precisa alterar o índice existente, mas é possível criar ambiente de vocês. E quando for aplicar determinado patch, para corrigir essa falta de índice, deleta o índice e só roda o patch. Não sei se ficou claro, mas...\n[LOCUTOR 11]: Tá, vai criar o índice. Se precisar atualizar o patch, é só deletar o índice. \n[LOCUTOR 15]: [PESSOA] pode... analisar e ver se faz sentido criar o índice manualmente ou aguardar a gente ver a possibilidade de criar via patch.\n[LOCUTOR 11]: Então, no caso, a gente teria que pegar todas aquelas lá que estão aparecendo aqui no [PESSOA] de execução muito lenta, ver o que a gente identifica aqui que tem que ser criado o índice e sair criando o índice?\n[LOCUTOR 26]: Sim, essa é uma abordagem que pode ser tomada. Porque mesmo que vocês mandem para a gente essas queries, a forma como ela vai ser executada no banco de vocês pode ser diferente da que eu vou executar num banco aqui de desenvolvimento ou algum de homologação nossa. Então, o ideal é que esses planos de execução venham do banco de vocês. E aí, pode ser que boa parte dessas queries um índice ajudaria a melhorar a performance delas. Só que é trabalhoso e vai depender da disponibilidade de vocês.\n[LOCUTOR 51]: É, e a questão também do... Tem que ver também o impacto do índice, né? Porque o índice, de certa forma, ele também gera um impacto, um efeito colateral.\n[LOCUTOR 26]: Se\n[LOCUTOR 51]: a tabela for muito grande, o índice for grande, vai consumir ainda mais espaço. Tem que\n[LOCUTOR 26]: ser\n[LOCUTOR 51]: isso mesmo.\n[LOCUTOR 26]: Opa, eu te cortei pra te falar.\n[LOCUTOR 51]: Não, não, tranquilo, eu só tinha completado.\n[LOCUTOR 26]: Além de consumir espaço, Ele tem um trade-off que é, dependendo do tipo de operação, ele pode consumir mais na inclusão de um registro. Então, se é uma query numa tabela que tem pouca inclusão, criar um índice novo vai consumir espaço, mas como não tem pouca inclusão, o impacto nesse tempo de inserir um registro pode ser pequeno. Agora, se é uma tabela que tem muita inclusão de registro, e o índice é muito grande, aí pode afetar o tempo de gravação de registros. Mas,\n[LOCUTOR 51]: enfim,\n[LOCUTOR 26]: precisa ser analisado tabela por tabela, situação por situação, para ver os ganhos e as perdas que a criação do índice pode gerar.\n[LOCUTOR 11]: Então, meio que a gente voltou à estaca zero, né, [PESSOA]? Que antes você fazia isso, mas como cada atualização de patch você teria que excluir tudo, depois recriar de novo, meio que é a mesma coisa, né?\n[LOCUTOR 26]: Agora.\n[LOCUTOR 51]: É, mas é a mesma coisa e não é, porque ele tá propondo, ele vai propor internamente lá, que a gente consiga, como cliente, apontar alguma situação, abrindo uma demanda,\n[LOCUTOR 11]: para\n[LOCUTOR 51]: eles incorporarem no [EMPRESA]. Eles vão avaliar e incorporar no [EMPRESA]. Então, de certa forma, a gente vai ter uma melhoria, né?\n[LOCUTOR 11]: Sim, se for incorporado, né?\n[LOCUTOR 51]: É, não no tempo que a gente precisa, mas quando sair o [EMPRESA], pelo menos aquilo vai estar lá dentro. Então a gente teria que retomar as análises que eu fazia antes, recriando o índice. E eu acho que eu vou fazer diferente, eu vou montar um script aqui, para que quando eu for realizar a atualização, eu destrua todos eles. Aí depois da atualização eu recrio novamente, porque senão a gente vai ficar tendo aqueles erros lá que tinha, né?\n[LOCUTOR 11]: Aham, eu lembro.\n[LOCUTOR 51]: E como essa questão de atualização de [EMPRESA] aí é uma constância muito grande no hospital, atualiza um e no dia seguinte já tá testando outro para ver se se resolve um remendo que ficou descoberto, né? Então vai dar um trabalho, mas eu acho que vai ter que ser o caminho.\n[LOCUTOR 26]: Apesar de não ter conseguido olhar exatamente aquela situação que você trouxe ali da senha e tal, mas eu acho que tem um um caminho mais amplo que vai ajudar tanto nessa query que você mostrou aí, que está com uma situação de índice, que é um dos processos que é presente entre a lentidão, e também pensar na melhoria do processo geral de comunicação, de melhorias de índices que a gente possa colocar aqui.\n[LOCUTOR 51]: Uma dúvida, o PEP, ele utiliza tabelas específicas com ele ou... ele consome as tabelas de vários módulos ali para a questão do estoque e tudo mais?\n[LOCUTOR 26]: Pelo que eu conheço, ele utiliza as tabelas do saúde e aí quando ele precisa ele pode se comunicar com os demais módulos e aí utilizar a tabela de outros módulos também.\n[LOCUTOR 51]: É porque a [LOCAL] ela segue meio que um padrão assim de nomenclatura de tabela, que as iniciais mais ou menos entende, identifica qual é a, não diria funcionalidade, mas qual é o subsistema ao qual faz parte. Por exemplo, a parte de atendimento, as tabelas tendem a iniciar com alguma coisa que identifique atendimento, né? Eu não sei se é tudo [EMPRESA],\n[LOCUTOR 11]: que\n[LOCUTOR 51]: no caso seria negócio de fila de atendimento, esse tipo de coisa. Quando é estoque, tem também uma identificação, uma particularidade.\n[LOCUTOR 11]: \n[LOCUTOR 19]: caso do PEP, eu acho que o PEP consome um pouco de tudo isso. Talvez o que seja um particular deles sejam tabelas estruturantes, mas, assim, o pensamento que eu estou tendo, não tenho certeza sobre isso, mas eu acho que talvez o problema relacionado a índice não seja nas tabelas do PEP em si, mas sim aquilo que ele consome dentro da aplicação dele, que são das outras, dos outros subsistemas, diria isso, seria mais ou menos isso, né?\n[LOCUTOR 26]: Sim, aí a gente tem que olhar pelo plano de execução que ele vai pontuar ali qual uma subquery ou alguma outra tabela que ele tá fazendo um join que tá precisando de um int pra melhorar.\n[LOCUTOR 51]: Uma outra dúvida talvez você não saiba mas assim é sobre o Totus Audit. O Totus Audit ele é um vilão ao mesmo\n[LOCUTOR 26]: tempo\n[LOCUTOR 51]: que\n[LOCUTOR 26]: ele\n[LOCUTOR 51]: é a solução para alguns alguns riscos. Eu não sei como é que tá a questão do [EMPRESA], eu acho que eu vou ter que dar uma revisada nisso junto com a [PESSOA], porque, por exemplo, eu fiz uma análise rápida aqui de índice. Das cinco primeiras tabelas com problema de índice, duas é [EMPRESA]. E dentre as dez, quase todas é sobre estoque, movimentação de estoque ou atendimento.\n[LOCUTOR 11]: Que é onde a gente mais faz movimentação.\n[LOCUTOR 51]: Dos atendimentos, assim, batendo o olho, eu te digo que tem uma, duas, três... Entre as dez, tem três tabelas impactando. E a top um é de atendimento. Fila atendimento, ela tá com incremento de 1 milhão 101%.\n[LOCUTOR 11]: É, nós inclusive, foi eu e o [PESSOA], o [PESSOA] precisava gerar uns relatórios de atendimento para um [EMPRESA], e aí ele detectou que as tabelas, a gente teve que auditar elas para pegar cada etapa do processo da fila, do fila do aguardando, em atendimento, atendido. E aí a gente colocou acho que é [EMPRESA] classificação risco\n[LOCUTOR 26]: para\n[LOCUTOR 11]: auditar e aí do TOPS Audit ele traz essa informação em [EMPRESA], [PESSOA].\n[LOCUTOR 51]: Então\n[LOCUTOR 11]: pode ser que seja isso.\n[LOCUTOR 51]: Aí tem algumas particularidades em torno de questões de query com banco, porque assim, se você na query utiliza campos específicos para fazer correlacionamento filtro, e estes não fazem parte do índice, automaticamente o [EMPRESA] vai degradar, por não ter índice. Aí, a [LOCAL], nesse caso, ela não previu isso, porque ela fez os índices baseados nas consultas, nos filtros que ela tem lá na aplicação. E se sai muito desse controle, aí realmente a gente começa a ter muito problema de falta de índice. A gente precisa achar um meio tempo. Normalmente, quando é relacionado à [EMPRESA], A atualização não pode ser em tempo real, porque senão traz impacto. E algumas vezes a gente faz uma cópia do banco para trabalhar o [EMPRESA] com essa cópia. Teria que verificar isso também. Inclusive no próprio RM lá dá para criar uma interface conectando a outro banco com outro usuário. para dentro do próprio RM lá nos cubos vocês conseguirem conectar nativamente ao outro banco.\n[LOCUTOR 11]: Nesse caso foi no INOU, acho que talvez no INOU dê pra fazer. Ele precisa extrair o tempo de atendimento de cada fila, em cada fase que ela tá. Quando o paciente tira a fila, ela entra numa fase. Desculpa, quando ele tira a senha ali no pronto atendimento. Ele vem, pega a senha e fica numa fase. Quando a atendente chama, o guichê chama, ele entra numa outra fase. E a\n[LOCUTOR 35]: ele\n[LOCUTOR 11]: precisa contabilizar a cada fase quanto tempo de atendimento durou para a gente saber.\n[LOCUTOR 51]: Mas\n[LOCUTOR 11]: esses\n[LOCUTOR 51]: dados esses dados que o pneu está conectando é produção produção. Aí não pode.\n[LOCUTOR 11]: produção? Não pode. Deixa eu até ver aqui o gráfico que ele criou aqui, foi esse preço aqui ó, filas de atendimento, cadê filas? Tempo do pronto atendimento, que aí ele precisa extrair aqui o tempo de cada fase da senha.\n[LOCUTOR 51]: Essa execução, essas execuções que você tá fazendo nas consultas aí, tá gerando concorrência com o [LOCAL].\n[LOCUTOR 11]: Ah, entendi.\n[LOCUTOR 51]: É por isso que normalmente [EMPRESA] a gente faz separado, uma cópia do banco, ou, por exemplo, no governo, que são milhões de dados lá, a gente faz extrações na madrugada e no dia seguinte a gente trabalha com dados de menos um, sempre com atraso de um dia e não gera concorrência.\n[LOCUTOR 11]: Então a gente pode rever essa parte aí com o [PESSOA] quando ele voltar, que aí a gente... \n[LOCUTOR 24]: que se estruturar de repente para ter uma base replicada para vocês trabalharem livremente nela, considerando sempre que ela vai ter uma atraso de um dia.\n[LOCUTOR 11]: [EMPRESA]. Aí tem esse e tem o atendimento, o andamento da essência do [EMPRESA]. Esse aqui ele é em tempo real, mas foi um projeto aqui que a gente desenvolveu porque a gente precisava mapear o tempo de espera dos pacientes, que eles estavam reclamando muito que passavam o dia todo aqui no 9 de julho, então acho que nem é essa apresentação que eu não tô pegando agora.\n[LOCUTOR 51]: Mas o ideal tamb\n[LOCUTOR 2]: não é\n[LOCUTOR 51]: o [EMPRESA] conecta-se em produção de maneira alguma. Por exemplo, assim, é que nem a solução TOTUS, o [EMPRESA] TOTUS, que é o Fast Analytics. Ele faz, com base em queries, extrações no bloco de produção. E a\n[LOCUTOR 6]: a\n[LOCUTOR 51]: gente pode particularizar situações, se você entenda que tem uma urgência maior, e aí ele... Trabalhar para ele fazer uma extração de hora em hora.\n[LOCUTOR 11]: [EMPRESA].\n[LOCUTOR 51]: O resto você deixa D-1 e esse aqui é de hora em hora, tudo bem, aí você começa a minimizar. Aí entenda que a extração tira os dados naquele instante e carrega para uma estrutura, nesse caso em particular, da TOTOS. Então quando você acessa o [EMPRESA], você não está lendo o banco de produção, você está gerando concorrência, lendo os dados no banco da [LOCAL].\n[LOCUTOR 11]: [EMPRESA]. O único\n[LOCUTOR 51]: momento que ele vai gerar carga no banco de produção é sempre nos momentos de extração, que aí você tem uma liberdade de fazer ajustes de horário, quantidade por dia, uma vez por semana, uma vez por mês, conforme cada cenário, cada décimo de cada mergulho de dados que você precisa fazer.\n[LOCUTOR 11]: [EMPRESA].\n[LOCUTOR 26]: Do\n[LOCUTOR 11]: [LOCAL] Audit, o que a gente habilitou recentemente, que foi o que você falou aí, foi essa da classificação de risco, a [LOCAL] Classifique Risco. Sobre as tabelas ali do PEP, [PESSOA], ele utiliza não só a [LOCAL] prescrição ali, item prescrição e várias outras de dietas também, como também a gente percebeu aqui em alguns testes, que se eu vi aqui, antes de eu entrar no PEP, Ele faz a validação do usuário, né? Então ele usa as tabelas lá do módulo pra saber se ele tem permissão de prescrever, de visualizar, enfim. E a mesma coisa nós percebemos também naquela análise que a gente viu da impressão, né? Quando eu digo na... Aqui no perfil do usuário, quando eu digo que ele não pode acessar campos sensíveis, que eu acho que tem a ver com todos os Audit, eu não lembro agora bem, mas aqui é quando eu configuro que o usuário não pode acessar alguns campos sensíveis, como CPF, telefone, que é o que a gente tinha feito uma vez, uma configuração, ao eu imprimir qualquer relatório aqui do PEP, ele tem, ele monitoriza isso, ele não, nenhum relatório do [PESSOA], nenhum relatório criado lá no repórter, ele traz os campos, entendeu? Então, assim, ele faz, sim, consultas além das tabelas de prescrição. Não sei se eu\n[LOCUTOR 51]: fiquei\n[LOCUTOR 11]: clara,\n[LOCUTOR 51]: mas... Eu entendi, por exemplo, dos 13 índices que eu tô na tela, O segundo e o terceiro é ZSZ, classificação risco,\n[LOCUTOR 11]: do \n[LOCUTOR 10]: Audit. Os dois estão com mais ou menos 760 mil por cento de incremento. E\n[LOCUTOR 11]: eu ainda\n[LOCUTOR 51]: tenho o décimo segundo aqui, é a tabela G permís, de permissão, que também está com 132 mil por cento de incremento.\n[LOCUTOR 11]: De permissão.\n[LOCUTOR 51]: Então, muito provável, se eu fizer aquele pente fino aqui, Vocês vão ter algum resultado, mas com o banco em cima do, desculpa, o [EMPRESA] em cima do banco de produção, é assim, a gente vai remar de um lado e vai puxar do outro.\n[LOCUTOR 11]: [EMPRESA].\n[LOCUTOR 26]: A\n[LOCUTOR 6]: a gente teria que fazer uns dados offline, digamos né?\n[LOCUTOR 51]: É, eu posso trabalhar para replicar o banco em determinado horário e você fica olhando esse banco. Aí tem que ver lá como é que vai ser no [EMPRESA], o que vocês julgam necessário de ser em tempo real e isso tem que ter um olhar muito crítico. Por enquanto a gente deixa apontando para produção, então teria que ser o [EMPRESA] trabalhar com duas fontes de\n[LOCUTOR 11]: [EMPRESA]. E aí só só o que é o agora a gente deixar na produção direto né.\n[LOCUTOR 51]: É só o que é de atualização online e analisar de fato se é pesado ou não porque se for deixar online mas é muito pesado também não vai valer muito a pena né senão a gente não vai resolver.\n[LOCUTOR 11]: Tem\n[LOCUTOR 51]: que tem que analisar tem que ponderar.\n[LOCUTOR 11]: Não, beleza. Eu vou eu vou sentar com o [PESSOA] pra gente mapear como é ele que tá na frente dos BIAIS.\n[LOCUTOR 51]: Eu vou\n[LOCUTOR 11]: mapear com ele certinho. Mas de qualquer forma ali pro [PESSOA] a gente vai enviar esses relatórios pra ele pra ver o que ele consegue ajudar a gente ali.\n[LOCUTOR 51]: A princípio hoje à noite eu já tive o que a gente acordou mas eu não vou mexer em nada em índice por enquanto exatamente pra dar pra ter evidências lá pra não alterar nada do cenário. E aí, na sexta-feira, eu entrego e eu começo a trabalhar nos índices.\n[LOCUTOR 11]: Beleza.\n[LOCUTOR 26]: E se vocês quiserem mandar o print da tela que está apresentando lentidão, eu vi ali que é a tela de senhas e a de prescrição de medicamento, que você falou que tem o [PESSOA] ali do paciente, ele demora um tempão para prescrever. mas ajudaria a documentar e também a direcionar para os times.\n[LOCUTOR 11]: Beleza, eu vou gravar. Uns eu gravei aqui, o tempo que dá quando eu faço uma cópia de prescrição. A gente pegou todos esses tempos aí. Foi 5 minutos para fazer uma cópia de prescrição vigente para a futura, mais 5 para liberação. A outra foi aquela que nós vimos lá na classificação de risco. Uma outra foi no processo da devolução, que são nas movistoques, né, de estoque. São bem lentos. Essas daí todas eu fiz vídeo.\n[LOCUTOR 26]: [PESSOA]. Ajuda bastante a gente a rastrear aqui o problema. E até depois de ouvir a questão do [EMPRESA], também tentar identificar se o uso do [EMPRESA], quando ele está fazendo aquelas queries, não causa uma lentidão maior nessa prescrição. Porque até você mostrou aí que hoje está tranquilo. Mas em\n[LOCUTOR 11]: algumas situações\n[LOCUTOR 26]: ali, apresenta alguma lentidão.\n[LOCUTOR 11]: O [EMPRESA] nunca influenciou muito não, até porque são poucas pessoas que acessam o [EMPRESA], acho que de duas ou três pessoas aqui dentro que acessam e é muito raro, é para uma situação específica que ela quer anotar. A\n[LOCUTOR 26]: gente tem\n[LOCUTOR 11]: aí alguns painéis criados em tempo real, né, que a gente colocou lá nos atendimentos, painéis de internados, então cada posto tem o seu painelzinho, né, posto, farmácia, mas são pesquisas bem, bem leves assim, não tem muita coisa não, é mais de, deixa eu lembrar aqui, apresentações. A gente tem alguns painéis aqui. Essas apresentações aqui, elas são configuradas para cada um minuto elas atualizarem. Mas são as pendências ali que a gente deixa nos postos.\n[LOCUTOR 26]: [LOCAL]\n[LOCUTOR 11]: e censo. painel de internados aqui, o painel de internados posto C. Isso aqui fica na tela, lá numa televisão, lá no posto C, para saber quais são os pacientes que estão lá e quem é o médico responsável. Então o médico chega lá no posto, ele identifica qual o paciente dele e faz a visita. Antes isso era manual em planilha, a gente trouxe para cá. Então ele está configurado, está vendo uma barrinha aqui em cima?\n[LOCUTOR 26]: Ela\n[LOCUTOR 11]: vai passando um minuto, quando ela chega aqui no final, ela autoatalisa a consulta, né? Então, acho que de painéis a gente tem essas, algumas que são consumidas 24 horas, mas os gráficos não. Os gráficos só fazem as consultas se a gente abrir ele. Então, esses gráficos aqui, se eu abrir, na hora que eu abro, é o momento que ele vai fazer a consulta. Então, tem alguns... Aí, se eu quiser ver em tempo real, eu tenho que ficar atualizando. A cada atualização, ele faz um novo select, uma nova consulta ali.\n[LOCUTOR 26]: Sim. Beleza. E no próprio repositório de consultas, ele provavelmente vai também trazer essas\n[LOCUTOR 11]: queries\n[LOCUTOR 26]: do [EMPRESA] que podem ou não estar ali concorrendo. Mas eu entendi como funciona o processo.\n[LOCUTOR 11]: Beleza. Então, pronto. Então, até sexta-feira a gente envia para você. Eu vou enviar hoje os vídeos que eu já tenho aqui de algumas rotinas que estão apresentando essas lentidões. Eu já mandei para o outro rapaz, vou replicar para você também. E aí, na sexta-feira, o [PESSOA] manda essa do repositório de consultas.\n[LOCUTOR 26]: [LOCAL]. [PESSOA] a atenção de vocês.\n[LOCUTOR 11]: É um\n[LOCUTOR 26]: trabalho\n[LOCUTOR 11]: que\n[LOCUTOR 26]: a gente vai ter que fazer, mas vai dar um resultado bom.\n[LOCUTOR 11]: Beleza, então. Obrigada, viu, [PESSOA], [PESSOA] também. Obrigada pela disponibilidade de vocês.\n[LOCUTOR 51]: [LOCAL].\n[LOCUTOR 26]: Até mais.\n[LOCUTOR 11]: Até mais.\n[LOCUTOR 51]: Obrigado.",
+  "texto_filtrado": "[LOCUTOR 11]: Graças a [PESSOA]. Acho que o [PESSOA] deve estar acessando aí daqui a pouco.\n[LOCUTOR 26]: Vai entrar\n[LOCUTOR 11]: Tá, então, a gente tá sofrendo muita lentidão aqui nas liberações de prescrição e os médicos estão reclamando bastante, a gente não consegue iniciar os projetos aqui de tempos de fila, tempos de atendimento, no pronto atendimento ali, principalmente, porque muitos médicos têm muita dificuldade de chamar o paciente ali pela fila, localizar eles, na verdade, né. E aí isso tem gerado muitos transtornos aqui pra gente, principalmente nas rotinas do pronto-atendimento, que\n[LOCUTOR 26]: é onde\n[LOCUTOR 11]: dá a maior lentidão ali dentro daquele painel de urgência e emergência. Eu percebi que quanto maior o número de senhas geradas, mais o painel fica pesado, sabe? E aí\n[LOCUTOR 11]: isso é o que mais tá impactando na nossa rotina aqui. Isso e também nas internações, né? Nas internações a gente também notou aí que pra fazer uma cópia de prescrição médica com 10 itens, com, sei lá, mais de 5 itens que a gente identificou, tava gerando em torno de 5 minutos pra fazer uma cópia de prescrição médica. Isso também tá gerando muita dor de cabeça aqui. Tem médico que já tá desistindo de prescrever no totos.\n[LOCUTOR 26]: [LOCUTOR 9]: querendo fazer a mão, porque a mão é muito mais rápida do que pelo sistema. E isso é só a cópia, leva mais 5 minutos pra fazer a liberação. Então é em torno de 10 minutos por paciente aí. Então\n[LOCUTOR 11]: quando a gente vê aí uma prescrição de [EMPRESA], que geralmente é 25 medicamentos, entre rotinas de cuidados, 15, 18, aí cada paciente demorar em média 9 a 10 minutos não tem como, não tem\n[LOCUTOR 11]: tempo muito alto.\n[LOCUTOR 26]: Sim, concordo, fica inviável para a operação.\n[LOCUTOR 11]: Isso.\n[LOCUTOR 26]: Beleza. o que eu consigo fazer para a gente tentar entender o que está acontecendo. Queria entender um pouquinho da estrutura, como hoje está instalado o ORM na infra de U6. E não sei se você tem acesso à parte de banco, à parte da instalação dos servidores mesmo, para a gente tentar pegar ali algumas métricas, ver se pode ser alguma coisa de query.\n[LOCUTOR 26]: query que o sistema faz mesmo, mas saber se ela está sendo muito aceitada ou não,\n[LOCUTOR 26]: uma otimização que a gente possa fazer ali no banco ou na configuração do RM.\n[LOCUTOR 26]: em segundo momento, eu consigo [PESSOA] aqui essas lentidões e passar para o time de produto para também fazer uma análise, uma melhoria de performance.\n[LOCUTOR 26]: É o banco Oracle.\n[LOCUTOR 26]: Qual\n[LOCUTOR 11]: seria a query que você quer me passar aqui?\n[LOCUTOR 26]: Eu queria olhar na configuração do banco para entender como que, não sei se tem habilitado o repositório de consultas aí, eu acho que é um recurso que ajuda bastante a gente identificar queries problemáticas,\n[LOCUTOR 1]: é que eu vejo? Se eu puder ir adiantando, acho que essa parte é com o [PESSOA], mas...\n[LOCUTOR 26]: Tá. Me mostra aí o que o gerenciador do banco de dados que você está utilizando. Aqui,\n[LOCUTOR 4]: vendo só a tela do PEP.\n[LOCUTOR 11]: Só a tela do PEP? Ah, então deve ser o jeito que eu estou apresentando. Peraí. Tela inteira.\n[LOCUTOR 26]: foi. Tá, pelo DBX, deixa eu verificar se dá pra gente... Melhor eu pegar o consultinho aqui pra gente ver se tá estabilitado.\n[LOCUTOR 11]: Você consegue\n[LOCUTOR 26]: selecionar o banco master?\n[LOCUTOR 26]: aqui\n[LOCUTOR 11]: selecionado na produção.\n[LOCUTOR 11]: uma olhada aqui. Acho que é meu usuário, pode ser que seja.\n[LOCUTOR 26]: Acho que é o nome das colunas. Coloca só um asterisco aqui em vez de colocar o nome das colunas.\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 11]: No master mesmo, né?\n[LOCUTOR 26]: Tá, agora seleciona o banco do [EMPRESA]. Qual\n[LOCUTOR 11]: que é o nome da coluna?\n[LOCUTOR 26]: E-Square Store on. Mas enquanto isso...\n[LOCUTOR 11]: Só essas aqui que estão...\n[LOCUTOR 26]: Tenta executar essa aquária aqui pra mim, que ele vai trazer as consultas mais onerosas do banco. XML,\n[LOCUTOR 11]: Data Typing... é o tipo?\n[LOCUTOR 26]: Sim, vou formatar aqui no banco local para\n[LOCUTOR 11]: deixar\n[LOCUTOR 26]: mais realidade para você. Enquanto isso, os recursos da máquina, do servidor, sabe me dizer como que\n[LOCUTOR 26]: se está com\n[LOCUTOR 11]: recursos\n[LOCUTOR 26]: sobrando, se está chegando no limite?\n[LOCUTOR 11]: Essa parte seria o [PESSOA], deixa eu dar uma ligada aqui para ele, para ver se ele consegue\n[LOCUTOR 26]: acessar\n[LOCUTOR 11]: aqui agora.\n[LOCUTOR 26]: Eu acredito que foi bem dimensionado.\n[LOCUTOR 11]: Da última vez ele falou que estava com bastante espaço sobrando, bastante recursos sobrando.\n[LOCUTOR 26]: Falei\n[LOCUTOR 11]: com o [PESSOA], tá [PESSOA]? Ele já está acessando já. Ele falou que está chegando lá no PC. Ele vai dar mais detalhes.\n[LOCUTOR 11]: [EMPRESA],\n[LOCUTOR 26]: estou aqui.\n[LOCUTOR 26]: [LOCUTOR 5]: que o Edito queria saber sobre os recursos do servidor, [PESSOA].\n[LOCUTOR 51]: Ah, o que você precisa? Quais seriam os recursos?\n[LOCUTOR 26]: Primeiro, o servidor de aplicação. Eles estão na mesma máquina que o serviço de banco de dados? É só para eu entender como está a arquitetura, tá? Ou estão em máquinas diferentes? Você tem algum histórico de uso de RAM, CPU dessas duas máquinas que foram diferentes, né?\n[LOCUTOR 51]: Então, as máquinas, fisicamente, pode até ser que sejam as mesmas. Eu tenho que verificar. É porque é virtualização. Porém, são\n[LOCUTOR 29]: clusters muito potentes, né? Então, assim, pela dinâmica do hospital, o consumo das VMs, basicamente, se eu colocar todas as VMs em um único servidor desse cluster, ele ainda suporta, ele ainda sustenta, mas está distribuído entre três servidores. É feito o balanceamento de carga pela própria solução da VM. Ele tem uma\n[LOCUTOR 26]: quantidade\n[LOCUTOR 51]: de memória,\n[LOCUTOR 26]: problema. E na configuração da máquina virtual em si, quanto que está disponível para aquela máquina virtual? Porque o servidor pode ter muitos gigas, mas talvez a configuração, não sei como que é o crescimento de memória dessa máquina virtual.\n[LOCUTOR 26]: particularidade\n[LOCUTOR 51]: com relação ao disco dela. O disco é em SSD, porque no [LOCAL] a gente tem uma storage direta nela, com vários tipos de tecnologia de disco, no Cason 3. A VM do Pepe, ele tá especificamente, aliás, quase praticamente tudo, acho, da solução TOTUS, ele está ligado diretamente aos discos SSD de alta performance.\n[LOCUTOR 7]: ainda tem uma particularidade que os discos também não são dinâmicos, eles são fixos, exatamente para não correr o risco de perda de performance e tentar alcançar o máximo possível da solução. Então esses produtos, assim como banco de dados, todos são discos fixos, não variáveis, todos em SSD, A memória também, a VM e tanto o cluster, eles têm bastante memória, tem folga de memória. Eu tô ligando aqui para dar uma olhada, mas eu acho que a máquina deve estar com 8 a 12 gigas. Deixa eu ver\n[LOCUTOR 26]: aqui.\n[LOCUTOR 26]: encontrei aqui o nome da coluna que eu preciso. Provavelmente vai estar desabilitada. Mas eu mandei aqui para você ali. É o actual [LOCAL].\n[LOCUTOR 26]: eu dar uma\n[LOCUTOR 11]: olhada aqui.\n[LOCUTOR 26]: Essa\n[LOCUTOR 11]: aqui,\n[LOCUTOR 26]: Está desligado. O que eu aconselharia a fazer? A gente habilitar o repositório de consultas no banco de produção. Pode ser por um período também, um dia, dois. E também avaliando se não vai ter um impacto. Geralmente não tem. Ele vai consumir um pouco de espaço de disco. mas ele vai registrar a cada 15 minutos, meia hora, o tempo que for determinado, o consumo de recursos pelas queries executadas no banco. A partir dessa coleta, a gente consegue entender um pouco melhor quais são as queries que mais estão onerando. Pode ser que elas estejam se comportando normalmente e o problema seja na interface. E\n[LOCUTOR 26]: uma questão que eu verifico com o frame e com o time de produto. Mas podem haver melhorias que a gente possa fazer no banco. a criação de algum índice, não sei como está a rotina de manutenção desse banco também, desfragmentação de índice, recriação de estatísticas e coisas desse tipo.\n[LOCUTOR 51]: Não, então, com relação ao banco, existe uma aprovação diária, se não me engano, tenho que olhar aqui, com relação ao índice. Porém, aí vai entrar numa particularidade que já tinha descoberto alguns anos atrás, O banco, o [EMPRESA], ele tem, assim, das análises que eu fiz algum tempo atrás, eu parei até de fazer isso, eu senti falta de muito índice, tá? Índices, inclusive, com incremento de mais de um milhão de por cento de impacto. No começo, eu criava esses índices e realmente melhorava, porém, toda vez que a gente tinha que aplicar um patch, era um problema,\n[LOCUTOR 51]: Algumas vezes não dava nenhum problema, mas outras, quando a gente precisava de fato aplicar em produção e tudo mais, dava erro no processo de atualização e aí isso começou a criar um transtorno muito grande. Eu desfiz todos os links que eu criei. Porque eu criei com nome específico, eu criei um padrão em particular exatamente para diferenciar o que é nativo da [LOCAL].\n[LOCUTOR 51]: aí eu desfiz e nunca mais eu analisei mais essa questão de criação de índice, né?\n[LOCUTOR 26]: [PESSOA].\n[LOCUTOR 51]: Então o que a gente tem são rotinas automáticas no banco de produção que ele verifica a questão do índice, ele faz a otimização do índice, se precisar recriar ele já recria também. Aí com relação a AVM que a gente estava conversando, a máquina tem 16 GB de memória, está com 55% de consumo agora. Para\n[LOCUTOR 26]: subir\n[LOCUTOR 51]: também está baixíssimo, está 8% de consumo. Então, assim, aparentemente é uma AVM que está com 12 GB de CPU e está com muita folga, então nem precisava tanto assim.\n[LOCUTOR 26]: mas é que\n[LOCUTOR 51]: realmente a gente vai constatando problemas o tempo todo em torno disso e a gente começa a desconfiar de tudo um pouco, então ela tá com muita folga de processamento e memória eu particularmente nunca vi passar de 65%, né, desde\n[LOCUTOR 26]: a hora\n[LOCUTOR 51]: do ajuste que a gente fez. Então assim, nesse momento ela tá com 55%, lembrando que a interface de rede dela, a gente tem um outro particularidade da solução, vou até confirmar aqui antes de falar. Ela... É isso mesmo. A solução como um todo, ela é 10 gigas, tá? Então, para a rede, chega a 1 giga, porque o switch, onde os clientes estão conectados, é de 1 giga. Porém, dentro do datacenter, ela opera a 10 gigas. E como a storage, ela não é um equipamento à parte, Ela é uma solução integrada a [EMPRESA] da [EMPRESA], então ela não sofre com saltos. A controladora dela já é junto da solução onde ficam os clusters. Então, tem momentos aqui que a gente consegue praticamente 1.800 MB de transferência entre os clusters. Entre as VMs isso não acontece, ele fica limitado a 10 GB. mas entre os clusters, ele opera na parte física, ele chega a uma taxa muito alta. Então assim, a gente tem... basicamente assim, a gente tem muita velocidade, né?\n[LOCUTOR 26]: Entendo. Então concordo, porque realmente tá bem proporcionado o ambiente, tem recursos de hardware sobrando.\n[LOCUTOR 26]: rosto que n\n[LOCUTOR 26]: alocado\n[LOCUTOR 51]: aqui, só pra gente falar se não tá, né. Tem muita VM misturada no [LOCAL], mas acredito que não. Mesmo que estivesse, ele não acompanharia muito do recurso. Ele está no [LOCAL] 3. O banco de dados está no [LOCAL] 2. O banco de dados é um vilão. Tá em máquina física separada. O portal... Dois portais a todos. Também tá indiferente, tá no [LOCAL] 1. E um tá no [LOCAL] 3, junto com o [EMPRESA]. Mas são poucas máquinas no mesmo [LOCAL] que o [EMPRESA] aqui. Tem apenas seis servidores, pouca coisa.\n[LOCUTOR 26]: [PESSOA]. Eu estou me recordando aqui de uma situação de uma lentidão específica nessa tela que envolvia uma lentidão no carregamento do grid. Estou vendo o pessoal de produto aqui para a gente... Talvez saia algum patch\n[LOCUTOR 26]: correção para isso. Pensando também na questão dos índices que a gente estava falando, de alinhar com o time de produto, o time de atendimento, um processo para que, caso você identifique a falta de um índice, seja aberta uma demanda e o produto tente incorporar esse índice na solução e que saia num patch, para que não aconteça do...\n[LOCUTOR 51]: Estou\n[LOCUTOR 11]: [PESSOA] então? No caso ali da urgência e emergência que você estava falando, né? Esse vai sair um patch de correção.\n[LOCUTOR 26]: Eu estou confirmando aqui, porque eu vi uma situação parecida nessa tela quando ela estava com muitas senhas. vou verificar com o mídio produto aqui se já existe alguma correção, como que foi dado andamento para isso, e também vou verificar com eles, aí eu posso passar o entorno para vocês, de um processo para inclusão de índices no produto, caso seja identificado ali por vocês, para que saia via [EMPRESA] e não haja essa situação de... de vocês criarem o índice e o patch vir e gerar algum problema.\n[LOCUTOR 14]: também isso eu vou verificar e aí eu tento fazer um apanhado e tentar passar um processo para vocês sobre isso. E aí, gostaria de reiterar lá a sugestão de habilitar o repositório de consultas ou alguma outra ferramenta que vocês tenham de análise aí, porque o [PESSOA] falou que já fazia essa análise anteriormente. para identificar algumas consultas que também possam estar interferindo nessa tela. Esse repositório de consultas, [PESSOA], você habilita, então?\n[LOCUTOR 51]: Na hora que eu conectei, ele falou sobre isso. O que seria exatamente isso? A funcionalidade lá do banco?\n[LOCUTOR 26]: Isso. Eu costumo usar o repositório de consultas para fazer esse tipo de análise. Eu não sei como você estava fazendo essa verificação. Existem outras formas também, mas pode falar.\n[LOCUTOR 51]: Não, pode ser. Normalmente, normalmente eu utilizo o script aqui que o Fax coleta, três fichas aqui em tempo de execução, e aí dessas análises aí, do que é coletado eu consigo analisar alguma coisa, mas também pode ser.\n[LOCUTOR 26]: Tá. Essa funcionalidade do SQL Server, ela ocupa um certo espaço do disco, mas você pode configurá-la\n[LOCUTOR 26]: também pode habilitar por um tempo e depois desabilitar, que\n[LOCUTOR 26]: vai fazer uma estatística de todas as queries que estão sendo executadas e te mostrar quais são as que mais consomem CPU, as que mais consomem [PESSOA] Ele já traz o plano de execução das queries também, mostrando se precisa de índice ou não, e aí a gente pode deixar analisando\n[LOCUTOR 26]: dia ou mais, de acordo com o que vocês preferirem, e fazer uma análise disso. E aí, tendo que criar índices, tem que ver com o time de produto a viabilidade de fazer isso via patch.\n[LOCUTOR 51]: aplico aqui, aí você quer uma coleta de uns dois dias, mas eu acho que um dia é muito pouco.\n[LOCUTOR 26]: Tá bom, pode ser.\n[LOCUTOR 51]: Hoje sendo terça-feira, aí eu estopo ele no final do dia da quinta,\n[LOCUTOR 51]: na sexta-feira eu tenho disponibilidade.\n[LOCUTOR 26]: Tá, e aí você vai fazer via, só para confirmar, via 3 ou via repositório de consulta?\n[LOCUTOR 26]: Tá bom. E aí você me manda ou eu analiso, ou também se você já tiver feito uma análise prévia, pode já mandar os resultados que você achar relevante\n[LOCUTOR 26]: a gente endereça isso.\n[LOCUTOR 11]: para ele te mandar para aquele e-mail que você mandou o convite para a gente, né, [PESSOA]?\n[LOCUTOR 26]: Pode ser por lá.\n[LOCUTOR 11]: Beleza. Já anoto aqui. Então tá, então você vai dar o retorno para a gente sobre aquela questão do painel da urgência e emergência, que está travando quando a gente tenta mudar as filas ali, né? E\n[LOCUTOR 26]: essa\n[LOCUTOR 11]: questão das consultas relacionadas à prescrição médica, né?\n[LOCUTOR 11]: vai trazer tudo, na verdade, né?\n[LOCUTOR 26]: tiver alguma específica do [EMPRESA], ele já vai mostrar\n[LOCUTOR 26]: como os maiores consumos e daí eu posso também procurar alguma queria específica para a gente analisar.\n[LOCUTOR 11]: É, porque eu fiz um um assessment com, esqueci o nome do rapaz agora, é...\n[LOCUTOR 26]: [PESSOA]?\n[LOCUTOR 11]: não, foi com outro, acho que foi [PESSOA], deixa eu lembrar, [PESSOA], [PESSOA], e aí ele falou para eu mapear as rotinas que mais estavam lentas, não só no PEP, mas também no sistema, e eu havia falado com ele sobre as rotinas de processo farmacêutico, de devolução da prescrição médica, tem dia, aí assim, a gente já está analisando porque [LOCAL] funciona bem e tem dias que não. Tem dia que a gente faz um... Tenta selecionar aqui, ó, o paciente. Cara, demora uns 4, 5 minutos só pra selecionar o paciente. quando a gente tenta fazer a devolução de medicamentos da prescrição médica, né? Só eu criar a devolução aqui, tentar selecionar o paciente, demora de 4 a 5 minutos. E aí, toda a rotina, ela é muito pesada, ela é muito lenta. Aqui, a gente faz a devolução via nome do paciente, né? E aqui a gente escolhe o paciente que quer fazer a devolução. Então aqui eu coloco, por exemplo, paciente teste aqui, que eu sei que está internado. Hoje ele está indo bem, mas tem dia que essa tela aqui trava. Entendeu? E aí a gente não sabe o motivo desses dias sim, está bem, dia não, não está, se é pelo número de pacientes também, eu não sei, o que ele carrega\n[LOCUTOR 26]: aqui,\n[LOCUTOR 11]: acho que é o leito zero. E aqui é a primeira parte da lentidão. A segunda parte é quando a gente bipa. Quando a gente bipa aqui o código do item para ser devolvido, depois ele trazer aqui na listagem, ele demora de 2 a 3 minutos para trazer um item. Aí às vezes a gente precisa devolver a prescrição inteira com 36, 40 itens, aí imagina como é que fica. Então, assim, essa parte aqui de processo farmacêutico é outra que demora bastante mesmo para carregar as funcionalidades. Então, assim, nesse repositório de consultas isso provavelmente vai buscar também, né?\n[LOCUTOR 26]: Sim, se for uma questão de query vai aparecer lá como uma query que está demorando muito tempo.\n[LOCUTOR 26]: até lembrei agora de uma de uma outra funcionalidade que a gente pode dar uma olhada. Aqui mesmo no RM, vai no\n[LOCUTOR 11]: menu\n[LOCUTOR 26]: da esquerda.\n[LOCUTOR 11]: Qual?\n[LOCUTOR 15]: primeiro menu, do lado de cadastro.\n[LOCUTOR 11]: Aqui.\n[LOCUTOR 26]: Serviços biodais. Ambiente. Ambiente. [PESSOA] do sistema.\n[LOCUTOR 11]: [PESSOA] do\n[LOCUTOR 26]: sistema.\n[LOCUTOR 11]: [PESSOA] do [PESSOA] sistema. [PESSOA] do sistema. [PESSOA] [PESSOA] do sistema. [PESSOA] do sistema. [PESSOA] do sistema.\n[LOCUTOR 50]: do sistema. [PESSOA]\n[LOCUTOR 11]: do sistema.\n[LOCUTOR 26]: [PESSOA] do sistema.\n[LOCUTOR 11]: [PESSOA] do sistema. [PESSOA] [PESSOA] do sistema.\n[LOCUTOR 51]: [PESSOA] do sistema.\n[LOCUTOR 11]: [PESSOA] do sistema. [PESSOA] do sistema. [PESSOA] do sistema.\n[LOCUTOR 26]: [PESSOA] do sistema.\n[LOCUTOR 11]: [PESSOA]\n[LOCUTOR 26]: Alguns erros de comunicação com o server.\n[LOCUTOR 11]: Quando\n[LOCUTOR 26]: tem uma query muito lenta, ela aparece aqui também. Tem uma linha de execução muito lenta de query abaixo.\n[LOCUTOR 26]: Isso, na mensagem.\n[LOCUTOR 11]: Aqui, ó.\n[LOCUTOR 26]: Dá dois cliques nela para abrir a...\n[LOCUTOR 26]: aqui nessa mensagem, nesse texto, vai aparecer a query que está Então, pode ser que tenha alguma coisa com relação à configuração de jobs\n[LOCUTOR 26]: ambiente e comunicação com o [EMPRESA].\n[LOCUTOR 51]: Isso\n[LOCUTOR 11]: aqui é do RH. Tá.\n[LOCUTOR 26]: E da saúde, usuários de saúde.\n[LOCUTOR 11]: Dá para a gente filtrar aqui, [LOCAL], muito lenta.\n[LOCUTOR 26]: Aqui,\n[LOCUTOR 11]: a farmácia. Isso aqui é o processo farmacêutico.\n[LOCUTOR 11]: gente\n[LOCUTOR 26]: pode tentar rodar essa query e ver o plano de execução dela e entender se tem algum... Algum problema de índice ou algo do tipo.\n[LOCUTOR 51]: Você\n[LOCUTOR 11]: fala eu copiar isso aqui e rodar ela lá, executar lá no DBX?\n[LOCUTOR 26]: Sim. Eu não costumo usar o DBX. Eu não sei se ele tem a visualização de plano de execução. Acho\n[LOCUTOR 26]: [LOCUTOR 8]: para consulta é simples mesmo. Aí lá embaixo você vai ter que trocar os parâmetros da\n[LOCUTOR 11]: query. Dos parâmetros da data de hoje.\n[LOCUTOR 11]: ter só no 21, né, [PESSOA]? O Microsoft SQL serve lá?\n[LOCUTOR 51]: Eu acho que tem nas duas máquinas de suporte. A de homologação e produção.\n[LOCUTOR 26]: Seria interessante também exportar para mim esses logs, para eu dar uma\n[LOCUTOR 11]: analisada\n[LOCUTOR 11]: 25.06. Na verdade, acho que está no patch menos atual do que esse aqui.\n[LOCUTOR 26]: Aqui você consegue, depois ali na aba de\n[LOCUTOR 11]: ambiente\n[LOCUTOR 26]: dá para visualizar a versão. No\n[LOCUTOR 11]: ambiente? No sobre? No\n[LOCUTOR 26]: Isso\n[LOCUTOR 26]: Marca ali.\n[LOCUTOR 11]: [LOCAL]?\n[LOCUTOR 26]: Perto de onde você mandou executar, tem três caixinhas ligadas por uma linha. Mais para o lado. Não. Pode pausar aqui.\n[LOCUTOR 11]: Aqui? Aqui?\n[LOCUTOR 26]: Isso. Aqui tem uma verde. Essa\n[LOCUTOR 11]: aqui, né? Pode executar?\n[LOCUTOR 26]: Pode. Aqui embaixo ele até mostrou que tem uma possibilidade de criação de índice. Salva, por favor, esse botão direito aí. Onde estão aparecendo as caixinhas aqui embaixo. Aqui embaixo.\n[LOCUTOR 18]: embaixo onde ele mostrou os resultados. Aqui?\n[LOCUTOR 26]: Isso. Salva o plano de execução.\n[LOCUTOR 11]: Vou colocar aqui teste 17 do 3, 26. Tipo andar lá, né?\n[LOCUTOR 26]: Sim, por favor. E aí eu vou ver o time de produto. Existe a possibilidade de ser criado esse índice, se ele já não existir, de alguma outra forma, que só precisa alterar o índice existente, mas é possível criar ambiente de vocês. E quando for aplicar determinado patch, para corrigir essa falta de índice, deleta o índice e só roda o patch. Não sei se ficou claro, mas...\n[LOCUTOR 11]: Tá, vai criar o índice. Se precisar atualizar o patch, é só deletar o índice.\n[LOCUTOR 15]: [PESSOA] pode... analisar e ver se faz sentido criar o índice manualmente ou aguardar a gente ver a possibilidade de criar via patch.\n[LOCUTOR 11]: Então, no caso, a gente teria que pegar todas aquelas lá que estão aparecendo aqui no [PESSOA] de execução muito lenta, ver o que a gente identifica aqui que tem que ser criado o índice e sair criando o índice?\n[LOCUTOR 26]: Sim, essa é uma abordagem que pode ser tomada. Porque mesmo que vocês mandem para a gente essas queries, a forma como ela vai ser executada no banco de vocês pode ser diferente da que eu vou executar num banco aqui de desenvolvimento ou algum de homologação nossa. Então, o ideal é que esses planos de execução venham do banco de vocês. E aí, pode ser que boa parte dessas queries um índice ajudaria a melhorar a performance delas. Só que é trabalhoso e vai depender da disponibilidade de vocês.\n[LOCUTOR 51]: É, e a questão também do... Tem que ver também o impacto do índice, né? Porque o índice, de certa forma, ele também gera um impacto, um efeito colateral.\n[LOCUTOR 51]: a tabela for muito grande, o índice for grande, vai consumir ainda mais espaço. Tem que\n[LOCUTOR 51]: isso mesmo.\n[LOCUTOR 26]: Além de consumir espaço, Ele tem um trade-off que é, dependendo do tipo de operação, ele pode consumir mais na inclusão de um registro. Então, se é uma query numa tabela que tem pouca inclusão, criar um índice novo vai consumir espaço, mas como não tem pouca inclusão, o impacto nesse tempo de inserir um registro pode ser pequeno. Agora, se é uma tabela que tem muita inclusão de registro, e o índice é muito grande, aí pode afetar o tempo de gravação de registros. Mas,\n[LOCUTOR 51]: enfim,\n[LOCUTOR 26]: precisa ser analisado tabela por tabela, situação por situação, para ver os ganhos e as perdas que a criação do índice pode gerar.\n[LOCUTOR 11]: Então, meio que a gente voltou à estaca zero, né, [PESSOA]? Que antes você fazia isso, mas como cada atualização de patch você teria que excluir tudo, depois recriar de novo, meio que é a mesma coisa, né?\n[LOCUTOR 26]: Agora.\n[LOCUTOR 51]: É, mas é a mesma coisa e não é, porque ele tá propondo, ele vai propor internamente lá, que a gente consiga, como cliente, apontar alguma situação, abrindo uma demanda,\n[LOCUTOR 11]: para\n[LOCUTOR 51]: eles incorporarem no [EMPRESA]. Eles vão avaliar e incorporar no [EMPRESA]. Então, de certa forma, a gente vai ter uma melhoria, né?\n[LOCUTOR 51]: É, não no tempo que a gente precisa, mas quando sair o [EMPRESA], pelo menos aquilo vai estar lá dentro. Então a gente teria que retomar as análises que eu fazia antes, recriando o índice. E eu acho que eu vou fazer diferente, eu vou montar um script aqui, para que quando eu for realizar a atualização, eu destrua todos eles. Aí depois da atualização eu recrio novamente, porque senão a gente vai ficar tendo aqueles erros lá que tinha, né?\n[LOCUTOR 51]: E como essa questão de atualização de [EMPRESA] aí é uma constância muito grande no hospital, atualiza um e no dia seguinte já tá testando outro para ver se se resolve um remendo que ficou descoberto, né? Então vai dar um trabalho, mas eu acho que vai ter que ser o caminho.\n[LOCUTOR 26]: Apesar de não ter conseguido olhar exatamente aquela situação que você trouxe ali da senha e tal, mas eu acho que tem um um caminho mais amplo que vai ajudar tanto nessa query que você mostrou aí, que está com uma situação de índice, que é um dos processos que é presente entre a lentidão, e também pensar na melhoria do processo geral de comunicação, de melhorias de índices que a gente possa colocar aqui.\n[LOCUTOR 51]: Uma dúvida, o PEP, ele utiliza tabelas específicas com ele ou... ele consome as tabelas de vários módulos ali para a questão do estoque e tudo mais?\n[LOCUTOR 26]: Pelo que eu conheço, ele utiliza as tabelas do saúde e aí quando ele precisa ele pode se comunicar com os demais módulos e aí utilizar a tabela de outros módulos também.\n[LOCUTOR 51]: É porque a [LOCAL] ela segue meio que um padrão assim de nomenclatura de tabela, que as iniciais mais ou menos entende, identifica qual é a, não diria funcionalidade, mas qual é o subsistema ao qual faz parte. Por exemplo, a parte de atendimento, as tabelas tendem a iniciar com alguma coisa que identifique atendimento, né? Eu não sei se é tudo [EMPRESA],\n[LOCUTOR 51]: no caso seria negócio de fila de atendimento, esse tipo de coisa. Quando é estoque, tem também uma identificação, uma particularidade.\n[LOCUTOR 19]: caso do PEP, eu acho que o PEP consome um pouco de tudo isso. Talvez o que seja um particular deles sejam tabelas estruturantes, mas, assim, o pensamento que eu estou tendo, não tenho certeza sobre isso, mas eu acho que talvez o problema relacionado a índice não seja nas tabelas do PEP em si, mas sim aquilo que ele consome dentro da aplicação dele, que são das outras, dos outros subsistemas, diria isso, seria mais ou menos isso, né?\n[LOCUTOR 26]: Sim, aí a gente tem que olhar pelo plano de execução que ele vai pontuar ali qual uma subquery ou alguma outra tabela que ele tá fazendo um join que tá precisando de um int pra melhorar.\n[LOCUTOR 26]: tempo\n[LOCUTOR 51]: é a solução para alguns alguns riscos. Eu não sei como é que tá a questão do [EMPRESA], eu acho que eu vou ter que dar uma revisada nisso junto com a [PESSOA], porque, por exemplo, eu fiz uma análise rápida aqui de índice. Das cinco primeiras tabelas com problema de índice, duas é [EMPRESA]. E dentre as dez, quase todas é sobre estoque, movimentação de estoque ou atendimento.\n[LOCUTOR 11]: Que é onde a gente mais faz movimentação.\n[LOCUTOR 51]: Dos atendimentos, assim, batendo o olho, eu te digo que tem uma, duas, três... Entre as dez, tem três tabelas impactando. E a top um é de atendimento. Fila atendimento, ela tá com incremento de 1 milhão 101%.\n[LOCUTOR 11]: É, nós inclusive, foi eu e o [PESSOA], o [PESSOA] precisava gerar uns relatórios de atendimento para um [EMPRESA], e aí ele detectou que as tabelas, a gente teve que auditar elas para pegar cada etapa do processo da fila, do fila do aguardando, em atendimento, atendido. E aí a gente colocou acho que é [EMPRESA] classificação risco\n[LOCUTOR 26]: para\n[LOCUTOR 11]: auditar e aí do TOPS Audit ele traz essa informação em [EMPRESA], [PESSOA].\n[LOCUTOR 51]: Então\n[LOCUTOR 11]: pode ser que seja isso.\n[LOCUTOR 51]: Aí tem algumas particularidades em torno de questões de query com banco, porque assim, se você na query utiliza campos específicos para fazer correlacionamento filtro, e estes não fazem parte do índice, automaticamente o [EMPRESA] vai degradar, por não ter índice. Aí, a [LOCAL], nesse caso, ela não previu isso, porque ela fez os índices baseados nas consultas, nos filtros que ela tem lá na aplicação. E se sai muito desse controle, aí realmente a gente começa a ter muito problema de falta de índice. A gente precisa achar um meio tempo. Normalmente, quando é relacionado à [EMPRESA], A atualização não pode ser em tempo real, porque senão traz impacto. E algumas vezes a gente faz uma cópia do banco para trabalhar o [EMPRESA] com essa cópia. Teria que verificar isso também. Inclusive no próprio RM lá dá para criar uma interface conectando a outro banco com outro usuário. para dentro do próprio RM lá nos cubos vocês conseguirem conectar nativamente ao outro banco.\n[LOCUTOR 11]: Nesse caso foi no INOU, acho que talvez no INOU dê pra fazer. Ele precisa extrair o tempo de atendimento de cada fila, em cada fase que ela tá. Quando o paciente tira a fila, ela entra numa fase. Desculpa, quando ele tira a senha ali no pronto atendimento. Ele vem, pega a senha e fica numa fase. Quando a atendente chama, o guichê chama, ele entra numa outra fase. E a\n[LOCUTOR 11]: precisa contabilizar a cada fase quanto tempo de atendimento durou para a gente saber.\n[LOCUTOR 11]: esses\n[LOCUTOR 11]: produção? Não pode. Deixa eu até ver aqui o gráfico que ele criou aqui, foi esse preço aqui ó, filas de atendimento, cadê filas? Tempo do pronto atendimento, que aí ele precisa extrair aqui o tempo de cada fase da senha.\n[LOCUTOR 51]: Essa execução, essas execuções que você tá fazendo nas consultas aí, tá gerando concorrência com o [LOCAL].\n[LOCUTOR 51]: É por isso que normalmente [EMPRESA] a gente faz separado, uma cópia do banco, ou, por exemplo, no governo, que são milhões de dados lá, a gente faz extrações na madrugada e no dia seguinte a gente trabalha com dados de menos um, sempre com atraso de um dia e não gera concorrência.\n[LOCUTOR 11]: Então a gente pode rever essa parte aí com o [PESSOA] quando ele voltar, que aí a gente...\n[LOCUTOR 24]: que se estruturar de repente para ter uma base replicada para vocês trabalharem livremente nela, considerando sempre que ela vai ter uma atraso de um dia.\n[LOCUTOR 11]: [EMPRESA]. Aí tem esse e tem o atendimento, o andamento da essência do [EMPRESA]. Esse aqui ele é em tempo real, mas foi um projeto aqui que a gente desenvolveu porque a gente precisava mapear o tempo de espera dos pacientes, que eles estavam reclamando muito que passavam o dia todo aqui no 9 de julho, então acho que nem é essa apresentação que eu não tô pegando agora.\n[LOCUTOR 51]: Mas o ideal tamb\n[LOCUTOR 51]: o [EMPRESA] conecta-se em produção de maneira alguma. Por exemplo, assim, é que nem a solução TOTUS, o [EMPRESA] TOTUS, que é o Fast Analytics. Ele faz, com base em queries, extrações no bloco de produção. E a\n[LOCUTOR 51]: gente pode particularizar situações, se você entenda que tem uma urgência maior, e aí ele... Trabalhar para ele fazer uma extração de hora em hora.\n[LOCUTOR 11]: [EMPRESA].\n[LOCUTOR 51]: O resto você deixa D-1 e esse aqui é de hora em hora, tudo bem, aí você começa a minimizar. Aí entenda que a extração tira os dados naquele instante e carrega para uma estrutura, nesse caso em particular, da TOTOS. Então quando você acessa o [EMPRESA], você não está lendo o banco de produção, você está gerando concorrência, lendo os dados no banco da [LOCAL].\n[LOCUTOR 11]: [EMPRESA]. O único\n[LOCUTOR 51]: momento que ele vai gerar carga no banco de produção é sempre nos momentos de extração, que aí você tem uma liberdade de fazer ajustes de horário, quantidade por dia, uma vez por semana, uma vez por mês, conforme cada cenário, cada décimo de cada mergulho de dados que você precisa fazer.\n[LOCUTOR 11]: [EMPRESA].\n[LOCUTOR 11]: [LOCAL] Audit, o que a gente habilitou recentemente, que foi o que você falou aí, foi essa da classificação de risco, a [LOCAL] Classifique Risco. Sobre as tabelas ali do PEP, [PESSOA], ele utiliza não só a [LOCAL] prescrição ali, item prescrição e várias outras de dietas também, como também a gente percebeu aqui em alguns testes, que se eu vi aqui, antes de eu entrar no PEP, Ele faz a validação do usuário, né? Então ele usa as tabelas lá do módulo pra saber se ele tem permissão de prescrever, de visualizar, enfim. E a mesma coisa nós percebemos também naquela análise que a gente viu da impressão, né? Quando eu digo na... Aqui no perfil do usuário, quando eu digo que ele não pode acessar campos sensíveis, que eu acho que tem a ver com todos os Audit, eu não lembro agora bem, mas aqui é quando eu configuro que o usuário não pode acessar alguns campos sensíveis, como CPF, telefone, que é o que a gente tinha feito uma vez, uma configuração, ao eu imprimir qualquer relatório aqui do PEP, ele tem, ele monitoriza isso, ele não, nenhum relatório do [PESSOA], nenhum relatório criado lá no repórter, ele traz os campos, entendeu? Então, assim, ele faz, sim, consultas além das tabelas de prescrição. Não sei se eu\n[LOCUTOR 51]: fiquei\n[LOCUTOR 11]: clara,\n[LOCUTOR 51]: mas... Eu entendi, por exemplo, dos 13 índices que eu tô na tela, O segundo e o terceiro é ZSZ, classificação risco,\n[LOCUTOR 10]: Audit. Os dois estão com mais ou menos 760 mil por cento de incremento. E\n[LOCUTOR 51]: tenho o décimo segundo aqui, é a tabela G permís, de permissão, que também está com 132 mil por cento de incremento.\n[LOCUTOR 11]: De permissão.\n[LOCUTOR 51]: Então, muito provável, se eu fizer aquele pente fino aqui, Vocês vão ter algum resultado, mas com o banco em cima do, desculpa, o [EMPRESA] em cima do banco de produção, é assim, a gente vai remar de um lado e vai puxar do outro.\n[LOCUTOR 11]: [EMPRESA].\n[LOCUTOR 6]: a gente teria que fazer uns dados offline, digamos né?\n[LOCUTOR 51]: É, eu posso trabalhar para replicar o banco em determinado horário e você fica olhando esse banco. Aí tem que ver lá como é que vai ser no [EMPRESA], o que vocês julgam necessário de ser em tempo real e isso tem que ter um olhar muito crítico. Por enquanto a gente deixa apontando para produção, então teria que ser o [EMPRESA] trabalhar com duas fontes de\n[LOCUTOR 11]: [EMPRESA]. E aí só só o que é o agora a gente deixar na produção direto né.\n[LOCUTOR 51]: É só o que é de atualização online e analisar de fato se é pesado ou não porque se for deixar online mas é muito pesado também não vai valer muito a pena né senão a gente não vai resolver.\n[LOCUTOR 51]: que tem que analisar tem que ponderar.\n[LOCUTOR 11]: mapear com ele certinho. Mas de qualquer forma ali pro [PESSOA] a gente vai enviar esses relatórios pra ele pra ver o que ele consegue ajudar a gente ali.\n[LOCUTOR 51]: A princípio hoje à noite eu já tive o que a gente acordou mas eu não vou mexer em nada em índice por enquanto exatamente pra dar pra ter evidências lá pra não alterar nada do cenário. E aí, na sexta-feira, eu entrego e eu começo a trabalhar nos índices.\n[LOCUTOR 26]: E se vocês quiserem mandar o print da tela que está apresentando lentidão, eu vi ali que é a tela de senhas e a de prescrição de medicamento, que você falou que tem o [PESSOA] ali do paciente, ele demora um tempão para prescrever. mas ajudaria a documentar e também a direcionar para os times.\n[LOCUTOR 11]: Beleza, eu vou gravar. Uns eu gravei aqui, o tempo que dá quando eu faço uma cópia de prescrição. A gente pegou todos esses tempos aí. Foi 5 minutos para fazer uma cópia de prescrição vigente para a futura, mais 5 para liberação. A outra foi aquela que nós vimos lá na classificação de risco. Uma outra foi no processo da devolução, que são nas movistoques, né, de estoque. São bem lentos. Essas daí todas eu fiz vídeo.\n[LOCUTOR 26]: [PESSOA]. Ajuda bastante a gente a rastrear aqui o problema. E até depois de ouvir a questão do [EMPRESA], também tentar identificar se o uso do [EMPRESA], quando ele está fazendo aquelas queries, não causa uma lentidão maior nessa prescrição. Porque até você mostrou aí que hoje está tranquilo. Mas em\n[LOCUTOR 11]: algumas situações\n[LOCUTOR 26]: ali, apresenta alguma lentidão.\n[LOCUTOR 11]: O [EMPRESA] nunca influenciou muito não, até porque são poucas pessoas que acessam o [EMPRESA], acho que de duas ou três pessoas aqui dentro que acessam e é muito raro, é para uma situação específica que ela quer anotar. A\n[LOCUTOR 26]: gente tem\n[LOCUTOR 11]: aí alguns painéis criados em tempo real, né, que a gente colocou lá nos atendimentos, painéis de internados, então cada posto tem o seu painelzinho, né, posto, farmácia, mas são pesquisas bem, bem leves assim, não tem muita coisa não, é mais de, deixa eu lembrar aqui, apresentações. A gente tem alguns painéis aqui. Essas apresentações aqui, elas são configuradas para cada um minuto elas atualizarem. Mas são as pendências ali que a gente deixa nos postos.\n[LOCUTOR 26]: [LOCAL]\n[LOCUTOR 11]: e censo. painel de internados aqui, o painel de internados posto C. Isso aqui fica na tela, lá numa televisão, lá no posto C, para saber quais são os pacientes que estão lá e quem é o médico responsável. Então o médico chega lá no posto, ele identifica qual o paciente dele e faz a visita. Antes isso era manual em planilha, a gente trouxe para cá. Então ele está configurado, está vendo uma barrinha aqui em cima?\n[LOCUTOR 11]: vai passando um minuto, quando ela chega aqui no final, ela autoatalisa a consulta, né? Então, acho que de painéis a gente tem essas, algumas que são consumidas 24 horas, mas os gráficos não. Os gráficos só fazem as consultas se a gente abrir ele. Então, esses gráficos aqui, se eu abrir, na hora que eu abro, é o momento que ele vai fazer a consulta. Então, tem alguns... Aí, se eu quiser ver em tempo real, eu tenho que ficar atualizando. A cada atualização, ele faz um novo select, uma nova consulta ali.\n[LOCUTOR 11]: queries\n[LOCUTOR 26]: do [EMPRESA] que podem ou não estar ali concorrendo. Mas eu entendi como funciona o processo.\n[LOCUTOR 11]: Beleza. Então, pronto. Então, até sexta-feira a gente envia para você. Eu vou enviar hoje os vídeos que eu já tenho aqui de algumas rotinas que estão apresentando essas lentidões. Eu já mandei para o outro rapaz, vou replicar para você também. E aí, na sexta-feira, o [PESSOA] manda essa do repositório de consultas.\n[LOCUTOR 26]: [LOCAL]. [PESSOA] a atenção de vocês.\n[LOCUTOR 26]: trabalho\n[LOCUTOR 26]: a gente vai ter que fazer, mas vai dar um resultado bom.\n[LOCUTOR 11]: Beleza, então. Obrigada, viu, [PESSOA], [PESSOA] também. Obrigada pela disponibilidade de vocês.\n[LOCUTOR 51]: [LOCAL].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:03.401641+00:00",
+    "total_linhas": 387,
+    "linhas_mantidas": 267,
+    "linhas_removidas": 120,
+    "percentual_mantido": 68.99,
+    "confianca_media": 0.4908
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 26]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Opa, boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tudo certo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tudo certo, [PESSOA], e você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tudo bem também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Graças a [PESSOA]. Acho que o [PESSOA] deve estar acessando aí daqui a pouco.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Vai entrar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: mais alguém nele, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Deixa eu ver aqui no... Quem aceitou? Vamos lá, tem... [PESSOA]... Acho que não, aqui tá faltando só o [PESSOA] mesmo. O [PESSOA] acredita que não vai entrar. Se quiser já ir iniciando algum tema.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4363,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá, então, a gente tá sofrendo muita lentidão aqui nas liberações de prescrição e os médicos estão reclamando bastante, a gente não consegue iniciar os projetos aqui de tempos de fila, tempos de atendimento, no pronto atendimento ali, principalmente, porque muitos médicos têm muita dificuldade de chamar o paciente ali pela fila, localizar eles, na verdade, né. E aí isso tem gerado muitos transtornos aqui pra gente, principalmente nas rotinas do pronto-atendimento, que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5747,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: é onde",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: dá a maior lentidão ali dentro daquele painel de urgência e emergência. Eu percebi que quanto maior o número de senhas geradas, mais o painel fica pesado, sabe? E aí",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5195,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: hoje",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: isso é o que mais tá impactando na nossa rotina aqui. Isso e também nas internações, né? Nas internações a gente também notou aí que pra fazer uma cópia de prescrição médica com 10 itens, com, sei lá, mais de 5 itens que a gente identificou, tava gerando em torno de 5 minutos pra fazer uma cópia de prescrição médica. Isso também tá gerando muita dor de cabeça aqui. Tem médico que já tá desistindo de prescrever no totos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCUTOR 9]: querendo fazer a mão, porque a mão é muito mais rápida do que pelo sistema. E isso é só a cópia, leva mais 5 minutos pra fazer a liberação. Então é em torno de 10 minutos por paciente aí. Então",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: quando a gente vê aí uma prescrição de [EMPRESA], que geralmente é 25 medicamentos, entre rotinas de cuidados, 15, 18, aí cada paciente demorar em média 9 a 10 minutos não tem como, não tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5038,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tempo muito alto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim, concordo, fica inviável para a operação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Beleza. o que eu consigo fazer para a gente tentar entender o que está acontecendo. Queria entender um pouquinho da estrutura, como hoje está instalado o ORM na infra de U6. E não sei se você tem acesso à parte de banco, à parte da instalação dos servidores mesmo, para a gente tentar pegar ali algumas métricas, ver se pode ser alguma coisa de query.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Até",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: query que o sistema faz mesmo, mas saber se ela está sendo muito aceitada ou não,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4696,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: uma otimização que a gente possa fazer ali no banco ou na configuração do RM.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: em segundo momento, eu consigo [PESSOA] aqui essas lentidões e passar para o time de produto para também fazer uma análise, uma melhoria de performance.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Beleza. Então, tem um acesso ao banco de dados aqui. Eu estou até com ele aberto aqui. Deixa eu pegar aqui. Estou com a base de produção aqui aberta pelo DBX, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4404,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: É o banco Oracle.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: SQL.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Qual",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: seria a query que você quer me passar aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4959,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eu queria olhar na configuração do banco para entender como que, não sei se tem habilitado o repositório de consultas aí, eu acho que é um recurso que ajuda bastante a gente identificar queries problemáticas,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: é que eu vejo? Se eu puder ir adiantando, acho que essa parte é com o [PESSOA], mas...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5064,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá. Me mostra aí o que o gerenciador do banco de dados que você está utilizando. Aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ó.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: vendo só a tela do PEP.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5194,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Só a tela do PEP? Ah, então deve ser o jeito que eu estou apresentando. Peraí. Tela inteira.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4996,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: agora sim. Foi? Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.395,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: foi. Tá, pelo DBX, deixa eu verificar se dá pra gente... Melhor eu pegar o consultinho aqui pra gente ver se tá estabilitado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4653,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Vou mandar aqui na sala também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Você consegue",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: selecionar o banco master?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Acho que ele não foi não. Está",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4299,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: selecionado na produção.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Deixa eu dar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: uma olhada aqui. Acho que é meu usuário, pode ser que seja.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5171,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Acho que é o nome das colunas. Coloca só um asterisco aqui em vez de colocar o nome das colunas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Espera aí, rapidinho. Deixa eu só colocar aqui o [EMPRESA]. O meu está mais limitado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4123,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: No master mesmo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá, agora seleciona o banco do [EMPRESA]. Qual",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5806,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que é o nome da coluna?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E-Square Store on. Mas enquanto isso...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Só essas aqui que estão...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tenta executar essa aquária aqui pra mim, que ele vai trazer as consultas mais onerosas do banco. XML,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Data Typing... é o tipo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim, vou formatar aqui no banco local para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: deixar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: mais realidade para você. Enquanto isso, os recursos da máquina, do servidor, sabe me dizer como que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: estão,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: se está com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5087,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: recursos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5085,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: sobrando, se está chegando no limite?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4995,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Essa parte seria o [PESSOA], deixa eu dar uma ligada aqui para ele, para ver se ele consegue",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4993,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: acessar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aqui agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eu acredito que foi bem dimensionado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4857,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Da última vez ele falou que estava com bastante espaço sobrando, bastante recursos sobrando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Falei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: com o [PESSOA], tá [PESSOA]? Ele já está acessando já. Ele falou que está chegando lá no PC. Ele vai dar mais detalhes.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4801,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Boa tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tudo bom, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: estou aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Tudo bom, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 28]: ouvem? Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Vocês estão me ouvindo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3823,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 51]: tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Estou, estou ouvindo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCUTOR 5]: que o Edito queria saber sobre os recursos do servidor, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Ah, o que você precisa? Quais seriam os recursos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5506,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Primeiro, o servidor de aplicação. Eles estão na mesma máquina que o serviço de banco de dados? É só para eu entender como está a arquitetura, tá? Ou estão em máquinas diferentes? Você tem algum histórico de uso de RAM, CPU dessas duas máquinas que foram diferentes, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Então, as máquinas, fisicamente, pode até ser que sejam as mesmas. Eu tenho que verificar. É porque é virtualização. Porém, são",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tr",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: clusters muito potentes, né? Então, assim, pela dinâmica do hospital, o consumo das VMs, basicamente, se eu colocar todas as VMs em um único servidor desse cluster, ele ainda suporta, ele ainda sustenta, mas está distribuído entre três servidores. É feito o balanceamento de carga pela própria solução da VM. Ele tem uma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: quantidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: de memória,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: também de cabeça não lembro, mas é algo assim que o hospital já não alcança mais o consumo diariamente. Mas também a gente tem recurso para aumentar a memória, não seria muito",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: problema. E na configuração da máquina virtual em si, quanto que está disponível para aquela máquina virtual? Porque o servidor pode ter muitos gigas, mas talvez a configuração, não sei como que é o crescimento de memória dessa máquina virtual.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: é fixa, ela é fixa e não é variável. porque a variável perderia muito o rendimento. Aí tem uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4234,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: particularidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: com relação ao disco dela. O disco é em SSD, porque no [LOCAL] a gente tem uma storage direta nela, com vários tipos de tecnologia de disco, no Cason 3. A VM do Pepe, ele tá especificamente, aliás, quase praticamente tudo, acho, da solução TOTUS, ele está ligado diretamente aos discos SSD de alta performance.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Ent",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: ainda tem uma particularidade que os discos também não são dinâmicos, eles são fixos, exatamente para não correr o risco de perda de performance e tentar alcançar o máximo possível da solução. Então esses produtos, assim como banco de dados, todos são discos fixos, não variáveis, todos em SSD, A memória também, a VM e tanto o cluster, eles têm bastante memória, tem folga de memória. Eu tô ligando aqui para dar uma olhada, mas eu acho que a máquina deve estar com 8 a 12 gigas. Deixa eu ver",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Muito obrigada. Não. Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: encontrei aqui o nome da coluna que eu preciso. Provavelmente vai estar desabilitada. Mas eu mandei aqui para você ali. É o actual [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5092,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Beleza, deixa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: eu dar uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4709,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: olhada aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Está",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: off.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Está desligado. O que eu aconselharia a fazer? A gente habilitar o repositório de consultas no banco de produção. Pode ser por um período também, um dia, dois. E também avaliando se não vai ter um impacto. Geralmente não tem. Ele vai consumir um pouco de espaço de disco. mas ele vai registrar a cada 15 minutos, meia hora, o tempo que for determinado, o consumo de recursos pelas queries executadas no banco. A partir dessa coleta, a gente consegue entender um pouco melhor quais são as queries que mais estão onerando. Pode ser que elas estejam se comportando normalmente e o problema seja na interface. E",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aí é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: uma questão que eu verifico com o frame e com o time de produto. Mas podem haver melhorias que a gente possa fazer no banco. a criação de algum índice, não sei como está a rotina de manutenção desse banco também, desfragmentação de índice, recriação de estatísticas e coisas desse tipo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Não, então, com relação ao banco, existe uma aprovação diária, se não me engano, tenho que olhar aqui, com relação ao índice. Porém, aí vai entrar numa particularidade que já tinha descoberto alguns anos atrás, O banco, o [EMPRESA], ele tem, assim, das análises que eu fiz algum tempo atrás, eu parei até de fazer isso, eu senti falta de muito índice, tá? Índices, inclusive, com incremento de mais de um milhão de por cento de impacto. No começo, eu criava esses índices e realmente melhorava, porém, toda vez que a gente tinha que aplicar um patch, era um problema,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Algumas vezes não dava nenhum problema, mas outras, quando a gente precisava de fato aplicar em produção e tudo mais, dava erro no processo de atualização e aí isso começou a criar um transtorno muito grande. Eu desfiz todos os links que eu criei. Porque eu criei com nome específico, eu criei um padrão em particular exatamente para diferenciar o que é nativo da [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: aí eu desfiz e nunca mais eu analisei mais essa questão de criação de índice, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Então o que a gente tem são rotinas automáticas no banco de produção que ele verifica a questão do índice, ele faz a otimização do índice, se precisar recriar ele já recria também. Aí com relação a AVM que a gente estava conversando, a máquina tem 16 GB de memória, está com 55% de consumo agora. Para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: subir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: também está baixíssimo, está 8% de consumo. Então, assim, aparentemente é uma AVM que está com 12 GB de CPU e está com muita folga, então nem precisava tanto assim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: mas é que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: realmente a gente vai constatando problemas o tempo todo em torno disso e a gente começa a desconfiar de tudo um pouco, então ela tá com muita folga de processamento e memória eu particularmente nunca vi passar de 65%, né, desde",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: a hora",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: do ajuste que a gente fez. Então assim, nesse momento ela tá com 55%, lembrando que a interface de rede dela, a gente tem um outro particularidade da solução, vou até confirmar aqui antes de falar. Ela... É isso mesmo. A solução como um todo, ela é 10 gigas, tá? Então, para a rede, chega a 1 giga, porque o switch, onde os clientes estão conectados, é de 1 giga. Porém, dentro do datacenter, ela opera a 10 gigas. E como a storage, ela não é um equipamento à parte, Ela é uma solução integrada a [EMPRESA] da [EMPRESA], então ela não sofre com saltos. A controladora dela já é junto da solução onde ficam os clusters. Então, tem momentos aqui que a gente consegue praticamente 1.800 MB de transferência entre os clusters. Entre as VMs isso não acontece, ele fica limitado a 10 GB. mas entre os clusters, ele opera na parte física, ele chega a uma taxa muito alta. Então assim, a gente tem... basicamente assim, a gente tem muita velocidade, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Entendo. Então concordo, porque realmente tá bem proporcionado o ambiente, tem recursos de hardware sobrando.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5188,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Eu vou olhar até o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3928,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: rosto que n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: alocado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: aqui, só pra gente falar se não tá, né. Tem muita VM misturada no [LOCAL], mas acredito que não. Mesmo que estivesse, ele não acompanharia muito do recurso. Ele está no [LOCAL] 3. O banco de dados está no [LOCAL] 2. O banco de dados é um vilão. Tá em máquina física separada. O portal... Dois portais a todos. Também tá indiferente, tá no [LOCAL] 1. E um tá no [LOCAL] 3, junto com o [EMPRESA]. Mas são poucas máquinas no mesmo [LOCAL] que o [EMPRESA] aqui. Tem apenas seis servidores, pouca coisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA]. Eu estou me recordando aqui de uma situação de uma lentidão específica nessa tela que envolvia uma lentidão no carregamento do grid. Estou vendo o pessoal de produto aqui para a gente... Talvez saia algum patch",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: correção para isso. Pensando também na questão dos índices que a gente estava falando, de alinhar com o time de produto, o time de atendimento, um processo para que, caso você identifique a falta de um índice, seja aberta uma demanda e o produto tente incorporar esse índice na solução e que saia num patch, para que não aconteça do...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: um minutinho que eu vou entrar pelo celular. Estão me vendo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4001,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Estou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ouvindo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Em",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] então? No caso ali da urgência e emergência que você estava falando, né? Esse vai sair um patch de correção.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5535,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eu estou confirmando aqui, porque eu vi uma situação parecida nessa tela quando ela estava com muitas senhas. vou verificar com o mídio produto aqui se já existe alguma correção, como que foi dado andamento para isso, e também vou verificar com eles, aí eu posso passar o entorno para vocês, de um processo para inclusão de índices no produto, caso seja identificado ali por vocês, para que saia via [EMPRESA] e não haja essa situação de... de vocês criarem o índice e o patch vir e gerar algum problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 14]: também isso eu vou verificar e aí eu tento fazer um apanhado e tentar passar um processo para vocês sobre isso. E aí, gostaria de reiterar lá a sugestão de habilitar o repositório de consultas ou alguma outra ferramenta que vocês tenham de análise aí, porque o [PESSOA] falou que já fazia essa análise anteriormente. para identificar algumas consultas que também possam estar interferindo nessa tela. Esse repositório de consultas, [PESSOA], você habilita, então?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Na hora que eu conectei, ele falou sobre isso. O que seria exatamente isso? A funcionalidade lá do banco?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5366,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Isso. Eu costumo usar o repositório de consultas para fazer esse tipo de análise. Eu não sei como você estava fazendo essa verificação. Existem outras formas também, mas pode falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Não, pode ser. Normalmente, normalmente eu utilizo o script aqui que o Fax coleta, três fichas aqui em tempo de execução, e aí dessas análises aí, do que é coletado eu consigo analisar alguma coisa, mas também pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá. Essa funcionalidade do SQL Server, ela ocupa um certo espaço do disco, mas você pode configurá-la",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5172,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: também pode habilitar por um tempo e depois desabilitar, que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5143,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: vai fazer uma estatística de todas as queries que estão sendo executadas e te mostrar quais são as que mais consomem CPU, as que mais consomem [PESSOA] Ele já traz o plano de execução das queries também, mostrando se precisa de índice ou não, e aí a gente pode deixar analisando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5266,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: dia ou mais, de acordo com o que vocês preferirem, e fazer uma análise disso. E aí, tendo que criar índices, tem que ver com o time de produto a viabilidade de fazer isso via patch.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5285,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Tá, eu vou fazer o seguinte, eu vou pegar um horário mais ou menos de meia-noite, que é o que está mais tranquilo,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.422,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: aplico aqui, aí você quer uma coleta de uns dois dias, mas eu acho que um dia é muito pouco.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4903,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá bom, pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4889,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Hoje sendo terça-feira, aí eu estopo ele no final do dia da quinta,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5008,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: na sexta-feira eu tenho disponibilidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5232,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá, e aí você vai fazer via, só para confirmar, via 3 ou via repositório de consulta?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Não, eu faço via repositório de consulta.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.445,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Tá bom. E aí você me manda ou eu analiso, ou também se você já tiver feito uma análise prévia, pode já mandar os resultados que você achar relevante",
+      "mantida": true,
+      "probabilidade_relevancia": 0.478,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: a gente endereça isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: para ele te mandar para aquele e-mail que você mandou o convite para a gente, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5557,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Pode ser por lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5289,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Beleza. Já anoto aqui. Então tá, então você vai dar o retorno para a gente sobre aquela questão do painel da urgência e emergência, que está travando quando a gente tenta mudar as filas ali, né? E",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5317,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: questão das consultas relacionadas à prescrição médica, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim. Ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: vai trazer tudo, na verdade, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 11]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: trazer tudo e aí...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tiver alguma específica do [EMPRESA], ele já vai mostrar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5806,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ali",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: como os maiores consumos e daí eu posso também procurar alguma queria específica para a gente analisar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4943,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: É, porque eu fiz um um assessment com, esqueci o nome do rapaz agora, é...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: não, foi com outro, acho que foi [PESSOA], deixa eu lembrar, [PESSOA], [PESSOA], e aí ele falou para eu mapear as rotinas que mais estavam lentas, não só no PEP, mas também no sistema, e eu havia falado com ele sobre as rotinas de processo farmacêutico, de devolução da prescrição médica, tem dia, aí assim, a gente já está analisando porque [LOCAL] funciona bem e tem dias que não. Tem dia que a gente faz um... Tenta selecionar aqui, ó, o paciente. Cara, demora uns 4, 5 minutos só pra selecionar o paciente. quando a gente tenta fazer a devolução de medicamentos da prescrição médica, né? Só eu criar a devolução aqui, tentar selecionar o paciente, demora de 4 a 5 minutos. E aí, toda a rotina, ela é muito pesada, ela é muito lenta. Aqui, a gente faz a devolução via nome do paciente, né? E aqui a gente escolhe o paciente que quer fazer a devolução. Então aqui eu coloco, por exemplo, paciente teste aqui, que eu sei que está internado. Hoje ele está indo bem, mas tem dia que essa tela aqui trava. Entendeu? E aí a gente não sabe o motivo desses dias sim, está bem, dia não, não está, se é pelo número de pacientes também, eu não sei, o que ele carrega",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: acho que é o leito zero. E aqui é a primeira parte da lentidão. A segunda parte é quando a gente bipa. Quando a gente bipa aqui o código do item para ser devolvido, depois ele trazer aqui na listagem, ele demora de 2 a 3 minutos para trazer um item. Aí às vezes a gente precisa devolver a prescrição inteira com 36, 40 itens, aí imagina como é que fica. Então, assim, essa parte aqui de processo farmacêutico é outra que demora bastante mesmo para carregar as funcionalidades. Então, assim, nesse repositório de consultas isso provavelmente vai buscar também, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim, se for uma questão de query vai aparecer lá como uma query que está demorando muito tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4758,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: até lembrei agora de uma de uma outra funcionalidade que a gente pode dar uma olhada. Aqui mesmo no RM, vai no",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: menu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: da esquerda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Qual?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: primeiro menu, do lado de cadastro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6317,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Serviços biodais. Ambiente. Ambiente. [PESSOA] do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] do [PESSOA] sistema. [PESSOA] do sistema. [PESSOA] [PESSOA] do sistema. [PESSOA] do sistema. [PESSOA] do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: do sistema. [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA] do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] do sistema. [PESSOA] [PESSOA] do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [PESSOA] do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA] do sistema. [PESSOA] do sistema. [PESSOA] do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA] do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5949,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Alguns erros de comunicação com o server.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tem uma query muito lenta, ela aparece aqui também. Tem uma linha de execução muito lenta de query abaixo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 20]: você colocou? Aqui na mensagem ou não?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Isso, na mensagem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Aqui, ó.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Dá dois cliques nela para abrir a...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aqui nessa mensagem, nesse texto, vai aparecer a query que está Então, pode ser que tenha alguma coisa com relação à configuração de jobs",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ambiente e comunicação com o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aqui é do RH. Tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E da saúde, usuários de saúde.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5651,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Dá para a gente filtrar aqui, [LOCAL], muito lenta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: a farmácia. Isso aqui é o processo farmacêutico.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: pode tentar rodar essa query e ver o plano de execução dela e entender se tem algum... Algum problema de índice ou algo do tipo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: fala eu copiar isso aqui e rodar ela lá, executar lá no DBX?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4838,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim. Eu não costumo usar o DBX. Eu não sei se ele tem a visualização de plano de execução. Acho",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que não. Não, né, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4164,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Não, tem não. Mas ele é bem simples.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3864,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCUTOR 8]: para consulta é simples mesmo. Aí lá embaixo você vai ter que trocar os parâmetros da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5597,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: query. Dos parâmetros da data de hoje.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.519,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ter só no 21, né, [PESSOA]? O Microsoft SQL serve lá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Eu acho que tem nas duas máquinas de suporte. A de homologação e produção.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: 021 não, 221.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Seria interessante também exportar para mim esses logs, para eu dar uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5247,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: analisada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: e tentar identificar mais alguns pontos. E eu acabei não perguntando, o sistema de vocês tem qual versão?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4377,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: 25.06. Na verdade, acho que está no patch menos atual do que esse aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5514,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Aqui você consegue, depois ali na aba de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ambiente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: dá para visualizar a versão. No",
+      "mantida": true,
+      "probabilidade_relevancia": 0.557,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: ambiente? No sobre? No",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: sobre, sim. Eu teria",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que ter um código da requisição também. Qualquer um, né? Deixa eu tirar isso aqui. Eu vou pegar um aqui. Peraí, não é aqui não. Deixa eu sair aqui e vir aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3951,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tela tá aqui aberta. Vou pegar um acaso aqui. Vou colocar o mesmo aqui embaixo. Aqui. 0, 9, 3, 17, não é isso?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3674,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: é padrão. O que mais? Deixa eu ver aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4278,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Marca ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Perto de onde você mandou executar, tem três caixinhas ligadas por uma linha. Mais para o lado. Não. Pode pausar aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4959,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Aqui? Aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Isso. Aqui tem uma verde. Essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aqui, né? Pode executar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Pode. Aqui embaixo ele até mostrou que tem uma possibilidade de criação de índice. Salva, por favor, esse botão direito aí. Onde estão aparecendo as caixinhas aqui embaixo. Aqui embaixo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 18]: embaixo onde ele mostrou os resultados. Aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Isso. Salva o plano de execução.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Vou colocar aqui teste 17 do 3, 26. Tipo andar lá, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4983,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim, por favor. E aí eu vou ver o time de produto. Existe a possibilidade de ser criado esse índice, se ele já não existir, de alguma outra forma, que só precisa alterar o índice existente, mas é possível criar ambiente de vocês. E quando for aplicar determinado patch, para corrigir essa falta de índice, deleta o índice e só roda o patch. Não sei se ficou claro, mas...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá, vai criar o índice. Se precisar atualizar o patch, é só deletar o índice.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: [PESSOA] pode... analisar e ver se faz sentido criar o índice manualmente ou aguardar a gente ver a possibilidade de criar via patch.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5632,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Então, no caso, a gente teria que pegar todas aquelas lá que estão aparecendo aqui no [PESSOA] de execução muito lenta, ver o que a gente identifica aqui que tem que ser criado o índice e sair criando o índice?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5254,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim, essa é uma abordagem que pode ser tomada. Porque mesmo que vocês mandem para a gente essas queries, a forma como ela vai ser executada no banco de vocês pode ser diferente da que eu vou executar num banco aqui de desenvolvimento ou algum de homologação nossa. Então, o ideal é que esses planos de execução venham do banco de vocês. E aí, pode ser que boa parte dessas queries um índice ajudaria a melhorar a performance delas. Só que é trabalhoso e vai depender da disponibilidade de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: É, e a questão também do... Tem que ver também o impacto do índice, né? Porque o índice, de certa forma, ele também gera um impacto, um efeito colateral.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: a tabela for muito grande, o índice for grande, vai consumir ainda mais espaço. Tem que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: isso mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Opa, eu te cortei pra te falar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Não, não, tranquilo, eu só tinha completado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Além de consumir espaço, Ele tem um trade-off que é, dependendo do tipo de operação, ele pode consumir mais na inclusão de um registro. Então, se é uma query numa tabela que tem pouca inclusão, criar um índice novo vai consumir espaço, mas como não tem pouca inclusão, o impacto nesse tempo de inserir um registro pode ser pequeno. Agora, se é uma tabela que tem muita inclusão de registro, e o índice é muito grande, aí pode afetar o tempo de gravação de registros. Mas,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: enfim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: precisa ser analisado tabela por tabela, situação por situação, para ver os ganhos e as perdas que a criação do índice pode gerar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Então, meio que a gente voltou à estaca zero, né, [PESSOA]? Que antes você fazia isso, mas como cada atualização de patch você teria que excluir tudo, depois recriar de novo, meio que é a mesma coisa, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: É, mas é a mesma coisa e não é, porque ele tá propondo, ele vai propor internamente lá, que a gente consiga, como cliente, apontar alguma situação, abrindo uma demanda,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: eles incorporarem no [EMPRESA]. Eles vão avaliar e incorporar no [EMPRESA]. Então, de certa forma, a gente vai ter uma melhoria, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Sim, se for incorporado, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: É, não no tempo que a gente precisa, mas quando sair o [EMPRESA], pelo menos aquilo vai estar lá dentro. Então a gente teria que retomar as análises que eu fazia antes, recriando o índice. E eu acho que eu vou fazer diferente, eu vou montar um script aqui, para que quando eu for realizar a atualização, eu destrua todos eles. Aí depois da atualização eu recrio novamente, porque senão a gente vai ficar tendo aqueles erros lá que tinha, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Aham, eu lembro.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: E como essa questão de atualização de [EMPRESA] aí é uma constância muito grande no hospital, atualiza um e no dia seguinte já tá testando outro para ver se se resolve um remendo que ficou descoberto, né? Então vai dar um trabalho, mas eu acho que vai ter que ser o caminho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Apesar de não ter conseguido olhar exatamente aquela situação que você trouxe ali da senha e tal, mas eu acho que tem um um caminho mais amplo que vai ajudar tanto nessa query que você mostrou aí, que está com uma situação de índice, que é um dos processos que é presente entre a lentidão, e também pensar na melhoria do processo geral de comunicação, de melhorias de índices que a gente possa colocar aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Uma dúvida, o PEP, ele utiliza tabelas específicas com ele ou... ele consome as tabelas de vários módulos ali para a questão do estoque e tudo mais?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Pelo que eu conheço, ele utiliza as tabelas do saúde e aí quando ele precisa ele pode se comunicar com os demais módulos e aí utilizar a tabela de outros módulos também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6134,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: É porque a [LOCAL] ela segue meio que um padrão assim de nomenclatura de tabela, que as iniciais mais ou menos entende, identifica qual é a, não diria funcionalidade, mas qual é o subsistema ao qual faz parte. Por exemplo, a parte de atendimento, as tabelas tendem a iniciar com alguma coisa que identifique atendimento, né? Eu não sei se é tudo [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.514,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: no caso seria negócio de fila de atendimento, esse tipo de coisa. Quando é estoque, tem também uma identificação, uma particularidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 19]: caso do PEP, eu acho que o PEP consome um pouco de tudo isso. Talvez o que seja um particular deles sejam tabelas estruturantes, mas, assim, o pensamento que eu estou tendo, não tenho certeza sobre isso, mas eu acho que talvez o problema relacionado a índice não seja nas tabelas do PEP em si, mas sim aquilo que ele consome dentro da aplicação dele, que são das outras, dos outros subsistemas, diria isso, seria mais ou menos isso, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim, aí a gente tem que olhar pelo plano de execução que ele vai pontuar ali qual uma subquery ou alguma outra tabela que ele tá fazendo um join que tá precisando de um int pra melhorar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5064,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Uma outra dúvida talvez você não saiba mas assim é sobre o Totus Audit. O Totus Audit ele é um vilão ao mesmo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4273,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: tempo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: é a solução para alguns alguns riscos. Eu não sei como é que tá a questão do [EMPRESA], eu acho que eu vou ter que dar uma revisada nisso junto com a [PESSOA], porque, por exemplo, eu fiz uma análise rápida aqui de índice. Das cinco primeiras tabelas com problema de índice, duas é [EMPRESA]. E dentre as dez, quase todas é sobre estoque, movimentação de estoque ou atendimento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Que é onde a gente mais faz movimentação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Dos atendimentos, assim, batendo o olho, eu te digo que tem uma, duas, três... Entre as dez, tem três tabelas impactando. E a top um é de atendimento. Fila atendimento, ela tá com incremento de 1 milhão 101%.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: É, nós inclusive, foi eu e o [PESSOA], o [PESSOA] precisava gerar uns relatórios de atendimento para um [EMPRESA], e aí ele detectou que as tabelas, a gente teve que auditar elas para pegar cada etapa do processo da fila, do fila do aguardando, em atendimento, atendido. E aí a gente colocou acho que é [EMPRESA] classificação risco",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: auditar e aí do TOPS Audit ele traz essa informação em [EMPRESA], [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: pode ser que seja isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5353,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Aí tem algumas particularidades em torno de questões de query com banco, porque assim, se você na query utiliza campos específicos para fazer correlacionamento filtro, e estes não fazem parte do índice, automaticamente o [EMPRESA] vai degradar, por não ter índice. Aí, a [LOCAL], nesse caso, ela não previu isso, porque ela fez os índices baseados nas consultas, nos filtros que ela tem lá na aplicação. E se sai muito desse controle, aí realmente a gente começa a ter muito problema de falta de índice. A gente precisa achar um meio tempo. Normalmente, quando é relacionado à [EMPRESA], A atualização não pode ser em tempo real, porque senão traz impacto. E algumas vezes a gente faz uma cópia do banco para trabalhar o [EMPRESA] com essa cópia. Teria que verificar isso também. Inclusive no próprio RM lá dá para criar uma interface conectando a outro banco com outro usuário. para dentro do próprio RM lá nos cubos vocês conseguirem conectar nativamente ao outro banco.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Nesse caso foi no INOU, acho que talvez no INOU dê pra fazer. Ele precisa extrair o tempo de atendimento de cada fila, em cada fase que ela tá. Quando o paciente tira a fila, ela entra numa fase. Desculpa, quando ele tira a senha ali no pronto atendimento. Ele vem, pega a senha e fica numa fase. Quando a atendente chama, o guichê chama, ele entra numa outra fase. E a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5803,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: precisa contabilizar a cada fase quanto tempo de atendimento durou para a gente saber.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5999,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: esses",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: dados esses dados que o pneu está conectando é produção produção. Aí não pode.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4467,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: produção? Não pode. Deixa eu até ver aqui o gráfico que ele criou aqui, foi esse preço aqui ó, filas de atendimento, cadê filas? Tempo do pronto atendimento, que aí ele precisa extrair aqui o tempo de cada fase da senha.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Essa execução, essas execuções que você tá fazendo nas consultas aí, tá gerando concorrência com o [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5372,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Ah, entendi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: É por isso que normalmente [EMPRESA] a gente faz separado, uma cópia do banco, ou, por exemplo, no governo, que são milhões de dados lá, a gente faz extrações na madrugada e no dia seguinte a gente trabalha com dados de menos um, sempre com atraso de um dia e não gera concorrência.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Então a gente pode rever essa parte aí com o [PESSOA] quando ele voltar, que aí a gente...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.545,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: que se estruturar de repente para ter uma base replicada para vocês trabalharem livremente nela, considerando sempre que ela vai ter uma atraso de um dia.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5327,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [EMPRESA]. Aí tem esse e tem o atendimento, o andamento da essência do [EMPRESA]. Esse aqui ele é em tempo real, mas foi um projeto aqui que a gente desenvolveu porque a gente precisava mapear o tempo de espera dos pacientes, que eles estavam reclamando muito que passavam o dia todo aqui no 9 de julho, então acho que nem é essa apresentação que eu não tô pegando agora.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Mas o ideal tamb",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: não é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: o [EMPRESA] conecta-se em produção de maneira alguma. Por exemplo, assim, é que nem a solução TOTUS, o [EMPRESA] TOTUS, que é o Fast Analytics. Ele faz, com base em queries, extrações no bloco de produção. E a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5994,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: gente pode particularizar situações, se você entenda que tem uma urgência maior, e aí ele... Trabalhar para ele fazer uma extração de hora em hora.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: O resto você deixa D-1 e esse aqui é de hora em hora, tudo bem, aí você começa a minimizar. Aí entenda que a extração tira os dados naquele instante e carrega para uma estrutura, nesse caso em particular, da TOTOS. Então quando você acessa o [EMPRESA], você não está lendo o banco de produção, você está gerando concorrência, lendo os dados no banco da [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [EMPRESA]. O único",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: momento que ele vai gerar carga no banco de produção é sempre nos momentos de extração, que aí você tem uma liberdade de fazer ajustes de horário, quantidade por dia, uma vez por semana, uma vez por mês, conforme cada cenário, cada décimo de cada mergulho de dados que você precisa fazer.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL] Audit, o que a gente habilitou recentemente, que foi o que você falou aí, foi essa da classificação de risco, a [LOCAL] Classifique Risco. Sobre as tabelas ali do PEP, [PESSOA], ele utiliza não só a [LOCAL] prescrição ali, item prescrição e várias outras de dietas também, como também a gente percebeu aqui em alguns testes, que se eu vi aqui, antes de eu entrar no PEP, Ele faz a validação do usuário, né? Então ele usa as tabelas lá do módulo pra saber se ele tem permissão de prescrever, de visualizar, enfim. E a mesma coisa nós percebemos também naquela análise que a gente viu da impressão, né? Quando eu digo na... Aqui no perfil do usuário, quando eu digo que ele não pode acessar campos sensíveis, que eu acho que tem a ver com todos os Audit, eu não lembro agora bem, mas aqui é quando eu configuro que o usuário não pode acessar alguns campos sensíveis, como CPF, telefone, que é o que a gente tinha feito uma vez, uma configuração, ao eu imprimir qualquer relatório aqui do PEP, ele tem, ele monitoriza isso, ele não, nenhum relatório do [PESSOA], nenhum relatório criado lá no repórter, ele traz os campos, entendeu? Então, assim, ele faz, sim, consultas além das tabelas de prescrição. Não sei se eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: fiquei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: clara,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: mas... Eu entendi, por exemplo, dos 13 índices que eu tô na tela, O segundo e o terceiro é ZSZ, classificação risco,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 10]: Audit. Os dois estão com mais ou menos 760 mil por cento de incremento. E",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: eu ainda",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: tenho o décimo segundo aqui, é a tabela G permís, de permissão, que também está com 132 mil por cento de incremento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: De permissão.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Então, muito provável, se eu fizer aquele pente fino aqui, Vocês vão ter algum resultado, mas com o banco em cima do, desculpa, o [EMPRESA] em cima do banco de produção, é assim, a gente vai remar de um lado e vai puxar do outro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5773,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a gente teria que fazer uns dados offline, digamos né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: É, eu posso trabalhar para replicar o banco em determinado horário e você fica olhando esse banco. Aí tem que ver lá como é que vai ser no [EMPRESA], o que vocês julgam necessário de ser em tempo real e isso tem que ter um olhar muito crítico. Por enquanto a gente deixa apontando para produção, então teria que ser o [EMPRESA] trabalhar com duas fontes de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [EMPRESA]. E aí só só o que é o agora a gente deixar na produção direto né.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5344,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: É só o que é de atualização online e analisar de fato se é pesado ou não porque se for deixar online mas é muito pesado também não vai valer muito a pena né senão a gente não vai resolver.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 51]: que tem que analisar tem que ponderar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Não, beleza. Eu vou eu vou sentar com o [PESSOA] pra gente mapear como é ele que tá na frente dos BIAIS.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4067,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Eu vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: mapear com ele certinho. Mas de qualquer forma ali pro [PESSOA] a gente vai enviar esses relatórios pra ele pra ver o que ele consegue ajudar a gente ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 51]: A princípio hoje à noite eu já tive o que a gente acordou mas eu não vou mexer em nada em índice por enquanto exatamente pra dar pra ter evidências lá pra não alterar nada do cenário. E aí, na sexta-feira, eu entrego e eu começo a trabalhar nos índices.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4775,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 26]: E se vocês quiserem mandar o print da tela que está apresentando lentidão, eu vi ali que é a tela de senhas e a de prescrição de medicamento, que você falou que tem o [PESSOA] ali do paciente, ele demora um tempão para prescrever. mas ajudaria a documentar e também a direcionar para os times.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5482,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Beleza, eu vou gravar. Uns eu gravei aqui, o tempo que dá quando eu faço uma cópia de prescrição. A gente pegou todos esses tempos aí. Foi 5 minutos para fazer uma cópia de prescrição vigente para a futura, mais 5 para liberação. A outra foi aquela que nós vimos lá na classificação de risco. Uma outra foi no processo da devolução, que são nas movistoques, né, de estoque. São bem lentos. Essas daí todas eu fiz vídeo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [PESSOA]. Ajuda bastante a gente a rastrear aqui o problema. E até depois de ouvir a questão do [EMPRESA], também tentar identificar se o uso do [EMPRESA], quando ele está fazendo aquelas queries, não causa uma lentidão maior nessa prescrição. Porque até você mostrou aí que hoje está tranquilo. Mas em",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: algumas situações",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: ali, apresenta alguma lentidão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: O [EMPRESA] nunca influenciou muito não, até porque são poucas pessoas que acessam o [EMPRESA], acho que de duas ou três pessoas aqui dentro que acessam e é muito raro, é para uma situação específica que ela quer anotar. A",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aí alguns painéis criados em tempo real, né, que a gente colocou lá nos atendimentos, painéis de internados, então cada posto tem o seu painelzinho, né, posto, farmácia, mas são pesquisas bem, bem leves assim, não tem muita coisa não, é mais de, deixa eu lembrar aqui, apresentações. A gente tem alguns painéis aqui. Essas apresentações aqui, elas são configuradas para cada um minuto elas atualizarem. Mas são as pendências ali que a gente deixa nos postos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: e censo. painel de internados aqui, o painel de internados posto C. Isso aqui fica na tela, lá numa televisão, lá no posto C, para saber quais são os pacientes que estão lá e quem é o médico responsável. Então o médico chega lá no posto, ele identifica qual o paciente dele e faz a visita. Antes isso era manual em planilha, a gente trouxe para cá. Então ele está configurado, está vendo uma barrinha aqui em cima?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Ela",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 11]: vai passando um minuto, quando ela chega aqui no final, ela autoatalisa a consulta, né? Então, acho que de painéis a gente tem essas, algumas que são consumidas 24 horas, mas os gráficos não. Os gráficos só fazem as consultas se a gente abrir ele. Então, esses gráficos aqui, se eu abrir, na hora que eu abro, é o momento que ele vai fazer a consulta. Então, tem alguns... Aí, se eu quiser ver em tempo real, eu tenho que ficar atualizando. A cada atualização, ele faz um novo select, uma nova consulta ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Sim. Beleza. E no próprio repositório de consultas, ele provavelmente vai também trazer essas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4344,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: queries",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: do [EMPRESA] que podem ou não estar ali concorrendo. Mas eu entendi como funciona o processo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Beleza. Então, pronto. Então, até sexta-feira a gente envia para você. Eu vou enviar hoje os vídeos que eu já tenho aqui de algumas rotinas que estão apresentando essas lentidões. Eu já mandei para o outro rapaz, vou replicar para você também. E aí, na sexta-feira, o [PESSOA] manda essa do repositório de consultas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5119,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: [LOCAL]. [PESSOA] a atenção de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5098,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: É um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: trabalho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 26]: a gente vai ter que fazer, mas vai dar um resultado bom.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4607,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Beleza, então. Obrigada, viu, [PESSOA], [PESSOA] também. Obrigada pela disponibilidade de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4651,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: Até mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Até mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 51]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    }
+  ]
+}

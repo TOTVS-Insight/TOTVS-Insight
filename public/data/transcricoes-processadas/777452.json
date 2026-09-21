@@ -1,0 +1,529 @@
+{
+  "id_reuniao": "777452",
+  "codt": "TFAIMM",
+  "data_reuniao": "2025-12-02 10:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "DISTRIBUICAO",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 1]: Essa só tinha uma adesão, né?\n[LOCUTOR 2]: [PESSOA], como é que tá? Beleza?\n[LOCUTOR 3]: Bom dia, tudo certo, mano?\n[LOCUTOR 2]: Tudo certo, cara. O [PESSOA] entra aí pra acompanhar?\n[LOCUTOR 3]: Acredito que sim.\n[LOCUTOR 2]: Dá uma guardada aí. [PESSOA], eu esqueci teu nome. Por gentileza, qual é teu nome?\n[LOCUTOR 1]: [PESSOA].\n[LOCUTOR 2]: [PESSOA], desculpa, tá? Ali tá só o [LOCAL] o negócio.\n[LOCUTOR 1]: Sim.\n[LOCUTOR 2]: Fala [PESSOA], beleza?\n[LOCUTOR 1]: Ok, [PESSOA].\n[LOCUTOR 2]: Microfone desligado, [PESSOA].\n[LOCUTOR 4]: Bom dia, turma. Entra no certo.\n[LOCUTOR 2]: Só pela pintura aí, tu tá no prédio novo, né?\n[LOCUTOR 4]: Não, ainda não, [PESSOA]. Ainda não. Daqui a pouco eu vou subir lá. Estamos na corrida lá. Tem que ir lá.\n[LOCUTOR 2]: Tá, gente. Primeiramente, muito obrigado pela disponibilidade. Participou mais alguém aí do lado de vocês?\n[LOCUTOR 3]: Acho que não.\n[LOCUTOR 2]: Tá, perfeito. Então, o objetivo aqui, né, a gente gerou-se aí no meio dos últimos meses aí é uma alteração em relação à meta, já vou passar a palavra para a [PESSOA] aí. Então, mudou aí o formato de classificação da [EMPRESA], né, porque a gente tem um sistema homologado já com eles. Então, a [PESSOA] vai explicar um pouco mais sobre isso e também explicar um pouco mais sobre a questão do escopo proposto, tá? Tem alguma outra dúvida, alguma coisa da minha fala aqui que vocês gostariam de saber também?\n[LOCUTOR 3]: Bom, acho que é isso aí mesmo.\n[LOCUTOR 1]: Beleza.\n[LOCUTOR 2]: Então, [PESSOA], tá contigo.\n[LOCUTOR 1]: Ok. Boa tarde, pessoal. Tudo bem? Como o [PESSOA] trouxe, faço só para dar um contexto também, que seja nossa primeira agenda com todos. Faço parte aqui do time de sucesso do cliente da [EMPRESA], atuo junto com o [PESSOA], junto com a conta da [LOCAL]. Qualquer apoio que vocês tiverem, tanto essa dúvida em questão financeira, mas futuramente na utilização do produto, estratégia de utilização, vocês vão poder contar diretamente comigo. A ideia hoje aqui é explicar para vocês o que gerou de mudança no formato de faturamento que a gente realiza de cobrança com os nossos clientes. E aí, para dar esse contexto, eu vou compartilhar aqui a minha tela, porque como são algumas mudanças de valores e de conceitos, também acredito que fica mais fácil vocês acompanharem do que só na minha fala, tá bem?\n[LOCUTOR 3]: Beleza.\n[LOCUTOR 1]: Deixa que vocês já estejam vendo a minha tela.\n[LOCUTOR 3]: Vamos lá.\n[LOCUTOR 1]: Aqui eu trouxe as pautas para a gente trazer, então, para a gente conversar sobre o contexto, o motivo da mudança, o que que é essa nova precificação, para ficar claro para vocês, e aí a gente abre para dúvida também. Com essa nova precificação, também a gente teve mudança na estrutura dos nossos planos, então algumas funcionalidades, e também a nomenclatura dele, como chega para vocês. E a readequação para o plano, como que ficou o faturamento de vocês? Qual é a diferença de fato na fatura que a [LOCAL] vai receber todos os meses, tá bem? O primeiro ponto que eu queria trazer para vocês de visibilidade é por que essa mudança aconteceu. A [EMPRESA], especificamente o produto [EMPRESA] Converses, como trabalha diretamente com o serviço da API oficial da meta, que seria o WhatsApp API oficial, a gente trabalha em conjunto com a precificação que a meta cobra. Então, toda essa limitação de precisar pagar para o envio de template, se é necessário a criação de template, quantidade de templates que podem ser enviadas, tudo isso são regras de negócio da meta, não são regras de negócio da [EMPRESA], mas como é a utilização da API, a gente precisa seguir, consequentemente, os nossos clientes também precisam seguir. Então, em julho desse ano, a meta fez uma mudança nas regras de cobrança que ela realiza, e as principais mudanças foi que ela retirou a cobrança do que a gente chama de janela de serviço e adicionou a cobrança para todo envio de template. Num contexto geral, para ficar bem claro mesmo, a meta hoje tem quatro valores de cobrança. Ela pode cobrar pela janela de serviço, e aí quando eu falo serviço, a meta considera que é a cobrança de quando o cliente fala com o número da empresa que está vinculada à AP oficial, então é quando O cliente clica no botão do WhatsApp e fala com vocês, quando ele lê um QR Code, quando ele fala reativamente. Então, qualquer contato reativo, também existia a cobrança. E a meta retirou essa cobrança em julho desse ano. O que ela também alterou? Anteriormente, você tinha janela de 24 horas. Isso se mantém, só para dar esse contexto, vocês continuam tendo as janelas de 24 horas fechadas a cada 24 horas. Porém, se você mandasse três templates, quatro templates ao mesmo cliente dentro da janela, por já ter aberto ela, você só pagava a abertura, você não pagava pelo envio. E a meta, ao tirar a cobrança da janela de serviço, ela cobra agora por todo o template enviado. Então, seu envio Três templates para o mesmo cliente é cobrado o valor desse template três vezes. Então, essas foram as duas principais mudanças que a meta realizou. Como que a [EMPRESA] trabalhava anteriormente dentro do [EMPRESA] Conversas? Nós trabalhávamos com a venda do nosso produto já vinculado a um pacote de conversas da meta. Então, vocês, por exemplo, compravam o plano pró com 3 mil conversas. E aí essas conversas seriam as janelas que iriam sendo abertas a cada 24 horas e sendo cobradas. Com essa mudança, nós não teríamos como faturar, cobrar vocês a janela de serviço que não era mais cobrada, então seria impossível a gente se manter dentro desse padrão. Então, essa mudança ocorre exatamente porque a meta mudou essa precificação e dentro dessa mudança também. A gente tem valores específicos para cada template, então, Se o serviço não é mais cobrado, a gente tem utilidade, autenticação e marketing, e elas possuem valores diferentes, que eu vou apresentar para vocês. E dentro do pacote que a gente vendia anteriormente, era tudo um valor só. Então, não caberia mais a gente conseguir servir dessa forma exatamente para o ponto do mercado, nossos concorrentes, a própria meta. Então, a mudança também ajuda a flexibilizar. Então, se a meta vier fazer uma nova mudança, Nós não vamos mais ser impactados dessa forma, as mudanças não vão ser mais bruscas, nem tão diferentes, tá? E a gente consegue ser mais claro na nossa oferta de valor, porque a mudança que vai acontecer é como vocês vão faturar com a RDA Station. Então, antes, se vocês pagavam um software vinculado com o pacote da API, agora a nova mudança é que vocês pagam o software da RDA Station e separadamente a mensageria para a meta. Dessa forma fica claro quanto que vocês estão investindo na utilização do software e o quanto vocês estão investindo em mensageria, o que não era possível ser visto e visualizado no plano anterior, tá? Então... Aqui é uma visão de como que fica, de fato, a principal diferença do plano e a principal diferença de como que vocês veem a fatura de vocês. Porque anteriormente já vinha vinculado o plano com a mensageria e agora as faturas de vocês vão vir sempre vinculadas ao valor do software e o valor do consumo da mensageria, tá? Até aqui, tudo bem? Estou me fazendo clara? Vocês têm alguma dúvida? Posso seguir?\n[LOCUTOR 3]: Pode seguir.\n[LOCUTOR 1]: Pode seguir. Que eu vou apresentar um pouquinho pra vocês o conceito da nova precificação, que de fato ela modifica. para vocês, tá? Então, como a gente teve essa mudança, mensageria é uma cobrança e software é outra, a EDI aproveitou para também fazer uma mudança no escopo dos nossos planos. Então, anteriormente, a gente tinha o plano Basic, Avançado e Pro. E aí a gente fez uma reformulação para que os nossos planos ficassem na padronização do CRM Marketing ou Conversas. Então, os nossos planos possuem a nomenclação de Basic, Pro e Advanced. Então, essa foi a modificação que a gente fez, então, meu plano não era esse. Na verdade, a gente só readequou a nomenclatura, também só para trazer esse contexto. Com essa mudança, de separação de software para mensageria, a [EMPRESA], ela olhou para o mercado e voltou a entender como que a gente cobraria o nosso software, já que ele não está mais acoplado a uma mensageria, a um valor fixo a ser pago, já que o valor de mensageria vai ser de repasse. O valor do software agora, ele tem viés de atendimento de clientes Então vocês pagam pelo software vinculado à quantidade de clientes atendidos no mês O que isso significa? A quantidade de clientes atendidos no mês são números de telefone, tá? Então, por exemplo, o [PESSOA] tem um número A [EMPRESA] tem um número, o [PESSOA] tem um número, eu posso falar quantas vezes eu quiser com o número de vocês pela plataforma, que eu vou ser considerada apenas um número, apenas um cliente. Então, se vocês falam com 2 mil clientes diferentes, 2 mil números diferentes na ferramenta, então, vocês são do plano pró 2 mil clientes. Só um exemplo para ficar claro, tá? A gente tem as diferenças, então, a gente tem o plano basic, o pró e o... o Advanced, o Basic, que é até mil clientes atendidos, e o Pro é até três mil clientes atendidos. Então, todas as empresas que atendem mais de mil números por mês acabam sendo adicionadas no plano Pro, que já era o plano que vocês também estavam readequados anteriormente, tá? Mas só queria trazer essa visualização. E só é considerado cliente atendido? para esse pacote que é fechado do software, clientes de WhatsApp, tá? Se o cliente acionar vocês por e-mail, seja [PESSOA], [PESSOA], não vai ser considerado um cliente atendido dentro do mês e não vai ser contabilizado para o plano de vocês, tá bem? Nessa primeira coluna eu explico essa parte de software, as duas outras colunas são em relação à mensageria mesmo. Então a gente tem a cobrança de mensageria ali na última coluna, que fala sobre exatamente o valor de cada template que vocês podem enviar para os clientes dentro da ferramenta, que seria a cobrança que vai ser a cada mensagem enviada e a cada abertura de janela. Então o serviço, como eu comentei inicialmente, É a principal mudança da MECA, então, ela está zerada. Então, sempre que o cliente entrar em contato, não vai existir mais essa cobrança. Então, para atendimentos reativos, acredito que muitos clientes vão ter uma economia muito positiva. E aí a gente tem as templates de autenticação e utilidade, que possuem o valor de 12 centavos, e a template de marketing, que possui o valor de 54 centavos. Vocês entendem o conceito do que é cada template? Seria interessante que eu repassasse para vocês o conceito de cada um?\n[LOCUTOR 3]: Não, acho que dá para entender.\n[LOCUTOR 1]: [LOCAL]. Então, só para vocês entenderem aqui, então, Com essa mudança, o [LOCAL] passa a ter um painel financeiro. Esse painel financeiro prevê um relatório diário do quanto que vocês estão consumindo de templates no dia, para que vocês consigam ter uma ideia ao fim do mês o quanto que vocês vão ter de pagamento a ser feito ali dentro da ferramenta. E aí com essa mudança, a gente também tem Um ponto importante é que vocês vão ter duas opções de pagamento para a mensageria. Ela pode ser paga de forma pré-paga com um crédito mesmo, com uma carteira, uma recarga de celular ou algo do tipo. Só uma analogia para vocês entenderem. Então, dentro do painel financeiro, vocês podem colocar um valor a partir de 300 reais e esse valor fica sendo debitado diariamente. no consumo de mensagens que vocês estão enviando. Ou caso não seja viável pela forma de faturamento da empresa ou algo do tipo, vocês podem deixar para pagar de forma pós-paga. Então, a carteira de crédito de vocês fica negativa ao longo do mês da competência que está escorrendo, e no final do mês, na próxima competência que é gerada, a fatura é gerada, o valor do software com o detalhamento de mensageria pós-paga. que vai ser cobrado, que vocês já vão ter uma ideia de quanto que ficou dentro do painel financeiro, tá? Então, tem essas duas possibilidades de pagamento agora com essa mudança. Esse painel aqui do meio, para dar contexto para vocês, que é o [EMPRESA], ela é uma cobrança de linha de mensagem unitária, ela também vai entrar como um pagamento de mensageria, mas para dar contexto para vocês, ela é uma cobrança da RDA Station, na verdade, é uma cobrança do broker da meta, Então, a meta hoje para esse repasse, para essas parcerias, ela não emite nota fiscal nem nada tributário. Então, hoje a [EMPRESA] arca com qualquer custo em relação a isso. E o [LOCAL], ele serve para ter essa noção do custo de utilização de mensageria que é pago de tributação. Então, ele é um valor de meio centavo para as mensagens enviadas e recebidas dentro das conversas de WhatsApp. Então, para ter uma ideia como meio centavo não é muito palpável, A gente tem ali, né, que se vocês têm 10 mil mensagens trafegadas O pagamento de [LOCAL] vai ser de 50 reais Se for 20 mil, 100 reais Pra ter uma ideia que o volume que vai fazer esse valor, tá? Mas ele é meio centavo, 0,005, ok? Até aqui tudo bem sobre valores? [LOCAL], tudo certo Show Aí aqui só um contexto de como que funciona a carteira de crédito, tá? Então você pode adicionar no mínimo 300 reais, eles vão sendo debitados, e mesmo que vocês utilizem o tráfego de forma pré-paga, que seria adicionar o crédito, em momento nenhum a [LOCAL] pode barrar a empresa de receber ou enviar comunicações. Então, não existe um teto ou um limite de gasto de mensageria. Realmente, é um controle que a empresa vai precisar fazer, porque a gente não pode impedir vocês de receberem alguma comunicação, nem de enviar para um cliente. Então, se vocês querem trabalhar, por exemplo, com créditos pré-pagos, por exemplo, tem muita empresa que trabalha com budget, né? Ah, esse mês... Esse semestre, esse trimestre, a gente tem um budget de 3 mil reais, 4 mil reais, e adiciona. Caso esse crédito zere, ele não é interrompido, mas o excedente, ele é cobrado de forma pós-paga. Assim como eu mencionei, se você não quiser colocar crédito nenhum, tudo é cobrado de forma pós-pago. Caso vocês adicionem algum crédito, ele permanece válido por 12 meses. Então, vou adicionar 10 mil reais. Esses 10 mil reais podem ser utilizados ao longo de 12 meses, caso vocês não estejam com um consumo tão alto de mensageria no momento, tá bem? Porque atualmente, até na nossa nomenclatura, isso é um ponto que é muito importante, gosto de reforçar, e que a gente já recebia solicitações também anteriormente, que Na nossa cobrança sendo por pacote, esse pacote, se ele não fosse totalmente consumido, no mês seguinte ele era zerado. Então, se a [LOCAL] tinha um plano pró com 3 mil conversas, se ele consumisse só 1 mil, no próximo mês ele teria só 3 mil novamente, não era acumulativo. Os créditos agora, como é um valor que vocês colocam e ele é separado do nosso faturamento, ele tem esse prazo de 12 meses, tá bem?\n[LOCUTOR 3]: Beleza.\n[LOCUTOR 1]: Aqui a gente tem um contexto de como que fica literalmente a cobrança, para ficar bem claro para vocês. Tá ok? A minha tela tá muito pequena, vocês querem que eu dê uso? Ok, só para dar um contexto, como que ficaria um atendimento mais receptivo agora de cobrança para vocês? Aqui o cliente que iniciou a conversa, então a meta não vai cobrar nada, porque é uma janela de serviço, mas existe a cobrança do [LOCAL] de meio centavo. Em seguida, existe a resposta, a resposta também só tem a cobrança do [LOCAL], e sete dias depois, que já passou 24 horas, que seria o prazo de cobrança de nova mensagem, Também não é cobrado novamente porque foi novamente o cliente que entrou em contato e entra como serviço. Então é cobrado nessa conversa apenas os FIIs. Em seguida, a gente tem uma nova abertura de janela, só que dessa vez, uma abertura de janela com uma template voltada para marketing, com o incentivo de falar com o cliente. Então, cobrou R$ 0,54 e o [LOCAL]. Em seguida, o cliente respondendo e, novamente, não é a cobrança. Então, essa conversa aqui, na nova dinâmica, ela tem um custo de R$ 0,57 para a empresa. Aqui a gente tem um exemplo de como era a cobrança anteriormente. Então, essa mesma conversa, no plano anterior, vocês teriam custo de R$ 2,31, porque todas as janelas de conversas teriam custo, e anteriormente, no nosso pacote, os pacotes eram pedidos de R$ 1.000,00 e R$ 1.000,00, e o custo era de R$ 0,60, R$ 57,8, que estou só arredondando também. Então, para atendimento receptivo, a gente previu uma economia de atendimento. Um contexto para vocês do que é o painel financeiro, que eu comentei. Então, agora, como a mensageria é um custo variável, então vocês vão ter um custo fixo e um variável com R&D, é importante que vocês consigam entender como é que está esse consumo mensalmente, dinamalmente, para entender e prever valores. Então, o painel financeiro, ele vai ter aqui a parte de carteira de crédito, E nessa carteira de crédito você vai tanto poder filtrar algum período e exportar essa informação, mas também vai poder ver dentro da ferramenta por dia o quanto que foi consumido de cada tipo de template, o valor unitário e o valor total desse consumo total, do que foi consumido. Então, aqui vocês vão conseguir também emitir fatura, validar valores, nota fiscal. Só reforçando, a mensageria também tem nota fiscal, então mesmo que vocês optem por pagar de forma separada para paga, a gente vai emitir nota fiscal, software e mensageria, se pagar pós-pago vem uma nota fiscal apenas, tá, que vem tudo junto. A gente também tem um acompanhamento do plano, então aqui nesse painel lateral que hoje Provavelmente, vocês já devem ter visto que é um foguetezinho que vocês clicam e aparece o consumo, aqui vai aparecer o detalhamento das conversas únicas do mês e o consumo de mensageria, para vocês terem uma ideia. E a porcentagem de consumo para cada tipo de template. Então, a gente está consumindo mais marketing, mais utilidade, mais autenticação, para vocês também terem mais previsibilidade dentro dos meses de consumo. Aqui eu tenho a nova estrutura de plano de vocês. A [LOCAL], nessa mudança, ela foi readequada no Plano Pró, 3 mil clientes atendidos. O Plano Pró, ele é a mesma coisa que vocês já tinham anteriormente, vocês já estavam no Plano Pró anteriormente. A gente não tem mudança de funcionalidades em si dentro da ferramenta. O que a gente tem aqui de grande mudança que pode beneficiar Nós queremos dizer que a gente não vai mais cobrar pelo custo de usuários dentro da ferramenta. Então, agora os usuários se tornam ilimitados. Então, vocês podem adicionar quantas pessoas vocês quiserem para acessar o [LOCAL], porque anteriormente existiria um custo adicional sobre isso. O Plano Pro, em diferença ao Advanced, ele tem apenas a questão que a gente adicionou IA no Advanced. Então, a gente vai trabalhando com o IA Agora, dentro dos fluxos e também dentro do plano Advanced, a gente tem mais possibilidade de requisições dentro do chatbot, que seria o vínculo com API. Então, a gente aqui dentro do plano Pro também tem chamada de API, vocês também conseguem se conectar aos produtos, só que algumas APIs estão vinculadas apenas e exclusivamente ao plano Advanced. Mas funcionalidade de uso, fluxos, chatbot, etiquetas, integrações nativas, tudo isso continua tendo o mesmo impacto, sem nenhuma mudança. E aqui eu estou reforçando, esse é o custo desse plano, dessa 2.899, com a precificação do plano PRO. E aí aqui eu trouxe para vocês como que ficou o valor de faturamento da [LOCAL], inclusive as duas últimas faturas já foram emitidas nesse novo valor. E aí eu até queria dar um contexto de como que aconteceu essa mudança. Como a meta mudou em julho, nós nos programamos por dois meses para conseguir refletir a nossa ferramenta, essa mudança para toda a nossa base e para novos clientes. Então as comunicações elas foram enviadas para os representantes legais, quem fizeram a assinatura do contrato, que está registrado com a gente. No caso, a gente não tem contrato em si, nós temos termos de uso. Então, a gente enviou a comunicação oficial de readequação com valores e o detalhamento da mudança para esses representantes legais. No caso da [LOCAL], o e-mail seria o da [EMPRESA], que é o ti.uniagronegócio.com.br. Essa mudança, esse e-mail é disparado com 30 dias de antecedência e sem nenhuma levantada, se o aceite não foi formalizado, porque nesse e-mail é enviado o link para o aceite, existe o aceite táxido, que foi o que aconteceu com a [LOCAL]. Então, como a gente não teve nenhuma devolutiva e o aceite formal não foi realizado, o nosso financeiro jurídico considera o aceite como táxido e a mudança, de fato, aconteceu no plano de vocês de outubro para novembro. Então, em outubro foi emitida a primeira fatura de vocês já no novo plano. Como foi o primeiro mês, ele foi considerado apenas a fatura fechada, no valor de R$ 2.899, que é o boleto que está em aberto, e esse mês já foi faturado novamente com pagamento, se não me engano, está para amanhã nesse novo valor. Aí só para detalhar aqui para vocês. Como eu disse, vocês foram readequados no Plano Pro, esse é o valor do plano com a franquia de 3 mil clientes atendidos, então não há esse limite aqui de clientes. No canal, esses são os valores, mas aqui a gente destaca quais são os valores das mensagerias só para vocês terem uma ideia, porque querendo ou não, esse valor vai ser variável. Então, o plano de vocês também tem um chip adicional e a última fatura foi emitida nesse valor de 3.469,63 por conta do chip adicional, tá bem? E aí o custo da mensageria sempre vai vir na fatura com um detalhamento. E aí, por exemplo, se vocês gastarem no mês, não dispararem muito, fizerem poucas mensagerias, vem um custo específico. Então, crédito para colocar é R$ 300,00, mas o valor pós-pago variável, se vocês gastarem R$ 2,00, vai vir como R$ 2,00. Só um exemplo prático. Também não existe um custo obrigatório de mensageria no mês. Queria abrir para vocês trazerem as considerações de vocês, se ficou alguma dúvida, querem que eu explique algum outro ponto novamente.\n[LOCUTOR 3]: Não, acho que ficou claro, deu para entender. Até a pessoa que tocava o projeto nosso do [LOCAL], tocava o nosso, ela acabou saindo da empresa e a gente acabou contratando e vai começar agora só em janeiro, a pessoa que vai assumir. E aí, o que que também a gente notou nesses últimos meses que a gente está usando, para nós, um plano com até mil usuários, acho que faz sentido, a gente não está passando disso, né? Então, acho que aquele é o Basic, né? A mudança do Basic para o Pro, ele só muda isso, né? Ele só muda a quantidade de usuários, né?\n[LOCUTOR 1]: Na verdade, o BASIC também tem usuários limitados, ele muda as possibilidades de utilização. Então, por exemplo, dentro do BASIC vocês não têm a parte de análise de emoções, que é a validação do análise do atendimento em si, se está positivo, se está negativo, não existe funil de vendas, então tem algumas limitações em relação à utilização da ferramenta. Vocês também só conseguem ter um número, e hoje vocês pagam um número adicional, então...\n[LOCUTOR 3]: Esse é outro ponto, o adicional a gente também não está usando, e também não faz sentido, por enquanto, a gente acha que consegue manter um número só. Então esse é os dois pontos. E qual que é o valor que ficaria nessa nova modalidade do BASIC? Só para nós também entender aqui.\n[LOCUTOR 1]: O plano BASIC tem um valor de R$ 1.499. A outra única limitação que ele tem também é a questão de chamada para API. No momento vocês já fizeram alguma integração com outro sistema? Ou pretendem fazer?\n[LOCUTOR 3]: Não fizemos, mas pretendemos.\n[LOCUTOR 1]: O que eu posso indicar para vocês, então? Como vocês estão em fase de readequação, nós podemos alterar o plano de vocês para o plano Basic, se fizer sentido, e quando vocês se organizarem para fazer essa alteração, a gente estuda a possibilidade de vocês virem para o plano Pro, que se estiver adequado com a AP que vocês querem utilizar, tá? Essa é a minha sugestão. O único ponto é que, por exemplo, a fatura desse mês já foi emitida. Então, não conseguiria alterar essa competência, mas a partir da próxima a gente consegue alterar sim, que seria o pagamento ali do início de janeiro, tá? E aí é o período que vocês se organizam para fazer essa alteração. Faz sentido? Eu posso formalizar para vocês o valor que fica, a gente também pode retirar temporariamente o chip adicional para que vocês realmente paguem o que vocês estão consumindo temporariamente, e aí quando o projeto der avanço, a gente faz a readequação novamente para que vocês não paguem nada Excedente no momento.\n[LOCUTOR 3]: Pode ser, acho que faz sentido sim, [PESSOA], e depois, quando realmente a gente tiver tempo de... Mas eu só não entendi daí, no BASIC não tem nenhuma API, nada a gente consegue utilizar? Ou algumas é possível?\n[LOCUTOR 1]: Não, o BASIC realmente não tem chamada para API, nada. Dentro do fluxo a gente só consegue integrar nativamente, que são com os produtos RdStation, [LOCAL], [LOCAL], exact sales. Dentro do BASIC não tem nenhuma.\n[LOCUTOR 3]: Também, mas eu acho que faz sentido a gente ainda voltar. Daí o [PESSOA] vai me dizer quando eles vão ter tempo de avançar, talvez, numa API. Daí a gente, talvez, vai estar rodando mais. A gente vai conseguir entender se vai fazer mais sentido essas conexões também.\n[LOCUTOR 4]: Isso, com certeza, só. Com certeza, pro [LOCAL], né? E outra questão, [PESSOA], essa fatura que está vencida, tem que ser paga também?\n[LOCUTOR 1]: Sim, tem que ser paga também.\n[LOCUTOR 4]: Mesmo não utilizando, vai ter que ser paga. Não há como fazer uma renegociação.\n[LOCUTOR 3]: Na questão da xícara adicional, tu diz, Valentim?\n[LOCUTOR 4]: Não, não, é que a fatura do mês passado, ela já tá pegando esse valor aí, né? Ela tá pegando R$2.998, alguma coisa assim, né? E agora desse mês já chegou com preço R$469.\n[LOCUTOR 1]: Isso. Olha, a fatura passada, realmente, eu não consigo fazer nenhuma alteração, até porque teve uma alteração no período fiscal. Então, tudo que passou o período fiscal, a gente não consegue alterar de forma alguma. Então, assim, realmente, isso eu consigo ter certeza de que a fatura...\n[LOCUTOR 4]: Essa fatura de R$ 3.400, o que você consegue?\n[LOCUTOR 1]: Pronto, essa aqui eu vou entender com o nosso time financeiro se é possível fazer a alteração. Eu vi que a emissão dela foi dividida.\n[LOCUTOR 4]: Bem, quanto que custa para me cancelar de conversas hoje? Eu quero cancelar. Quanto que é o valor da decisão? Tem valor?\n[LOCUTOR 1]: São... Deixa eu ver só aqui a data que vocês contrataram. Tenho. Tenho custo... Eu tenho um prêmio. Deixa eu conferir com vocês aqui se vocês teriam multa. Vou conferir se vocês têm multa. Se não tiver multa, ela... Tem o custo dos 30 dias de antecedência. Então, todos os boletos seriam válidos mais os 30 dias.\n[LOCUTOR 4]: Dá só para a gente ver aqui.\n[LOCUTOR 1]: Esse é o custo de cancelamento.\n[LOCUTOR 3]: Beleza, acho que dá uma olhada, [PESSOA], nesse mês e ver o que você consegue ajustar. E aí depois a gente já alinha o pagamento que está atrasado e avança para fazer esse ajuste conseguindo o BASIC até a gente realmente avançar nas APIs.\n[LOCUTOR 1]: Tá, ok. Como a fatura foi emitida dia 29, eu vou entender com o time financeiro o que a gente consegue alterar se é possível a gente mudar a competência de plano de vocês, se não for possível, tentar readequar o custo, e aí eu já abro a solicitação para a mudança do plano BASIC, mas eu atualizo vocês no máximo até amanhã de manhã, porque eu já abro essa solicitação hoje. Não consigo confirmar aqui com vocês qual é a mudança que vai poder ser aprovada, mas vou tentar o possível aqui para que vocês consigam dar continuidade com a ferramenta sem nenhum problema, tá bem?\n[LOCUTOR 3]: Tudo bom, combinado então.\n[LOCUTOR 1]: Obrigada. Aí eu vou só, como a gente vai ter essa mudança e a fatura está com vencimento para amanhã, eu vou pedir a postergação dela, tá? Para que eu consiga atualizar vocês. Eu, respondendo vocês sobre essa questão, a gente consegue postergar para o dia 5? Vocês conseguiriam fazer o pagamento? Se eu enviar até amanhã ela atualizada?\n[LOCUTOR 3]: Eu acredito que sim.\n[LOCUTOR 1]: Tá, ok. Combinado, então.\n[LOCUTOR 4]: [PESSOA], mais uma coisa que eu queria... modificar o e-mail que envia as cobranças e tudo para alguém responsável no setor do marketing.\n[LOCUTOR 1]: Deixa eu ver.\n[LOCUTOR 3]: A cobrança foi para o financeiro, né?\n[LOCUTOR 4]: É, isso é. Ou pode ser direto lá para eles.\n[LOCUTOR 1]: Quem está como cadastro é a [PESSOA] e o [PESSOA]. Tem essas duas pessoas cadastradas como financeiro. É correto?\n[LOCUTOR 4]: É, está correto, mas essas questões de modificações em contrato atuais caem no [EMPRESA]. Pode ser que ele acabou caindo até com a Spam, nem visto, aí passou reto.\n[LOCUTOR 3]: É, vocês podem botar o direto para o e-mail do [EMPRESA] ou para o meu daí.\n[LOCUTOR 1]: Entendi. Pronto, essa questão é a assinatura do contrato. A gente tem um processo aqui que a gente consegue fazer essa mudança, ela só vai precisar de alguns passos junto com vocês, que é para mudar esse representante legal, que é uma nova assinatura. A gente vai precisar que a nova pessoa que vai assumir esse caso, ela tenha algum vínculo dentro do quadro societário ali da empresa para se tornar representante legal, tá? Aí eu envio para vocês esses detalhamentos para a gente fazer a modificação, combinado? Mas alguma dúvida, pessoal?\n[LOCUTOR 3]: Era isso aí.\n[LOCUTOR 1]: Então, pessoal, só confirmando aqui com vocês. Vou abrir ali para o financeiro para a gente ver como que a gente consegue ajustar essa fatura que já está emitida para pagamento amanhã. Então, a gente vai tentar ajustar o valor e também postergar para que vocês consigam realizar o pagamento com algum dia de antecedência depois do envio dela atualizada. A fatura anterior, que estava vencida de outubro, vamos precisar do pagamento integral dela por conta do período fiscal, tá certo? E aí a gente já vai agendar o reajuste para janeiro, para a fatura de janeiro, para o plano Basic e com o downgrade do chip adicional. Correto? Esses são os pontos? Combinado, então. Então, envio para vocês a formalização desses pontos até amanhã pela manhã, já com o retorno do time financeiro. [PESSOA] o [PESSOA] para ele acompanhar junto com a gente essa evolução, tá bem?\n[LOCUTOR 3]: Combinado.\n[LOCUTOR 1]: Obrigada pela atenção, pessoal. Ótimo dia.\n[LOCUTOR 3]: Obrigado, [PESSOA].\n[LOCUTOR 2]: Obrigado, gente.\n[LOCUTOR 4]: [LOCAL], pessoal.\n[LOCUTOR 1]: [LOCAL], tchau.\n[LOCUTOR 2]: Ô, [PESSOA]. Oi [PESSOA], queria falar comigo?\n[LOCUTOR 1]: Não, não. Tranquilo, você aqui.\n[LOCUTOR 2]: Vou ficar mais uns minutos com o [PESSOA] aqui, tá? [PESSOA], muito obrigado.\n[LOCUTOR 1]: Nada, até mais. [LOCAL], tchau.\n[LOCUTOR 2]: E aí, meu, beleza?\n[LOCUTOR 4]: Tem mais um perfil ali.\n[LOCUTOR 2]: Ah, tem uma da própria [PESSOA] aqui, peraí.\n[LOCUTOR 3]: Vamos ver.\n[LOCUTOR 2]: E tem esse meu que eu vou remover também. É uma yaka.",
+  "texto_filtrado": "[LOCUTOR 1]: Essa só tinha uma adesão, né?\n[LOCUTOR 2]: Dá uma guardada aí. [PESSOA], eu esqueci teu nome. Por gentileza, qual é teu nome?\n[LOCUTOR 1]: [PESSOA].\n[LOCUTOR 2]: [PESSOA], desculpa, tá? Ali tá só o [LOCAL] o negócio.\n[LOCUTOR 1]: Ok, [PESSOA].\n[LOCUTOR 2]: Microfone desligado, [PESSOA].\n[LOCUTOR 4]: Bom dia, turma. Entra no certo.\n[LOCUTOR 2]: Só pela pintura aí, tu tá no prédio novo, né?\n[LOCUTOR 2]: Tá, gente. Primeiramente, muito obrigado pela disponibilidade. Participou mais alguém aí do lado de vocês?\n[LOCUTOR 2]: Tá, perfeito. Então, o objetivo aqui, né, a gente gerou-se aí no meio dos últimos meses aí é uma alteração em relação à meta, já vou passar a palavra para a [PESSOA] aí. Então, mudou aí o formato de classificação da [EMPRESA], né, porque a gente tem um sistema homologado já com eles. Então, a [PESSOA] vai explicar um pouco mais sobre isso e também explicar um pouco mais sobre a questão do escopo proposto, tá? Tem alguma outra dúvida, alguma coisa da minha fala aqui que vocês gostariam de saber também?\n[LOCUTOR 3]: Bom, acho que é isso aí mesmo.\n[LOCUTOR 2]: Então, [PESSOA], tá contigo.\n[LOCUTOR 1]: Ok. Boa tarde, pessoal. Tudo bem? Como o [PESSOA] trouxe, faço só para dar um contexto também, que seja nossa primeira agenda com todos. Faço parte aqui do time de sucesso do cliente da [EMPRESA], atuo junto com o [PESSOA], junto com a conta da [LOCAL]. Qualquer apoio que vocês tiverem, tanto essa dúvida em questão financeira, mas futuramente na utilização do produto, estratégia de utilização, vocês vão poder contar diretamente comigo. A ideia hoje aqui é explicar para vocês o que gerou de mudança no formato de faturamento que a gente realiza de cobrança com os nossos clientes. E aí, para dar esse contexto, eu vou compartilhar aqui a minha tela, porque como são algumas mudanças de valores e de conceitos, também acredito que fica mais fácil vocês acompanharem do que só na minha fala, tá bem?\n[LOCUTOR 3]: Vamos lá.\n[LOCUTOR 1]: Aqui eu trouxe as pautas para a gente trazer, então, para a gente conversar sobre o contexto, o motivo da mudança, o que que é essa nova precificação, para ficar claro para vocês, e aí a gente abre para dúvida também. Com essa nova precificação, também a gente teve mudança na estrutura dos nossos planos, então algumas funcionalidades, e também a nomenclatura dele, como chega para vocês. E a readequação para o plano, como que ficou o faturamento de vocês? Qual é a diferença de fato na fatura que a [LOCAL] vai receber todos os meses, tá bem? O primeiro ponto que eu queria trazer para vocês de visibilidade é por que essa mudança aconteceu. A [EMPRESA], especificamente o produto [EMPRESA] Converses, como trabalha diretamente com o serviço da API oficial da meta, que seria o WhatsApp API oficial, a gente trabalha em conjunto com a precificação que a meta cobra. Então, toda essa limitação de precisar pagar para o envio de template, se é necessário a criação de template, quantidade de templates que podem ser enviadas, tudo isso são regras de negócio da meta, não são regras de negócio da [EMPRESA], mas como é a utilização da API, a gente precisa seguir, consequentemente, os nossos clientes também precisam seguir. Então, em julho desse ano, a meta fez uma mudança nas regras de cobrança que ela realiza, e as principais mudanças foi que ela retirou a cobrança do que a gente chama de janela de serviço e adicionou a cobrança para todo envio de template. Num contexto geral, para ficar bem claro mesmo, a meta hoje tem quatro valores de cobrança. Ela pode cobrar pela janela de serviço, e aí quando eu falo serviço, a meta considera que é a cobrança de quando o cliente fala com o número da empresa que está vinculada à AP oficial, então é quando O cliente clica no botão do WhatsApp e fala com vocês, quando ele lê um QR Code, quando ele fala reativamente. Então, qualquer contato reativo, também existia a cobrança. E a meta retirou essa cobrança em julho desse ano. O que ela também alterou? Anteriormente, você tinha janela de 24 horas. Isso se mantém, só para dar esse contexto, vocês continuam tendo as janelas de 24 horas fechadas a cada 24 horas. Porém, se você mandasse três templates, quatro templates ao mesmo cliente dentro da janela, por já ter aberto ela, você só pagava a abertura, você não pagava pelo envio. E a meta, ao tirar a cobrança da janela de serviço, ela cobra agora por todo o template enviado. Então, seu envio Três templates para o mesmo cliente é cobrado o valor desse template três vezes. Então, essas foram as duas principais mudanças que a meta realizou. Como que a [EMPRESA] trabalhava anteriormente dentro do [EMPRESA] Conversas? Nós trabalhávamos com a venda do nosso produto já vinculado a um pacote de conversas da meta. Então, vocês, por exemplo, compravam o plano pró com 3 mil conversas. E aí essas conversas seriam as janelas que iriam sendo abertas a cada 24 horas e sendo cobradas. Com essa mudança, nós não teríamos como faturar, cobrar vocês a janela de serviço que não era mais cobrada, então seria impossível a gente se manter dentro desse padrão. Então, essa mudança ocorre exatamente porque a meta mudou essa precificação e dentro dessa mudança também. A gente tem valores específicos para cada template, então, Se o serviço não é mais cobrado, a gente tem utilidade, autenticação e marketing, e elas possuem valores diferentes, que eu vou apresentar para vocês. E dentro do pacote que a gente vendia anteriormente, era tudo um valor só. Então, não caberia mais a gente conseguir servir dessa forma exatamente para o ponto do mercado, nossos concorrentes, a própria meta. Então, a mudança também ajuda a flexibilizar. Então, se a meta vier fazer uma nova mudança, Nós não vamos mais ser impactados dessa forma, as mudanças não vão ser mais bruscas, nem tão diferentes, tá? E a gente consegue ser mais claro na nossa oferta de valor, porque a mudança que vai acontecer é como vocês vão faturar com a RDA Station. Então, antes, se vocês pagavam um software vinculado com o pacote da API, agora a nova mudança é que vocês pagam o software da RDA Station e separadamente a mensageria para a meta. Dessa forma fica claro quanto que vocês estão investindo na utilização do software e o quanto vocês estão investindo em mensageria, o que não era possível ser visto e visualizado no plano anterior, tá? Então... Aqui é uma visão de como que fica, de fato, a principal diferença do plano e a principal diferença de como que vocês veem a fatura de vocês. Porque anteriormente já vinha vinculado o plano com a mensageria e agora as faturas de vocês vão vir sempre vinculadas ao valor do software e o valor do consumo da mensageria, tá? Até aqui, tudo bem? Estou me fazendo clara? Vocês têm alguma dúvida? Posso seguir?\n[LOCUTOR 3]: Pode seguir.\n[LOCUTOR 1]: Pode seguir. Que eu vou apresentar um pouquinho pra vocês o conceito da nova precificação, que de fato ela modifica. para vocês, tá? Então, como a gente teve essa mudança, mensageria é uma cobrança e software é outra, a EDI aproveitou para também fazer uma mudança no escopo dos nossos planos. Então, anteriormente, a gente tinha o plano Basic, Avançado e Pro. E aí a gente fez uma reformulação para que os nossos planos ficassem na padronização do CRM Marketing ou Conversas. Então, os nossos planos possuem a nomenclação de Basic, Pro e Advanced. Então, essa foi a modificação que a gente fez, então, meu plano não era esse. Na verdade, a gente só readequou a nomenclatura, também só para trazer esse contexto. Com essa mudança, de separação de software para mensageria, a [EMPRESA], ela olhou para o mercado e voltou a entender como que a gente cobraria o nosso software, já que ele não está mais acoplado a uma mensageria, a um valor fixo a ser pago, já que o valor de mensageria vai ser de repasse. O valor do software agora, ele tem viés de atendimento de clientes Então vocês pagam pelo software vinculado à quantidade de clientes atendidos no mês O que isso significa? A quantidade de clientes atendidos no mês são números de telefone, tá? Então, por exemplo, o [PESSOA] tem um número A [EMPRESA] tem um número, o [PESSOA] tem um número, eu posso falar quantas vezes eu quiser com o número de vocês pela plataforma, que eu vou ser considerada apenas um número, apenas um cliente. Então, se vocês falam com 2 mil clientes diferentes, 2 mil números diferentes na ferramenta, então, vocês são do plano pró 2 mil clientes. Só um exemplo para ficar claro, tá? A gente tem as diferenças, então, a gente tem o plano basic, o pró e o... o Advanced, o Basic, que é até mil clientes atendidos, e o Pro é até três mil clientes atendidos. Então, todas as empresas que atendem mais de mil números por mês acabam sendo adicionadas no plano Pro, que já era o plano que vocês também estavam readequados anteriormente, tá? Mas só queria trazer essa visualização. E só é considerado cliente atendido? para esse pacote que é fechado do software, clientes de WhatsApp, tá? Se o cliente acionar vocês por e-mail, seja [PESSOA], [PESSOA], não vai ser considerado um cliente atendido dentro do mês e não vai ser contabilizado para o plano de vocês, tá bem? Nessa primeira coluna eu explico essa parte de software, as duas outras colunas são em relação à mensageria mesmo. Então a gente tem a cobrança de mensageria ali na última coluna, que fala sobre exatamente o valor de cada template que vocês podem enviar para os clientes dentro da ferramenta, que seria a cobrança que vai ser a cada mensagem enviada e a cada abertura de janela. Então o serviço, como eu comentei inicialmente, É a principal mudança da MECA, então, ela está zerada. Então, sempre que o cliente entrar em contato, não vai existir mais essa cobrança. Então, para atendimentos reativos, acredito que muitos clientes vão ter uma economia muito positiva. E aí a gente tem as templates de autenticação e utilidade, que possuem o valor de 12 centavos, e a template de marketing, que possui o valor de 54 centavos. Vocês entendem o conceito do que é cada template? Seria interessante que eu repassasse para vocês o conceito de cada um?\n[LOCUTOR 3]: Não, acho que dá para entender.\n[LOCUTOR 1]: [LOCAL]. Então, só para vocês entenderem aqui, então, Com essa mudança, o [LOCAL] passa a ter um painel financeiro. Esse painel financeiro prevê um relatório diário do quanto que vocês estão consumindo de templates no dia, para que vocês consigam ter uma ideia ao fim do mês o quanto que vocês vão ter de pagamento a ser feito ali dentro da ferramenta. E aí com essa mudança, a gente também tem Um ponto importante é que vocês vão ter duas opções de pagamento para a mensageria. Ela pode ser paga de forma pré-paga com um crédito mesmo, com uma carteira, uma recarga de celular ou algo do tipo. Só uma analogia para vocês entenderem. Então, dentro do painel financeiro, vocês podem colocar um valor a partir de 300 reais e esse valor fica sendo debitado diariamente. no consumo de mensagens que vocês estão enviando. Ou caso não seja viável pela forma de faturamento da empresa ou algo do tipo, vocês podem deixar para pagar de forma pós-paga. Então, a carteira de crédito de vocês fica negativa ao longo do mês da competência que está escorrendo, e no final do mês, na próxima competência que é gerada, a fatura é gerada, o valor do software com o detalhamento de mensageria pós-paga. que vai ser cobrado, que vocês já vão ter uma ideia de quanto que ficou dentro do painel financeiro, tá? Então, tem essas duas possibilidades de pagamento agora com essa mudança. Esse painel aqui do meio, para dar contexto para vocês, que é o [EMPRESA], ela é uma cobrança de linha de mensagem unitária, ela também vai entrar como um pagamento de mensageria, mas para dar contexto para vocês, ela é uma cobrança da RDA Station, na verdade, é uma cobrança do broker da meta, Então, a meta hoje para esse repasse, para essas parcerias, ela não emite nota fiscal nem nada tributário. Então, hoje a [EMPRESA] arca com qualquer custo em relação a isso. E o [LOCAL], ele serve para ter essa noção do custo de utilização de mensageria que é pago de tributação. Então, ele é um valor de meio centavo para as mensagens enviadas e recebidas dentro das conversas de WhatsApp. Então, para ter uma ideia como meio centavo não é muito palpável, A gente tem ali, né, que se vocês têm 10 mil mensagens trafegadas O pagamento de [LOCAL] vai ser de 50 reais Se for 20 mil, 100 reais Pra ter uma ideia que o volume que vai fazer esse valor, tá? Mas ele é meio centavo, 0,005, ok? Até aqui tudo bem sobre valores? [LOCAL], tudo certo Show Aí aqui só um contexto de como que funciona a carteira de crédito, tá? Então você pode adicionar no mínimo 300 reais, eles vão sendo debitados, e mesmo que vocês utilizem o tráfego de forma pré-paga, que seria adicionar o crédito, em momento nenhum a [LOCAL] pode barrar a empresa de receber ou enviar comunicações. Então, não existe um teto ou um limite de gasto de mensageria. Realmente, é um controle que a empresa vai precisar fazer, porque a gente não pode impedir vocês de receberem alguma comunicação, nem de enviar para um cliente. Então, se vocês querem trabalhar, por exemplo, com créditos pré-pagos, por exemplo, tem muita empresa que trabalha com budget, né? Ah, esse mês... Esse semestre, esse trimestre, a gente tem um budget de 3 mil reais, 4 mil reais, e adiciona. Caso esse crédito zere, ele não é interrompido, mas o excedente, ele é cobrado de forma pós-paga. Assim como eu mencionei, se você não quiser colocar crédito nenhum, tudo é cobrado de forma pós-pago. Caso vocês adicionem algum crédito, ele permanece válido por 12 meses. Então, vou adicionar 10 mil reais. Esses 10 mil reais podem ser utilizados ao longo de 12 meses, caso vocês não estejam com um consumo tão alto de mensageria no momento, tá bem? Porque atualmente, até na nossa nomenclatura, isso é um ponto que é muito importante, gosto de reforçar, e que a gente já recebia solicitações também anteriormente, que Na nossa cobrança sendo por pacote, esse pacote, se ele não fosse totalmente consumido, no mês seguinte ele era zerado. Então, se a [LOCAL] tinha um plano pró com 3 mil conversas, se ele consumisse só 1 mil, no próximo mês ele teria só 3 mil novamente, não era acumulativo. Os créditos agora, como é um valor que vocês colocam e ele é separado do nosso faturamento, ele tem esse prazo de 12 meses, tá bem?\n[LOCUTOR 1]: Aqui a gente tem um contexto de como que fica literalmente a cobrança, para ficar bem claro para vocês. Tá ok? A minha tela tá muito pequena, vocês querem que eu dê uso? Ok, só para dar um contexto, como que ficaria um atendimento mais receptivo agora de cobrança para vocês? Aqui o cliente que iniciou a conversa, então a meta não vai cobrar nada, porque é uma janela de serviço, mas existe a cobrança do [LOCAL] de meio centavo. Em seguida, existe a resposta, a resposta também só tem a cobrança do [LOCAL], e sete dias depois, que já passou 24 horas, que seria o prazo de cobrança de nova mensagem, Também não é cobrado novamente porque foi novamente o cliente que entrou em contato e entra como serviço. Então é cobrado nessa conversa apenas os FIIs. Em seguida, a gente tem uma nova abertura de janela, só que dessa vez, uma abertura de janela com uma template voltada para marketing, com o incentivo de falar com o cliente. Então, cobrou R$ 0,54 e o [LOCAL]. Em seguida, o cliente respondendo e, novamente, não é a cobrança. Então, essa conversa aqui, na nova dinâmica, ela tem um custo de R$ 0,57 para a empresa. Aqui a gente tem um exemplo de como era a cobrança anteriormente. Então, essa mesma conversa, no plano anterior, vocês teriam custo de R$ 2,31, porque todas as janelas de conversas teriam custo, e anteriormente, no nosso pacote, os pacotes eram pedidos de R$ 1.000,00 e R$ 1.000,00, e o custo era de R$ 0,60, R$ 57,8, que estou só arredondando também. Então, para atendimento receptivo, a gente previu uma economia de atendimento. Um contexto para vocês do que é o painel financeiro, que eu comentei. Então, agora, como a mensageria é um custo variável, então vocês vão ter um custo fixo e um variável com R&D, é importante que vocês consigam entender como é que está esse consumo mensalmente, dinamalmente, para entender e prever valores. Então, o painel financeiro, ele vai ter aqui a parte de carteira de crédito, E nessa carteira de crédito você vai tanto poder filtrar algum período e exportar essa informação, mas também vai poder ver dentro da ferramenta por dia o quanto que foi consumido de cada tipo de template, o valor unitário e o valor total desse consumo total, do que foi consumido. Então, aqui vocês vão conseguir também emitir fatura, validar valores, nota fiscal. Só reforçando, a mensageria também tem nota fiscal, então mesmo que vocês optem por pagar de forma separada para paga, a gente vai emitir nota fiscal, software e mensageria, se pagar pós-pago vem uma nota fiscal apenas, tá, que vem tudo junto. A gente também tem um acompanhamento do plano, então aqui nesse painel lateral que hoje Provavelmente, vocês já devem ter visto que é um foguetezinho que vocês clicam e aparece o consumo, aqui vai aparecer o detalhamento das conversas únicas do mês e o consumo de mensageria, para vocês terem uma ideia. E a porcentagem de consumo para cada tipo de template. Então, a gente está consumindo mais marketing, mais utilidade, mais autenticação, para vocês também terem mais previsibilidade dentro dos meses de consumo. Aqui eu tenho a nova estrutura de plano de vocês. A [LOCAL], nessa mudança, ela foi readequada no Plano Pró, 3 mil clientes atendidos. O Plano Pró, ele é a mesma coisa que vocês já tinham anteriormente, vocês já estavam no Plano Pró anteriormente. A gente não tem mudança de funcionalidades em si dentro da ferramenta. O que a gente tem aqui de grande mudança que pode beneficiar Nós queremos dizer que a gente não vai mais cobrar pelo custo de usuários dentro da ferramenta. Então, agora os usuários se tornam ilimitados. Então, vocês podem adicionar quantas pessoas vocês quiserem para acessar o [LOCAL], porque anteriormente existiria um custo adicional sobre isso. O Plano Pro, em diferença ao Advanced, ele tem apenas a questão que a gente adicionou IA no Advanced. Então, a gente vai trabalhando com o IA Agora, dentro dos fluxos e também dentro do plano Advanced, a gente tem mais possibilidade de requisições dentro do chatbot, que seria o vínculo com API. Então, a gente aqui dentro do plano Pro também tem chamada de API, vocês também conseguem se conectar aos produtos, só que algumas APIs estão vinculadas apenas e exclusivamente ao plano Advanced. Mas funcionalidade de uso, fluxos, chatbot, etiquetas, integrações nativas, tudo isso continua tendo o mesmo impacto, sem nenhuma mudança. E aqui eu estou reforçando, esse é o custo desse plano, dessa 2.899, com a precificação do plano PRO. E aí aqui eu trouxe para vocês como que ficou o valor de faturamento da [LOCAL], inclusive as duas últimas faturas já foram emitidas nesse novo valor. E aí eu até queria dar um contexto de como que aconteceu essa mudança. Como a meta mudou em julho, nós nos programamos por dois meses para conseguir refletir a nossa ferramenta, essa mudança para toda a nossa base e para novos clientes. Então as comunicações elas foram enviadas para os representantes legais, quem fizeram a assinatura do contrato, que está registrado com a gente. No caso, a gente não tem contrato em si, nós temos termos de uso. Então, a gente enviou a comunicação oficial de readequação com valores e o detalhamento da mudança para esses representantes legais. No caso da [LOCAL], o e-mail seria o da [EMPRESA], que é o ti.uniagronegócio.com.br. Essa mudança, esse e-mail é disparado com 30 dias de antecedência e sem nenhuma levantada, se o aceite não foi formalizado, porque nesse e-mail é enviado o link para o aceite, existe o aceite táxido, que foi o que aconteceu com a [LOCAL]. Então, como a gente não teve nenhuma devolutiva e o aceite formal não foi realizado, o nosso financeiro jurídico considera o aceite como táxido e a mudança, de fato, aconteceu no plano de vocês de outubro para novembro. Então, em outubro foi emitida a primeira fatura de vocês já no novo plano. Como foi o primeiro mês, ele foi considerado apenas a fatura fechada, no valor de R$ 2.899, que é o boleto que está em aberto, e esse mês já foi faturado novamente com pagamento, se não me engano, está para amanhã nesse novo valor. Aí só para detalhar aqui para vocês. Como eu disse, vocês foram readequados no Plano Pro, esse é o valor do plano com a franquia de 3 mil clientes atendidos, então não há esse limite aqui de clientes. No canal, esses são os valores, mas aqui a gente destaca quais são os valores das mensagerias só para vocês terem uma ideia, porque querendo ou não, esse valor vai ser variável. Então, o plano de vocês também tem um chip adicional e a última fatura foi emitida nesse valor de 3.469,63 por conta do chip adicional, tá bem? E aí o custo da mensageria sempre vai vir na fatura com um detalhamento. E aí, por exemplo, se vocês gastarem no mês, não dispararem muito, fizerem poucas mensagerias, vem um custo específico. Então, crédito para colocar é R$ 300,00, mas o valor pós-pago variável, se vocês gastarem R$ 2,00, vai vir como R$ 2,00. Só um exemplo prático. Também não existe um custo obrigatório de mensageria no mês. Queria abrir para vocês trazerem as considerações de vocês, se ficou alguma dúvida, querem que eu explique algum outro ponto novamente.\n[LOCUTOR 3]: Não, acho que ficou claro, deu para entender. Até a pessoa que tocava o projeto nosso do [LOCAL], tocava o nosso, ela acabou saindo da empresa e a gente acabou contratando e vai começar agora só em janeiro, a pessoa que vai assumir. E aí, o que que também a gente notou nesses últimos meses que a gente está usando, para nós, um plano com até mil usuários, acho que faz sentido, a gente não está passando disso, né? Então, acho que aquele é o Basic, né? A mudança do Basic para o Pro, ele só muda isso, né? Ele só muda a quantidade de usuários, né?\n[LOCUTOR 1]: Na verdade, o BASIC também tem usuários limitados, ele muda as possibilidades de utilização. Então, por exemplo, dentro do BASIC vocês não têm a parte de análise de emoções, que é a validação do análise do atendimento em si, se está positivo, se está negativo, não existe funil de vendas, então tem algumas limitações em relação à utilização da ferramenta. Vocês também só conseguem ter um número, e hoje vocês pagam um número adicional, então...\n[LOCUTOR 3]: Esse é outro ponto, o adicional a gente também não está usando, e também não faz sentido, por enquanto, a gente acha que consegue manter um número só. Então esse é os dois pontos. E qual que é o valor que ficaria nessa nova modalidade do BASIC? Só para nós também entender aqui.\n[LOCUTOR 1]: O plano BASIC tem um valor de R$ 1.499. A outra única limitação que ele tem também é a questão de chamada para API. No momento vocês já fizeram alguma integração com outro sistema? Ou pretendem fazer?\n[LOCUTOR 1]: O que eu posso indicar para vocês, então? Como vocês estão em fase de readequação, nós podemos alterar o plano de vocês para o plano Basic, se fizer sentido, e quando vocês se organizarem para fazer essa alteração, a gente estuda a possibilidade de vocês virem para o plano Pro, que se estiver adequado com a AP que vocês querem utilizar, tá? Essa é a minha sugestão. O único ponto é que, por exemplo, a fatura desse mês já foi emitida. Então, não conseguiria alterar essa competência, mas a partir da próxima a gente consegue alterar sim, que seria o pagamento ali do início de janeiro, tá? E aí é o período que vocês se organizam para fazer essa alteração. Faz sentido? Eu posso formalizar para vocês o valor que fica, a gente também pode retirar temporariamente o chip adicional para que vocês realmente paguem o que vocês estão consumindo temporariamente, e aí quando o projeto der avanço, a gente faz a readequação novamente para que vocês não paguem nada Excedente no momento.\n[LOCUTOR 1]: Não, o BASIC realmente não tem chamada para API, nada. Dentro do fluxo a gente só consegue integrar nativamente, que são com os produtos RdStation, [LOCAL], [LOCAL], exact sales. Dentro do BASIC não tem nenhuma.\n[LOCUTOR 4]: Isso, com certeza, só. Com certeza, pro [LOCAL], né? E outra questão, [PESSOA], essa fatura que está vencida, tem que ser paga também?\n[LOCUTOR 1]: Sim, tem que ser paga também.\n[LOCUTOR 4]: Mesmo não utilizando, vai ter que ser paga. Não há como fazer uma renegociação.\n[LOCUTOR 3]: Na questão da xícara adicional, tu diz, Valentim?\n[LOCUTOR 4]: Não, não, é que a fatura do mês passado, ela já tá pegando esse valor aí, né? Ela tá pegando R$2.998, alguma coisa assim, né? E agora desse mês já chegou com preço R$469.\n[LOCUTOR 1]: Isso. Olha, a fatura passada, realmente, eu não consigo fazer nenhuma alteração, até porque teve uma alteração no período fiscal. Então, tudo que passou o período fiscal, a gente não consegue alterar de forma alguma. Então, assim, realmente, isso eu consigo ter certeza de que a fatura...\n[LOCUTOR 4]: Essa fatura de R$ 3.400, o que você consegue?\n[LOCUTOR 1]: Pronto, essa aqui eu vou entender com o nosso time financeiro se é possível fazer a alteração. Eu vi que a emissão dela foi dividida.\n[LOCUTOR 4]: Bem, quanto que custa para me cancelar de conversas hoje? Eu quero cancelar. Quanto que é o valor da decisão? Tem valor?\n[LOCUTOR 4]: Dá só para a gente ver aqui.\n[LOCUTOR 1]: Esse é o custo de cancelamento.\n[LOCUTOR 3]: Beleza, acho que dá uma olhada, [PESSOA], nesse mês e ver o que você consegue ajustar. E aí depois a gente já alinha o pagamento que está atrasado e avança para fazer esse ajuste conseguindo o BASIC até a gente realmente avançar nas APIs.\n[LOCUTOR 1]: Tá, ok. Como a fatura foi emitida dia 29, eu vou entender com o time financeiro o que a gente consegue alterar se é possível a gente mudar a competência de plano de vocês, se não for possível, tentar readequar o custo, e aí eu já abro a solicitação para a mudança do plano BASIC, mas eu atualizo vocês no máximo até amanhã de manhã, porque eu já abro essa solicitação hoje. Não consigo confirmar aqui com vocês qual é a mudança que vai poder ser aprovada, mas vou tentar o possível aqui para que vocês consigam dar continuidade com a ferramenta sem nenhum problema, tá bem?\n[LOCUTOR 1]: Obrigada. Aí eu vou só, como a gente vai ter essa mudança e a fatura está com vencimento para amanhã, eu vou pedir a postergação dela, tá? Para que eu consiga atualizar vocês. Eu, respondendo vocês sobre essa questão, a gente consegue postergar para o dia 5? Vocês conseguiriam fazer o pagamento? Se eu enviar até amanhã ela atualizada?\n[LOCUTOR 1]: Tá, ok. Combinado, então.\n[LOCUTOR 4]: [PESSOA], mais uma coisa que eu queria... modificar o e-mail que envia as cobranças e tudo para alguém responsável no setor do marketing.\n[LOCUTOR 3]: A cobrança foi para o financeiro, né?\n[LOCUTOR 4]: É, isso é. Ou pode ser direto lá para eles.\n[LOCUTOR 1]: Quem está como cadastro é a [PESSOA] e o [PESSOA]. Tem essas duas pessoas cadastradas como financeiro. É correto?\n[LOCUTOR 4]: É, está correto, mas essas questões de modificações em contrato atuais caem no [EMPRESA]. Pode ser que ele acabou caindo até com a Spam, nem visto, aí passou reto.\n[LOCUTOR 3]: É, vocês podem botar o direto para o e-mail do [EMPRESA] ou para o meu daí.\n[LOCUTOR 1]: Entendi. Pronto, essa questão é a assinatura do contrato. A gente tem um processo aqui que a gente consegue fazer essa mudança, ela só vai precisar de alguns passos junto com vocês, que é para mudar esse representante legal, que é uma nova assinatura. A gente vai precisar que a nova pessoa que vai assumir esse caso, ela tenha algum vínculo dentro do quadro societário ali da empresa para se tornar representante legal, tá? Aí eu envio para vocês esses detalhamentos para a gente fazer a modificação, combinado? Mas alguma dúvida, pessoal?\n[LOCUTOR 3]: Era isso aí.\n[LOCUTOR 1]: Então, pessoal, só confirmando aqui com vocês. Vou abrir ali para o financeiro para a gente ver como que a gente consegue ajustar essa fatura que já está emitida para pagamento amanhã. Então, a gente vai tentar ajustar o valor e também postergar para que vocês consigam realizar o pagamento com algum dia de antecedência depois do envio dela atualizada. A fatura anterior, que estava vencida de outubro, vamos precisar do pagamento integral dela por conta do período fiscal, tá certo? E aí a gente já vai agendar o reajuste para janeiro, para a fatura de janeiro, para o plano Basic e com o downgrade do chip adicional. Correto? Esses são os pontos? Combinado, então. Então, envio para vocês a formalização desses pontos até amanhã pela manhã, já com o retorno do time financeiro. [PESSOA] o [PESSOA] para ele acompanhar junto com a gente essa evolução, tá bem?\n[LOCUTOR 3]: Combinado.\n[LOCUTOR 2]: Ah, tem uma da própria [PESSOA] aqui, peraí.\n[LOCUTOR 3]: Vamos ver.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:15.005530+00:00",
+    "total_linhas": 84,
+    "linhas_mantidas": 53,
+    "linhas_removidas": 31,
+    "percentual_mantido": 63.1,
+    "confianca_media": 0.4595
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: Essa só tinha uma adesão, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], como é que tá? Beleza?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4239,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Bom dia, tudo certo, mano?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3561,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tudo certo, cara. O [PESSOA] entra aí pra acompanhar?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Acredito que sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Dá uma guardada aí. [PESSOA], eu esqueci teu nome. Por gentileza, qual é teu nome?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], desculpa, tá? Ali tá só o [LOCAL] o negócio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Fala [PESSOA], beleza?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ok, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Microfone desligado, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Bom dia, turma. Entra no certo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Só pela pintura aí, tu tá no prédio novo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5275,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Não, ainda não, [PESSOA]. Ainda não. Daqui a pouco eu vou subir lá. Estamos na corrida lá. Tem que ir lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3983,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá, gente. Primeiramente, muito obrigado pela disponibilidade. Participou mais alguém aí do lado de vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4817,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Acho que não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá, perfeito. Então, o objetivo aqui, né, a gente gerou-se aí no meio dos últimos meses aí é uma alteração em relação à meta, já vou passar a palavra para a [PESSOA] aí. Então, mudou aí o formato de classificação da [EMPRESA], né, porque a gente tem um sistema homologado já com eles. Então, a [PESSOA] vai explicar um pouco mais sobre isso e também explicar um pouco mais sobre a questão do escopo proposto, tá? Tem alguma outra dúvida, alguma coisa da minha fala aqui que vocês gostariam de saber também?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Bom, acho que é isso aí mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Então, [PESSOA], tá contigo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ok. Boa tarde, pessoal. Tudo bem? Como o [PESSOA] trouxe, faço só para dar um contexto também, que seja nossa primeira agenda com todos. Faço parte aqui do time de sucesso do cliente da [EMPRESA], atuo junto com o [PESSOA], junto com a conta da [LOCAL]. Qualquer apoio que vocês tiverem, tanto essa dúvida em questão financeira, mas futuramente na utilização do produto, estratégia de utilização, vocês vão poder contar diretamente comigo. A ideia hoje aqui é explicar para vocês o que gerou de mudança no formato de faturamento que a gente realiza de cobrança com os nossos clientes. E aí, para dar esse contexto, eu vou compartilhar aqui a minha tela, porque como são algumas mudanças de valores e de conceitos, também acredito que fica mais fácil vocês acompanharem do que só na minha fala, tá bem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Deixa que vocês já estejam vendo a minha tela.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4424,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Vamos lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aqui eu trouxe as pautas para a gente trazer, então, para a gente conversar sobre o contexto, o motivo da mudança, o que que é essa nova precificação, para ficar claro para vocês, e aí a gente abre para dúvida também. Com essa nova precificação, também a gente teve mudança na estrutura dos nossos planos, então algumas funcionalidades, e também a nomenclatura dele, como chega para vocês. E a readequação para o plano, como que ficou o faturamento de vocês? Qual é a diferença de fato na fatura que a [LOCAL] vai receber todos os meses, tá bem? O primeiro ponto que eu queria trazer para vocês de visibilidade é por que essa mudança aconteceu. A [EMPRESA], especificamente o produto [EMPRESA] Converses, como trabalha diretamente com o serviço da API oficial da meta, que seria o WhatsApp API oficial, a gente trabalha em conjunto com a precificação que a meta cobra. Então, toda essa limitação de precisar pagar para o envio de template, se é necessário a criação de template, quantidade de templates que podem ser enviadas, tudo isso são regras de negócio da meta, não são regras de negócio da [EMPRESA], mas como é a utilização da API, a gente precisa seguir, consequentemente, os nossos clientes também precisam seguir. Então, em julho desse ano, a meta fez uma mudança nas regras de cobrança que ela realiza, e as principais mudanças foi que ela retirou a cobrança do que a gente chama de janela de serviço e adicionou a cobrança para todo envio de template. Num contexto geral, para ficar bem claro mesmo, a meta hoje tem quatro valores de cobrança. Ela pode cobrar pela janela de serviço, e aí quando eu falo serviço, a meta considera que é a cobrança de quando o cliente fala com o número da empresa que está vinculada à AP oficial, então é quando O cliente clica no botão do WhatsApp e fala com vocês, quando ele lê um QR Code, quando ele fala reativamente. Então, qualquer contato reativo, também existia a cobrança. E a meta retirou essa cobrança em julho desse ano. O que ela também alterou? Anteriormente, você tinha janela de 24 horas. Isso se mantém, só para dar esse contexto, vocês continuam tendo as janelas de 24 horas fechadas a cada 24 horas. Porém, se você mandasse três templates, quatro templates ao mesmo cliente dentro da janela, por já ter aberto ela, você só pagava a abertura, você não pagava pelo envio. E a meta, ao tirar a cobrança da janela de serviço, ela cobra agora por todo o template enviado. Então, seu envio Três templates para o mesmo cliente é cobrado o valor desse template três vezes. Então, essas foram as duas principais mudanças que a meta realizou. Como que a [EMPRESA] trabalhava anteriormente dentro do [EMPRESA] Conversas? Nós trabalhávamos com a venda do nosso produto já vinculado a um pacote de conversas da meta. Então, vocês, por exemplo, compravam o plano pró com 3 mil conversas. E aí essas conversas seriam as janelas que iriam sendo abertas a cada 24 horas e sendo cobradas. Com essa mudança, nós não teríamos como faturar, cobrar vocês a janela de serviço que não era mais cobrada, então seria impossível a gente se manter dentro desse padrão. Então, essa mudança ocorre exatamente porque a meta mudou essa precificação e dentro dessa mudança também. A gente tem valores específicos para cada template, então, Se o serviço não é mais cobrado, a gente tem utilidade, autenticação e marketing, e elas possuem valores diferentes, que eu vou apresentar para vocês. E dentro do pacote que a gente vendia anteriormente, era tudo um valor só. Então, não caberia mais a gente conseguir servir dessa forma exatamente para o ponto do mercado, nossos concorrentes, a própria meta. Então, a mudança também ajuda a flexibilizar. Então, se a meta vier fazer uma nova mudança, Nós não vamos mais ser impactados dessa forma, as mudanças não vão ser mais bruscas, nem tão diferentes, tá? E a gente consegue ser mais claro na nossa oferta de valor, porque a mudança que vai acontecer é como vocês vão faturar com a RDA Station. Então, antes, se vocês pagavam um software vinculado com o pacote da API, agora a nova mudança é que vocês pagam o software da RDA Station e separadamente a mensageria para a meta. Dessa forma fica claro quanto que vocês estão investindo na utilização do software e o quanto vocês estão investindo em mensageria, o que não era possível ser visto e visualizado no plano anterior, tá? Então... Aqui é uma visão de como que fica, de fato, a principal diferença do plano e a principal diferença de como que vocês veem a fatura de vocês. Porque anteriormente já vinha vinculado o plano com a mensageria e agora as faturas de vocês vão vir sempre vinculadas ao valor do software e o valor do consumo da mensageria, tá? Até aqui, tudo bem? Estou me fazendo clara? Vocês têm alguma dúvida? Posso seguir?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Pode seguir.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode seguir. Que eu vou apresentar um pouquinho pra vocês o conceito da nova precificação, que de fato ela modifica. para vocês, tá? Então, como a gente teve essa mudança, mensageria é uma cobrança e software é outra, a EDI aproveitou para também fazer uma mudança no escopo dos nossos planos. Então, anteriormente, a gente tinha o plano Basic, Avançado e Pro. E aí a gente fez uma reformulação para que os nossos planos ficassem na padronização do CRM Marketing ou Conversas. Então, os nossos planos possuem a nomenclação de Basic, Pro e Advanced. Então, essa foi a modificação que a gente fez, então, meu plano não era esse. Na verdade, a gente só readequou a nomenclatura, também só para trazer esse contexto. Com essa mudança, de separação de software para mensageria, a [EMPRESA], ela olhou para o mercado e voltou a entender como que a gente cobraria o nosso software, já que ele não está mais acoplado a uma mensageria, a um valor fixo a ser pago, já que o valor de mensageria vai ser de repasse. O valor do software agora, ele tem viés de atendimento de clientes Então vocês pagam pelo software vinculado à quantidade de clientes atendidos no mês O que isso significa? A quantidade de clientes atendidos no mês são números de telefone, tá? Então, por exemplo, o [PESSOA] tem um número A [EMPRESA] tem um número, o [PESSOA] tem um número, eu posso falar quantas vezes eu quiser com o número de vocês pela plataforma, que eu vou ser considerada apenas um número, apenas um cliente. Então, se vocês falam com 2 mil clientes diferentes, 2 mil números diferentes na ferramenta, então, vocês são do plano pró 2 mil clientes. Só um exemplo para ficar claro, tá? A gente tem as diferenças, então, a gente tem o plano basic, o pró e o... o Advanced, o Basic, que é até mil clientes atendidos, e o Pro é até três mil clientes atendidos. Então, todas as empresas que atendem mais de mil números por mês acabam sendo adicionadas no plano Pro, que já era o plano que vocês também estavam readequados anteriormente, tá? Mas só queria trazer essa visualização. E só é considerado cliente atendido? para esse pacote que é fechado do software, clientes de WhatsApp, tá? Se o cliente acionar vocês por e-mail, seja [PESSOA], [PESSOA], não vai ser considerado um cliente atendido dentro do mês e não vai ser contabilizado para o plano de vocês, tá bem? Nessa primeira coluna eu explico essa parte de software, as duas outras colunas são em relação à mensageria mesmo. Então a gente tem a cobrança de mensageria ali na última coluna, que fala sobre exatamente o valor de cada template que vocês podem enviar para os clientes dentro da ferramenta, que seria a cobrança que vai ser a cada mensagem enviada e a cada abertura de janela. Então o serviço, como eu comentei inicialmente, É a principal mudança da MECA, então, ela está zerada. Então, sempre que o cliente entrar em contato, não vai existir mais essa cobrança. Então, para atendimentos reativos, acredito que muitos clientes vão ter uma economia muito positiva. E aí a gente tem as templates de autenticação e utilidade, que possuem o valor de 12 centavos, e a template de marketing, que possui o valor de 54 centavos. Vocês entendem o conceito do que é cada template? Seria interessante que eu repassasse para vocês o conceito de cada um?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, acho que dá para entender.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4939,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL]. Então, só para vocês entenderem aqui, então, Com essa mudança, o [LOCAL] passa a ter um painel financeiro. Esse painel financeiro prevê um relatório diário do quanto que vocês estão consumindo de templates no dia, para que vocês consigam ter uma ideia ao fim do mês o quanto que vocês vão ter de pagamento a ser feito ali dentro da ferramenta. E aí com essa mudança, a gente também tem Um ponto importante é que vocês vão ter duas opções de pagamento para a mensageria. Ela pode ser paga de forma pré-paga com um crédito mesmo, com uma carteira, uma recarga de celular ou algo do tipo. Só uma analogia para vocês entenderem. Então, dentro do painel financeiro, vocês podem colocar um valor a partir de 300 reais e esse valor fica sendo debitado diariamente. no consumo de mensagens que vocês estão enviando. Ou caso não seja viável pela forma de faturamento da empresa ou algo do tipo, vocês podem deixar para pagar de forma pós-paga. Então, a carteira de crédito de vocês fica negativa ao longo do mês da competência que está escorrendo, e no final do mês, na próxima competência que é gerada, a fatura é gerada, o valor do software com o detalhamento de mensageria pós-paga. que vai ser cobrado, que vocês já vão ter uma ideia de quanto que ficou dentro do painel financeiro, tá? Então, tem essas duas possibilidades de pagamento agora com essa mudança. Esse painel aqui do meio, para dar contexto para vocês, que é o [EMPRESA], ela é uma cobrança de linha de mensagem unitária, ela também vai entrar como um pagamento de mensageria, mas para dar contexto para vocês, ela é uma cobrança da RDA Station, na verdade, é uma cobrança do broker da meta, Então, a meta hoje para esse repasse, para essas parcerias, ela não emite nota fiscal nem nada tributário. Então, hoje a [EMPRESA] arca com qualquer custo em relação a isso. E o [LOCAL], ele serve para ter essa noção do custo de utilização de mensageria que é pago de tributação. Então, ele é um valor de meio centavo para as mensagens enviadas e recebidas dentro das conversas de WhatsApp. Então, para ter uma ideia como meio centavo não é muito palpável, A gente tem ali, né, que se vocês têm 10 mil mensagens trafegadas O pagamento de [LOCAL] vai ser de 50 reais Se for 20 mil, 100 reais Pra ter uma ideia que o volume que vai fazer esse valor, tá? Mas ele é meio centavo, 0,005, ok? Até aqui tudo bem sobre valores? [LOCAL], tudo certo Show Aí aqui só um contexto de como que funciona a carteira de crédito, tá? Então você pode adicionar no mínimo 300 reais, eles vão sendo debitados, e mesmo que vocês utilizem o tráfego de forma pré-paga, que seria adicionar o crédito, em momento nenhum a [LOCAL] pode barrar a empresa de receber ou enviar comunicações. Então, não existe um teto ou um limite de gasto de mensageria. Realmente, é um controle que a empresa vai precisar fazer, porque a gente não pode impedir vocês de receberem alguma comunicação, nem de enviar para um cliente. Então, se vocês querem trabalhar, por exemplo, com créditos pré-pagos, por exemplo, tem muita empresa que trabalha com budget, né? Ah, esse mês... Esse semestre, esse trimestre, a gente tem um budget de 3 mil reais, 4 mil reais, e adiciona. Caso esse crédito zere, ele não é interrompido, mas o excedente, ele é cobrado de forma pós-paga. Assim como eu mencionei, se você não quiser colocar crédito nenhum, tudo é cobrado de forma pós-pago. Caso vocês adicionem algum crédito, ele permanece válido por 12 meses. Então, vou adicionar 10 mil reais. Esses 10 mil reais podem ser utilizados ao longo de 12 meses, caso vocês não estejam com um consumo tão alto de mensageria no momento, tá bem? Porque atualmente, até na nossa nomenclatura, isso é um ponto que é muito importante, gosto de reforçar, e que a gente já recebia solicitações também anteriormente, que Na nossa cobrança sendo por pacote, esse pacote, se ele não fosse totalmente consumido, no mês seguinte ele era zerado. Então, se a [LOCAL] tinha um plano pró com 3 mil conversas, se ele consumisse só 1 mil, no próximo mês ele teria só 3 mil novamente, não era acumulativo. Os créditos agora, como é um valor que vocês colocam e ele é separado do nosso faturamento, ele tem esse prazo de 12 meses, tá bem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Aqui a gente tem um contexto de como que fica literalmente a cobrança, para ficar bem claro para vocês. Tá ok? A minha tela tá muito pequena, vocês querem que eu dê uso? Ok, só para dar um contexto, como que ficaria um atendimento mais receptivo agora de cobrança para vocês? Aqui o cliente que iniciou a conversa, então a meta não vai cobrar nada, porque é uma janela de serviço, mas existe a cobrança do [LOCAL] de meio centavo. Em seguida, existe a resposta, a resposta também só tem a cobrança do [LOCAL], e sete dias depois, que já passou 24 horas, que seria o prazo de cobrança de nova mensagem, Também não é cobrado novamente porque foi novamente o cliente que entrou em contato e entra como serviço. Então é cobrado nessa conversa apenas os FIIs. Em seguida, a gente tem uma nova abertura de janela, só que dessa vez, uma abertura de janela com uma template voltada para marketing, com o incentivo de falar com o cliente. Então, cobrou R$ 0,54 e o [LOCAL]. Em seguida, o cliente respondendo e, novamente, não é a cobrança. Então, essa conversa aqui, na nova dinâmica, ela tem um custo de R$ 0,57 para a empresa. Aqui a gente tem um exemplo de como era a cobrança anteriormente. Então, essa mesma conversa, no plano anterior, vocês teriam custo de R$ 2,31, porque todas as janelas de conversas teriam custo, e anteriormente, no nosso pacote, os pacotes eram pedidos de R$ 1.000,00 e R$ 1.000,00, e o custo era de R$ 0,60, R$ 57,8, que estou só arredondando também. Então, para atendimento receptivo, a gente previu uma economia de atendimento. Um contexto para vocês do que é o painel financeiro, que eu comentei. Então, agora, como a mensageria é um custo variável, então vocês vão ter um custo fixo e um variável com R&D, é importante que vocês consigam entender como é que está esse consumo mensalmente, dinamalmente, para entender e prever valores. Então, o painel financeiro, ele vai ter aqui a parte de carteira de crédito, E nessa carteira de crédito você vai tanto poder filtrar algum período e exportar essa informação, mas também vai poder ver dentro da ferramenta por dia o quanto que foi consumido de cada tipo de template, o valor unitário e o valor total desse consumo total, do que foi consumido. Então, aqui vocês vão conseguir também emitir fatura, validar valores, nota fiscal. Só reforçando, a mensageria também tem nota fiscal, então mesmo que vocês optem por pagar de forma separada para paga, a gente vai emitir nota fiscal, software e mensageria, se pagar pós-pago vem uma nota fiscal apenas, tá, que vem tudo junto. A gente também tem um acompanhamento do plano, então aqui nesse painel lateral que hoje Provavelmente, vocês já devem ter visto que é um foguetezinho que vocês clicam e aparece o consumo, aqui vai aparecer o detalhamento das conversas únicas do mês e o consumo de mensageria, para vocês terem uma ideia. E a porcentagem de consumo para cada tipo de template. Então, a gente está consumindo mais marketing, mais utilidade, mais autenticação, para vocês também terem mais previsibilidade dentro dos meses de consumo. Aqui eu tenho a nova estrutura de plano de vocês. A [LOCAL], nessa mudança, ela foi readequada no Plano Pró, 3 mil clientes atendidos. O Plano Pró, ele é a mesma coisa que vocês já tinham anteriormente, vocês já estavam no Plano Pró anteriormente. A gente não tem mudança de funcionalidades em si dentro da ferramenta. O que a gente tem aqui de grande mudança que pode beneficiar Nós queremos dizer que a gente não vai mais cobrar pelo custo de usuários dentro da ferramenta. Então, agora os usuários se tornam ilimitados. Então, vocês podem adicionar quantas pessoas vocês quiserem para acessar o [LOCAL], porque anteriormente existiria um custo adicional sobre isso. O Plano Pro, em diferença ao Advanced, ele tem apenas a questão que a gente adicionou IA no Advanced. Então, a gente vai trabalhando com o IA Agora, dentro dos fluxos e também dentro do plano Advanced, a gente tem mais possibilidade de requisições dentro do chatbot, que seria o vínculo com API. Então, a gente aqui dentro do plano Pro também tem chamada de API, vocês também conseguem se conectar aos produtos, só que algumas APIs estão vinculadas apenas e exclusivamente ao plano Advanced. Mas funcionalidade de uso, fluxos, chatbot, etiquetas, integrações nativas, tudo isso continua tendo o mesmo impacto, sem nenhuma mudança. E aqui eu estou reforçando, esse é o custo desse plano, dessa 2.899, com a precificação do plano PRO. E aí aqui eu trouxe para vocês como que ficou o valor de faturamento da [LOCAL], inclusive as duas últimas faturas já foram emitidas nesse novo valor. E aí eu até queria dar um contexto de como que aconteceu essa mudança. Como a meta mudou em julho, nós nos programamos por dois meses para conseguir refletir a nossa ferramenta, essa mudança para toda a nossa base e para novos clientes. Então as comunicações elas foram enviadas para os representantes legais, quem fizeram a assinatura do contrato, que está registrado com a gente. No caso, a gente não tem contrato em si, nós temos termos de uso. Então, a gente enviou a comunicação oficial de readequação com valores e o detalhamento da mudança para esses representantes legais. No caso da [LOCAL], o e-mail seria o da [EMPRESA], que é o ti.uniagronegócio.com.br. Essa mudança, esse e-mail é disparado com 30 dias de antecedência e sem nenhuma levantada, se o aceite não foi formalizado, porque nesse e-mail é enviado o link para o aceite, existe o aceite táxido, que foi o que aconteceu com a [LOCAL]. Então, como a gente não teve nenhuma devolutiva e o aceite formal não foi realizado, o nosso financeiro jurídico considera o aceite como táxido e a mudança, de fato, aconteceu no plano de vocês de outubro para novembro. Então, em outubro foi emitida a primeira fatura de vocês já no novo plano. Como foi o primeiro mês, ele foi considerado apenas a fatura fechada, no valor de R$ 2.899, que é o boleto que está em aberto, e esse mês já foi faturado novamente com pagamento, se não me engano, está para amanhã nesse novo valor. Aí só para detalhar aqui para vocês. Como eu disse, vocês foram readequados no Plano Pro, esse é o valor do plano com a franquia de 3 mil clientes atendidos, então não há esse limite aqui de clientes. No canal, esses são os valores, mas aqui a gente destaca quais são os valores das mensagerias só para vocês terem uma ideia, porque querendo ou não, esse valor vai ser variável. Então, o plano de vocês também tem um chip adicional e a última fatura foi emitida nesse valor de 3.469,63 por conta do chip adicional, tá bem? E aí o custo da mensageria sempre vai vir na fatura com um detalhamento. E aí, por exemplo, se vocês gastarem no mês, não dispararem muito, fizerem poucas mensagerias, vem um custo específico. Então, crédito para colocar é R$ 300,00, mas o valor pós-pago variável, se vocês gastarem R$ 2,00, vai vir como R$ 2,00. Só um exemplo prático. Também não existe um custo obrigatório de mensageria no mês. Queria abrir para vocês trazerem as considerações de vocês, se ficou alguma dúvida, querem que eu explique algum outro ponto novamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não, acho que ficou claro, deu para entender. Até a pessoa que tocava o projeto nosso do [LOCAL], tocava o nosso, ela acabou saindo da empresa e a gente acabou contratando e vai começar agora só em janeiro, a pessoa que vai assumir. E aí, o que que também a gente notou nesses últimos meses que a gente está usando, para nós, um plano com até mil usuários, acho que faz sentido, a gente não está passando disso, né? Então, acho que aquele é o Basic, né? A mudança do Basic para o Pro, ele só muda isso, né? Ele só muda a quantidade de usuários, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5342,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Na verdade, o BASIC também tem usuários limitados, ele muda as possibilidades de utilização. Então, por exemplo, dentro do BASIC vocês não têm a parte de análise de emoções, que é a validação do análise do atendimento em si, se está positivo, se está negativo, não existe funil de vendas, então tem algumas limitações em relação à utilização da ferramenta. Vocês também só conseguem ter um número, e hoje vocês pagam um número adicional, então...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Esse é outro ponto, o adicional a gente também não está usando, e também não faz sentido, por enquanto, a gente acha que consegue manter um número só. Então esse é os dois pontos. E qual que é o valor que ficaria nessa nova modalidade do BASIC? Só para nós também entender aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O plano BASIC tem um valor de R$ 1.499. A outra única limitação que ele tem também é a questão de chamada para API. No momento vocês já fizeram alguma integração com outro sistema? Ou pretendem fazer?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não fizemos, mas pretendemos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O que eu posso indicar para vocês, então? Como vocês estão em fase de readequação, nós podemos alterar o plano de vocês para o plano Basic, se fizer sentido, e quando vocês se organizarem para fazer essa alteração, a gente estuda a possibilidade de vocês virem para o plano Pro, que se estiver adequado com a AP que vocês querem utilizar, tá? Essa é a minha sugestão. O único ponto é que, por exemplo, a fatura desse mês já foi emitida. Então, não conseguiria alterar essa competência, mas a partir da próxima a gente consegue alterar sim, que seria o pagamento ali do início de janeiro, tá? E aí é o período que vocês se organizam para fazer essa alteração. Faz sentido? Eu posso formalizar para vocês o valor que fica, a gente também pode retirar temporariamente o chip adicional para que vocês realmente paguem o que vocês estão consumindo temporariamente, e aí quando o projeto der avanço, a gente faz a readequação novamente para que vocês não paguem nada Excedente no momento.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Pode ser, acho que faz sentido sim, [PESSOA], e depois, quando realmente a gente tiver tempo de... Mas eu só não entendi daí, no BASIC não tem nenhuma API, nada a gente consegue utilizar? Ou algumas é possível?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4223,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não, o BASIC realmente não tem chamada para API, nada. Dentro do fluxo a gente só consegue integrar nativamente, que são com os produtos RdStation, [LOCAL], [LOCAL], exact sales. Dentro do BASIC não tem nenhuma.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5346,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Também, mas eu acho que faz sentido a gente ainda voltar. Daí o [PESSOA] vai me dizer quando eles vão ter tempo de avançar, talvez, numa API. Daí a gente, talvez, vai estar rodando mais. A gente vai conseguir entender se vai fazer mais sentido essas conexões também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4597,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Isso, com certeza, só. Com certeza, pro [LOCAL], né? E outra questão, [PESSOA], essa fatura que está vencida, tem que ser paga também?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5291,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, tem que ser paga também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4625,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Mesmo não utilizando, vai ter que ser paga. Não há como fazer uma renegociação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Na questão da xícara adicional, tu diz, Valentim?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Não, não, é que a fatura do mês passado, ela já tá pegando esse valor aí, né? Ela tá pegando R$2.998, alguma coisa assim, né? E agora desse mês já chegou com preço R$469.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso. Olha, a fatura passada, realmente, eu não consigo fazer nenhuma alteração, até porque teve uma alteração no período fiscal. Então, tudo que passou o período fiscal, a gente não consegue alterar de forma alguma. Então, assim, realmente, isso eu consigo ter certeza de que a fatura...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Essa fatura de R$ 3.400, o que você consegue?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pronto, essa aqui eu vou entender com o nosso time financeiro se é possível fazer a alteração. Eu vi que a emissão dela foi dividida.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Bem, quanto que custa para me cancelar de conversas hoje? Eu quero cancelar. Quanto que é o valor da decisão? Tem valor?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: São... Deixa eu ver só aqui a data que vocês contrataram. Tenho. Tenho custo... Eu tenho um prêmio. Deixa eu conferir com vocês aqui se vocês teriam multa. Vou conferir se vocês têm multa. Se não tiver multa, ela... Tem o custo dos 30 dias de antecedência. Então, todos os boletos seriam válidos mais os 30 dias.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Dá só para a gente ver aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Esse é o custo de cancelamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Beleza, acho que dá uma olhada, [PESSOA], nesse mês e ver o que você consegue ajustar. E aí depois a gente já alinha o pagamento que está atrasado e avança para fazer esse ajuste conseguindo o BASIC até a gente realmente avançar nas APIs.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.484,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá, ok. Como a fatura foi emitida dia 29, eu vou entender com o time financeiro o que a gente consegue alterar se é possível a gente mudar a competência de plano de vocês, se não for possível, tentar readequar o custo, e aí eu já abro a solicitação para a mudança do plano BASIC, mas eu atualizo vocês no máximo até amanhã de manhã, porque eu já abro essa solicitação hoje. Não consigo confirmar aqui com vocês qual é a mudança que vai poder ser aprovada, mas vou tentar o possível aqui para que vocês consigam dar continuidade com a ferramenta sem nenhum problema, tá bem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tudo bom, combinado então.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Obrigada. Aí eu vou só, como a gente vai ter essa mudança e a fatura está com vencimento para amanhã, eu vou pedir a postergação dela, tá? Para que eu consiga atualizar vocês. Eu, respondendo vocês sobre essa questão, a gente consegue postergar para o dia 5? Vocês conseguiriam fazer o pagamento? Se eu enviar até amanhã ela atualizada?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Eu acredito que sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá, ok. Combinado, então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [PESSOA], mais uma coisa que eu queria... modificar o e-mail que envia as cobranças e tudo para alguém responsável no setor do marketing.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Deixa eu ver.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: A cobrança foi para o financeiro, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É, isso é. Ou pode ser direto lá para eles.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5566,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Quem está como cadastro é a [PESSOA] e o [PESSOA]. Tem essas duas pessoas cadastradas como financeiro. É correto?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: É, está correto, mas essas questões de modificações em contrato atuais caem no [EMPRESA]. Pode ser que ele acabou caindo até com a Spam, nem visto, aí passou reto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É, vocês podem botar o direto para o e-mail do [EMPRESA] ou para o meu daí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5452,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Entendi. Pronto, essa questão é a assinatura do contrato. A gente tem um processo aqui que a gente consegue fazer essa mudança, ela só vai precisar de alguns passos junto com vocês, que é para mudar esse representante legal, que é uma nova assinatura. A gente vai precisar que a nova pessoa que vai assumir esse caso, ela tenha algum vínculo dentro do quadro societário ali da empresa para se tornar representante legal, tá? Aí eu envio para vocês esses detalhamentos para a gente fazer a modificação, combinado? Mas alguma dúvida, pessoal?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Era isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então, pessoal, só confirmando aqui com vocês. Vou abrir ali para o financeiro para a gente ver como que a gente consegue ajustar essa fatura que já está emitida para pagamento amanhã. Então, a gente vai tentar ajustar o valor e também postergar para que vocês consigam realizar o pagamento com algum dia de antecedência depois do envio dela atualizada. A fatura anterior, que estava vencida de outubro, vamos precisar do pagamento integral dela por conta do período fiscal, tá certo? E aí a gente já vai agendar o reajuste para janeiro, para a fatura de janeiro, para o plano Basic e com o downgrade do chip adicional. Correto? Esses são os pontos? Combinado, então. Então, envio para vocês a formalização desses pontos até amanhã pela manhã, já com o retorno do time financeiro. [PESSOA] o [PESSOA] para ele acompanhar junto com a gente essa evolução, tá bem?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Obrigada pela atenção, pessoal. Ótimo dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4171,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Obrigado, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Obrigado, gente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCAL], pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ô, [PESSOA]. Oi [PESSOA], queria falar comigo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não, não. Tranquilo, você aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Vou ficar mais uns minutos com o [PESSOA] aqui, tá? [PESSOA], muito obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3946,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Nada, até mais. [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: E aí, meu, beleza?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3932,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Tem mais um perfil ali.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4363,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ah, tem uma da própria [PESSOA] aqui, peraí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5202,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Vamos ver.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: E tem esse meu que eu vou remover também. É uma yaka.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4385,
+      "motivo": "ml"
+    }
+  ]
+}

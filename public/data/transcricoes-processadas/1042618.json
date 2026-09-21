@@ -1,0 +1,619 @@
+{
+  "id_reuniao": "1042618",
+  "codt": "TFBKYP",
+  "data_reuniao": "2026-02-09 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "BA",
+  "texto_original": "[LOCUTOR 6]: Bom\n[LOCUTOR 5]: dia,\n[LOCUTOR 6]: gente.\n[LOCUTOR 9]: Bom dia, tudo bem?\n[LOCUTOR 5]: Como vai? Aí está [PESSOA] [PESSOA], ele é o coordenador de\n[LOCUTOR 6]: infra.\n[LOCUTOR 5]: Está envolvido\n[LOCUTOR 9]: tamb\n[LOCUTOR 2]: nisso. [PESSOA] é\n[LOCUTOR 5]: consultora tóxica, viu,\n[LOCUTOR 6]: [PESSOA]? Bom dia, gente.\n[LOCUTOR 9]: Bom dia, [PESSOA].\n[LOCUTOR 6]: E aí\n[LOCUTOR 9]: E\n[LOCUTOR 6]: aí E\n[LOCUTOR 9]: aí [EMPRESA] [PESSOA].\n[LOCUTOR 7]: Tudo bem.\n[LOCUTOR 9]: Tudo bem com você.\n[LOCUTOR 7]: Do ótimo por aqui.\n[LOCUTOR 9]: Vamos\n[LOCUTOR 5]: ver como\n[LOCUTOR 9]: vai. Mas alguém vai entrar [PESSOA]\n[LOCUTOR 5]: [PESSOA]. Vai o [PESSOA] só chamando aqui\n[LOCUTOR 7]: rapidinho.\n[LOCUTOR 9]: [LOCAL].\n[LOCUTOR 7]: [LOCAL]. E aí,\n[LOCUTOR 9]: [PESSOA], bom\n[LOCUTOR 5]: dia. Deixa eu representar [PESSOA]. O [PESSOA] [PESSOA], ele é coordenador de infraestrutura [EMPRESA]. Eu\n[LOCUTOR 7]: sou\n[LOCUTOR 5]: supervisor de sistemas em [PESSOA], que é o que é hoje o nosso especialista a todos.\n[LOCUTOR 7]: [PESSOA]. Obrigado, [PESSOA].\n[LOCUTOR 9]: [PESSOA]. Quem eu não conhecia aqui era só o [PESSOA], não é, [PESSOA]? Prazer, viu, [PESSOA]? Bom, vamos lá. Eu vou deixar o [PESSOA] conversar com vocês, porque ele é nosso especialista também, [PESSOA], tá? para vocês entenderem. Eu passei o tíquete para ele para ele poder me ajudar a analisar e a gente encontrar uma saída. E ele é um especialista. Então eu vou deixar ele falar porque ele tem toda a propriedade aí para conversar conosco. Entendemos o porquê que vocês não estavam conseguindo alguns acessos.\n[LOCUTOR 7]: Até para a gente introduzir o assunto aí [PESSOA]. Se você puder passar para mim a dor de vocês, só para eu entender se a gente foi assertivo aqui no que foi definido de ação, tá?\n[LOCUTOR 5]: Isso, [PESSOA], a gente precisa do\n[LOCUTOR 7]: acesso\n[LOCUTOR 5]: ao banco do RM Educacional. Hoje a gente tem aqui o nosso, a gente usa o RM Totos, com gestão de pessoas e folha de pagamento e medicina, segurança medicina. Porque a gente trabalha normalmente, a gente cria os destes em outra plataforma, tem que criar os cubos internamente, relatório, tudo. Só que a gente precisa, para o educacional, porque a frequência, a gestão de frequência que o educacional tem, não atende o pessoal, ao\n[LOCUTOR 7]: cliente.\n[LOCUTOR 5]: Aí, para isso, a gente está gerando outra solução, através de [PESSOA], para poder atender. Mas a gente precisa ter esse acesso. \n[LOCUTOR 3]: fazer essa conexão, né?\n[LOCUTOR 5]: Não,\n[LOCUTOR 7]: é justamente isso, essa necessidade de vocês, [PESSOA] é uma necessidade bastante objetiva, e [PESSOA] é uma necessidade comum, tá? Então, até para ilustrar aqui, eu trouxe essa visão aqui, com as opções que a gente tem de modalidade de atendimento dentro da nossa operação, então foi feito um levantamento do escopo de vocês, para que a gente conseguisse entender E hoje vocês estão nesse contexto de ambiente padrão. Então, o cliente, quando ele entra dentro da nossa operação de cloud, geralmente ele entra pelo licenciamento padrão, com a cloud padrão, por quê? Porque o [EMPRESA], ele prevê para o cliente entregar já o cloud embarcado, mas o cloud embarcado que ele entrega é esse cloud nessa circunstância, nesse modelo aqui, tá? O cloud padrão, a única limitação que ele tem em relação ao cloud dedicado, é justamente o fato de não proporcionar para o cliente uma VLAN exclusiva, e é o que a gente está querendo colocar para vocês agora. Ou seja, levar a estrutura de vocês hoje, que tem um banco de dados com uma VLAN compartilhada, para uma estrutura de banco de dados com uma VLAN exclusiva. Fazendo isso, vocês vão ter a possibilidade de executar qualquer tipo de integração externa com o banco de dados, para consumir dados em tempo real ou para qualquer tipo de ação que vocês precisarem fazer. Fazendo essa migração, depois o suporte encaminha para vocês um termo de responsabilidade, porque como a Toto's Cloud é responsável por garantir performance, por garantir disponibilidade, por garantir segurança, O cliente, quando ele dá esse passo adicional, ele passa a ter um poder adicional também, ele vai ter mais liberdade. E aí o termo de responsabilidade, o suporte solicita para vocês, vocês vão preencher e eles vão liberar esse acesso depois via ticket. É um processo extremamente simples, só que tem que ser muito bem azeitado com o cliente ali para que a gente consiga fazer a liberação atendendo à expectativa dele. Aproveitando que eu estou aqui com vocês, eu destaco também, até para conhecimento, o atendimento prime. Entendam que a TOTUS, [PESSOA] trabalha só com duas modalidades de atendimento aqui na estrutura de cloud, o atendimento padrão e o atendimento prime. O atendimento padrão conta com infraestrutura compartilhada e com infraestrutura dedicada. O atendimento prime, pessoal, ele seria um próximo passo que vocês também poderiam dar que seria a adição, além de uma infraestrutura dedicada, uma infraestrutura com um banco de dados redundante, e entregamos para vocês um engenheiro cloud, que é a classe mais nobre de atendimento que nós temos aqui na nossa operação atualmente. para conseguir ser uma extensão técnica de vocês dentro da nossa estrutura. E, por fim, a gente entrega sempre um especialista de nível 3 para resolver os problemas de vocês. Então, imaginam o seguinte, hoje, no contexto que vocês estão com atendimento standard cloud compartilhada, acontece qualquer tipo de problema, vocês abrem um ticket para a nossa operação, esse ticket ele vai cair em uma ura convencional para um especialista de nível 1, e aí vamos supor que esse especialista não tenha competência para resolver ou não tenha o privilégio de acesso, escalona para o nível 2, que também pode escalonar para o nível 3. O cliente que tem um atendimento PRAE, ele conta com a possibilidade de ter o banco de dados exclusivo, ter um banco de dados redundante com [PESSOA], e contar com um time especializado que vai ajudá-lo no dia a dia, vai conhecer o ambiente dele no dia a dia e com tudo isso daí dá uma experiência melhor para o cliente que está aqui conosco. [LOCAL]? Alguma dúvida? Isso aqui, pelo que eu entendi, eu acho que talvez até pela tratativa com o suporte, é algo que vocês já tinham pegado. Vocês têm alguma dúvida sobre esse processo de infraestrutura dedicada, do processo de transição? Fiquem à vontade para questionar,\n[LOCUTOR 5]: tá? Eu, na verdade, só quero questionar se é mais comercial, mais contratual isso aí, não é, [PESSOA] e [PESSOA]?\n[LOCUTOR 7]: É isso, é isso. Isso daqui contratual, a gente precisa colocar um aditivo para levá-los da estrutura padrão, que vem incluso no\n[LOCUTOR 5]: [EMPRESA],\n[LOCUTOR 7]: para essa estrutura dedicada, que é uma estrutura que vai atender à sua necessidade. A estrutura compartilhada, até o momento, atendeu à necessidade, e agora, para dar esse próximo passo, a gente precisaria de um aditivo contratual para conseguir levá-los para a estrutura dedicada.\n[LOCUTOR 5]: Esse aditivo vai nos dar permissão de acesso ao banco de dados justamente com atendimento para a [EMPRESA].\n[LOCUTOR 7]: Esse aditivo ele levaria o que a gente propôs aqui. Eu vou até partir aqui para os valores para vocês. terem de menção, foi a migração para a cloud dedicada. Então, precisa acontecer, hoje vocês estão em uma estrutura compartilhada, vocês contratando, a gente vai levá-los para a estrutura dedicada, a gente vai precisar adicionar um valor recorrente mensal de R$ 2.697 e um valor de setup pela migração de R$ 3.500, valor pontual. Esse valor pontual pode ser parcelado em até seis vezes, Uma vez que vocês fizerem isso, a expectativa que vocês têm hoje, [PESSOA] será atendida. Eu mencionei o Cloud Prime para dar a possibilidade aqui, conversando com vocês, o que a gente havia pensado seria esse passo, o inicial, o mesmo que a gente visualiza para resolver a questão de vocês. mas eu achei pertinente mostrar para vocês que também tem um superior ao atendimento standard com o dedicado, para entender se vocês acham que pode vir a fazer sentido. Eu tinha feito aqui, não está nesse PPT que eu montei, mas eu tinha feito o valor do Cloud Prime aqui, e o valor do Cloud Prime tinha ficado em R$ 4.800 adicional mensal, mais os R$ 3.500 pontual aqui pela migração, da mesma forma. E aí, a intenção aqui, [PESSOA], é entender se você acha pertinente essa transição para o dedicado, ou se você, de repente, está aberto aí, inclusive agora, já que vai ter que dar um passo adiante, dar um passo adiante em não só ter o dedicado, mas ter o atendimento Prime para trazer outros benefícios para vocês.\n[LOCUTOR 5]: Tá, isso aí agora, [PESSOA] e [PESSOA], a gente vai ter que escalonar para [PESSOA], que é mais comercial, ele tem que saber disso. Eu vou passar e já te peço, [PESSOA], também, que passe essa proposta.\n[LOCUTOR 9]: Tá, mas a gente vai na linha do dedicado ou do Prime?\n[LOCUTOR 6]: Então, o interessante é você passar as duas\n[LOCUTOR 9]: propostas,\n[LOCUTOR 6]: os dois valores, tá? E aí a gente vai sentar aqui, vai reunir, vai conversar para\n[LOCUTOR 9]: ver\n[LOCUTOR 6]: qual a linha que a\n[LOCUTOR 7]: gente\n[LOCUTOR 6]: toma.\n[LOCUTOR 9]: Só\n[LOCUTOR 6]: para não ficar dúvida e arrematar, o que a gente precisa hoje com o que a gente tem é impossível.\n[LOCUTOR 9]: Tem que fazer aplicação, né?\n[LOCUTOR 7]: Por conta da limitação de ser uma VLAN compartilhada, vocês não conseguem fazer essa comunicação externa com o banco. Isso daqui é o que vocês precisam para resolver isso.\n[LOCUTOR 9]: Então, [PESSOA], eu vou pedir\n[LOCUTOR 7]: para\n[LOCUTOR 9]: o [PESSOA] me mandar esse PPT com os dois valores, eu te mando. Quando vocês escolherem, eu mando a proposta, tudo bem\n[LOCUTOR 5]: assim? Tá. Sim, aí também copia, [PESSOA].\n[LOCUTOR 9]: Tá bom,\n[LOCUTOR 5]: pode\n[LOCUTOR 9]: indicar.\n[LOCUTOR 4]: [LOCAL], [PESSOA], no modelo atual, a gente só consegue fazer consultas no banco através da query do [PESSOA], né?\n[LOCUTOR 7]: Isso, só o [PESSOA] disponibiliza e vocês conseguem fazer por lá. Agora, para conseguir fazer a comunicação externa mesmo, de fato, conectar, por exemplo, uma solução que vai direto na camada de banco para vocês conseguirem seguir, precisa do dedicado.\n[LOCUTOR 4]: Então pode ser o dedicado só sem o Prime.\n[LOCUTOR 7]: É o que a gente tinha pensado inicialmente, mas eu já achei pertinente, por mais que talvez vocês não optem pelo Prime nesse momento, vocês saberem que tem uma opção acima para conseguir já ficar com essa expectativa alinhada.\n[LOCUTOR 9]: [PESSOA], o [EMPRESA] e o Dedicado, a diferença é que você não compartilha, né? É exclusivo seu. Agora, o Prime é atendimento. Você vai ter um engenheiro, que você vai ter o telefone dele, você manda mensagem para ele, e você economiza muito tempo em relação a...\n[LOCUTOR 4]: A\n[LOCUTOR 9]: chamada,\n[LOCUTOR 4]: a\n[LOCUTOR 9]: necessidade.\n[LOCUTOR 7]: Isso. Dá uma celeridade, uma dinâmica melhor no dia a dia, contar com esse atendimento diferenciado. E além desse atendimento, o Prime entrega uma infraestrutura de banco de dados redundante. Então, imagina que vai ter um servidor de banco de dados principal espelhado em um secundário. Acontece um problema no servidor principal, o secundário assume instantaneamente.\n[LOCUTOR 4]: Então,\n[LOCUTOR 7]: isso também aumenta a resiliência a falhas da operação de vocês.\n[LOCUTOR 4]: [LOCAL]. [LOCAL].\n[LOCUTOR 9]: Assim que o [PESSOA] me mandar, eu já formalizo para você, tá,\n[LOCUTOR 5]: [PESSOA] [PESSOA]? [LOCAL]. Algo mais,\n[LOCUTOR 9]: [PESSOA]?\n[LOCUTOR 6]: Não, por enquanto é só isso. A gente só precisa avaliar os valores e tentar conversar com... A [LOCAL], e aí a gente\n[LOCUTOR 5]: define. Então, gente, obrigado, viu, [PESSOA], [PESSOA].\n[LOCUTOR 7]: Obrigado,\n[LOCUTOR 5]: gente. [LOCAL], gente.\n[LOCUTOR 7]: [LOCAL].\n[LOCUTOR 9]: Obrigada, [PESSOA].\n[LOCUTOR 7]: Obrigado, [PESSOA]. Eu vou correr aqui e, em seguida, mando para voc\n[LOCUTOR 8]: aí, tá? Você me manda só o print desse PTT, só dos dois valores, eu já mando para eles. Acho que já ficou, né?\n[LOCUTOR 7]: Eu vou fazer um PDF e mandar completo porque aí eu... De repente eles gostam do Prime, né?\n[LOCUTOR 9]: Aí eu j\n[LOCUTOR 1]: coloco mais alguns diferenciais do Prime ali pra ficar claro pra eles\n[LOCUTOR 9]: o que\n[LOCUTOR 7]: eles ganham.\n[LOCUTOR 9]: [PESSOA]. [PESSOA]. Obrigado pelo apoio,\n[LOCUTOR 7]: tá? Muito agradeço. Valeu. [LOCAL],\n[LOCUTOR 9]: tchau. [LOCAL], tchau.",
+  "texto_filtrado": "[LOCUTOR 6]: gente.\n[LOCUTOR 5]: Como vai? Aí está [PESSOA] [PESSOA], ele é o coordenador de\n[LOCUTOR 6]: infra.\n[LOCUTOR 9]: tamb\n[LOCUTOR 2]: nisso. [PESSOA] é\n[LOCUTOR 5]: consultora tóxica, viu,\n[LOCUTOR 9]: aí [EMPRESA] [PESSOA].\n[LOCUTOR 7]: Do ótimo por aqui.\n[LOCUTOR 9]: Vamos\n[LOCUTOR 9]: vai. Mas alguém vai entrar [PESSOA]\n[LOCUTOR 5]: [PESSOA]. Vai o [PESSOA] só chamando aqui\n[LOCUTOR 7]: rapidinho.\n[LOCUTOR 9]: [LOCAL].\n[LOCUTOR 7]: [LOCAL]. E aí,\n[LOCUTOR 5]: dia. Deixa eu representar [PESSOA]. O [PESSOA] [PESSOA], ele é coordenador de infraestrutura [EMPRESA]. Eu\n[LOCUTOR 5]: supervisor de sistemas em [PESSOA], que é o que é hoje o nosso especialista a todos.\n[LOCUTOR 7]: Até para a gente introduzir o assunto aí [PESSOA]. Se você puder passar para mim a dor de vocês, só para eu entender se a gente foi assertivo aqui no que foi definido de ação, tá?\n[LOCUTOR 5]: Isso, [PESSOA], a gente precisa do\n[LOCUTOR 7]: acesso\n[LOCUTOR 5]: ao banco do RM Educacional. Hoje a gente tem aqui o nosso, a gente usa o RM Totos, com gestão de pessoas e folha de pagamento e medicina, segurança medicina. Porque a gente trabalha normalmente, a gente cria os destes em outra plataforma, tem que criar os cubos internamente, relatório, tudo. Só que a gente precisa, para o educacional, porque a frequência, a gestão de frequência que o educacional tem, não atende o pessoal, ao\n[LOCUTOR 7]: cliente.\n[LOCUTOR 5]: Aí, para isso, a gente está gerando outra solução, através de [PESSOA], para poder atender. Mas a gente precisa ter esse acesso.\n[LOCUTOR 3]: fazer essa conexão, né?\n[LOCUTOR 7]: é justamente isso, essa necessidade de vocês, [PESSOA] é uma necessidade bastante objetiva, e [PESSOA] é uma necessidade comum, tá? Então, até para ilustrar aqui, eu trouxe essa visão aqui, com as opções que a gente tem de modalidade de atendimento dentro da nossa operação, então foi feito um levantamento do escopo de vocês, para que a gente conseguisse entender E hoje vocês estão nesse contexto de ambiente padrão. Então, o cliente, quando ele entra dentro da nossa operação de cloud, geralmente ele entra pelo licenciamento padrão, com a cloud padrão, por quê? Porque o [EMPRESA], ele prevê para o cliente entregar já o cloud embarcado, mas o cloud embarcado que ele entrega é esse cloud nessa circunstância, nesse modelo aqui, tá? O cloud padrão, a única limitação que ele tem em relação ao cloud dedicado, é justamente o fato de não proporcionar para o cliente uma VLAN exclusiva, e é o que a gente está querendo colocar para vocês agora. Ou seja, levar a estrutura de vocês hoje, que tem um banco de dados com uma VLAN compartilhada, para uma estrutura de banco de dados com uma VLAN exclusiva. Fazendo isso, vocês vão ter a possibilidade de executar qualquer tipo de integração externa com o banco de dados, para consumir dados em tempo real ou para qualquer tipo de ação que vocês precisarem fazer. Fazendo essa migração, depois o suporte encaminha para vocês um termo de responsabilidade, porque como a Toto's Cloud é responsável por garantir performance, por garantir disponibilidade, por garantir segurança, O cliente, quando ele dá esse passo adicional, ele passa a ter um poder adicional também, ele vai ter mais liberdade. E aí o termo de responsabilidade, o suporte solicita para vocês, vocês vão preencher e eles vão liberar esse acesso depois via ticket. É um processo extremamente simples, só que tem que ser muito bem azeitado com o cliente ali para que a gente consiga fazer a liberação atendendo à expectativa dele. Aproveitando que eu estou aqui com vocês, eu destaco também, até para conhecimento, o atendimento prime. Entendam que a TOTUS, [PESSOA] trabalha só com duas modalidades de atendimento aqui na estrutura de cloud, o atendimento padrão e o atendimento prime. O atendimento padrão conta com infraestrutura compartilhada e com infraestrutura dedicada. O atendimento prime, pessoal, ele seria um próximo passo que vocês também poderiam dar que seria a adição, além de uma infraestrutura dedicada, uma infraestrutura com um banco de dados redundante, e entregamos para vocês um engenheiro cloud, que é a classe mais nobre de atendimento que nós temos aqui na nossa operação atualmente. para conseguir ser uma extensão técnica de vocês dentro da nossa estrutura. E, por fim, a gente entrega sempre um especialista de nível 3 para resolver os problemas de vocês. Então, imaginam o seguinte, hoje, no contexto que vocês estão com atendimento standard cloud compartilhada, acontece qualquer tipo de problema, vocês abrem um ticket para a nossa operação, esse ticket ele vai cair em uma ura convencional para um especialista de nível 1, e aí vamos supor que esse especialista não tenha competência para resolver ou não tenha o privilégio de acesso, escalona para o nível 2, que também pode escalonar para o nível 3. O cliente que tem um atendimento PRAE, ele conta com a possibilidade de ter o banco de dados exclusivo, ter um banco de dados redundante com [PESSOA], e contar com um time especializado que vai ajudá-lo no dia a dia, vai conhecer o ambiente dele no dia a dia e com tudo isso daí dá uma experiência melhor para o cliente que está aqui conosco. [LOCAL]? Alguma dúvida? Isso aqui, pelo que eu entendi, eu acho que talvez até pela tratativa com o suporte, é algo que vocês já tinham pegado. Vocês têm alguma dúvida sobre esse processo de infraestrutura dedicada, do processo de transição? Fiquem à vontade para questionar,\n[LOCUTOR 7]: É isso, é isso. Isso daqui contratual, a gente precisa colocar um aditivo para levá-los da estrutura padrão, que vem incluso no\n[LOCUTOR 5]: [EMPRESA],\n[LOCUTOR 7]: para essa estrutura dedicada, que é uma estrutura que vai atender à sua necessidade. A estrutura compartilhada, até o momento, atendeu à necessidade, e agora, para dar esse próximo passo, a gente precisaria de um aditivo contratual para conseguir levá-los para a estrutura dedicada.\n[LOCUTOR 5]: Esse aditivo vai nos dar permissão de acesso ao banco de dados justamente com atendimento para a [EMPRESA].\n[LOCUTOR 7]: Esse aditivo ele levaria o que a gente propôs aqui. Eu vou até partir aqui para os valores para vocês. terem de menção, foi a migração para a cloud dedicada. Então, precisa acontecer, hoje vocês estão em uma estrutura compartilhada, vocês contratando, a gente vai levá-los para a estrutura dedicada, a gente vai precisar adicionar um valor recorrente mensal de R$ 2.697 e um valor de setup pela migração de R$ 3.500, valor pontual. Esse valor pontual pode ser parcelado em até seis vezes, Uma vez que vocês fizerem isso, a expectativa que vocês têm hoje, [PESSOA] será atendida. Eu mencionei o Cloud Prime para dar a possibilidade aqui, conversando com vocês, o que a gente havia pensado seria esse passo, o inicial, o mesmo que a gente visualiza para resolver a questão de vocês. mas eu achei pertinente mostrar para vocês que também tem um superior ao atendimento standard com o dedicado, para entender se vocês acham que pode vir a fazer sentido. Eu tinha feito aqui, não está nesse PPT que eu montei, mas eu tinha feito o valor do Cloud Prime aqui, e o valor do Cloud Prime tinha ficado em R$ 4.800 adicional mensal, mais os R$ 3.500 pontual aqui pela migração, da mesma forma. E aí, a intenção aqui, [PESSOA], é entender se você acha pertinente essa transição para o dedicado, ou se você, de repente, está aberto aí, inclusive agora, já que vai ter que dar um passo adiante, dar um passo adiante em não só ter o dedicado, mas ter o atendimento Prime para trazer outros benefícios para vocês.\n[LOCUTOR 5]: Tá, isso aí agora, [PESSOA] e [PESSOA], a gente vai ter que escalonar para [PESSOA], que é mais comercial, ele tem que saber disso. Eu vou passar e já te peço, [PESSOA], também, que passe essa proposta.\n[LOCUTOR 9]: Tá, mas a gente vai na linha do dedicado ou do Prime?\n[LOCUTOR 6]: Então, o interessante é você passar as duas\n[LOCUTOR 9]: propostas,\n[LOCUTOR 6]: os dois valores, tá? E aí a gente vai sentar aqui, vai reunir, vai conversar para\n[LOCUTOR 6]: qual a linha que a\n[LOCUTOR 7]: gente\n[LOCUTOR 6]: toma.\n[LOCUTOR 6]: para não ficar dúvida e arrematar, o que a gente precisa hoje com o que a gente tem é impossível.\n[LOCUTOR 9]: Tem que fazer aplicação, né?\n[LOCUTOR 7]: Por conta da limitação de ser uma VLAN compartilhada, vocês não conseguem fazer essa comunicação externa com o banco. Isso daqui é o que vocês precisam para resolver isso.\n[LOCUTOR 7]: para\n[LOCUTOR 9]: o [PESSOA] me mandar esse PPT com os dois valores, eu te mando. Quando vocês escolherem, eu mando a proposta, tudo bem\n[LOCUTOR 5]: pode\n[LOCUTOR 9]: indicar.\n[LOCUTOR 4]: [LOCAL], [PESSOA], no modelo atual, a gente só consegue fazer consultas no banco através da query do [PESSOA], né?\n[LOCUTOR 7]: Isso, só o [PESSOA] disponibiliza e vocês conseguem fazer por lá. Agora, para conseguir fazer a comunicação externa mesmo, de fato, conectar, por exemplo, uma solução que vai direto na camada de banco para vocês conseguirem seguir, precisa do dedicado.\n[LOCUTOR 4]: Então pode ser o dedicado só sem o Prime.\n[LOCUTOR 7]: É o que a gente tinha pensado inicialmente, mas eu já achei pertinente, por mais que talvez vocês não optem pelo Prime nesse momento, vocês saberem que tem uma opção acima para conseguir já ficar com essa expectativa alinhada.\n[LOCUTOR 9]: [PESSOA], o [EMPRESA] e o Dedicado, a diferença é que você não compartilha, né? É exclusivo seu. Agora, o Prime é atendimento. Você vai ter um engenheiro, que você vai ter o telefone dele, você manda mensagem para ele, e você economiza muito tempo em relação a...\n[LOCUTOR 9]: chamada,\n[LOCUTOR 9]: necessidade.\n[LOCUTOR 7]: Isso. Dá uma celeridade, uma dinâmica melhor no dia a dia, contar com esse atendimento diferenciado. E além desse atendimento, o Prime entrega uma infraestrutura de banco de dados redundante. Então, imagina que vai ter um servidor de banco de dados principal espelhado em um secundário. Acontece um problema no servidor principal, o secundário assume instantaneamente.\n[LOCUTOR 4]: Então,\n[LOCUTOR 7]: isso também aumenta a resiliência a falhas da operação de vocês.\n[LOCUTOR 4]: [LOCAL]. [LOCAL].\n[LOCUTOR 9]: Assim que o [PESSOA] me mandar, eu já formalizo para você, tá,\n[LOCUTOR 9]: [PESSOA]?\n[LOCUTOR 6]: Não, por enquanto é só isso. A gente só precisa avaliar os valores e tentar conversar com... A [LOCAL], e aí a gente\n[LOCUTOR 5]: gente. [LOCAL], gente.\n[LOCUTOR 7]: [LOCAL].\n[LOCUTOR 9]: Obrigada, [PESSOA].\n[LOCUTOR 8]: aí, tá? Você me manda só o print desse PTT, só dos dois valores, eu já mando para eles. Acho que já ficou, né?\n[LOCUTOR 7]: Eu vou fazer um PDF e mandar completo porque aí eu... De repente eles gostam do Prime, né?\n[LOCUTOR 1]: coloco mais alguns diferenciais do Prime ali pra ficar claro pra eles\n[LOCUTOR 9]: o que\n[LOCUTOR 7]: eles ganham.\n[LOCUTOR 7]: tá? Muito agradeço. Valeu. [LOCAL],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:14.882660+00:00",
+    "total_linhas": 99,
+    "linhas_mantidas": 67,
+    "linhas_removidas": 32,
+    "percentual_mantido": 67.68,
+    "confianca_media": 0.4794
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 6]: Bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: dia,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Bom dia, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3758,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Como vai? Aí está [PESSOA] [PESSOA], ele é o coordenador de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: infra.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Está envolvido",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tamb",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: nisso. [PESSOA] é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: consultora tóxica, viu,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA]? Bom dia, gente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Bom dia, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: E aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: aí E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: aí [EMPRESA] [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tudo bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tudo bem com você.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4528,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Do ótimo por aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5698,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: ver como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: vai. Mas alguém vai entrar [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA]. Vai o [PESSOA] só chamando aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: rapidinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL]. E aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA], bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: dia. Deixa eu representar [PESSOA]. O [PESSOA] [PESSOA], ele é coordenador de infraestrutura [EMPRESA]. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: sou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: supervisor de sistemas em [PESSOA], que é o que é hoje o nosso especialista a todos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.543,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [PESSOA]. Obrigado, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA]. Quem eu não conhecia aqui era só o [PESSOA], não é, [PESSOA]? Prazer, viu, [PESSOA]? Bom, vamos lá. Eu vou deixar o [PESSOA] conversar com vocês, porque ele é nosso especialista também, [PESSOA], tá? para vocês entenderem. Eu passei o tíquete para ele para ele poder me ajudar a analisar e a gente encontrar uma saída. E ele é um especialista. Então eu vou deixar ele falar porque ele tem toda a propriedade aí para conversar conosco. Entendemos o porquê que vocês não estavam conseguindo alguns acessos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4113,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Até para a gente introduzir o assunto aí [PESSOA]. Se você puder passar para mim a dor de vocês, só para eu entender se a gente foi assertivo aqui no que foi definido de ação, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Isso, [PESSOA], a gente precisa do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5978,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: acesso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: ao banco do RM Educacional. Hoje a gente tem aqui o nosso, a gente usa o RM Totos, com gestão de pessoas e folha de pagamento e medicina, segurança medicina. Porque a gente trabalha normalmente, a gente cria os destes em outra plataforma, tem que criar os cubos internamente, relatório, tudo. Só que a gente precisa, para o educacional, porque a frequência, a gestão de frequência que o educacional tem, não atende o pessoal, ao",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: cliente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Aí, para isso, a gente está gerando outra solução, através de [PESSOA], para poder atender. Mas a gente precisa ter esse acesso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5768,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: fazer essa conexão, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: é justamente isso, essa necessidade de vocês, [PESSOA] é uma necessidade bastante objetiva, e [PESSOA] é uma necessidade comum, tá? Então, até para ilustrar aqui, eu trouxe essa visão aqui, com as opções que a gente tem de modalidade de atendimento dentro da nossa operação, então foi feito um levantamento do escopo de vocês, para que a gente conseguisse entender E hoje vocês estão nesse contexto de ambiente padrão. Então, o cliente, quando ele entra dentro da nossa operação de cloud, geralmente ele entra pelo licenciamento padrão, com a cloud padrão, por quê? Porque o [EMPRESA], ele prevê para o cliente entregar já o cloud embarcado, mas o cloud embarcado que ele entrega é esse cloud nessa circunstância, nesse modelo aqui, tá? O cloud padrão, a única limitação que ele tem em relação ao cloud dedicado, é justamente o fato de não proporcionar para o cliente uma VLAN exclusiva, e é o que a gente está querendo colocar para vocês agora. Ou seja, levar a estrutura de vocês hoje, que tem um banco de dados com uma VLAN compartilhada, para uma estrutura de banco de dados com uma VLAN exclusiva. Fazendo isso, vocês vão ter a possibilidade de executar qualquer tipo de integração externa com o banco de dados, para consumir dados em tempo real ou para qualquer tipo de ação que vocês precisarem fazer. Fazendo essa migração, depois o suporte encaminha para vocês um termo de responsabilidade, porque como a Toto's Cloud é responsável por garantir performance, por garantir disponibilidade, por garantir segurança, O cliente, quando ele dá esse passo adicional, ele passa a ter um poder adicional também, ele vai ter mais liberdade. E aí o termo de responsabilidade, o suporte solicita para vocês, vocês vão preencher e eles vão liberar esse acesso depois via ticket. É um processo extremamente simples, só que tem que ser muito bem azeitado com o cliente ali para que a gente consiga fazer a liberação atendendo à expectativa dele. Aproveitando que eu estou aqui com vocês, eu destaco também, até para conhecimento, o atendimento prime. Entendam que a TOTUS, [PESSOA] trabalha só com duas modalidades de atendimento aqui na estrutura de cloud, o atendimento padrão e o atendimento prime. O atendimento padrão conta com infraestrutura compartilhada e com infraestrutura dedicada. O atendimento prime, pessoal, ele seria um próximo passo que vocês também poderiam dar que seria a adição, além de uma infraestrutura dedicada, uma infraestrutura com um banco de dados redundante, e entregamos para vocês um engenheiro cloud, que é a classe mais nobre de atendimento que nós temos aqui na nossa operação atualmente. para conseguir ser uma extensão técnica de vocês dentro da nossa estrutura. E, por fim, a gente entrega sempre um especialista de nível 3 para resolver os problemas de vocês. Então, imaginam o seguinte, hoje, no contexto que vocês estão com atendimento standard cloud compartilhada, acontece qualquer tipo de problema, vocês abrem um ticket para a nossa operação, esse ticket ele vai cair em uma ura convencional para um especialista de nível 1, e aí vamos supor que esse especialista não tenha competência para resolver ou não tenha o privilégio de acesso, escalona para o nível 2, que também pode escalonar para o nível 3. O cliente que tem um atendimento PRAE, ele conta com a possibilidade de ter o banco de dados exclusivo, ter um banco de dados redundante com [PESSOA], e contar com um time especializado que vai ajudá-lo no dia a dia, vai conhecer o ambiente dele no dia a dia e com tudo isso daí dá uma experiência melhor para o cliente que está aqui conosco. [LOCAL]? Alguma dúvida? Isso aqui, pelo que eu entendi, eu acho que talvez até pela tratativa com o suporte, é algo que vocês já tinham pegado. Vocês têm alguma dúvida sobre esse processo de infraestrutura dedicada, do processo de transição? Fiquem à vontade para questionar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tá? Eu, na verdade, só quero questionar se é mais comercial, mais contratual isso aí, não é, [PESSOA] e [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4403,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: É isso, é isso. Isso daqui contratual, a gente precisa colocar um aditivo para levá-los da estrutura padrão, que vem incluso no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.563,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: para essa estrutura dedicada, que é uma estrutura que vai atender à sua necessidade. A estrutura compartilhada, até o momento, atendeu à necessidade, e agora, para dar esse próximo passo, a gente precisaria de um aditivo contratual para conseguir levá-los para a estrutura dedicada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Esse aditivo vai nos dar permissão de acesso ao banco de dados justamente com atendimento para a [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Esse aditivo ele levaria o que a gente propôs aqui. Eu vou até partir aqui para os valores para vocês. terem de menção, foi a migração para a cloud dedicada. Então, precisa acontecer, hoje vocês estão em uma estrutura compartilhada, vocês contratando, a gente vai levá-los para a estrutura dedicada, a gente vai precisar adicionar um valor recorrente mensal de R$ 2.697 e um valor de setup pela migração de R$ 3.500, valor pontual. Esse valor pontual pode ser parcelado em até seis vezes, Uma vez que vocês fizerem isso, a expectativa que vocês têm hoje, [PESSOA] será atendida. Eu mencionei o Cloud Prime para dar a possibilidade aqui, conversando com vocês, o que a gente havia pensado seria esse passo, o inicial, o mesmo que a gente visualiza para resolver a questão de vocês. mas eu achei pertinente mostrar para vocês que também tem um superior ao atendimento standard com o dedicado, para entender se vocês acham que pode vir a fazer sentido. Eu tinha feito aqui, não está nesse PPT que eu montei, mas eu tinha feito o valor do Cloud Prime aqui, e o valor do Cloud Prime tinha ficado em R$ 4.800 adicional mensal, mais os R$ 3.500 pontual aqui pela migração, da mesma forma. E aí, a intenção aqui, [PESSOA], é entender se você acha pertinente essa transição para o dedicado, ou se você, de repente, está aberto aí, inclusive agora, já que vai ter que dar um passo adiante, dar um passo adiante em não só ter o dedicado, mas ter o atendimento Prime para trazer outros benefícios para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tá, isso aí agora, [PESSOA] e [PESSOA], a gente vai ter que escalonar para [PESSOA], que é mais comercial, ele tem que saber disso. Eu vou passar e já te peço, [PESSOA], também, que passe essa proposta.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá, mas a gente vai na linha do dedicado ou do Prime?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5894,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Então, o interessante é você passar as duas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: propostas,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: os dois valores, tá? E aí a gente vai sentar aqui, vai reunir, vai conversar para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ver",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: qual a linha que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: toma.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: para não ficar dúvida e arrematar, o que a gente precisa hoje com o que a gente tem é impossível.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5046,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tem que fazer aplicação, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Por conta da limitação de ser uma VLAN compartilhada, vocês não conseguem fazer essa comunicação externa com o banco. Isso daqui é o que vocês precisam para resolver isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então, [PESSOA], eu vou pedir",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: o [PESSOA] me mandar esse PPT com os dois valores, eu te mando. Quando vocês escolherem, eu mando a proposta, tudo bem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: assim? Tá. Sim, aí também copia, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: indicar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCAL], [PESSOA], no modelo atual, a gente só consegue fazer consultas no banco através da query do [PESSOA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5691,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Isso, só o [PESSOA] disponibiliza e vocês conseguem fazer por lá. Agora, para conseguir fazer a comunicação externa mesmo, de fato, conectar, por exemplo, uma solução que vai direto na camada de banco para vocês conseguirem seguir, precisa do dedicado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então pode ser o dedicado só sem o Prime.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: É o que a gente tinha pensado inicialmente, mas eu já achei pertinente, por mais que talvez vocês não optem pelo Prime nesse momento, vocês saberem que tem uma opção acima para conseguir já ficar com essa expectativa alinhada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4668,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA], o [EMPRESA] e o Dedicado, a diferença é que você não compartilha, né? É exclusivo seu. Agora, o Prime é atendimento. Você vai ter um engenheiro, que você vai ter o telefone dele, você manda mensagem para ele, e você economiza muito tempo em relação a...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: chamada,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: necessidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Isso. Dá uma celeridade, uma dinâmica melhor no dia a dia, contar com esse atendimento diferenciado. E além desse atendimento, o Prime entrega uma infraestrutura de banco de dados redundante. Então, imagina que vai ter um servidor de banco de dados principal espelhado em um secundário. Acontece um problema no servidor principal, o secundário assume instantaneamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: isso também aumenta a resiliência a falhas da operação de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCAL]. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Assim que o [PESSOA] me mandar, eu já formalizo para você, tá,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA] [PESSOA]? [LOCAL]. Algo mais,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Não, por enquanto é só isso. A gente só precisa avaliar os valores e tentar conversar com... A [LOCAL], e aí a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: define. Então, gente, obrigado, viu, [PESSOA], [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: gente. [LOCAL], gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Obrigada, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Obrigado, [PESSOA]. Eu vou correr aqui e, em seguida, mando para voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4382,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aí, tá? Você me manda só o print desse PTT, só dos dois valores, eu já mando para eles. Acho que já ficou, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Eu vou fazer um PDF e mandar completo porque aí eu... De repente eles gostam do Prime, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4909,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Aí eu j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: coloco mais alguns diferenciais do Prime ali pra ficar claro pra eles",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5091,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: eles ganham.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA]. [PESSOA]. Obrigado pelo apoio,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tá? Muito agradeço. Valeu. [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tchau. [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

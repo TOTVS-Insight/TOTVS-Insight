@@ -1,0 +1,1441 @@
+{
+  "id_reuniao": "1136635",
+  "codt": "TFDFFD",
+  "data_reuniao": "2026-02-27 10:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS LARGE ENTERPRISETECNOLOGIA SA",
+  "segmento": "SERVICOS",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 5]: Bom dia.\n[LOCUTOR 23]: Bom dia. Bom dia, [PESSOA].\n[LOCUTOR 14]: Olá, bom dia, [PESSOA], tudo bem?\n[LOCUTOR 23]: Tudo certo.\n[LOCUTOR 14]: Tudo tranquilo.\n[LOCUTOR 23]: Pronto\n[LOCUTOR 14]: para começar, já?\n[LOCUTOR 23]: Só aguardando o [PESSOA], ele acessou, mas eu acho que deve ter caído.\n[LOCUTOR 14]: Mas o cliente já está aí?\n[LOCUTOR 23]: Isso, o [PESSOA] é que vai apresentar. Tá,\n[LOCUTOR 14]: tá, tá o [PESSOA].\n[LOCUTOR 23]: Isso.\n[LOCUTOR 14]: Bom dia, [PESSOA], [PESSOA], [PESSOA], [PESSOA],\n[LOCUTOR 50]: tudo\n[LOCUTOR 14]: bem?\n[LOCUTOR 50]: [LOCUTOR 15]: dia.\n[LOCUTOR 14]: Bom\n[LOCUTOR 29]: dia.\n[LOCUTOR 23]: Já mandei uma mensagem. por o [PESSOA] aqui, para ver se foi algum problema de conexão dele. \n[LOCUTOR 12]: [PESSOA], enquanto a gente aguarda o [PESSOA], eu até te peço perdão, tá? Mas eu, se puder, sei que a gente vai falar de [LOCAL], né? Mas... Tem algum ponto específico aí? Talvez eu não tenha feito o meu trabalho de casa aqui para entender bem, desculpe. Mas é muita agenda. Não, tranquilo.\n[LOCUTOR 23]: Hoje o assunto é ali sobre [PESSOA], sim. E o ponto focal é a\n[LOCUTOR 14]: API,\n[LOCUTOR 23]: a comunicação bancária via API que vai ser descontinuada ali do Contas a Receber. Então, para fazer essa transição de uma forma mais tranquila a [LOCAL] fez essa parceria com a \n[LOCUTOR 1]: \n[LOCUTOR 16]: o [PESSOA] já chegou. Tudo bom, [PESSOA]?\n[LOCUTOR 38]: Cliente, sai do cliente, sai do cliente, tira dúvidas, enfim, desculpa aí,\n[LOCUTOR 23]: turma.\n[LOCUTOR 38]: Eu só\n[LOCUTOR 14]: queria mostrar\n[LOCUTOR 38]: que eu não estava atrasado, por isso que eu entrei,\n[LOCUTOR 14]: s\n[LOCUTOR 6]: que eu estava na\n[LOCUTOR 38]: outra\n[LOCUTOR 23]: cola\n[LOCUTOR 38]: aqui, eu entrei e voltei para a outra cola aqui. Desculpem lá,\n[LOCUTOR 23]: turma.\n[LOCUTOR 14]: Vamos lá.\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 14]: 5 minutos é tranquilo. Quando era presencial te atrasava 10, 15, 20, meia hora.\n[LOCUTOR 38]: É,\n[LOCUTOR 14]: tem\n[LOCUTOR 38]: também,\n[LOCUTOR 14]: tem\n[LOCUTOR 38]: razão. É verdade, tem razão. Vamos\n[LOCUTOR 14]: lá, turma.\n[LOCUTOR 38]: [LOCUTOR 19]: lá. Vamos aproveitar agora já. Acho que do lado de vocês já está todo mundo, né?\n[LOCUTOR 50]: Sim.\n[LOCUTOR 38]: Do meu\n[LOCUTOR 23]: lado está. Perfeito. Então, para quem ainda não me conhece, eu sou a [PESSOA], eu faço parte do comercial aqui da TOTUS. O [PESSOA] vocês já conhecem aí bastante. E eu trouxe junto comigo o [PESSOA], que ele é o executivo responsável pela solução da [LOCAL] na TOTUS. E é quem vai bater esse papo com vocês, entender ali o cenário e também para vocês conhecerem melhor aí a nossa nova comunicação bancária, tá bom?\n[LOCUTOR 38]: Perfeito. [PESSOA], posso começar? Queres fazer alguma coisa ou posso seguir aqui? Acho que o [PESSOA] caiu. Acho que ele caiu, é. Ele está congelado aqui. Turma, obrigado aí pelo tempo, bom dia. Eu sou o [PESSOA], como a [PESSOA] acabou de apresentar. Peço desculpa por esse atrasinho, sou super pontual, mas como falei, estava com outro cliente a terminar, aquelas dúvidas do final da reunião, tá bom? Então, já terá isso da frente, tá? [PESSOA], vou falar mais para ti, porque a tua câmera está ligada, estou-te a virar a minha cabeça, vou fazer a minha reunião mais para ti, tá bom? [PESSOA], já deve estar a entender que eu tenho um sotaque, não nasci neste país maravilhoso que é o [LOCAL], seria incrível, mas não nasci, nasci [LOCAL], tá? Mas eu já moro no [LOCAL] há alguns anos, tá? Então, eu gosto de sempre tirar isso da frente. para vocês não ficarem a pensar, [PESSOA], está aqui esse português aqui a falar de bancos e mercado financeiro e tal, e que ficou ontem ali a [LOCAL]. Não, eu já moro no [LOCAL] há alguns anos, tá? Eu costumo brincar que já sei o que é [EMPRESA], já sei o que é [LOCAL], já sei o que é tudo isso, então podem ficar tranquilos quanto a isso, tá? Não fiquem constrangidos ou inibidos de, ah, será que esse vai saber o que eu estou aqui a falar. Então, eu vou saber, tá? Já fui novo de uma mineira, enfim, tudo certo, tá? Vamos lá, turma. Antes de começar aqui a falar sobre o principal tema da pauta, tá? E antes de começar aqui a blá, blá, blá, que é o defeito aqui dos vendedores, né? Do comercial, fala muito, né? Eu só queria entender uma coisa. Vocês hoje, como a [PESSOA] falou, vocês usam a API de transmissão bancária nativa da [LOCAL], certo? Isso está claro. Vocês usam hoje, certo [PESSOA]? Vocês já usam hoje, certo? A minha pergunta é uma segunda camada. Vocês fazem, obviamente, a remessa dos títulos de cobrança via API, mas o urno de torno, ele também está por API ou aí é troca de arquivos? Ou vão bancária? Como é que vocês estão?\n[LOCUTOR 32]: O [PESSOA] pode me corrigir aí, mas a remessa a gente não faz, eu acho.\n[LOCUTOR 38]: A gente já\n[LOCUTOR 32]: faz direto o registro bancário quando o aluno clica no botão.\n[LOCUTOR 38]: A remessa, mas e\n[LOCUTOR 32]: o retorno,\n[LOCUTOR 38]: quando o aluno paga? A remessa do pago, isso vem por arquivo ou API também?\n[LOCUTOR 50]: Tem um aplicativo que é utilizado, que é a Supply, né, ô [PESSOA]? Faz o retorno bancário.\n[LOCUTOR 5]: \n[LOCUTOR 27]: caso do banco do [LOCAL].\n[LOCUTOR 38]: [LOCUTOR 21]: é tudo. Eu não entendi a [PESSOA] faz o retorno dos boletos. É isso.\n[LOCUTOR 50]: Isso.\n[LOCUTOR 14]: \n[LOCUTOR 25]: mas [PESSOA] é [PESSOA] é minha [PESSOA].\n[LOCUTOR 50]: Supply Media. Supply Media. Ah,\n[LOCUTOR 38]: Supply Media, pronto.\n[LOCUTOR 14]: É que\n[LOCUTOR 38]: nós temos\n[LOCUTOR 14]: que imunidade\n[LOCUTOR 38]: do negócio... Agora eu já te disse, tá? [PESSOA], a gente tem imunidade do negócio dentro da [PESSOA], que é a [PESSOA]. Eu tava ficando meio confuso aqui,\n[LOCUTOR 14]: tá?\n[LOCUTOR 38]: Bem, já me encontrei aqui, tá, [PESSOA] Obrigado aí, tá? Bem, já entendi tudo, ok? E super claro. [PESSOA], tu sabes o que é a [PESSOA]? Dá um passo para trás aqui. Vocês sabem o que é [PESSOA]? \n[LOCUTOR 28]: ou menos, a gente contratou a parte de cartões já, mas a gente está em período de implantação ainda.\n[LOCUTOR 50]: E o Pix a gente trabalha com o [PESSOA].\n[LOCUTOR 38]: Pronto, então vocês sabem o que é [PESSOA], [EMPRESA] com o [EMPRESA], por isso está aqui o lanjinho. Então pronto, vou para a página 25 então, ao invés de começar na página 0, tá bom?\n[LOCUTOR 32]: Bom,\n[LOCUTOR 38]: turma, vamos falar agora de coisas sérias, tá? Vamos lá, turma. Sim, a [EMPRESA] está a descontinuar essa API de remessa. [PESSOA], eu vou usar o que o [PESSOA] me falou. Portanto, vocês têm a remessa online via [EMPRESA]. Mas o retorno, remessa, retorno, o retorno é um terceiro, que é essa [PESSOA] mídia que o [PESSOA] falou. Sim, a [EMPRESA] está a descontinuar dia 31 de março a transmissão bancária de boleto tradicional remessa. Por que a [EMPRESA] está a fazer isso? E se vocês conhecem a [PESSOA], acho que vocês vão entender melhor. Na [PESSOA], estão concentrados, dentro do grande grupo econômico da [LOCAL], quem veio de banco, eu vim de banco, a [LOCAL] é mais de pagamento, toda a gente veio de banco, mercado financeiro e tudo mais. Então aqui está concentrada, as nossas 420 pessoas que a [PESSOA] tem hoje, está concentrada quem mais entende e quem mais tem uma visão de longo prazo como atender clientes de todos, como vocês, em prover cada vez mais as funcionalidades para mitigar possíveis dores do futuro, e o mundo está a mudar muito rápido, muito rápido, e aproveitar algumas ideias de brainstorming para melhorar as funcionalidades que vocês nem sabem que um dia vão precisar. Essa é a razão, é o ciclo virtuoso que fez a todos, decidi descontinuar lá a [LOCAL], tá? Transmissão de boleto, tá? Número um, a segunda derivada dessa minha primeira frase é a seguinte, tá turma? O [PESSOA], a [PESSOA] e eu, a gente sabe que é um assunto desconfortável, é um assunto desconfortável, a gente sabe e não quer de alguma forma ter uma conversa leviana a endereçar este assunto, tá? No entanto, agora vai o No entanto, né? Lá vem o vendedor, agora chapéu do vendedor. O serviço que a [LOCAL] quer substituir, né? Prestar para substituir essa API, ele tem algumas vantagens, algumas melhorias. Por exemplo, na primeira, eu sei que vocês, o [PESSOA] abriu aqui na conversa, eu sei que vocês hoje usam o nosso PIX, mas o nosso boleto que vai substituir a API da [EMPRESA], é um boleto híbrido, tem o código de barras QR Code do Pix. Isso já é uma inovação, já é uma melhoria, não é melhoria, mas uma novidade, vamos dizer assim, uma novidade, tá? Que vocês hoje não tinham, obviamente, na modalidade de todos, tá? [PESSOA], [PESSOA], até agora está tudo bem, mas tenho aqui uma pergunta a atormentar-me. Quanto vai custar isso? Quanto vai custar ligar esse novo boleto híbrido que para substituir o serviço da [EMPRESA]. Se você já usa o nosso PIX, aqui vocês sabem, montar o produto para vocês custa zero reais. [PESSOA]. A gente não cobra implantação, projeto, licença, atendimento, chamado, treinamento. Esse modelo de negócio é um modelo de negócio de empresa de tecnologia, que é o caso da [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA], enfim, deitar aqui 50 empresas de tecnologia. O nosso modelo de negócio como vocês sabem pelo PIX é pelo uso da API. E tal como vocês no PIX vocês sabem o custo que são centavos PIX nós vamos cobrar centavos por boleto liquidado. Mesma modalidade do PIX. [PESSOA] [PESSOA] já entendi. Eu lá quando eu usava o da TOTUS fazia remessa o nosso boleto ele a gente parametriza para vocês para cobrar centavos o boleto liquidado e a gente faz a remessa e o retorno tudo dentro do grande arranjo primos, né? [PESSOA] e eu, nesse caso, somos primos, né? O [PESSOA] [EMPRESA] e o [EMPRESA], tem aqui outra mãe, né? Que é o [EMPRESA], mas ficam dentro de casa com os dois serviços, remessa e retorno, totalmente integrado e conciliado dentro do ERP, tá? Então, vou falar com o [PESSOA] agora, [PESSOA], tá? [PESSOA], certamente, a [EMPRESA] cobra alguma coisa pra vocês por mês. Não é de graça, eu imagino, tá? E provavelmente, eles cobram também pelo uso da API, tá? A conta de chegada que vocês têm que fazer é quanto custa a [EMPRESA], quanto vão ser os meus centavos para fazer a remessa e o retorno e eu não sei quanto é que a [EMPRESA] cobra, mas certamente nós vamos ser bem competitivos para fazer os dois serviços. A remessa, o retorno, a baixa e a conciliação dentro do ERP no novo estouro financeiro. Turma, falei durante 5 minutos seguidos e vou me calar um minuto. Eu queria ouvir vocês. Continuam? Querem que eu apresente alguma coisa? situação, tá?\n[LOCUTOR 50]: Pessoal do financeiro, [PESSOA], [PESSOA], se tem alguma dúvida?\n[LOCUTOR 29]: Um bom dia. Hoje nós temos a nossa cobrança com o [PESSOA]. Tu falou em [EMPRESA], nós manteríamos essa cobrança, vindo os créditos pelo [PESSOA]?\n[LOCUTOR 38]: Boa pergunta, [PESSOA]. O [PESSOA], deixa eu dar um passo para trás, nós hoje já temos integrados no nosso hub bancário, [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA], [LOCAL], [LOCAL] e Cicredi. Eu sei que o [LOCAL] e o Cicredi são mais relevantes aí no sul, tá? O [LOCAL], [PESSOA], não vais acreditar, eu tenho um PowerPoint, onde materializo e tangibleizo as informações. Ele está em um roadmap de lançamento, mas hoje não está pronto, tá? \n[LOCUTOR 4]: retorno\n[LOCUTOR 38]: da API não está ligado ainda. A gente não conseguiu ainda colocar as APIs a conversar. Essa é a minha resposta, [PESSOA].\n[LOCUTOR 29]: Eu comento assim porque quando nós fizemos uma reestruturação financeira aqui nós atrelamos muitos produtos nesse contrato com o [EMPRESA]. Então esse produto está atrelado a esse contrato. Só quando o [EMPRESA] não puder nos atender a gente paga por um um parceiro bancário.\n[LOCUTOR 38]: [LOCUTOR 10]: a nossa cobrança está atrelada ao [EMPRESA]. Se não for possível aí é uma quebra de contrato que a gente não pode fazer. [LOCUTOR 22]: como tu falou que está em andamento, com certeza no momento que estiver a solução que eu estou vendo aí nos atende. [PESSOA], agora eu vou fazer, eu sou esse tipo de vendedor, vou fazer aquele sincericírio. O [PESSOA] Ele é da minha raça, ele também sofre de sincericídio, tá? Então, resposta bem clara, [PESSOA], tá? Seguinte, a gente não vai conseguir atender. Então, já tira isso da frente. Então, agora vou por outro chapéu aqui, que é o de consultor de confiança, a gente chama na [EMPRESA], [EMPRESA], tá? Pode fazer, tens dois caminhos agora, tá? Até que fim não vai conseguir ajudar. Tens dois caminhos agora. Na remessa, vai para o [LOCAL], tá? Porque o [LOCAL] vai continuar habilitado dentro do ERP gratuito, lá na [EMPRESA], ou, como o [PESSOA] falou, chamas essa [PESSOA] mídia e tenta cutar a remessa também através deles. É isso que eu tenho, [PESSOA]. Infelizmente, eu não consigo dar a tua resposta. Eu não vou conseguir te atender, infelizmente. No [LOCAL], obviamente, né? Sim, sim. E\n[LOCUTOR 29]: com relação também a\n[LOCUTOR 38]: custos,\n[LOCUTOR 29]: como tu falou ali, hoje nós também temos essa... Nós podemos cadastrar 10 mil títulos no [EMPRESA] sem custo, tá? Nós pagamos somente na [LOCAL].\n[LOCUTOR 38]: Não, então [PESSOA], fica no [LOCAL], [PESSOA]. Não sai do [LOCAL]. [PESSOA], você não paga nada do registro. Esquece,\n[LOCUTOR 29]: fica lá. Nada.\n[LOCUTOR 38]: Fica lá. \n[LOCUTOR 18]: de baixas, manutenção, somente ativação.\n[LOCUTOR 38]: Não, fica lá. Não, fica lá, pelo amor de [PESSOA]. Não sai do [LOCAL]. Fica lá.\n[LOCUTOR 29]: Tá, mas esse processo que vai ser descontinuado, o que vai nos afetar nós continuarmos com o [LOCAL]?\n[LOCUTOR 38]: Ele vai afetar... Não, por acaso tem razão, porque na API da TOTOS, [PESSOA], vocês conseguiam fazer a remessa online? É verdade, tens razão. Hoje vocês não usavam a API para fazer a remessa? Ou usavam? Porque lá\n[LOCUTOR 29]: na \n[LOCUTOR 24]: não tem\n[LOCUTOR 29]: o\n[LOCUTOR 38]: [PESSOA] habilitado. Não entendi, [PESSOA],\n[LOCUTOR 29]: desculpa. Não, o [PESSOA] e o [PESSOA] aí podem me auxiliar?\n[LOCUTOR 32]: Para fazer o registro online, a gente tem o [LOCAL] configurado aqui, eu acho que é a API.\n[LOCUTOR 38]: Na TOTUS? Sério? Você sabe, [PESSOA]? [PESSOA], eu não sabia que tinha o [LOCAL] lá, tá? Eu não sabia, juro. De novo, eu não sou TOTUS, eu sou TECFIN, né?\n[LOCUTOR 32]: Sim, sim.\n[LOCUTOR 38]: Eu não sabia. [PESSOA], turma, então... É, [PESSOA], essa... [PESSOA] e turma, e [PESSOA], vamos falar mais um lugar. Eu não sabia de... Essa vai doer para vocês, por ser do [LOCAL]. Essa vai doer. Se tá online lá e vocês fazem a transmissão dos 10 mil boletos mensalmente por API e agora a [EMPRESA] vai te continuar por tudo que eu falei, essa vai machucar vocês um pouquinho. [LOCAL] muito, galera, mas é o que é. É o que é, turma. É o que é. É o que é, turma. Decisões da companhia, [EMPRESA], acionistas, enfim. É o que é.\n[LOCUTOR 32]: [LOCUTOR 8]: que\n[LOCUTOR 38]: o caminho é, pelo que o [PESSOA] falou, acho que o [LOCAL], se são 10 mil boletos, acho que o [LOCAL] não faz muito sentido, vai consumir muitas horas da vossa turma. Eu acho que o modalidade é ir lá na [EMPRESA], que o [PESSOA] falou, e fazer cutução com eles, tá? Manresula, eu não tenho hoje, tá turma? Não tenho. E não vai estar daqui uma semana, tá turma? Só para trazer isso à frente. Não vai ficar pronto daqui uma semana, não vai ficar pronto daqui a 20 dias, vai ficar uns 60 dias, tá?\n[LOCUTOR 14]: Esse é um ponto complicado porque a\n[LOCUTOR 32]: gente est\n[LOCUTOR 11]: aqui no sul e o bairro sul é muito presente.\n[LOCUTOR 38]: Eu sei meu caro não não tá turma eu não vou não vou fazer conversa do vendedor que vai ficar pronto não não tá pronto\n[LOCUTOR 14]: e\n[LOCUTOR 38]: vai demorar.\n[LOCUTOR 14]: Quando vocês comentaram.\n[LOCUTOR 38]: 31 de março 31\n[LOCUTOR 14]: de\n[LOCUTOR 38]: março vão [LOCAL] descontinuar a transmissão nativa [EMPRESA], tá? [LOCAL] descontinuar, turma.\n[LOCUTOR 14]: Tá,\n[LOCUTOR 32]: mas vão\n[LOCUTOR 29]: continuar\n[LOCUTOR 32]: todo o processo ou só a parte do retorno?\n[LOCUTOR 38]: A remessa, [PESSOA]. Só a remessa. O retorno hoje, como o [PESSOA] falou, vocês já fazem por fora, né? que é com essa [EMPRESA], tá? Eu, o meu produto é remessa e retorno. Integrado, conciliado, baixado, tudo dentro de casa, dentro do Chapéu Todos.\n[LOCUTOR 14]: [LOCUTOR 7]: que eu não estou no [LOCAL] hoje. Eu já tenho sete bancos, mas eu não estou no [LOCAL], que é o que o [PESSOA] falou. Então, eu não consigo atender vocês. Eu não consigo. Infelizmente, turma. Enfim.\n[LOCUTOR 29]: O que eu acho, [PESSOA], claro que vocês vão ter que mandar um e-mail para nós colocando essas ponderações.\n[LOCUTOR 38]: Sim, com vontade.\n[LOCUTOR 29]: E nós levarmos para a reitoria e até para o [EMPRESA], porque daqui a pouco nós vamos deixar de ter um produto na qual nós temos eles como parceiros. E pode ser argumentação,\n[LOCUTOR 38]: porque\n[LOCUTOR 29]: nós temos contas em outros bancos também, entendeu?\n[LOCUTOR 38]: [LOCUTOR 22]: claro, a nossa centralização de produtos é com o [LOCAL] mediante esse contrato que nós estamos vigente com eles. [PESSOA], [PESSOA]. Do que pensar, como é que poderíamos endereçar com o [LOCAL]? \n[LOCUTOR 13]: [LOCAL] é difícil, né? Pelo que eu sei de histórico, é difícil de avançar lá. Demora muito mais que os outros, em média.\n[LOCUTOR 38]: Pensa assim, o [EMPRESA] é um banco poderoso, regional, mas poderoso. Tipo, eles não precisam da [PESSOA], não precisam de nós, né? Então, muito embora, e o [PESSOA] sabe isso, somos primos, como eu falei, embora 25% do PIB do [LOCAL] passa na [LOCAL], o [EMPRESA] não está nem aí para a [PESSOA], não para a [LOCAL], mas para a [PESSOA]. Ah, eu vou fazer a API aí, eu vou fazer. não é enrolando, mas vai, não é prioridade para eles e não é mesmo. Já o [EMPRESA], [LOCAL], [LOCAL], [PESSOA], como eu falei, é outra, apetite, vai, apetite para montar as coisas porque não quer cogitar perder 25%, potencialmente, 25% do PIB. Enfim, é outra modalidade, é outra cabeça. Enfim,\n[LOCUTOR 14]: é o que\n[LOCUTOR 38]: é.\n[LOCUTOR 14]: \n[LOCUTOR 31]: o que é, turma. [PESSOA], eu não sei se daria para, de alguma Talvez, falar para o [PESSOA], [PESSOA], eu vou só liquidar os bancos, os bancos, os boletos aqui numa conta do, vou usar o [LOCAL], porque sei que o [LOCAL] é forte no [LOCAL], e depois eu mando o dinheiro para a conta do [PESSOA]. Porque aqui a questão, [PESSOA], o domicílio bancário continua no [LOCAL]. O banco liquidante, onde cai o dinheirinho do boleto, é que seria outro banco. Aí vocês mandam o dinheiro de volta\n[LOCUTOR 29]: para o\n[LOCUTOR 38]: [LOCAL]. Enfim, não sei, [PESSOA], não sei. Estou tentando ajudar\n[LOCUTOR 29]: aqui. Sim, eu sei. É como se fosse uma conta transitória.\n[LOCUTOR 38]: [PESSOA].\n[LOCUTOR 29]: Mas ocorre que, claro, Esses recebíveis ficaram\n[LOCUTOR 38]: como\n[LOCUTOR 29]: garantia\n[LOCUTOR 38]: desse contrato,\n[LOCUTOR 29]: entendeu?\n[LOCUTOR 38]: Eu sei, eu sei,\n[LOCUTOR 29]: eu sei. Então, eu estou tirando os recebíveis para um outro banco para\n[LOCUTOR 38]: poder fazer\n[LOCUTOR 14]: a\n[LOCUTOR 29]: transferência. Então, é meio complicado.\n[LOCUTOR 38]: [PESSOA], posso fazer uma brincadeira contigo?\n[LOCUTOR 29]: \n[LOCUTOR 34]: estou a rir, tá? Então, não leva a mal, tá? Se tu colocaste os recebíveis como garantia e tu fizesse lá uma operação de\n[LOCUTOR 14]: dívida,\n[LOCUTOR 38]: de crédito, certo? E se eu te disser que nós até que fim temos crédito,\n[LOCUTOR 29]: que\n[LOCUTOR 38]: poderíamos eventualmente fazer com vocês, tu vais lá no [LOCAL], quitas essa dívida?\n[LOCUTOR 29]: É, é um pouco impossível. \n[LOCUTOR 9]: a brincar contigo. Não, estou a brincar, estou a brincar. Sexta-feira tem que dar uma risada, não é? Sexta-feira é fichamento, não é, [PESSOA]?\n[LOCUTOR 14]: Tem\n[LOCUTOR 38]: que fichar aquilo mesmo. Não sei como é que eu vou fazer isso. Enfim, era para brincar contigo, [PESSOA]. É porque nós temos crédito aqui, tá? A gente faz operações de capital de giro aqui e vocês, pelo que eu estudei sobre vocês, poderia ser algo interessante para nós fazer operação de dívida, crédito, de empréstimo, capital de giro.\n[LOCUTOR 29]: E\n[LOCUTOR 38]: nós fazemos operações só no aval, tá? Sem garantias. Então, poderia ser, estava só a chacoalhar a conversa aqui,\n[LOCUTOR 29]: para\n[LOCUTOR 38]: dar risada, só para, enfim, sexta-feira, fechamento, enfim.\n[LOCUTOR 29]: [LOCAL], tranquilo.\n[LOCUTOR 38]: Turma, alguma dúvida? Mas, assim, [PESSOA], eu não consigo ajudar aqui, turma, infelizmente, tá, [PESSOA]?\n[LOCUTOR 14]: É, eu acho que tu acabou ajudando bastante, alertando, né? Subindo essa\n[LOCUTOR 38]: banheira\n[LOCUTOR 14]: aí, esse flag red, vermelho, bem intenso aí.\n[LOCUTOR 38]: É, exato.\n[LOCUTOR 14]: Eu vou ver, creio que isso já tem alguma comunicação que tenha sido passada para os clientes, né, [PESSOA]?\n[LOCUTOR 38]: Sim, senhor, [PESSOA], assim, Eu vou responder para o [PESSOA], turma, não me interpreta errado,\n[LOCUTOR 14]: por\n[LOCUTOR 38]: favor, vou lá para o [PESSOA]. [PESSOA], sem me\n[LOCUTOR 14]: interpretar\n[LOCUTOR 38]: errado, tá? As primeiras comunicações foram lá em 25, tá? Só que a gente sabe que as comunicações são falhas, tá?\n[LOCUTOR 14]: Então,\n[LOCUTOR 38]: provavelmente, se calhar, o [PESSOA] não recebeu a\n[LOCUTOR 14]: comunicação,\n[LOCUTOR 38]: mas começou lá em junho 25. E tem dois TDNs\n[LOCUTOR 14]: que\n[LOCUTOR 38]: estão lá, ninguém é obrigado a ler [EMPRESA], tem dois TDNs. Eu vou enviar para ti, [PESSOA].\n[LOCUTOR 14]: Vou\n[LOCUTOR 38]: colocar os dois TDNs para vocês lerem com\n[LOCUTOR 14]: mais... Boa, legal.\n[LOCUTOR 38]: Um discurso mais técnico, vai, vamos dizer assim. Eu vou te mandar, [PESSOA]. \n[LOCUTOR 2]: tu dá uma conversada com o [EMPRESA], né?\n[LOCUTOR 14]: Que\n[LOCUTOR 32]: conhece nosso ambiente aqui.\n[LOCUTOR 14]: Tá, eu vou, recebendo os três aqui, vou chamar o [EMPRESA] e o [PESSOA] para conversar com eles e aí a gente marca uma agenda rápida aí para conversar com vocês. Antes de subir\n[LOCUTOR 38]: aí, tá?\n[LOCUTOR 14]: Para a reitoria. Leva lá um,\n[LOCUTOR 29]: vamos\n[LOCUTOR 14]: entender \n[LOCUTOR 3]: gente\n[LOCUTOR 14]: agiliza isso aí. Tá bom.\n[LOCUTOR 38]: Vou mandar no teu e-mail, tá bom? Vou fazer isso agora.\n[LOCUTOR 14]: Tá, melhor,\n[LOCUTOR 29]: perfeito. Março tá batendo a porta, né?\n[LOCUTOR 14]: Não, isso aí é amanhã. É,\n[LOCUTOR 38]: é isso aí, é amanhã, é, é, [PESSOA], é amanhã. Trinta e um de março é amanhã. A gente,\n[LOCUTOR 29]: a gente vai\n[LOCUTOR 38]: engolir\n[LOCUTOR 14]: março,\n[LOCUTOR 38]: como se a gente engola os meses hoje em dia, não, hoje eu não. A gente,\n[LOCUTOR 14]: hoje em\n[LOCUTOR 38]: dia, engola os meses. [PESSOA], está na sua\n[LOCUTOR 14]: caixa. O time tem um ponto interessante assim, cara, que o [PESSOA], ele é português com sotaque carioca,\n[LOCUTOR 38]: mas\n[LOCUTOR 14]: ele vem bastante aqui para o [LOCAL] e ele faz umas visitas muito interessantes, assim, quando a gente conversa, quando ele conversa com o [EMPRESA], aí, quando conversa com o time executivo que pensa no futuro, né? E aí a gente tem dentro da [PESSOA] algumas outras, os outros serviços, como ele falou agora aí, dessa questão aí dos empréstimos, né? Que podem ser bem interessantes, cara, para as empresas, né? Porque não é uma questão da empresa estar necessitando, a empresa saber que tem esse dinheiro disponível e que pode ser um dinheiro interessante, até barato para ela. Então, eu acho que a gente podia pensar, cara, daqui a pouco, numa vinda do [PESSOA] para cá, eu levar ele a trazer aqui para [LOCAL], eu estou em [LOCAL] hoje, trazer ele para cá para a gente fazer uma agenda aí com a reitoria, com o time financeiro, para o [PESSOA] explicar como até que fim está trabalhando agora e como ela vai trabalhar daqui para frente, porque ela veio para ficar. Essa parceria com o [EMPRESA] é exatamente para poder ser um braço financeiro para as empresas.\n[LOCUTOR 29]: Perfeito. [PESSOA],\n[LOCUTOR 38]: posso pôr um videozinho do nosso garoto propaganda preferido? É um minuto e meio, posso colocar?\n[LOCUTOR 29]: \n[LOCUTOR 31]: o vídeozinho, é o meu e-mail. Nosso garoto propaganda. Vocês vão gostar. Eu acho que vocês vão gostar, sei lá. É\n[LOCUTOR 14]: muito\n[LOCUTOR 38]: rápido,\n[LOCUTOR 14]: turma.\n[LOCUTOR 38]: É muito rápido, turma. A gente tá por aqui. Partilhar. Tela inteira. Áudio. Tela. Foi. São oportunidade, como nós chamamos, de transformacional. E transformacional Precisamente porque é um mercado gigantesco, estamos falando do mercado financeiro, crédito, cash management, então é um mercado multibilionário e a gente tem um market share ainda muito pequeno nesse mercado, então realmente é uma oportunidade muito grande que a gente está construindo, é algo completamente novo. e potencialmente disruptivo. É o que nós chamamos aqui da tese do ERP Banking, do ERP Banking. A gente acredita sim que a gente está construindo algo novo, algo pioneiro, algo que não foi feito por outras empresas. Esse vai ser um negócio bastante importante para a Toto Simpsons. Em 2026 ele vai de lançamento ainda de novas ofertas. A gente vem trabalhando num roadmap de produtos bastante importante, então nós vamos ter novas ofertas vindo ao mercado. O portfólio da nossa [PESSOA] vai crescer, o que naturalmente deve significar uma continuidade nesse nosso avanço, nessa nossa conquista de market share. Pronto, turma. Só vou deixar aqui o vídeo\n[LOCUTOR 14]: o\n[LOCUTOR 38]: nosso melhor porta-voz aqui. Só para resumir tudo.\n[LOCUTOR 14]: Eu vou trabalhar contigo um roadshow aqui para as universidades do [LOCAL] para março. E aí tem outro\n[LOCUTOR 38]: ponto\n[LOCUTOR 14]: que [LOCAL] é a capital brasileira do doce português. Então aqui tu vai de pastel de [LOCAL] é o mínimo que tu vai ter aqui.\n[LOCUTOR 38]: [LOCUTOR 20]: bom. Bem, turma, obrigado. [LOCAL], [PESSOA]. Obrigado, [PESSOA]. Obrigado a todos. Enfim, não foi\n[LOCUTOR 29]: uma li\n[LOCUTOR 30]: muito\n[LOCUTOR 32]: boa,\n[LOCUTOR 38]: mas enfim, é o que temos\n[LOCUTOR 29]: para\n[LOCUTOR 50]: hoje, tá?\n[LOCUTOR 29]: [LOCAL],\n[LOCUTOR 38]: turma.\n[LOCUTOR 29]: Obrigado, querido.\n[LOCUTOR 5]: [LOCAL],\n[LOCUTOR 38]: tchau, querido. [LOCAL], [PESSOA]. [LOCAL],\n[LOCUTOR 14]: valeu.\n[LOCUTOR 50]: [LOCUTOR 15]: trabalho. [LOCAL]\n[LOCUTOR 32]: aguardo, gargalho.\n[LOCUTOR 14]: [LOCAL], já recebi aqui, já vou trabalhar nisso, [PESSOA].",
+  "texto_filtrado": "[LOCUTOR 23]: Pronto\n[LOCUTOR 14]: para começar, já?\n[LOCUTOR 23]: Só aguardando o [PESSOA], ele acessou, mas eu acho que deve ter caído.\n[LOCUTOR 14]: Mas o cliente já está aí?\n[LOCUTOR 23]: Isso, o [PESSOA] é que vai apresentar. Tá,\n[LOCUTOR 14]: tá, tá o [PESSOA].\n[LOCUTOR 23]: Isso.\n[LOCUTOR 23]: Já mandei uma mensagem. por o [PESSOA] aqui, para ver se foi algum problema de conexão dele.\n[LOCUTOR 23]: a comunicação bancária via API que vai ser descontinuada ali do Contas a Receber. Então, para fazer essa transição de uma forma mais tranquila a [LOCAL] fez essa parceria com a\n[LOCUTOR 38]: Cliente, sai do cliente, sai do cliente, tira dúvidas, enfim, desculpa aí,\n[LOCUTOR 23]: turma.\n[LOCUTOR 14]: queria mostrar\n[LOCUTOR 6]: que eu estava na\n[LOCUTOR 38]: outra\n[LOCUTOR 23]: cola\n[LOCUTOR 38]: aqui, eu entrei e voltei para a outra cola aqui. Desculpem lá,\n[LOCUTOR 23]: turma.\n[LOCUTOR 14]: Vamos lá.\n[LOCUTOR 23]: [LOCAL].\n[LOCUTOR 14]: 5 minutos é tranquilo. Quando era presencial te atrasava 10, 15, 20, meia hora.\n[LOCUTOR 38]: também,\n[LOCUTOR 38]: razão. É verdade, tem razão. Vamos\n[LOCUTOR 14]: lá, turma.\n[LOCUTOR 38]: [LOCUTOR 19]: lá. Vamos aproveitar agora já. Acho que do lado de vocês já está todo mundo, né?\n[LOCUTOR 38]: Do meu\n[LOCUTOR 23]: lado está. Perfeito. Então, para quem ainda não me conhece, eu sou a [PESSOA], eu faço parte do comercial aqui da TOTUS. O [PESSOA] vocês já conhecem aí bastante. E eu trouxe junto comigo o [PESSOA], que ele é o executivo responsável pela solução da [LOCAL] na TOTUS. E é quem vai bater esse papo com vocês, entender ali o cenário e também para vocês conhecerem melhor aí a nossa nova comunicação bancária, tá bom?\n[LOCUTOR 38]: Perfeito. [PESSOA], posso começar? Queres fazer alguma coisa ou posso seguir aqui? Acho que o [PESSOA] caiu. Acho que ele caiu, é. Ele está congelado aqui. Turma, obrigado aí pelo tempo, bom dia. Eu sou o [PESSOA], como a [PESSOA] acabou de apresentar. Peço desculpa por esse atrasinho, sou super pontual, mas como falei, estava com outro cliente a terminar, aquelas dúvidas do final da reunião, tá bom? Então, já terá isso da frente, tá? [PESSOA], vou falar mais para ti, porque a tua câmera está ligada, estou-te a virar a minha cabeça, vou fazer a minha reunião mais para ti, tá bom? [PESSOA], já deve estar a entender que eu tenho um sotaque, não nasci neste país maravilhoso que é o [LOCAL], seria incrível, mas não nasci, nasci [LOCAL], tá? Mas eu já moro no [LOCAL] há alguns anos, tá? Então, eu gosto de sempre tirar isso da frente. para vocês não ficarem a pensar, [PESSOA], está aqui esse português aqui a falar de bancos e mercado financeiro e tal, e que ficou ontem ali a [LOCAL]. Não, eu já moro no [LOCAL] há alguns anos, tá? Eu costumo brincar que já sei o que é [EMPRESA], já sei o que é [LOCAL], já sei o que é tudo isso, então podem ficar tranquilos quanto a isso, tá? Não fiquem constrangidos ou inibidos de, ah, será que esse vai saber o que eu estou aqui a falar. Então, eu vou saber, tá? Já fui novo de uma mineira, enfim, tudo certo, tá? Vamos lá, turma. Antes de começar aqui a falar sobre o principal tema da pauta, tá? E antes de começar aqui a blá, blá, blá, que é o defeito aqui dos vendedores, né? Do comercial, fala muito, né? Eu só queria entender uma coisa. Vocês hoje, como a [PESSOA] falou, vocês usam a API de transmissão bancária nativa da [LOCAL], certo? Isso está claro. Vocês usam hoje, certo [PESSOA]? Vocês já usam hoje, certo? A minha pergunta é uma segunda camada. Vocês fazem, obviamente, a remessa dos títulos de cobrança via API, mas o urno de torno, ele também está por API ou aí é troca de arquivos? Ou vão bancária? Como é que vocês estão?\n[LOCUTOR 38]: A gente já\n[LOCUTOR 32]: faz direto o registro bancário quando o aluno clica no botão.\n[LOCUTOR 38]: A remessa, mas e\n[LOCUTOR 32]: o retorno,\n[LOCUTOR 38]: quando o aluno paga? A remessa do pago, isso vem por arquivo ou API também?\n[LOCUTOR 50]: Tem um aplicativo que é utilizado, que é a Supply, né, ô [PESSOA]? Faz o retorno bancário.\n[LOCUTOR 27]: caso do banco do [LOCAL].\n[LOCUTOR 50]: Isso.\n[LOCUTOR 25]: mas [PESSOA] é [PESSOA] é minha [PESSOA].\n[LOCUTOR 50]: Supply Media. Supply Media. Ah,\n[LOCUTOR 38]: Supply Media, pronto.\n[LOCUTOR 14]: É que\n[LOCUTOR 38]: nós temos\n[LOCUTOR 14]: que imunidade\n[LOCUTOR 38]: do negócio... Agora eu já te disse, tá? [PESSOA], a gente tem imunidade do negócio dentro da [PESSOA], que é a [PESSOA]. Eu tava ficando meio confuso aqui,\n[LOCUTOR 28]: ou menos, a gente contratou a parte de cartões já, mas a gente está em período de implantação ainda.\n[LOCUTOR 50]: E o Pix a gente trabalha com o [PESSOA].\n[LOCUTOR 38]: Pronto, então vocês sabem o que é [PESSOA], [EMPRESA] com o [EMPRESA], por isso está aqui o lanjinho. Então pronto, vou para a página 25 então, ao invés de começar na página 0, tá bom?\n[LOCUTOR 38]: turma, vamos falar agora de coisas sérias, tá? Vamos lá, turma. Sim, a [EMPRESA] está a descontinuar essa API de remessa. [PESSOA], eu vou usar o que o [PESSOA] me falou. Portanto, vocês têm a remessa online via [EMPRESA]. Mas o retorno, remessa, retorno, o retorno é um terceiro, que é essa [PESSOA] mídia que o [PESSOA] falou. Sim, a [EMPRESA] está a descontinuar dia 31 de março a transmissão bancária de boleto tradicional remessa. Por que a [EMPRESA] está a fazer isso? E se vocês conhecem a [PESSOA], acho que vocês vão entender melhor. Na [PESSOA], estão concentrados, dentro do grande grupo econômico da [LOCAL], quem veio de banco, eu vim de banco, a [LOCAL] é mais de pagamento, toda a gente veio de banco, mercado financeiro e tudo mais. Então aqui está concentrada, as nossas 420 pessoas que a [PESSOA] tem hoje, está concentrada quem mais entende e quem mais tem uma visão de longo prazo como atender clientes de todos, como vocês, em prover cada vez mais as funcionalidades para mitigar possíveis dores do futuro, e o mundo está a mudar muito rápido, muito rápido, e aproveitar algumas ideias de brainstorming para melhorar as funcionalidades que vocês nem sabem que um dia vão precisar. Essa é a razão, é o ciclo virtuoso que fez a todos, decidi descontinuar lá a [LOCAL], tá? Transmissão de boleto, tá? Número um, a segunda derivada dessa minha primeira frase é a seguinte, tá turma? O [PESSOA], a [PESSOA] e eu, a gente sabe que é um assunto desconfortável, é um assunto desconfortável, a gente sabe e não quer de alguma forma ter uma conversa leviana a endereçar este assunto, tá? No entanto, agora vai o No entanto, né? Lá vem o vendedor, agora chapéu do vendedor. O serviço que a [LOCAL] quer substituir, né? Prestar para substituir essa API, ele tem algumas vantagens, algumas melhorias. Por exemplo, na primeira, eu sei que vocês, o [PESSOA] abriu aqui na conversa, eu sei que vocês hoje usam o nosso PIX, mas o nosso boleto que vai substituir a API da [EMPRESA], é um boleto híbrido, tem o código de barras QR Code do Pix. Isso já é uma inovação, já é uma melhoria, não é melhoria, mas uma novidade, vamos dizer assim, uma novidade, tá? Que vocês hoje não tinham, obviamente, na modalidade de todos, tá? [PESSOA], [PESSOA], até agora está tudo bem, mas tenho aqui uma pergunta a atormentar-me. Quanto vai custar isso? Quanto vai custar ligar esse novo boleto híbrido que para substituir o serviço da [EMPRESA]. Se você já usa o nosso PIX, aqui vocês sabem, montar o produto para vocês custa zero reais. [PESSOA]. A gente não cobra implantação, projeto, licença, atendimento, chamado, treinamento. Esse modelo de negócio é um modelo de negócio de empresa de tecnologia, que é o caso da [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA], enfim, deitar aqui 50 empresas de tecnologia. O nosso modelo de negócio como vocês sabem pelo PIX é pelo uso da API. E tal como vocês no PIX vocês sabem o custo que são centavos PIX nós vamos cobrar centavos por boleto liquidado. Mesma modalidade do PIX. [PESSOA] [PESSOA] já entendi. Eu lá quando eu usava o da TOTUS fazia remessa o nosso boleto ele a gente parametriza para vocês para cobrar centavos o boleto liquidado e a gente faz a remessa e o retorno tudo dentro do grande arranjo primos, né? [PESSOA] e eu, nesse caso, somos primos, né? O [PESSOA] [EMPRESA] e o [EMPRESA], tem aqui outra mãe, né? Que é o [EMPRESA], mas ficam dentro de casa com os dois serviços, remessa e retorno, totalmente integrado e conciliado dentro do ERP, tá? Então, vou falar com o [PESSOA] agora, [PESSOA], tá? [PESSOA], certamente, a [EMPRESA] cobra alguma coisa pra vocês por mês. Não é de graça, eu imagino, tá? E provavelmente, eles cobram também pelo uso da API, tá? A conta de chegada que vocês têm que fazer é quanto custa a [EMPRESA], quanto vão ser os meus centavos para fazer a remessa e o retorno e eu não sei quanto é que a [EMPRESA] cobra, mas certamente nós vamos ser bem competitivos para fazer os dois serviços. A remessa, o retorno, a baixa e a conciliação dentro do ERP no novo estouro financeiro. Turma, falei durante 5 minutos seguidos e vou me calar um minuto. Eu queria ouvir vocês. Continuam? Querem que eu apresente alguma coisa? situação, tá?\n[LOCUTOR 50]: Pessoal do financeiro, [PESSOA], [PESSOA], se tem alguma dúvida?\n[LOCUTOR 29]: Um bom dia. Hoje nós temos a nossa cobrança com o [PESSOA]. Tu falou em [EMPRESA], nós manteríamos essa cobrança, vindo os créditos pelo [PESSOA]?\n[LOCUTOR 38]: Boa pergunta, [PESSOA]. O [PESSOA], deixa eu dar um passo para trás, nós hoje já temos integrados no nosso hub bancário, [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA], [LOCAL], [LOCAL] e Cicredi. Eu sei que o [LOCAL] e o Cicredi são mais relevantes aí no sul, tá? O [LOCAL], [PESSOA], não vais acreditar, eu tenho um PowerPoint, onde materializo e tangibleizo as informações. Ele está em um roadmap de lançamento, mas hoje não está pronto, tá?\n[LOCUTOR 4]: retorno\n[LOCUTOR 29]: Eu comento assim porque quando nós fizemos uma reestruturação financeira aqui nós atrelamos muitos produtos nesse contrato com o [EMPRESA]. Então esse produto está atrelado a esse contrato. Só quando o [EMPRESA] não puder nos atender a gente paga por um um parceiro bancário.\n[LOCUTOR 38]: [LOCUTOR 10]: a nossa cobrança está atrelada ao [EMPRESA]. Se não for possível aí é uma quebra de contrato que a gente não pode fazer. [LOCUTOR 22]: como tu falou que está em andamento, com certeza no momento que estiver a solução que eu estou vendo aí nos atende. [PESSOA], agora eu vou fazer, eu sou esse tipo de vendedor, vou fazer aquele sincericírio. O [PESSOA] Ele é da minha raça, ele também sofre de sincericídio, tá? Então, resposta bem clara, [PESSOA], tá? Seguinte, a gente não vai conseguir atender. Então, já tira isso da frente. Então, agora vou por outro chapéu aqui, que é o de consultor de confiança, a gente chama na [EMPRESA], [EMPRESA], tá? Pode fazer, tens dois caminhos agora, tá? Até que fim não vai conseguir ajudar. Tens dois caminhos agora. Na remessa, vai para o [LOCAL], tá? Porque o [LOCAL] vai continuar habilitado dentro do ERP gratuito, lá na [EMPRESA], ou, como o [PESSOA] falou, chamas essa [PESSOA] mídia e tenta cutar a remessa também através deles. É isso que eu tenho, [PESSOA]. Infelizmente, eu não consigo dar a tua resposta. Eu não vou conseguir te atender, infelizmente. No [LOCAL], obviamente, né? Sim, sim. E\n[LOCUTOR 29]: com relação também a\n[LOCUTOR 38]: custos,\n[LOCUTOR 29]: como tu falou ali, hoje nós também temos essa... Nós podemos cadastrar 10 mil títulos no [EMPRESA] sem custo, tá? Nós pagamos somente na [LOCAL].\n[LOCUTOR 38]: Não, então [PESSOA], fica no [LOCAL], [PESSOA]. Não sai do [LOCAL]. [PESSOA], você não paga nada do registro. Esquece,\n[LOCUTOR 29]: fica lá. Nada.\n[LOCUTOR 38]: Fica lá.\n[LOCUTOR 18]: de baixas, manutenção, somente ativação.\n[LOCUTOR 38]: Não, fica lá. Não, fica lá, pelo amor de [PESSOA]. Não sai do [LOCAL]. Fica lá.\n[LOCUTOR 29]: Tá, mas esse processo que vai ser descontinuado, o que vai nos afetar nós continuarmos com o [LOCAL]?\n[LOCUTOR 32]: Para fazer o registro online, a gente tem o [LOCAL] configurado aqui, eu acho que é a API.\n[LOCUTOR 38]: Eu não sabia. [PESSOA], turma, então... É, [PESSOA], essa... [PESSOA] e turma, e [PESSOA], vamos falar mais um lugar. Eu não sabia de... Essa vai doer para vocês, por ser do [LOCAL]. Essa vai doer. Se tá online lá e vocês fazem a transmissão dos 10 mil boletos mensalmente por API e agora a [EMPRESA] vai te continuar por tudo que eu falei, essa vai machucar vocês um pouquinho. [LOCAL] muito, galera, mas é o que é. É o que é, turma. É o que é. É o que é, turma. Decisões da companhia, [EMPRESA], acionistas, enfim. É o que é.\n[LOCUTOR 32]: [LOCUTOR 8]: que\n[LOCUTOR 38]: o caminho é, pelo que o [PESSOA] falou, acho que o [LOCAL], se são 10 mil boletos, acho que o [LOCAL] não faz muito sentido, vai consumir muitas horas da vossa turma. Eu acho que o modalidade é ir lá na [EMPRESA], que o [PESSOA] falou, e fazer cutução com eles, tá? Manresula, eu não tenho hoje, tá turma? Não tenho. E não vai estar daqui uma semana, tá turma? Só para trazer isso à frente. Não vai ficar pronto daqui uma semana, não vai ficar pronto daqui a 20 dias, vai ficar uns 60 dias, tá?\n[LOCUTOR 14]: Esse é um ponto complicado porque a\n[LOCUTOR 32]: gente est\n[LOCUTOR 11]: aqui no sul e o bairro sul é muito presente.\n[LOCUTOR 38]: Eu sei meu caro não não tá turma eu não vou não vou fazer conversa do vendedor que vai ficar pronto não não tá pronto\n[LOCUTOR 38]: vai demorar.\n[LOCUTOR 38]: 31 de março 31\n[LOCUTOR 38]: março vão [LOCAL] descontinuar a transmissão nativa [EMPRESA], tá? [LOCAL] descontinuar, turma.\n[LOCUTOR 32]: mas vão\n[LOCUTOR 29]: continuar\n[LOCUTOR 32]: todo o processo ou só a parte do retorno?\n[LOCUTOR 38]: A remessa, [PESSOA]. Só a remessa. O retorno hoje, como o [PESSOA] falou, vocês já fazem por fora, né? que é com essa [EMPRESA], tá? Eu, o meu produto é remessa e retorno. Integrado, conciliado, baixado, tudo dentro de casa, dentro do Chapéu Todos.\n[LOCUTOR 14]: [LOCUTOR 7]: que eu não estou no [LOCAL] hoje. Eu já tenho sete bancos, mas eu não estou no [LOCAL], que é o que o [PESSOA] falou. Então, eu não consigo atender vocês. Eu não consigo. Infelizmente, turma. Enfim.\n[LOCUTOR 29]: O que eu acho, [PESSOA], claro que vocês vão ter que mandar um e-mail para nós colocando essas ponderações.\n[LOCUTOR 29]: E nós levarmos para a reitoria e até para o [EMPRESA], porque daqui a pouco nós vamos deixar de ter um produto na qual nós temos eles como parceiros. E pode ser argumentação,\n[LOCUTOR 38]: porque\n[LOCUTOR 29]: nós temos contas em outros bancos também, entendeu?\n[LOCUTOR 38]: [LOCUTOR 22]: claro, a nossa centralização de produtos é com o [LOCAL] mediante esse contrato que nós estamos vigente com eles. [PESSOA], [PESSOA]. Do que pensar, como é que poderíamos endereçar com o [LOCAL]?\n[LOCUTOR 13]: [LOCAL] é difícil, né? Pelo que eu sei de histórico, é difícil de avançar lá. Demora muito mais que os outros, em média.\n[LOCUTOR 38]: Pensa assim, o [EMPRESA] é um banco poderoso, regional, mas poderoso. Tipo, eles não precisam da [PESSOA], não precisam de nós, né? Então, muito embora, e o [PESSOA] sabe isso, somos primos, como eu falei, embora 25% do PIB do [LOCAL] passa na [LOCAL], o [EMPRESA] não está nem aí para a [PESSOA], não para a [LOCAL], mas para a [PESSOA]. Ah, eu vou fazer a API aí, eu vou fazer. não é enrolando, mas vai, não é prioridade para eles e não é mesmo. Já o [EMPRESA], [LOCAL], [LOCAL], [PESSOA], como eu falei, é outra, apetite, vai, apetite para montar as coisas porque não quer cogitar perder 25%, potencialmente, 25% do PIB. Enfim, é outra modalidade, é outra cabeça. Enfim,\n[LOCUTOR 14]: é o que\n[LOCUTOR 31]: o que é, turma. [PESSOA], eu não sei se daria para, de alguma Talvez, falar para o [PESSOA], [PESSOA], eu vou só liquidar os bancos, os bancos, os boletos aqui numa conta do, vou usar o [LOCAL], porque sei que o [LOCAL] é forte no [LOCAL], e depois eu mando o dinheiro para a conta do [PESSOA]. Porque aqui a questão, [PESSOA], o domicílio bancário continua no [LOCAL]. O banco liquidante, onde cai o dinheirinho do boleto, é que seria outro banco. Aí vocês mandam o dinheiro de volta\n[LOCUTOR 29]: para o\n[LOCUTOR 38]: [PESSOA].\n[LOCUTOR 29]: Mas ocorre que, claro, Esses recebíveis ficaram\n[LOCUTOR 29]: garantia\n[LOCUTOR 38]: desse contrato,\n[LOCUTOR 29]: entendeu?\n[LOCUTOR 29]: eu sei. Então, eu estou tirando os recebíveis para um outro banco para\n[LOCUTOR 38]: poder fazer\n[LOCUTOR 29]: transferência. Então, é meio complicado.\n[LOCUTOR 38]: [PESSOA], posso fazer uma brincadeira contigo?\n[LOCUTOR 34]: estou a rir, tá? Então, não leva a mal, tá? Se tu colocaste os recebíveis como garantia e tu fizesse lá uma operação de\n[LOCUTOR 14]: dívida,\n[LOCUTOR 38]: poderíamos eventualmente fazer com vocês, tu vais lá no [LOCAL], quitas essa dívida?\n[LOCUTOR 29]: É, é um pouco impossível.\n[LOCUTOR 9]: a brincar contigo. Não, estou a brincar, estou a brincar. Sexta-feira tem que dar uma risada, não é? Sexta-feira é fichamento, não é, [PESSOA]?\n[LOCUTOR 38]: que fichar aquilo mesmo. Não sei como é que eu vou fazer isso. Enfim, era para brincar contigo, [PESSOA]. É porque nós temos crédito aqui, tá? A gente faz operações de capital de giro aqui e vocês, pelo que eu estudei sobre vocês, poderia ser algo interessante para nós fazer operação de dívida, crédito, de empréstimo, capital de giro.\n[LOCUTOR 38]: nós fazemos operações só no aval, tá? Sem garantias. Então, poderia ser, estava só a chacoalhar a conversa aqui,\n[LOCUTOR 29]: para\n[LOCUTOR 38]: dar risada, só para, enfim, sexta-feira, fechamento, enfim.\n[LOCUTOR 29]: [LOCAL], tranquilo.\n[LOCUTOR 38]: Turma, alguma dúvida? Mas, assim, [PESSOA], eu não consigo ajudar aqui, turma, infelizmente, tá, [PESSOA]?\n[LOCUTOR 14]: É, eu acho que tu acabou ajudando bastante, alertando, né? Subindo essa\n[LOCUTOR 38]: banheira\n[LOCUTOR 14]: aí, esse flag red, vermelho, bem intenso aí.\n[LOCUTOR 38]: É, exato.\n[LOCUTOR 14]: Eu vou ver, creio que isso já tem alguma comunicação que tenha sido passada para os clientes, né, [PESSOA]?\n[LOCUTOR 38]: Sim, senhor, [PESSOA], assim, Eu vou responder para o [PESSOA], turma, não me interpreta errado,\n[LOCUTOR 14]: interpretar\n[LOCUTOR 38]: errado, tá? As primeiras comunicações foram lá em 25, tá? Só que a gente sabe que as comunicações são falhas, tá?\n[LOCUTOR 14]: Então,\n[LOCUTOR 14]: comunicação,\n[LOCUTOR 38]: mas começou lá em junho 25. E tem dois TDNs\n[LOCUTOR 38]: colocar os dois TDNs para vocês lerem com\n[LOCUTOR 2]: tu dá uma conversada com o [EMPRESA], né?\n[LOCUTOR 32]: conhece nosso ambiente aqui.\n[LOCUTOR 14]: Tá, eu vou, recebendo os três aqui, vou chamar o [EMPRESA] e o [PESSOA] para conversar com eles e aí a gente marca uma agenda rápida aí para conversar com vocês. Antes de subir\n[LOCUTOR 38]: aí, tá?\n[LOCUTOR 14]: Para a reitoria. Leva lá um,\n[LOCUTOR 29]: vamos\n[LOCUTOR 14]: entender\n[LOCUTOR 3]: gente\n[LOCUTOR 14]: Tá, melhor,\n[LOCUTOR 29]: perfeito. Março tá batendo a porta, né?\n[LOCUTOR 38]: é isso aí, é amanhã, é, é, [PESSOA], é amanhã. Trinta e um de março é amanhã. A gente,\n[LOCUTOR 29]: a gente vai\n[LOCUTOR 38]: engolir\n[LOCUTOR 14]: março,\n[LOCUTOR 14]: hoje em\n[LOCUTOR 38]: dia, engola os meses. [PESSOA], está na sua\n[LOCUTOR 14]: caixa. O time tem um ponto interessante assim, cara, que o [PESSOA], ele é português com sotaque carioca,\n[LOCUTOR 14]: ele vem bastante aqui para o [LOCAL] e ele faz umas visitas muito interessantes, assim, quando a gente conversa, quando ele conversa com o [EMPRESA], aí, quando conversa com o time executivo que pensa no futuro, né? E aí a gente tem dentro da [PESSOA] algumas outras, os outros serviços, como ele falou agora aí, dessa questão aí dos empréstimos, né? Que podem ser bem interessantes, cara, para as empresas, né? Porque não é uma questão da empresa estar necessitando, a empresa saber que tem esse dinheiro disponível e que pode ser um dinheiro interessante, até barato para ela. Então, eu acho que a gente podia pensar, cara, daqui a pouco, numa vinda do [PESSOA] para cá, eu levar ele a trazer aqui para [LOCAL], eu estou em [LOCAL] hoje, trazer ele para cá para a gente fazer uma agenda aí com a reitoria, com o time financeiro, para o [PESSOA] explicar como até que fim está trabalhando agora e como ela vai trabalhar daqui para frente, porque ela veio para ficar. Essa parceria com o [EMPRESA] é exatamente para poder ser um braço financeiro para as empresas.\n[LOCUTOR 29]: Perfeito. [PESSOA],\n[LOCUTOR 38]: posso pôr um videozinho do nosso garoto propaganda preferido? É um minuto e meio, posso colocar?\n[LOCUTOR 14]: muito\n[LOCUTOR 38]: rápido,\n[LOCUTOR 14]: turma.\n[LOCUTOR 38]: É muito rápido, turma. A gente tá por aqui. Partilhar. Tela inteira. Áudio. Tela. Foi. São oportunidade, como nós chamamos, de transformacional. E transformacional Precisamente porque é um mercado gigantesco, estamos falando do mercado financeiro, crédito, cash management, então é um mercado multibilionário e a gente tem um market share ainda muito pequeno nesse mercado, então realmente é uma oportunidade muito grande que a gente está construindo, é algo completamente novo. e potencialmente disruptivo. É o que nós chamamos aqui da tese do ERP Banking, do ERP Banking. A gente acredita sim que a gente está construindo algo novo, algo pioneiro, algo que não foi feito por outras empresas. Esse vai ser um negócio bastante importante para a Toto Simpsons. Em 2026 ele vai de lançamento ainda de novas ofertas. A gente vem trabalhando num roadmap de produtos bastante importante, então nós vamos ter novas ofertas vindo ao mercado. O portfólio da nossa [PESSOA] vai crescer, o que naturalmente deve significar uma continuidade nesse nosso avanço, nessa nossa conquista de market share. Pronto, turma. Só vou deixar aqui o vídeo\n[LOCUTOR 38]: nosso melhor porta-voz aqui. Só para resumir tudo.\n[LOCUTOR 14]: Eu vou trabalhar contigo um roadshow aqui para as universidades do [LOCAL] para março. E aí tem outro\n[LOCUTOR 38]: ponto\n[LOCUTOR 14]: que [LOCAL] é a capital brasileira do doce português. Então aqui tu vai de pastel de [LOCAL] é o mínimo que tu vai ter aqui.\n[LOCUTOR 38]: [LOCUTOR 20]: bom. Bem, turma, obrigado. [LOCAL], [PESSOA]. Obrigado, [PESSOA]. Obrigado a todos. Enfim, não foi\n[LOCUTOR 29]: uma li\n[LOCUTOR 30]: muito\n[LOCUTOR 38]: mas enfim, é o que temos\n[LOCUTOR 29]: para\n[LOCUTOR 29]: [LOCAL],\n[LOCUTOR 38]: turma.\n[LOCUTOR 5]: [LOCAL],\n[LOCUTOR 50]: [LOCUTOR 15]: trabalho. [LOCAL]\n[LOCUTOR 32]: aguardo, gargalho.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:23.699278+00:00",
+    "total_linhas": 236,
+    "linhas_mantidas": 157,
+    "linhas_removidas": 79,
+    "percentual_mantido": 66.53,
+    "confianca_media": 0.4778
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 5]: Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Bom dia. Bom dia, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Olá, bom dia, [PESSOA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3758,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Tudo tranquilo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Pronto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: para começar, já?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Só aguardando o [PESSOA], ele acessou, mas eu acho que deve ter caído.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Mas o cliente já está aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Isso, o [PESSOA] é que vai apresentar. Tá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tá, tá o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Bom dia, [PESSOA], [PESSOA], [PESSOA], [PESSOA],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCUTOR 15]: dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Já mandei uma mensagem. por o [PESSOA] aqui, para ver se foi algum problema de conexão dele.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 12]: [PESSOA], enquanto a gente aguarda o [PESSOA], eu até te peço perdão, tá? Mas eu, se puder, sei que a gente vai falar de [LOCAL], né? Mas... Tem algum ponto específico aí? Talvez eu não tenha feito o meu trabalho de casa aqui para entender bem, desculpe. Mas é muita agenda. Não, tranquilo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: Hoje o assunto é ali sobre [PESSOA], sim. E o ponto focal é a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3883,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: API,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 23]: a comunicação bancária via API que vai ser descontinuada ali do Contas a Receber. Então, para fazer essa transição de uma forma mais tranquila a [LOCAL] fez essa parceria com a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 16]: o [PESSOA] já chegou. Tudo bom, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Cliente, sai do cliente, sai do cliente, tira dúvidas, enfim, desculpa aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 23]: turma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Eu só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: queria mostrar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: que eu não estava atrasado, por isso que eu entrei,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: s",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que eu estava na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4953,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: outra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: cola",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: aqui, eu entrei e voltei para a outra cola aqui. Desculpem lá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5029,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: turma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Vamos lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: 5 minutos é tranquilo. Quando era presencial te atrasava 10, 15, 20, meia hora.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: também,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: razão. É verdade, tem razão. Vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: lá, turma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [LOCUTOR 19]: lá. Vamos aproveitar agora já. Acho que do lado de vocês já está todo mundo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5399,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Do meu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: lado está. Perfeito. Então, para quem ainda não me conhece, eu sou a [PESSOA], eu faço parte do comercial aqui da TOTUS. O [PESSOA] vocês já conhecem aí bastante. E eu trouxe junto comigo o [PESSOA], que ele é o executivo responsável pela solução da [LOCAL] na TOTUS. E é quem vai bater esse papo com vocês, entender ali o cenário e também para vocês conhecerem melhor aí a nossa nova comunicação bancária, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Perfeito. [PESSOA], posso começar? Queres fazer alguma coisa ou posso seguir aqui? Acho que o [PESSOA] caiu. Acho que ele caiu, é. Ele está congelado aqui. Turma, obrigado aí pelo tempo, bom dia. Eu sou o [PESSOA], como a [PESSOA] acabou de apresentar. Peço desculpa por esse atrasinho, sou super pontual, mas como falei, estava com outro cliente a terminar, aquelas dúvidas do final da reunião, tá bom? Então, já terá isso da frente, tá? [PESSOA], vou falar mais para ti, porque a tua câmera está ligada, estou-te a virar a minha cabeça, vou fazer a minha reunião mais para ti, tá bom? [PESSOA], já deve estar a entender que eu tenho um sotaque, não nasci neste país maravilhoso que é o [LOCAL], seria incrível, mas não nasci, nasci [LOCAL], tá? Mas eu já moro no [LOCAL] há alguns anos, tá? Então, eu gosto de sempre tirar isso da frente. para vocês não ficarem a pensar, [PESSOA], está aqui esse português aqui a falar de bancos e mercado financeiro e tal, e que ficou ontem ali a [LOCAL]. Não, eu já moro no [LOCAL] há alguns anos, tá? Eu costumo brincar que já sei o que é [EMPRESA], já sei o que é [LOCAL], já sei o que é tudo isso, então podem ficar tranquilos quanto a isso, tá? Não fiquem constrangidos ou inibidos de, ah, será que esse vai saber o que eu estou aqui a falar. Então, eu vou saber, tá? Já fui novo de uma mineira, enfim, tudo certo, tá? Vamos lá, turma. Antes de começar aqui a falar sobre o principal tema da pauta, tá? E antes de começar aqui a blá, blá, blá, que é o defeito aqui dos vendedores, né? Do comercial, fala muito, né? Eu só queria entender uma coisa. Vocês hoje, como a [PESSOA] falou, vocês usam a API de transmissão bancária nativa da [LOCAL], certo? Isso está claro. Vocês usam hoje, certo [PESSOA]? Vocês já usam hoje, certo? A minha pergunta é uma segunda camada. Vocês fazem, obviamente, a remessa dos títulos de cobrança via API, mas o urno de torno, ele também está por API ou aí é troca de arquivos? Ou vão bancária? Como é que vocês estão?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: O [PESSOA] pode me corrigir aí, mas a remessa a gente não faz, eu acho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4057,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: A gente já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: faz direto o registro bancário quando o aluno clica no botão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: A remessa, mas e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: o retorno,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: quando o aluno paga? A remessa do pago, isso vem por arquivo ou API também?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5698,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Tem um aplicativo que é utilizado, que é a Supply, né, ô [PESSOA]? Faz o retorno bancário.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 27]: caso do banco do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [LOCUTOR 21]: é tudo. Eu não entendi a [PESSOA] faz o retorno dos boletos. É isso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3587,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 25]: mas [PESSOA] é [PESSOA] é minha [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Supply Media. Supply Media. Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Supply Media, pronto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: É que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: nós temos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: que imunidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: do negócio... Agora eu já te disse, tá? [PESSOA], a gente tem imunidade do negócio dentro da [PESSOA], que é a [PESSOA]. Eu tava ficando meio confuso aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Bem, já me encontrei aqui, tá, [PESSOA] Obrigado aí, tá? Bem, já entendi tudo, ok? E super claro. [PESSOA], tu sabes o que é a [PESSOA]? Dá um passo para trás aqui. Vocês sabem o que é [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4302,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 28]: ou menos, a gente contratou a parte de cartões já, mas a gente está em período de implantação ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: E o Pix a gente trabalha com o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Pronto, então vocês sabem o que é [PESSOA], [EMPRESA] com o [EMPRESA], por isso está aqui o lanjinho. Então pronto, vou para a página 25 então, ao invés de começar na página 0, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5123,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: turma, vamos falar agora de coisas sérias, tá? Vamos lá, turma. Sim, a [EMPRESA] está a descontinuar essa API de remessa. [PESSOA], eu vou usar o que o [PESSOA] me falou. Portanto, vocês têm a remessa online via [EMPRESA]. Mas o retorno, remessa, retorno, o retorno é um terceiro, que é essa [PESSOA] mídia que o [PESSOA] falou. Sim, a [EMPRESA] está a descontinuar dia 31 de março a transmissão bancária de boleto tradicional remessa. Por que a [EMPRESA] está a fazer isso? E se vocês conhecem a [PESSOA], acho que vocês vão entender melhor. Na [PESSOA], estão concentrados, dentro do grande grupo econômico da [LOCAL], quem veio de banco, eu vim de banco, a [LOCAL] é mais de pagamento, toda a gente veio de banco, mercado financeiro e tudo mais. Então aqui está concentrada, as nossas 420 pessoas que a [PESSOA] tem hoje, está concentrada quem mais entende e quem mais tem uma visão de longo prazo como atender clientes de todos, como vocês, em prover cada vez mais as funcionalidades para mitigar possíveis dores do futuro, e o mundo está a mudar muito rápido, muito rápido, e aproveitar algumas ideias de brainstorming para melhorar as funcionalidades que vocês nem sabem que um dia vão precisar. Essa é a razão, é o ciclo virtuoso que fez a todos, decidi descontinuar lá a [LOCAL], tá? Transmissão de boleto, tá? Número um, a segunda derivada dessa minha primeira frase é a seguinte, tá turma? O [PESSOA], a [PESSOA] e eu, a gente sabe que é um assunto desconfortável, é um assunto desconfortável, a gente sabe e não quer de alguma forma ter uma conversa leviana a endereçar este assunto, tá? No entanto, agora vai o No entanto, né? Lá vem o vendedor, agora chapéu do vendedor. O serviço que a [LOCAL] quer substituir, né? Prestar para substituir essa API, ele tem algumas vantagens, algumas melhorias. Por exemplo, na primeira, eu sei que vocês, o [PESSOA] abriu aqui na conversa, eu sei que vocês hoje usam o nosso PIX, mas o nosso boleto que vai substituir a API da [EMPRESA], é um boleto híbrido, tem o código de barras QR Code do Pix. Isso já é uma inovação, já é uma melhoria, não é melhoria, mas uma novidade, vamos dizer assim, uma novidade, tá? Que vocês hoje não tinham, obviamente, na modalidade de todos, tá? [PESSOA], [PESSOA], até agora está tudo bem, mas tenho aqui uma pergunta a atormentar-me. Quanto vai custar isso? Quanto vai custar ligar esse novo boleto híbrido que para substituir o serviço da [EMPRESA]. Se você já usa o nosso PIX, aqui vocês sabem, montar o produto para vocês custa zero reais. [PESSOA]. A gente não cobra implantação, projeto, licença, atendimento, chamado, treinamento. Esse modelo de negócio é um modelo de negócio de empresa de tecnologia, que é o caso da [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA], enfim, deitar aqui 50 empresas de tecnologia. O nosso modelo de negócio como vocês sabem pelo PIX é pelo uso da API. E tal como vocês no PIX vocês sabem o custo que são centavos PIX nós vamos cobrar centavos por boleto liquidado. Mesma modalidade do PIX. [PESSOA] [PESSOA] já entendi. Eu lá quando eu usava o da TOTUS fazia remessa o nosso boleto ele a gente parametriza para vocês para cobrar centavos o boleto liquidado e a gente faz a remessa e o retorno tudo dentro do grande arranjo primos, né? [PESSOA] e eu, nesse caso, somos primos, né? O [PESSOA] [EMPRESA] e o [EMPRESA], tem aqui outra mãe, né? Que é o [EMPRESA], mas ficam dentro de casa com os dois serviços, remessa e retorno, totalmente integrado e conciliado dentro do ERP, tá? Então, vou falar com o [PESSOA] agora, [PESSOA], tá? [PESSOA], certamente, a [EMPRESA] cobra alguma coisa pra vocês por mês. Não é de graça, eu imagino, tá? E provavelmente, eles cobram também pelo uso da API, tá? A conta de chegada que vocês têm que fazer é quanto custa a [EMPRESA], quanto vão ser os meus centavos para fazer a remessa e o retorno e eu não sei quanto é que a [EMPRESA] cobra, mas certamente nós vamos ser bem competitivos para fazer os dois serviços. A remessa, o retorno, a baixa e a conciliação dentro do ERP no novo estouro financeiro. Turma, falei durante 5 minutos seguidos e vou me calar um minuto. Eu queria ouvir vocês. Continuam? Querem que eu apresente alguma coisa? situação, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: Pessoal do financeiro, [PESSOA], [PESSOA], se tem alguma dúvida?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Um bom dia. Hoje nós temos a nossa cobrança com o [PESSOA]. Tu falou em [EMPRESA], nós manteríamos essa cobrança, vindo os créditos pelo [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4624,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Boa pergunta, [PESSOA]. O [PESSOA], deixa eu dar um passo para trás, nós hoje já temos integrados no nosso hub bancário, [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA], [LOCAL], [LOCAL] e Cicredi. Eu sei que o [LOCAL] e o Cicredi são mais relevantes aí no sul, tá? O [LOCAL], [PESSOA], não vais acreditar, eu tenho um PowerPoint, onde materializo e tangibleizo as informações. Ele está em um roadmap de lançamento, mas hoje não está pronto, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: retorno",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: da API não está ligado ainda. A gente não conseguiu ainda colocar as APIs a conversar. Essa é a minha resposta, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4336,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Eu comento assim porque quando nós fizemos uma reestruturação financeira aqui nós atrelamos muitos produtos nesse contrato com o [EMPRESA]. Então esse produto está atrelado a esse contrato. Só quando o [EMPRESA] não puder nos atender a gente paga por um um parceiro bancário.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [LOCUTOR 10]: a nossa cobrança está atrelada ao [EMPRESA]. Se não for possível aí é uma quebra de contrato que a gente não pode fazer. [LOCUTOR 22]: como tu falou que está em andamento, com certeza no momento que estiver a solução que eu estou vendo aí nos atende. [PESSOA], agora eu vou fazer, eu sou esse tipo de vendedor, vou fazer aquele sincericírio. O [PESSOA] Ele é da minha raça, ele também sofre de sincericídio, tá? Então, resposta bem clara, [PESSOA], tá? Seguinte, a gente não vai conseguir atender. Então, já tira isso da frente. Então, agora vou por outro chapéu aqui, que é o de consultor de confiança, a gente chama na [EMPRESA], [EMPRESA], tá? Pode fazer, tens dois caminhos agora, tá? Até que fim não vai conseguir ajudar. Tens dois caminhos agora. Na remessa, vai para o [LOCAL], tá? Porque o [LOCAL] vai continuar habilitado dentro do ERP gratuito, lá na [EMPRESA], ou, como o [PESSOA] falou, chamas essa [PESSOA] mídia e tenta cutar a remessa também através deles. É isso que eu tenho, [PESSOA]. Infelizmente, eu não consigo dar a tua resposta. Eu não vou conseguir te atender, infelizmente. No [LOCAL], obviamente, né? Sim, sim. E",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: com relação também a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: custos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: como tu falou ali, hoje nós também temos essa... Nós podemos cadastrar 10 mil títulos no [EMPRESA] sem custo, tá? Nós pagamos somente na [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4897,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Não, então [PESSOA], fica no [LOCAL], [PESSOA]. Não sai do [LOCAL]. [PESSOA], você não paga nada do registro. Esquece,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4753,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: fica lá. Nada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Fica lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: de baixas, manutenção, somente ativação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Não, fica lá. Não, fica lá, pelo amor de [PESSOA]. Não sai do [LOCAL]. Fica lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4636,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Tá, mas esse processo que vai ser descontinuado, o que vai nos afetar nós continuarmos com o [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Ele vai afetar... Não, por acaso tem razão, porque na API da TOTOS, [PESSOA], vocês conseguiam fazer a remessa online? É verdade, tens razão. Hoje vocês não usavam a API para fazer a remessa? Ou usavam? Porque lá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4401,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 24]: não tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [PESSOA] habilitado. Não entendi, [PESSOA],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: desculpa. Não, o [PESSOA] e o [PESSOA] aí podem me auxiliar?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.362,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Para fazer o registro online, a gente tem o [LOCAL] configurado aqui, eu acho que é a API.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5146,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Na TOTUS? Sério? Você sabe, [PESSOA]? [PESSOA], eu não sabia que tinha o [LOCAL] lá, tá? Eu não sabia, juro. De novo, eu não sou TOTUS, eu sou TECFIN, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4392,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: Sim, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Eu não sabia. [PESSOA], turma, então... É, [PESSOA], essa... [PESSOA] e turma, e [PESSOA], vamos falar mais um lugar. Eu não sabia de... Essa vai doer para vocês, por ser do [LOCAL]. Essa vai doer. Se tá online lá e vocês fazem a transmissão dos 10 mil boletos mensalmente por API e agora a [EMPRESA] vai te continuar por tudo que eu falei, essa vai machucar vocês um pouquinho. [LOCAL] muito, galera, mas é o que é. É o que é, turma. É o que é. É o que é, turma. Decisões da companhia, [EMPRESA], acionistas, enfim. É o que é.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 32]: [LOCUTOR 8]: que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: o caminho é, pelo que o [PESSOA] falou, acho que o [LOCAL], se são 10 mil boletos, acho que o [LOCAL] não faz muito sentido, vai consumir muitas horas da vossa turma. Eu acho que o modalidade é ir lá na [EMPRESA], que o [PESSOA] falou, e fazer cutução com eles, tá? Manresula, eu não tenho hoje, tá turma? Não tenho. E não vai estar daqui uma semana, tá turma? Só para trazer isso à frente. Não vai ficar pronto daqui uma semana, não vai ficar pronto daqui a 20 dias, vai ficar uns 60 dias, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Esse é um ponto complicado porque a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: gente est",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: aqui no sul e o bairro sul é muito presente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Eu sei meu caro não não tá turma eu não vou não vou fazer conversa do vendedor que vai ficar pronto não não tá pronto",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: vai demorar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Quando vocês comentaram.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: 31 de março 31",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: março vão [LOCAL] descontinuar a transmissão nativa [EMPRESA], tá? [LOCAL] descontinuar, turma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 32]: mas vão",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: continuar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: todo o processo ou só a parte do retorno?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: A remessa, [PESSOA]. Só a remessa. O retorno hoje, como o [PESSOA] falou, vocês já fazem por fora, né? que é com essa [EMPRESA], tá? Eu, o meu produto é remessa e retorno. Integrado, conciliado, baixado, tudo dentro de casa, dentro do Chapéu Todos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.505,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [LOCUTOR 7]: que eu não estou no [LOCAL] hoje. Eu já tenho sete bancos, mas eu não estou no [LOCAL], que é o que o [PESSOA] falou. Então, eu não consigo atender vocês. Eu não consigo. Infelizmente, turma. Enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: O que eu acho, [PESSOA], claro que vocês vão ter que mandar um e-mail para nós colocando essas ponderações.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4954,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Sim, com vontade.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: E nós levarmos para a reitoria e até para o [EMPRESA], porque daqui a pouco nós vamos deixar de ter um produto na qual nós temos eles como parceiros. E pode ser argumentação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: nós temos contas em outros bancos também, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [LOCUTOR 22]: claro, a nossa centralização de produtos é com o [LOCAL] mediante esse contrato que nós estamos vigente com eles. [PESSOA], [PESSOA]. Do que pensar, como é que poderíamos endereçar com o [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCAL] é difícil, né? Pelo que eu sei de histórico, é difícil de avançar lá. Demora muito mais que os outros, em média.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Pensa assim, o [EMPRESA] é um banco poderoso, regional, mas poderoso. Tipo, eles não precisam da [PESSOA], não precisam de nós, né? Então, muito embora, e o [PESSOA] sabe isso, somos primos, como eu falei, embora 25% do PIB do [LOCAL] passa na [LOCAL], o [EMPRESA] não está nem aí para a [PESSOA], não para a [LOCAL], mas para a [PESSOA]. Ah, eu vou fazer a API aí, eu vou fazer. não é enrolando, mas vai, não é prioridade para eles e não é mesmo. Já o [EMPRESA], [LOCAL], [LOCAL], [PESSOA], como eu falei, é outra, apetite, vai, apetite para montar as coisas porque não quer cogitar perder 25%, potencialmente, 25% do PIB. Enfim, é outra modalidade, é outra cabeça. Enfim,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: é o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: é.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 14]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 31]: o que é, turma. [PESSOA], eu não sei se daria para, de alguma Talvez, falar para o [PESSOA], [PESSOA], eu vou só liquidar os bancos, os bancos, os boletos aqui numa conta do, vou usar o [LOCAL], porque sei que o [LOCAL] é forte no [LOCAL], e depois eu mando o dinheiro para a conta do [PESSOA]. Porque aqui a questão, [PESSOA], o domicílio bancário continua no [LOCAL]. O banco liquidante, onde cai o dinheirinho do boleto, é que seria outro banco. Aí vocês mandam o dinheiro de volta",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: para o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [LOCAL]. Enfim, não sei, [PESSOA], não sei. Estou tentando ajudar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: aqui. Sim, eu sei. É como se fosse uma conta transitória.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4282,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Mas ocorre que, claro, Esses recebíveis ficaram",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: garantia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: desse contrato,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Eu sei, eu sei,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: eu sei. Então, eu estou tirando os recebíveis para um outro banco para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.508,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: poder fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 29]: transferência. Então, é meio complicado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [PESSOA], posso fazer uma brincadeira contigo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 34]: estou a rir, tá? Então, não leva a mal, tá? Se tu colocaste os recebíveis como garantia e tu fizesse lá uma operação de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: dívida,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: de crédito, certo? E se eu te disser que nós até que fim temos crédito,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4554,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: poderíamos eventualmente fazer com vocês, tu vais lá no [LOCAL], quitas essa dívida?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.509,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: É, é um pouco impossível.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a brincar contigo. Não, estou a brincar, estou a brincar. Sexta-feira tem que dar uma risada, não é? Sexta-feira é fichamento, não é, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4765,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: que fichar aquilo mesmo. Não sei como é que eu vou fazer isso. Enfim, era para brincar contigo, [PESSOA]. É porque nós temos crédito aqui, tá? A gente faz operações de capital de giro aqui e vocês, pelo que eu estudei sobre vocês, poderia ser algo interessante para nós fazer operação de dívida, crédito, de empréstimo, capital de giro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: nós fazemos operações só no aval, tá? Sem garantias. Então, poderia ser, estava só a chacoalhar a conversa aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5292,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: dar risada, só para, enfim, sexta-feira, fechamento, enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5535,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [LOCAL], tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Turma, alguma dúvida? Mas, assim, [PESSOA], eu não consigo ajudar aqui, turma, infelizmente, tá, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: É, eu acho que tu acabou ajudando bastante, alertando, né? Subindo essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: banheira",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: aí, esse flag red, vermelho, bem intenso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: É, exato.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Eu vou ver, creio que isso já tem alguma comunicação que tenha sido passada para os clientes, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Sim, senhor, [PESSOA], assim, Eu vou responder para o [PESSOA], turma, não me interpreta errado,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: favor, vou lá para o [PESSOA]. [PESSOA], sem me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4248,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: interpretar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: errado, tá? As primeiras comunicações foram lá em 25, tá? Só que a gente sabe que as comunicações são falhas, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5511,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: provavelmente, se calhar, o [PESSOA] não recebeu a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: comunicação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: mas começou lá em junho 25. E tem dois TDNs",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: estão lá, ninguém é obrigado a ler [EMPRESA], tem dois TDNs. Eu vou enviar para ti, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4245,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: colocar os dois TDNs para vocês lerem com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5364,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: mais... Boa, legal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Um discurso mais técnico, vai, vamos dizer assim. Eu vou te mandar, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3979,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tu dá uma conversada com o [EMPRESA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5517,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 32]: conhece nosso ambiente aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Tá, eu vou, recebendo os três aqui, vou chamar o [EMPRESA] e o [PESSOA] para conversar com eles e aí a gente marca uma agenda rápida aí para conversar com vocês. Antes de subir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5227,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: aí, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Para a reitoria. Leva lá um,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5215,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: entender",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: agiliza isso aí. Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: Vou mandar no teu e-mail, tá bom? Vou fazer isso agora.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4178,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Tá, melhor,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: perfeito. Março tá batendo a porta, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Não, isso aí é amanhã. É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: é isso aí, é amanhã, é, é, [PESSOA], é amanhã. Trinta e um de março é amanhã. A gente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: a gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: engolir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: março,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: como se a gente engola os meses hoje em dia, não, hoje eu não. A gente,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4097,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: hoje em",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4854,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: dia, engola os meses. [PESSOA], está na sua",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4681,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: caixa. O time tem um ponto interessante assim, cara, que o [PESSOA], ele é português com sotaque carioca,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5214,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 14]: ele vem bastante aqui para o [LOCAL] e ele faz umas visitas muito interessantes, assim, quando a gente conversa, quando ele conversa com o [EMPRESA], aí, quando conversa com o time executivo que pensa no futuro, né? E aí a gente tem dentro da [PESSOA] algumas outras, os outros serviços, como ele falou agora aí, dessa questão aí dos empréstimos, né? Que podem ser bem interessantes, cara, para as empresas, né? Porque não é uma questão da empresa estar necessitando, a empresa saber que tem esse dinheiro disponível e que pode ser um dinheiro interessante, até barato para ela. Então, eu acho que a gente podia pensar, cara, daqui a pouco, numa vinda do [PESSOA] para cá, eu levar ele a trazer aqui para [LOCAL], eu estou em [LOCAL] hoje, trazer ele para cá para a gente fazer uma agenda aí com a reitoria, com o time financeiro, para o [PESSOA] explicar como até que fim está trabalhando agora e como ela vai trabalhar daqui para frente, porque ela veio para ficar. Essa parceria com o [EMPRESA] é exatamente para poder ser um braço financeiro para as empresas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Perfeito. [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: posso pôr um videozinho do nosso garoto propaganda preferido? É um minuto e meio, posso colocar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4845,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 31]: o vídeozinho, é o meu e-mail. Nosso garoto propaganda. Vocês vão gostar. Eu acho que vocês vão gostar, sei lá. É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.442,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: rápido,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: turma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 38]: É muito rápido, turma. A gente tá por aqui. Partilhar. Tela inteira. Áudio. Tela. Foi. São oportunidade, como nós chamamos, de transformacional. E transformacional Precisamente porque é um mercado gigantesco, estamos falando do mercado financeiro, crédito, cash management, então é um mercado multibilionário e a gente tem um market share ainda muito pequeno nesse mercado, então realmente é uma oportunidade muito grande que a gente está construindo, é algo completamente novo. e potencialmente disruptivo. É o que nós chamamos aqui da tese do ERP Banking, do ERP Banking. A gente acredita sim que a gente está construindo algo novo, algo pioneiro, algo que não foi feito por outras empresas. Esse vai ser um negócio bastante importante para a Toto Simpsons. Em 2026 ele vai de lançamento ainda de novas ofertas. A gente vem trabalhando num roadmap de produtos bastante importante, então nós vamos ter novas ofertas vindo ao mercado. O portfólio da nossa [PESSOA] vai crescer, o que naturalmente deve significar uma continuidade nesse nosso avanço, nessa nossa conquista de market share. Pronto, turma. Só vou deixar aqui o vídeo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: nosso melhor porta-voz aqui. Só para resumir tudo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5006,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Eu vou trabalhar contigo um roadshow aqui para as universidades do [LOCAL] para março. E aí tem outro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.53,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: ponto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: que [LOCAL] é a capital brasileira do doce português. Então aqui tu vai de pastel de [LOCAL] é o mínimo que tu vai ter aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: [LOCUTOR 20]: bom. Bem, turma, obrigado. [LOCAL], [PESSOA]. Obrigado, [PESSOA]. Obrigado a todos. Enfim, não foi",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: uma li",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: boa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: mas enfim, é o que temos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: hoje, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: turma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 29]: Obrigado, querido.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: tchau, querido. [LOCAL], [PESSOA]. [LOCAL],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: valeu.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [LOCUTOR 15]: trabalho. [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: aguardo, gargalho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: [LOCAL], já recebi aqui, já vou trabalhar nisso, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    }
+  ]
+}

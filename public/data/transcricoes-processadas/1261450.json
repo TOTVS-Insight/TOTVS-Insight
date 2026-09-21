@@ -1,0 +1,1969 @@
+{
+  "id_reuniao": "1261450",
+  "codt": "T50342",
+  "data_reuniao": "2026-03-18 15:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "DF",
+  "texto_original": "[LOCUTOR 7]: Olá,\n[LOCUTOR 30]: boa tarde.\n[LOCUTOR 7]: Boa tarde, [PESSOA].\n[LOCUTOR 30]: [EMPRESA], boa tarde, tudo bem?\n[LOCUTOR 16]: Tem\n[LOCUTOR 7]: mais gente, pessoal do lado de vocês, para participar?\n[LOCUTOR 30]: Eu acho\n[LOCUTOR 16]: que o\n[LOCUTOR 30]: nosso gerente, [PESSOA] Godóis, ele está numa outra reunião, ele não vai conseguir participar. Deixa eu só confirmar com ele aqui, porque ele disse\n[LOCUTOR 7]: que tinha\n[LOCUTOR 30]: um choque de agenda, sim. Mas deixa eu só confirmar se é isso mesmo.\n[LOCUTOR 7]: [EMPRESA].\n[LOCUTOR 30]: [LOCUTOR 4]: a [LOCAL] e a [PESSOA]. É, ele falou, [PESSOA], que não vai conseguir entrar porque ele disse que tá com muito pagamento pro dia 20, aí eu falei assim, não, se precisar alguma dúvida em relação aos lançamentos do ADM, a [PESSOA] nos ajuda.\n[LOCUTOR 14]: Tá bom.\n[LOCUTOR 30]: que a parte da saúde, a [PESSOA] tá com a gente, aí a parte do ADM, se precisar de tirar alguma dúvida, aí você nos ajuda. Ele disse que vai demorar um pouquinho, mas podemos começar, tá bom?\n[LOCUTOR 7]: Ah, tá bom então. Bom,\n[LOCUTOR 30]: só\n[LOCUTOR 7]: para...\n[LOCUTOR 30]: Vamos\n[LOCUTOR 7]: lá. Deixa eu me apresentar aqui. Eu sou da [LOCAL] do time de Engenharia de Valor. O [PESSOA] me passou a necessidade de uma apresentação do [LOCAL] para você. Então, só gostaria de confirmar se é realmente isso. A expectativa de você é essa de ver o [LOCAL] funcionando. Não, não existe.[PESSOA] de \n[LOCUTOR 37]: Boa tarde [PESSOA], tudo bem? Eu não sei se é só pra mim, mas o teu microfone tá bem baixinho, meio\n[LOCUTOR 30]: abafado. É, eu também,[PESSOA] de \n[LOCUTOR 37]: eu\n[LOCUTOR 30]: entendi, eu não entendi se ele perguntou algo.[PESSOA] de \n[LOCUTOR 37]: É, perdão viu.\n[LOCUTOR 7]: [LOCAL], eu peço desculpas, é que eu não tô com o meu headphone hoje, e eu tô só com o fone de ouvido mesmo. [PESSOA] agora? Sim,\n[LOCUTOR 30]: agora estamos te ouvindo, sim, vamos lá.\n[LOCUTOR 7]: \n[LOCUTOR 25]: [PESSOA] falou a respeito da necessidade do [EMPRESA]\n[LOCUTOR 30]: Transmit.\n[LOCUTOR 7]: \n[LOCUTOR 22]: disso, eu já não entendi mais nada. Eu queria saber se realmente essa é a expectativa de vocês, de ver o [EMPRESA] Transmit, essa apresentação mesmo, ou se tem algum outro objetivo aqui para vocês mapear.\n[LOCUTOR 30]: É, de fato, o seu microfone está falhando. Então, eu escuto algumas coisas e algumas coisas falham. Então, deixa eu só te apresentar a nossa necessidade. E assim, nós tivemos uma indicação do sistema, do [EMPRESA] Transmit, que é para uma funcionalidade do que atualmente a gente precisa, de uma mudança que a gente precisa fazer no nosso sistema. Atualmente, nós temos quatro analistas que fazem lançamento de notas fiscais manualmente, no que a gente chama de despesas de saúde, e nas despesas administrativas e sociais, nós temos mais outros cinco analistas. E esses lançamentos de notas fiscais, eles são 100% manual. Então, número de nota, data de emissão, tem suas particularidades no ADM e algumas particularidades na [EMPRESA], na despesa de saúde. O que são essas particularidades? No ADM e social, eles vêm de... Ela tem medições, e, posteriormente, eles geram pedidos que, posteriormente, possibilitam o lançamento dessas notas fiscais. No caso das notas fiscais de saúde, nós temos gerações de faturas. Nós temos uma outra empresa que faz o fechamento das notas fiscais, das faturas, e aí elas fazem esse fechamento de faturas que, posteriormente, gera pedido, que, posteriormente, a equipe das minhas analistas fazem os lançamentos de notas fiscais também manualmente. Então, sim, tem alguns dados que são manuais, tem alguns dados que são... ...o CNPJ, pesquisam o CNPJ e, automaticamente, puxa o cadastro dele que está no sistema e uma fatura que está no sistema que gerou esse pedido no sistema. Então, o que é a nossa ideia? Nós conhecemos outros programas, outros sistemas que fazem, basicamente, o que também nós ficamos sabendo que o sistema transmite, faz, que é importar, pegar esses dados, o XML lá no sistema, lá na [LOCAL], importar esses dados para dentro do sistema Proteus, para que a gente possa aproveitar dados como número de nota, data de emissão, para diminuir a parte de digitação manual e também diminuir a parte de erros também de digitação. Às vezes você está ali digitando na agilidade ali de tentar digitar o quanto mais notas possíveis, acaba que você troca um 8, às vezes, ao invés de digitar 48, você digita 84, E por aí vai, entendeu? Aí isso é na possibilidade, né, na possibilidade de não ter esses erros manuais, a gente quer ver se o sistema, a gente consegue aproveitar esses dados que o sistema traz através do XML. Então, assim, nós ficamos pelo que a... o que a gente ficou sabendo, talvez é o próprio sistema Transmit que faz isso, o [LOCAL] Transmit que faz isso. Se não for essa ferramenta, então você, como um especialista da [LOCAL], que nos diga se é isso mesmo e quais as funcionalidades que o [LOCAL] Transmit faz. [PESSOA], foi embora?\n[LOCUTOR 7]: Não, estou aqui, estão me ouvindo?\n[LOCUTOR 30]: Estamos te ouvindo agora.\n[LOCUTOR 7]: Eu vim para uma salinha aqui, que eu acho que vai ficar melhor o áudio para vocês.\n[LOCUTOR 30]: Ok.\n[LOCUTOR 7]: Eu ouvi tudo que você me falou, tá? Enquanto eu estava trocando a salinha aqui. É exatamente esse mesmo o intuito do Transmit, que é capturar esses XML,\n[LOCUTOR 30]: tá? Isso.\n[LOCUTOR 7]: Tanto de prefeitura, se for prestadores de serviço, quanto de produtos, se for emissão de fornecedores de materiais, equipamentos, etc.\n[LOCUTOR 30]: O famoso DANF, né?\n[LOCUTOR 7]: Isso. Então, o sistema está todo momento ali se comunicando com a [PESSOA] e com as prefeituras que já disponibilizam o sistema automático de captura. Acho que hoje as prefeituras estão obrigadas a adequar o sistema da [PESSOA] nacional. Então, tem algumas que já estão, outras não. A ideia é mostrar, então, para vocês a solução aí. Pois não, [PESSOA]?\n[LOCUTOR 61]: Era exatamente isso que eu queria saber, o que você comentou agora por último, sobre essa obrigatoriedade de adequação com o ambiente nacional.\n[LOCUTOR 7]: \n[LOCUTOR 19]: sei que muitas das prefeituras já têm essa obrigatoriedade, já implementaram isso nos seus ambientes, Mas era essa dúvida que eu queria saber, se ainda tem algumas prefeituras que ainda não fizeram e se a previsão deles fazerem entrar nessa obrigatoriedade é para 2026? Como é que vai ser isso? Não, eu não sei dizer assim, se eles têm o prazo e qual esse prazo, tá? O que nós temos hoje de informação aqui, que eu compartilhar com vocês, Nós temos aqui uma tela do [EMPRESA] com a barrinha de pesquisa. Agora eu estou com o monitor só. Então, aqui nós temos uma relação das prefeituras que já estão homologadas no sistema. São as prefeituras que a gente já consegue trazer de forma automática por dentro do sistema, que é o Tóxico Transmite. Aqui vocês conseguem fazer um filtro pelo nome do município. Então, esse link é público, eu vou compartilhar com vocês\n[LOCUTOR 30]: para\n[LOCUTOR 7]: vocês poderem ter essa informação aí também disponível. Vou só pegar aqui e compartilhar. Ficou melhor meu áudio, pessoal? Vocês estão me ouvindo melhor agora?\n[LOCUTOR 30]: Sim, estamos te ouvindo melhor, sim.\n[LOCUTOR 7]: Ah, que bom. Tá, então, essa lista de prefeituras aqui, ó, ela mostra aqui, né, o que eu vou buscar automaticamente. Então, quando é prefeitura e está implementado, significa que a solução vai buscar no site da prefeitura de forma automática. Quando é no ambiente nacional que está implementado, ele vai buscar a nota social de serviço lá no ambiente nacional. Vamos supor que nenhuma das duas esteja implementada ou homologada, que está como serviço não disponibilizado ou pode estar em roadmap. Então, a gente tem outras três maneiras de capturar esse XML. Seria a importação manual do XML, ou seja, eu recebo esse XML ou eu vou lá no site da [LOCAL] e baixo e consigo importar ele dentro da solução. Uma segunda solução manual seria a integração por e-mail desse XML. Então eu vou ter lá no Transmit, eu vou mostrar para vocês, onde eu cadastro os e-mails, aí a pessoa que tem esse XML envia o e-mail para essa conta, que vai ser criada lá dentro do Transmit, e automaticamente ele aparece no monitor. E tem também a conversão do PDF para XML. Então se a pessoa não tem o XML, mas ele tem um PDF dessa nota, Ele envia por e-mail também, e aí a gente faz a conversão. [EMPRESA] e um XML. Tá joia? Ó, aqui a solução do Tóxico Transmite.\n[LOCUTOR 30]: [PESSOA]? [EMPRESA]? [PESSOA], seria possível nós marcarmos, nós gravarmos essa agenda, essa reunião?\n[LOCUTOR 7]: Tá sendo gravada já, tá, pessoal?\n[LOCUTOR 30]: Ah, sim, tá. Tá ok. É porque aí depois a gente, se o [PESSOA] não conseguir entrar nessa reunião, ele assiste.\n[LOCUTOR 7]: Tá bom. \n[LOCUTOR 9]: se vocês\n[LOCUTOR 7]: quiserem gravar de alguma outra forma, façam à vontade. A gente está gravando pela [EMPRESA], da [EMPRESA]. Ela grava vídeo, tá? E depois a gente pode compartilhar com vocês.\n[LOCUTOR 30]: Isso. Então... Não, não. Depois você me manda, então. Depois a gente lê isso.\n[LOCUTOR 7]: Combinado.\n[LOCUTOR 30]: Tá? Obrigada.\n[LOCUTOR 7]: [LOCAL]. Então aqui, pessoal, vocês estão vendo a tela inicial aqui, né? A página inicial. O [EMPRESA] transmite é uma solução em nuvem, tá? É uma nuvem da [EMPRESA]. ela fica responsável por armazenar aí os documentos de vocês, com toda a disponibilidade que vocês precisarem. Faz a guarda legal desses documentos aí no prazo de cinco anos, porém, a gente sabe que é o prazo legal. O prazo limite não tem, vocês podem estar consultando, baixando esses anéis, os arquivos e tudo mais, à medida que vocês tiverem o contrato ativo conosco. É possível também exportar esses QDMLs para vocês poderem ter localmente, se for necessário, ter uma cópia de segurança. Isso é a critério de vocês também. Bom, aqui a gente traz algumas novidades dentro\n[LOCUTOR 30]: do\n[LOCUTOR 7]: Próximo Transmit. Como eu falei, por ser uma solução fácil, ele traz uma facilidade que é qualquer melhoria que tiver, tudo que tiver aqui de novidade, que vocês virem aqui nesse quadro de avisos, ele é implementado automaticamente para vocês. Então, o time de TI de vocês não precisa se preocupar com qualquer tipo de atualização, né? Tem alguns avisos aqui, são avisos referentes às notas, à legislação e tudo mais, inerentes ao [LOCAL] Transmit. Aqui temos uma guia de perguntas frequentes\n[LOCUTOR 30]: dos\n[LOCUTOR 7]: usuários, as principais perguntas e dúvidas, e tem um link com toda a documentação referente ao TOTUS Transmit, uma página centralizadora com tudo o que vocês precisarem saber referente ao TOTUS Transmit. Eu já compartilhei com vocês o link das prefeituras, e mais para frente eu vou compartilhar um outro link também, que é o da configuração do importador XML. Aí eu\n[LOCUTOR 30]: vou\n[LOCUTOR 7]: explicar mais para frente também o que é. Aqui nós temos a parte de notificações do sistema. E como eu falei aqui, a parte de integração via e-mail. Pessoal, podem falar por cima de mim, tá? Se eu não tô vendo vocês. Então, se vocês\n[LOCUTOR 30]: levantarem\n[LOCUTOR 7]: athiago ff: mão. Não, eu ia perguntar, senão eu esqueço. [LOCAL] ff: transmit, ele se limita a capturar os XMLs? Ou a partir dessa captura, a gente vai\n[LOCUTOR 30]: conseguirthiago ff: gerar o documento de entrada dentro do sistema?\n[LOCUTOR 7]: O [EMPRESA] faz a captura do XMR e envia para o Proteus através de uma integração que existe de API do Proteus com o [EMPRESA]. Então, além da captura, vocês vão ver que é possível ver em detalhes o resumo do XMR. É possível ver o resumo do XMR ali, alguns detalhes de informações da nota. E também ele mostra o status referente à integração com a [EMPRESA], se a nota está autorizada, se tem o manifesto daquela nota. Aí eu vou avançar aí na solução para mostrar essa funcionalidade para vocês.[PESSOA]: Mas aí a parte dessa integração vai gerar ou pré-nota ou documento de entrada, não é isso? Isso mesmo.[PESSOA]: E essa solução é toda nativa do Proteus ou é... está com parceria de alguma empresa, terceirizado, alguma coisa? [LOCAL] ff: [PESSOA]. Outra dúvida. É, senativo do Proteus, essa questão de reforma tributária, está integrado com o configurador de tributos, já está tudo contemplado, né? Isso, já faz toda parte desse ecossistema aí da entrada da nota pelo transmit até lá Tanto é que no XML, quando vem os impostos novos, CDF, DS, [EMPRESA], vai aparecer tudo no XML também aqui no Saúde Transmissão. Isso já vai também para dentro do Proteus e a classificação tributária vai de acordo com o configurador de tributo.[PESSOA]: [EMPRESA]. [LOCAL]. Aqui, pessoal, então tem a configuração das contas de e-mail por tipo de documento. Então, quando você... Alguém que precisar enviar o XML para o e-mail vai mandar para uma dessas contas. É importante só eu ressaltar para vocês que essas contas têm que ser de uso exclusivo do Próximo Transmite, por questões de segurança. Então, basta configurar esse e-mail aqui. Aqui nós temos o monitor de quais os documentos eletrônicos o Próximo Transmite vai fazer a captura do XML. Então, temos o cartaz de produtos, cartaz de consumidor, de serviços, e conhecimento de transporte eletrônico dos outros serviços. Ele também faz o monitoramento das notas emitidas. Então, se vocês estiverem no manifesto do destinatário, vocês conseguem ver pelo também, ou seja, a gente usa o TSS para o envio das informações hoje para ser fazido, para validar as notas ou para as prefeituras, e aí o [LOCAL] já também está integrado com isso, então vocês conseguem monitorar não só as notas recebidas, como também as faturadas. Então, se vocês têm o faturamento hoje dentro do Proteus, ele pode ser visto aqui também dentro do [LOCAL]. Bom, aqui nós temos o gerenciador de colunas, onde vocês conseguem adicionar ou remover informações das colunas, do que vocês querem enxergar aqui atrás, e também alterar a ordem de exibição. Temos aqui a função do filtro, então vocês podem filtrar filiais diferentes, ambientes diferentes,\n[LOCUTOR 30]: status\n[LOCUTOR 7]: por manifestação destinatário, status de integração [LOCAL], Então, uma série de filtros para tornar mais didática a visão do usuário. É possível também fazer importação de um XML manual, como eu falei para vocês anteriormente. Então, se eu tenho o XML, basta eu arrastar para cá, ou selecionar para abrir a partir do meu computador, ou então exportar em lote. Então, quando eu seleciono aqui um lote de notas, eu consigo fazer essa exportação em lote. Aí ele vai gerar ou um arquivo CSV, ou um XML com essas notas, ou um PDF. E aqui nós temos também esses três pontinhos, como visualizar no detalhe informações do XML. Então aqui o número do documento, se ele já teve alguma manifestação, dados da nota fiscal, com data e hora de transmissão, quem foi o emitente, CNPJ, sequência estadual. destinatário, aqui vem a parte dos impostos. Então, eu já consigo fazer uma pré-análise dentro do próprio ToxTransmit. E aqui tem os produtos com seus detalhes, quantidade, valor unitário e valor total. A gente tem aqui como exportar esse documento para a máquina local, fazer uma impressão dele e enviar por e-mail para um ou mais destinatários aqui. tanto o XML quanto o PDF ou ambos. A gente consegue compartilhar isso também. O manifesto, pessoal, vai depender do estado, se é obrigado ou não fazer, mas a gente tem aqui a confirmação da operação, ciência da operação, se eu desconheço ou se é uma operação não realizada. Esses dois primeiros, confirmação e ciência da operação, a gente consegue parametrizar para o sistema fazer de forma automática. Então, eu evito com isso a digitação da nota [EMPRESA]. Perdão. Eu evito com isso a manifestação da manual da nota [EMPRESA], do documento eletrônico. Eu consigo [EMPRESA] para que o sistema faça essa ciência ou confirmação da operação de forma automática.\n[LOCUTOR 61]: [PESSOA], deixa eu te fazer uma pergunta. ele já vai receber automaticamente dos diversos ambientes de municípios e inclusive do repositório nacional.\n[LOCUTOR 7]: \n[LOCUTOR 18]: acontecer de você estar integrado, por exemplo, com o município lá de [LOCAL] e eu receber a mesma nota do repositório nacional, porque [LOCAL] já integrou com o repositório nacional. Isso, a ferramenta valida esse XML se ele está em duplicidade, se houve essa duplicidade de recebimento? Sim, ele já faz essa validação também. Não só de ambientes diferentes, nacional ou prefeitura, bem como quando eu integro com o [EMPRESA], ele já sabe se está integrado ou não, porque eu tenho aqui esse status de integração com o [EMPRESA]. Então, mesmo que eu capture esse XML, ele primeiro vai validar se ele já tem isso na base de dados do nosso transmitir. Se ele já tiver, ele elimina a duplicidade. Quando ele recebe isso e manda para o [EMPRESA], ele também valida se já existe lá. Então, não vai ter problema de duplicidade de dados.\n[LOCUTOR 61]: [EMPRESA]. Não sei se, [PESSOA], eu estou falando alguma besteira, mas o nosso tramitador de notas fiscais, essa implantação que vocês fazem lá quando vocês mudam o status, seria mais ou menos essa integração com o [EMPRESA] de pegar esse dado e inserir a nota fiscal no Proteus, é isso?\n[LOCUTOR 30]: Sim, de forma bem manual. O que acontece lá dentro do sistema é que nós pegamos a nota fiscal e tem uma\n[LOCUTOR 61]: equipe,\n[LOCUTOR 30]: né? É, tem uma equipe que baixa essa nota fiscal do sistema da Fácil, né? Coloca no sistema, no tramitador. Aí a outra equipe nossa que pega essa nota do tramitador, digita e muda esse status, né? De, sei lá, de não implantada para implantada, digamos. E aí lá ela coloca alguma observação, ou se a nota está cancelada também, ou se a nota está errada. E era uma outra pergunta também que eu ia fazer para o [PESSOA], se tem algum campo aí, ou se é editável, algum campo que se possa incluir algum desse tipo de informação. Que, por exemplo, existe uma equipe que coloca essa informação que, na hora de lançar, ela visualiza que tem algum problema na nota, e aí ela identifica e coloca. E tem uma outra equipe do outro lado que visualiza e vai tratar essas inconsistências. Então, no tramitador hoje que a gente usa, que é um... Nada mais do que um SharePoint, né? Então, eles visualizam num campo lá de observação, eles colocam lá. Nota fiscal está com as retenções federais incorretas. Então, outra equipe lá do outro lado vai tratar aquela nota que está na pendência. Essa aí teria também como, em algum campo, a gente colocar essa nota na pendência para colocar algum tipo de informação?\n[LOCUTOR 7]: Aqui no Post Transmit não, mas quando a gente importa para dentro do [EMPRESA] sim\n[LOCUTOR 61]: é\n[LOCUTOR 7]: possível.\n[LOCUTOR 61]: É isso, o que ela está perguntando é o seguinte, antes de eu importar para dentro do [EMPRESA], Eu\n[LOCUTOR 30]: preciso\n[LOCUTOR 61]: analisar\n[LOCUTOR 30]: ela,\n[LOCUTOR 61]: né? Antes de\n[LOCUTOR 30]: botar.\n[LOCUTOR 61]: Uma coluna customizada, onde o usuário vem e insira uma informação?\n[LOCUTOR 7]: Não, aqui não tem essa possibilidade.\n[LOCUTOR 30]: Nenhuma etiqueta? Inserir alguma\n[LOCUTOR 7]: coisa?\n[LOCUTOR 61]: Aqui,\n[LOCUTOR 7]: pessoal, é só monitoramento, é só visualização.\n[LOCUTOR 61]: Eu não\n[LOCUTOR 7]: tenho nenhuma\n[LOCUTOR 30]: forma\n[LOCUTOR 7]: de alteração de dados ou criação de alguma informação. Ainda assim, está em roadmap, a questão de poder criar, através de algum ponto de entrada, uma customização aqui dentro do seu\n[LOCUTOR 61]: ambiente.\n[LOCUTOR 7]: Mas isso ainda está sem previsão de quando vai acontecer.\n[LOCUTOR 61]: Seria um marcadorzinho, uma etiqueta, um cheque, alguma coisa para identificar que aquele item está com problema, né?\n[LOCUTOR 30]: Isso.\n[LOCUTOR 7]: Na hora\n[LOCUTOR 61]: que você manda exportar ali, entra ali, por favor. Aquela telinha que você fez a exportação por e-mail. Não, você manda por e-mail. Você consegue colocar um texto nesse e-mail?\n[LOCUTOR 7]: Não, aqui é só o e-mail da pessoa que você vai encaminhar. E o tipo de arquivo\n[LOCUTOR 30]: que você\n[LOCUTOR 7]: quer mandar...\n[LOCUTOR 61]: Se tivesse talvez um texto aí, você já colocaria por e-mail, olha, essa nota está com problema e tal, e\n[LOCUTOR 30]: ele\n[LOCUTOR 61]: manda a nota para a pessoa, né?\n[LOCUTOR 30]: Para a pessoa tratar, isso.\n[LOCUTOR 61]: Já resolveria, talvez.\n[LOCUTOR 7]: Esse aqui ele não está deixando...\n[LOCUTOR 30]: Talvez aí abaixo, onde marca XML e PDF, um campo de comentário, né, [PESSOA]?\n[LOCUTOR 61]: Um comentáriozinho aí no e-mail, que aí você já manda o e-mail para a pessoa e fala assim, ó, essa nota está com penessa disso e disso. E não implanta ele no sistema.\n[LOCUTOR 7]: Deixa eu ver um negócio aqui. É que, enquanto eu estou testando aqui, deixa eu só também explicar uma coisa para vocês. A gente não está deixando ainda, acho que a base está bloqueada para isso. Quando eu falo assim que a gente vai mandar para o [EMPRESA], não significa que essa nota vai ter sua entrada já efetivada no [EMPRESA], tá? Essas notas que foram exportadas para lá, para dentro do Proteus, elas vão cair aqui dentro de um monitor. Eu ia chegar lá, mas eu vou antecipar essa visão para vocês.\n[LOCUTOR 30]: Para\n[LOCUTOR 7]: poder esclarecer isso, tá?\n[LOCUTOR 61]: Temos\n[LOCUTOR 7]: esse monitor que é a porta de entrada de tudo que vem lá do [PESSOA]. Então aqui nós temos os documentos que foram importados e cada um tem sua legenda. Cada\n[LOCUTOR 30]: um\n[LOCUTOR 7]: tem sua legenda, tá vendo? Os vermelhinhos são os que já foram gerados, ou seja, esses vermelhinhos eu já mandei para dentro do módulo de compras, lá onde eu tenho aquela visão das pré-notas e documentos de entrada.\n[LOCUTOR 61]: O\n[LOCUTOR 7]: documento normal é o status de um documento que está preparado para ser enviado para lá. Ele está ok, já foi validado informações do XML com o pedido, ele já cruzou as informações da amarração do produto versus fornecedor, Eu já vi que tinha pedido de compra vinculado ali ou não, tá? Então, ele faz uma validação, tá tudo ok, eu consigo mandar para o compra. E aqui são outros tipos de documentos, né? Tem aqui documento de concorrência e documento pendente de revisão cadastral. Depois não, pode perguntar.[PESSOA]: Se eu mandar um XML para aí que já tem documento gerado, ele já faz o match automático? Ele vai validar que tem chave duplicada. Eu já tenho\n[LOCUTOR 30]: o\n[LOCUTOR 7]: documentothiago ff: lá. É\n[LOCUTOR 30]: o impeditivo para importação. Ou é só um aviso e ele importa a si mesmo.\n[LOCUTOR 7]: Ele vai gerar uma ocorrência e não vai importar porque esse documento já está cadastrado na base. Quando eu mando gerar um documento, é o seguinte, quer ver? Deixa eu mostrar aqui. Tem essa legenda verdinhathiago ff: aqui. Como que eu faço para gerar esse documento? Eu clico duas vezes aqui. E aí eu venho aqui em alterações e mando gerar o documento. Quando eu clico aqui em gerar em documento, ele vai consultar a minha base da [LOCAL], [LOCAL], que são as tabelas onde eu gravo as notas fiscais. [LOCAL] também, né? E vai validar se existe essa nota já cadastrada. Se tiver, ele barra essa geração de documento avisando que já existe essa nota\n[LOCUTOR 61]: no\n[LOCUTOR 7]: CD1.\n[LOCUTOR 61]: [PESSOA] ff: aí ele não atualiza o status da bolinha verde para a vermelha? Porque ela já tá cadastrada, né?\n[LOCUTOR 7]: Isso, ele vai atualizar o status pra ocorrência, que vai ser essa aqui ó, mais escudinha. Aí ele vai mostrar dessa forma aqui. Eu tenho aqui a aba ocorrência, ele vai falar qual que é a ocorrência que teve. [PESSOA] ff: Aí ele vai verificar qual foi o problema também. E aí,[PESSOA]: voltando naquela questão de avisar os setores lá, avisar uma pessoa que tem alguma divergência nessa nota, a gente tem aqui, nessa rotina de importador XML, alguns pontos de entrada. Esses aqui, vou compartilhar com vocês também. Então, através do [EMPRESA]: de entrada, vocês conseguiriam fazer esse tipo de validação dos usuários, mandar mensagem, criar campo, enfim, fazer... Alguma ação aqui através da orientada para chegar nesse resultado que vocês esperam. Tá bom? Entendido?\n[LOCUTOR 30]: O que acontece? Uma outra situação para eu te perguntar antes. Existem muitos casos aqui de notas, por exemplo, números pequenos. Por exemplo, nós temos, sei lá, o [LOCAL], nota número 70 do ano de 2023,[PESSOA]: que a gente já tem ela no Proteus. Aí, agora, o hospital começou uma nova remessa de nota fiscal lá e nós lançamos lá, em 2023, a nota 70 para o [LOCAL], série 1. E agora ele manda novamente pra gente, só que no ano de 2026, a nota 70 do [LOCAL], série 1 também. Quando a gente vai implantar essa nota, o sistema vai acusar duplicidade, manualmente.\n[LOCUTOR 61]: Se\n[LOCUTOR 30]: a gente foi, atualmente, a gente dá um jeitinho e a gente implanta essa nota, né? Acrescenta o ano a esse número e implanta a nota fiscal. Para o sistema de importação, ele não vai aceitar. É customizável? Como é que o sistema trabalha nessa forma de aceitar essas notas, que o sistema já existe nota cadastrada?[PESSOA]: Na verdade, eu tenho até um chamado da [LOCAL], eles recomendando nessas situações o... [[LOCAL] ff: É, [PESSOA]. E se já está lançada a nota com série 1, você pega e lança série 01, que aí o sistema vai aceitar passar. acrescenta um zero à esquerda no número, ou tira um zero à esquerda, aí o sistema aceita, entendeu? Mas a situação é que, como que a gente vai tratar isso importando do XML?\n[LOCUTOR 7]: Ele vai dar um aviso de a chave duplicada, certo? Daí, no caso, vocês podem usar desse ponto de entrada que eu passei, porque tem lá a manipulação do número, do que vem no XML, aí vocês conseguem alterar o que está no XML, e aí vocês faziam esse tipo de alteração que foi recomendada. Ou dessa forma, ou como a [PESSOA] falou, pode por um ano, hoje como vocês já fazem, né? Põe um ano ali na frente do número, eu não sei, aí tem qual que seria o melhor, a melhor forma de vocês fazerem isso.\n[LOCUTOR 30]: Ele vai, no momento da importação, ele vai criticar, a gente vai lá, edita, digamos, essa informação e termina, e finaliza essa importação manualmente, é isso que você está sugerindo.[PESSOA]: Isso,\n[LOCUTOR 7]: porque assim, vamos imaginar o seguinte, eu tenho aqui, eu exportei daqui do transmit por [EMPRESA],[PESSOA]: assim, ele vai\n[LOCUTOR 30]: aceitar\n[LOCUTOR 7]: que hoje a sua base do seu transmit não tem aquela nota ainda.\n[LOCUTOR 30]: Está limpa, isso.\n[LOCUTOR 7]: Está limpa. Aí,[PESSOA]: assim, quando eu clicar em gerar, ele vai criticar. Ele vai falar, olha, já\n[LOCUTOR 30]: insertei essa\n[LOCUTOR 7]: nota na minha base. E aí, o que pode acontecer? Criar aqui no menuzinho, alterar, ou no alterar aqui, de repente, você vir e fazer essa alteração do número. Então, aqui eu tenho o número sério, aí eu posso alterar. É que aquele não tá deixando porque, provavelmente, a base tá bloqueada. Mas vocês podem criar um ponto de entrada pra deixar, alterar essa informação ou essa. Como você falou, 73-2026. 73-2026.\n[LOCUTOR 61]: [PESSOA] ff: a data\n[LOCUTOR 7]: de emissãothiago ff: também?\n[LOCUTOR 61]: Quando\n[LOCUTOR 7]: eu... A data de emissão, eu achothiago ff: que deixamos lá também, tá? Porque vai ser através do ponto de entrada. E aí você, fazendo essa alteração, ele vai [PESSOA]: a entrada da nota. Que\n[LOCUTOR 30]: a\n[LOCUTOR 7]: data\n[LOCUTOR 30]: de emissão também, pra gente, é um outro fator, porque nós temos alguns casos de notas fiscais, alguns muitos casos, né? de notas fiscais que a gente implanta nota fiscal do mês anterior. E aí, quando o período está fechado, a gente não conseguethiago ff: colocar lá a data de emissão de fato da nota fiscal, que é\n[LOCUTOR 7]: um\n[LOCUTOR 30]: do três, um do dois ou um do um. Então, a gente tem que implantar com a data do mês. E aí, precisa ser digitado. Se a gente vai importar uma nota do mês anterior ou do outro mês, ele vai acusar que o período contábil está fechado, né?\n[LOCUTOR 7]: [EMPRESA].\n[LOCUTOR 11]: Tá\n[LOCUTOR 7]: vendo? Aqui no ponto de entrada, você temthiago ff: ponto que permite informar a empresa estilial quando encontrar duplicidade, manipular impostos, adicionar informações depois da inclusão do documento. Então esse aqui seria um ótimo para fazer essa alteração. Tem aqui, para você adicionar tantos que todos já viram, aquela questão de notificar uma pessoa ou criar informação de que foi validado, que foi [PESSOA]: ou não foi. Então tem bastante ponto aqui que [LOCAL]: conseguem utilizar.[PESSOA]: \n[LOCUTOR 3]: pontosthiago ff: de entrada são da rotina de documento de entrada [LOCAL] 103 ou é da rotina\n[LOCUTOR 7]: [PESSOA]: XML? essas três daqui ó, com [LOCAL] mata 140i e mata 116i.[PESSOA]: Uma\n[LOCUTOR 11]: pergunta aí, então lá no browser mesmo, no browser aí, perto desse monitor, a informação vai ficar brecada, quer dizer, ela não vai ser, não vai poder ser aberta no campo, não é aberta para editar, a não ser através dos pontos de entrada, quer dizer, tem que fazer umas telinhas para poder corrigir\n[LOCUTOR 7]: Não, aqui a gente tem campos que podem ser editados aqui nessa base de\n[LOCUTOR 61]: teste que\n[LOCUTOR 7]: está bloqueada. [LOCAL], então\n[LOCUTOR 11]: é isso que athiago ff: gente precisa saber. A numeração, por exemplo, é editável?\n[LOCUTOR 7]: Isso. Deixa eu alterar um aqui para você ver. Por exemplo, pode ser utilizado para colocar um produto.[PESSOA]: Estou vendo aqui, eu consigo alterar, deixa eu ver aqui.\n[LOCUTOR 61]: [LOCUTOR 3]: campos do cabeçalho, ele não está deixando eu alterar.\n[LOCUTOR 11]: Então, só através de uma tela, a gente construiu uma ferramenta para poder...\n[LOCUTOR 7]: Não, esse aqui não. É porque a base de teste aqui eles bloquearam para a gente não alterar, mesmo para não danificar a demonstração. É uma base de demonstração. Então,[PESSOA]: se eu ficar alterando muito, eu vou prejudicar os outros que fazem a apresentação aqui. Posso criar algum problema aqui na base e\n[LOCUTOR 61]: acaba\n[LOCUTOR 7]: prejudicando os colegas\n[LOCUTOR 11]: que fazem\n[LOCUTOR 7]: a demonstração.\n[LOCUTOR 11]: Tá bom. [LOCAL].\n[LOCUTOR 7]: Mas ele é aberto para edição, sim.\n[LOCUTOR 11]: Ok.\n[LOCUTOR 7]: Bom, mais alguma dúvida, pessoal? Posso voltar aqui, então, para a gente ver o restante dos vídeos?\n[LOCUTOR 36]: [PESSOA], desculpe o atraso aqui, mas talvez eu faça uma pergunta que alguém já fez, só para não perder a oportunidade. Em relação ao delay do cancelamento das notas, a gente já falou aqui?\n[LOCUTOR 7]: Delay de cancelamento?[PESSOA]: Não,\n[LOCUTOR 36]: é porque nós estávamos enfrentando bastante problemas com...\n[LOCUTOR 30]: [PESSOA], o seu áudio está com [PESSOA].\n[LOCUTOR 36]: [PESSOA]?\n[LOCUTOR 30]: [PESSOA]?[PESSOA]: Está com dois áudios ligados aí?\n[LOCUTOR 36]: Deixa eu ver. [PESSOA]?\n[LOCUTOR 30]: Fala.\n[LOCUTOR 7]: Aqui para mim está normal.\n[LOCUTOR 61]: Para mim também está normal, hein?\n[LOCUTOR 30]: Ah,\n[LOCUTOR 36]: então está\n[LOCUTOR 30]: bom.\n[LOCUTOR 36]: Então, na nossa ferramenta, aqui a gente tem um problema atual, que é o seguinte. O portal do [LOCAL], no ambiente do [LOCAL], ele faz esse cancelamento contínuo. Aqui em [LOCAL], né? No [LOCAL], que é o nosso principal,[PESSOA]: nosso principal CNPJ. e tem que ter esse cancelamento contínuo. No portal nacional, que o [LOCAL] já está integrado, mas há um delay importante entre o cancelamento e o registro no portal nacional desse cancelamento. Então, a nota é cancelada hoje, já aparece no portal nacional daqui a alguns dias. E a ferramenta que a gente estava até agora utilizando, ele fazia uma consulta contra o cancelamento, acho que mensal, ou de 15 em 15 dias, porque ele falou que é um serviço diferente do serviço que traz as notas, é um serviço específico só para trazer as notas canceladas. E acabou que a gente estava com um delay muito grande entre o cancelamento e a comunicação desse cancelamento. Eu quero saber como é que é aí dentro, porque já que, nesse caso, a gente viu que a gente informação do [LOCAL] não nos traz informação em tempo rápido também.\n[LOCUTOR 7]: É, eu não sei te dizer, desculpa, não vi seu nome aqui.\n[LOCUTOR 36]: [PESSOA].\n[LOCUTOR 30]: É, o [PESSOA], nosso gerente de controladoria.\n[LOCUTOR 7]: [PESSOA], perdão, não tava com a telinha da reuni\n[LOCUTOR 44]: aberta\n[LOCUTOR 7]: aqui.\n[LOCUTOR 36]: Eu\n[LOCUTOR 7]: tô com o monitor só. É, eu não sei dizer, tá, de quanto, de quanto em quanto tempo ele vai fazer essa consulta na [EMPRESA]. mas eu vou buscar essa informação e faço a devolutiva para vocês, no máximo até amanhã, sobre\n[LOCUTOR 36]: isso.\n[LOCUTOR 7]: A gente tem aqui, eu fui buscar o status de cancelado, né, da situação dessa nota,\n[LOCUTOR 61]: mas\n[LOCUTOR 7]: eu não sei quanto tempo demora para ele realmente identificar como cancelado, acho que é sua dúvida, né?\n[LOCUTOR 36]: Isso, isso.\n[LOCUTOR 7]: Eu vou verificar qual que é o tempo que ele gasta para a informação e trago para você, então. [EMPRESA], [LOCAL] ff: Eu não sei se eu estou apressando o processo, mas seria possível simular a geração de um documento de entrada final ou de uma plenota? Linkando com pedidos de compras, como é que funciona? Nessa base de demonstração eu não consigo fazer isso, porque daí seria uma [EMPRESA], né? Teria que fazer uma prova de conceito para vocês. E aí dentro do posto transmite a gente não tem esse tipo de ação.[PESSOA]: Porque a gente tem um processo aqui. Resumindo é o seguinte eu vou ter um prestador. E esse prestador pode ter. sem pedidos de compras. Aí,[PESSOA]: na nota fiscal, vem um item, um serviço.\n[LOCUTOR 61]: [PESSOA] ff: aí, o usuário que lança a nota hoje, o que ele faz? Utilizando a rotina padronada, [LOCAL] 103, ele vai lá importar item pedido de compra. Aí, a gente tem uma customizaçãozinha nesse momento aí, que ele permite que o usuário informe o período, por exemplo, o mês de competência. Aí o sistema já vai trazer, entre esses 100 pedidos, apenas os da competência tal quethiago ff: o usuário selecionou, parathiago ff: ficar mais fácil ele linkar com o item do XML, entendeu?\n[LOCUTOR 7]: [EMPRESA].[PESSOA]: Aí eu não sei se vai [PESSOA] ff: possível... [EMPRESA]? A gente vai cair aqui nessa mesma questão do ponto de entrada nessas rotinas, que a rotina do importador XML. Por que eu estou te falando isso? Porque aqui, tantos para vínculo com pedidos de compra. Pelo seguinte, quando eu faço aqui, por exemplo, uma alteração,\n[LOCUTOR 61]: deixa\n[LOCUTOR 7]: eu te\n[LOCUTOR 61]: mostrar,\n[LOCUTOR 7]: é o [EMPRESA]: formato assim.[PESSOA]: Aí só complementando, inclusive lá no pedido de compra, Eu já vou ter o número de nota e série e data de emissão dela preenchido, já posso filtrar direto, entendeu? Ó, essa telinha é familiar pra você?[PESSOA]: É, a mesma lá do documento de entrada, né? Pedia de compra por item.[PESSOA]: Você vai pegar só seu ponto de entrada e trazer pra cá. É a mesma coisa. Você vai manter a mesma regra lá que vocês têm hoje.[PESSOA]: Mas por padrão... Ah, e tem uma outra coisa, tá, [EMPRESA]? Não sei se os prestadores de serviço aí geram o XML já com o número do pedido ou item vinculado à nota que ele emitiu. Porque aqui, quando já vem o XML, ele já traz preenchido para vocês aqui o número do pedido e o item.[PESSOA]: É, mas [PESSOA]: não sei se o fornecedor nosso manda essas informações. Você lembra,\n[LOCUTOR 30]: [PESSOA], se\n[LOCUTOR 7]: essas\n[LOCUTOR 30]: informações vêm preenchidas?[PESSOA]: [EMPRESA]? \n[LOCUTOR 6]: [PESSOA]. Se no documento de entrada lá no ADM, se essas informações vêm preenchidas. Eu acredito que alguns sim, mas alguns não. Nem todo mundo preenche. Acredito que é\n[LOCUTOR 7]: isso.\n[LOCUTOR 14]: É quem eu\n[LOCUTOR 30]: acho que\n[LOCUTOR 14]: não é\n[LOCUTOR 30]: padrão.\n[LOCUTOR 14]: O que ele está falando é do próprio fornecedor, né?\n[LOCUTOR 7]: E\n[LOCUTOR 14]: quem\n[LOCUTOR 30]: faz\n[LOCUTOR 14]: o pedido de compra é o pessoal do [EMPRESA] aqui.\n[LOCUTOR 7]: Não,\n[LOCUTOR 30]: mas\n[LOCUTOR 7]: o que é? Qual que é [PESSOA] ff: processo, né?\n[LOCUTOR 30]: Eu\n[LOCUTOR 7]: mandei um pedido de compra para o fornecedor. Então ele tem o meu pedido com o número lá, o número do pedido e os itens. o xml dele, quando ele for emitir a nota e me informar o meu número de pedido, ele já vai trazer aqui preenchido, porque já vai estar no xml isso aí.\n[LOCUTOR 14]: No\n[LOCUTOR 7]: ADN\n[LOCUTOR 14]: eu\n[LOCUTOR 7]: nunca vi\n[LOCUTOR 14]: esse não.\n[LOCUTOR 30]: [LOCUTOR 26]: acho que nem todo\n[LOCUTOR 36]: mundo.[PESSOA]: Com essa rotina do monitor, a gente vai deixar de usar a rotina que eles usam hoje atualmente, a [LOCAL] 103?\n[LOCUTOR 7]: Não porque ali você pode usar para classificar uma pré-nota, ou para você alterar uma duplicata, ajustar um imposto, um frete, alguma coisa nesse sentido. Mas aqui é mais de um validador antes de eu mandar para lá, mas aqui eu já vou fazer algumas ações que vão facilitar a vida de quem está lá na frente. Por exemplo, aqui eu também consegui formar texto, está vendo? Eu já consigo ficar esse\n[LOCUTOR 36]: documento\n[LOCUTOR 7]: aqui.[PESSOA]: Mas por exemplo, hoje a text pra eles é tudo automático, já vai ser autom\n[LOCUTOR 1]: [PESSOA]: também?\n[LOCUTOR 30]: Não, não.[PESSOA]: Eles não preenchem text hoje, já puxa do produto.\n[LOCUTOR 7]: Ele já vai puxar aqui também,\n[LOCUTOR 30]: porque\n[LOCUTOR 7]: o produto ele tá [PESSOA]: ó. Ele já consegue trazer a text pra cá. Ele tem até aqui informações do que está [PESSOA]: calculado. [LOCAL] ff: no monitor ele sempre vai gerar pré-nota ou ele pode gerar um documento já classificado? Pode gerar um documento classificado, mas eu tenho que usar a tese inteligente para isso.[PESSOA]: Mas o que? Eu não entendi. Tem que usar a tese inteligente.[PESSOA]: [PESSOA]. Vocês usam hoje?\n[LOCUTOR 36]: Não,[PESSOA]: tese inteligente não.\n[LOCUTOR 7]: Então, tem que passar a usar. Aí eu consigo gerar o documento já classificado lá. Aqui, ó, nessa opção de gerar documento,[PESSOA]: eu tenho três opções, tá?[PESSOA]: Gerar manual, que é o que eu mostrei para vocês. Eu vou clicar aqui.[PESSOA]: Vou vir na outras ações e vou gerar o documento.\n[LOCUTOR 30]: A\n[LOCUTOR 7]: segunda possibilidade. Quando ele ficar na legenda verde, eu já mando automaticamente lá para o documento de entrada e fica guardando a classificação da\n[LOCUTOR 36]: nota,\n[LOCUTOR 7]: tá? Como se fosse uma pré-nota. E a terceira opção é usar o cadastro de inteligência inteligente e já mandar essa nota classificada para lá.[PESSOA]: [EMPRESA]. Outra pergunta. A gente pode gerar pré-nota daqui dos XMLs importados?\n[LOCUTOR 36]: [EMPRESA]: direto? E... Quando chegar lá na classificação fazer o vínculo dos pedidos de compra por lá ao invés de fazer por aqui.\n[LOCUTOR 7]: Sim, é possível, porque aqui eu não sou obrigado a informar o pedido de compras. Nesse momento aqui, eu não tenho essa obrigatoriedade, a não ser que... Sabe aquele parâmetro [EMPRESA], que eu obrigo o usuário a vincular o pedido de compra nosso? Tinha até aqui uma ocorrência dessa.[PESSOA]: É, hoje é obrigado a ter umthiago ff: pedido de compras. Quando eu tenho esse parâmetro habilitado, está vendo esse parâmetro aqui? Quando ele está habilitado, obrigatoriamente eu tenho que ter um pedido amarrado, então ele não vai deixar eu mandar isso aqui pra lá antes de eu fazer essa amarração. Por isso que tem aquela opção aqui que eu mostrei pra vocês do pedido item.\n[LOCUTOR 36]: Se\n[LOCUTOR 7]: você desabilitar isso ou criar, tem um parâmetro tambémthiago ff: que fala quais são [EMPRESA]: peças que não precisam ter essa amarração. Aí você pode mandar essa nota pra lá e vincular os pedidos lá.[PESSOA]: [EMPRESA].\n[LOCUTOR 36]: Mais\n[LOCUTOR 7]: alguma dúvida, pessoal? Eu vou seguir\n[LOCUTOR 30]: aqui, então. Pode seguir, pode seguir.\n[LOCUTOR 7]: Então, vamos lá. Então, aqui eu mostrei a funcionalidade para vocês, até a parte do manifesto, tá? Então, tem as manifestações. Basicamente, para os outros tipos de documentos eletrônicos, serve o mesmo conceito de informações aqui, das funcionalidades, filtros, etc. O diferencial aqui na nossa... O serviço é a integração do PDF. Então,\n[LOCUTOR 36]: como\n[LOCUTOR 7]: eu falei para vocês, eu posso receber um arquivo em PDF e o sistema vai convertê-lo em XML. Porém, eu tenho que validar essa conversão inicialmente, uma única vez. Validando isso, dando OK, as próximas notas que eu receberia PDF, ele vai converter já automaticamente. Se der algum problema na primeira conversão, vocês vão ter que estar em contato com o suporte para corrigir isso, para as próximas ele fazer a entrada corretamente.\n[LOCUTOR 36]: Outro\n[LOCUTOR 7]: diferencial, Aqui no Conhecimento de Transporte Eletrônico, vocês têm também como fazer o envio de desacordos. Então, é a única diferença referente à funcionalidade desses tipos de documentos eletrônicos que estão sendo apresentados aqui para vocês.[PESSOA]: Como eu falei, tem também como verificar as notas cais emitidas, que ele vai buscar lá no CSS, e tem como fazer a manutenção destinatária e o monitoramento por aqui também. E aí vocês podem notar que todos os tipos de... documentos que eu acesso aqui, ele vai trazer para mim informações de integração com a R6. Outra funcionalidade que tem aqui, vocês podem emitir relatórios por tipo de documento eletrônico, então ele vai criar uma relação daquilo que\n[LOCUTOR 36]: foi\n[LOCUTOR 7]: emitido durante um período, por tipo de documento, por ambiente, vocês vão informar quais campos vocês querem ver. Então, assim, escolha aqui a data de emissão por período, se eu quero ver só documentos emitidos, quais são as informações da nota que eu quero filtrar aqui para gerar esse relatório.\n[LOCUTOR 36]: Então, assim,\n[LOCUTOR 7]: eu quero ver uma relação de notas de período X a Y só que foram recebidas de um determinado fornecedor. \n[LOCUTOR 15]: sistema\n[LOCUTOR 7]: aqui vai gerar um relatório para vocês. Então, pode ser Notas Cláudicas do Serviço ou Conhecimento de Transporte. Tem a bilhetagem. O que é a bilhetagem? O Tóxico Transmit é cobrado por documento armazenado no [PESSOA]. E aqui vocês conseguem acompanhar qual está sendo esse consumo mensal de vocês. Quando você clica aqui em cima do gráfico, ele vai trazer por tipo de documento a quantidade que vocês estão utilizando. Porque daí vocês podem ajustar lá depois, no contrato, a quantidade de documentos que vocês vão armazenar nothiago ff: software. E também é possível exportar isso aqui para dentro do... Exportar para um Excel também, tá?[PESSOA]: \n[LOCUTOR 2]: aqui são as configurações de quais empresas e filiais vocês vão utilizar para fazer o monitoramento desses\n[LOCUTOR 36]: documentos\n[LOCUTOR 7]: eletrônicos. Tá joia? Então, [PESSOA] ff: TotsCloud é isso. Eu já adiantei tudo que tinha lá do enforçador XML, então a gente fez uma mescla aí da apresentação já.[PESSOA]: Quando você fala TotsCloud, por exemplo, a gente contratando, ele vai concorrer com os recursos de cloud que a gente já está utilizando o nosso Proteus hoje ou não? Banco de dados, espaço de servidor, essas coisas? Não, o Transmit fica outra nuvem. É outra nuvem.[PESSOA]: [PESSOA]. Não é o mesmo.\n[LOCUTOR 36]: Se\n[LOCUTOR 7]: tem mais alguma dúvida, pessoal, para a apresentação era isso, tá? Como éthiago ff: que a gente faz para assistir a [EMPRESA] para ver um fluxo completo até a geração da nota fiscal? Olha,[PESSOA]: [EMPRESA], sendo bem sincero com você, foque desse tipo de processamento não faz, mas eu posso verificar como é que faz, mas eu tenho quase certeza que vão me dar uma negativa\n[LOCUTOR 36]: disso.\n[LOCUTOR 7]: ou pode ser que cobrem alguma coisa pra fazer a porte pra vocês. [PESSOA]. [PESSOA].\n[LOCUTOR 36]: Vê o que é possível e a gente avalia quem.\n[LOCUTOR 7]: Isso.\n[LOCUTOR 30]: É porque como a [LOCAL] tem muitas particularidades, muita coisa hoje que a gente precisa ver mesmo na prática se funciona, porque assim, não adianta a gente fechar um pacote se na prática não funcionar. Então a gente tem despesa administrativa, despesas sociais, despesas de saúde, que funciona de uma forma, o sistema hoje para despesa administrativa que não funciona para o ADM, a gente trabalha com sistemas diferentes, então não adianta a gente fechar um... contratar um programa, um sistema que depois a gente não vai ver que, na prática, não vai funcionar. Então, de fato, a gente precisa ver as funcionalidades e o que que é customizável, se precisa customização, quanto vai nos custar isso. De fato, a gente vai precisar disso.[PESSOA]: E...\n[LOCUTOR 7]: Eu tenho na mente, tá, pessoal?[PESSOA]: Agora, o que athiago ff: gente faz, tá, em referência a isso? É um benchmark. Então, é ver clientes que tenham o mesmo perfil que vocês, levar vocês até esses clientes que já utilizam a solução e lá vocês verem o processo através deles.[PESSOA]: E é possívelthiago ff: liberar umthiago ff: período de teste ou não? Em ambiente de teste? Nós temos uma, como eu vou te falar, um ambiente, ele é um ambiente de demonstração, que a gente chama de Get Demo. E é uma demonstração guiada, onde você pode clicar, manipular ali as informações, tudo, mas não vai ser um ambiente livre para você mexer em qualquer coisa. [EMPRESA]: uma demonstração guiada, onde você vai ter acesso ali, poder clicar nos ícones, nos menus, nas funcionalidades.[PESSOA]: No caso do suporte ali, para a gente poder implementar ponto de entrada, se tiver dúvida, essas coisas, no próprio suporte, que a gente temthiago ff: hoje, o suportethiago ff: que a gente tem hoje. Isso, é o suporte que vocês já tem hoje.[PESSOA]: É porque faz parte do módulo de compras, né? A parte [PESSOA]: do...\n[LOCUTOR 36]: Exatamente. [LOCAL] ff: o fluxo para [PESSOA] ff: XML chegarem no [EMPRESA] é o monitor que vai mandar uma solicitação aqui para o transmit ou o transmit que já vai ter uma funcionalidade para enviar para lá?\n[LOCUTOR 7]: É um job que tá rodando do lado do Proteus, verificando se tem alguma novidade de API lá do lado do [PESSOA] ff: [PESSOA], entendi.\n[LOCUTOR 36]: Isso\n[LOCUTOR 30]: diário?\n[LOCUTOR 7]: Tempo\n[LOCUTOR 30]: real?\n[LOCUTOR 7]: É, tempo real. O importador [PESSOA] é bem rápido ali a sincronização. [PESSOA] é de uma em uma hora e [LOCAL]\n[LOCUTOR 30]: estava\n[LOCUTOR 7]: de três vezes ao dia, a verificação das notasthiago ff: que foram emitidas.\n[LOCUTOR 36]: Então faz o seguinte, esse acesso ao ambiente de demonstração você consegue liberar?\n[LOCUTOR 7]: [PESSOA], eu peço para o [PESSOA], vou explicar para ele como é que faz e peço para ele mandar para vocês, vocês vão receber um e-mail com aí nesse link vocês vão ter acesso a essa base.[PESSOA]: Eu posso clicar no meu [EMPRESA] de teste nesse aí que você vai liberar para gente? Não, ele é um ambiente isolado.\n[LOCUTOR 36]: Então a gente faz as duas coisas em paralelo, a gente vê a questão do acesso ao ambiente de demonstração, para a gente poder brincar aqui, poder avaliar uma coisa ou outra, mas a gente continua vendo a possibilidade de [EMPRESA] outhiago ff: ambiente de teste, uma coisa que eu entendi que não é possível, né? Seria avaliar a questão da [EMPRESA], se é possível ou não, para a gente poder fazer. [PESSOA], eu acho que será muito complicado, porque são questões muito específicas e outra... que precisa fazer uma utilização alta, inclusive do modo de saúde. Então, para a gente pensar aqui na lógica completa. Então, acho que seria um pouco mais complicado. Então, a questão da [EMPRESA], você identifica para a\n[LOCUTOR 7]: gente\n[LOCUTOR 36]: como é que é possível? Você consegue nos dar um prazo?\n[LOCUTOR 7]: Até amanhã eu vou falar\n[LOCUTOR 36]: com\n[LOCUTOR 7]: o [PESSOA] e até amanhã a gente dá esse retorno.\n[LOCUTOR 36]: Não, beleza. Então,\n[LOCUTOR 7]: a gente vai seguir\n[LOCUTOR 36]: essa... Mas uma\n[LOCUTOR 30]: coisa... [PESSOA], você disse que esse ambiente de demonstração, ele não é 100% igual ao sistema, mas também a gente consegue ter uma noção. Você diria que ele é quantos por cento do sistema real?\n[LOCUTOR 7]: Só\n[LOCUTOR 30]: pra\n[LOCUTOR 7]: gente ter uma noção. Ele é um espelho do Tóxico Transmite mesmo. É o que eu quis dizer assim. Vocês não vão conseguir... fazer captura do XML. O que eu mostrei para vocês aqui é o que vocês vão ter acesso lá no ambiente, mas clicando. Vocês vão poder clicar como se vocês estivessem fazendo uma demonstração. Aí vocês podem fazer filtros, podem fazer, baixar o XML na máquina de vocês, testar.\n[LOCUTOR 30]: Posso simular uma, inserir uma nota, importar um pedido?\n[LOCUTOR 7]: Eu não cheguei nesse nível de detalhes nesse ambiente, tá, [PESSOA]? Sendo bem sincero. Mas eu posso verificar se consegue fazer ou não,\n[LOCUTOR 30]: porque eu\n[LOCUTOR 7]: também tenho acesso como vocês. Eles disponibilizaram acesso para mim, essa base de demonstração. Eu posso até testar, ver até comigo. consegue alterar lá.[PESSOA]: Tudo\n[LOCUTOR 30]: bem, então.[PESSOA]: A gente não vai conseguir visualizar as nossas notas específicas nesse ambiente,\n[LOCUTOR 7]: né? Não, você vai ver as notas desse ambiente mesmo, que [PESSOA] ff: lá. [LOCAL].\n[LOCUTOR 30]: Tá\n[LOCUTOR 7]: bom.[PESSOA]: Então,\n[LOCUTOR 30]: a gente aguarda o link, [PESSOA], e você vai tentar a [EMPRESA] ou você vai passar o contato pra alguém pra gente tentar?\n[LOCUTOR 7]: Então, eu vou tentar ir falando com o [PESSOA] para ele ir atrás disso.\n[LOCUTOR 30]: Ok.\n[LOCUTOR 7]: Se\n[LOCUTOR 30]: precisar de mais alguma informação também, ele quiser entrar em contato conosco?\n[LOCUTOR 7]: Tá bom. Tá já, combinado.\n[LOCUTOR 30]: Tá bom.\n[LOCUTOR 7]: [LOCAL] agradeço\n[LOCUTOR 30]: então, [PESSOA].\n[LOCUTOR 7]: [LOCUTOR 5]: já, muito obrigada. [PESSOA],\n[LOCUTOR 30]: [PESSOA], [EMPRESA], obrigada, gente.[PESSOA] de \n[LOCUTOR 37]: Obrigado, pessoal. Obrigado,\n[LOCUTOR 30]: [PESSOA].\n[LOCUTOR 61]: [LOCAL].[PESSOA] de \n[LOCUTOR 37]: [LOCAL].",
+  "texto_filtrado": "[LOCUTOR 7]: mais gente, pessoal do lado de vocês, para participar?\n[LOCUTOR 16]: que o\n[LOCUTOR 30]: nosso gerente, [PESSOA] Godóis, ele está numa outra reunião, ele não vai conseguir participar. Deixa eu só confirmar com ele aqui, porque ele disse\n[LOCUTOR 7]: que tinha\n[LOCUTOR 30]: um choque de agenda, sim. Mas deixa eu só confirmar se é isso mesmo.\n[LOCUTOR 7]: [EMPRESA].\n[LOCUTOR 30]: [LOCUTOR 4]: a [LOCAL] e a [PESSOA]. É, ele falou, [PESSOA], que não vai conseguir entrar porque ele disse que tá com muito pagamento pro dia 20, aí eu falei assim, não, se precisar alguma dúvida em relação aos lançamentos do ADM, a [PESSOA] nos ajuda.\n[LOCUTOR 30]: que a parte da saúde, a [PESSOA] tá com a gente, aí a parte do ADM, se precisar de tirar alguma dúvida, aí você nos ajuda. Ele disse que vai demorar um pouquinho, mas podemos começar, tá bom?\n[LOCUTOR 7]: para...\n[LOCUTOR 30]: Vamos\n[LOCUTOR 7]: lá. Deixa eu me apresentar aqui. Eu sou da [LOCAL] do time de Engenharia de Valor. O [PESSOA] me passou a necessidade de uma apresentação do [LOCAL] para você. Então, só gostaria de confirmar se é realmente isso. A expectativa de você é essa de ver o [LOCAL] funcionando. Não, não existe.[PESSOA] de\n[LOCUTOR 30]: abafado. É, eu também,[PESSOA] de\n[LOCUTOR 37]: É, perdão viu.\n[LOCUTOR 25]: [PESSOA] falou a respeito da necessidade do [EMPRESA]\n[LOCUTOR 30]: Transmit.\n[LOCUTOR 22]: disso, eu já não entendi mais nada. Eu queria saber se realmente essa é a expectativa de vocês, de ver o [EMPRESA] Transmit, essa apresentação mesmo, ou se tem algum outro objetivo aqui para vocês mapear.\n[LOCUTOR 30]: É, de fato, o seu microfone está falhando. Então, eu escuto algumas coisas e algumas coisas falham. Então, deixa eu só te apresentar a nossa necessidade. E assim, nós tivemos uma indicação do sistema, do [EMPRESA] Transmit, que é para uma funcionalidade do que atualmente a gente precisa, de uma mudança que a gente precisa fazer no nosso sistema. Atualmente, nós temos quatro analistas que fazem lançamento de notas fiscais manualmente, no que a gente chama de despesas de saúde, e nas despesas administrativas e sociais, nós temos mais outros cinco analistas. E esses lançamentos de notas fiscais, eles são 100% manual. Então, número de nota, data de emissão, tem suas particularidades no ADM e algumas particularidades na [EMPRESA], na despesa de saúde. O que são essas particularidades? No ADM e social, eles vêm de... Ela tem medições, e, posteriormente, eles geram pedidos que, posteriormente, possibilitam o lançamento dessas notas fiscais. No caso das notas fiscais de saúde, nós temos gerações de faturas. Nós temos uma outra empresa que faz o fechamento das notas fiscais, das faturas, e aí elas fazem esse fechamento de faturas que, posteriormente, gera pedido, que, posteriormente, a equipe das minhas analistas fazem os lançamentos de notas fiscais também manualmente. Então, sim, tem alguns dados que são manuais, tem alguns dados que são... ...o CNPJ, pesquisam o CNPJ e, automaticamente, puxa o cadastro dele que está no sistema e uma fatura que está no sistema que gerou esse pedido no sistema. Então, o que é a nossa ideia? Nós conhecemos outros programas, outros sistemas que fazem, basicamente, o que também nós ficamos sabendo que o sistema transmite, faz, que é importar, pegar esses dados, o XML lá no sistema, lá na [LOCAL], importar esses dados para dentro do sistema Proteus, para que a gente possa aproveitar dados como número de nota, data de emissão, para diminuir a parte de digitação manual e também diminuir a parte de erros também de digitação. Às vezes você está ali digitando na agilidade ali de tentar digitar o quanto mais notas possíveis, acaba que você troca um 8, às vezes, ao invés de digitar 48, você digita 84, E por aí vai, entendeu? Aí isso é na possibilidade, né, na possibilidade de não ter esses erros manuais, a gente quer ver se o sistema, a gente consegue aproveitar esses dados que o sistema traz através do XML. Então, assim, nós ficamos pelo que a... o que a gente ficou sabendo, talvez é o próprio sistema Transmit que faz isso, o [LOCAL] Transmit que faz isso. Se não for essa ferramenta, então você, como um especialista da [LOCAL], que nos diga se é isso mesmo e quais as funcionalidades que o [LOCAL] Transmit faz. [PESSOA], foi embora?\n[LOCUTOR 7]: Eu vim para uma salinha aqui, que eu acho que vai ficar melhor o áudio para vocês.\n[LOCUTOR 7]: Eu ouvi tudo que você me falou, tá? Enquanto eu estava trocando a salinha aqui. É exatamente esse mesmo o intuito do Transmit, que é capturar esses XML,\n[LOCUTOR 30]: tá? Isso.\n[LOCUTOR 7]: Tanto de prefeitura, se for prestadores de serviço, quanto de produtos, se for emissão de fornecedores de materiais, equipamentos, etc.\n[LOCUTOR 30]: O famoso DANF, né?\n[LOCUTOR 7]: Isso. Então, o sistema está todo momento ali se comunicando com a [PESSOA] e com as prefeituras que já disponibilizam o sistema automático de captura. Acho que hoje as prefeituras estão obrigadas a adequar o sistema da [PESSOA] nacional. Então, tem algumas que já estão, outras não. A ideia é mostrar, então, para vocês a solução aí. Pois não, [PESSOA]?\n[LOCUTOR 61]: Era exatamente isso que eu queria saber, o que você comentou agora por último, sobre essa obrigatoriedade de adequação com o ambiente nacional.\n[LOCUTOR 19]: sei que muitas das prefeituras já têm essa obrigatoriedade, já implementaram isso nos seus ambientes, Mas era essa dúvida que eu queria saber, se ainda tem algumas prefeituras que ainda não fizeram e se a previsão deles fazerem entrar nessa obrigatoriedade é para 2026? Como é que vai ser isso? Não, eu não sei dizer assim, se eles têm o prazo e qual esse prazo, tá? O que nós temos hoje de informação aqui, que eu compartilhar com vocês, Nós temos aqui uma tela do [EMPRESA] com a barrinha de pesquisa. Agora eu estou com o monitor só. Então, aqui nós temos uma relação das prefeituras que já estão homologadas no sistema. São as prefeituras que a gente já consegue trazer de forma automática por dentro do sistema, que é o Tóxico Transmite. Aqui vocês conseguem fazer um filtro pelo nome do município. Então, esse link é público, eu vou compartilhar com vocês\n[LOCUTOR 30]: para\n[LOCUTOR 7]: vocês poderem ter essa informação aí também disponível. Vou só pegar aqui e compartilhar. Ficou melhor meu áudio, pessoal? Vocês estão me ouvindo melhor agora?\n[LOCUTOR 7]: Ah, que bom. Tá, então, essa lista de prefeituras aqui, ó, ela mostra aqui, né, o que eu vou buscar automaticamente. Então, quando é prefeitura e está implementado, significa que a solução vai buscar no site da prefeitura de forma automática. Quando é no ambiente nacional que está implementado, ele vai buscar a nota social de serviço lá no ambiente nacional. Vamos supor que nenhuma das duas esteja implementada ou homologada, que está como serviço não disponibilizado ou pode estar em roadmap. Então, a gente tem outras três maneiras de capturar esse XML. Seria a importação manual do XML, ou seja, eu recebo esse XML ou eu vou lá no site da [LOCAL] e baixo e consigo importar ele dentro da solução. Uma segunda solução manual seria a integração por e-mail desse XML. Então eu vou ter lá no Transmit, eu vou mostrar para vocês, onde eu cadastro os e-mails, aí a pessoa que tem esse XML envia o e-mail para essa conta, que vai ser criada lá dentro do Transmit, e automaticamente ele aparece no monitor. E tem também a conversão do PDF para XML. Então se a pessoa não tem o XML, mas ele tem um PDF dessa nota, Ele envia por e-mail também, e aí a gente faz a conversão. [EMPRESA] e um XML. Tá joia? Ó, aqui a solução do Tóxico Transmite.\n[LOCUTOR 30]: [PESSOA]? [EMPRESA]? [PESSOA], seria possível nós marcarmos, nós gravarmos essa agenda, essa reunião?\n[LOCUTOR 9]: se vocês\n[LOCUTOR 7]: quiserem gravar de alguma outra forma, façam à vontade. A gente está gravando pela [EMPRESA], da [EMPRESA]. Ela grava vídeo, tá? E depois a gente pode compartilhar com vocês.\n[LOCUTOR 7]: Combinado.\n[LOCUTOR 30]: Tá? Obrigada.\n[LOCUTOR 7]: [LOCAL]. Então aqui, pessoal, vocês estão vendo a tela inicial aqui, né? A página inicial. O [EMPRESA] transmite é uma solução em nuvem, tá? É uma nuvem da [EMPRESA]. ela fica responsável por armazenar aí os documentos de vocês, com toda a disponibilidade que vocês precisarem. Faz a guarda legal desses documentos aí no prazo de cinco anos, porém, a gente sabe que é o prazo legal. O prazo limite não tem, vocês podem estar consultando, baixando esses anéis, os arquivos e tudo mais, à medida que vocês tiverem o contrato ativo conosco. É possível também exportar esses QDMLs para vocês poderem ter localmente, se for necessário, ter uma cópia de segurança. Isso é a critério de vocês também. Bom, aqui a gente traz algumas novidades dentro\n[LOCUTOR 7]: Próximo Transmit. Como eu falei, por ser uma solução fácil, ele traz uma facilidade que é qualquer melhoria que tiver, tudo que tiver aqui de novidade, que vocês virem aqui nesse quadro de avisos, ele é implementado automaticamente para vocês. Então, o time de TI de vocês não precisa se preocupar com qualquer tipo de atualização, né? Tem alguns avisos aqui, são avisos referentes às notas, à legislação e tudo mais, inerentes ao [LOCAL] Transmit. Aqui temos uma guia de perguntas frequentes\n[LOCUTOR 7]: usuários, as principais perguntas e dúvidas, e tem um link com toda a documentação referente ao TOTUS Transmit, uma página centralizadora com tudo o que vocês precisarem saber referente ao TOTUS Transmit. Eu já compartilhei com vocês o link das prefeituras, e mais para frente eu vou compartilhar um outro link também, que é o da configuração do importador XML. Aí eu\n[LOCUTOR 7]: explicar mais para frente também o que é. Aqui nós temos a parte de notificações do sistema. E como eu falei aqui, a parte de integração via e-mail. Pessoal, podem falar por cima de mim, tá? Se eu não tô vendo vocês. Então, se vocês\n[LOCUTOR 30]: levantarem\n[LOCUTOR 30]: conseguirthiago ff: gerar o documento de entrada dentro do sistema?\n[LOCUTOR 7]: O [EMPRESA] faz a captura do XMR e envia para o Proteus através de uma integração que existe de API do Proteus com o [EMPRESA]. Então, além da captura, vocês vão ver que é possível ver em detalhes o resumo do XMR. É possível ver o resumo do XMR ali, alguns detalhes de informações da nota. E também ele mostra o status referente à integração com a [EMPRESA], se a nota está autorizada, se tem o manifesto daquela nota. Aí eu vou avançar aí na solução para mostrar essa funcionalidade para vocês.[PESSOA]: Mas aí a parte dessa integração vai gerar ou pré-nota ou documento de entrada, não é isso? Isso mesmo.[PESSOA]: E essa solução é toda nativa do Proteus ou é... está com parceria de alguma empresa, terceirizado, alguma coisa? [LOCAL] ff: [PESSOA]. Outra dúvida. É, senativo do Proteus, essa questão de reforma tributária, está integrado com o configurador de tributos, já está tudo contemplado, né? Isso, já faz toda parte desse ecossistema aí da entrada da nota pelo transmit até lá Tanto é que no XML, quando vem os impostos novos, CDF, DS, [EMPRESA], vai aparecer tudo no XML também aqui no Saúde Transmissão. Isso já vai também para dentro do Proteus e a classificação tributária vai de acordo com o configurador de tributo.[PESSOA]: [EMPRESA]. [LOCAL]. Aqui, pessoal, então tem a configuração das contas de e-mail por tipo de documento. Então, quando você... Alguém que precisar enviar o XML para o e-mail vai mandar para uma dessas contas. É importante só eu ressaltar para vocês que essas contas têm que ser de uso exclusivo do Próximo Transmite, por questões de segurança. Então, basta configurar esse e-mail aqui. Aqui nós temos o monitor de quais os documentos eletrônicos o Próximo Transmite vai fazer a captura do XML. Então, temos o cartaz de produtos, cartaz de consumidor, de serviços, e conhecimento de transporte eletrônico dos outros serviços. Ele também faz o monitoramento das notas emitidas. Então, se vocês estiverem no manifesto do destinatário, vocês conseguem ver pelo também, ou seja, a gente usa o TSS para o envio das informações hoje para ser fazido, para validar as notas ou para as prefeituras, e aí o [LOCAL] já também está integrado com isso, então vocês conseguem monitorar não só as notas recebidas, como também as faturadas. Então, se vocês têm o faturamento hoje dentro do Proteus, ele pode ser visto aqui também dentro do [LOCAL]. Bom, aqui nós temos o gerenciador de colunas, onde vocês conseguem adicionar ou remover informações das colunas, do que vocês querem enxergar aqui atrás, e também alterar a ordem de exibição. Temos aqui a função do filtro, então vocês podem filtrar filiais diferentes, ambientes diferentes,\n[LOCUTOR 30]: status\n[LOCUTOR 7]: por manifestação destinatário, status de integração [LOCAL], Então, uma série de filtros para tornar mais didática a visão do usuário. É possível também fazer importação de um XML manual, como eu falei para vocês anteriormente. Então, se eu tenho o XML, basta eu arrastar para cá, ou selecionar para abrir a partir do meu computador, ou então exportar em lote. Então, quando eu seleciono aqui um lote de notas, eu consigo fazer essa exportação em lote. Aí ele vai gerar ou um arquivo CSV, ou um XML com essas notas, ou um PDF. E aqui nós temos também esses três pontinhos, como visualizar no detalhe informações do XML. Então aqui o número do documento, se ele já teve alguma manifestação, dados da nota fiscal, com data e hora de transmissão, quem foi o emitente, CNPJ, sequência estadual. destinatário, aqui vem a parte dos impostos. Então, eu já consigo fazer uma pré-análise dentro do próprio ToxTransmit. E aqui tem os produtos com seus detalhes, quantidade, valor unitário e valor total. A gente tem aqui como exportar esse documento para a máquina local, fazer uma impressão dele e enviar por e-mail para um ou mais destinatários aqui. tanto o XML quanto o PDF ou ambos. A gente consegue compartilhar isso também. O manifesto, pessoal, vai depender do estado, se é obrigado ou não fazer, mas a gente tem aqui a confirmação da operação, ciência da operação, se eu desconheço ou se é uma operação não realizada. Esses dois primeiros, confirmação e ciência da operação, a gente consegue parametrizar para o sistema fazer de forma automática. Então, eu evito com isso a digitação da nota [EMPRESA]. Perdão. Eu evito com isso a manifestação da manual da nota [EMPRESA], do documento eletrônico. Eu consigo [EMPRESA] para que o sistema faça essa ciência ou confirmação da operação de forma automática.\n[LOCUTOR 61]: [PESSOA], deixa eu te fazer uma pergunta. ele já vai receber automaticamente dos diversos ambientes de municípios e inclusive do repositório nacional.\n[LOCUTOR 18]: acontecer de você estar integrado, por exemplo, com o município lá de [LOCAL] e eu receber a mesma nota do repositório nacional, porque [LOCAL] já integrou com o repositório nacional. Isso, a ferramenta valida esse XML se ele está em duplicidade, se houve essa duplicidade de recebimento? Sim, ele já faz essa validação também. Não só de ambientes diferentes, nacional ou prefeitura, bem como quando eu integro com o [EMPRESA], ele já sabe se está integrado ou não, porque eu tenho aqui esse status de integração com o [EMPRESA]. Então, mesmo que eu capture esse XML, ele primeiro vai validar se ele já tem isso na base de dados do nosso transmitir. Se ele já tiver, ele elimina a duplicidade. Quando ele recebe isso e manda para o [EMPRESA], ele também valida se já existe lá. Então, não vai ter problema de duplicidade de dados.\n[LOCUTOR 61]: [EMPRESA]. Não sei se, [PESSOA], eu estou falando alguma besteira, mas o nosso tramitador de notas fiscais, essa implantação que vocês fazem lá quando vocês mudam o status, seria mais ou menos essa integração com o [EMPRESA] de pegar esse dado e inserir a nota fiscal no Proteus, é isso?\n[LOCUTOR 30]: Sim, de forma bem manual. O que acontece lá dentro do sistema é que nós pegamos a nota fiscal e tem uma\n[LOCUTOR 61]: equipe,\n[LOCUTOR 30]: né? É, tem uma equipe que baixa essa nota fiscal do sistema da Fácil, né? Coloca no sistema, no tramitador. Aí a outra equipe nossa que pega essa nota do tramitador, digita e muda esse status, né? De, sei lá, de não implantada para implantada, digamos. E aí lá ela coloca alguma observação, ou se a nota está cancelada também, ou se a nota está errada. E era uma outra pergunta também que eu ia fazer para o [PESSOA], se tem algum campo aí, ou se é editável, algum campo que se possa incluir algum desse tipo de informação. Que, por exemplo, existe uma equipe que coloca essa informação que, na hora de lançar, ela visualiza que tem algum problema na nota, e aí ela identifica e coloca. E tem uma outra equipe do outro lado que visualiza e vai tratar essas inconsistências. Então, no tramitador hoje que a gente usa, que é um... Nada mais do que um SharePoint, né? Então, eles visualizam num campo lá de observação, eles colocam lá. Nota fiscal está com as retenções federais incorretas. Então, outra equipe lá do outro lado vai tratar aquela nota que está na pendência. Essa aí teria também como, em algum campo, a gente colocar essa nota na pendência para colocar algum tipo de informação?\n[LOCUTOR 7]: Aqui no Post Transmit não, mas quando a gente importa para dentro do [EMPRESA] sim\n[LOCUTOR 7]: possível.\n[LOCUTOR 61]: É isso, o que ela está perguntando é o seguinte, antes de eu importar para dentro do [EMPRESA], Eu\n[LOCUTOR 30]: preciso\n[LOCUTOR 61]: analisar\n[LOCUTOR 61]: né? Antes de\n[LOCUTOR 30]: botar.\n[LOCUTOR 61]: Uma coluna customizada, onde o usuário vem e insira uma informação?\n[LOCUTOR 30]: Nenhuma etiqueta? Inserir alguma\n[LOCUTOR 7]: coisa?\n[LOCUTOR 61]: Aqui,\n[LOCUTOR 7]: pessoal, é só monitoramento, é só visualização.\n[LOCUTOR 7]: tenho nenhuma\n[LOCUTOR 30]: forma\n[LOCUTOR 7]: de alteração de dados ou criação de alguma informação. Ainda assim, está em roadmap, a questão de poder criar, através de algum ponto de entrada, uma customização aqui dentro do seu\n[LOCUTOR 61]: ambiente.\n[LOCUTOR 7]: Mas isso ainda está sem previsão de quando vai acontecer.\n[LOCUTOR 61]: Seria um marcadorzinho, uma etiqueta, um cheque, alguma coisa para identificar que aquele item está com problema, né?\n[LOCUTOR 30]: Isso.\n[LOCUTOR 7]: Na hora\n[LOCUTOR 61]: que você manda exportar ali, entra ali, por favor. Aquela telinha que você fez a exportação por e-mail. Não, você manda por e-mail. Você consegue colocar um texto nesse e-mail?\n[LOCUTOR 7]: Não, aqui é só o e-mail da pessoa que você vai encaminhar. E o tipo de arquivo\n[LOCUTOR 30]: que você\n[LOCUTOR 7]: quer mandar...\n[LOCUTOR 61]: Se tivesse talvez um texto aí, você já colocaria por e-mail, olha, essa nota está com problema e tal, e\n[LOCUTOR 61]: manda a nota para a pessoa, né?\n[LOCUTOR 30]: Para a pessoa tratar, isso.\n[LOCUTOR 61]: Já resolveria, talvez.\n[LOCUTOR 30]: Talvez aí abaixo, onde marca XML e PDF, um campo de comentário, né, [PESSOA]?\n[LOCUTOR 61]: Um comentáriozinho aí no e-mail, que aí você já manda o e-mail para a pessoa e fala assim, ó, essa nota está com penessa disso e disso. E não implanta ele no sistema.\n[LOCUTOR 7]: Deixa eu ver um negócio aqui. É que, enquanto eu estou testando aqui, deixa eu só também explicar uma coisa para vocês. A gente não está deixando ainda, acho que a base está bloqueada para isso. Quando eu falo assim que a gente vai mandar para o [EMPRESA], não significa que essa nota vai ter sua entrada já efetivada no [EMPRESA], tá? Essas notas que foram exportadas para lá, para dentro do Proteus, elas vão cair aqui dentro de um monitor. Eu ia chegar lá, mas eu vou antecipar essa visão para vocês.\n[LOCUTOR 30]: Para\n[LOCUTOR 7]: poder esclarecer isso, tá?\n[LOCUTOR 61]: Temos\n[LOCUTOR 7]: esse monitor que é a porta de entrada de tudo que vem lá do [PESSOA]. Então aqui nós temos os documentos que foram importados e cada um tem sua legenda. Cada\n[LOCUTOR 7]: tem sua legenda, tá vendo? Os vermelhinhos são os que já foram gerados, ou seja, esses vermelhinhos eu já mandei para dentro do módulo de compras, lá onde eu tenho aquela visão das pré-notas e documentos de entrada.\n[LOCUTOR 7]: documento normal é o status de um documento que está preparado para ser enviado para lá. Ele está ok, já foi validado informações do XML com o pedido, ele já cruzou as informações da amarração do produto versus fornecedor, Eu já vi que tinha pedido de compra vinculado ali ou não, tá? Então, ele faz uma validação, tá tudo ok, eu consigo mandar para o compra. E aqui são outros tipos de documentos, né? Tem aqui documento de concorrência e documento pendente de revisão cadastral. Depois não, pode perguntar.[PESSOA]: Se eu mandar um XML para aí que já tem documento gerado, ele já faz o match automático? Ele vai validar que tem chave duplicada. Eu já tenho\n[LOCUTOR 30]: o impeditivo para importação. Ou é só um aviso e ele importa a si mesmo.\n[LOCUTOR 7]: Ele vai gerar uma ocorrência e não vai importar porque esse documento já está cadastrado na base. Quando eu mando gerar um documento, é o seguinte, quer ver? Deixa eu mostrar aqui. Tem essa legenda verdinhathiago ff: aqui. Como que eu faço para gerar esse documento? Eu clico duas vezes aqui. E aí eu venho aqui em alterações e mando gerar o documento. Quando eu clico aqui em gerar em documento, ele vai consultar a minha base da [LOCAL], [LOCAL], que são as tabelas onde eu gravo as notas fiscais. [LOCAL] também, né? E vai validar se existe essa nota já cadastrada. Se tiver, ele barra essa geração de documento avisando que já existe essa nota\n[LOCUTOR 61]: [PESSOA] ff: aí ele não atualiza o status da bolinha verde para a vermelha? Porque ela já tá cadastrada, né?\n[LOCUTOR 7]: Isso, ele vai atualizar o status pra ocorrência, que vai ser essa aqui ó, mais escudinha. Aí ele vai mostrar dessa forma aqui. Eu tenho aqui a aba ocorrência, ele vai falar qual que é a ocorrência que teve. [PESSOA] ff: Aí ele vai verificar qual foi o problema também. E aí,[PESSOA]: voltando naquela questão de avisar os setores lá, avisar uma pessoa que tem alguma divergência nessa nota, a gente tem aqui, nessa rotina de importador XML, alguns pontos de entrada. Esses aqui, vou compartilhar com vocês também. Então, através do [EMPRESA]: de entrada, vocês conseguiriam fazer esse tipo de validação dos usuários, mandar mensagem, criar campo, enfim, fazer... Alguma ação aqui através da orientada para chegar nesse resultado que vocês esperam. Tá bom? Entendido?\n[LOCUTOR 30]: O que acontece? Uma outra situação para eu te perguntar antes. Existem muitos casos aqui de notas, por exemplo, números pequenos. Por exemplo, nós temos, sei lá, o [LOCAL], nota número 70 do ano de 2023,[PESSOA]: que a gente já tem ela no Proteus. Aí, agora, o hospital começou uma nova remessa de nota fiscal lá e nós lançamos lá, em 2023, a nota 70 para o [LOCAL], série 1. E agora ele manda novamente pra gente, só que no ano de 2026, a nota 70 do [LOCAL], série 1 também. Quando a gente vai implantar essa nota, o sistema vai acusar duplicidade, manualmente.\n[LOCUTOR 30]: a gente foi, atualmente, a gente dá um jeitinho e a gente implanta essa nota, né? Acrescenta o ano a esse número e implanta a nota fiscal. Para o sistema de importação, ele não vai aceitar. É customizável? Como é que o sistema trabalha nessa forma de aceitar essas notas, que o sistema já existe nota cadastrada?[PESSOA]: Na verdade, eu tenho até um chamado da [LOCAL], eles recomendando nessas situações o... [[LOCAL] ff: É, [PESSOA]. E se já está lançada a nota com série 1, você pega e lança série 01, que aí o sistema vai aceitar passar. acrescenta um zero à esquerda no número, ou tira um zero à esquerda, aí o sistema aceita, entendeu? Mas a situação é que, como que a gente vai tratar isso importando do XML?\n[LOCUTOR 7]: Ele vai dar um aviso de a chave duplicada, certo? Daí, no caso, vocês podem usar desse ponto de entrada que eu passei, porque tem lá a manipulação do número, do que vem no XML, aí vocês conseguem alterar o que está no XML, e aí vocês faziam esse tipo de alteração que foi recomendada. Ou dessa forma, ou como a [PESSOA] falou, pode por um ano, hoje como vocês já fazem, né? Põe um ano ali na frente do número, eu não sei, aí tem qual que seria o melhor, a melhor forma de vocês fazerem isso.\n[LOCUTOR 30]: Ele vai, no momento da importação, ele vai criticar, a gente vai lá, edita, digamos, essa informação e termina, e finaliza essa importação manualmente, é isso que você está sugerindo.[PESSOA]: Isso,\n[LOCUTOR 7]: porque assim, vamos imaginar o seguinte, eu tenho aqui, eu exportei daqui do transmit por [EMPRESA],[PESSOA]: assim, ele vai\n[LOCUTOR 30]: aceitar\n[LOCUTOR 7]: que hoje a sua base do seu transmit não tem aquela nota ainda.\n[LOCUTOR 7]: Está limpa. Aí,[PESSOA]: assim, quando eu clicar em gerar, ele vai criticar. Ele vai falar, olha, já\n[LOCUTOR 30]: insertei essa\n[LOCUTOR 7]: nota na minha base. E aí, o que pode acontecer? Criar aqui no menuzinho, alterar, ou no alterar aqui, de repente, você vir e fazer essa alteração do número. Então, aqui eu tenho o número sério, aí eu posso alterar. É que aquele não tá deixando porque, provavelmente, a base tá bloqueada. Mas vocês podem criar um ponto de entrada pra deixar, alterar essa informação ou essa. Como você falou, 73-2026. 73-2026.\n[LOCUTOR 61]: [PESSOA] ff: a data\n[LOCUTOR 7]: de emissãothiago ff: também?\n[LOCUTOR 61]: Quando\n[LOCUTOR 7]: eu... A data de emissão, eu achothiago ff: que deixamos lá também, tá? Porque vai ser através do ponto de entrada. E aí você, fazendo essa alteração, ele vai [PESSOA]: a entrada da nota. Que\n[LOCUTOR 7]: data\n[LOCUTOR 30]: de emissão também, pra gente, é um outro fator, porque nós temos alguns casos de notas fiscais, alguns muitos casos, né? de notas fiscais que a gente implanta nota fiscal do mês anterior. E aí, quando o período está fechado, a gente não conseguethiago ff: colocar lá a data de emissão de fato da nota fiscal, que é\n[LOCUTOR 30]: do três, um do dois ou um do um. Então, a gente tem que implantar com a data do mês. E aí, precisa ser digitado. Se a gente vai importar uma nota do mês anterior ou do outro mês, ele vai acusar que o período contábil está fechado, né?\n[LOCUTOR 7]: [EMPRESA].\n[LOCUTOR 7]: vendo? Aqui no ponto de entrada, você temthiago ff: ponto que permite informar a empresa estilial quando encontrar duplicidade, manipular impostos, adicionar informações depois da inclusão do documento. Então esse aqui seria um ótimo para fazer essa alteração. Tem aqui, para você adicionar tantos que todos já viram, aquela questão de notificar uma pessoa ou criar informação de que foi validado, que foi [PESSOA]: ou não foi. Então tem bastante ponto aqui que [LOCAL]: conseguem utilizar.[PESSOA]:\n[LOCUTOR 3]: pontosthiago ff: de entrada são da rotina de documento de entrada [LOCAL] 103 ou é da rotina\n[LOCUTOR 7]: [PESSOA]: XML? essas três daqui ó, com [LOCAL] mata 140i e mata 116i.[PESSOA]: Uma\n[LOCUTOR 11]: pergunta aí, então lá no browser mesmo, no browser aí, perto desse monitor, a informação vai ficar brecada, quer dizer, ela não vai ser, não vai poder ser aberta no campo, não é aberta para editar, a não ser através dos pontos de entrada, quer dizer, tem que fazer umas telinhas para poder corrigir\n[LOCUTOR 7]: Não, aqui a gente tem campos que podem ser editados aqui nessa base de\n[LOCUTOR 61]: teste que\n[LOCUTOR 11]: é isso que athiago ff: gente precisa saber. A numeração, por exemplo, é editável?\n[LOCUTOR 7]: Isso. Deixa eu alterar um aqui para você ver. Por exemplo, pode ser utilizado para colocar um produto.[PESSOA]: Estou vendo aqui, eu consigo alterar, deixa eu ver aqui.\n[LOCUTOR 11]: Então, só através de uma tela, a gente construiu uma ferramenta para poder...\n[LOCUTOR 7]: Não, esse aqui não. É porque a base de teste aqui eles bloquearam para a gente não alterar, mesmo para não danificar a demonstração. É uma base de demonstração. Então,[PESSOA]: se eu ficar alterando muito, eu vou prejudicar os outros que fazem a apresentação aqui. Posso criar algum problema aqui na base e\n[LOCUTOR 61]: acaba\n[LOCUTOR 7]: prejudicando os colegas\n[LOCUTOR 11]: que fazem\n[LOCUTOR 7]: a demonstração.\n[LOCUTOR 36]: [PESSOA], desculpe o atraso aqui, mas talvez eu faça uma pergunta que alguém já fez, só para não perder a oportunidade. Em relação ao delay do cancelamento das notas, a gente já falou aqui?\n[LOCUTOR 7]: Delay de cancelamento?[PESSOA]: Não,\n[LOCUTOR 36]: é porque nós estávamos enfrentando bastante problemas com...\n[LOCUTOR 36]: [PESSOA]?\n[LOCUTOR 30]: [PESSOA]?[PESSOA]: Está com dois áudios ligados aí?\n[LOCUTOR 30]: Fala.\n[LOCUTOR 7]: Aqui para mim está normal.\n[LOCUTOR 61]: Para mim também está normal, hein?\n[LOCUTOR 36]: Então, na nossa ferramenta, aqui a gente tem um problema atual, que é o seguinte. O portal do [LOCAL], no ambiente do [LOCAL], ele faz esse cancelamento contínuo. Aqui em [LOCAL], né? No [LOCAL], que é o nosso principal,[PESSOA]: nosso principal CNPJ. e tem que ter esse cancelamento contínuo. No portal nacional, que o [LOCAL] já está integrado, mas há um delay importante entre o cancelamento e o registro no portal nacional desse cancelamento. Então, a nota é cancelada hoje, já aparece no portal nacional daqui a alguns dias. E a ferramenta que a gente estava até agora utilizando, ele fazia uma consulta contra o cancelamento, acho que mensal, ou de 15 em 15 dias, porque ele falou que é um serviço diferente do serviço que traz as notas, é um serviço específico só para trazer as notas canceladas. E acabou que a gente estava com um delay muito grande entre o cancelamento e a comunicação desse cancelamento. Eu quero saber como é que é aí dentro, porque já que, nesse caso, a gente viu que a gente informação do [LOCAL] não nos traz informação em tempo rápido também.\n[LOCUTOR 36]: [PESSOA].\n[LOCUTOR 30]: É, o [PESSOA], nosso gerente de controladoria.\n[LOCUTOR 7]: [PESSOA], perdão, não tava com a telinha da reuni\n[LOCUTOR 44]: aberta\n[LOCUTOR 7]: aqui.\n[LOCUTOR 7]: tô com o monitor só. É, eu não sei dizer, tá, de quanto, de quanto em quanto tempo ele vai fazer essa consulta na [EMPRESA]. mas eu vou buscar essa informação e faço a devolutiva para vocês, no máximo até amanhã, sobre\n[LOCUTOR 36]: isso.\n[LOCUTOR 7]: A gente tem aqui, eu fui buscar o status de cancelado, né, da situação dessa nota,\n[LOCUTOR 36]: Isso, isso.\n[LOCUTOR 7]: Eu vou verificar qual que é o tempo que ele gasta para a informação e trago para você, então. [EMPRESA], [LOCAL] ff: Eu não sei se eu estou apressando o processo, mas seria possível simular a geração de um documento de entrada final ou de uma plenota? Linkando com pedidos de compras, como é que funciona? Nessa base de demonstração eu não consigo fazer isso, porque daí seria uma [EMPRESA], né? Teria que fazer uma prova de conceito para vocês. E aí dentro do posto transmite a gente não tem esse tipo de ação.[PESSOA]: Porque a gente tem um processo aqui. Resumindo é o seguinte eu vou ter um prestador. E esse prestador pode ter. sem pedidos de compras. Aí,[PESSOA]: na nota fiscal, vem um item, um serviço.\n[LOCUTOR 61]: [PESSOA] ff: aí, o usuário que lança a nota hoje, o que ele faz? Utilizando a rotina padronada, [LOCAL] 103, ele vai lá importar item pedido de compra. Aí, a gente tem uma customizaçãozinha nesse momento aí, que ele permite que o usuário informe o período, por exemplo, o mês de competência. Aí o sistema já vai trazer, entre esses 100 pedidos, apenas os da competência tal quethiago ff: o usuário selecionou, parathiago ff: ficar mais fácil ele linkar com o item do XML, entendeu?\n[LOCUTOR 7]: [EMPRESA].[PESSOA]: Aí eu não sei se vai [PESSOA] ff: possível... [EMPRESA]? A gente vai cair aqui nessa mesma questão do ponto de entrada nessas rotinas, que a rotina do importador XML. Por que eu estou te falando isso? Porque aqui, tantos para vínculo com pedidos de compra. Pelo seguinte, quando eu faço aqui, por exemplo, uma alteração,\n[LOCUTOR 61]: mostrar,\n[LOCUTOR 7]: é o [EMPRESA]: formato assim.[PESSOA]: Aí só complementando, inclusive lá no pedido de compra, Eu já vou ter o número de nota e série e data de emissão dela preenchido, já posso filtrar direto, entendeu? Ó, essa telinha é familiar pra você?[PESSOA]: É, a mesma lá do documento de entrada, né? Pedia de compra por item.[PESSOA]: Você vai pegar só seu ponto de entrada e trazer pra cá. É a mesma coisa. Você vai manter a mesma regra lá que vocês têm hoje.[PESSOA]: Mas por padrão... Ah, e tem uma outra coisa, tá, [EMPRESA]? Não sei se os prestadores de serviço aí geram o XML já com o número do pedido ou item vinculado à nota que ele emitiu. Porque aqui, quando já vem o XML, ele já traz preenchido para vocês aqui o número do pedido e o item.[PESSOA]: É, mas [PESSOA]: não sei se o fornecedor nosso manda essas informações. Você lembra,\n[LOCUTOR 30]: [PESSOA], se\n[LOCUTOR 7]: essas\n[LOCUTOR 30]: informações vêm preenchidas?[PESSOA]: [EMPRESA]?\n[LOCUTOR 6]: [PESSOA]. Se no documento de entrada lá no ADM, se essas informações vêm preenchidas. Eu acredito que alguns sim, mas alguns não. Nem todo mundo preenche. Acredito que é\n[LOCUTOR 7]: isso.\n[LOCUTOR 30]: acho que\n[LOCUTOR 30]: padrão.\n[LOCUTOR 14]: O que ele está falando é do próprio fornecedor, né?\n[LOCUTOR 14]: quem\n[LOCUTOR 14]: o pedido de compra é o pessoal do [EMPRESA] aqui.\n[LOCUTOR 7]: o que é? Qual que é [PESSOA] ff: processo, né?\n[LOCUTOR 7]: mandei um pedido de compra para o fornecedor. Então ele tem o meu pedido com o número lá, o número do pedido e os itens. o xml dele, quando ele for emitir a nota e me informar o meu número de pedido, ele já vai trazer aqui preenchido, porque já vai estar no xml isso aí.\n[LOCUTOR 7]: nunca vi\n[LOCUTOR 30]: [LOCUTOR 26]: acho que nem todo\n[LOCUTOR 36]: mundo.[PESSOA]: Com essa rotina do monitor, a gente vai deixar de usar a rotina que eles usam hoje atualmente, a [LOCAL] 103?\n[LOCUTOR 7]: Não porque ali você pode usar para classificar uma pré-nota, ou para você alterar uma duplicata, ajustar um imposto, um frete, alguma coisa nesse sentido. Mas aqui é mais de um validador antes de eu mandar para lá, mas aqui eu já vou fazer algumas ações que vão facilitar a vida de quem está lá na frente. Por exemplo, aqui eu também consegui formar texto, está vendo? Eu já consigo ficar esse\n[LOCUTOR 36]: documento\n[LOCUTOR 7]: aqui.[PESSOA]: Mas por exemplo, hoje a text pra eles é tudo automático, já vai ser autom\n[LOCUTOR 1]: [PESSOA]: também?\n[LOCUTOR 7]: Ele já vai puxar aqui também,\n[LOCUTOR 30]: porque\n[LOCUTOR 7]: o produto ele tá [PESSOA]: ó. Ele já consegue trazer a text pra cá. Ele tem até aqui informações do que está [PESSOA]: calculado. [LOCAL] ff: no monitor ele sempre vai gerar pré-nota ou ele pode gerar um documento já classificado? Pode gerar um documento classificado, mas eu tenho que usar a tese inteligente para isso.[PESSOA]: Mas o que? Eu não entendi. Tem que usar a tese inteligente.[PESSOA]: [PESSOA]. Vocês usam hoje?\n[LOCUTOR 7]: Então, tem que passar a usar. Aí eu consigo gerar o documento já classificado lá. Aqui, ó, nessa opção de gerar documento,[PESSOA]: eu tenho três opções, tá?[PESSOA]: Gerar manual, que é o que eu mostrei para vocês. Eu vou clicar aqui.[PESSOA]: Vou vir na outras ações e vou gerar o documento.\n[LOCUTOR 7]: segunda possibilidade. Quando ele ficar na legenda verde, eu já mando automaticamente lá para o documento de entrada e fica guardando a classificação da\n[LOCUTOR 36]: nota,\n[LOCUTOR 7]: tá? Como se fosse uma pré-nota. E a terceira opção é usar o cadastro de inteligência inteligente e já mandar essa nota classificada para lá.[PESSOA]: [EMPRESA]. Outra pergunta. A gente pode gerar pré-nota daqui dos XMLs importados?\n[LOCUTOR 36]: [EMPRESA]: direto? E... Quando chegar lá na classificação fazer o vínculo dos pedidos de compra por lá ao invés de fazer por aqui.\n[LOCUTOR 7]: Sim, é possível, porque aqui eu não sou obrigado a informar o pedido de compras. Nesse momento aqui, eu não tenho essa obrigatoriedade, a não ser que... Sabe aquele parâmetro [EMPRESA], que eu obrigo o usuário a vincular o pedido de compra nosso? Tinha até aqui uma ocorrência dessa.[PESSOA]: É, hoje é obrigado a ter umthiago ff: pedido de compras. Quando eu tenho esse parâmetro habilitado, está vendo esse parâmetro aqui? Quando ele está habilitado, obrigatoriamente eu tenho que ter um pedido amarrado, então ele não vai deixar eu mandar isso aqui pra lá antes de eu fazer essa amarração. Por isso que tem aquela opção aqui que eu mostrei pra vocês do pedido item.\n[LOCUTOR 7]: você desabilitar isso ou criar, tem um parâmetro tambémthiago ff: que fala quais são [EMPRESA]: peças que não precisam ter essa amarração. Aí você pode mandar essa nota pra lá e vincular os pedidos lá.[PESSOA]: [EMPRESA].\n[LOCUTOR 30]: aqui, então. Pode seguir, pode seguir.\n[LOCUTOR 7]: Então, vamos lá. Então, aqui eu mostrei a funcionalidade para vocês, até a parte do manifesto, tá? Então, tem as manifestações. Basicamente, para os outros tipos de documentos eletrônicos, serve o mesmo conceito de informações aqui, das funcionalidades, filtros, etc. O diferencial aqui na nossa... O serviço é a integração do PDF. Então,\n[LOCUTOR 7]: eu falei para vocês, eu posso receber um arquivo em PDF e o sistema vai convertê-lo em XML. Porém, eu tenho que validar essa conversão inicialmente, uma única vez. Validando isso, dando OK, as próximas notas que eu receberia PDF, ele vai converter já automaticamente. Se der algum problema na primeira conversão, vocês vão ter que estar em contato com o suporte para corrigir isso, para as próximas ele fazer a entrada corretamente.\n[LOCUTOR 36]: Outro\n[LOCUTOR 7]: diferencial, Aqui no Conhecimento de Transporte Eletrônico, vocês têm também como fazer o envio de desacordos. Então, é a única diferença referente à funcionalidade desses tipos de documentos eletrônicos que estão sendo apresentados aqui para vocês.[PESSOA]: Como eu falei, tem também como verificar as notas cais emitidas, que ele vai buscar lá no CSS, e tem como fazer a manutenção destinatária e o monitoramento por aqui também. E aí vocês podem notar que todos os tipos de... documentos que eu acesso aqui, ele vai trazer para mim informações de integração com a R6. Outra funcionalidade que tem aqui, vocês podem emitir relatórios por tipo de documento eletrônico, então ele vai criar uma relação daquilo que\n[LOCUTOR 7]: emitido durante um período, por tipo de documento, por ambiente, vocês vão informar quais campos vocês querem ver. Então, assim, escolha aqui a data de emissão por período, se eu quero ver só documentos emitidos, quais são as informações da nota que eu quero filtrar aqui para gerar esse relatório.\n[LOCUTOR 36]: Então, assim,\n[LOCUTOR 7]: eu quero ver uma relação de notas de período X a Y só que foram recebidas de um determinado fornecedor.\n[LOCUTOR 15]: sistema\n[LOCUTOR 7]: aqui vai gerar um relatório para vocês. Então, pode ser Notas Cláudicas do Serviço ou Conhecimento de Transporte. Tem a bilhetagem. O que é a bilhetagem? O Tóxico Transmit é cobrado por documento armazenado no [PESSOA]. E aqui vocês conseguem acompanhar qual está sendo esse consumo mensal de vocês. Quando você clica aqui em cima do gráfico, ele vai trazer por tipo de documento a quantidade que vocês estão utilizando. Porque daí vocês podem ajustar lá depois, no contrato, a quantidade de documentos que vocês vão armazenar nothiago ff: software. E também é possível exportar isso aqui para dentro do... Exportar para um Excel também, tá?[PESSOA]:\n[LOCUTOR 2]: aqui são as configurações de quais empresas e filiais vocês vão utilizar para fazer o monitoramento desses\n[LOCUTOR 36]: documentos\n[LOCUTOR 7]: eletrônicos. Tá joia? Então, [PESSOA] ff: TotsCloud é isso. Eu já adiantei tudo que tinha lá do enforçador XML, então a gente fez uma mescla aí da apresentação já.[PESSOA]: Quando você fala TotsCloud, por exemplo, a gente contratando, ele vai concorrer com os recursos de cloud que a gente já está utilizando o nosso Proteus hoje ou não? Banco de dados, espaço de servidor, essas coisas? Não, o Transmit fica outra nuvem. É outra nuvem.[PESSOA]: [PESSOA]. Não é o mesmo.\n[LOCUTOR 7]: tem mais alguma dúvida, pessoal, para a apresentação era isso, tá? Como éthiago ff: que a gente faz para assistir a [EMPRESA] para ver um fluxo completo até a geração da nota fiscal? Olha,[PESSOA]: [EMPRESA], sendo bem sincero com você, foque desse tipo de processamento não faz, mas eu posso verificar como é que faz, mas eu tenho quase certeza que vão me dar uma negativa\n[LOCUTOR 36]: disso.\n[LOCUTOR 7]: ou pode ser que cobrem alguma coisa pra fazer a porte pra vocês. [PESSOA]. [PESSOA].\n[LOCUTOR 36]: Vê o que é possível e a gente avalia quem.\n[LOCUTOR 7]: Isso.\n[LOCUTOR 30]: É porque como a [LOCAL] tem muitas particularidades, muita coisa hoje que a gente precisa ver mesmo na prática se funciona, porque assim, não adianta a gente fechar um pacote se na prática não funcionar. Então a gente tem despesa administrativa, despesas sociais, despesas de saúde, que funciona de uma forma, o sistema hoje para despesa administrativa que não funciona para o ADM, a gente trabalha com sistemas diferentes, então não adianta a gente fechar um... contratar um programa, um sistema que depois a gente não vai ver que, na prática, não vai funcionar. Então, de fato, a gente precisa ver as funcionalidades e o que que é customizável, se precisa customização, quanto vai nos custar isso. De fato, a gente vai precisar disso.[PESSOA]: E...\n[LOCUTOR 7]: Eu tenho na mente, tá, pessoal?[PESSOA]: Agora, o que athiago ff: gente faz, tá, em referência a isso? É um benchmark. Então, é ver clientes que tenham o mesmo perfil que vocês, levar vocês até esses clientes que já utilizam a solução e lá vocês verem o processo através deles.[PESSOA]: E é possívelthiago ff: liberar umthiago ff: período de teste ou não? Em ambiente de teste? Nós temos uma, como eu vou te falar, um ambiente, ele é um ambiente de demonstração, que a gente chama de Get Demo. E é uma demonstração guiada, onde você pode clicar, manipular ali as informações, tudo, mas não vai ser um ambiente livre para você mexer em qualquer coisa. [EMPRESA]: uma demonstração guiada, onde você vai ter acesso ali, poder clicar nos ícones, nos menus, nas funcionalidades.[PESSOA]: No caso do suporte ali, para a gente poder implementar ponto de entrada, se tiver dúvida, essas coisas, no próprio suporte, que a gente temthiago ff: hoje, o suportethiago ff: que a gente tem hoje. Isso, é o suporte que vocês já tem hoje.[PESSOA]: É porque faz parte do módulo de compras, né? A parte [PESSOA]: do...\n[LOCUTOR 36]: Exatamente. [LOCAL] ff: o fluxo para [PESSOA] ff: XML chegarem no [EMPRESA] é o monitor que vai mandar uma solicitação aqui para o transmit ou o transmit que já vai ter uma funcionalidade para enviar para lá?\n[LOCUTOR 7]: É um job que tá rodando do lado do Proteus, verificando se tem alguma novidade de API lá do lado do [PESSOA] ff: [PESSOA], entendi.\n[LOCUTOR 36]: Isso\n[LOCUTOR 30]: diário?\n[LOCUTOR 7]: Tempo\n[LOCUTOR 30]: real?\n[LOCUTOR 7]: É, tempo real. O importador [PESSOA] é bem rápido ali a sincronização. [PESSOA] é de uma em uma hora e [LOCAL]\n[LOCUTOR 30]: estava\n[LOCUTOR 7]: de três vezes ao dia, a verificação das notasthiago ff: que foram emitidas.\n[LOCUTOR 36]: Então faz o seguinte, esse acesso ao ambiente de demonstração você consegue liberar?\n[LOCUTOR 7]: [PESSOA], eu peço para o [PESSOA], vou explicar para ele como é que faz e peço para ele mandar para vocês, vocês vão receber um e-mail com aí nesse link vocês vão ter acesso a essa base.[PESSOA]: Eu posso clicar no meu [EMPRESA] de teste nesse aí que você vai liberar para gente? Não, ele é um ambiente isolado.\n[LOCUTOR 36]: Então a gente faz as duas coisas em paralelo, a gente vê a questão do acesso ao ambiente de demonstração, para a gente poder brincar aqui, poder avaliar uma coisa ou outra, mas a gente continua vendo a possibilidade de [EMPRESA] outhiago ff: ambiente de teste, uma coisa que eu entendi que não é possível, né? Seria avaliar a questão da [EMPRESA], se é possível ou não, para a gente poder fazer. [PESSOA], eu acho que será muito complicado, porque são questões muito específicas e outra... que precisa fazer uma utilização alta, inclusive do modo de saúde. Então, para a gente pensar aqui na lógica completa. Então, acho que seria um pouco mais complicado. Então, a questão da [EMPRESA], você identifica para a\n[LOCUTOR 7]: gente\n[LOCUTOR 36]: como é que é possível? Você consegue nos dar um prazo?\n[LOCUTOR 7]: o [PESSOA] e até amanhã a gente dá esse retorno.\n[LOCUTOR 7]: a gente vai seguir\n[LOCUTOR 36]: essa... Mas uma\n[LOCUTOR 30]: coisa... [PESSOA], você disse que esse ambiente de demonstração, ele não é 100% igual ao sistema, mas também a gente consegue ter uma noção. Você diria que ele é quantos por cento do sistema real?\n[LOCUTOR 7]: gente ter uma noção. Ele é um espelho do Tóxico Transmite mesmo. É o que eu quis dizer assim. Vocês não vão conseguir... fazer captura do XML. O que eu mostrei para vocês aqui é o que vocês vão ter acesso lá no ambiente, mas clicando. Vocês vão poder clicar como se vocês estivessem fazendo uma demonstração. Aí vocês podem fazer filtros, podem fazer, baixar o XML na máquina de vocês, testar.\n[LOCUTOR 30]: Posso simular uma, inserir uma nota, importar um pedido?\n[LOCUTOR 7]: também tenho acesso como vocês. Eles disponibilizaram acesso para mim, essa base de demonstração. Eu posso até testar, ver até comigo. consegue alterar lá.[PESSOA]: Tudo\n[LOCUTOR 7]: né? Não, você vai ver as notas desse ambiente mesmo, que [PESSOA] ff: lá. [LOCAL].\n[LOCUTOR 30]: a gente aguarda o link, [PESSOA], e você vai tentar a [EMPRESA] ou você vai passar o contato pra alguém pra gente tentar?\n[LOCUTOR 7]: Então, eu vou tentar ir falando com o [PESSOA] para ele ir atrás disso.\n[LOCUTOR 30]: precisar de mais alguma informação também, ele quiser entrar em contato conosco?\n[LOCUTOR 7]: [LOCAL] agradeço\n[LOCUTOR 30]: então, [PESSOA].\n[LOCUTOR 7]: [LOCUTOR 5]: já, muito obrigada. [PESSOA],\n[LOCUTOR 30]: [PESSOA], [EMPRESA], obrigada, gente.[PESSOA] de\n[LOCUTOR 30]: [PESSOA].\n[LOCUTOR 61]: [LOCAL].[PESSOA] de\n[LOCUTOR 37]: [LOCAL].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:07:55.486921+00:00",
+    "total_linhas": 324,
+    "linhas_mantidas": 225,
+    "linhas_removidas": 99,
+    "percentual_mantido": 69.44,
+    "confianca_media": 0.4792
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 7]: Olá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Boa tarde, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [EMPRESA], boa tarde, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4089,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: mais gente, pessoal do lado de vocês, para participar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4973,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Eu acho",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: que o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: nosso gerente, [PESSOA] Godóis, ele está numa outra reunião, ele não vai conseguir participar. Deixa eu só confirmar com ele aqui, porque ele disse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: que tinha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: um choque de agenda, sim. Mas deixa eu só confirmar se é isso mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCUTOR 4]: a [LOCAL] e a [PESSOA]. É, ele falou, [PESSOA], que não vai conseguir entrar porque ele disse que tá com muito pagamento pro dia 20, aí eu falei assim, não, se precisar alguma dúvida em relação aos lançamentos do ADM, a [PESSOA] nos ajuda.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: que a parte da saúde, a [PESSOA] tá com a gente, aí a parte do ADM, se precisar de tirar alguma dúvida, aí você nos ajuda. Ele disse que vai demorar um pouquinho, mas podemos começar, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5634,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Ah, tá bom então. Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: para...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: lá. Deixa eu me apresentar aqui. Eu sou da [LOCAL] do time de Engenharia de Valor. O [PESSOA] me passou a necessidade de uma apresentação do [LOCAL] para você. Então, só gostaria de confirmar se é realmente isso. A expectativa de você é essa de ver o [LOCAL] funcionando. Não, não existe.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Boa tarde [PESSOA], tudo bem? Eu não sei se é só pra mim, mas o teu microfone tá bem baixinho, meio",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3829,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: abafado. É, eu também,[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: entendi, eu não entendi se ele perguntou algo.[PESSOA] de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4071,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: É, perdão viu.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL], eu peço desculpas, é que eu não tô com o meu headphone hoje, e eu tô só com o fone de ouvido mesmo. [PESSOA] agora? Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4518,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: agora estamos te ouvindo, sim, vamos lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [PESSOA] falou a respeito da necessidade do [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Transmit.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 22]: disso, eu já não entendi mais nada. Eu queria saber se realmente essa é a expectativa de vocês, de ver o [EMPRESA] Transmit, essa apresentação mesmo, ou se tem algum outro objetivo aqui para vocês mapear.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: É, de fato, o seu microfone está falhando. Então, eu escuto algumas coisas e algumas coisas falham. Então, deixa eu só te apresentar a nossa necessidade. E assim, nós tivemos uma indicação do sistema, do [EMPRESA] Transmit, que é para uma funcionalidade do que atualmente a gente precisa, de uma mudança que a gente precisa fazer no nosso sistema. Atualmente, nós temos quatro analistas que fazem lançamento de notas fiscais manualmente, no que a gente chama de despesas de saúde, e nas despesas administrativas e sociais, nós temos mais outros cinco analistas. E esses lançamentos de notas fiscais, eles são 100% manual. Então, número de nota, data de emissão, tem suas particularidades no ADM e algumas particularidades na [EMPRESA], na despesa de saúde. O que são essas particularidades? No ADM e social, eles vêm de... Ela tem medições, e, posteriormente, eles geram pedidos que, posteriormente, possibilitam o lançamento dessas notas fiscais. No caso das notas fiscais de saúde, nós temos gerações de faturas. Nós temos uma outra empresa que faz o fechamento das notas fiscais, das faturas, e aí elas fazem esse fechamento de faturas que, posteriormente, gera pedido, que, posteriormente, a equipe das minhas analistas fazem os lançamentos de notas fiscais também manualmente. Então, sim, tem alguns dados que são manuais, tem alguns dados que são... ...o CNPJ, pesquisam o CNPJ e, automaticamente, puxa o cadastro dele que está no sistema e uma fatura que está no sistema que gerou esse pedido no sistema. Então, o que é a nossa ideia? Nós conhecemos outros programas, outros sistemas que fazem, basicamente, o que também nós ficamos sabendo que o sistema transmite, faz, que é importar, pegar esses dados, o XML lá no sistema, lá na [LOCAL], importar esses dados para dentro do sistema Proteus, para que a gente possa aproveitar dados como número de nota, data de emissão, para diminuir a parte de digitação manual e também diminuir a parte de erros também de digitação. Às vezes você está ali digitando na agilidade ali de tentar digitar o quanto mais notas possíveis, acaba que você troca um 8, às vezes, ao invés de digitar 48, você digita 84, E por aí vai, entendeu? Aí isso é na possibilidade, né, na possibilidade de não ter esses erros manuais, a gente quer ver se o sistema, a gente consegue aproveitar esses dados que o sistema traz através do XML. Então, assim, nós ficamos pelo que a... o que a gente ficou sabendo, talvez é o próprio sistema Transmit que faz isso, o [LOCAL] Transmit que faz isso. Se não for essa ferramenta, então você, como um especialista da [LOCAL], que nos diga se é isso mesmo e quais as funcionalidades que o [LOCAL] Transmit faz. [PESSOA], foi embora?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não, estou aqui, estão me ouvindo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3648,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Estamos te ouvindo agora.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Eu vim para uma salinha aqui, que eu acho que vai ficar melhor o áudio para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4924,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Eu ouvi tudo que você me falou, tá? Enquanto eu estava trocando a salinha aqui. É exatamente esse mesmo o intuito do Transmit, que é capturar esses XML,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: tá? Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tanto de prefeitura, se for prestadores de serviço, quanto de produtos, se for emissão de fornecedores de materiais, equipamentos, etc.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: O famoso DANF, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Isso. Então, o sistema está todo momento ali se comunicando com a [PESSOA] e com as prefeituras que já disponibilizam o sistema automático de captura. Acho que hoje as prefeituras estão obrigadas a adequar o sistema da [PESSOA] nacional. Então, tem algumas que já estão, outras não. A ideia é mostrar, então, para vocês a solução aí. Pois não, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5192,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Era exatamente isso que eu queria saber, o que você comentou agora por último, sobre essa obrigatoriedade de adequação com o ambiente nacional.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 19]: sei que muitas das prefeituras já têm essa obrigatoriedade, já implementaram isso nos seus ambientes, Mas era essa dúvida que eu queria saber, se ainda tem algumas prefeituras que ainda não fizeram e se a previsão deles fazerem entrar nessa obrigatoriedade é para 2026? Como é que vai ser isso? Não, eu não sei dizer assim, se eles têm o prazo e qual esse prazo, tá? O que nós temos hoje de informação aqui, que eu compartilhar com vocês, Nós temos aqui uma tela do [EMPRESA] com a barrinha de pesquisa. Agora eu estou com o monitor só. Então, aqui nós temos uma relação das prefeituras que já estão homologadas no sistema. São as prefeituras que a gente já consegue trazer de forma automática por dentro do sistema, que é o Tóxico Transmite. Aqui vocês conseguem fazer um filtro pelo nome do município. Então, esse link é público, eu vou compartilhar com vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: vocês poderem ter essa informação aí também disponível. Vou só pegar aqui e compartilhar. Ficou melhor meu áudio, pessoal? Vocês estão me ouvindo melhor agora?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Sim, estamos te ouvindo melhor, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3865,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Ah, que bom. Tá, então, essa lista de prefeituras aqui, ó, ela mostra aqui, né, o que eu vou buscar automaticamente. Então, quando é prefeitura e está implementado, significa que a solução vai buscar no site da prefeitura de forma automática. Quando é no ambiente nacional que está implementado, ele vai buscar a nota social de serviço lá no ambiente nacional. Vamos supor que nenhuma das duas esteja implementada ou homologada, que está como serviço não disponibilizado ou pode estar em roadmap. Então, a gente tem outras três maneiras de capturar esse XML. Seria a importação manual do XML, ou seja, eu recebo esse XML ou eu vou lá no site da [LOCAL] e baixo e consigo importar ele dentro da solução. Uma segunda solução manual seria a integração por e-mail desse XML. Então eu vou ter lá no Transmit, eu vou mostrar para vocês, onde eu cadastro os e-mails, aí a pessoa que tem esse XML envia o e-mail para essa conta, que vai ser criada lá dentro do Transmit, e automaticamente ele aparece no monitor. E tem também a conversão do PDF para XML. Então se a pessoa não tem o XML, mas ele tem um PDF dessa nota, Ele envia por e-mail também, e aí a gente faz a conversão. [EMPRESA] e um XML. Tá joia? Ó, aqui a solução do Tóxico Transmite.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [PESSOA]? [EMPRESA]? [PESSOA], seria possível nós marcarmos, nós gravarmos essa agenda, essa reunião?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tá sendo gravada já, tá, pessoal?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Ah, sim, tá. Tá ok. É porque aí depois a gente, se o [PESSOA] não conseguir entrar nessa reunião, ele assiste.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.417,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: se vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4788,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: quiserem gravar de alguma outra forma, façam à vontade. A gente está gravando pela [EMPRESA], da [EMPRESA]. Ela grava vídeo, tá? E depois a gente pode compartilhar com vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Isso. Então... Não, não. Depois você me manda, então. Depois a gente lê isso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Tá? Obrigada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL]. Então aqui, pessoal, vocês estão vendo a tela inicial aqui, né? A página inicial. O [EMPRESA] transmite é uma solução em nuvem, tá? É uma nuvem da [EMPRESA]. ela fica responsável por armazenar aí os documentos de vocês, com toda a disponibilidade que vocês precisarem. Faz a guarda legal desses documentos aí no prazo de cinco anos, porém, a gente sabe que é o prazo legal. O prazo limite não tem, vocês podem estar consultando, baixando esses anéis, os arquivos e tudo mais, à medida que vocês tiverem o contrato ativo conosco. É possível também exportar esses QDMLs para vocês poderem ter localmente, se for necessário, ter uma cópia de segurança. Isso é a critério de vocês também. Bom, aqui a gente traz algumas novidades dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Próximo Transmit. Como eu falei, por ser uma solução fácil, ele traz uma facilidade que é qualquer melhoria que tiver, tudo que tiver aqui de novidade, que vocês virem aqui nesse quadro de avisos, ele é implementado automaticamente para vocês. Então, o time de TI de vocês não precisa se preocupar com qualquer tipo de atualização, né? Tem alguns avisos aqui, são avisos referentes às notas, à legislação e tudo mais, inerentes ao [LOCAL] Transmit. Aqui temos uma guia de perguntas frequentes",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: usuários, as principais perguntas e dúvidas, e tem um link com toda a documentação referente ao TOTUS Transmit, uma página centralizadora com tudo o que vocês precisarem saber referente ao TOTUS Transmit. Eu já compartilhei com vocês o link das prefeituras, e mais para frente eu vou compartilhar um outro link também, que é o da configuração do importador XML. Aí eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: explicar mais para frente também o que é. Aqui nós temos a parte de notificações do sistema. E como eu falei aqui, a parte de integração via e-mail. Pessoal, podem falar por cima de mim, tá? Se eu não tô vendo vocês. Então, se vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: levantarem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: athiago ff: mão. Não, eu ia perguntar, senão eu esqueço. [LOCAL] ff: transmit, ele se limita a capturar os XMLs? Ou a partir dessa captura, a gente vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4467,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: conseguirthiago ff: gerar o documento de entrada dentro do sistema?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6267,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: O [EMPRESA] faz a captura do XMR e envia para o Proteus através de uma integração que existe de API do Proteus com o [EMPRESA]. Então, além da captura, vocês vão ver que é possível ver em detalhes o resumo do XMR. É possível ver o resumo do XMR ali, alguns detalhes de informações da nota. E também ele mostra o status referente à integração com a [EMPRESA], se a nota está autorizada, se tem o manifesto daquela nota. Aí eu vou avançar aí na solução para mostrar essa funcionalidade para vocês.[PESSOA]: Mas aí a parte dessa integração vai gerar ou pré-nota ou documento de entrada, não é isso? Isso mesmo.[PESSOA]: E essa solução é toda nativa do Proteus ou é... está com parceria de alguma empresa, terceirizado, alguma coisa? [LOCAL] ff: [PESSOA]. Outra dúvida. É, senativo do Proteus, essa questão de reforma tributária, está integrado com o configurador de tributos, já está tudo contemplado, né? Isso, já faz toda parte desse ecossistema aí da entrada da nota pelo transmit até lá Tanto é que no XML, quando vem os impostos novos, CDF, DS, [EMPRESA], vai aparecer tudo no XML também aqui no Saúde Transmissão. Isso já vai também para dentro do Proteus e a classificação tributária vai de acordo com o configurador de tributo.[PESSOA]: [EMPRESA]. [LOCAL]. Aqui, pessoal, então tem a configuração das contas de e-mail por tipo de documento. Então, quando você... Alguém que precisar enviar o XML para o e-mail vai mandar para uma dessas contas. É importante só eu ressaltar para vocês que essas contas têm que ser de uso exclusivo do Próximo Transmite, por questões de segurança. Então, basta configurar esse e-mail aqui. Aqui nós temos o monitor de quais os documentos eletrônicos o Próximo Transmite vai fazer a captura do XML. Então, temos o cartaz de produtos, cartaz de consumidor, de serviços, e conhecimento de transporte eletrônico dos outros serviços. Ele também faz o monitoramento das notas emitidas. Então, se vocês estiverem no manifesto do destinatário, vocês conseguem ver pelo também, ou seja, a gente usa o TSS para o envio das informações hoje para ser fazido, para validar as notas ou para as prefeituras, e aí o [LOCAL] já também está integrado com isso, então vocês conseguem monitorar não só as notas recebidas, como também as faturadas. Então, se vocês têm o faturamento hoje dentro do Proteus, ele pode ser visto aqui também dentro do [LOCAL]. Bom, aqui nós temos o gerenciador de colunas, onde vocês conseguem adicionar ou remover informações das colunas, do que vocês querem enxergar aqui atrás, e também alterar a ordem de exibição. Temos aqui a função do filtro, então vocês podem filtrar filiais diferentes, ambientes diferentes,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: status",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: por manifestação destinatário, status de integração [LOCAL], Então, uma série de filtros para tornar mais didática a visão do usuário. É possível também fazer importação de um XML manual, como eu falei para vocês anteriormente. Então, se eu tenho o XML, basta eu arrastar para cá, ou selecionar para abrir a partir do meu computador, ou então exportar em lote. Então, quando eu seleciono aqui um lote de notas, eu consigo fazer essa exportação em lote. Aí ele vai gerar ou um arquivo CSV, ou um XML com essas notas, ou um PDF. E aqui nós temos também esses três pontinhos, como visualizar no detalhe informações do XML. Então aqui o número do documento, se ele já teve alguma manifestação, dados da nota fiscal, com data e hora de transmissão, quem foi o emitente, CNPJ, sequência estadual. destinatário, aqui vem a parte dos impostos. Então, eu já consigo fazer uma pré-análise dentro do próprio ToxTransmit. E aqui tem os produtos com seus detalhes, quantidade, valor unitário e valor total. A gente tem aqui como exportar esse documento para a máquina local, fazer uma impressão dele e enviar por e-mail para um ou mais destinatários aqui. tanto o XML quanto o PDF ou ambos. A gente consegue compartilhar isso também. O manifesto, pessoal, vai depender do estado, se é obrigado ou não fazer, mas a gente tem aqui a confirmação da operação, ciência da operação, se eu desconheço ou se é uma operação não realizada. Esses dois primeiros, confirmação e ciência da operação, a gente consegue parametrizar para o sistema fazer de forma automática. Então, eu evito com isso a digitação da nota [EMPRESA]. Perdão. Eu evito com isso a manifestação da manual da nota [EMPRESA], do documento eletrônico. Eu consigo [EMPRESA] para que o sistema faça essa ciência ou confirmação da operação de forma automática.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: [PESSOA], deixa eu te fazer uma pergunta. ele já vai receber automaticamente dos diversos ambientes de municípios e inclusive do repositório nacional.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5153,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 18]: acontecer de você estar integrado, por exemplo, com o município lá de [LOCAL] e eu receber a mesma nota do repositório nacional, porque [LOCAL] já integrou com o repositório nacional. Isso, a ferramenta valida esse XML se ele está em duplicidade, se houve essa duplicidade de recebimento? Sim, ele já faz essa validação também. Não só de ambientes diferentes, nacional ou prefeitura, bem como quando eu integro com o [EMPRESA], ele já sabe se está integrado ou não, porque eu tenho aqui esse status de integração com o [EMPRESA]. Então, mesmo que eu capture esse XML, ele primeiro vai validar se ele já tem isso na base de dados do nosso transmitir. Se ele já tiver, ele elimina a duplicidade. Quando ele recebe isso e manda para o [EMPRESA], ele também valida se já existe lá. Então, não vai ter problema de duplicidade de dados.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: [EMPRESA]. Não sei se, [PESSOA], eu estou falando alguma besteira, mas o nosso tramitador de notas fiscais, essa implantação que vocês fazem lá quando vocês mudam o status, seria mais ou menos essa integração com o [EMPRESA] de pegar esse dado e inserir a nota fiscal no Proteus, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Sim, de forma bem manual. O que acontece lá dentro do sistema é que nós pegamos a nota fiscal e tem uma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: equipe,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: né? É, tem uma equipe que baixa essa nota fiscal do sistema da Fácil, né? Coloca no sistema, no tramitador. Aí a outra equipe nossa que pega essa nota do tramitador, digita e muda esse status, né? De, sei lá, de não implantada para implantada, digamos. E aí lá ela coloca alguma observação, ou se a nota está cancelada também, ou se a nota está errada. E era uma outra pergunta também que eu ia fazer para o [PESSOA], se tem algum campo aí, ou se é editável, algum campo que se possa incluir algum desse tipo de informação. Que, por exemplo, existe uma equipe que coloca essa informação que, na hora de lançar, ela visualiza que tem algum problema na nota, e aí ela identifica e coloca. E tem uma outra equipe do outro lado que visualiza e vai tratar essas inconsistências. Então, no tramitador hoje que a gente usa, que é um... Nada mais do que um SharePoint, né? Então, eles visualizam num campo lá de observação, eles colocam lá. Nota fiscal está com as retenções federais incorretas. Então, outra equipe lá do outro lado vai tratar aquela nota que está na pendência. Essa aí teria também como, em algum campo, a gente colocar essa nota na pendência para colocar algum tipo de informação?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Aqui no Post Transmit não, mas quando a gente importa para dentro do [EMPRESA] sim",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4916,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: possível.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: É isso, o que ela está perguntando é o seguinte, antes de eu importar para dentro do [EMPRESA], Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5502,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: preciso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: analisar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: ela,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 61]: né? Antes de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: botar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Uma coluna customizada, onde o usuário vem e insira uma informação?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não, aqui não tem essa possibilidade.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Nenhuma etiqueta? Inserir alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: coisa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: pessoal, é só monitoramento, é só visualização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Eu não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tenho nenhuma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: forma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: de alteração de dados ou criação de alguma informação. Ainda assim, está em roadmap, a questão de poder criar, através de algum ponto de entrada, uma customização aqui dentro do seu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: ambiente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Mas isso ainda está sem previsão de quando vai acontecer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5143,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Seria um marcadorzinho, uma etiqueta, um cheque, alguma coisa para identificar que aquele item está com problema, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Na hora",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: que você manda exportar ali, entra ali, por favor. Aquela telinha que você fez a exportação por e-mail. Não, você manda por e-mail. Você consegue colocar um texto nesse e-mail?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não, aqui é só o e-mail da pessoa que você vai encaminhar. E o tipo de arquivo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4993,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: que você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: quer mandar...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Se tivesse talvez um texto aí, você já colocaria por e-mail, olha, essa nota está com problema e tal, e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 61]: manda a nota para a pessoa, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Para a pessoa tratar, isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Já resolveria, talvez.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Esse aqui ele não está deixando...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3876,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Talvez aí abaixo, onde marca XML e PDF, um campo de comentário, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Um comentáriozinho aí no e-mail, que aí você já manda o e-mail para a pessoa e fala assim, ó, essa nota está com penessa disso e disso. E não implanta ele no sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5128,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Deixa eu ver um negócio aqui. É que, enquanto eu estou testando aqui, deixa eu só também explicar uma coisa para vocês. A gente não está deixando ainda, acho que a base está bloqueada para isso. Quando eu falo assim que a gente vai mandar para o [EMPRESA], não significa que essa nota vai ter sua entrada já efetivada no [EMPRESA], tá? Essas notas que foram exportadas para lá, para dentro do Proteus, elas vão cair aqui dentro de um monitor. Eu ia chegar lá, mas eu vou antecipar essa visão para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: poder esclarecer isso, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Temos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: esse monitor que é a porta de entrada de tudo que vem lá do [PESSOA]. Então aqui nós temos os documentos que foram importados e cada um tem sua legenda. Cada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.562,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tem sua legenda, tá vendo? Os vermelhinhos são os que já foram gerados, ou seja, esses vermelhinhos eu já mandei para dentro do módulo de compras, lá onde eu tenho aquela visão das pré-notas e documentos de entrada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: documento normal é o status de um documento que está preparado para ser enviado para lá. Ele está ok, já foi validado informações do XML com o pedido, ele já cruzou as informações da amarração do produto versus fornecedor, Eu já vi que tinha pedido de compra vinculado ali ou não, tá? Então, ele faz uma validação, tá tudo ok, eu consigo mandar para o compra. E aqui são outros tipos de documentos, né? Tem aqui documento de concorrência e documento pendente de revisão cadastral. Depois não, pode perguntar.[PESSOA]: Se eu mandar um XML para aí que já tem documento gerado, ele já faz o match automático? Ele vai validar que tem chave duplicada. Eu já tenho",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: documentothiago ff: lá. É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: o impeditivo para importação. Ou é só um aviso e ele importa a si mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Ele vai gerar uma ocorrência e não vai importar porque esse documento já está cadastrado na base. Quando eu mando gerar um documento, é o seguinte, quer ver? Deixa eu mostrar aqui. Tem essa legenda verdinhathiago ff: aqui. Como que eu faço para gerar esse documento? Eu clico duas vezes aqui. E aí eu venho aqui em alterações e mando gerar o documento. Quando eu clico aqui em gerar em documento, ele vai consultar a minha base da [LOCAL], [LOCAL], que são as tabelas onde eu gravo as notas fiscais. [LOCAL] também, né? E vai validar se existe essa nota já cadastrada. Se tiver, ele barra essa geração de documento avisando que já existe essa nota",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: no",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: CD1.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 61]: [PESSOA] ff: aí ele não atualiza o status da bolinha verde para a vermelha? Porque ela já tá cadastrada, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Isso, ele vai atualizar o status pra ocorrência, que vai ser essa aqui ó, mais escudinha. Aí ele vai mostrar dessa forma aqui. Eu tenho aqui a aba ocorrência, ele vai falar qual que é a ocorrência que teve. [PESSOA] ff: Aí ele vai verificar qual foi o problema também. E aí,[PESSOA]: voltando naquela questão de avisar os setores lá, avisar uma pessoa que tem alguma divergência nessa nota, a gente tem aqui, nessa rotina de importador XML, alguns pontos de entrada. Esses aqui, vou compartilhar com vocês também. Então, através do [EMPRESA]: de entrada, vocês conseguiriam fazer esse tipo de validação dos usuários, mandar mensagem, criar campo, enfim, fazer... Alguma ação aqui através da orientada para chegar nesse resultado que vocês esperam. Tá bom? Entendido?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: O que acontece? Uma outra situação para eu te perguntar antes. Existem muitos casos aqui de notas, por exemplo, números pequenos. Por exemplo, nós temos, sei lá, o [LOCAL], nota número 70 do ano de 2023,[PESSOA]: que a gente já tem ela no Proteus. Aí, agora, o hospital começou uma nova remessa de nota fiscal lá e nós lançamos lá, em 2023, a nota 70 para o [LOCAL], série 1. E agora ele manda novamente pra gente, só que no ano de 2026, a nota 70 do [LOCAL], série 1 também. Quando a gente vai implantar essa nota, o sistema vai acusar duplicidade, manualmente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: a gente foi, atualmente, a gente dá um jeitinho e a gente implanta essa nota, né? Acrescenta o ano a esse número e implanta a nota fiscal. Para o sistema de importação, ele não vai aceitar. É customizável? Como é que o sistema trabalha nessa forma de aceitar essas notas, que o sistema já existe nota cadastrada?[PESSOA]: Na verdade, eu tenho até um chamado da [LOCAL], eles recomendando nessas situações o... [[LOCAL] ff: É, [PESSOA]. E se já está lançada a nota com série 1, você pega e lança série 01, que aí o sistema vai aceitar passar. acrescenta um zero à esquerda no número, ou tira um zero à esquerda, aí o sistema aceita, entendeu? Mas a situação é que, como que a gente vai tratar isso importando do XML?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Ele vai dar um aviso de a chave duplicada, certo? Daí, no caso, vocês podem usar desse ponto de entrada que eu passei, porque tem lá a manipulação do número, do que vem no XML, aí vocês conseguem alterar o que está no XML, e aí vocês faziam esse tipo de alteração que foi recomendada. Ou dessa forma, ou como a [PESSOA] falou, pode por um ano, hoje como vocês já fazem, né? Põe um ano ali na frente do número, eu não sei, aí tem qual que seria o melhor, a melhor forma de vocês fazerem isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Ele vai, no momento da importação, ele vai criticar, a gente vai lá, edita, digamos, essa informação e termina, e finaliza essa importação manualmente, é isso que você está sugerindo.[PESSOA]: Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: porque assim, vamos imaginar o seguinte, eu tenho aqui, eu exportei daqui do transmit por [EMPRESA],[PESSOA]: assim, ele vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5179,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: aceitar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: que hoje a sua base do seu transmit não tem aquela nota ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4695,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Está limpa, isso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Está limpa. Aí,[PESSOA]: assim, quando eu clicar em gerar, ele vai criticar. Ele vai falar, olha, já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4707,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: insertei essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: nota na minha base. E aí, o que pode acontecer? Criar aqui no menuzinho, alterar, ou no alterar aqui, de repente, você vir e fazer essa alteração do número. Então, aqui eu tenho o número sério, aí eu posso alterar. É que aquele não tá deixando porque, provavelmente, a base tá bloqueada. Mas vocês podem criar um ponto de entrada pra deixar, alterar essa informação ou essa. Como você falou, 73-2026. 73-2026.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: [PESSOA] ff: a data",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: de emissãothiago ff: também?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Quando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: eu... A data de emissão, eu achothiago ff: que deixamos lá também, tá? Porque vai ser através do ponto de entrada. E aí você, fazendo essa alteração, ele vai [PESSOA]: a entrada da nota. Que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: data",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: de emissão também, pra gente, é um outro fator, porque nós temos alguns casos de notas fiscais, alguns muitos casos, né? de notas fiscais que a gente implanta nota fiscal do mês anterior. E aí, quando o período está fechado, a gente não conseguethiago ff: colocar lá a data de emissão de fato da nota fiscal, que é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: do três, um do dois ou um do um. Então, a gente tem que implantar com a data do mês. E aí, precisa ser digitado. Se a gente vai importar uma nota do mês anterior ou do outro mês, ele vai acusar que o período contábil está fechado, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5862,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: vendo? Aqui no ponto de entrada, você temthiago ff: ponto que permite informar a empresa estilial quando encontrar duplicidade, manipular impostos, adicionar informações depois da inclusão do documento. Então esse aqui seria um ótimo para fazer essa alteração. Tem aqui, para você adicionar tantos que todos já viram, aquela questão de notificar uma pessoa ou criar informação de que foi validado, que foi [PESSOA]: ou não foi. Então tem bastante ponto aqui que [LOCAL]: conseguem utilizar.[PESSOA]:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: pontosthiago ff: de entrada são da rotina de documento de entrada [LOCAL] 103 ou é da rotina",
+      "mantida": true,
+      "probabilidade_relevancia": 0.571,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [PESSOA]: XML? essas três daqui ó, com [LOCAL] mata 140i e mata 116i.[PESSOA]: Uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5331,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: pergunta aí, então lá no browser mesmo, no browser aí, perto desse monitor, a informação vai ficar brecada, quer dizer, ela não vai ser, não vai poder ser aberta no campo, não é aberta para editar, a não ser através dos pontos de entrada, quer dizer, tem que fazer umas telinhas para poder corrigir",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não, aqui a gente tem campos que podem ser editados aqui nessa base de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4992,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: teste que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: está bloqueada. [LOCAL], então",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: é isso que athiago ff: gente precisa saber. A numeração, por exemplo, é editável?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Isso. Deixa eu alterar um aqui para você ver. Por exemplo, pode ser utilizado para colocar um produto.[PESSOA]: Estou vendo aqui, eu consigo alterar, deixa eu ver aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4831,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: [LOCUTOR 3]: campos do cabeçalho, ele não está deixando eu alterar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4421,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Então, só através de uma tela, a gente construiu uma ferramenta para poder...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não, esse aqui não. É porque a base de teste aqui eles bloquearam para a gente não alterar, mesmo para não danificar a demonstração. É uma base de demonstração. Então,[PESSOA]: se eu ficar alterando muito, eu vou prejudicar os outros que fazem a apresentação aqui. Posso criar algum problema aqui na base e",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: acaba",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: prejudicando os colegas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que fazem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: a demonstração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Tá bom. [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Mas ele é aberto para edição, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4549,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Bom, mais alguma dúvida, pessoal? Posso voltar aqui, então, para a gente ver o restante dos vídeos?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: [PESSOA], desculpe o atraso aqui, mas talvez eu faça uma pergunta que alguém já fez, só para não perder a oportunidade. Em relação ao delay do cancelamento das notas, a gente já falou aqui?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Delay de cancelamento?[PESSOA]: Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: é porque nós estávamos enfrentando bastante problemas com...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [PESSOA], o seu áudio está com [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4519,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [PESSOA]?[PESSOA]: Está com dois áudios ligados aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4939,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Deixa eu ver. [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Fala.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Aqui para mim está normal.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: Para mim também está normal, hein?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 36]: então está",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Então, na nossa ferramenta, aqui a gente tem um problema atual, que é o seguinte. O portal do [LOCAL], no ambiente do [LOCAL], ele faz esse cancelamento contínuo. Aqui em [LOCAL], né? No [LOCAL], que é o nosso principal,[PESSOA]: nosso principal CNPJ. e tem que ter esse cancelamento contínuo. No portal nacional, que o [LOCAL] já está integrado, mas há um delay importante entre o cancelamento e o registro no portal nacional desse cancelamento. Então, a nota é cancelada hoje, já aparece no portal nacional daqui a alguns dias. E a ferramenta que a gente estava até agora utilizando, ele fazia uma consulta contra o cancelamento, acho que mensal, ou de 15 em 15 dias, porque ele falou que é um serviço diferente do serviço que traz as notas, é um serviço específico só para trazer as notas canceladas. E acabou que a gente estava com um delay muito grande entre o cancelamento e a comunicação desse cancelamento. Eu quero saber como é que é aí dentro, porque já que, nesse caso, a gente viu que a gente informação do [LOCAL] não nos traz informação em tempo rápido também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: É, eu não sei te dizer, desculpa, não vi seu nome aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3731,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: É, o [PESSOA], nosso gerente de controladoria.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [PESSOA], perdão, não tava com a telinha da reuni",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4735,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: aberta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tô com o monitor só. É, eu não sei dizer, tá, de quanto, de quanto em quanto tempo ele vai fazer essa consulta na [EMPRESA]. mas eu vou buscar essa informação e faço a devolutiva para vocês, no máximo até amanhã, sobre",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: A gente tem aqui, eu fui buscar o status de cancelado, né, da situação dessa nota,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: eu não sei quanto tempo demora para ele realmente identificar como cancelado, acho que é sua dúvida, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4465,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Isso, isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Eu vou verificar qual que é o tempo que ele gasta para a informação e trago para você, então. [EMPRESA], [LOCAL] ff: Eu não sei se eu estou apressando o processo, mas seria possível simular a geração de um documento de entrada final ou de uma plenota? Linkando com pedidos de compras, como é que funciona? Nessa base de demonstração eu não consigo fazer isso, porque daí seria uma [EMPRESA], né? Teria que fazer uma prova de conceito para vocês. E aí dentro do posto transmite a gente não tem esse tipo de ação.[PESSOA]: Porque a gente tem um processo aqui. Resumindo é o seguinte eu vou ter um prestador. E esse prestador pode ter. sem pedidos de compras. Aí,[PESSOA]: na nota fiscal, vem um item, um serviço.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: [PESSOA] ff: aí, o usuário que lança a nota hoje, o que ele faz? Utilizando a rotina padronada, [LOCAL] 103, ele vai lá importar item pedido de compra. Aí, a gente tem uma customizaçãozinha nesse momento aí, que ele permite que o usuário informe o período, por exemplo, o mês de competência. Aí o sistema já vai trazer, entre esses 100 pedidos, apenas os da competência tal quethiago ff: o usuário selecionou, parathiago ff: ficar mais fácil ele linkar com o item do XML, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [EMPRESA].[PESSOA]: Aí eu não sei se vai [PESSOA] ff: possível... [EMPRESA]? A gente vai cair aqui nessa mesma questão do ponto de entrada nessas rotinas, que a rotina do importador XML. Por que eu estou te falando isso? Porque aqui, tantos para vínculo com pedidos de compra. Pelo seguinte, quando eu faço aqui, por exemplo, uma alteração,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 61]: deixa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: eu te",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: mostrar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: é o [EMPRESA]: formato assim.[PESSOA]: Aí só complementando, inclusive lá no pedido de compra, Eu já vou ter o número de nota e série e data de emissão dela preenchido, já posso filtrar direto, entendeu? Ó, essa telinha é familiar pra você?[PESSOA]: É, a mesma lá do documento de entrada, né? Pedia de compra por item.[PESSOA]: Você vai pegar só seu ponto de entrada e trazer pra cá. É a mesma coisa. Você vai manter a mesma regra lá que vocês têm hoje.[PESSOA]: Mas por padrão... Ah, e tem uma outra coisa, tá, [EMPRESA]? Não sei se os prestadores de serviço aí geram o XML já com o número do pedido ou item vinculado à nota que ele emitiu. Porque aqui, quando já vem o XML, ele já traz preenchido para vocês aqui o número do pedido e o item.[PESSOA]: É, mas [PESSOA]: não sei se o fornecedor nosso manda essas informações. Você lembra,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [PESSOA], se",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: essas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: informações vêm preenchidas?[PESSOA]: [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA]. Se no documento de entrada lá no ADM, se essas informações vêm preenchidas. Eu acredito que alguns sim, mas alguns não. Nem todo mundo preenche. Acredito que é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: É quem eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: não é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: padrão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: O que ele está falando é do próprio fornecedor, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 14]: quem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: faz",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 14]: o pedido de compra é o pessoal do [EMPRESA] aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 30]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: o que é? Qual que é [PESSOA] ff: processo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: mandei um pedido de compra para o fornecedor. Então ele tem o meu pedido com o número lá, o número do pedido e os itens. o xml dele, quando ele for emitir a nota e me informar o meu número de pedido, ele já vai trazer aqui preenchido, porque já vai estar no xml isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: No",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: ADN",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 14]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: nunca vi",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: esse não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [LOCUTOR 26]: acho que nem todo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: mundo.[PESSOA]: Com essa rotina do monitor, a gente vai deixar de usar a rotina que eles usam hoje atualmente, a [LOCAL] 103?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5748,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não porque ali você pode usar para classificar uma pré-nota, ou para você alterar uma duplicata, ajustar um imposto, um frete, alguma coisa nesse sentido. Mas aqui é mais de um validador antes de eu mandar para lá, mas aqui eu já vou fazer algumas ações que vão facilitar a vida de quem está lá na frente. Por exemplo, aqui eu também consegui formar texto, está vendo? Eu já consigo ficar esse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: documento",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: aqui.[PESSOA]: Mas por exemplo, hoje a text pra eles é tudo automático, já vai ser autom",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4652,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA]: também?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Não, não.[PESSOA]: Eles não preenchem text hoje, já puxa do produto.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4465,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Ele já vai puxar aqui também,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: o produto ele tá [PESSOA]: ó. Ele já consegue trazer a text pra cá. Ele tem até aqui informações do que está [PESSOA]: calculado. [LOCAL] ff: no monitor ele sempre vai gerar pré-nota ou ele pode gerar um documento já classificado? Pode gerar um documento classificado, mas eu tenho que usar a tese inteligente para isso.[PESSOA]: Mas o que? Eu não entendi. Tem que usar a tese inteligente.[PESSOA]: [PESSOA]. Vocês usam hoje?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Não,[PESSOA]: tese inteligente não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Então, tem que passar a usar. Aí eu consigo gerar o documento já classificado lá. Aqui, ó, nessa opção de gerar documento,[PESSOA]: eu tenho três opções, tá?[PESSOA]: Gerar manual, que é o que eu mostrei para vocês. Eu vou clicar aqui.[PESSOA]: Vou vir na outras ações e vou gerar o documento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4703,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: segunda possibilidade. Quando ele ficar na legenda verde, eu já mando automaticamente lá para o documento de entrada e fica guardando a classificação da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: nota,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tá? Como se fosse uma pré-nota. E a terceira opção é usar o cadastro de inteligência inteligente e já mandar essa nota classificada para lá.[PESSOA]: [EMPRESA]. Outra pergunta. A gente pode gerar pré-nota daqui dos XMLs importados?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5636,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: [EMPRESA]: direto? E... Quando chegar lá na classificação fazer o vínculo dos pedidos de compra por lá ao invés de fazer por aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Sim, é possível, porque aqui eu não sou obrigado a informar o pedido de compras. Nesse momento aqui, eu não tenho essa obrigatoriedade, a não ser que... Sabe aquele parâmetro [EMPRESA], que eu obrigo o usuário a vincular o pedido de compra nosso? Tinha até aqui uma ocorrência dessa.[PESSOA]: É, hoje é obrigado a ter umthiago ff: pedido de compras. Quando eu tenho esse parâmetro habilitado, está vendo esse parâmetro aqui? Quando ele está habilitado, obrigatoriamente eu tenho que ter um pedido amarrado, então ele não vai deixar eu mandar isso aqui pra lá antes de eu fazer essa amarração. Por isso que tem aquela opção aqui que eu mostrei pra vocês do pedido item.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: você desabilitar isso ou criar, tem um parâmetro tambémthiago ff: que fala quais são [EMPRESA]: peças que não precisam ter essa amarração. Aí você pode mandar essa nota pra lá e vincular os pedidos lá.[PESSOA]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: alguma dúvida, pessoal? Eu vou seguir",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3701,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: aqui, então. Pode seguir, pode seguir.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Então, vamos lá. Então, aqui eu mostrei a funcionalidade para vocês, até a parte do manifesto, tá? Então, tem as manifestações. Basicamente, para os outros tipos de documentos eletrônicos, serve o mesmo conceito de informações aqui, das funcionalidades, filtros, etc. O diferencial aqui na nossa... O serviço é a integração do PDF. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: eu falei para vocês, eu posso receber um arquivo em PDF e o sistema vai convertê-lo em XML. Porém, eu tenho que validar essa conversão inicialmente, uma única vez. Validando isso, dando OK, as próximas notas que eu receberia PDF, ele vai converter já automaticamente. Se der algum problema na primeira conversão, vocês vão ter que estar em contato com o suporte para corrigir isso, para as próximas ele fazer a entrada corretamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Outro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: diferencial, Aqui no Conhecimento de Transporte Eletrônico, vocês têm também como fazer o envio de desacordos. Então, é a única diferença referente à funcionalidade desses tipos de documentos eletrônicos que estão sendo apresentados aqui para vocês.[PESSOA]: Como eu falei, tem também como verificar as notas cais emitidas, que ele vai buscar lá no CSS, e tem como fazer a manutenção destinatária e o monitoramento por aqui também. E aí vocês podem notar que todos os tipos de... documentos que eu acesso aqui, ele vai trazer para mim informações de integração com a R6. Outra funcionalidade que tem aqui, vocês podem emitir relatórios por tipo de documento eletrônico, então ele vai criar uma relação daquilo que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: emitido durante um período, por tipo de documento, por ambiente, vocês vão informar quais campos vocês querem ver. Então, assim, escolha aqui a data de emissão por período, se eu quero ver só documentos emitidos, quais são as informações da nota que eu quero filtrar aqui para gerar esse relatório.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Então, assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: eu quero ver uma relação de notas de período X a Y só que foram recebidas de um determinado fornecedor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: sistema",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5349,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: aqui vai gerar um relatório para vocês. Então, pode ser Notas Cláudicas do Serviço ou Conhecimento de Transporte. Tem a bilhetagem. O que é a bilhetagem? O Tóxico Transmit é cobrado por documento armazenado no [PESSOA]. E aqui vocês conseguem acompanhar qual está sendo esse consumo mensal de vocês. Quando você clica aqui em cima do gráfico, ele vai trazer por tipo de documento a quantidade que vocês estão utilizando. Porque daí vocês podem ajustar lá depois, no contrato, a quantidade de documentos que vocês vão armazenar nothiago ff: software. E também é possível exportar isso aqui para dentro do... Exportar para um Excel também, tá?[PESSOA]:",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aqui são as configurações de quais empresas e filiais vocês vão utilizar para fazer o monitoramento desses",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: documentos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: eletrônicos. Tá joia? Então, [PESSOA] ff: TotsCloud é isso. Eu já adiantei tudo que tinha lá do enforçador XML, então a gente fez uma mescla aí da apresentação já.[PESSOA]: Quando você fala TotsCloud, por exemplo, a gente contratando, ele vai concorrer com os recursos de cloud que a gente já está utilizando o nosso Proteus hoje ou não? Banco de dados, espaço de servidor, essas coisas? Não, o Transmit fica outra nuvem. É outra nuvem.[PESSOA]: [PESSOA]. Não é o mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tem mais alguma dúvida, pessoal, para a apresentação era isso, tá? Como éthiago ff: que a gente faz para assistir a [EMPRESA] para ver um fluxo completo até a geração da nota fiscal? Olha,[PESSOA]: [EMPRESA], sendo bem sincero com você, foque desse tipo de processamento não faz, mas eu posso verificar como é que faz, mas eu tenho quase certeza que vão me dar uma negativa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: disso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: ou pode ser que cobrem alguma coisa pra fazer a porte pra vocês. [PESSOA]. [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5107,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Vê o que é possível e a gente avalia quem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: É porque como a [LOCAL] tem muitas particularidades, muita coisa hoje que a gente precisa ver mesmo na prática se funciona, porque assim, não adianta a gente fechar um pacote se na prática não funcionar. Então a gente tem despesa administrativa, despesas sociais, despesas de saúde, que funciona de uma forma, o sistema hoje para despesa administrativa que não funciona para o ADM, a gente trabalha com sistemas diferentes, então não adianta a gente fechar um... contratar um programa, um sistema que depois a gente não vai ver que, na prática, não vai funcionar. Então, de fato, a gente precisa ver as funcionalidades e o que que é customizável, se precisa customização, quanto vai nos custar isso. De fato, a gente vai precisar disso.[PESSOA]: E...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Eu tenho na mente, tá, pessoal?[PESSOA]: Agora, o que athiago ff: gente faz, tá, em referência a isso? É um benchmark. Então, é ver clientes que tenham o mesmo perfil que vocês, levar vocês até esses clientes que já utilizam a solução e lá vocês verem o processo através deles.[PESSOA]: E é possívelthiago ff: liberar umthiago ff: período de teste ou não? Em ambiente de teste? Nós temos uma, como eu vou te falar, um ambiente, ele é um ambiente de demonstração, que a gente chama de Get Demo. E é uma demonstração guiada, onde você pode clicar, manipular ali as informações, tudo, mas não vai ser um ambiente livre para você mexer em qualquer coisa. [EMPRESA]: uma demonstração guiada, onde você vai ter acesso ali, poder clicar nos ícones, nos menus, nas funcionalidades.[PESSOA]: No caso do suporte ali, para a gente poder implementar ponto de entrada, se tiver dúvida, essas coisas, no próprio suporte, que a gente temthiago ff: hoje, o suportethiago ff: que a gente tem hoje. Isso, é o suporte que vocês já tem hoje.[PESSOA]: É porque faz parte do módulo de compras, né? A parte [PESSOA]: do...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Exatamente. [LOCAL] ff: o fluxo para [PESSOA] ff: XML chegarem no [EMPRESA] é o monitor que vai mandar uma solicitação aqui para o transmit ou o transmit que já vai ter uma funcionalidade para enviar para lá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: É um job que tá rodando do lado do Proteus, verificando se tem alguma novidade de API lá do lado do [PESSOA] ff: [PESSOA], entendi.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.563,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: diário?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tempo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: real?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: É, tempo real. O importador [PESSOA] é bem rápido ali a sincronização. [PESSOA] é de uma em uma hora e [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: estava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: de três vezes ao dia, a verificação das notasthiago ff: que foram emitidas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Então faz o seguinte, esse acesso ao ambiente de demonstração você consegue liberar?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [PESSOA], eu peço para o [PESSOA], vou explicar para ele como é que faz e peço para ele mandar para vocês, vocês vão receber um e-mail com aí nesse link vocês vão ter acesso a essa base.[PESSOA]: Eu posso clicar no meu [EMPRESA] de teste nesse aí que você vai liberar para gente? Não, ele é um ambiente isolado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.48,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Então a gente faz as duas coisas em paralelo, a gente vê a questão do acesso ao ambiente de demonstração, para a gente poder brincar aqui, poder avaliar uma coisa ou outra, mas a gente continua vendo a possibilidade de [EMPRESA] outhiago ff: ambiente de teste, uma coisa que eu entendi que não é possível, né? Seria avaliar a questão da [EMPRESA], se é possível ou não, para a gente poder fazer. [PESSOA], eu acho que será muito complicado, porque são questões muito específicas e outra... que precisa fazer uma utilização alta, inclusive do modo de saúde. Então, para a gente pensar aqui na lógica completa. Então, acho que seria um pouco mais complicado. Então, a questão da [EMPRESA], você identifica para a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: como é que é possível? Você consegue nos dar um prazo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Até amanhã eu vou falar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3928,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: o [PESSOA] e até amanhã a gente dá esse retorno.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4684,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: Não, beleza. Então,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: a gente vai seguir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: essa... Mas uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: coisa... [PESSOA], você disse que esse ambiente de demonstração, ele não é 100% igual ao sistema, mas também a gente consegue ter uma noção. Você diria que ele é quantos por cento do sistema real?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: pra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: gente ter uma noção. Ele é um espelho do Tóxico Transmite mesmo. É o que eu quis dizer assim. Vocês não vão conseguir... fazer captura do XML. O que eu mostrei para vocês aqui é o que vocês vão ter acesso lá no ambiente, mas clicando. Vocês vão poder clicar como se vocês estivessem fazendo uma demonstração. Aí vocês podem fazer filtros, podem fazer, baixar o XML na máquina de vocês, testar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Posso simular uma, inserir uma nota, importar um pedido?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.493,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Eu não cheguei nesse nível de detalhes nesse ambiente, tá, [PESSOA]? Sendo bem sincero. Mas eu posso verificar se consegue fazer ou não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.429,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: porque eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: também tenho acesso como vocês. Eles disponibilizaram acesso para mim, essa base de demonstração. Eu posso até testar, ver até comigo. consegue alterar lá.[PESSOA]: Tudo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 30]: bem, então.[PESSOA]: A gente não vai conseguir visualizar as nossas notas específicas nesse ambiente,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4335,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: né? Não, você vai ver as notas desse ambiente mesmo, que [PESSOA] ff: lá. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4697,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: bom.[PESSOA]: Então,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: a gente aguarda o link, [PESSOA], e você vai tentar a [EMPRESA] ou você vai passar o contato pra alguém pra gente tentar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Então, eu vou tentar ir falando com o [PESSOA] para ele ir atrás disso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4842,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 30]: precisar de mais alguma informação também, ele quiser entrar em contato conosco?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tá bom. Tá já, combinado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL] agradeço",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: então, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCUTOR 5]: já, muito obrigada. [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [PESSOA], [EMPRESA], obrigada, gente.[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5679,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: Obrigado, pessoal. Obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3582,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 30]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: [LOCAL].[PESSOA] de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

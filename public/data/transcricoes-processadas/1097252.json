@@ -1,0 +1,2071 @@
+{
+  "id_reuniao": "1097252",
+  "codt": "CXAICH",
+  "data_reuniao": "2026-02-19 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 7]: Boa tarde, [PESSOA]. Opa,\n[LOCUTOR 49]: boa tarde, tudo certo? E\n[LOCUTOR 7]: aí, tudo certo, cara, contigo?\n[LOCUTOR 49]: Tudo certo.\n[LOCUTOR 7]: O Zé Mario já tava conectando aí, ele só foi pegar uma \n[LOCUTOR 36]: aí,\n[LOCUTOR 7]: já volta conosco aqui.\n[LOCUTOR 49]: Tranquilo, tranquilo. Os\n[LOCUTOR 7]: IA's conectem também?\n[LOCUTOR 49]: Sim, os IA's já estão conectando.\n[LOCUTOR 7]: Os IA's é de qual área, [PESSOA]?\n[LOCUTOR 49]: Da [EMPRESA]. Da\n[LOCUTOR 7]: [EMPRESA], boa.\n[LOCUTOR 5]: Desculpa, tá? Boa tarde.\n[LOCUTOR 49]: Boa tarde, gente. Sem problemas.\n[LOCUTOR 7]: É, beleza.\n[LOCUTOR 5]: Vamos lá? Bora. Todo mundo aí.\n[LOCUTOR 49]: Boa\n[LOCUTOR 7]: tarde, [PESSOA]. Tudo bem?\n[LOCUTOR 52]: Boa tarde. Tudo certo?\n[LOCUTOR 7]: Todo mundo na paz, cara. Podemos estartar aí, [PESSOA]?\n[LOCUTOR 49]: [LOCAL].\n[LOCUTOR 7]: [LOCAL], [PESSOA] só dando um contexto rápido aí, [PESSOA] e eu já estamos conversando há um bom tempo aí, [PESSOA], o [PESSOA] ele é o controller da [LOCAL] e o [PESSOA] ele é [EMPRESA]. [PESSOA] a gente\n[LOCUTOR 5]: já está conversando\n[LOCUTOR 7]: há um tempo aí, agora a gente retomou o assunto aí, o objetivo de hoje é a gente apresentar aí as funcionalidades, apresentar a ferramenta do [LOCAL]. [PESSOA], fica a vontade aí pra perguntar, pegar mais informações. Deixa eu só fazer uma última pergunta, [PESSOA], o tempo que eu coloquei ele é o suficiente? Como é que tá o tempo de vocês?\n[LOCUTOR 49]: Quanto tempo tu deixou ali mesmo?\n[LOCUTOR 7]: Cara, eu coloquei até cinco e meia ali, mas a gente termina antes.\n[LOCUTOR 49]: Bom, o ideal seria pelo menos uma hora. Quer dizer, no máximo uma hora, porque eu teria algumas outras demandas pra fazer.\n[LOCUTOR 7]: [PESSOA], perfeito. Vamos tentar correr com isso, tá? Talvez falte algumas informações e a gente retome em um outro momento, porque uma hora ele é pouco tempo mesmo para falar de tudo. Mas, [PESSOA], faça a tua mágica aí em uma hora.\n[LOCUTOR 5]: A gente consegue.\n[LOCUTOR 49]: [PESSOA],\n[LOCUTOR 5]: pessoal, como o [PESSOA] falou, tá? Eu sou da parte de engenharia de valor da\n[LOCUTOR 49]: [LOCAL]. Ficam\n[LOCUTOR 5]: lotados em [LOCAL], certo? Mas a [LOCAL] tem várias filiais espalhadas pelo [LOCAL]. tá? [PESSOA], eu tô nessa área há três anos, mas no [LOCAL] eu tenho 12 e antes eu era consultor de implantação, [PESSOA] era da parte de implantação, do back office, do [EMPRESA], manufatura, contábil fiscal, controladoria. [PESSOA], a gente tem uma... dá pra gente ter uma conversa, eu pegar o entendimento de vocês pra gente mandar montar realmente um escopo ideal pra vocês. O Léo já foi conversado, você já passou, [PESSOA], pro... com o [PESSOA], eu só queria para reforçar, entender também um pouco mais e tentar trazer valor para vocês. Tá, deixa eu olhar?\n[LOCUTOR 49]: [LOCAL], tu quer que eu diga quais, digamos, modos eu vou precisar aqui na nossa aplicação? [PESSOA],\n[LOCUTOR 5]: é, ele, o [PESSOA] já passou um brief, né, dos modos essenciais, né, que a gente chama de\n[LOCUTOR 49]: quarteto,\n[LOCUTOR 5]: de compra, de estoque, financeiro, faturamento,\n[LOCUTOR 49]: tá?\n[LOCUTOR 5]: Eu vi que vocês são uma empresa que é uma revenda de materiais de solda, né?\n[LOCUTOR 49]: Isso. Insumos de solda, ferramentas, EPIs, toda série.\n[LOCUTOR 5]: É, eu tô vendo aqui, bica, toda essa parte, né?\n[LOCUTOR 49]: Tinha\n[LOCUTOR 5]: visto.\n[LOCUTOR 49]: [PESSOA],\n[LOCUTOR 5]: hoje vocês... É uma foto aqui da... Vocês têm um balcão de vendas, tudinho, né?\n[LOCUTOR 49]: A gente tem um balcão de vendas, mas não é necessário um PDV porque a gente emite uma nota fiscal normal para o cliente mesmo.\n[LOCUTOR 5]: Você não emite nenhum tipo de cupom?\n[LOCUTOR 49]: Não, não tem cupom. \n[LOCUTOR 1]: hoje, dentro da tua loja, Eu vi que tem um balcão, né? Não deu pra ver internamente. Tem o estoque, ele é todo, tem endereçamento, tem com todo endereçamento, não tem, as prateleiras são numeradas, você assim...\n[LOCUTOR 49]: Não,\n[LOCUTOR 5]: esse\n[LOCUTOR 49]: é um processo que não existe aqui na empresa, tá? É algo\n[LOCUTOR 5]: que a\n[LOCUTOR 49]: gente quer implantar mais pra frente.\n[LOCUTOR 5]: [PESSOA].\n[LOCUTOR 39]: [EMPRESA].\n[LOCUTOR 5]: E hoje, quando a pessoa emite a nota e chega lá para fazer a emissão da nota, ele compra no boleto, como é que é feito?\n[LOCUTOR 49]: O cliente, tanto depósito, tanto boleto, tanto PIX, tanto dinheiro à vista. Aí\n[LOCUTOR 5]: você vende também no cartão ou no POS separado, essa integração, não é isso?\n[LOCUTOR 49]: Não existe essa integração do cartão com o sistema.\n[LOCUTOR 5]: [PESSOA]. Isso aí você quer fazer mais pra frente?\n[LOCUTOR 49]: Sim. Primeiro eu quero um projeto barato.\n[LOCUTOR 5]: [PESSOA]. Ótimo. [LOCAL]. A questão do boleto. Qual o banco que vocês tomaram?\n[LOCUTOR 49]: [EMPRESA].\n[LOCUTOR 5]: [PESSOA].\n[LOCUTOR 49]: Só ele? Somente o [EMPRESA] pra geração de boleto.\n[LOCUTOR 5]: [LOCAL]. A questão dos vendedores. o balcão que você tem aí. Eles têm comissão? Como é feito o comissionamento?\n[LOCUTOR 49]: O comissionamento é feito a partir de uma alíquota fixa sobre o faturamento líquido. Ou seja, é o que ele faturou menos o que ele devolveu. É uma alíquota de 2,5% sobre o faturamento líquido.\n[LOCUTOR 5]: Sobre o faturamento ou sobre o recebimento?\n[LOCUTOR 49]: É sobre o\n[LOCUTOR 5]: faturamento. O cara\n[LOCUTOR 49]: vendeu hoje e vai receber no quinto dia útil do mês que vem.\n[LOCUTOR 5]: independente se o cliente pagar ou não, no caso o boleto, não é isso?\n[LOCUTOR 49]: [PESSOA], mas eu vou abrir bem o jogo assim contigo, questão de comissionamento, o que meu RH faz aqui, tá? Ah, é gerado um relatório, só preciso disso para a parte do comissionamento, tá? Eu\n[LOCUTOR 5]: preciso\n[LOCUTOR 49]: de um relatório que diga o seguinte, vendedor tal, data de emissão do período tal, o número da nota, o número do pedido, o nome do cliente, o valor da nota e o valor da comissão daquele... É um extrato, digamos, de tudo o que o cara fez no mês. [PESSOA], é um relatório que elas tiram todo o primeiro dia útil para enviar para o nosso IRH terceirizado. [PESSOA], eles vão falar... Aí tem a listagem de todos os... de todos os salários dos vendedores, junto com a comissão já, e ela só lança manualmente na movimentação financeira, que seria uma tela para geração de títulos. [PESSOA] não é um processo que vai depender, ah, eu preciso de um módulo de comissão. Não é necessário, a gente não tem esse processo\n[LOCUTOR 5]: aqui. Não, a gente não tem um módulo de comissão, é só o controle mesmo para gerar ou apagar para vocês só.\n[LOCUTOR 49]: É que elas geram, como é que eu posso falar pra ti? Elas geram o salário dos vendedores já com a comissão junto, né? [PESSOA],\n[LOCUTOR 5]: seria\n[LOCUTOR 49]: mais pra uma questão de provisionamento também, entendo.\n[LOCUTOR 5]: \n[LOCUTOR 9]: é uma pr\n[LOCUTOR 40]: que... É pra ela\n[LOCUTOR 5]: passar pro RH o relatório de comissão pro vendedor. Tá ficando mais fatado hoje. É,\n[LOCUTOR 49]: se for um relatório que vai sendo gerado ali, ok, ótimo. Dessa forma...\n[LOCUTOR 5]: Se\n[LOCUTOR 49]: ela abrir uma tela ali, gerou, não precisa pedir para o pessoal da [EMPRESA], ótimo, vai ser incrível.\n[LOCUTOR 5]: É. E a gente tem como fazer isso aí, tá? Aí tem a parametração que eu falei a você. Eu posso gerar a comissão na emissão, na venda, né? Ou na liquidação,\n[LOCUTOR 49]: tá?\n[LOCUTOR 5]: Mas como\n[LOCUTOR 49]: você já\n[LOCUTOR 5]: falou,\n[LOCUTOR 49]: é direto na\n[LOCUTOR 5]: emissão. É\n[LOCUTOR 49]: direto na emissão, né? Independente se o cliente pagou ou não.\n[LOCUTOR 5]: [LOCAL]. Quantos vendedores são, mais ou menos? Pode ser um chute?\n[LOCUTOR 49]: São cerca de 25 vendedores.\n[LOCUTOR 5]: 25, né? Tudo ele interno, não é isso?\n[LOCUTOR 49]: Sim, tudo interno. Nada externo. E tudo na mesma filial.\n[LOCUTOR 5]: A questão dos itens de você revender. Tem muita categoria de produto, grupo? \n[LOCUTOR 19]: questão... A questão de categoria vai ter bastante, tá? Eu não sei como a gente poderia dividir, né, da [LOCAL], mas aqui no Sankia eles chamam de grupo de produtos, né?\n[LOCUTOR 5]: \n[LOCUTOR 44]: gente também tem o mesmo conceito, tem o tipo de produto e o grupo de produto.\n[LOCUTOR 49]: É, sim, cada [EMPRESA] vai chamar de uma forma a\n[LOCUTOR 5]: mesma coisa,\n[LOCUTOR 49]: digamos. Vai ser de 50 a 100 categorias, digamos, grupo de produtos. Eu não sei como que é feita. Às vezes pode ser uma botina, um grupo pai, digamos. Só que grupo filho é uma botina...\n[LOCUTOR 5]: Não, não, não. É\n[LOCUTOR 49]: só uma questão\n[LOCUTOR 5]: de volume mesmo, tá?\n[LOCUTOR 49]: É cerca de 100.\n[LOCUTOR 5]: Hoje você tem um controle do inventário dele. Está bem estruturada a questão do... Opa,\n[LOCUTOR 49]: poderia repetir?\n[LOCUTOR 5]: A questão do inventário, os saldos dele estão bem atualizados. os saldos dos produtos no inventário, está tudo bem? \n[LOCUTOR 32]: tem alguma\n[LOCUTOR 5]: dificuldade, alguma coisa hoje?\n[LOCUTOR 49]: Atualmente, os saldos, eles são meio atualizados, tá? Porém, a gente tem uma certa ruptura de estoque. Posso dizer que sim, tem itens que têm ruptura de estoque.\n[LOCUTOR 5]: [PESSOA]. [LOCAL]. A questão de compras, do setor de compras desse pessoal, Se tem um setor, é dividido, um cara só compra tudo, se tem pessoas, um compra ferramenta, outro compra IPI, outro compra outro tipo de material.\n[LOCUTOR 49]: Sim, são duas pessoas no ponto, elas compram, digamos, não tem essa separação, compram independentemente.\n[LOCUTOR 5]: E fazem cotação de preço? Existe uma tabela de preço que o [LOCAL] manda para vocês, seguem pedindo e a\n[LOCUTOR 49]: conta está\n[LOCUTOR 5]: na tabela?\n[LOCUTOR 49]: Depende. Eu posso falar o seguinte, o cara pediu um item específico, daí eu vou lá e corto. No caso, o comprador vai lá e cota com vários fornecedores. Entretanto, ele já consegue ver, pelo histórico do produto, o melhor preço, digamos. E ele já sabe qual fornecedor escolher para aquele item.\n[LOCUTOR 5]: [PESSOA], sem problema. Só uma questão de desenho de escuta. A pessoa pergunta se\n[LOCUTOR 49]: você\n[LOCUTOR 5]: vai usar a cotação de compra, que a gente tem uma cotação, via Workflow, para mandar...\n[LOCUTOR 49]: O\n[LOCUTOR 5]: fornecedor responde e já traz atualmente o preço, faz a análise de cotação, tá?\n[LOCUTOR 49]: Você\n[LOCUTOR 5]: também usa aí o conceito de ponto de pedido, ressuprimento também?\n[LOCUTOR 49]: Pode repetir?\n[LOCUTOR 5]: O ressuprimento, ponto de pedido, né? O produto vai chegar em ponto de pedido, pedido mínimo, né? O estoque mínimo.\n[LOCUTOR 49]: Ah, entendi, entendi. Sim, a gente tem estoque mínimo A gente trabalha com o estoque mínimo. Com o estoque máximo, a gente não quer essa informação. [LOCAL]. \n[LOCUTOR 2]: questão do endereçamento, hoje vocês têm aí, né? Não.\n[LOCUTOR 49]: Endereçamento de produtos?\n[LOCUTOR 5]: É.\n[LOCUTOR 49]: Não,\n[LOCUTOR 5]: endereçamento de produtos. Produtos de carro A, B, C, D, pateleira tal.\n[LOCUTOR 49]: Não, não, a gente não tem. Teria que ser... Teria que... É uma prática que tem que implementar depois.\n[LOCUTOR 5]: [PESSOA]. É... Existe ou vocês têm aí, quando,\n[LOCUTOR 49]: na\n[LOCUTOR 5]: sua empresa, um setor de recebimento e expedição, que faz a conferência, se há uma conferência cega, se não há.\n[LOCUTOR 49]: Atualmente\n[LOCUTOR 5]: não.\n[LOCUTOR 49]: Você\n[LOCUTOR 5]: gera o pedido, você gera uma separação para depois emitir a nota, ou vice-versa.\n[LOCUTOR 49]: Emite a\n[LOCUTOR 5]: nota e depois separa o pedido.\n[LOCUTOR 49]: Na [EMPRESA] vai ser crucial ter, porque é um processo que a gente está implementando agora. A gente\n[LOCUTOR 5]: come\n[LOCUTOR 12]: no início do ano ali, no final de dezembro, na verdade. Daí o cara conferir no recebimento e conferir também na hora da venda. Tanto na hora que entra e tanto na hora que sai o item. Porém, a separação via código de base já é um processo que a gente não saberia como implementar aqui dentro da empresa, porque a Sankia,\n[LOCUTOR 5]: a gente\n[LOCUTOR 49]: teria que comprar algo a mais da Sankia para eles disponibilizarem isso. [PESSOA] não foi algo que a gente implementou junto com eles durante o período de [PESSOA]. [PESSOA], terem que contratar um módulo à parte. [PESSOA], realmente, seria interessante ter\n[LOCUTOR 5]: a\n[LOCUTOR 49]: conferência tanto do recebimento e tanto da venda e entender como funcionaria essa separação usando o sistema. Você\n[LOCUTOR 5]: emite nota de serviço ou\n[LOCUTOR 49]: só\n[LOCUTOR 5]: de mercadoria?\n[LOCUTOR 49]: A questão de nota fiscal de serviço, a gente emite, mas é uma vez ao ano. É de vez em quando, quando surge a necessidade mesmo. Por exemplo, em 2022 a gente emitiu, em 2023 a gente emitiu, em 2024 não, em 2025 não. [PESSOA] é\n[LOCUTOR 5]: bem\n[LOCUTOR 49]: importante ter, pelo menos, caso a gente vá necessitar. O nosso foco mesmo é\n[LOCUTOR 5]: a nota fiscal. [LOCAL] mesmo?\n[LOCUTOR 49]: Sim, [LOCAL]. A emissão da nota fiscal eletrônica é o nosso foco mesmo, o que a gente mais emite.\n[LOCUTOR 5]: É tranquilo.\n[LOCUTOR 49]: E, de vez em quando, a gente tem, a cada dois meses ou três meses, depende do que o gestor precisa, tem nota fiscal de importação, aquela nota de nacionalização.\n[LOCUTOR 5]: mas se faz importação direta\n[LOCUTOR 49]: ou\n[LOCUTOR 5]: você só emite a nota, o pessoal da trade gera e você já pega a nota de remessa de entrada de importação direta? O\n[LOCUTOR 49]: processo que a gente faz é o despachante, ele gera a nota de espelho, gera a [LOCAL] e a gente pega a nota de espelho e nacionaliza ela. A gente gera uma nota de nacionalização. Em\n[LOCUTOR 5]: nome da... Em nome do fabricante da importação ou em nome da empresa despachante?\n[LOCUTOR 49]: [LOCAL]. Não\n[LOCUTOR 5]: é em nome do fornecedor estrangeiro, não é isso?\n[LOCUTOR 49]: Olha, na verdade eu estive em esses dois casos. Eu estive\n[LOCUTOR 5]: tanto\n[LOCUTOR 49]: no nome do [LOCAL], tanto no nome do fornecedor.\n[LOCUTOR 5]: [PESSOA]. Esse aqui eu vou falar com o [PESSOA]. Esse aqui é um\n[LOCUTOR 49]: ponto\n[LOCUTOR 5]: de atenção, tá? Importação, faturamento, a gente já viu, financeiros reunidíssimos, bancos. Isso é importante, a questão da comissão. A questão de implementar, a questão da separação, a gente tem também uma solução que é o coletor. [PESSOA]?\n[LOCUTOR 49]: Sim.\n[LOCUTOR 5]: É, assim, eu não vejo muita...\n[LOCUTOR 49]: É\n[LOCUTOR 5]: só essa questão da nota de importação. Tá? [PESSOA],\n[LOCUTOR 49]: se for\n[LOCUTOR 5]: adiantar a você, assim, a gente tem como lhe atender.\n[LOCUTOR 49]: Aí\n[LOCUTOR 5]: o [PESSOA]\n[LOCUTOR 49]: vai\n[LOCUTOR 5]: tratar essa questão do\n[LOCUTOR 49]: investimento,\n[LOCUTOR 5]: né? [PESSOA], só pra deixar pra você claro, tá? Vou mostrar um pouco do...\n[LOCUTOR 49]: Você\n[LOCUTOR 5]: nunca viu o sistema, não, né?\n[LOCUTOR 49]: Eu vi ele em 2023, quando a gente estava entre a Sankia e a Totes. Lá... Foi em 2023, lá em... acho que é agosto de 2023.\n[LOCUTOR 5]: \n[LOCUTOR 9]: tá bem diferente a aula. Eu acredito que deve ter mudado bastante coisa. É, ele agora é 100% na nuvem, né? Você vai ter ele na nuvem, né? [PESSOA] você não vai estar preocupando em estar\n[LOCUTOR 49]: correndo\n[LOCUTOR 5]: atrás de entrar no servidor\n[LOCUTOR 49]: um prazer.\n[LOCUTOR 5]: Vê a atualização. Ele já tem 100 prazer. de atualizações, que já diz a você que já tem uma...\n[LOCUTOR 49]: Ah, e qual nuvem que vocês estão utilizando?\n[LOCUTOR 5]: [EMPRESA]?\n[LOCUTOR 49]: Qual nuvem que vocês estão utilizando?\n[LOCUTOR 5]: A nuvem da [LOCAL] mesmo.\n[LOCUTOR 49]: Ah, a [LOCAL] tem uma própria nuvem. Tem uma datacenter, [PESSOA]?\n[LOCUTOR 5]: Isso, temos\n[LOCUTOR 49]: três\n[LOCUTOR 5]: datacenters.\n[LOCUTOR 49]: Três datacenters? Ah, interessante. Deve ficar um em [LOCAL], ali...\n[LOCUTOR 5]: Tem um em [LOCAL], um em [LOCAL] e um em [LOCAL].\n[LOCUTOR 49]: É, o de [LOCAL] fica próximo aqui do [LOCAL],\n[LOCUTOR 5]: né? Possivelmente\n[LOCUTOR 49]: vai ser esse.\n[LOCUTOR 5]: [PESSOA] aqui, ó, você entra no... É um www, tá? Tá? Isso aqui é um cliente... A [EMPRESA] tem a opção de você ter um cliente interno dentro, tá? [PESSOA] você aqui digita o usuário e senha. [PESSOA], aqui eu tenho o protetor das boas-vindas. [PESSOA], a gente tem a questão de todos os módulos, dos 98 módulos que a gente tem no sistema. A gente está oferecendo a você o que a gente chama de quarteto, que é o compra, estoque, faturamento financeiro. Esses dois aqui, dois, quatro, cinco e seis. [PESSOA]? Lógico, para frente, você pode estender o módulo fiscal, o módulo contabilidade. o controle de loja, que é o nosso PDV, nosso controle de loja, calceta, o ponto, manutenção, [PESSOA] tem várias situações que a gente pode oferecer para vocês. [PESSOA] aqui a gente tem um módulo de compras, eu vou Onde dentro do módulo de compras temos toda a parte de cadastro de produto, de fornecedor, de clientes. O produtor trabalha no financeiro com a classificação da sua receita e as suas despesas, com a natureza. Uma natureza financeira é como se fosse uma DRE financeira, porque como você não tem o módulo da contabilidade, você não tem como gerar uma DRE, porque a DRE É um conceito contábil. [PESSOA], normalmente, quando a gente trata, a gente trata com natureza financeira. Onde era, eu classifico as minhas receitas e as minhas despesas. limpeza. [PESSOA], a receita, venda com mercadoria aqui, mercado externo, venda de mercadoria, se for uma indústria, venda de produção, uma venda de mercadoria de terceiros, [PESSOA], remessa de bonificação. [PESSOA], cada movimentação interna do financeiro do proteus tem que ter uma natureza para ele classificar. [PESSOA], eu tenho várias situações, culpa de material diversos, culpa de sumo para produção, material de limpeza, mas mais eu não entendo porque tem que ter uma natureza, porque quando você for gerar um fluxo de caixa, certo? No fluxo de caixa, a gente tem toda essa questão, tudo que envolve compra de materiais, de materiais de revenda. [PESSOA], vocês vão saber lá, ó, forneceu tal, comprou tal mercadoria, esse material. [PESSOA], você classifica mesmo. [PESSOA], eu tenho serviços, eu tenho... Folha. [PESSOA], vou gerar o valor que eu tenho a folha apagada dos funcionários. Eu coloco lá. Folha, [PESSOA], serviço de retenção. [PESSOA], aqui, quando você gera... Despesa com EPI, custos judiciais, despesa com correio, está vendo? Consórcios de pagamentos, combustíveis. [PESSOA], tudo que é nota, tudo que é título de combustível vai estar agrupado nessa natureza para você ir em relatório e você puxar. O que é que eu estou gastando? o combustível e o lubrificante. Você vai lá e vai mostrar todos os tipos. Eu quero quebrar para o fornecedor. [PESSOA], no relatório, você vai lá, tudo de combustíveis e para o fornecedor. Quanto eu paguei no mês? [PESSOA], você faz um filtro e vai mostrar lá. Você gastou, pagou tanto para tal fornecedor. [PESSOA], você tem um histórico de analisar tudo isso quebrado e classificado pela natureza de receita ou de despesa. Tanto para compras também. [PESSOA], dentro do compras, a gente tem questão de solicitações de compras, sugestões de compras, solicitações por ponto de pedido, que a gente chama de estoque mínimo, é pelo ponto de pedido. E a gente tem dele um portal de gestão de compras, onde eu recebo as minhas solicitações e gero as minhas cotações. Como assim, [PESSOA], gerar minhas solicitações? Quando você gera um pedido, ele vai gerar uma solicitação de compra ou um pedido de compra. Quando você gera a solicitação de compra, você agrupa essas solicitações de compra e faz a cotação. Quando é um fornecedor específico, você pode gerar um pedido de compra direto para ele, envia se for uma compra direta. [PESSOA], dentro do portal, Além de eu gerenciar minhas cotações de compras, eu consigo ver o histórico dos meus produtos, em que parte está, em que... é fase tá esses esses produtos deixa ele dar uma carregada o computador voltou do carnaval hoje aí tá meio lento acontece deixa eu ver se eu faço um negócio melhor peraí rapidinho ele fica mais dinâmico. Eu vou usar a minha base local, né? Eu vou usar\n[LOCUTOR 49]: a\n[LOCUTOR 5]: base da [EMPRESA].\n[LOCUTOR 49]: Não,\n[LOCUTOR 5]: não, é outra coisa.\n[LOCUTOR 49]: Outra coisa? Por que\n[LOCUTOR 39]: eu\n[LOCUTOR 5]: tenho uma base instalada no meu notebook. Às vezes ele tem um... Vou usar a base da [EMPRESA]. A base de demonstração. Porque como é uma base que todo mundo usa, entendeu? Aí fica... eu não gosto de contar nisso. Eu estou entrando em uma base que é da [EMPRESA] mesmo, entendeu? [PESSOA] aqui ó e eu venho aqui ó e eu tenho aqui ó o fluxo que eu falei [PESSOA], aqui eu tenho toda a parte de analisar a necessidade de compra que é em cima de uma solicitação, certo? [PESSOA]? O bloco, post-it. Aqui eu faço toda a cotação de compra. [PESSOA], aqui eu tenho as cotações que são mandadas, certo? E o tempo? o histórico de compra, como você falou, tá? [PESSOA], todos os produtos e grupos, eu posso olhar cada produto individualmente, tá vendo aqui, ó? Ele vai dar as solicitações dele, a quantidade de entrada prevista que já está em processo de compra, geração do pedido, o último preço que ele comprou, a maior quantidade que ele teve, o estoque que ele tem, certo? A data da última compra e o último valor. Posso analisar todas as cotações que envolve esse produto, que envolveu esse produto aqui na tela. Houve esses. O comprador, quem foi o comprador e o que comprou o número da cotação. A data da cotação e tudo mais. Consigo olhar os pedidos de compra que eu tenho aberto dele. Os que já foram entregues. Todos os que já foram entregues dele. [PESSOA], você consegue ter dentro desse aqui uma visão como está o processo. E aqui a mesma coisa, o fornecedor. [PESSOA], aqui o fornecedor, o maior atraso dele de entrega. Se eu tenho um módulo de controle de qualidade, que é a inspeção do fornecedor, vai dizer a nota dele, a primeira vez que eu cumpri a ele. E aqui vocês estão vendo que já tem, é diferente da análise. Quais são os produtos que eu mais compro desse fornecedor? [PESSOA], eu vejo aqui os produtos fornecidos, tá vendo? [PESSOA], tem todos os produtos que ele fornece, tá vendo? Toda essa parte, tá? Quais são os pedidos que estão sempre em atraso? É a mesma coisa. São os pedidos que estão atrasados. Quais são os pedidos que estão em aberto, certo? E se teve alguma devolução dele, eu vou tratar como é que foi a devolução, quais são os produtos que eu estou devolvendo muito. [PESSOA] acontece muito quando vocês vão devolver para algum sinistro, alguma coisa, você também consegue controlar essa parte. [PESSOA] eu tenho essa questão do nosso módulo de compras. Essa informação. A gente tem também dentro de cada módulo um mini dashboard [PESSOA]? Dos produtos, deixa eu achar aqui. [PESSOA] a gente tem vários dashboards, vários modos, de estoque custo, venda, faturamento, financeiro, compra, tá? São de compras. A gente tem O lead time, ele diz assim, tu tem um lead time, tu solicitar a compra e gerar o pedido, ele vai dizer a você quais são os lead times, quais são os produtos e os pedidos que estão. O lead time dos pedidos versus a nota fiscal, que está em atraso. Os pedidos de compra para o fornecedor, [PESSOA] ele vai dizendo a você aqui, vai gerando em drill down o detalhe de cada pedido, [PESSOA] de gráficos, [PESSOA] você consegue também ter, além daquela plataforma, o que tem. as devoluções das vendas. [PESSOA], cada cliente que devolve a você, você vai ter o controle dele dentro do sistema, como tal nível de devolução por mês, [PESSOA], em valor. Ter todo o controle de gráfico e de pedido de atraso. [PESSOA], são alguns dashboards nativos do sistema que conseguem gerar para vocês. Vou deixar isso aqui aberto, que eu tenho de vários modos. E isso aqui é um dos dashboards de compra, certo? Eu tenho... O modo de estoque e custo. Toda a parte de controle dos saldos dos produtos, se for um saldo por endereço, consigo ter também, tá? Toda a questão de cadastros, certo? Eu tenho... Todo controle de movimentação, de transferência, de gerar o inventário, de liberar a qualidade do produto, se o produto vai fazer uma análise, se ele vai estar de acordo com o que eu posso, tanto na entrada quanto na saída, fazer algum tipo de validação antes de gerar a entrada ou a saída desse produto. Todo controle de armazém de consumo, o que eu posso fazer. a questão do endereçamento, fazer transferência de armazém. E para auxiliar isso, a gente tem... Deixa eu achar ele aqui. [PESSOA], tem aqui o que a gente chama de meu coletor, tá vendo? Onde eu posso fazer a conferência das minhas notas de entrada, certo? Posso ver o detalhe, ó. Investidor de processo, aí eu vou selecionar o documento, e vou iniciar a conferência. [PESSOA] ele vai aqui, ó, vai fazer toda a coleta. Se eu clicar aqui, ele pode ler a etiqueta, quer dizer, você pode gerar a etiqueta com o código do produto. [PESSOA] a gente chama de etiqueta séria. Você bota lá, cria as etiquetas. Ele vai ler essa etiqueta. Se tiver um lote, você coloca. Se não, é só a quantidade colocar. Tanto na conferência de entrada, como na separação. O que seria na separação? Eu tenho aqui uma separação, aqui está de ordem de produção, porque essa base atende também a indústria, mas uma separação de pedido também. [PESSOA] você gera o pedido, ele vai gerar toda a separação. [LOCAL] também o inventário. [PESSOA], consigo fazer todo o processo de inventário e detalhar o produto. Eu posso selecionar o inventário que eu quero fazer e vou iniciar a contagem. [PESSOA], você vai para o armazém de estoque de recebimento. Chego lá e vou colocar o produto tal, a mesma coisa. Acho o produto, coloco a quantidade e ele vai. finalizar o item. [PESSOA], inventário concluído e vai fazendo outros produtos, tá? Botão de endereçamento. [PESSOA], vai chegar a nota fiscal lá de uma mercadoria e eu vou endereçar para o produto. Eu vou chegar aqui, ó, esse produto acessório, eu vou endereçar ao endereço. [PESSOA], eu vou botar aqui a quantidade, ó. O endereço, eu posso também colocar a etiqueta com o código do endereço, para ele já bipar aquela quantidade e cadastrar, certo? Eu consigo fazer isso aqui também, tá? Ah, mas eu quero fazer uma transferência de mercadoria, do produto. Também a mesma coisa. Seleciona aqui os tópicos que você quer, o almoxerifado que você quer, vai ler o produto lá, você coloca a quantidade, aí pode colocar o endereço, tá? e ele vai gerar transferência lá para o armazém também. [PESSOA], isso aqui é um app, eu consigo fazer toda essa parte de movimentação do estoque, tudo na palma da mão. Ah, Mario, eu queria também ver o saldo do produto aqui, eu consigo? Não. Como isso é um aplicativo de conferências e transferências, para não houver nenhuma alteração de dados e colocar a quantidade que você quer colocar para saber se vai ter ou não isso aqui o coletor não é usado para isso aí uma telazinha mesmo que você vai ter dentro do sistema um relatório né e com realidade de saldo né [PESSOA] aqui ó eu consigo ver o saldo atual de cada produto. Consigo ver cada saldo de cada produto, o custo unitário. Consigo ver saldo por endereço dos produtos, que a gente chama de rachabilidade, e tem o dashboard de estoque também. [PESSOA], a quantidade de valor em estoque. Também eu tenho índice de endereçar, igual ao do coletor, certa quantidade que tem para endereçar. Se eu trabalhar com um produto específico que tem controle de loads, eu também consigo controlar esse controle dentro do sistema. A evolução do valor de estoque por informação. Dentro, normalmente o pessoal bota aqui, eu consigo ver, os pedidos que estão com bloqueio de estoque, certo? Os pedidos que estão aptos a faturar com já o estoque liberado. [PESSOA], você consegue gerar para a liberação do pessoal fazer o faturamento em cima das informações que você tem na tela também. [PESSOA], a parte de estoque custo é bem tranquila. Na parte do financeiro, A gente tem toda a parte de controlar, de apagar e de receber, certo? A gente tem um gestor financeiro. [PESSOA], eu tenho aqui toda essa parte do gestor financeiro, eu tenho os indicadores financeiros, a central de títulos que você pode mandar para o banco, comunicação bancária, fluxo de caixa e dashboard. [PESSOA], aquele mesmo dashboard financeiro está aqui aberto, não é só um facilitador, mas você tem os indicadores financeiros. [PESSOA], sua gestão vai trabalhar com o quê? Olha o saldo bancário da conta, os títulos a pagar que estão vencidos, os boletos que estão pendentes de registro, os maiores clientes com top vencido, indicador de peça, os títulos da [EMPRESA] vencidos por tempo de atraso, [PESSOA] tem dois títulos, [PESSOA] o tempo o valor dos títulos pendentes [PESSOA] você consegue ter toda essa parte de gestão certo e a central de títulos ó e ele mostra aqui como tá os títulos tá baixado tá atrasado [PESSOA] você pode fazer filtros aqui busca as avançadas fazer filtros né o valor né com o número do título, pela parcela, eu quero todos os títulos com o número tal, pela natureza, pelo cliente, pelo nome do cliente. [PESSOA], você consegue gerar esses filtros em telas para ter toda a visão. Você pode olhar tanto em gráficos, ter uma visão em gráficos. Entradas a receber, você tem no período dos próximos sete dias, de sete a trinta dias, você já tem aqui o Agir em Tela, os seus títulos a receber. e seus dígitos apagar. É muito interessante essa questão dos indicadores. Consigo analisar meu fluxo de caixa. Consigo olhar aqui como está meu fluxo de caixa inicial, final, se tiver em aplicação. Consegue fazer várias simulações. ou de uma consolidade de várias filiais de um período curto. A questão do dashboard financeiro. Aí eu tenho tudo que é o movimento de natureza financeira realizada e prevista. Meu fluxo de caixa realizado aqui em gráficos. [PESSOA] eu consigo ver se já está aprovisionado ou não. É tudo no detalhe. eu consigo gerar várias informações, certo? [PESSOA], assim, o sistema tem muita questão intuitiva de gráficos, como você bem falou. Mudou muito no Proteus. [PESSOA], a gente tem essas rotinas, porque no financeiro, pagar, receber, a gente tem todas as partes de que nave. Uma coisa legal que a gente tem no modo de faturamento, É todo o conceito de tabela de preço, regra de negociação. A gente consegue gerar o pedido de venda, consegue analisar o crédito do cliente, emite a nota fiscal, tanto de você faz quanto a questão da nota fiscal de saída. [PESSOA], consegue ter essas informações. Uma coisa que é legal aqui, que a gente gosta de falar, é que você pode fazer os... os pedidos em cima, certo? De um app, que é o portal do gestor de vendas. Onde você tem aqui na parte da [LOCAL], o seu vendedor, certo? Pode andar pela loja com o tablet e ele mesmo fazer o pedido. Pode gerar um orçamento e mandar para ele ou pode gerar um pedido dentro do sistema. Ele vai aqui ó, vai colocar o novo pedido, pode cadastrar na hora os dados iniciais do cliente, ele vai fazer aqui toda, colocar toda a informação que ele quer, vai colocar aqui o item do pedido, certo? Vai buscar aqui ó. Aqui Colocar só o inicial vai aparecer, coloca a quantidade. Ele já vai dar informação para ele, se quer dar um desconto ou não, certo? Você pode ver a foto do produto, pode consultar o estoque dele, saber se tem realmente estoque. [PESSOA] o cliente quando chegar na loja com o tablet na mão, você já consegue ele olhar toda a situação. Colocar aqui, ele tem aqui o saldo atual. Na hora ele já gera o pedido e já pode depois o pessoal do faturamento só emitir a nota. Ele vê as comissões dele, isso aqui é o usuário dele, como está já a comissão dele. Toda essa parte aqui dos títulos dele. Ele já vai ver se a meta dele já está... O que ele já vendeu, o que ele mais vendeu, como está o faturamento dele nos últimos dias, quanto ele chegou da meta dele, aqui. e quais são os clientes que ele atende, que ele atendeu. [PESSOA], esse portalzinho aqui é muito interessante também, para ele ter uma noção, os itens, o que está a faturar, o que está pendente. [PESSOA], você fica andando com o tablet, aqui é uma visão desse aplicativo dentro de um computador, você pode usar também dentro do computador ou no celular também. [PESSOA], ele tem aqui, O mesmo portal que está aqui, eu estou abrindo aqui no celular. Se você achar melhor não usar o tablet, você tem o celular. Ele está carregando e trabalha também offline. aqui é a mesma tela tá vendo ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó A mesma coisa, tá vendo? Ele já me abre aqui informações. [PESSOA], eu consigo fazer toda aquela... Na palma da mão, você consegue ver todas essas informações e gerar o pedido e acompanhar o faturamento. Aqui ele está liberado, está aí aberto, está vendo? Os status, e quando ele tem, quando já foi faturado, já sabe qual é a nota fiscal, quando foi faturado, e tal, foi faturado, tal, a sua nota já foi faturada. E ele consegue analisar toda essa parte. Tranquilo? Acho que faltou 10 minutos aqui. Alguma dúvida?\n[LOCUTOR 49]: Não, eu aqui não... Consegue me dar uns 2 minutinhos? Peraí,\n[LOCUTOR 5]: já\n[LOCUTOR 49]: estou...\n[LOCUTOR 7]: Se puder entrar depois pra dar uma olhadinha e mostrar os insights lá do Proteus.\n[LOCUTOR 52]: [LOCAL].\n[LOCUTOR 49]: Pessoal, vou ter que me ausentar rapidinho aqui. Surgiu uma demanda muito específica. Muita gente aqui.\n[LOCUTOR 5]: [LOCAL].\n[LOCUTOR 7]: Retornamos em um outro momento? [LOCAL],\n[LOCUTOR 49]: mas eu verifiquei ali do sistema, tá? Mas eu queria ver, em questão de preço e tal, prazo de implantação também. O sistema atende?\n[LOCUTOR 7]: Não, perfeito. [PESSOA] te aciona aí pra gente marcar um novo momento aí pra fazer uma troca, beleza?\n[LOCUTOR 49]: [PESSOA] [PESSOA], pessoal. Até mais. Tchau, tchau.\n[LOCUTOR 7]: [LOCAL],\n[LOCUTOR 5]: Domingos. Obrigado.\n[LOCUTOR 7]: [PESSOA], aproveitando ali, cara, tem um... O que é que tu anotou?\n[LOCUTOR 52]: Pois é,\n[LOCUTOR 7]: [LOCAL].\n[LOCUTOR 52]: Pode falar, tô ouvindo.\n[LOCUTOR 7]: Ah, deixa eu perguntar, cara. O truque saiu e a gente nem comentou. Quer seguir aqui? O que tu pretende fazer? \n[LOCUTOR 22]: seguir aí, se vocês quiserem, se precisar mais mostrar.\n[LOCUTOR 7]: Tem alguma dúvida em específico, que tu é da área de [EMPRESA], alguma coisa que a gente possa abordar mais centralizado, alguma expectativa tua?\n[LOCUTOR 52]: Eu queria saber sobre personalização de campo, na questão de, ah, no piso de venda ou alguma coisa assim de consulta de estoque, eu queria ver outros campos que não estão configurados ali, teria como configurar?\n[LOCUTOR 5]: Boa pergunta, [PESSOA]. Tem sim, tá? A gente consegue colocar campos customizados, posso criar um campo específico que ele só visualiza, não seja direto do banco de dados, seja só um campo específico para algum atributo que ele sai numa pesquisa. O Proteus é totalmente personalizado, entendeu? Nessa parte de criar campo, botar campo como obrigatório. [PESSOA], assim, ele é bem tranquilo nisso aí. [PESSOA], o que a gente mostrou ali é como... A gente vai atender, só que a gente tem algumas particularidades que você, que a maioria dos outros CRPs não tem. Essa flexibilidade de criar campos obrigatórios que só pode seguir depois que der esse check. Em qualquer parte de tela do produto a gente consegue fazer isso.\n[LOCUTOR 52]: Sim, entendi. Aquele aplicativo à parte para as vendas, para os vendedores usarem, ele já está incluso no plano? Ele é à parte, o valor dele?\n[LOCUTOR 5]: O valor dele é a parte, mas ele como é um plano para 10 usuários, ele fica, não sei o valor exato, mas pode falar. Mas é um valor, por licença, não dá nem, é bem baratinho, aí depois ele pode passar\n[LOCUTOR 7]: para você. Isso já está, [PESSOA], no que eu falei com o [PESSOA] em relação ao valor, já tem o portal de vendas ali, [PESSOA].\n[LOCUTOR 5]: Tem, né?\n[LOCUTOR 7]: Tem, tem sim.\n[LOCUTOR 52]: Para\n[LOCUTOR 7]: os 25 usuários dele.\n[LOCUTOR 52]: Ah, 25, tá certo. Eu acho que no geral era isso mesmo, só ver o... A parte de importação de XML, vocês teriam?\n[LOCUTOR 5]: Tem também.\n[LOCUTOR 52]: Tem\n[LOCUTOR 5]: também. A gente tem o [LOCAL].\n[LOCUTOR 7]: que\n[LOCUTOR 5]: ele pega todo o monitoramento, certo? Das notas fiscais, tá vendo? Eu tenho as notas fiscais que são emitidas contra vocês, tá? Tanto a nota de mercadoria quanto a nota de serviço também,\n[LOCUTOR 7]: tá?\n[LOCUTOR 5]: Você consegue ter todo o monitoramento e ele automaticamente já vai para dentro do sistema, gerando lá a nota para ser classificada no compra. [PESSOA], toda essa parte a gente tem também. Tá vendo minha tela, né?\n[LOCUTOR 52]: Sim, sim,\n[LOCUTOR 7]: estou\n[LOCUTOR 52]: vendo.\n[LOCUTOR 5]: [PESSOA], toda essa parte ele gera, faz a baixa do XML, ele entra... Quando eu dou a ciência da mão de fechação, ele vem aqui, a gente tem um monitor O monitor está vendo? O importador XML. Ele vem para cá e faz toda a tratativa. Aqui tem a legenda. O documento já foi gerado para o proteu para se dar a entrada da nota. O produto ainda está aqui. A nota ainda está aí, normal, para fazer toda a análise. O documento está pendente de revisão cadastral. Está vendo aqui? Que é essa. O que seria revisão cadastral? [PESSOA], não foi feito a parte de quê? Do cadastro. Ou o produto não está cadastrado, ou o fornecedor não está cadastrado. Está vendo aqui? Esse produto [LOCAL], marau, marau. O cliente não está cadastrado no Proteus. Porque ele tem que fazer um vínculo de produto do meu fornecedor com o que eu tenho no Proteus. Aí eu tenho como fazer essa amarração. Está vendo aqui? Amarração no produto, está vendo? Ou eu posso cadastrar o produto, ele não está cadastrado. Existe a amarração do produto e o produto não está cadastrado. A mesma coisa o fornecedor não pode não estar cadastrado. [PESSOA], aqui no produto eu venho e posso cadastrar. Esse produto depois já vincular esse fornecedor específico. Tá? Consigo fazer tudo dentro de uma tela só. Tá joia? [PESSOA], assim, a questão do compra tem também essa questão do...\n[LOCUTOR 52]: Na\n[LOCUTOR 5]: parte do fornecedor, né? De importação do XML.\n[LOCUTOR 52]: Sim, sim. De vincular o produto ali e poder cadastrar.\n[LOCUTOR 5]: Sim, isso.\n[LOCUTOR 39]: Isso\n[LOCUTOR 5]: aí. Tem como fazer isso aí, tá? Tem mais alguma dúvida?\n[LOCUTOR 52]: Em questão de relatórios personalizados, seria como construir ali? Acho que sim, né?\n[LOCUTOR 5]: A gente tem uma ferramenta que a gente chama de Smart View. Só que os relatórios são padrões. Para você usar a ferramenta, também tem um custo adicional de uma licença, específica, né? E a questão do treinamento para mexer no relatório, tá? Ele entra aqui, ó. Lembra\n[LOCUTOR 7]: a quantidade de relatórios padrões já que tem? São centenas, né, [PESSOA]?\n[LOCUTOR 5]: Eu tenho tanto relatório específico como tabela dinâmica e visão de dados. E aqui eu tenho vários modelos. Aqui tem vários relatórios específicos dentro do sistema, entre outros. Esse aqui tem um filtro no meu interno. Como você pode pegar um relatório desse e realizar uma cópia e peço analisar. Ah, quero colocar um campo a mais, quero colocar alguma informação. [PESSOA], esses aqui são os relatórios gráficos, certo? O que seria gráfico?\n[LOCUTOR 7]: Seria de\n[LOCUTOR 5]: modelo gráfico de impressão e molde de PDF. [PESSOA], aqui eu tenho esse relatório, eu tenho as tabelas dinâmicas. Também tenho outros. razão, posição, movimentação de bem. Tem as visões de dados também, que aí são os relatórios mais usados. Relação de baixas, sauda depreciar, contratos, multas, balancete. [PESSOA], tem muito relatório. [PESSOA], como falei, posso gerar, importar já\n[LOCUTOR 7]: feito ou\n[LOCUTOR 5]: personalizar um específico\n[LOCUTOR 7]: para\n[LOCUTOR 5]: você. [PESSOA]? [PESSOA], como é que funciona? Mais ou menos, só para você entender. [PESSOA], eu tenho aqui, vamos pegar isso aqui.\n[LOCUTOR 7]: Ó,\n[LOCUTOR 5]: esse aqui é um exemplo, tá de urbanatório, tá? [PESSOA], está vendo aqui que ele gerou uma tabela dinâmica? Isso é isso. [PESSOA], deixa eu chegar aqui, eu quero analisar aqui, ele está quebrado por filial, está vendo? Eu selecionei várias filiais, está vendo? [PESSOA]? Deixa eu chegar aqui e dizer que eu quero platar tudo que é nota, eu quero quebrar por condição de pagamento, todas as notas de entrada por condição de pagamento, está vendo? [PESSOA], ele já me quebrou por condição de pagamento. Posso voltar, ó. Não, eu quero por fornecedor. Pela razão social, pelo nome. [PESSOA], tá aqui, ó. Ah, mas eu não quero pelo nome, eu quero pela data de entrada. Que é a data de digitação, tá vendo aqui? [PESSOA], eu chego aqui, ó. Bota aqui na frente. [PESSOA], tudo nessa data aqui, pra onde a gente entrou, certo? Ah, eu quero fazer um filtro. Eu não quero, quero só de 2026. [PESSOA], tudo de 2026 está aqui, está vendo? Exporte, tal, tal, tal. E vou fazendo todas as partes de análise. Ah, eu quero jogar isso num relatório. Eu venho aqui, ele já exporta para Excel no formato que está filtrado na tabela dinâmica. ó, você pode ver aqui ó, ele já tá naquela mesma filtragem que eu fiz também não. Ah, mas eu não gostei da filtragem não, eu não quero que vá sem a filtragem. Não tem problema nenhum, aquilo ali é uma consulta de tela. Posso chegar aqui ó, e voltar, tirar as datas de digitação, deixar só a filial, certo? Exportar novamente. Tá vendo aqui? E aqui você pode fazer o filtro aqui normal, tá vendo? Ele só não vai estar no modelo da tabela dinâmica. E você pode filtrar aqui, como aquele outro que eu fiz, ó. Só o de 2026. Só o da filial 1, ó. E aqui, ó. Todo o filtro na tabela que você pode trabalhar. [PESSOA] é uma coisa bem legal que você pode fazer. [LOCAL]?\n[LOCUTOR 52]: certo? É isso aí [PESSOA] mesmo. Acho que pode incluir essa parte de relatório na proposta que a gente vai precisar nessa personalização.\n[LOCUTOR 5]: [LOCAL]. [LOCAL] [PESSOA]? [PESSOA]? Estou\n[LOCUTOR 7]: aqui, estava desligado meu microfone. Entendido, Pois aí, tem um ponto também, não sei se o [PESSOA] comentou ou não, quando ele abre a tela ali, tu vê que tem muitas funcionalidades, né? Que o [PESSOA], ele tá usando uma base de demonstração, [PESSOA] tem todos os modos contemplados ali. Pra quem olha inicialmente a carinha do Proteus, quando apresenta, parece poluído. Mas assim, cada usuário vai ter ali os acessos pertinentes aos seus módulos. Por exemplo, compras, vai acessar só compras e assim sucessivamente, né? Vai ficar bem mais clean a visibilidade dele, né?\n[LOCUTOR 52]: Para entender, sim. Porque a primeira vista a gente fica meio perdido, né? \n[LOCUTOR 3]: muita coisa, né?\n[LOCUTOR 52]: Não,\n[LOCUTOR 7]: mas fica tranquilo que isso é adaptável para cada usuário, né?\n[LOCUTOR 52]: Cada\n[LOCUTOR 5]: usuário tem o seu perfil, o seu direito, o que acessar, o que não acessar.\n[LOCUTOR 52]: Ah, [PESSOA] fica melhor mesmo para...\n[LOCUTOR 7]: Porque assim, exemplos, né? Se o compra só acessa compras, ele não precisa ter outros módulos ativos para ele, entendeu?\n[LOCUTOR 52]: Sim, sim. Não, faz muito sentido, a gente configura só o que o usuário precisa mesmo e ele acessa\n[LOCUTOR 7]: através. Exatamente. E essa base que o [PESSOA] tá abrindo aqui, ela tá completa, né? A base que todo mundo utiliza no [LOCAL]\n[LOCUTOR 5]: todo.\n[LOCUTOR 7]: Mais algum ponto, [PESSOA]? Queres aproveitar aí o momento do [PESSOA]?\n[LOCUTOR 52]: O que eu me lembro era isso mesmo, só da personalização o campo, o relatório, e o resto a gente já viu que funciona bem ali, tem o que a gente precisa.\n[LOCUTOR 7]: Pois é, me tira uma dúvida, [PESSOA], que hoje a Sankia tem integração com alguma outra solução de vocês ou não?\n[LOCUTOR 52]: [LOCUTOR 4]: não têm o e-commerce, né? Eu lembro que o [PESSOA] comentou algo sobre vocês terem o e-commerce aí, mas está em roadmap essa operação ainda, né? Sim,\n[LOCUTOR 7]: a gente est\n[LOCUTOR 21]: planejando fazer um e-commerce não está pronto ainda, não tem nada pronto. E a gente precisava da integração com o sistema,\n[LOCUTOR 7]: para\n[LOCUTOR 52]: poder viabilizar essa operação do e-commerce. E a gente não\n[LOCUTOR 7]: tem tempo\n[LOCUTOR 52]: de mão de sangue.\n[LOCUTOR 7]: [LOCUTOR 6]: a gente não tem. [PESSOA], beleza. Até dar uma segurada nesse ponto aí, porque assim, dando certo aqui, a gente trocando o ERP, não faz sentido tu fazer isso agora simultaneamente. Primeiro, corrigir o coração da operação, que é o ERP, aí depois ver como a gente tem solução para isso para vocês.\n[LOCUTOR 52]: Sim,\n[LOCUTOR 7]: sim.\n[LOCUTOR 52]: Mas vocês teriam integração pronta com alguma plataforma, marketplace, alguma coisa?\n[LOCUTOR 7]: Sim, sim. Além de ter também o próprio e-commerce para vocês.\n[LOCUTOR 52]: Ah, já tem a própria plataforma de e-commerce já.\n[LOCUTOR 7]: Exatamente.\n[LOCUTOR 52]: [PESSOA] seria bom depois dar uma olhada nisso.\n[LOCUTOR 7]: [LOCAL], com certeza. Como não é prioridade, claro que o meu objetivo como vendedor é iniciar uma parceria com vocês E depois disso, eu quero apresentar tudo que faz sentido dentro do nosso portfólio. A gente tem uma série de coisas para apresentar. Agora, eu vou apresentar aquilo que tem que fazer sentido para vocês, né?\n[LOCUTOR 52]: Sim,\n[LOCUTOR 7]: sim.\n[LOCUTOR 52]: A gente precisa mesmo do R&P mesmo, por enquanto.\n[LOCUTOR 7]: Sim, mas é importante saber que a gente pode atender outras linhas também.\n[LOCUTOR 52]: [PESSOA], não? A gente pode fazer uma contação depois sobre reformas, integração, essa parte aí.\n[LOCUTOR 7]: Não, e se financeiramente o nosso e-commerce não fizer sentido, vocês querem outro, tranquilo, a gente é muito flexível também para integrações. Tá certo,\n[LOCUTOR 52]: vamos considerar a proposta, [PESSOA].\n[LOCUTOR 39]: Mais\n[LOCUTOR 7]: algum ponto, [PESSOA], você retornou aí? Mais algum ponto que iria visitar, [PESSOA]?\n[LOCUTOR 49]: Em relação à usabilidade do sistema, tem tudo que a Saudação precisa.\n[LOCUTOR 7]: Preciso\n[LOCUTOR 49]: mesmo agora, o que é interesse ali do gestor é ver quanto tempo levaria, caso fechasse com vocês, quanto sai a implantação daquele modelo que tu me disse,\n[LOCUTOR 7]: aquele\n[LOCUTOR 49]: modelo que é menos custoso, e quanto eu pagaria de mensalidade, principalmente, durante o projeto e depois do [PESSOA].\n[LOCUTOR 7]: [LOCAL]. Deixa comigo, vou só alinhar os detalhes aqui com o [PESSOA] e já marco contigo para apresentar isso para você. Tá,\n[LOCUTOR 52]: tá certo. Ele teve que sair de novo, tadinho.\n[LOCUTOR 7]: Percebi. Tranquilizar isso. Vamos falando [PESSOA], tá? \n[LOCUTOR 18]: certo.\n[LOCUTOR 7]: Tu fica\n[LOCUTOR 52]: ali na\n[LOCUTOR 7]: mesma unidade que o [PESSOA], né? Ou tu é terceiro?\n[LOCUTOR 52]: Não, eu fico na mesma unidade.\n[LOCUTOR 7]: Ah, show de bola. [PESSOA] tá, quando for aí a gente se conhece [PESSOA].\n[LOCUTOR 52]: [LOCAL]. [LOCAL]\n[LOCUTOR 7]: meu amigo, obrigado.\n[LOCUTOR 52]: [PESSOA],\n[LOCUTOR 7]: bom\n[LOCUTOR 52]: trabalho pra vocês aí.\n[LOCUTOR 7]: [LOCAL], tchau tchau.",
+  "texto_filtrado": "[LOCUTOR 7]: O Zé Mario já tava conectando aí, ele só foi pegar uma\n[LOCUTOR 7]: já volta conosco aqui.\n[LOCUTOR 49]: Tranquilo, tranquilo. Os\n[LOCUTOR 7]: IA's conectem também?\n[LOCUTOR 7]: Os IA's é de qual área, [PESSOA]?\n[LOCUTOR 49]: Da [EMPRESA]. Da\n[LOCUTOR 7]: [EMPRESA], boa.\n[LOCUTOR 49]: Boa tarde, gente. Sem problemas.\n[LOCUTOR 5]: Vamos lá? Bora. Todo mundo aí.\n[LOCUTOR 7]: Todo mundo na paz, cara. Podemos estartar aí, [PESSOA]?\n[LOCUTOR 49]: [LOCAL].\n[LOCUTOR 7]: [LOCAL], [PESSOA] só dando um contexto rápido aí, [PESSOA] e eu já estamos conversando há um bom tempo aí, [PESSOA], o [PESSOA] ele é o controller da [LOCAL] e o [PESSOA] ele é [EMPRESA]. [PESSOA] a gente\n[LOCUTOR 7]: há um tempo aí, agora a gente retomou o assunto aí, o objetivo de hoje é a gente apresentar aí as funcionalidades, apresentar a ferramenta do [LOCAL]. [PESSOA], fica a vontade aí pra perguntar, pegar mais informações. Deixa eu só fazer uma última pergunta, [PESSOA], o tempo que eu coloquei ele é o suficiente? Como é que tá o tempo de vocês?\n[LOCUTOR 49]: Quanto tempo tu deixou ali mesmo?\n[LOCUTOR 7]: Cara, eu coloquei até cinco e meia ali, mas a gente termina antes.\n[LOCUTOR 49]: Bom, o ideal seria pelo menos uma hora. Quer dizer, no máximo uma hora, porque eu teria algumas outras demandas pra fazer.\n[LOCUTOR 7]: [PESSOA], perfeito. Vamos tentar correr com isso, tá? Talvez falte algumas informações e a gente retome em um outro momento, porque uma hora ele é pouco tempo mesmo para falar de tudo. Mas, [PESSOA], faça a tua mágica aí em uma hora.\n[LOCUTOR 5]: A gente consegue.\n[LOCUTOR 49]: [PESSOA],\n[LOCUTOR 5]: pessoal, como o [PESSOA] falou, tá? Eu sou da parte de engenharia de valor da\n[LOCUTOR 49]: [LOCAL]. Ficam\n[LOCUTOR 5]: lotados em [LOCAL], certo? Mas a [LOCAL] tem várias filiais espalhadas pelo [LOCAL]. tá? [PESSOA], eu tô nessa área há três anos, mas no [LOCAL] eu tenho 12 e antes eu era consultor de implantação, [PESSOA] era da parte de implantação, do back office, do [EMPRESA], manufatura, contábil fiscal, controladoria. [PESSOA], a gente tem uma... dá pra gente ter uma conversa, eu pegar o entendimento de vocês pra gente mandar montar realmente um escopo ideal pra vocês. O Léo já foi conversado, você já passou, [PESSOA], pro... com o [PESSOA], eu só queria para reforçar, entender também um pouco mais e tentar trazer valor para vocês. Tá, deixa eu olhar?\n[LOCUTOR 49]: [LOCAL], tu quer que eu diga quais, digamos, modos eu vou precisar aqui na nossa aplicação? [PESSOA],\n[LOCUTOR 5]: é, ele, o [PESSOA] já passou um brief, né, dos modos essenciais, né, que a gente chama de\n[LOCUTOR 49]: quarteto,\n[LOCUTOR 5]: de compra, de estoque, financeiro, faturamento,\n[LOCUTOR 5]: Eu vi que vocês são uma empresa que é uma revenda de materiais de solda, né?\n[LOCUTOR 49]: Isso. Insumos de solda, ferramentas, EPIs, toda série.\n[LOCUTOR 5]: É, eu tô vendo aqui, bica, toda essa parte, né?\n[LOCUTOR 49]: Tinha\n[LOCUTOR 5]: visto.\n[LOCUTOR 49]: [PESSOA],\n[LOCUTOR 5]: hoje vocês... É uma foto aqui da... Vocês têm um balcão de vendas, tudinho, né?\n[LOCUTOR 49]: A gente tem um balcão de vendas, mas não é necessário um PDV porque a gente emite uma nota fiscal normal para o cliente mesmo.\n[LOCUTOR 5]: Você não emite nenhum tipo de cupom?\n[LOCUTOR 1]: hoje, dentro da tua loja, Eu vi que tem um balcão, né? Não deu pra ver internamente. Tem o estoque, ele é todo, tem endereçamento, tem com todo endereçamento, não tem, as prateleiras são numeradas, você assim...\n[LOCUTOR 5]: esse\n[LOCUTOR 49]: é um processo que não existe aqui na empresa, tá? É algo\n[LOCUTOR 5]: que a\n[LOCUTOR 49]: gente quer implantar mais pra frente.\n[LOCUTOR 5]: [PESSOA].\n[LOCUTOR 39]: [EMPRESA].\n[LOCUTOR 5]: E hoje, quando a pessoa emite a nota e chega lá para fazer a emissão da nota, ele compra no boleto, como é que é feito?\n[LOCUTOR 49]: O cliente, tanto depósito, tanto boleto, tanto PIX, tanto dinheiro à vista. Aí\n[LOCUTOR 5]: você vende também no cartão ou no POS separado, essa integração, não é isso?\n[LOCUTOR 49]: Não existe essa integração do cartão com o sistema.\n[LOCUTOR 5]: [PESSOA]. Isso aí você quer fazer mais pra frente?\n[LOCUTOR 5]: [PESSOA]. Ótimo. [LOCAL]. A questão do boleto. Qual o banco que vocês tomaram?\n[LOCUTOR 49]: [EMPRESA].\n[LOCUTOR 5]: [PESSOA].\n[LOCUTOR 49]: Só ele? Somente o [EMPRESA] pra geração de boleto.\n[LOCUTOR 5]: [LOCAL]. A questão dos vendedores. o balcão que você tem aí. Eles têm comissão? Como é feito o comissionamento?\n[LOCUTOR 49]: O comissionamento é feito a partir de uma alíquota fixa sobre o faturamento líquido. Ou seja, é o que ele faturou menos o que ele devolveu. É uma alíquota de 2,5% sobre o faturamento líquido.\n[LOCUTOR 5]: Sobre o faturamento ou sobre o recebimento?\n[LOCUTOR 49]: É sobre o\n[LOCUTOR 5]: faturamento. O cara\n[LOCUTOR 49]: vendeu hoje e vai receber no quinto dia útil do mês que vem.\n[LOCUTOR 5]: independente se o cliente pagar ou não, no caso o boleto, não é isso?\n[LOCUTOR 49]: [PESSOA], mas eu vou abrir bem o jogo assim contigo, questão de comissionamento, o que meu RH faz aqui, tá? Ah, é gerado um relatório, só preciso disso para a parte do comissionamento, tá? Eu\n[LOCUTOR 5]: preciso\n[LOCUTOR 49]: de um relatório que diga o seguinte, vendedor tal, data de emissão do período tal, o número da nota, o número do pedido, o nome do cliente, o valor da nota e o valor da comissão daquele... É um extrato, digamos, de tudo o que o cara fez no mês. [PESSOA], é um relatório que elas tiram todo o primeiro dia útil para enviar para o nosso IRH terceirizado. [PESSOA], eles vão falar... Aí tem a listagem de todos os... de todos os salários dos vendedores, junto com a comissão já, e ela só lança manualmente na movimentação financeira, que seria uma tela para geração de títulos. [PESSOA] não é um processo que vai depender, ah, eu preciso de um módulo de comissão. Não é necessário, a gente não tem esse processo\n[LOCUTOR 5]: aqui. Não, a gente não tem um módulo de comissão, é só o controle mesmo para gerar ou apagar para vocês só.\n[LOCUTOR 49]: É que elas geram, como é que eu posso falar pra ti? Elas geram o salário dos vendedores já com a comissão junto, né? [PESSOA],\n[LOCUTOR 5]: seria\n[LOCUTOR 49]: mais pra uma questão de provisionamento também, entendo.\n[LOCUTOR 9]: é uma pr\n[LOCUTOR 40]: que... É pra ela\n[LOCUTOR 5]: passar pro RH o relatório de comissão pro vendedor. Tá ficando mais fatado hoje. É,\n[LOCUTOR 49]: se for um relatório que vai sendo gerado ali, ok, ótimo. Dessa forma...\n[LOCUTOR 49]: ela abrir uma tela ali, gerou, não precisa pedir para o pessoal da [EMPRESA], ótimo, vai ser incrível.\n[LOCUTOR 5]: É. E a gente tem como fazer isso aí, tá? Aí tem a parametração que eu falei a você. Eu posso gerar a comissão na emissão, na venda, né? Ou na liquidação,\n[LOCUTOR 49]: você já\n[LOCUTOR 5]: falou,\n[LOCUTOR 49]: é direto na\n[LOCUTOR 5]: emissão. É\n[LOCUTOR 49]: direto na emissão, né? Independente se o cliente pagou ou não.\n[LOCUTOR 5]: [LOCAL]. Quantos vendedores são, mais ou menos? Pode ser um chute?\n[LOCUTOR 49]: São cerca de 25 vendedores.\n[LOCUTOR 5]: A questão dos itens de você revender. Tem muita categoria de produto, grupo?\n[LOCUTOR 19]: questão... A questão de categoria vai ter bastante, tá? Eu não sei como a gente poderia dividir, né, da [LOCAL], mas aqui no Sankia eles chamam de grupo de produtos, né?\n[LOCUTOR 44]: gente também tem o mesmo conceito, tem o tipo de produto e o grupo de produto.\n[LOCUTOR 49]: É, sim, cada [EMPRESA] vai chamar de uma forma a\n[LOCUTOR 5]: mesma coisa,\n[LOCUTOR 49]: digamos. Vai ser de 50 a 100 categorias, digamos, grupo de produtos. Eu não sei como que é feita. Às vezes pode ser uma botina, um grupo pai, digamos. Só que grupo filho é uma botina...\n[LOCUTOR 49]: só uma questão\n[LOCUTOR 5]: de volume mesmo, tá?\n[LOCUTOR 49]: É cerca de 100.\n[LOCUTOR 5]: Hoje você tem um controle do inventário dele. Está bem estruturada a questão do... Opa,\n[LOCUTOR 49]: poderia repetir?\n[LOCUTOR 5]: A questão do inventário, os saldos dele estão bem atualizados. os saldos dos produtos no inventário, está tudo bem?\n[LOCUTOR 32]: tem alguma\n[LOCUTOR 5]: dificuldade, alguma coisa hoje?\n[LOCUTOR 49]: Atualmente, os saldos, eles são meio atualizados, tá? Porém, a gente tem uma certa ruptura de estoque. Posso dizer que sim, tem itens que têm ruptura de estoque.\n[LOCUTOR 5]: [PESSOA]. [LOCAL]. A questão de compras, do setor de compras desse pessoal, Se tem um setor, é dividido, um cara só compra tudo, se tem pessoas, um compra ferramenta, outro compra IPI, outro compra outro tipo de material.\n[LOCUTOR 49]: Sim, são duas pessoas no ponto, elas compram, digamos, não tem essa separação, compram independentemente.\n[LOCUTOR 5]: E fazem cotação de preço? Existe uma tabela de preço que o [LOCAL] manda para vocês, seguem pedindo e a\n[LOCUTOR 5]: na tabela?\n[LOCUTOR 49]: Depende. Eu posso falar o seguinte, o cara pediu um item específico, daí eu vou lá e corto. No caso, o comprador vai lá e cota com vários fornecedores. Entretanto, ele já consegue ver, pelo histórico do produto, o melhor preço, digamos. E ele já sabe qual fornecedor escolher para aquele item.\n[LOCUTOR 5]: [PESSOA], sem problema. Só uma questão de desenho de escuta. A pessoa pergunta se\n[LOCUTOR 49]: você\n[LOCUTOR 5]: vai usar a cotação de compra, que a gente tem uma cotação, via Workflow, para mandar...\n[LOCUTOR 5]: fornecedor responde e já traz atualmente o preço, faz a análise de cotação, tá?\n[LOCUTOR 49]: Você\n[LOCUTOR 5]: também usa aí o conceito de ponto de pedido, ressuprimento também?\n[LOCUTOR 49]: Pode repetir?\n[LOCUTOR 5]: O ressuprimento, ponto de pedido, né? O produto vai chegar em ponto de pedido, pedido mínimo, né? O estoque mínimo.\n[LOCUTOR 49]: Ah, entendi, entendi. Sim, a gente tem estoque mínimo A gente trabalha com o estoque mínimo. Com o estoque máximo, a gente não quer essa informação. [LOCAL].\n[LOCUTOR 49]: Endereçamento de produtos?\n[LOCUTOR 5]: endereçamento de produtos. Produtos de carro A, B, C, D, pateleira tal.\n[LOCUTOR 5]: [PESSOA]. É... Existe ou vocês têm aí, quando,\n[LOCUTOR 5]: sua empresa, um setor de recebimento e expedição, que faz a conferência, se há uma conferência cega, se não há.\n[LOCUTOR 49]: Atualmente\n[LOCUTOR 49]: Você\n[LOCUTOR 5]: gera o pedido, você gera uma separação para depois emitir a nota, ou vice-versa.\n[LOCUTOR 49]: Emite a\n[LOCUTOR 5]: nota e depois separa o pedido.\n[LOCUTOR 49]: Na [EMPRESA] vai ser crucial ter, porque é um processo que a gente está implementando agora. A gente\n[LOCUTOR 5]: come\n[LOCUTOR 12]: no início do ano ali, no final de dezembro, na verdade. Daí o cara conferir no recebimento e conferir também na hora da venda. Tanto na hora que entra e tanto na hora que sai o item. Porém, a separação via código de base já é um processo que a gente não saberia como implementar aqui dentro da empresa, porque a Sankia,\n[LOCUTOR 5]: a gente\n[LOCUTOR 49]: teria que comprar algo a mais da Sankia para eles disponibilizarem isso. [PESSOA] não foi algo que a gente implementou junto com eles durante o período de [PESSOA]. [PESSOA], terem que contratar um módulo à parte. [PESSOA], realmente, seria interessante ter\n[LOCUTOR 49]: conferência tanto do recebimento e tanto da venda e entender como funcionaria essa separação usando o sistema. Você\n[LOCUTOR 5]: emite nota de serviço ou\n[LOCUTOR 5]: de mercadoria?\n[LOCUTOR 49]: A questão de nota fiscal de serviço, a gente emite, mas é uma vez ao ano. É de vez em quando, quando surge a necessidade mesmo. Por exemplo, em 2022 a gente emitiu, em 2023 a gente emitiu, em 2024 não, em 2025 não. [PESSOA] é\n[LOCUTOR 49]: importante ter, pelo menos, caso a gente vá necessitar. O nosso foco mesmo é\n[LOCUTOR 5]: a nota fiscal. [LOCAL] mesmo?\n[LOCUTOR 49]: Sim, [LOCAL]. A emissão da nota fiscal eletrônica é o nosso foco mesmo, o que a gente mais emite.\n[LOCUTOR 5]: É tranquilo.\n[LOCUTOR 49]: E, de vez em quando, a gente tem, a cada dois meses ou três meses, depende do que o gestor precisa, tem nota fiscal de importação, aquela nota de nacionalização.\n[LOCUTOR 5]: mas se faz importação direta\n[LOCUTOR 5]: você só emite a nota, o pessoal da trade gera e você já pega a nota de remessa de entrada de importação direta? O\n[LOCUTOR 49]: processo que a gente faz é o despachante, ele gera a nota de espelho, gera a [LOCAL] e a gente pega a nota de espelho e nacionaliza ela. A gente gera uma nota de nacionalização. Em\n[LOCUTOR 5]: nome da... Em nome do fabricante da importação ou em nome da empresa despachante?\n[LOCUTOR 5]: é em nome do fornecedor estrangeiro, não é isso?\n[LOCUTOR 49]: Olha, na verdade eu estive em esses dois casos. Eu estive\n[LOCUTOR 5]: tanto\n[LOCUTOR 49]: no nome do [LOCAL], tanto no nome do fornecedor.\n[LOCUTOR 49]: ponto\n[LOCUTOR 5]: de atenção, tá? Importação, faturamento, a gente já viu, financeiros reunidíssimos, bancos. Isso é importante, a questão da comissão. A questão de implementar, a questão da separação, a gente tem também uma solução que é o coletor. [PESSOA]?\n[LOCUTOR 5]: só essa questão da nota de importação. Tá? [PESSOA],\n[LOCUTOR 49]: se for\n[LOCUTOR 5]: o [PESSOA]\n[LOCUTOR 5]: tratar essa questão do\n[LOCUTOR 49]: investimento,\n[LOCUTOR 5]: né? [PESSOA], só pra deixar pra você claro, tá? Vou mostrar um pouco do...\n[LOCUTOR 49]: Você\n[LOCUTOR 49]: Eu vi ele em 2023, quando a gente estava entre a Sankia e a Totes. Lá... Foi em 2023, lá em... acho que é agosto de 2023.\n[LOCUTOR 9]: tá bem diferente a aula. Eu acredito que deve ter mudado bastante coisa. É, ele agora é 100% na nuvem, né? Você vai ter ele na nuvem, né? [PESSOA] você não vai estar preocupando em estar\n[LOCUTOR 49]: correndo\n[LOCUTOR 5]: atrás de entrar no servidor\n[LOCUTOR 49]: um prazer.\n[LOCUTOR 5]: Vê a atualização. Ele já tem 100 prazer. de atualizações, que já diz a você que já tem uma...\n[LOCUTOR 5]: [EMPRESA]?\n[LOCUTOR 5]: A nuvem da [LOCAL] mesmo.\n[LOCUTOR 49]: Ah, a [LOCAL] tem uma própria nuvem. Tem uma datacenter, [PESSOA]?\n[LOCUTOR 5]: Isso, temos\n[LOCUTOR 49]: três\n[LOCUTOR 5]: datacenters.\n[LOCUTOR 49]: Três datacenters? Ah, interessante. Deve ficar um em [LOCAL], ali...\n[LOCUTOR 5]: Tem um em [LOCAL], um em [LOCAL] e um em [LOCAL].\n[LOCUTOR 49]: É, o de [LOCAL] fica próximo aqui do [LOCAL],\n[LOCUTOR 5]: né? Possivelmente\n[LOCUTOR 49]: vai ser esse.\n[LOCUTOR 5]: [PESSOA] aqui, ó, você entra no... É um www, tá? Tá? Isso aqui é um cliente... A [EMPRESA] tem a opção de você ter um cliente interno dentro, tá? [PESSOA] você aqui digita o usuário e senha. [PESSOA], aqui eu tenho o protetor das boas-vindas. [PESSOA], a gente tem a questão de todos os módulos, dos 98 módulos que a gente tem no sistema. A gente está oferecendo a você o que a gente chama de quarteto, que é o compra, estoque, faturamento financeiro. Esses dois aqui, dois, quatro, cinco e seis. [PESSOA]? Lógico, para frente, você pode estender o módulo fiscal, o módulo contabilidade. o controle de loja, que é o nosso PDV, nosso controle de loja, calceta, o ponto, manutenção, [PESSOA] tem várias situações que a gente pode oferecer para vocês. [PESSOA] aqui a gente tem um módulo de compras, eu vou Onde dentro do módulo de compras temos toda a parte de cadastro de produto, de fornecedor, de clientes. O produtor trabalha no financeiro com a classificação da sua receita e as suas despesas, com a natureza. Uma natureza financeira é como se fosse uma DRE financeira, porque como você não tem o módulo da contabilidade, você não tem como gerar uma DRE, porque a DRE É um conceito contábil. [PESSOA], normalmente, quando a gente trata, a gente trata com natureza financeira. Onde era, eu classifico as minhas receitas e as minhas despesas. limpeza. [PESSOA], a receita, venda com mercadoria aqui, mercado externo, venda de mercadoria, se for uma indústria, venda de produção, uma venda de mercadoria de terceiros, [PESSOA], remessa de bonificação. [PESSOA], cada movimentação interna do financeiro do proteus tem que ter uma natureza para ele classificar. [PESSOA], eu tenho várias situações, culpa de material diversos, culpa de sumo para produção, material de limpeza, mas mais eu não entendo porque tem que ter uma natureza, porque quando você for gerar um fluxo de caixa, certo? No fluxo de caixa, a gente tem toda essa questão, tudo que envolve compra de materiais, de materiais de revenda. [PESSOA], vocês vão saber lá, ó, forneceu tal, comprou tal mercadoria, esse material. [PESSOA], você classifica mesmo. [PESSOA], eu tenho serviços, eu tenho... Folha. [PESSOA], vou gerar o valor que eu tenho a folha apagada dos funcionários. Eu coloco lá. Folha, [PESSOA], serviço de retenção. [PESSOA], aqui, quando você gera... Despesa com EPI, custos judiciais, despesa com correio, está vendo? Consórcios de pagamentos, combustíveis. [PESSOA], tudo que é nota, tudo que é título de combustível vai estar agrupado nessa natureza para você ir em relatório e você puxar. O que é que eu estou gastando? o combustível e o lubrificante. Você vai lá e vai mostrar todos os tipos. Eu quero quebrar para o fornecedor. [PESSOA], no relatório, você vai lá, tudo de combustíveis e para o fornecedor. Quanto eu paguei no mês? [PESSOA], você faz um filtro e vai mostrar lá. Você gastou, pagou tanto para tal fornecedor. [PESSOA], você tem um histórico de analisar tudo isso quebrado e classificado pela natureza de receita ou de despesa. Tanto para compras também. [PESSOA], dentro do compras, a gente tem questão de solicitações de compras, sugestões de compras, solicitações por ponto de pedido, que a gente chama de estoque mínimo, é pelo ponto de pedido. E a gente tem dele um portal de gestão de compras, onde eu recebo as minhas solicitações e gero as minhas cotações. Como assim, [PESSOA], gerar minhas solicitações? Quando você gera um pedido, ele vai gerar uma solicitação de compra ou um pedido de compra. Quando você gera a solicitação de compra, você agrupa essas solicitações de compra e faz a cotação. Quando é um fornecedor específico, você pode gerar um pedido de compra direto para ele, envia se for uma compra direta. [PESSOA], dentro do portal, Além de eu gerenciar minhas cotações de compras, eu consigo ver o histórico dos meus produtos, em que parte está, em que... é fase tá esses esses produtos deixa ele dar uma carregada o computador voltou do carnaval hoje aí tá meio lento acontece deixa eu ver se eu faço um negócio melhor peraí rapidinho ele fica mais dinâmico. Eu vou usar a minha base local, né? Eu vou usar\n[LOCUTOR 5]: base da [EMPRESA].\n[LOCUTOR 49]: Outra coisa? Por que\n[LOCUTOR 5]: tenho uma base instalada no meu notebook. Às vezes ele tem um... Vou usar a base da [EMPRESA]. A base de demonstração. Porque como é uma base que todo mundo usa, entendeu? Aí fica... eu não gosto de contar nisso. Eu estou entrando em uma base que é da [EMPRESA] mesmo, entendeu? [PESSOA] aqui ó e eu venho aqui ó e eu tenho aqui ó o fluxo que eu falei [PESSOA], aqui eu tenho toda a parte de analisar a necessidade de compra que é em cima de uma solicitação, certo? [PESSOA]? O bloco, post-it. Aqui eu faço toda a cotação de compra. [PESSOA], aqui eu tenho as cotações que são mandadas, certo? E o tempo? o histórico de compra, como você falou, tá? [PESSOA], todos os produtos e grupos, eu posso olhar cada produto individualmente, tá vendo aqui, ó? Ele vai dar as solicitações dele, a quantidade de entrada prevista que já está em processo de compra, geração do pedido, o último preço que ele comprou, a maior quantidade que ele teve, o estoque que ele tem, certo? A data da última compra e o último valor. Posso analisar todas as cotações que envolve esse produto, que envolveu esse produto aqui na tela. Houve esses. O comprador, quem foi o comprador e o que comprou o número da cotação. A data da cotação e tudo mais. Consigo olhar os pedidos de compra que eu tenho aberto dele. Os que já foram entregues. Todos os que já foram entregues dele. [PESSOA], você consegue ter dentro desse aqui uma visão como está o processo. E aqui a mesma coisa, o fornecedor. [PESSOA], aqui o fornecedor, o maior atraso dele de entrega. Se eu tenho um módulo de controle de qualidade, que é a inspeção do fornecedor, vai dizer a nota dele, a primeira vez que eu cumpri a ele. E aqui vocês estão vendo que já tem, é diferente da análise. Quais são os produtos que eu mais compro desse fornecedor? [PESSOA], eu vejo aqui os produtos fornecidos, tá vendo? [PESSOA], tem todos os produtos que ele fornece, tá vendo? Toda essa parte, tá? Quais são os pedidos que estão sempre em atraso? É a mesma coisa. São os pedidos que estão atrasados. Quais são os pedidos que estão em aberto, certo? E se teve alguma devolução dele, eu vou tratar como é que foi a devolução, quais são os produtos que eu estou devolvendo muito. [PESSOA] acontece muito quando vocês vão devolver para algum sinistro, alguma coisa, você também consegue controlar essa parte. [PESSOA] eu tenho essa questão do nosso módulo de compras. Essa informação. A gente tem também dentro de cada módulo um mini dashboard [PESSOA]? Dos produtos, deixa eu achar aqui. [PESSOA] a gente tem vários dashboards, vários modos, de estoque custo, venda, faturamento, financeiro, compra, tá? São de compras. A gente tem O lead time, ele diz assim, tu tem um lead time, tu solicitar a compra e gerar o pedido, ele vai dizer a você quais são os lead times, quais são os produtos e os pedidos que estão. O lead time dos pedidos versus a nota fiscal, que está em atraso. Os pedidos de compra para o fornecedor, [PESSOA] ele vai dizendo a você aqui, vai gerando em drill down o detalhe de cada pedido, [PESSOA] de gráficos, [PESSOA] você consegue também ter, além daquela plataforma, o que tem. as devoluções das vendas. [PESSOA], cada cliente que devolve a você, você vai ter o controle dele dentro do sistema, como tal nível de devolução por mês, [PESSOA], em valor. Ter todo o controle de gráfico e de pedido de atraso. [PESSOA], são alguns dashboards nativos do sistema que conseguem gerar para vocês. Vou deixar isso aqui aberto, que eu tenho de vários modos. E isso aqui é um dos dashboards de compra, certo? Eu tenho... O modo de estoque e custo. Toda a parte de controle dos saldos dos produtos, se for um saldo por endereço, consigo ter também, tá? Toda a questão de cadastros, certo? Eu tenho... Todo controle de movimentação, de transferência, de gerar o inventário, de liberar a qualidade do produto, se o produto vai fazer uma análise, se ele vai estar de acordo com o que eu posso, tanto na entrada quanto na saída, fazer algum tipo de validação antes de gerar a entrada ou a saída desse produto. Todo controle de armazém de consumo, o que eu posso fazer. a questão do endereçamento, fazer transferência de armazém. E para auxiliar isso, a gente tem... Deixa eu achar ele aqui. [PESSOA], tem aqui o que a gente chama de meu coletor, tá vendo? Onde eu posso fazer a conferência das minhas notas de entrada, certo? Posso ver o detalhe, ó. Investidor de processo, aí eu vou selecionar o documento, e vou iniciar a conferência. [PESSOA] ele vai aqui, ó, vai fazer toda a coleta. Se eu clicar aqui, ele pode ler a etiqueta, quer dizer, você pode gerar a etiqueta com o código do produto. [PESSOA] a gente chama de etiqueta séria. Você bota lá, cria as etiquetas. Ele vai ler essa etiqueta. Se tiver um lote, você coloca. Se não, é só a quantidade colocar. Tanto na conferência de entrada, como na separação. O que seria na separação? Eu tenho aqui uma separação, aqui está de ordem de produção, porque essa base atende também a indústria, mas uma separação de pedido também. [PESSOA] você gera o pedido, ele vai gerar toda a separação. [LOCAL] também o inventário. [PESSOA], consigo fazer todo o processo de inventário e detalhar o produto. Eu posso selecionar o inventário que eu quero fazer e vou iniciar a contagem. [PESSOA], você vai para o armazém de estoque de recebimento. Chego lá e vou colocar o produto tal, a mesma coisa. Acho o produto, coloco a quantidade e ele vai. finalizar o item. [PESSOA], inventário concluído e vai fazendo outros produtos, tá? Botão de endereçamento. [PESSOA], vai chegar a nota fiscal lá de uma mercadoria e eu vou endereçar para o produto. Eu vou chegar aqui, ó, esse produto acessório, eu vou endereçar ao endereço. [PESSOA], eu vou botar aqui a quantidade, ó. O endereço, eu posso também colocar a etiqueta com o código do endereço, para ele já bipar aquela quantidade e cadastrar, certo? Eu consigo fazer isso aqui também, tá? Ah, mas eu quero fazer uma transferência de mercadoria, do produto. Também a mesma coisa. Seleciona aqui os tópicos que você quer, o almoxerifado que você quer, vai ler o produto lá, você coloca a quantidade, aí pode colocar o endereço, tá? e ele vai gerar transferência lá para o armazém também. [PESSOA], isso aqui é um app, eu consigo fazer toda essa parte de movimentação do estoque, tudo na palma da mão. Ah, Mario, eu queria também ver o saldo do produto aqui, eu consigo? Não. Como isso é um aplicativo de conferências e transferências, para não houver nenhuma alteração de dados e colocar a quantidade que você quer colocar para saber se vai ter ou não isso aqui o coletor não é usado para isso aí uma telazinha mesmo que você vai ter dentro do sistema um relatório né e com realidade de saldo né [PESSOA] aqui ó eu consigo ver o saldo atual de cada produto. Consigo ver cada saldo de cada produto, o custo unitário. Consigo ver saldo por endereço dos produtos, que a gente chama de rachabilidade, e tem o dashboard de estoque também. [PESSOA], a quantidade de valor em estoque. Também eu tenho índice de endereçar, igual ao do coletor, certa quantidade que tem para endereçar. Se eu trabalhar com um produto específico que tem controle de loads, eu também consigo controlar esse controle dentro do sistema. A evolução do valor de estoque por informação. Dentro, normalmente o pessoal bota aqui, eu consigo ver, os pedidos que estão com bloqueio de estoque, certo? Os pedidos que estão aptos a faturar com já o estoque liberado. [PESSOA], você consegue gerar para a liberação do pessoal fazer o faturamento em cima das informações que você tem na tela também. [PESSOA], a parte de estoque custo é bem tranquila. Na parte do financeiro, A gente tem toda a parte de controlar, de apagar e de receber, certo? A gente tem um gestor financeiro. [PESSOA], eu tenho aqui toda essa parte do gestor financeiro, eu tenho os indicadores financeiros, a central de títulos que você pode mandar para o banco, comunicação bancária, fluxo de caixa e dashboard. [PESSOA], aquele mesmo dashboard financeiro está aqui aberto, não é só um facilitador, mas você tem os indicadores financeiros. [PESSOA], sua gestão vai trabalhar com o quê? Olha o saldo bancário da conta, os títulos a pagar que estão vencidos, os boletos que estão pendentes de registro, os maiores clientes com top vencido, indicador de peça, os títulos da [EMPRESA] vencidos por tempo de atraso, [PESSOA] tem dois títulos, [PESSOA] o tempo o valor dos títulos pendentes [PESSOA] você consegue ter toda essa parte de gestão certo e a central de títulos ó e ele mostra aqui como tá os títulos tá baixado tá atrasado [PESSOA] você pode fazer filtros aqui busca as avançadas fazer filtros né o valor né com o número do título, pela parcela, eu quero todos os títulos com o número tal, pela natureza, pelo cliente, pelo nome do cliente. [PESSOA], você consegue gerar esses filtros em telas para ter toda a visão. Você pode olhar tanto em gráficos, ter uma visão em gráficos. Entradas a receber, você tem no período dos próximos sete dias, de sete a trinta dias, você já tem aqui o Agir em Tela, os seus títulos a receber. e seus dígitos apagar. É muito interessante essa questão dos indicadores. Consigo analisar meu fluxo de caixa. Consigo olhar aqui como está meu fluxo de caixa inicial, final, se tiver em aplicação. Consegue fazer várias simulações. ou de uma consolidade de várias filiais de um período curto. A questão do dashboard financeiro. Aí eu tenho tudo que é o movimento de natureza financeira realizada e prevista. Meu fluxo de caixa realizado aqui em gráficos. [PESSOA] eu consigo ver se já está aprovisionado ou não. É tudo no detalhe. eu consigo gerar várias informações, certo? [PESSOA], assim, o sistema tem muita questão intuitiva de gráficos, como você bem falou. Mudou muito no Proteus. [PESSOA], a gente tem essas rotinas, porque no financeiro, pagar, receber, a gente tem todas as partes de que nave. Uma coisa legal que a gente tem no modo de faturamento, É todo o conceito de tabela de preço, regra de negociação. A gente consegue gerar o pedido de venda, consegue analisar o crédito do cliente, emite a nota fiscal, tanto de você faz quanto a questão da nota fiscal de saída. [PESSOA], consegue ter essas informações. Uma coisa que é legal aqui, que a gente gosta de falar, é que você pode fazer os... os pedidos em cima, certo? De um app, que é o portal do gestor de vendas. Onde você tem aqui na parte da [LOCAL], o seu vendedor, certo? Pode andar pela loja com o tablet e ele mesmo fazer o pedido. Pode gerar um orçamento e mandar para ele ou pode gerar um pedido dentro do sistema. Ele vai aqui ó, vai colocar o novo pedido, pode cadastrar na hora os dados iniciais do cliente, ele vai fazer aqui toda, colocar toda a informação que ele quer, vai colocar aqui o item do pedido, certo? Vai buscar aqui ó. Aqui Colocar só o inicial vai aparecer, coloca a quantidade. Ele já vai dar informação para ele, se quer dar um desconto ou não, certo? Você pode ver a foto do produto, pode consultar o estoque dele, saber se tem realmente estoque. [PESSOA] o cliente quando chegar na loja com o tablet na mão, você já consegue ele olhar toda a situação. Colocar aqui, ele tem aqui o saldo atual. Na hora ele já gera o pedido e já pode depois o pessoal do faturamento só emitir a nota. Ele vê as comissões dele, isso aqui é o usuário dele, como está já a comissão dele. Toda essa parte aqui dos títulos dele. Ele já vai ver se a meta dele já está... O que ele já vendeu, o que ele mais vendeu, como está o faturamento dele nos últimos dias, quanto ele chegou da meta dele, aqui. e quais são os clientes que ele atende, que ele atendeu. [PESSOA], esse portalzinho aqui é muito interessante também, para ele ter uma noção, os itens, o que está a faturar, o que está pendente. [PESSOA], você fica andando com o tablet, aqui é uma visão desse aplicativo dentro de um computador, você pode usar também dentro do computador ou no celular também. [PESSOA], ele tem aqui, O mesmo portal que está aqui, eu estou abrindo aqui no celular. Se você achar melhor não usar o tablet, você tem o celular. Ele está carregando e trabalha também offline. aqui é a mesma tela tá vendo ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó A mesma coisa, tá vendo? Ele já me abre aqui informações. [PESSOA], eu consigo fazer toda aquela... Na palma da mão, você consegue ver todas essas informações e gerar o pedido e acompanhar o faturamento. Aqui ele está liberado, está aí aberto, está vendo? Os status, e quando ele tem, quando já foi faturado, já sabe qual é a nota fiscal, quando foi faturado, e tal, foi faturado, tal, a sua nota já foi faturada. E ele consegue analisar toda essa parte. Tranquilo? Acho que faltou 10 minutos aqui. Alguma dúvida?\n[LOCUTOR 49]: estou...\n[LOCUTOR 7]: Se puder entrar depois pra dar uma olhadinha e mostrar os insights lá do Proteus.\n[LOCUTOR 52]: [LOCAL].\n[LOCUTOR 5]: [LOCAL].\n[LOCUTOR 7]: Retornamos em um outro momento? [LOCAL],\n[LOCUTOR 49]: mas eu verifiquei ali do sistema, tá? Mas eu queria ver, em questão de preço e tal, prazo de implantação também. O sistema atende?\n[LOCUTOR 7]: [LOCAL],\n[LOCUTOR 7]: [PESSOA], aproveitando ali, cara, tem um... O que é que tu anotou?\n[LOCUTOR 52]: Pois é,\n[LOCUTOR 7]: [LOCAL].\n[LOCUTOR 52]: Pode falar, tô ouvindo.\n[LOCUTOR 7]: Ah, deixa eu perguntar, cara. O truque saiu e a gente nem comentou. Quer seguir aqui? O que tu pretende fazer?\n[LOCUTOR 22]: seguir aí, se vocês quiserem, se precisar mais mostrar.\n[LOCUTOR 7]: Tem alguma dúvida em específico, que tu é da área de [EMPRESA], alguma coisa que a gente possa abordar mais centralizado, alguma expectativa tua?\n[LOCUTOR 52]: Eu queria saber sobre personalização de campo, na questão de, ah, no piso de venda ou alguma coisa assim de consulta de estoque, eu queria ver outros campos que não estão configurados ali, teria como configurar?\n[LOCUTOR 5]: Boa pergunta, [PESSOA]. Tem sim, tá? A gente consegue colocar campos customizados, posso criar um campo específico que ele só visualiza, não seja direto do banco de dados, seja só um campo específico para algum atributo que ele sai numa pesquisa. O Proteus é totalmente personalizado, entendeu? Nessa parte de criar campo, botar campo como obrigatório. [PESSOA], assim, ele é bem tranquilo nisso aí. [PESSOA], o que a gente mostrou ali é como... A gente vai atender, só que a gente tem algumas particularidades que você, que a maioria dos outros CRPs não tem. Essa flexibilidade de criar campos obrigatórios que só pode seguir depois que der esse check. Em qualquer parte de tela do produto a gente consegue fazer isso.\n[LOCUTOR 52]: Sim, entendi. Aquele aplicativo à parte para as vendas, para os vendedores usarem, ele já está incluso no plano? Ele é à parte, o valor dele?\n[LOCUTOR 5]: O valor dele é a parte, mas ele como é um plano para 10 usuários, ele fica, não sei o valor exato, mas pode falar. Mas é um valor, por licença, não dá nem, é bem baratinho, aí depois ele pode passar\n[LOCUTOR 7]: para você. Isso já está, [PESSOA], no que eu falei com o [PESSOA] em relação ao valor, já tem o portal de vendas ali, [PESSOA].\n[LOCUTOR 5]: Tem, né?\n[LOCUTOR 52]: Para\n[LOCUTOR 7]: os 25 usuários dele.\n[LOCUTOR 52]: Ah, 25, tá certo. Eu acho que no geral era isso mesmo, só ver o... A parte de importação de XML, vocês teriam?\n[LOCUTOR 5]: Tem também.\n[LOCUTOR 5]: também. A gente tem o [LOCAL].\n[LOCUTOR 5]: ele pega todo o monitoramento, certo? Das notas fiscais, tá vendo? Eu tenho as notas fiscais que são emitidas contra vocês, tá? Tanto a nota de mercadoria quanto a nota de serviço também,\n[LOCUTOR 5]: Você consegue ter todo o monitoramento e ele automaticamente já vai para dentro do sistema, gerando lá a nota para ser classificada no compra. [PESSOA], toda essa parte a gente tem também. Tá vendo minha tela, né?\n[LOCUTOR 7]: estou\n[LOCUTOR 52]: vendo.\n[LOCUTOR 5]: [PESSOA], toda essa parte ele gera, faz a baixa do XML, ele entra... Quando eu dou a ciência da mão de fechação, ele vem aqui, a gente tem um monitor O monitor está vendo? O importador XML. Ele vem para cá e faz toda a tratativa. Aqui tem a legenda. O documento já foi gerado para o proteu para se dar a entrada da nota. O produto ainda está aqui. A nota ainda está aí, normal, para fazer toda a análise. O documento está pendente de revisão cadastral. Está vendo aqui? Que é essa. O que seria revisão cadastral? [PESSOA], não foi feito a parte de quê? Do cadastro. Ou o produto não está cadastrado, ou o fornecedor não está cadastrado. Está vendo aqui? Esse produto [LOCAL], marau, marau. O cliente não está cadastrado no Proteus. Porque ele tem que fazer um vínculo de produto do meu fornecedor com o que eu tenho no Proteus. Aí eu tenho como fazer essa amarração. Está vendo aqui? Amarração no produto, está vendo? Ou eu posso cadastrar o produto, ele não está cadastrado. Existe a amarração do produto e o produto não está cadastrado. A mesma coisa o fornecedor não pode não estar cadastrado. [PESSOA], aqui no produto eu venho e posso cadastrar. Esse produto depois já vincular esse fornecedor específico. Tá? Consigo fazer tudo dentro de uma tela só. Tá joia? [PESSOA], assim, a questão do compra tem também essa questão do...\n[LOCUTOR 5]: parte do fornecedor, né? De importação do XML.\n[LOCUTOR 39]: Isso\n[LOCUTOR 52]: Em questão de relatórios personalizados, seria como construir ali? Acho que sim, né?\n[LOCUTOR 5]: A gente tem uma ferramenta que a gente chama de Smart View. Só que os relatórios são padrões. Para você usar a ferramenta, também tem um custo adicional de uma licença, específica, né? E a questão do treinamento para mexer no relatório, tá? Ele entra aqui, ó. Lembra\n[LOCUTOR 7]: a quantidade de relatórios padrões já que tem? São centenas, né, [PESSOA]?\n[LOCUTOR 5]: Eu tenho tanto relatório específico como tabela dinâmica e visão de dados. E aqui eu tenho vários modelos. Aqui tem vários relatórios específicos dentro do sistema, entre outros. Esse aqui tem um filtro no meu interno. Como você pode pegar um relatório desse e realizar uma cópia e peço analisar. Ah, quero colocar um campo a mais, quero colocar alguma informação. [PESSOA], esses aqui são os relatórios gráficos, certo? O que seria gráfico?\n[LOCUTOR 7]: Seria de\n[LOCUTOR 5]: modelo gráfico de impressão e molde de PDF. [PESSOA], aqui eu tenho esse relatório, eu tenho as tabelas dinâmicas. Também tenho outros. razão, posição, movimentação de bem. Tem as visões de dados também, que aí são os relatórios mais usados. Relação de baixas, sauda depreciar, contratos, multas, balancete. [PESSOA], tem muito relatório. [PESSOA], como falei, posso gerar, importar já\n[LOCUTOR 7]: feito ou\n[LOCUTOR 5]: personalizar um específico\n[LOCUTOR 7]: para\n[LOCUTOR 5]: esse aqui é um exemplo, tá de urbanatório, tá? [PESSOA], está vendo aqui que ele gerou uma tabela dinâmica? Isso é isso. [PESSOA], deixa eu chegar aqui, eu quero analisar aqui, ele está quebrado por filial, está vendo? Eu selecionei várias filiais, está vendo? [PESSOA]? Deixa eu chegar aqui e dizer que eu quero platar tudo que é nota, eu quero quebrar por condição de pagamento, todas as notas de entrada por condição de pagamento, está vendo? [PESSOA], ele já me quebrou por condição de pagamento. Posso voltar, ó. Não, eu quero por fornecedor. Pela razão social, pelo nome. [PESSOA], tá aqui, ó. Ah, mas eu não quero pelo nome, eu quero pela data de entrada. Que é a data de digitação, tá vendo aqui? [PESSOA], eu chego aqui, ó. Bota aqui na frente. [PESSOA], tudo nessa data aqui, pra onde a gente entrou, certo? Ah, eu quero fazer um filtro. Eu não quero, quero só de 2026. [PESSOA], tudo de 2026 está aqui, está vendo? Exporte, tal, tal, tal. E vou fazendo todas as partes de análise. Ah, eu quero jogar isso num relatório. Eu venho aqui, ele já exporta para Excel no formato que está filtrado na tabela dinâmica. ó, você pode ver aqui ó, ele já tá naquela mesma filtragem que eu fiz também não. Ah, mas eu não gostei da filtragem não, eu não quero que vá sem a filtragem. Não tem problema nenhum, aquilo ali é uma consulta de tela. Posso chegar aqui ó, e voltar, tirar as datas de digitação, deixar só a filial, certo? Exportar novamente. Tá vendo aqui? E aqui você pode fazer o filtro aqui normal, tá vendo? Ele só não vai estar no modelo da tabela dinâmica. E você pode filtrar aqui, como aquele outro que eu fiz, ó. Só o de 2026. Só o da filial 1, ó. E aqui, ó. Todo o filtro na tabela que você pode trabalhar. [PESSOA] é uma coisa bem legal que você pode fazer. [LOCAL]?\n[LOCUTOR 52]: certo? É isso aí [PESSOA] mesmo. Acho que pode incluir essa parte de relatório na proposta que a gente vai precisar nessa personalização.\n[LOCUTOR 5]: [LOCAL]. [LOCAL] [PESSOA]? [PESSOA]? Estou\n[LOCUTOR 7]: aqui, estava desligado meu microfone. Entendido, Pois aí, tem um ponto também, não sei se o [PESSOA] comentou ou não, quando ele abre a tela ali, tu vê que tem muitas funcionalidades, né? Que o [PESSOA], ele tá usando uma base de demonstração, [PESSOA] tem todos os modos contemplados ali. Pra quem olha inicialmente a carinha do Proteus, quando apresenta, parece poluído. Mas assim, cada usuário vai ter ali os acessos pertinentes aos seus módulos. Por exemplo, compras, vai acessar só compras e assim sucessivamente, né? Vai ficar bem mais clean a visibilidade dele, né?\n[LOCUTOR 3]: muita coisa, né?\n[LOCUTOR 7]: mas fica tranquilo que isso é adaptável para cada usuário, né?\n[LOCUTOR 52]: Cada\n[LOCUTOR 52]: Ah, [PESSOA] fica melhor mesmo para...\n[LOCUTOR 7]: Porque assim, exemplos, né? Se o compra só acessa compras, ele não precisa ter outros módulos ativos para ele, entendeu?\n[LOCUTOR 7]: através. Exatamente. E essa base que o [PESSOA] tá abrindo aqui, ela tá completa, né? A base que todo mundo utiliza no [LOCAL]\n[LOCUTOR 5]: todo.\n[LOCUTOR 7]: Mais algum ponto, [PESSOA]? Queres aproveitar aí o momento do [PESSOA]?\n[LOCUTOR 52]: O que eu me lembro era isso mesmo, só da personalização o campo, o relatório, e o resto a gente já viu que funciona bem ali, tem o que a gente precisa.\n[LOCUTOR 7]: Pois é, me tira uma dúvida, [PESSOA], que hoje a Sankia tem integração com alguma outra solução de vocês ou não?\n[LOCUTOR 52]: [LOCUTOR 4]: não têm o e-commerce, né? Eu lembro que o [PESSOA] comentou algo sobre vocês terem o e-commerce aí, mas está em roadmap essa operação ainda, né? Sim,\n[LOCUTOR 7]: a gente est\n[LOCUTOR 21]: planejando fazer um e-commerce não está pronto ainda, não tem nada pronto. E a gente precisava da integração com o sistema,\n[LOCUTOR 7]: para\n[LOCUTOR 52]: poder viabilizar essa operação do e-commerce. E a gente não\n[LOCUTOR 7]: tem tempo\n[LOCUTOR 52]: de mão de sangue.\n[LOCUTOR 7]: [LOCUTOR 6]: a gente não tem. [PESSOA], beleza. Até dar uma segurada nesse ponto aí, porque assim, dando certo aqui, a gente trocando o ERP, não faz sentido tu fazer isso agora simultaneamente. Primeiro, corrigir o coração da operação, que é o ERP, aí depois ver como a gente tem solução para isso para vocês.\n[LOCUTOR 52]: Mas vocês teriam integração pronta com alguma plataforma, marketplace, alguma coisa?\n[LOCUTOR 52]: Ah, já tem a própria plataforma de e-commerce já.\n[LOCUTOR 7]: Exatamente.\n[LOCUTOR 7]: [LOCAL], com certeza. Como não é prioridade, claro que o meu objetivo como vendedor é iniciar uma parceria com vocês E depois disso, eu quero apresentar tudo que faz sentido dentro do nosso portfólio. A gente tem uma série de coisas para apresentar. Agora, eu vou apresentar aquilo que tem que fazer sentido para vocês, né?\n[LOCUTOR 52]: A gente precisa mesmo do R&P mesmo, por enquanto.\n[LOCUTOR 7]: Sim, mas é importante saber que a gente pode atender outras linhas também.\n[LOCUTOR 52]: [PESSOA], não? A gente pode fazer uma contação depois sobre reformas, integração, essa parte aí.\n[LOCUTOR 52]: vamos considerar a proposta, [PESSOA].\n[LOCUTOR 7]: algum ponto, [PESSOA], você retornou aí? Mais algum ponto que iria visitar, [PESSOA]?\n[LOCUTOR 49]: Em relação à usabilidade do sistema, tem tudo que a Saudação precisa.\n[LOCUTOR 7]: Preciso\n[LOCUTOR 49]: mesmo agora, o que é interesse ali do gestor é ver quanto tempo levaria, caso fechasse com vocês, quanto sai a implantação daquele modelo que tu me disse,\n[LOCUTOR 7]: aquele\n[LOCUTOR 49]: modelo que é menos custoso, e quanto eu pagaria de mensalidade, principalmente, durante o projeto e depois do [PESSOA].\n[LOCUTOR 7]: [LOCAL]. Deixa comigo, vou só alinhar os detalhes aqui com o [PESSOA] e já marco contigo para apresentar isso para você. Tá,\n[LOCUTOR 52]: tá certo. Ele teve que sair de novo, tadinho.\n[LOCUTOR 7]: Percebi. Tranquilizar isso. Vamos falando [PESSOA], tá?\n[LOCUTOR 7]: Tu fica\n[LOCUTOR 52]: ali na\n[LOCUTOR 7]: mesma unidade que o [PESSOA], né? Ou tu é terceiro?\n[LOCUTOR 7]: Ah, show de bola. [PESSOA] tá, quando for aí a gente se conhece [PESSOA].\n[LOCUTOR 52]: [LOCAL]. [LOCAL]\n[LOCUTOR 52]: [PESSOA],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:35.177982+00:00",
+    "total_linhas": 341,
+    "linhas_mantidas": 254,
+    "linhas_removidas": 87,
+    "percentual_mantido": 74.49,
+    "confianca_media": 0.4851
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 7]: Boa tarde, [PESSOA]. Opa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: boa tarde, tudo certo? E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3749,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: aí, tudo certo, cara, contigo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: O Zé Mario já tava conectando aí, ele só foi pegar uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: já volta conosco aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Tranquilo, tranquilo. Os",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: IA's conectem também?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Sim, os IA's já estão conectando.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4278,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Os IA's é de qual área, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5651,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Da [EMPRESA]. Da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5299,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [EMPRESA], boa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4843,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Desculpa, tá? Boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4031,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Boa tarde, gente. Sem problemas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: É, beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Vamos lá? Bora. Todo mundo aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tarde, [PESSOA]. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4138,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Boa tarde. Tudo certo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3749,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Todo mundo na paz, cara. Podemos estartar aí, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL], [PESSOA] só dando um contexto rápido aí, [PESSOA] e eu já estamos conversando há um bom tempo aí, [PESSOA], o [PESSOA] ele é o controller da [LOCAL] e o [PESSOA] ele é [EMPRESA]. [PESSOA] a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4797,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: já está conversando",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: há um tempo aí, agora a gente retomou o assunto aí, o objetivo de hoje é a gente apresentar aí as funcionalidades, apresentar a ferramenta do [LOCAL]. [PESSOA], fica a vontade aí pra perguntar, pegar mais informações. Deixa eu só fazer uma última pergunta, [PESSOA], o tempo que eu coloquei ele é o suficiente? Como é que tá o tempo de vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Quanto tempo tu deixou ali mesmo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Cara, eu coloquei até cinco e meia ali, mas a gente termina antes.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Bom, o ideal seria pelo menos uma hora. Quer dizer, no máximo uma hora, porque eu teria algumas outras demandas pra fazer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4925,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [PESSOA], perfeito. Vamos tentar correr com isso, tá? Talvez falte algumas informações e a gente retome em um outro momento, porque uma hora ele é pouco tempo mesmo para falar de tudo. Mas, [PESSOA], faça a tua mágica aí em uma hora.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: A gente consegue.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: pessoal, como o [PESSOA] falou, tá? Eu sou da parte de engenharia de valor da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [LOCAL]. Ficam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: lotados em [LOCAL], certo? Mas a [LOCAL] tem várias filiais espalhadas pelo [LOCAL]. tá? [PESSOA], eu tô nessa área há três anos, mas no [LOCAL] eu tenho 12 e antes eu era consultor de implantação, [PESSOA] era da parte de implantação, do back office, do [EMPRESA], manufatura, contábil fiscal, controladoria. [PESSOA], a gente tem uma... dá pra gente ter uma conversa, eu pegar o entendimento de vocês pra gente mandar montar realmente um escopo ideal pra vocês. O Léo já foi conversado, você já passou, [PESSOA], pro... com o [PESSOA], eu só queria para reforçar, entender também um pouco mais e tentar trazer valor para vocês. Tá, deixa eu olhar?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [LOCAL], tu quer que eu diga quais, digamos, modos eu vou precisar aqui na nossa aplicação? [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: é, ele, o [PESSOA] já passou um brief, né, dos modos essenciais, né, que a gente chama de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5378,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: quarteto,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: de compra, de estoque, financeiro, faturamento,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Eu vi que vocês são uma empresa que é uma revenda de materiais de solda, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Isso. Insumos de solda, ferramentas, EPIs, toda série.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É, eu tô vendo aqui, bica, toda essa parte, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4809,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Tinha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: visto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: hoje vocês... É uma foto aqui da... Vocês têm um balcão de vendas, tudinho, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: A gente tem um balcão de vendas, mas não é necessário um PDV porque a gente emite uma nota fiscal normal para o cliente mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Você não emite nenhum tipo de cupom?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4603,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Não, não tem cupom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: hoje, dentro da tua loja, Eu vi que tem um balcão, né? Não deu pra ver internamente. Tem o estoque, ele é todo, tem endereçamento, tem com todo endereçamento, não tem, as prateleiras são numeradas, você assim...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: é um processo que não existe aqui na empresa, tá? É algo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: gente quer implantar mais pra frente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4822,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: E hoje, quando a pessoa emite a nota e chega lá para fazer a emissão da nota, ele compra no boleto, como é que é feito?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: O cliente, tanto depósito, tanto boleto, tanto PIX, tanto dinheiro à vista. Aí",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: você vende também no cartão ou no POS separado, essa integração, não é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Não existe essa integração do cartão com o sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA]. Isso aí você quer fazer mais pra frente?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4822,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Sim. Primeiro eu quero um projeto barato.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.403,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA]. Ótimo. [LOCAL]. A questão do boleto. Qual o banco que vocês tomaram?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5317,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Só ele? Somente o [EMPRESA] pra geração de boleto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCAL]. A questão dos vendedores. o balcão que você tem aí. Eles têm comissão? Como é feito o comissionamento?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: O comissionamento é feito a partir de uma alíquota fixa sobre o faturamento líquido. Ou seja, é o que ele faturou menos o que ele devolveu. É uma alíquota de 2,5% sobre o faturamento líquido.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sobre o faturamento ou sobre o recebimento?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: É sobre o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: faturamento. O cara",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: vendeu hoje e vai receber no quinto dia útil do mês que vem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5048,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: independente se o cliente pagar ou não, no caso o boleto, não é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [PESSOA], mas eu vou abrir bem o jogo assim contigo, questão de comissionamento, o que meu RH faz aqui, tá? Ah, é gerado um relatório, só preciso disso para a parte do comissionamento, tá? Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: preciso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: de um relatório que diga o seguinte, vendedor tal, data de emissão do período tal, o número da nota, o número do pedido, o nome do cliente, o valor da nota e o valor da comissão daquele... É um extrato, digamos, de tudo o que o cara fez no mês. [PESSOA], é um relatório que elas tiram todo o primeiro dia útil para enviar para o nosso IRH terceirizado. [PESSOA], eles vão falar... Aí tem a listagem de todos os... de todos os salários dos vendedores, junto com a comissão já, e ela só lança manualmente na movimentação financeira, que seria uma tela para geração de títulos. [PESSOA] não é um processo que vai depender, ah, eu preciso de um módulo de comissão. Não é necessário, a gente não tem esse processo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: aqui. Não, a gente não tem um módulo de comissão, é só o controle mesmo para gerar ou apagar para vocês só.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4901,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: É que elas geram, como é que eu posso falar pra ti? Elas geram o salário dos vendedores já com a comissão junto, né? [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: seria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: mais pra uma questão de provisionamento também, entendo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5019,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 9]: é uma pr",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 40]: que... É pra ela",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: passar pro RH o relatório de comissão pro vendedor. Tá ficando mais fatado hoje. É,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: se for um relatório que vai sendo gerado ali, ok, ótimo. Dessa forma...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 49]: ela abrir uma tela ali, gerou, não precisa pedir para o pessoal da [EMPRESA], ótimo, vai ser incrível.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4809,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É. E a gente tem como fazer isso aí, tá? Aí tem a parametração que eu falei a você. Eu posso gerar a comissão na emissão, na venda, né? Ou na liquidação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Mas como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: você já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: falou,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: é direto na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: emissão. É",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: direto na emissão, né? Independente se o cliente pagou ou não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCAL]. Quantos vendedores são, mais ou menos? Pode ser um chute?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: São cerca de 25 vendedores.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: 25, né? Tudo ele interno, não é isso?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Sim, tudo interno. Nada externo. E tudo na mesma filial.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4261,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: A questão dos itens de você revender. Tem muita categoria de produto, grupo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5743,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: questão... A questão de categoria vai ter bastante, tá? Eu não sei como a gente poderia dividir, né, da [LOCAL], mas aqui no Sankia eles chamam de grupo de produtos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.498,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 44]: gente também tem o mesmo conceito, tem o tipo de produto e o grupo de produto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: É, sim, cada [EMPRESA] vai chamar de uma forma a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: mesma coisa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: digamos. Vai ser de 50 a 100 categorias, digamos, grupo de produtos. Eu não sei como que é feita. Às vezes pode ser uma botina, um grupo pai, digamos. Só que grupo filho é uma botina...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5186,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Não, não, não. É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: só uma questão",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: de volume mesmo, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: É cerca de 100.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Hoje você tem um controle do inventário dele. Está bem estruturada a questão do... Opa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5065,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: poderia repetir?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: A questão do inventário, os saldos dele estão bem atualizados. os saldos dos produtos no inventário, está tudo bem?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4915,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: tem alguma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: dificuldade, alguma coisa hoje?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4761,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Atualmente, os saldos, eles são meio atualizados, tá? Porém, a gente tem uma certa ruptura de estoque. Posso dizer que sim, tem itens que têm ruptura de estoque.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA]. [LOCAL]. A questão de compras, do setor de compras desse pessoal, Se tem um setor, é dividido, um cara só compra tudo, se tem pessoas, um compra ferramenta, outro compra IPI, outro compra outro tipo de material.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Sim, são duas pessoas no ponto, elas compram, digamos, não tem essa separação, compram independentemente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: E fazem cotação de preço? Existe uma tabela de preço que o [LOCAL] manda para vocês, seguem pedindo e a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: conta está",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: na tabela?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Depende. Eu posso falar o seguinte, o cara pediu um item específico, daí eu vou lá e corto. No caso, o comprador vai lá e cota com vários fornecedores. Entretanto, ele já consegue ver, pelo histórico do produto, o melhor preço, digamos. E ele já sabe qual fornecedor escolher para aquele item.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA], sem problema. Só uma questão de desenho de escuta. A pessoa pergunta se",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: vai usar a cotação de compra, que a gente tem uma cotação, via Workflow, para mandar...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: fornecedor responde e já traz atualmente o preço, faz a análise de cotação, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: também usa aí o conceito de ponto de pedido, ressuprimento também?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Pode repetir?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: O ressuprimento, ponto de pedido, né? O produto vai chegar em ponto de pedido, pedido mínimo, né? O estoque mínimo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Ah, entendi, entendi. Sim, a gente tem estoque mínimo A gente trabalha com o estoque mínimo. Com o estoque máximo, a gente não quer essa informação. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: questão do endereçamento, hoje vocês têm aí, né? Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4374,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Endereçamento de produtos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: endereçamento de produtos. Produtos de carro A, B, C, D, pateleira tal.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Não, não, a gente não tem. Teria que ser... Teria que... É uma prática que tem que implementar depois.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4575,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA]. É... Existe ou vocês têm aí, quando,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4791,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: sua empresa, um setor de recebimento e expedição, que faz a conferência, se há uma conferência cega, se não há.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Atualmente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: gera o pedido, você gera uma separação para depois emitir a nota, ou vice-versa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Emite a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: nota e depois separa o pedido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Na [EMPRESA] vai ser crucial ter, porque é um processo que a gente está implementando agora. A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: come",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: no início do ano ali, no final de dezembro, na verdade. Daí o cara conferir no recebimento e conferir também na hora da venda. Tanto na hora que entra e tanto na hora que sai o item. Porém, a separação via código de base já é um processo que a gente não saberia como implementar aqui dentro da empresa, porque a Sankia,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: teria que comprar algo a mais da Sankia para eles disponibilizarem isso. [PESSOA] não foi algo que a gente implementou junto com eles durante o período de [PESSOA]. [PESSOA], terem que contratar um módulo à parte. [PESSOA], realmente, seria interessante ter",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 49]: conferência tanto do recebimento e tanto da venda e entender como funcionaria essa separação usando o sistema. Você",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: emite nota de serviço ou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: de mercadoria?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: A questão de nota fiscal de serviço, a gente emite, mas é uma vez ao ano. É de vez em quando, quando surge a necessidade mesmo. Por exemplo, em 2022 a gente emitiu, em 2023 a gente emitiu, em 2024 não, em 2025 não. [PESSOA] é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 49]: importante ter, pelo menos, caso a gente vá necessitar. O nosso foco mesmo é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: a nota fiscal. [LOCAL] mesmo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Sim, [LOCAL]. A emissão da nota fiscal eletrônica é o nosso foco mesmo, o que a gente mais emite.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É tranquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: E, de vez em quando, a gente tem, a cada dois meses ou três meses, depende do que o gestor precisa, tem nota fiscal de importação, aquela nota de nacionalização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: mas se faz importação direta",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: você só emite a nota, o pessoal da trade gera e você já pega a nota de remessa de entrada de importação direta? O",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: processo que a gente faz é o despachante, ele gera a nota de espelho, gera a [LOCAL] e a gente pega a nota de espelho e nacionaliza ela. A gente gera uma nota de nacionalização. Em",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: nome da... Em nome do fabricante da importação ou em nome da empresa despachante?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [LOCAL]. Não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: é em nome do fornecedor estrangeiro, não é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Olha, na verdade eu estive em esses dois casos. Eu estive",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4914,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tanto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: no nome do [LOCAL], tanto no nome do fornecedor.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA]. Esse aqui eu vou falar com o [PESSOA]. Esse aqui é um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4482,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: ponto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: de atenção, tá? Importação, faturamento, a gente já viu, financeiros reunidíssimos, bancos. Isso é importante, a questão da comissão. A questão de implementar, a questão da separação, a gente tem também uma solução que é o coletor. [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É, assim, eu não vejo muita...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: só essa questão da nota de importação. Tá? [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: se for",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: adiantar a você, assim, a gente tem como lhe atender.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: o [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tratar essa questão do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: investimento,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: né? [PESSOA], só pra deixar pra você claro, tá? Vou mostrar um pouco do...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4879,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: nunca viu o sistema, não, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Eu vi ele em 2023, quando a gente estava entre a Sankia e a Totes. Lá... Foi em 2023, lá em... acho que é agosto de 2023.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5656,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tá bem diferente a aula. Eu acredito que deve ter mudado bastante coisa. É, ele agora é 100% na nuvem, né? Você vai ter ele na nuvem, né? [PESSOA] você não vai estar preocupando em estar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: correndo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: atrás de entrar no servidor",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: um prazer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Vê a atualização. Ele já tem 100 prazer. de atualizações, que já diz a você que já tem uma...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Ah, e qual nuvem que vocês estão utilizando?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4442,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Qual nuvem que vocês estão utilizando?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4442,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: A nuvem da [LOCAL] mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Ah, a [LOCAL] tem uma própria nuvem. Tem uma datacenter, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Isso, temos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: três",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: datacenters.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Três datacenters? Ah, interessante. Deve ficar um em [LOCAL], ali...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5109,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tem um em [LOCAL], um em [LOCAL] e um em [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5109,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: É, o de [LOCAL] fica próximo aqui do [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6074,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: né? Possivelmente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: vai ser esse.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA] aqui, ó, você entra no... É um www, tá? Tá? Isso aqui é um cliente... A [EMPRESA] tem a opção de você ter um cliente interno dentro, tá? [PESSOA] você aqui digita o usuário e senha. [PESSOA], aqui eu tenho o protetor das boas-vindas. [PESSOA], a gente tem a questão de todos os módulos, dos 98 módulos que a gente tem no sistema. A gente está oferecendo a você o que a gente chama de quarteto, que é o compra, estoque, faturamento financeiro. Esses dois aqui, dois, quatro, cinco e seis. [PESSOA]? Lógico, para frente, você pode estender o módulo fiscal, o módulo contabilidade. o controle de loja, que é o nosso PDV, nosso controle de loja, calceta, o ponto, manutenção, [PESSOA] tem várias situações que a gente pode oferecer para vocês. [PESSOA] aqui a gente tem um módulo de compras, eu vou Onde dentro do módulo de compras temos toda a parte de cadastro de produto, de fornecedor, de clientes. O produtor trabalha no financeiro com a classificação da sua receita e as suas despesas, com a natureza. Uma natureza financeira é como se fosse uma DRE financeira, porque como você não tem o módulo da contabilidade, você não tem como gerar uma DRE, porque a DRE É um conceito contábil. [PESSOA], normalmente, quando a gente trata, a gente trata com natureza financeira. Onde era, eu classifico as minhas receitas e as minhas despesas. limpeza. [PESSOA], a receita, venda com mercadoria aqui, mercado externo, venda de mercadoria, se for uma indústria, venda de produção, uma venda de mercadoria de terceiros, [PESSOA], remessa de bonificação. [PESSOA], cada movimentação interna do financeiro do proteus tem que ter uma natureza para ele classificar. [PESSOA], eu tenho várias situações, culpa de material diversos, culpa de sumo para produção, material de limpeza, mas mais eu não entendo porque tem que ter uma natureza, porque quando você for gerar um fluxo de caixa, certo? No fluxo de caixa, a gente tem toda essa questão, tudo que envolve compra de materiais, de materiais de revenda. [PESSOA], vocês vão saber lá, ó, forneceu tal, comprou tal mercadoria, esse material. [PESSOA], você classifica mesmo. [PESSOA], eu tenho serviços, eu tenho... Folha. [PESSOA], vou gerar o valor que eu tenho a folha apagada dos funcionários. Eu coloco lá. Folha, [PESSOA], serviço de retenção. [PESSOA], aqui, quando você gera... Despesa com EPI, custos judiciais, despesa com correio, está vendo? Consórcios de pagamentos, combustíveis. [PESSOA], tudo que é nota, tudo que é título de combustível vai estar agrupado nessa natureza para você ir em relatório e você puxar. O que é que eu estou gastando? o combustível e o lubrificante. Você vai lá e vai mostrar todos os tipos. Eu quero quebrar para o fornecedor. [PESSOA], no relatório, você vai lá, tudo de combustíveis e para o fornecedor. Quanto eu paguei no mês? [PESSOA], você faz um filtro e vai mostrar lá. Você gastou, pagou tanto para tal fornecedor. [PESSOA], você tem um histórico de analisar tudo isso quebrado e classificado pela natureza de receita ou de despesa. Tanto para compras também. [PESSOA], dentro do compras, a gente tem questão de solicitações de compras, sugestões de compras, solicitações por ponto de pedido, que a gente chama de estoque mínimo, é pelo ponto de pedido. E a gente tem dele um portal de gestão de compras, onde eu recebo as minhas solicitações e gero as minhas cotações. Como assim, [PESSOA], gerar minhas solicitações? Quando você gera um pedido, ele vai gerar uma solicitação de compra ou um pedido de compra. Quando você gera a solicitação de compra, você agrupa essas solicitações de compra e faz a cotação. Quando é um fornecedor específico, você pode gerar um pedido de compra direto para ele, envia se for uma compra direta. [PESSOA], dentro do portal, Além de eu gerenciar minhas cotações de compras, eu consigo ver o histórico dos meus produtos, em que parte está, em que... é fase tá esses esses produtos deixa ele dar uma carregada o computador voltou do carnaval hoje aí tá meio lento acontece deixa eu ver se eu faço um negócio melhor peraí rapidinho ele fica mais dinâmico. Eu vou usar a minha base local, né? Eu vou usar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: base da [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5319,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: não, é outra coisa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Outra coisa? Por que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: tenho uma base instalada no meu notebook. Às vezes ele tem um... Vou usar a base da [EMPRESA]. A base de demonstração. Porque como é uma base que todo mundo usa, entendeu? Aí fica... eu não gosto de contar nisso. Eu estou entrando em uma base que é da [EMPRESA] mesmo, entendeu? [PESSOA] aqui ó e eu venho aqui ó e eu tenho aqui ó o fluxo que eu falei [PESSOA], aqui eu tenho toda a parte de analisar a necessidade de compra que é em cima de uma solicitação, certo? [PESSOA]? O bloco, post-it. Aqui eu faço toda a cotação de compra. [PESSOA], aqui eu tenho as cotações que são mandadas, certo? E o tempo? o histórico de compra, como você falou, tá? [PESSOA], todos os produtos e grupos, eu posso olhar cada produto individualmente, tá vendo aqui, ó? Ele vai dar as solicitações dele, a quantidade de entrada prevista que já está em processo de compra, geração do pedido, o último preço que ele comprou, a maior quantidade que ele teve, o estoque que ele tem, certo? A data da última compra e o último valor. Posso analisar todas as cotações que envolve esse produto, que envolveu esse produto aqui na tela. Houve esses. O comprador, quem foi o comprador e o que comprou o número da cotação. A data da cotação e tudo mais. Consigo olhar os pedidos de compra que eu tenho aberto dele. Os que já foram entregues. Todos os que já foram entregues dele. [PESSOA], você consegue ter dentro desse aqui uma visão como está o processo. E aqui a mesma coisa, o fornecedor. [PESSOA], aqui o fornecedor, o maior atraso dele de entrega. Se eu tenho um módulo de controle de qualidade, que é a inspeção do fornecedor, vai dizer a nota dele, a primeira vez que eu cumpri a ele. E aqui vocês estão vendo que já tem, é diferente da análise. Quais são os produtos que eu mais compro desse fornecedor? [PESSOA], eu vejo aqui os produtos fornecidos, tá vendo? [PESSOA], tem todos os produtos que ele fornece, tá vendo? Toda essa parte, tá? Quais são os pedidos que estão sempre em atraso? É a mesma coisa. São os pedidos que estão atrasados. Quais são os pedidos que estão em aberto, certo? E se teve alguma devolução dele, eu vou tratar como é que foi a devolução, quais são os produtos que eu estou devolvendo muito. [PESSOA] acontece muito quando vocês vão devolver para algum sinistro, alguma coisa, você também consegue controlar essa parte. [PESSOA] eu tenho essa questão do nosso módulo de compras. Essa informação. A gente tem também dentro de cada módulo um mini dashboard [PESSOA]? Dos produtos, deixa eu achar aqui. [PESSOA] a gente tem vários dashboards, vários modos, de estoque custo, venda, faturamento, financeiro, compra, tá? São de compras. A gente tem O lead time, ele diz assim, tu tem um lead time, tu solicitar a compra e gerar o pedido, ele vai dizer a você quais são os lead times, quais são os produtos e os pedidos que estão. O lead time dos pedidos versus a nota fiscal, que está em atraso. Os pedidos de compra para o fornecedor, [PESSOA] ele vai dizendo a você aqui, vai gerando em drill down o detalhe de cada pedido, [PESSOA] de gráficos, [PESSOA] você consegue também ter, além daquela plataforma, o que tem. as devoluções das vendas. [PESSOA], cada cliente que devolve a você, você vai ter o controle dele dentro do sistema, como tal nível de devolução por mês, [PESSOA], em valor. Ter todo o controle de gráfico e de pedido de atraso. [PESSOA], são alguns dashboards nativos do sistema que conseguem gerar para vocês. Vou deixar isso aqui aberto, que eu tenho de vários modos. E isso aqui é um dos dashboards de compra, certo? Eu tenho... O modo de estoque e custo. Toda a parte de controle dos saldos dos produtos, se for um saldo por endereço, consigo ter também, tá? Toda a questão de cadastros, certo? Eu tenho... Todo controle de movimentação, de transferência, de gerar o inventário, de liberar a qualidade do produto, se o produto vai fazer uma análise, se ele vai estar de acordo com o que eu posso, tanto na entrada quanto na saída, fazer algum tipo de validação antes de gerar a entrada ou a saída desse produto. Todo controle de armazém de consumo, o que eu posso fazer. a questão do endereçamento, fazer transferência de armazém. E para auxiliar isso, a gente tem... Deixa eu achar ele aqui. [PESSOA], tem aqui o que a gente chama de meu coletor, tá vendo? Onde eu posso fazer a conferência das minhas notas de entrada, certo? Posso ver o detalhe, ó. Investidor de processo, aí eu vou selecionar o documento, e vou iniciar a conferência. [PESSOA] ele vai aqui, ó, vai fazer toda a coleta. Se eu clicar aqui, ele pode ler a etiqueta, quer dizer, você pode gerar a etiqueta com o código do produto. [PESSOA] a gente chama de etiqueta séria. Você bota lá, cria as etiquetas. Ele vai ler essa etiqueta. Se tiver um lote, você coloca. Se não, é só a quantidade colocar. Tanto na conferência de entrada, como na separação. O que seria na separação? Eu tenho aqui uma separação, aqui está de ordem de produção, porque essa base atende também a indústria, mas uma separação de pedido também. [PESSOA] você gera o pedido, ele vai gerar toda a separação. [LOCAL] também o inventário. [PESSOA], consigo fazer todo o processo de inventário e detalhar o produto. Eu posso selecionar o inventário que eu quero fazer e vou iniciar a contagem. [PESSOA], você vai para o armazém de estoque de recebimento. Chego lá e vou colocar o produto tal, a mesma coisa. Acho o produto, coloco a quantidade e ele vai. finalizar o item. [PESSOA], inventário concluído e vai fazendo outros produtos, tá? Botão de endereçamento. [PESSOA], vai chegar a nota fiscal lá de uma mercadoria e eu vou endereçar para o produto. Eu vou chegar aqui, ó, esse produto acessório, eu vou endereçar ao endereço. [PESSOA], eu vou botar aqui a quantidade, ó. O endereço, eu posso também colocar a etiqueta com o código do endereço, para ele já bipar aquela quantidade e cadastrar, certo? Eu consigo fazer isso aqui também, tá? Ah, mas eu quero fazer uma transferência de mercadoria, do produto. Também a mesma coisa. Seleciona aqui os tópicos que você quer, o almoxerifado que você quer, vai ler o produto lá, você coloca a quantidade, aí pode colocar o endereço, tá? e ele vai gerar transferência lá para o armazém também. [PESSOA], isso aqui é um app, eu consigo fazer toda essa parte de movimentação do estoque, tudo na palma da mão. Ah, Mario, eu queria também ver o saldo do produto aqui, eu consigo? Não. Como isso é um aplicativo de conferências e transferências, para não houver nenhuma alteração de dados e colocar a quantidade que você quer colocar para saber se vai ter ou não isso aqui o coletor não é usado para isso aí uma telazinha mesmo que você vai ter dentro do sistema um relatório né e com realidade de saldo né [PESSOA] aqui ó eu consigo ver o saldo atual de cada produto. Consigo ver cada saldo de cada produto, o custo unitário. Consigo ver saldo por endereço dos produtos, que a gente chama de rachabilidade, e tem o dashboard de estoque também. [PESSOA], a quantidade de valor em estoque. Também eu tenho índice de endereçar, igual ao do coletor, certa quantidade que tem para endereçar. Se eu trabalhar com um produto específico que tem controle de loads, eu também consigo controlar esse controle dentro do sistema. A evolução do valor de estoque por informação. Dentro, normalmente o pessoal bota aqui, eu consigo ver, os pedidos que estão com bloqueio de estoque, certo? Os pedidos que estão aptos a faturar com já o estoque liberado. [PESSOA], você consegue gerar para a liberação do pessoal fazer o faturamento em cima das informações que você tem na tela também. [PESSOA], a parte de estoque custo é bem tranquila. Na parte do financeiro, A gente tem toda a parte de controlar, de apagar e de receber, certo? A gente tem um gestor financeiro. [PESSOA], eu tenho aqui toda essa parte do gestor financeiro, eu tenho os indicadores financeiros, a central de títulos que você pode mandar para o banco, comunicação bancária, fluxo de caixa e dashboard. [PESSOA], aquele mesmo dashboard financeiro está aqui aberto, não é só um facilitador, mas você tem os indicadores financeiros. [PESSOA], sua gestão vai trabalhar com o quê? Olha o saldo bancário da conta, os títulos a pagar que estão vencidos, os boletos que estão pendentes de registro, os maiores clientes com top vencido, indicador de peça, os títulos da [EMPRESA] vencidos por tempo de atraso, [PESSOA] tem dois títulos, [PESSOA] o tempo o valor dos títulos pendentes [PESSOA] você consegue ter toda essa parte de gestão certo e a central de títulos ó e ele mostra aqui como tá os títulos tá baixado tá atrasado [PESSOA] você pode fazer filtros aqui busca as avançadas fazer filtros né o valor né com o número do título, pela parcela, eu quero todos os títulos com o número tal, pela natureza, pelo cliente, pelo nome do cliente. [PESSOA], você consegue gerar esses filtros em telas para ter toda a visão. Você pode olhar tanto em gráficos, ter uma visão em gráficos. Entradas a receber, você tem no período dos próximos sete dias, de sete a trinta dias, você já tem aqui o Agir em Tela, os seus títulos a receber. e seus dígitos apagar. É muito interessante essa questão dos indicadores. Consigo analisar meu fluxo de caixa. Consigo olhar aqui como está meu fluxo de caixa inicial, final, se tiver em aplicação. Consegue fazer várias simulações. ou de uma consolidade de várias filiais de um período curto. A questão do dashboard financeiro. Aí eu tenho tudo que é o movimento de natureza financeira realizada e prevista. Meu fluxo de caixa realizado aqui em gráficos. [PESSOA] eu consigo ver se já está aprovisionado ou não. É tudo no detalhe. eu consigo gerar várias informações, certo? [PESSOA], assim, o sistema tem muita questão intuitiva de gráficos, como você bem falou. Mudou muito no Proteus. [PESSOA], a gente tem essas rotinas, porque no financeiro, pagar, receber, a gente tem todas as partes de que nave. Uma coisa legal que a gente tem no modo de faturamento, É todo o conceito de tabela de preço, regra de negociação. A gente consegue gerar o pedido de venda, consegue analisar o crédito do cliente, emite a nota fiscal, tanto de você faz quanto a questão da nota fiscal de saída. [PESSOA], consegue ter essas informações. Uma coisa que é legal aqui, que a gente gosta de falar, é que você pode fazer os... os pedidos em cima, certo? De um app, que é o portal do gestor de vendas. Onde você tem aqui na parte da [LOCAL], o seu vendedor, certo? Pode andar pela loja com o tablet e ele mesmo fazer o pedido. Pode gerar um orçamento e mandar para ele ou pode gerar um pedido dentro do sistema. Ele vai aqui ó, vai colocar o novo pedido, pode cadastrar na hora os dados iniciais do cliente, ele vai fazer aqui toda, colocar toda a informação que ele quer, vai colocar aqui o item do pedido, certo? Vai buscar aqui ó. Aqui Colocar só o inicial vai aparecer, coloca a quantidade. Ele já vai dar informação para ele, se quer dar um desconto ou não, certo? Você pode ver a foto do produto, pode consultar o estoque dele, saber se tem realmente estoque. [PESSOA] o cliente quando chegar na loja com o tablet na mão, você já consegue ele olhar toda a situação. Colocar aqui, ele tem aqui o saldo atual. Na hora ele já gera o pedido e já pode depois o pessoal do faturamento só emitir a nota. Ele vê as comissões dele, isso aqui é o usuário dele, como está já a comissão dele. Toda essa parte aqui dos títulos dele. Ele já vai ver se a meta dele já está... O que ele já vendeu, o que ele mais vendeu, como está o faturamento dele nos últimos dias, quanto ele chegou da meta dele, aqui. e quais são os clientes que ele atende, que ele atendeu. [PESSOA], esse portalzinho aqui é muito interessante também, para ele ter uma noção, os itens, o que está a faturar, o que está pendente. [PESSOA], você fica andando com o tablet, aqui é uma visão desse aplicativo dentro de um computador, você pode usar também dentro do computador ou no celular também. [PESSOA], ele tem aqui, O mesmo portal que está aqui, eu estou abrindo aqui no celular. Se você achar melhor não usar o tablet, você tem o celular. Ele está carregando e trabalha também offline. aqui é a mesma tela tá vendo ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó ó A mesma coisa, tá vendo? Ele já me abre aqui informações. [PESSOA], eu consigo fazer toda aquela... Na palma da mão, você consegue ver todas essas informações e gerar o pedido e acompanhar o faturamento. Aqui ele está liberado, está aí aberto, está vendo? Os status, e quando ele tem, quando já foi faturado, já sabe qual é a nota fiscal, quando foi faturado, e tal, foi faturado, tal, a sua nota já foi faturada. E ele consegue analisar toda essa parte. Tranquilo? Acho que faltou 10 minutos aqui. Alguma dúvida?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Não, eu aqui não... Consegue me dar uns 2 minutinhos? Peraí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3707,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: já",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 49]: estou...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Se puder entrar depois pra dar uma olhadinha e mostrar os insights lá do Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5719,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Pessoal, vou ter que me ausentar rapidinho aqui. Surgiu uma demanda muito específica. Muita gente aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3991,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Retornamos em um outro momento? [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5109,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: mas eu verifiquei ali do sistema, tá? Mas eu queria ver, em questão de preço e tal, prazo de implantação também. O sistema atende?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não, perfeito. [PESSOA] te aciona aí pra gente marcar um novo momento aí pra fazer uma troca, beleza?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3867,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: [PESSOA] [PESSOA], pessoal. Até mais. Tchau, tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3551,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Domingos. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [PESSOA], aproveitando ali, cara, tem um... O que é que tu anotou?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5017,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Pois é,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Pode falar, tô ouvindo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Ah, deixa eu perguntar, cara. O truque saiu e a gente nem comentou. Quer seguir aqui? O que tu pretende fazer?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4747,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: seguir aí, se vocês quiserem, se precisar mais mostrar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4645,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tem alguma dúvida em específico, que tu é da área de [EMPRESA], alguma coisa que a gente possa abordar mais centralizado, alguma expectativa tua?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5461,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Eu queria saber sobre personalização de campo, na questão de, ah, no piso de venda ou alguma coisa assim de consulta de estoque, eu queria ver outros campos que não estão configurados ali, teria como configurar?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Boa pergunta, [PESSOA]. Tem sim, tá? A gente consegue colocar campos customizados, posso criar um campo específico que ele só visualiza, não seja direto do banco de dados, seja só um campo específico para algum atributo que ele sai numa pesquisa. O Proteus é totalmente personalizado, entendeu? Nessa parte de criar campo, botar campo como obrigatório. [PESSOA], assim, ele é bem tranquilo nisso aí. [PESSOA], o que a gente mostrou ali é como... A gente vai atender, só que a gente tem algumas particularidades que você, que a maioria dos outros CRPs não tem. Essa flexibilidade de criar campos obrigatórios que só pode seguir depois que der esse check. Em qualquer parte de tela do produto a gente consegue fazer isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.504,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Sim, entendi. Aquele aplicativo à parte para as vendas, para os vendedores usarem, ele já está incluso no plano? Ele é à parte, o valor dele?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: O valor dele é a parte, mas ele como é um plano para 10 usuários, ele fica, não sei o valor exato, mas pode falar. Mas é um valor, por licença, não dá nem, é bem baratinho, aí depois ele pode passar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: para você. Isso já está, [PESSOA], no que eu falei com o [PESSOA] em relação ao valor, já tem o portal de vendas ali, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tem, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tem, tem sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: os 25 usuários dele.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Ah, 25, tá certo. Eu acho que no geral era isso mesmo, só ver o... A parte de importação de XML, vocês teriam?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Tem também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: também. A gente tem o [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: ele pega todo o monitoramento, certo? Das notas fiscais, tá vendo? Eu tenho as notas fiscais que são emitidas contra vocês, tá? Tanto a nota de mercadoria quanto a nota de serviço também,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Você consegue ter todo o monitoramento e ele automaticamente já vai para dentro do sistema, gerando lá a nota para ser classificada no compra. [PESSOA], toda essa parte a gente tem também. Tá vendo minha tela, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Sim, sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: estou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: vendo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA], toda essa parte ele gera, faz a baixa do XML, ele entra... Quando eu dou a ciência da mão de fechação, ele vem aqui, a gente tem um monitor O monitor está vendo? O importador XML. Ele vem para cá e faz toda a tratativa. Aqui tem a legenda. O documento já foi gerado para o proteu para se dar a entrada da nota. O produto ainda está aqui. A nota ainda está aí, normal, para fazer toda a análise. O documento está pendente de revisão cadastral. Está vendo aqui? Que é essa. O que seria revisão cadastral? [PESSOA], não foi feito a parte de quê? Do cadastro. Ou o produto não está cadastrado, ou o fornecedor não está cadastrado. Está vendo aqui? Esse produto [LOCAL], marau, marau. O cliente não está cadastrado no Proteus. Porque ele tem que fazer um vínculo de produto do meu fornecedor com o que eu tenho no Proteus. Aí eu tenho como fazer essa amarração. Está vendo aqui? Amarração no produto, está vendo? Ou eu posso cadastrar o produto, ele não está cadastrado. Existe a amarração do produto e o produto não está cadastrado. A mesma coisa o fornecedor não pode não estar cadastrado. [PESSOA], aqui no produto eu venho e posso cadastrar. Esse produto depois já vincular esse fornecedor específico. Tá? Consigo fazer tudo dentro de uma tela só. Tá joia? [PESSOA], assim, a questão do compra tem também essa questão do...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: parte do fornecedor, né? De importação do XML.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Sim, sim. De vincular o produto ali e poder cadastrar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.451,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sim, isso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: aí. Tem como fazer isso aí, tá? Tem mais alguma dúvida?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Em questão de relatórios personalizados, seria como construir ali? Acho que sim, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4863,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: A gente tem uma ferramenta que a gente chama de Smart View. Só que os relatórios são padrões. Para você usar a ferramenta, também tem um custo adicional de uma licença, específica, né? E a questão do treinamento para mexer no relatório, tá? Ele entra aqui, ó. Lembra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6036,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: a quantidade de relatórios padrões já que tem? São centenas, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Eu tenho tanto relatório específico como tabela dinâmica e visão de dados. E aqui eu tenho vários modelos. Aqui tem vários relatórios específicos dentro do sistema, entre outros. Esse aqui tem um filtro no meu interno. Como você pode pegar um relatório desse e realizar uma cópia e peço analisar. Ah, quero colocar um campo a mais, quero colocar alguma informação. [PESSOA], esses aqui são os relatórios gráficos, certo? O que seria gráfico?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Seria de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: modelo gráfico de impressão e molde de PDF. [PESSOA], aqui eu tenho esse relatório, eu tenho as tabelas dinâmicas. Também tenho outros. razão, posição, movimentação de bem. Tem as visões de dados também, que aí são os relatórios mais usados. Relação de baixas, sauda depreciar, contratos, multas, balancete. [PESSOA], tem muito relatório. [PESSOA], como falei, posso gerar, importar já",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: feito ou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: personalizar um específico",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: você. [PESSOA]? [PESSOA], como é que funciona? Mais ou menos, só para você entender. [PESSOA], eu tenho aqui, vamos pegar isso aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4531,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Ó,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: esse aqui é um exemplo, tá de urbanatório, tá? [PESSOA], está vendo aqui que ele gerou uma tabela dinâmica? Isso é isso. [PESSOA], deixa eu chegar aqui, eu quero analisar aqui, ele está quebrado por filial, está vendo? Eu selecionei várias filiais, está vendo? [PESSOA]? Deixa eu chegar aqui e dizer que eu quero platar tudo que é nota, eu quero quebrar por condição de pagamento, todas as notas de entrada por condição de pagamento, está vendo? [PESSOA], ele já me quebrou por condição de pagamento. Posso voltar, ó. Não, eu quero por fornecedor. Pela razão social, pelo nome. [PESSOA], tá aqui, ó. Ah, mas eu não quero pelo nome, eu quero pela data de entrada. Que é a data de digitação, tá vendo aqui? [PESSOA], eu chego aqui, ó. Bota aqui na frente. [PESSOA], tudo nessa data aqui, pra onde a gente entrou, certo? Ah, eu quero fazer um filtro. Eu não quero, quero só de 2026. [PESSOA], tudo de 2026 está aqui, está vendo? Exporte, tal, tal, tal. E vou fazendo todas as partes de análise. Ah, eu quero jogar isso num relatório. Eu venho aqui, ele já exporta para Excel no formato que está filtrado na tabela dinâmica. ó, você pode ver aqui ó, ele já tá naquela mesma filtragem que eu fiz também não. Ah, mas eu não gostei da filtragem não, eu não quero que vá sem a filtragem. Não tem problema nenhum, aquilo ali é uma consulta de tela. Posso chegar aqui ó, e voltar, tirar as datas de digitação, deixar só a filial, certo? Exportar novamente. Tá vendo aqui? E aqui você pode fazer o filtro aqui normal, tá vendo? Ele só não vai estar no modelo da tabela dinâmica. E você pode filtrar aqui, como aquele outro que eu fiz, ó. Só o de 2026. Só o da filial 1, ó. E aqui, ó. Todo o filtro na tabela que você pode trabalhar. [PESSOA] é uma coisa bem legal que você pode fazer. [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: certo? É isso aí [PESSOA] mesmo. Acho que pode incluir essa parte de relatório na proposta que a gente vai precisar nessa personalização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCAL]. [LOCAL] [PESSOA]? [PESSOA]? Estou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: aqui, estava desligado meu microfone. Entendido, Pois aí, tem um ponto também, não sei se o [PESSOA] comentou ou não, quando ele abre a tela ali, tu vê que tem muitas funcionalidades, né? Que o [PESSOA], ele tá usando uma base de demonstração, [PESSOA] tem todos os modos contemplados ali. Pra quem olha inicialmente a carinha do Proteus, quando apresenta, parece poluído. Mas assim, cada usuário vai ter ali os acessos pertinentes aos seus módulos. Por exemplo, compras, vai acessar só compras e assim sucessivamente, né? Vai ficar bem mais clean a visibilidade dele, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Para entender, sim. Porque a primeira vista a gente fica meio perdido, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4549,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: muita coisa, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: mas fica tranquilo que isso é adaptável para cada usuário, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5474,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Cada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: usuário tem o seu perfil, o seu direito, o que acessar, o que não acessar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4584,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Ah, [PESSOA] fica melhor mesmo para...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Porque assim, exemplos, né? Se o compra só acessa compras, ele não precisa ter outros módulos ativos para ele, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Sim, sim. Não, faz muito sentido, a gente configura só o que o usuário precisa mesmo e ele acessa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4089,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: através. Exatamente. E essa base que o [PESSOA] tá abrindo aqui, ela tá completa, né? A base que todo mundo utiliza no [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5333,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: todo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Mais algum ponto, [PESSOA]? Queres aproveitar aí o momento do [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5091,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: O que eu me lembro era isso mesmo, só da personalização o campo, o relatório, e o resto a gente já viu que funciona bem ali, tem o que a gente precisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Pois é, me tira uma dúvida, [PESSOA], que hoje a Sankia tem integração com alguma outra solução de vocês ou não?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: [LOCUTOR 4]: não têm o e-commerce, né? Eu lembro que o [PESSOA] comentou algo sobre vocês terem o e-commerce aí, mas está em roadmap essa operação ainda, né? Sim,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: a gente est",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: planejando fazer um e-commerce não está pronto ainda, não tem nada pronto. E a gente precisava da integração com o sistema,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: poder viabilizar essa operação do e-commerce. E a gente não",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: tem tempo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: de mão de sangue.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCUTOR 6]: a gente não tem. [PESSOA], beleza. Até dar uma segurada nesse ponto aí, porque assim, dando certo aqui, a gente trocando o ERP, não faz sentido tu fazer isso agora simultaneamente. Primeiro, corrigir o coração da operação, que é o ERP, aí depois ver como a gente tem solução para isso para vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Mas vocês teriam integração pronta com alguma plataforma, marketplace, alguma coisa?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Sim, sim. Além de ter também o próprio e-commerce para vocês.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4512,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Ah, já tem a própria plataforma de e-commerce já.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: [PESSOA] seria bom depois dar uma olhada nisso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.454,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL], com certeza. Como não é prioridade, claro que o meu objetivo como vendedor é iniciar uma parceria com vocês E depois disso, eu quero apresentar tudo que faz sentido dentro do nosso portfólio. A gente tem uma série de coisas para apresentar. Agora, eu vou apresentar aquilo que tem que fazer sentido para vocês, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 52]: A gente precisa mesmo do R&P mesmo, por enquanto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5841,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Sim, mas é importante saber que a gente pode atender outras linhas também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4621,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: [PESSOA], não? A gente pode fazer uma contação depois sobre reformas, integração, essa parte aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Não, e se financeiramente o nosso e-commerce não fizer sentido, vocês querem outro, tranquilo, a gente é muito flexível também para integrações. Tá certo,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4039,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: vamos considerar a proposta, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 39]: Mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: algum ponto, [PESSOA], você retornou aí? Mais algum ponto que iria visitar, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: Em relação à usabilidade do sistema, tem tudo que a Saudação precisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Preciso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: mesmo agora, o que é interesse ali do gestor é ver quanto tempo levaria, caso fechasse com vocês, quanto sai a implantação daquele modelo que tu me disse,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: aquele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: modelo que é menos custoso, e quanto eu pagaria de mensalidade, principalmente, durante o projeto e depois do [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.567,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL]. Deixa comigo, vou só alinhar os detalhes aqui com o [PESSOA] e já marco contigo para apresentar isso para você. Tá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5139,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: tá certo. Ele teve que sair de novo, tadinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.482,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Percebi. Tranquilizar isso. Vamos falando [PESSOA], tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Tu fica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: ali na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: mesma unidade que o [PESSOA], né? Ou tu é terceiro?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: Não, eu fico na mesma unidade.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: Ah, show de bola. [PESSOA] tá, quando for aí a gente se conhece [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: [LOCAL]. [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: meu amigo, obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3932,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 52]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 52]: trabalho pra vocês aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: [LOCAL], tchau tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

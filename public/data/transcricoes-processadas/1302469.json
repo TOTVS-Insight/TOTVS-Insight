@@ -1,0 +1,1435 @@
+{
+  "id_reuniao": "1302469",
+  "codt": "T76839",
+  "data_reuniao": "2026-03-26 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 2]: Então, o que vocês estão buscando? Qual que é a dor atual que vocês têm na operação que vocês estão buscando como solução? Ou até mesmo, talvez, uma oportunidade de melhoria? O que vocês vislumbram mesmo como uma oportunidade de melhoria?\n[LOCUTOR 13]: Sim, vou dar uma esclamada em qual é a nossa... Agora a gente tá mudando um pouco o nosso processo aqui de... Principalmente de recebimento, tá? Onde hoje quem faz todo o controle dos caminhões que acessam o recebimento para descarregar os vigilantes na portaria. Então, olha, eu tenho um caminhão, olha, eu tenho 18 caminhões para descarregar. Não tem um controle eficiente disso, né? É por isso que a gente buscou a TI para nos apoiar sobre isso, buscar uma solução, né? Daí ele consultou vocês, ele disse que vocês têm uma ferramenta que pode nos auxiliar, né? tem o Julien aqui, que é o responsável pela expedição, que também a gente tem um fluxo contínuo de entrada e saída de veículos, né, que daqui a pouco poderia nos auxiliar na questão de entrada e saída, mais controle, estatística e um monte de informações que nos ajudaria aí nas tomadas de decisões para ir para frente, né. Então, temos essa dificuldade e gostaríamos de uma solução que nos auxiliasse.\n[LOCUTOR 2]: [LOCAL]. Hoje vocês já têm ali alguma solução que faz ali a parte de gestão de estoque, já faz ali o controle dessas movimentações ou atualmente não?\n[LOCUTOR 13]: É que eu acho assim, só para concordar, a gente tem uma solução, então assim, depois que o material já está colocado no sistema, mas o nosso interesse nesse momento seria um pouco mais a questão da... Antes da nota, né? Antes da nota, né? A questão de gestão de parques, especificamente.\n[LOCUTOR 2]: Não, perfeito, pessoal. Teria ali mais algum outro ponto, alguma outra dor que vocês queiram trazer?\n[LOCUTOR 13]: Não,\n[LOCUTOR 2]: excelente, então. Então, perfeito, pessoal. Então, vou compartilhar aqui minha tela. Já vou trazer aqui um pouquinho aqui do contexto aqui. da suíte log\n[LOCUTOR 3]: aqui,\n[LOCUTOR 2]: onde está ali a solução de checklist e também as outras demais soluções ali. Vou compartilhar aqui minha tela junto com vocês. Bom, é só para voltar um passo ali para trás, até mesmo para dar o contexto aqui para a agenda. Então, hoje vocês já têm aqui a solução de checklist. Além da solução de checklist, a gente tem outras soluções dentro do portfólio aqui da suíte logística. Minha tela está compartilhando\n[LOCUTOR 13]: para vocês,\n[LOCUTOR 2]: pessoal?\n[LOCUTOR 13]: Ah,\n[LOCUTOR 2]: perfeito. A minha tela aqui acabou travando um pouquinho, mas o importante é que vocês estejam vendo. Então, a gente tem aqui a suite logística, essa plataforma de logística para atender a logística de ponta a ponta, vocês já possuem aqui então o checklist e os insights logísticos, que é mais voltado ali a uma ferramenta para fazer o processo ali de controle de inspeção, digitalizar ali essas inspeções que são realizadas, mas além disso, a gente tem a solução aqui de WMS, que faz toda a parte de gestão e movimentação dos materiais ali dentro do centro de distribuição para otimizar, desde o processo de controle de entrada para ferir ali se aquele material que estava previsto ali no documento de entrada é o que, de fato, eu estou recebendo, se tem algum produto que está avariado eu consigo realizar esse apontamento dentro do WMS. E fora todo o processo de otimização na movimentação de saída. Então, gerar todo um fluxo de separação por onda para que a operação ande menos dentro do centro de distribuição para fazer esse processo de carregamento e atendimento do pedido. Além disso, a gente tem aqui a solução de agendamentos O agendamento ele é responsável por gerar uma melhor organiza\n[LOCUTOR 9]: frente\n[LOCUTOR 2]: aos transportadores e os fornecedores daquilo que está previsto para receber no dia. Então aqui dentro do agendamento, eu vou até entrar um pouquinho ali dentro da solução para demonstrar para vocês, a solução na prática, é onde vocês conseguiriam ali montar janelas de acordo com o horário de trabalho de vocês, de acordo com a capacidade, quantas docas vocês possuem. E ali dentro do agendamento vocês organizarem. Ah, eu tenho aqui uma capacidade máxima, vamos supor, de receber somente sete veículos no dia, porque meu processo de tempo de descarregamento ou carregamento é de três, quatro horas. O exemplo é que eu tenho somente poucas docas dentro da minha operação. Então, aqui dentro do [LOCAL] é que faz todo esse processo de controle. E além disso, dentro aqui do [LOCAL] também, a gente tem uma visão que vou demonstrar para vocês também, que é para que a [LOCAL]\n[LOCUTOR 6]: transportadora,\n[LOCUTOR 2]: o próprio fornecedor consiga entrar na aplicação e eles mesmos realizarem ali o agendamento. E temos o [EMPRESA] também, o [EMPRESA] ele faz toda a parte de controle de pátio e portaria. Então, assim que esse motorista ele chega, ele se identifica na portaria, ele é direcionado ali para os pontos de controle. O que seria esses pontos de controle? Quais serão as etapas que esse motorista vai passar, além de ter todo o processo ali de controle, né? de jornada, então quanto tempo esse motorista está dentro da minha operação, qual o processo que está sendo executado, então o [EMPRESA] vai dar a visibilidade desse todo para a operação de vocês. Então isso aqui é um pouquinho da parte da intralogística. Já no restante que a gente tem aqui dentro da suíte logística, a gente tem um coleta e entrega, que ele é mais voltado ali para o processo de comprovante da entrega ou comprovante do que está sendo coletado ali, Então, vocês, além de ter a digitalização desses canhotos, fisicodigitalizar isso, vocês também tem um processo de visualização quanto que foi entregado, processo de geolocalização também, para saber se o local onde que esse motorista entregou bate com o endereço de cobrança desse cliente. Temos também aqui o nosso TMS, temos também a parte de automação de terminais, que é mais voltada para a operação de cross docking, temos o marketplace de fretes, que ele é voltado para a parte de gestão e votação dos fretes, o nosso roteirizador também, Quando a gente vem aqui para a parte de rastreabilidade logística, a gente tem os nossos custos logísticos, portal logístico, estão muito interligados aqui a parte de TMS.\n[LOCUTOR 13]: O\n[LOCUTOR 2]: tracking é para dar visibilidade para o cliente final de vocês, da atualização do status desse pedido, se esse pedido está separado, se ele está faturado, se ele está em embarque, se ele está em rota de entrega. Temos também aqui o nosso monitoramento, que é mais a parte de monitoramento de carga em si. onde a gente consegue gerar integração ali com os rastreadores, mesmo os da carga, para dar visibilidade ali aonde se encontra a carga de vocês. E os insights logísticos, que é uma ferramenta que vocês já possuem aqui dentro do checklist, mas o interessante dos insights, que hoje ele está presente dentro de todas as nossas soluções aqui dentro da suite, que é justamente dar essa visão de BI. Aqui só foi para contextualizar vocês mesmo, dar um overview aqui sobre a Suite Logística como um todo, do que a gente consegue ofertar ali para vocês. Então, caso, possivelmente, vocês possam ter ali alguma outra dor que vocês possam estar buscando ali a solução, muito possivelmente aqui dentro da Suite Logística a gente vai conseguir atender. Então, isso daqui é a nossa plataforma, que vocês já têm ali acesso, já conseguem, já é uma carinha que não é novidade para vocês. e eu vou entrar aqui na solução de agendamentos e na solução aqui de [EMPRESA]. Podem ficar bem à vontade, pessoal, para questionar, para levantar ali possíveis dúvidas que vocês possuem. Aqui eu reforço que a parte aqui do agendamento e do [EMPRESA], a gente trata como duas soluções distintas, mas as duas, elas se integram de uma forma nativa. Então, todo o agendamento que é realizado dentro aqui da plataforma da solução de agendamentos, a gente espelha isso é para a solução de [EMPRESA] que faz a parte de empate portaria. Então, assim que o motorista chega, os recebimentos estão previstos, as cargas estão previstas para receber naquele dia ou para expedir no dia. De acordo com o que foi feito em agendamentos, o sistema vai espelhar isso para dentro do [EMPRESA]. Ou até mesmo fazer uma chegada não prevista. Então, caso vocês identifiquem, a solução de agendamentos não é uma necessidade atual. Eu só quero realmente o controle ali de parte portaria ali da minha operação. Aí vocês conseguem só implementar também ali só o [EMPRESA], então é só pra reforçar que apesar\n[LOCUTOR 13]: de\n[LOCUTOR 2]: serem duas soluções que se complementam, se vocês identificarem que não tem necessidade de uma ou elas também conseguem funcionar de uma forma separada. Gente, até aqui, tem alguma dúvida? Vocês querem trazer algum cenário?\n[LOCUTOR 13]: [LOCAL], então\n[LOCUTOR 2]: podem ficar à vontade. Bom, então vou entrar aqui dentro das configurações aqui do [LOCAL], porque é realmente a alma aqui do processo, então vou vir aqui dentro das janelas. Dentro aqui das janelas que a gente consegue configurar o que é aquela janela, quais docas que essa janela vai possuir, ela vai ter acesso, então posso ter uma doca ali que é específica para o processo de carga, outra doca que é específica para o processo de descarga, Se ambas foram ali executar os ambos processos também é possível configurar ali quanto a isso. Se tem algum produto ali específico para tratar naquela janela, porque às vezes tem algum produto que leva maior tempo para fazer o processo de carga ou descarga ou até mesmo um tempo ali menor, vocês conseguem aqui configurar de acordo aqui com a janela. Então aqui teria aqui o nome da janela, quais que são os locais, então vocês vão cadastrar ali os locais ali para serem vinculados aqui a essa janela. qual que é o tipo de processo, se é um processo de carga ou se é um processo de descarga. E os itens obrigatórios, aqui esses\n[LOCUTOR 13]: itens\n[LOCUTOR 2]: obrigatórios eles são opcionais, mas é bem relevante porque a gente envia depois essa informação para a transportadora ou para o fornecedor ali ou para o cliente em específico que está vinculado a essa janela, a gente envia esses dados inclusive notificando quais que são os itens ali que são obrigatórios esse motorista ali, ele tá ali apresentando. Então, é uma identidade, é um EPI, é o uniforme da empresa, tá com ali algum sapato ali específico, então vocês conseguem colocar isso aqui dentro das configurações. Aqui seria o tempo, né, então o tempo ali pra fazer o processo de carga ou descarga. O horário de funcionamento dessa janela, então posso ter ali uma janela ali pra fazer o processo ali de carga. que vai ali das 11 horas da manhã até as 22 horas, e o processo de descarga vai das 8 às 18 horas. Então, tudo isso é configurado e vocês também conseguem configurar aqui intervalos. Então, caso tenha ali um horário, algum período da operação,\n[LOCUTOR 13]: que a\n[LOCUTOR 2]: operação, por exemplo, pare ali pro horário do almoço, do jantar, ou algum horário de descanso ali no meio da tarde, algum intervalo, vocês conseguem configurar e o sistema vai respeitar. essa configura\n[LOCUTOR 9]: aqui\n[LOCUTOR 2]: que está vinculada à janela. Aqui a gente tem a limitação dos dias, então quais são os dias da semana que está disponibilizado essa janela e o processo de reagendamento. O que seria esse reagendamento ou até mesmo edição. Como eu mencionei, a gente disponibiliza uma interface ali, um acesso ali, para que esses terceiros, eles consigam, eles mesmo realizarem ali o agendamento de acordo com a disponibilidade operacional de vocês. E aqui vocês conseguem determinar quanto tempo que eles podem fazer o processo ali de reagendamento, cancelamento ou edição. Na minha base aqui, eu configurei para que seja permitido isso, no intervalo mínimo de 5 minutos. Então, 5 minutos antes de acontecer a janela, eu estaria permitindo fazer esse processo de reagendamento. Porque a partir disso, o sistema já configura isso como um no-show. Então, se a pessoa não chegou nesse horário, não reagendou dentro do horário que estava previsto, ele vai dar como no-show e você depois consegue ter todos esses indicadores na operação. A gente também tem as informações dos limitadores. Então consigo configurar essa janela e algum tipo de restrição. Então para essa doca que eu só recebo determinados veículos\n[LOCUTOR 13]: ou\n[LOCUTOR 2]: eu tenho uma doca que é vinculada a uma transportadora específica ou fornecedor ou um cliente específico. Então que vocês conseguem restringir isso ou até mesmo gerar restrições de produto quantidade de volumes questões de peso e cubagem também. Então aqui são algumas das informações que o sistema consegue auxiliar ali no momento que a gente está realizando ali o cadastro desse agendamento. Então, aqui é um pouquinho das configurações do agendamento. Então, também conseguimos aqui configurar, cadastrar quais são os locais que eu vou ter. Então, aqui eu posso ter um local que te doca e várias docas aqui vinculadas, posso ter uma área externa, uma área interna ali para fazer o processo de carga e descarga, quais são as transportadoras, os fornecedores, informação até mesmo de ajudantes O bloqueio de agenda, então, tem alguma data específica, por exemplo, um feriado. Eu vou bloquear que não permita realizar agendamento nessa data aqui em específico ou a operação ali vai realizar algum processo de inventário, vai ter que fechar ali a operação, não vai poder receber nem expedir nada. Então, tudo isso é possível configurar aqui dentro do agendamentos. Saindo aqui um pouquinho das configurações, agora eu já vou entrar aqui dentro do painel de agendamentos. De acordo com aquelas docas, aqueles locais que eu configurei dentro\n[LOCUTOR 13]: da\n[LOCUTOR 2]: minha base, o sistema traz essa visibilidade aqui de todas as minhas docas. Então tem um box, tem um doc aqui, tem uma área específica de silo. E para realizar que agendamento eu vou aqui em novo agendamento. O sistema vai me dar duas opções. Eu posso realizar um pré-agendamento. O que seria o pré-agendamento? Quando eu não tenho um documento vinculado. Então só quero realizar uma pré-reserva. dentro daquele período, dentro daquele horário específico, para que? Depois, esse fornecedor, o transportador, o cliente específico, me envia esse documento\n[LOCUTOR 13]: ou\n[LOCUTOR 2]: eu vou receber esse documento. documento, a área de compras ou alguma outra área interna vai me enviar essa informação e eu consigo fazer o upload aqui dentro da base do sistema e automaticamente, quando eu carrego esse documento, esse pré-agendamento, o sistema já configura isso como um agendamento já efetivo de fato. E, no caso aqui, um agendamento, quando eu já tenho a informação de qual é o documento que eu vou executar o processo. Essa seria ali a diferença entre o pré-agendamento e um agendamento mesmo efetivo. Dentro aqui do processo, eu vou selecionar qual que é o processo que eu vou executar. Então, se é um processo aqui de recebimento, expedição, de acordo com o que eu configurei ali, aquela janela. Então, por exemplo, aqui eu vou informar aqui que é um processo de expedição. Aqui eu consigo informar aqui a transportadora ou fornecedor, que no meu caso aqui eu vou informar uma transportadora. Posso informar aqui o produto, quanto que eu tenho aqui do peso líquido, a cubagem, a volumetria, por exemplo, que eu tenho ali para essa agenda, e aqui eu insiro aqui as informações do veículo. O que é obrigatório? É obrigatório informar qual que é o tipo de veículo, mas se eu já tiver, por exemplo, a plata do veículo aqui que eu vou receber, posso vir aqui cadastrar aqui como novo e informar os dados aqui desse veículo dentro do sistema, mas caso já esteja cadastrado aqui na minha base, eu posso selecionar aqui uma placa em específico. Então, por exemplo, eu vou marcar aqui essa placa em específico, o sistema já trouxe aqui qual é o\n[LOCUTOR 13]: tipo de\n[LOCUTOR 2]: veículo, carroceria, todas as informações. Aqui eu teria aqui a informação do semi-reboque\n[LOCUTOR 13]: e a\n[LOCUTOR 2]: informação também do motorista, caso já saiba ali qual é o motorista que vai realizar esse esse trabalho. Então, aqui eu vou informar que eu vou estar entrando aqui, por exemplo, com\n[LOCUTOR 13]: o\n[LOCUTOR 2]: [PESSOA]. Aqui, no caso, o [PESSOA] eu não vou poder porque a carteira de habilitação do [PESSOA] está vencida. Então, eu não consigo entrar. Então, tudo isso, o sistema ele também traz esses dados ali no dia-a-dia para vocês também estarem ali acompanhando. Então, nesse caso aqui, eu vou vir aqui, vou cadastrar aqui um novo. eu consigo inserir aqui a foto desse motorista, que é bem interessante até mesmo para questões ali do [EMPRESA], por quê? Se eu cadastrar aqui a foto desse motorista e se vocês tiverem, por exemplo, ali uma câmera ali, no momento que faz ali o processo de [EMPRESA], no momento que o motorista está entrando, o sistema consegue validar se a foto que está nessa base de dados ali do sistema, se é correspondente à mesma foto. é a mesma pessoa que está se apresentando ali fisicamente. Caso não seja, o sistema já impede a entrada desse motorista. E caso seja, o sistema vai liberar a pessoa para fazer o check-in ali, por exemplo. Vou informar. Informa aqui a informação da licença, da validade. e o telefone desse motorista. Por que o telefone é obrigatório? Depois eu vou até mostrar uma etapa ali dentro do [EMPRESA] que a gente consegue fazer o processo de convocação desse motorista. Então, consigo convocar esse motorista para a próxima etapa do pátio que ele deve executar. Então, aqui eu vou dar um próximo, aqui eu vou anexar os documentos, eu posso tanto fazer a importação de um XML. Ah, não tem a informação ainda, não tem nota ainda emitida, só tem a informação do pedido. Sem problemas, então aqui é só inserir. Por exemplo, aqui o número do pedido, consigo inserir aqui a informação do cliente destinatário, adicionar ele, vou salvar aqui. No próximo sistema ele vai me dar aqui todas as minhas janelas disponíveis, por exemplo, na data de hoje, senão eu quero agendar ali para amanhã, eu consigo aqui discorrer também e selecionar qual que é a data específica que eu quero realizar esse agendamento. Nesse meu caso aqui eu vou selecionar a data de hoje mesmo, no próximo horário aqui disponível. Vou dar aqui. um salvar. Com isso, o sistema ele pegou e já criou aqui essa agenda já como confirmado, porque eu tô com todos os meus dados, tô com o dado ali do documento, tudo certinho. E assim que eu realizo aqui o processo de agendamento, vou até compartilhar aqui com vocês. compartilhar aqui o meu celular, para mostrar como que fica, que eu inseri o rastro ali desse motorista.\n[LOCUTOR 13]: Está mudando alguma coisa, Thaís, porque o nosso está congelado.\n[LOCUTOR 2]: Estou aqui carregando meu celular e agora vou compartilhar. Gente, só um momentinho que eu vou ter que sair aqui da agenda e voltar, porque parou aqui mesmo, só um momento.\n[LOCUTOR 13]: Eu acho que\n[LOCUTOR 27]: ela\n[LOCUTOR 13]: acho\n[LOCUTOR 27]: que ela saiu Você\n[LOCUTOR 13]: tá aí ou não?\n[LOCUTOR 2]: [EMPRESA], gente, voltei, tá? Eu tive que [LOCAL] aqui, sair da agenda e entrar de novo, porque travou aqui minha máquina mesmo. Bom, então agora voltando aqui a compartilhar, peço desculpa por isso, mas agora eu vou retomar aqui. Então, aqui só pra mostrar pra vocês,\n[LOCUTOR 13]: eu\n[LOCUTOR 2]: vou aqui abrir a câmera aqui do meu outro celular, e aqui, ó, só pra dar visibilidade.\n[LOCUTOR 13]: Taí, só uma pergunta em relação ao\n[LOCUTOR 2]: tal da\n[LOCUTOR 13]: potência. Eu consigo estabelecer também janelas que eu necessariamente não sei qual é o transportador que vai chegar, mas eu quero receber sempre naquele determinado horário, por exemplo, o conhecedor [PESSOA] Naquele determinado horário, o cliente Y, o transportador, sabe, deixar que é determinado as janelas por transportadora ou por cliente, ou alguma coisa assim, sem necessariamente...\n[LOCUTOR 2]: Eu\n[LOCUTOR 13]: não sei que caminhão, que motorista vai vir, nem que nota vai vir ainda, mas eu\n[LOCUTOR 2]: quero que o\n[LOCUTOR 13]: carro fique dentro das nove às dez.\n[LOCUTOR 2]: Nesse caso é possível, sim. Nesse caso, você criaria ali uma janela específica do fornecedor ou específica ali da transportadora e vincularia ali qual que é o horário. Ah, essa transportadora ali todas quarta e quinta-feira, das nove ao meio-dia, é destinado para essa transportadora específica. E aí, automaticamente, as outras janelas não vão conseguir fazer esse processo de reserva.\n[LOCUTOR 13]: Tá bem. E eu consigo reservar isso por doca que eu tenho ou por porção de segmento?\n[LOCUTOR 2]: Exatamente. Aí você vincula ali aquela doca específica ou docas específicas, caso ali tenha mais de uma doca. Então,\n[LOCUTOR 13]: quanto a isso... Essa reserva pode ser feita pelos transportadores, mas pode ser feita por nós também.\n[LOCUTOR 2]: [PESSOA]. Você primeiro configura ali, cria uma janela específica para aquela transportadora e é aquela só vai conseguir realizar o agendamento naquele horário que está previsto para você. Aqui só para mostrar, estou com outro celular, que o sistema pegou e enviou essa mensagem para o motorista falando que ele tem um agendamento já confirmado. para ele, ele consegue até mesmo verificar questões de restrição quando eu já tenho um agendamento que está vinculado ao motorista específico. Agora eu vou voltar aqui na parte da aplicação e vou compartilhar aqui a visão para vocês da transportadora. O que a transportadora, o que o fornecedor teria acesso, teria visualização? Porque ele vai estar visualizando somente aquilo\n[LOCUTOR 13]: que\n[LOCUTOR 2]: vocês disponibilizarem de janelas aquela transportadora tem uma janela específica, então ele vai estar visualizando ali aquela janela específica dele, ou se não, não tem ali uma janela específica, ele só vai visualizar o que está disponível para realizar o agendamento, ele não vai saber ali o que está reservado para uma ou outra transportadora. Deixa eu acessar aqui.\n[LOCUTOR 13]: Só mostra o disponível, na verdade.\n[LOCUTOR 2]: Exatamente, só mostra o disponível, o que está disponível e o que tiver informação vinculada a ela, ela vai ter visualização, que é de outro fornecedor, de outra transportadora, essa transportadora, esse fornecedor não vai ter acesso. Então aqui eu vou até abrir aqui numa janela anônima, pra não pegar ali o dado do meu acesso anterior, tô acessando\n[LOCUTOR 13]: aqui\n[LOCUTOR 2]: com outro usuário. Um outro ponto que é bem interessante aqui do sistema é que toda atualização que tem do sistema ali com novas funcionalidades, a gente sempre tá ali no pop-up, então como vocês tem ali o checklist, já devem estar acostumados\n[LOCUTOR 13]: com\n[LOCUTOR 2]: isso também. Então aqui eu tô numa visão aqui de uma transportadora, então aqui no gerenciador, aqui nas configurações, ela vai poder ali cadastrar seus motoristas, seus veículos e seus semi-huebocas, ela vai conseguir consultar o que ela tem previsto ali, o que foi realizado, o que foi confirmado, o que foi dado ali como no show também. E aqui dentro da transportadora, ela vai ter acesso ao que está disponível ali, o que ela tem em agendamento. Então, quando ela vai realizar aqui um agendamento, ela consegue selecionar qual que é a unidade de vocês, caso vocês tenham mais de uma unidade. E aí informaria aqui qual que é o tipo de processo, as informações aqui de peso, Um ponto aqui importante de ser dito é que, para a transportadora, ela não consegue realizar nenhuma pré-reserva. Quem consegue realizar uma pré-reserva são vocês. precisar de informar qual que é o documento ou o pedido, algum dado que ela precisa, que ela vai estar realizando o procedimento para vocês terem visibilidade do porquê que ela está realizando esse agendamento. Então aqui eu vou dar um próximo. Ele vai pedir aqui para realizar aqui, informar aqui novamente as informações de pedido, por exemplo. Vou adicionar aqui, eu vou salvar. E aqui o sistema ele daria aqui a visualização. Então aqui eu tenho, no caso, 5 docas dentro do meu processo, sendo que as 15 horas eu já peguei e vinculei ali a um agendamento. O sistema ele não trouxe essa visibilidade para essa transportadora. Então aqui eu vou informar aqui o outro horário, das 5 e meia, por exemplo, e vou salvar aqui. Salvei essa informação, para a transportadora vai ficar aqui, aguardando aceite do planejador. vocês vão poder editar, vocês vão poder aceitar, vocês vão poder rejeitar esse agendamento que foi realizado ali por essa transportadora. Caso vocês me falem assim, não, [PESSOA], eu quero que o que é transportador, o que o fornecedor, o que o meu cliente\n[LOCUTOR 13]: agendou,\n[LOCUTOR 2]: eu quero que seja aceito ali de uma forma automática. Isso tudo é configuração. Então aqui eu coloquei dentro do meu processo que esse aceite é obrigatório. Então ele vai estar aqui dentro de pendentes, pendência de aceite, E o sistema vai estar retornando aqui as informações, tudo certinho, eu consigo vir aqui confirmar aqui embaixo os pedidos, os documentos que estão vinculados a ele. Eu consigo selecionar todos e confirmar também aqui todos que estão aqui selecionados, ou consigo aqui aceitar, rejeitar, editar ali algum dado. Nesse caso aqui eu vou confirmar, consigo baixar os anexos ali, caso tenha um XML também ali vinculado. eu aceito isso\", ele foi alterado aqui para o processo aqui confirmado. Então tem aqui um processo de expedição agendado e um processo aqui de recebimento. Além disso, o que vocês teriam visibilidade? Aqui vocês tem visibilidade do que foi realizado, do que foi dado no show, que está aguardando, aceite, aqui dentro desse período que eu selecionei, o que está cancelado, atrasado, rejeitado, tudo isso vocês tem visibilidade. E aquele mesmo recurso que a gente tem dentro ali do checklist, que é o nosso recurso de comunicação, que a gente consegue enviar notificações ali, seja por e-mail, Whatsapp, esse mesmo recurso, ele também está disponível aqui dentro aqui do agendamento. Então, consigo gerar uma notificação correspondente aqui a esse agendamento aqui que foi feito. Então, isso aqui é um pouquinho do agendamento. Agora, eu vou entrar como que fica essa informação ali dentro do [EMPRESA]. Então, eu vou vir aqui em [EMPRESA].\n[LOCUTOR 13]: Então,\n[LOCUTOR 2]: aqui dentro do [EMPRESA], já é a segunda etapa do processo. Então, o agendamento, ele vai ser responsável por fazer toda a parte de gestão, organização, mesmo para vocês terem uma visibilidade, uma previsibilidade daquilo que está previsto ali para receber. E no [EMPRESA], vocês vão efetivar essas entradas. Então, de acordo com o que o motorista, ele é, ele, ele Chega na operação de vocês, ele vai se identificar ali na portaria para executar ali todos os processos. Aqui, dentro aqui já da jornada aqui da portaria, então assim que esse motorista, ele chega, ele pode ir diretamente ali na portaria e aí a portaria consegue vir aqui informar, por exemplo, ali a placa desse veículo, caso os dados já estejam ali cadastrados, previamente cadastrado, consegue informar ali o CPF desse motorista. Ou, por exemplo, chegou esse motorista ali para fazer uma carga, um processo de carga ou descarga, mas não tem uma chegada agendada. Isso vai impedir ele realizar a entrada? Não. A portaria vai vir aqui em chegada não agendada e ele vai informar se é um processo de carga ou descarga, as informações aqui do motorista, aquelas mesmas informações ali que foi realizada ali no agendamento, mas agora ele vai efetivar ali de fato, ele não vai realizar um agendamento prévio, ele só vai notificar que entrou dentro da operação. E aqui, dentro do processo de portaria, além do motorista dos carros para fazer os processos operacionais, é possível que vocês também a portaria efetivar a entrada dos prestadores de serviço. Então, um exemplo, a [EMPRESA] vai visitar a operação de vocês, aí vocês vão informar qual que é o prestador de serviço, qual que é a rota, vocês conseguem criar uma rota específica para ele, informar qual que é a descrição, tem uma reunião XPTO, com tais pessoas. O veículo também, então, o veículo ele não é obrigatório, né, porque até mesmo essa pessoa pode não ter chegado ali por meios próprios, pode ter chegado ali de algum outro transporte público. E aqui eu vou colocar, por exemplo, reunião. Daqui a um próximo eu consigo informar o veículo ou não, daqui a um próximo insira aqui a informação desse visitante. E aí vocês também passam a ter controle também dos visitantes, dos prestadores de serviço na operação de vocês. Então, aqui é um pouquinho do processo de portaria. Ah, é somente por aqui? Eu tenho que ter uma portaria? Eu tenho que ter um porteiro para realizar o processo de entrada desse motorista? Não. A gente tem um processo aqui que a gente chama de [EMPRESA]. [EMPRESA], a gente consegue executar isso hoje de duas formas. Um seria ou vocês colocarem um totem na operação de vocês, pelo qual ele na portaria, que aí o motorista ele pega vai até [LOCAL] e gerem... informaria a placa\n[LOCUTOR 13]: ali do\n[LOCUTOR 2]: veículo, pra notificar que ele chegou ali dentro da operação, ou se não, ele pode acessar ali um aplicativo. Então, esse aplicativo, ele acessaria esse aplicativo, informaria ali os seus dados, seria como se fosse um pré-cadastro, né, se ele tiver já um agendamento realizado, tá tudo certo, se ele não tiver, ele consegue ali inserir esses dados ali de pré-cadastro e essa informação vai ser notificada ali pra portaria. Nesse caso aqui, como eu já tenho o agendamento realizado, eu só vou informar aqui o meu CPF ou a placa em específico, ele vai me dar aqui os detalhes, eu consigo aqui ver os detalhes e fazer o processo de check-in. E com isso, a portaria, quando eu atualizo aqui o meu processo aqui da portaria, tem esse daqui aguardando para entrar. Então, o que estava já agendado, ele\n[LOCUTOR 13]: já\n[LOCUTOR 2]: fez o processo\n[LOCUTOR 13]: de\n[LOCUTOR 2]: check-in, ele vai estar aqui aguardando\n[LOCUTOR 13]: para\n[LOCUTOR 2]: entrar. Dúvidas até aqui, pessoal?\n[LOCUTOR 13]: Pode seguir, tem que aparecer um aviso na nossa tela aqui, por isso eu tenho que parar um pouquinho. Mas pode seguir, por favor.\n[LOCUTOR 2]: Pode seguir, perfeito. Então aqui, ent\n[LOCUTOR 10]: tá\n[LOCUTOR 2]: aguardando pra entrar. Então esse motorista já notificou a portaria que tá dentro ali do perímetro ali da operação e agora ele precisa adentrar a operação pra ir pro próximo etapa ali da [LOCAL]. Como que é feito isso? A operação consegue vir aqui, a portaria consegue fazer esse processo aqui de convocação. Quando eu convoco esse motorista, aparece tanto em um painel, então vou aparecer aqui, vou selecionar por exemplo aqui meu ponto de controle que é a portaria. Então ele traz essa notificação tanto por um painel, quanto também a gente envia essa notificação ali, seja por WhatsApp ou SMS, para que esse motorista vá ao seu próximo ponto de controle, que o próximo ponto de controle é ali na portaria para entrar dentro da operação. Aí, feito isso, a portaria vem e faz aqui o processo de entrada do motorista.\n[LOCUTOR 13]: Então, ele\n[LOCUTOR 2]: consegue registrar a entrada aqui. Ele já não vai estar mais aguardando aqui para entrar, ele vai estar aqui em processo. E vocês vão ter toda a visibilidade do que está aguardando para entrar, o que está ali na portaria, e qual etapa que ele está dentro desse painel da jornada de bate. Então, vocês conseguem até mesmo colocar isso aqui num televisor e acompanhar. Então, aqui nesse recebimento que eu fiz agora, essa entrada, na verdade, que eu fiz agora, que é um processo de expedição, eu estou aqui nessa primeira etapa aqui, que é a minha etapa aqui de portaria. E aí todas essas próximas etapas aqui, tanto portaria, balança manual, isso que que a gente chama de ponto de controle. E esses pontos de controle, essas etapas, essa rota que o motorista vai fazer, isso tudo é parametrizado por vocês. Então, aqui dentro da configuração do sistema, vocês conseguem cadastrar todas as possibilidades de pontos de controle que vocês têm. Então, no meu caso aqui, eu tenho balança manual, eu tenho estacionamento, eu tenho uma portaria com checklist, vocês que já têm checklist, O [EMPRESA] também integra de uma forma automática com o checklist. Então vamos supor que assim que esse motorista chega, tem que fazer um processo de inspeção para averiguar as condições desse carro, se esse carro está com os pneus corretos, se tem alguma não conformidade. Então vocês conseguem informar que esse ponto de controle tem vínculo com o checklist vai ser aberto ali um processo de inspeção de uma forma automática ali dentro do checklist e somente vai conseguir da sequência a próxima etapa desse ponto de controle depois que finalizar esse processo ali dentro do checklist. Caso não gere, por exemplo, se gerou uma não conformidade, alguém vai realizar essa tratativa dessa não conformidade, vai ficar parado. Então esse motorista ele não vai conseguir ir adiante e ir para o próximo etapa assim que não for finalizado, justamente porque foi feita ali a inspeção desse veículo, esse veículo ele não está em condições ali conforme para realizar ali o processo ali de carregamento, eu vou ter que pegar e cancelar e falar para a transportadora que vai ter que trazer aqui um outro caminhão, porque esse caminhão não tem condições. Então tudo isso vocês conseguem parametrizar aqui dentro do sistema. Eu tenho outros pontos, ah, tem uma balança, tem processo de doca, recebimento fiscal, então tudo isso Vocês cadastram aqui, informando qual que é o nome do ponto de controle, qual que é a descrição, o tipo de processo que vai estar vinculado, se é uma área, por exemplo, é um estacionamento, é uma área intermediária. Se vai ter processo de convocação, então essa convocação que eu mencionei, que eu consigo convocar esse motorista para o próximo ponto de controle, é feito aqui, é configurado aqui, que eu posso configurar ali por painel, SMS ou WhatsApp. E aqui, o\n[LOCUTOR 13]: checklist.\n[LOCUTOR 2]: Então, se é a setapa, esse ponto de controle vai ter vínculo aqui com um processo aqui de roteiro. Então, os roteiros que estão cadastrados ali no checklist do sistema, ele vai retornar aqui para essa etapa desse ponto aqui de controle. Dentro aqui também das configurações, eu tenho as rotas. Então, de acordo com os pontos de controle que eu cadastrei, eu vou criar a rota\n[LOCUTOR 13]: desse\n[LOCUTOR 2]: processo. Então, aqui eu posso denominar, por exemplo, a descarga granela. Aqui eu informo qual que é o processo viário ali que vai estar é vinculado, então aqui\n[LOCUTOR 13]: eu vou\n[LOCUTOR 2]: informar que é um processo aqui de descarga, ele retorna\n[LOCUTOR 13]: aqui\n[LOCUTOR 2]: e aqui o próximo eu vou estar informando minimamente um ponto de controle, uma rota ali para executar, eu preciso entrar, entrar e sair, né, então isso aqui, o sistema já traz aqui como um padrão. Ah, mas essa minha etapa, depois ali o processo de descarga, eu vou ter um processo aqui de recebimento fiscal, depois aqui do recebimento fiscal, ele vai ali pra minha doca, depois da doca, ele pode realizar aqui o processo aqui de saída. Não, além aqui do recebimento fiscal, antes do recebimento eu quero direcionar ele pra uma área de estacionamento, porque ele, eu não vou liberar ele direto ali para a minha operação. Então aqui eu vou colocar aqui como a etapa superior, então consigo aqui arrastar, aqui denominar qualquer sequência que vai ser realizada. Então aqui a minha rota é portaria, estacionamento, recebimento fiscal, doca e depois faz aqui o processo de saída. Então aqui vocês conseguem configurar e também adicionar aqui informações que eu consigo integrar com o processo de checklist. dentro aqui dessa rota também. Então aqui é um pouquinho da configuração da rota. Eu tenho aqui o bloqueio de acesso, então eu posso bloquear um motorista\n[LOCUTOR 13]: ou\n[LOCUTOR 2]: um veículo que ele não pode adentrar mais dentro da minha operação. Então quando esse motorista ou esse veículo tentar entrar dentro da operação, além de impedir, vai gerar uma notificação ali para vocês, até mesmo caso seja necessário. E aqui todas as outras partes de cadastro, de fornecedores, transportadoras, acesso dessas transportadoras, desses fornecedores também, qual que vai ser o acesso ali, e todas as configurações também de controle de semáforo dentro da operação, se exige ali, conferência de documentos, então tudo isso são parametrizações aqui que a gente consegue ali incorporar\n[LOCUTOR 13]: ao\n[LOCUTOR 2]: processo ali de vocês. Mas, saindo daqui um pouquinho das configurações, vou voltar aqui para o meu processo aqui de jornada. Então, eu entrei dentro da operação, ele está aqui na portaria, eu já permiti, então ele foi aqui, ele está aguardando início aqui dentro do meu processo aqui da minha doca. Vocês podem ver que tem alguns que estão aqui numa sinalização aqui vermelha. O que seria isso? Eu consigo também configurar dentro do sistema para que, qual que é o tempo que esse motorista, ele pode ficar dentro daquele processo para gerar alertas para vocês. Vamos supor que no processo da [LOCAL], ele tem ali no máximo duas horas para fazer o processo de carregamento ou processo de descarregamento. Caso esteja ali em uma hora e meia, você consegue configurar o sistema para que em uma hora e meia o sistema ele gera uma notificação para vocês. Aí o sistema ele vai alterar aqui para uma cor aqui em amarelo, para vocês terem que chamar atenção, para ter como atenção ali para esse processo que está estourando, o processo desse ponto de controle. Caso ele estoure essa etapa, caso ele ultrapasse essas duas horas, como exemplo eu utilizei, que está configurado dentro do sistema, o sistema ele vai alterar aqui por uma cor vermelha, pra realmente vocês priorizarem, pra vocês não esquecerem, eu já tive aqui relatos aqui de operações de motorista ter ficado ali dois dias ali dentro da operação, porque esqueceu, literalmente, desse motorista, esqueceu que ele tava ali dentro da operação, então aqui o sistema ele consegue gerar esses alertas aqui, pra que vocês sempre ali fiquem atentos aqui a esse tempo. Então aqui\n[LOCUTOR 13]: eu tô\n[LOCUTOR 2]: no meu, pode perguntar,\n[LOCUTOR 13]: Não, aqui a gente não esquece. Só uma pergunta, a passagem de um movimento de uma etapa pra outra é aqui? É na... Como é que o nome é de portador de servimento? Agora tem que... Liberei uma [LOCAL] lá no meu xerifado. Liberei uma posição de recebendo um xerife. Como é que eu faço? Como é que eu informo a portaria que tá disponível a [LOCAL] pro próximo caminhão entrar?\n[LOCUTOR 2]: Sim, aí nesse caso, Vocês vão ter aqui a visibilidade, aqui dentro da jornada, que esse motorista está aguardando ali para entrar. Então, aqui dentro da jornada de pássaro, vocês vão ter essa visibilidade e vocês podem pegar e notificar ali a portaria que esse motorista pode entrar. E faria que esse processo aqui do que está agendado aqui para o dia, vocês conseguem anotificar a portaria para a portaria pegar e fazer o check-in desse motorista, entrar ali com esse motorista dentro da operação. [PESSOA], gera toda a notificação diretamente aqui pelo próprio sistema. E aí entrou ali dentro da operação. A operação começou a fazer o processo de carga ou processo de descarga. A operação vai vir aqui, clicar aqui em iniciar processo. Deixa eu só fechar aqui. Vai clicar aqui em iniciar processo. Então quer dizer que começou a fazer ali o processo aqui. de carga\n[LOCUTOR 13]: ou\n[LOCUTOR 2]: processo de descarga, ele consegue conferir até mesmo aqui os documentos. Então, vocês conseguem colocar essa etapa aqui\n[LOCUTOR 13]: como\n[LOCUTOR 2]: obrigatória?\n[LOCUTOR 13]: Tá, só uma pergunta aqui em relação\n[LOCUTOR 2]: a\n[LOCUTOR 13]: isso. É totos com totos. Eu fiz uma nota de recebimento no recebimento fiscal e esse processo está indo lá para a mocha de fado, por exemplo. Ele vai começar a fazer o recebimento lá no coletor. Ele já integra com isso aqui? Ou ele precisa vir aqui nessa tela e dar ok que começou a receber?\n[LOCUTOR 2]: Ele precisa vir aqui nessa tela e receber. Porque hoje, das soluções que são integradas ali de totos com totos, é o agendamento, o [EMPRESA] e o checklist. Hoje são essas três soluções ali que são integradas ali de uma forma nativa. Hoje o [EMPRESA] não integra de uma forma nativa ali com o WMS. Ah, ele deu o processo ali de entrada, automaticamente já gera aqui o processo\n[LOCUTOR 13]: aqui,\n[LOCUTOR 2]: já estarta esse processo aqui dentro do [EMPRESA]. Hoje a gente não tem isso, tá?\n[LOCUTOR 13]: Então todos os cadastros de transportadora que eu tenho dentro do [EMPRESA] e tal, eu tenho que repetir o cadastro aqui\n[LOCUTOR 2]: no [EMPRESA]?\n[LOCUTOR 13]: Não,\n[LOCUTOR 2]: o cadastro tem, pra parte de cadastro a gente transportadora, fornecedor, motorista, placa, essas coisas assim, a gente consegue tudo cadastrar ali de uma forma nativa. Então, se for cadastrado, hoje vocês têm Proteus?\n[LOCUTOR 13]: [EMPRESA]. [EMPRESA]. [EMPRESA]? FET e Proteus. Desculpa. Na parte de FET, né, no GFE.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 13]: E aí,\n[LOCUTOR 2]: na parte\n[LOCUTOR 13]: de ERP, [EMPRESA].\n[LOCUTOR 2]: Ah, então nesse caso ali com o GFE, que é a parte de proteose que acaba entrando ali, mas essa parte de transporte em si, isso é integrado ali de uma forma nativa, junto com a [EMPRESA], tá?\n[LOCUTOR 13]: Então o [EMPRESA] é a base proteose?\n[LOCUTOR 2]: É a base, ela é proteose.\n[LOCUTOR 13]: Esse é um ponto assim, né? que faça menos clientes e consiga fazer. O ponto de colocar o item TOTOS no ativo, e não uma solução, era para ele estar integrado. O\n[LOCUTOR 2]: que \n[LOCUTOR 4]: possível\n[LOCUTOR 2]: fazer?\n[LOCUTOR 13]: Isso está longe de acontecer? Ou vocês estão no processo de acontecer?\n[LOCUTOR 2]: [EMPRESA], desculpa o final, não entendi.\n[LOCUTOR 13]: Ou não vai acontecer, você não vou integrar esse [EMPRESA]?\n[LOCUTOR 2]: Olha, a parte do [EMPRESA], com o Proteus, está em caminho de estar acontecendo. Então já está ali a parte de cadastro, de transportadora, motorista, isso tudo já disponibilizaram ali de uma forma nativa. Com o WMS, está em roadmap, mas ainda não tem data prevista mesmo de priorização, mas o que os nossos clientes tem feito, quando há essa necessidade. Tanto no [EMPRESA] quanto ali no WMS, a gente tem APIs ali disponíveis, então consegue configurar para que, no momento que seja dado o start ali de recebimento ou seja iniciado o processo de conferência, ser enviada ali uma integração ali para o [EMPRESA], uma comunicação para automatizar esse processo. Então a gente consegue desenhar isso dentro aqui da ferramenta, tá? Então a gente tem ali eventos ali disponíveis para personalizar ali de acordo um cliente ali necessita para gerar essas automatizações.\n[LOCUTOR 13]: Como eu botei a nota e pedido aqui, se eu desse um ok no recebimento, podia dar entrada na nota, né?\n[LOCUTOR 2]: Sim. Hoje, o processo de conferência de entrada, vocês fazem ali dentro do próprio aplicativo do [LOCAL] mesmo, né?\n[LOCUTOR 13]: Sim. É e-mail. Nesse\n[LOCUTOR 2]: caso, a gente conseguiria ali, caso você Se por exemplo, ah não, quero ir para o [LOCAL], aí a gente consegue estudar uma forma de gerar essa integração, ou caso vocês mantenham ali dentro do data sou, a gente consegue trabalhar com esse gatilho mesmo de chamada, então automatizar esse processo.\n[LOCUTOR 13]: O aplicativo\n[LOCUTOR 2]: que a gente tem aqui do [EMPRESA] seria mais um aplicativo do motorista, para o motorista notificar que chegou ali dentro da operação. Não seria nem um aplicativo em si, seria dentro ali do browser mesmo. esse [EMPRESA], essa mesma visão aqui do [EMPRESA], ele consegue notificar ali que entrou dentro ali da operação e aí o sistema tem todo um processo de validação de perímetro, né? Então, se ele pega ali a geolocalização ali desse motorista, está dentro do perímetro ali da operação, ele permite. Se ele estiver ali muito longe, aí ele não vai permitir porque ele identifica que esse motorista não está ao redor da operação. Então hoje o aplicativo que a gente tem é esse. A parte aqui da execução dessas tarefas hoje a gente não teria aplicativo. Outra\n[LOCUTOR 13]: pergunta, obrigatoriamente tem que ter esse de arrendamento mais o [EMPRESA] ou só o [EMPRESA] pode ser colocado de forma separada? ele\n[LOCUTOR 2]: pode ser implementado de uma forma separada. Então, a gente até criou dois sistemas, porque a gente entende ali que tem operações que só faz sentido ali ter agendamento, não tem um controle de parte portaria, e tem operações que não tem, não faz ali esse agendamento prévio, só realmente entra ali com esses motoristas ali, e faz controle ali da operação ali, do tempo desse motorista de jornada, né, do motorista somente no [EMPRESA].\n[LOCUTOR 13]: Tá, outra pergunta. Tem como, você tem essa possibilidade, por exemplo, quando eu, Eu dou saída num caminhão. O caminhão vai na inspecção, ele terminou de carregar, eu dou saída ali da doca, ou de uma doca, de outro segmento. Automaticamente chamar o próximo caminhão? Na fila?\n[LOCUTOR 2]: Não, hoje\n[LOCUTOR 13]: a gente teria que pensar no processo\n[LOCUTOR 2]: de automatização mesmo, pra chamar o próximo motorista e assim por diante pra entrar. Mas de forma automática hoje não. Os gatilhos mesmo de entrada e saída são feitos ali de uma forma manual, mas nada impede, igual o reforço, da gente\n[LOCUTOR 13]: pegar\n[LOCUTOR 2]: e criar ali um disparo mesmo de integração, tá?\n[LOCUTOR 13]: [LOCUTOR 1]: aqui nesse caso aqui, por exemplo, eu vou finalizar, né, fiz aqui o processo aqui\n[LOCUTOR 2]: de carga aqui desse motorista e quando eu volto aqui na portaria ele tá aguardando aqui pra sair. Então, nesse caso aqui, no meu caso ainda não, ele ainda tá no meu processo aqui que seria aqui da minha balança aqui manual, inclusive que até o meu tempo aqui já foi até estourado aqui, de acordo com o que eu configurei dentro do sistema.\n[LOCUTOR 13]: ela vai ficar verde ali e vai habilitar o próximo, isso?\n[LOCUTOR 2]: Exatamente. Sempre quando está esse sinal aqui de certinho, de certo, de ok, é que ele executou essa etapa. Quando ele está em vermelho aqui, é que estourou essa etapa do meu processo. Então,\n[LOCUTOR 13]: o\n[LOCUTOR 2]: que eu configurei dentro do sistema, ele está estourado. Se ele fica aqui em verde, quer dizer que essa etapa foi passada aqui dentro do tempo que está previsto para essa etapa. No meu processo em específico aqui, eu tenho um processo aqui de balança, então vou iniciar aqui a aferição aqui da minha balança, mas tudo isso eu reforço aqui a configuração, né? Vou finalizar. Quando eu venho aqui para a minha jornada, a balança eu executei dentro do prazo, então ele está aqui em verde, e aí ele está já disponibilizado aqui para fazer o processo de saída. Então, quando eu venho aqui em detalhes, a operação em si, ou a portaria, ela pode só informar aqui diretamente o CPF ou a placa ali desse motorista em específico. [PESSOA] entrando aqui um pouco mais no detalhe, mas para mostrar aqui para vocês. E aí eu pego e venho aqui, inicio esse processo, registro aqui. A saída, eu posso ter a etapa de conferir aqui os documentos que estão aqui previstos nesse processo de expedição. Depois, eu registro aqui a saída. Registrei a saída, já saiu aqui dentro do meu processo aqui da jornada do motorista, porque o motorista já saiu em específico. Depois, onde que eu consigo acompanhar toda essa jornada do motorista? Dentro do meu histórico. Então, dentro do histórico, eu tenho aqui o histórico de carga e descarga. E eu consigo ver aqui todas as movimentações que foram geradas, o tempo que foi realizado entre um e outro, os documentos que estão vinculados também ali, caso seja necessário. E o mesmo recurso de comunicação que tem no [PESSOA], tem também aqui no [EMPRESA], para vocês gerarem essas comunicações de e-mail, WhatsApp, para ser tudo gerado aqui dentro do próprio [EMPRESA]. Bom, uma\n[LOCUTOR 13]: pergunta,\n[LOCUTOR 2]: uma\n[LOCUTOR 13]: pergunta assim, só em relação a, quando fala da documentação ali, a documentação como ele não tem integração com o [EMPRESA], eu preciso anexar o documento, é isso? Uma\n[LOCUTOR 2]: nota\n[LOCUTOR 13]: precisa anexar essa nota ali, é isso?\n[LOCUTOR 2]: Exatamente,\n[LOCUTOR 13]: aí\n[LOCUTOR 2]: precisa anexar esse documento, seja ali uma, caso na etapa de vocês ali, seja de fato ali anexar, O documento de entrada, a nota fiscal de entrada de compra em específico ou uma remessa ou até mesmo ali um pedido, uma nota fiscal de venda, vocês anexam ali o XML. Se vocês não tiverem essa informação, porque às vezes o pedido só é saturado ali depois do processo de conferência e o motorista já está ali na doc em específico, vocês conseguem informar ali o número do pedido, pode ser o pedido, pode ser o DTA, pode ser a [LOCAL], então são tudo documentos válidos que o [EMPRESA] aceita.\n[LOCUTOR 13]: Outra pergunta assim, na portaria ali, eu boto a visão da portaria, eu consigo saber quem que está dentro da janela prevista ou não? Eu consigo enxergar isso na portaria? Ou é só a visão que está na portaria agora?\n[LOCUTOR 2]: Sim, aqui dentro da... aqui a gente consegue ter visibilidade aqui do que está agendado aqui para o dia. O horário também previsto aqui do que está agendado aqui, que já foi notificado. E aqui\n[LOCUTOR 13]: dentro\n[LOCUTOR 2]: da jornada vocês conseguem ter visibilidade do que já entrou dentro da portaria. Então o que a portaria permitiu já entrar ali.\n[LOCUTOR 13]: Aí vocês já conseguem...\n[LOCUTOR 2]: \n[LOCUTOR 7]: aguardando a portaria vir de onde? que está aguardando aqui para entrar. Então, se eu estivesse\n[LOCUTOR 13]: aqui\n[LOCUTOR 2]: aguardando aqui para entrar, ele retornaria aqui nessa visão.\n[LOCUTOR 13]: E aí tem o agendamento também, se está agendado para algum horário, ele aparece ali. E\n[LOCUTOR 2]: aí\n[LOCUTOR 13]: quem conseguiu ver, professor, dependendo das novas dessas, ele está ali, das novas.\n[LOCUTOR 2]: [PESSOA], exatamente. É aqui dentro da, tanto aqui da portaria ou aqui dentro da jornada, vocês conseguem vir aqui visualizar que os detalhes E aqui dentro\n[LOCUTOR 13]: dos\n[LOCUTOR 2]: detalhes vocês conseguem ter o tempo da jornada em específico consegue ter outras informações também aqui referente à etapa depois que esse motorista ele já entrou.\n[LOCUTOR 27]: Eu tenho uma agenda às 15 que eu preciso entrar. Eu acho que não é muito longa ali mas eu retorno aqui ou se não checo contigo depois os Next Steps. Pode ser?\n[LOCUTOR 2]: Combinado.\n[LOCUTOR 27]: Então, Marcos, depois voltamos a falar aqui, deixo vocês com a Thaís.\n[LOCUTOR 13]: Abraço. E aí,\n[LOCUTOR 2]: só para complementar também, assim como dentro ali do checklist, dentro aqui do [EMPRESA], dentro do agendamento, a gente tem aqui os nossos insights. logísticos, né, então são visões ali já prontas que vocês conseguem acompanhar, né, do que que tava aqui igual do [EMPRESA], do processo do pátio aqui, a média diária, o que tá sem agendamento,\n[LOCUTOR 13]: o que\n[LOCUTOR 2]: entrou sem agendamento, qual que é essa média, o tempo médio de entrada, o tempo médio ali de duração e aqui todas as informações, né, por tipo de operação, por rota, por transportadora, o que tá ali, a quantidade ali sem agendamento, então são todas as informações que vocês conseguem aqui acompanhar, aqui a rota e horário, para ter uma visibilidade até mesmo ali de tempo, né, de entrada, processo aqui de participação, né, então quais são as as portadoras e os fornecedores que entram ali dentro da operação de vocês, que tem mais quantidade de processo, quantidade sem agendamento, por tempo médio de duração, isso tudo realmente para vocês conseguirem acompanhar no dia a dia e ter a informação do dado, que o dado hoje é tão importante para as operações em si. Então é isso gente, aqui de uma\n[LOCUTOR 13]: forma\n[LOCUTOR 2]: bem resumida aqui do processo, seria isso, então dentro do [EMPRESA] até mesmo que eu consigo dar visibilidade aqui para vocês, que é uma ferramenta que está em constante evolução, a necessidade que vocês têm ali para automatizar esse processo ali junto, até mesmo ali com o [LOCAL], eu vou entrar em contato ali com a equipe ali de produto, até mesmo para passar e dar tranquilidade ali para vocês que a gente consegue automatizar e coloco também vocês ali em cópia dentro desse circuito ali para gerar e dar visibilidade sobre todas essas informações. Ah, dentro ali do [LOCAL] seria disparado essa interface, por exemplo, e ali dentro do [EMPRESA] receberia o portal. Só para vocês terem uma visibilidade mesmo, eu vou levantar isso junto com a equipe de produto\n[LOCUTOR 13]: para\n[LOCUTOR 2]: mostrar que a gente consegue personalizar isso de uma forma\n[LOCUTOR 13]: bem\n[LOCUTOR 2]: fácil.\n[LOCUTOR 13]: Obrigado pela disponibilidade e pelas aplicações. E agora vamos para as próximas etapas internas e é importante vir em curso disso para a gente também. É,\n[LOCUTOR 2]: só para ter uma visibilidade. Hoje o [EMPRESA], ele é calculado ali o valor da recorrência do produto pela quantidade de entradas que vocês têm ali de carros dentro da operação e contando também ali de visitante. Vocês têm uma visibilidade da média que vocês recebem ali por mês?\n[LOCUTOR 13]: Só para entender, por que é cobrado em função dessa... Por que foi cobrado dessa forma? Isso tem algum custo adicional, se você vê mais ou menos?\n[LOCUTOR 2]: Teria ali um custo adicional que é de, acho que é de R$ 1,67, por exemplo, tem um pacote ali igual o checklist. O checklist também é dividido ali por pacotes de inspeção, quantas inspeções vocês executam ali por mês. Então o agendamento tem, o [EMPRESA] do agendamento tem mais ou menos essa mesma lógica, pela quantidade média que vocês executam, qual o pacote que se encaixa melhor nessa operação. Se ultrapassar, vocês pagam um adicional\n[LOCUTOR 13]: por\n[LOCUTOR 2]: entrada que ultrapassou, que é cerca de 1,60 e poucos centavos, ou caso vocês estejam ultrapassando ali muito, aí a gente realmente apura esse entrem em contato com vocês, porque talvez seja ali um momento até mesmo ali de fazer o upgrade ali do pacote ali adquirido.\n[LOCUTOR 13]: Hoje eu tiro em torno de umas 300, 350 recebimentos mesmo, mais ou menos.\n[LOCUTOR 2]: Ah, perfeito.\n[LOCUTOR 13]: Expedição, eu acho que é próximo a isso, né, se pensar que é 20 dias por dia. Então, de 300, somando os dois lados, recebimento e expedição, É 600 a 700 meses.\n[LOCUTOR 2]: Esse\n[LOCUTOR 13]: é o nosso número. É só para entender o porquê da\n[LOCUTOR 2]: especificação.\n[LOCUTOR 13]: Já que vocês têm essa ferramenta, por que é especificado dessa forma?\n[LOCUTOR 2]: Porque se a gente fosse especificar, por exemplo, por quantidade de usuários, a cada transportadora que você cadastrasse, a cada fornecedor ia acabar computando ali como um novo usuário e às vezes acabaria ali aumentando os custos. Então, a gente tem motoristas ali que estão vinculados também. Então, por usuário, acaba ali não sendo algo acessível para as operações, porque ficaria ali um custo muito alto.\n[LOCUTOR 13]: Então, por isso que a gente\n[LOCUTOR 2]: quer, pela quantidade de processamento que a gente vai ter que dispor para vocês. Então, se é, por exemplo, 700, entradas ali mensais, então a\n[LOCUTOR 13]: gente\n[LOCUTOR 2]: calcula ali que vocês v\n[LOCUTOR 10]: gastar um\n[LOCUTOR 2]: pouco de\n[LOCUTOR 13]: tempo,\n[LOCUTOR 2]: um recurso de\n[LOCUTOR 13]: máquina,\n[LOCUTOR 2]: vamos assim\n[LOCUTOR 13]: dizer,\n[LOCUTOR 2]: dentro\n[LOCUTOR 13]: dessa\n[LOCUTOR 2]: documentação.\n[LOCUTOR 13]: Mas\n[LOCUTOR 2]: por conta disso.\n[LOCUTOR 13]: Diferentemente,\n[LOCUTOR 2]: por exemplo, do WMS. WMS, como\n[LOCUTOR 13]: a\n[LOCUTOR 2]: gente n\n[LOCUTOR 10]: tem\n[LOCUTOR 2]: acesso externo, né, de pessoas externas,\n[LOCUTOR 13]: aí\n[LOCUTOR 2]: já é calculado ali pela quantidade de usuários, então cada Cada solução, a gente identificou ali uma métrica para melhor atender.\n[LOCUTOR 13]: Obrigado pela sua amizade.\n[LOCUTOR 2]: Obrigada, viu, pessoal. Então a gente vai se falando. Eu vou levantar ali com a equipe de produto e também depois a gente pega e passa ali a visão de investimento ali para vocês, tá?\n[LOCUTOR 13]: Show. Obrigado.\n[LOCUTOR 2]: Até mais, gente.\n[LOCUTOR 13]: [LOCAL],\n[LOCUTOR 2]: tchau.",
+  "texto_filtrado": "[LOCUTOR 2]: Então, o que vocês estão buscando? Qual que é a dor atual que vocês têm na operação que vocês estão buscando como solução? Ou até mesmo, talvez, uma oportunidade de melhoria? O que vocês vislumbram mesmo como uma oportunidade de melhoria?\n[LOCUTOR 13]: Sim, vou dar uma esclamada em qual é a nossa... Agora a gente tá mudando um pouco o nosso processo aqui de... Principalmente de recebimento, tá? Onde hoje quem faz todo o controle dos caminhões que acessam o recebimento para descarregar os vigilantes na portaria. Então, olha, eu tenho um caminhão, olha, eu tenho 18 caminhões para descarregar. Não tem um controle eficiente disso, né? É por isso que a gente buscou a TI para nos apoiar sobre isso, buscar uma solução, né? Daí ele consultou vocês, ele disse que vocês têm uma ferramenta que pode nos auxiliar, né? tem o Julien aqui, que é o responsável pela expedição, que também a gente tem um fluxo contínuo de entrada e saída de veículos, né, que daqui a pouco poderia nos auxiliar na questão de entrada e saída, mais controle, estatística e um monte de informações que nos ajudaria aí nas tomadas de decisões para ir para frente, né. Então, temos essa dificuldade e gostaríamos de uma solução que nos auxiliasse.\n[LOCUTOR 2]: [LOCAL]. Hoje vocês já têm ali alguma solução que faz ali a parte de gestão de estoque, já faz ali o controle dessas movimentações ou atualmente não?\n[LOCUTOR 13]: É que eu acho assim, só para concordar, a gente tem uma solução, então assim, depois que o material já está colocado no sistema, mas o nosso interesse nesse momento seria um pouco mais a questão da... Antes da nota, né? Antes da nota, né? A questão de gestão de parques, especificamente.\n[LOCUTOR 2]: Não, perfeito, pessoal. Teria ali mais algum outro ponto, alguma outra dor que vocês queiram trazer?\n[LOCUTOR 3]: aqui,\n[LOCUTOR 2]: onde está ali a solução de checklist e também as outras demais soluções ali. Vou compartilhar aqui minha tela junto com vocês. Bom, é só para voltar um passo ali para trás, até mesmo para dar o contexto aqui para a agenda. Então, hoje vocês já têm aqui a solução de checklist. Além da solução de checklist, a gente tem outras soluções dentro do portfólio aqui da suíte logística. Minha tela está compartilhando\n[LOCUTOR 13]: para vocês,\n[LOCUTOR 2]: perfeito. A minha tela aqui acabou travando um pouquinho, mas o importante é que vocês estejam vendo. Então, a gente tem aqui a suite logística, essa plataforma de logística para atender a logística de ponta a ponta, vocês já possuem aqui então o checklist e os insights logísticos, que é mais voltado ali a uma ferramenta para fazer o processo ali de controle de inspeção, digitalizar ali essas inspeções que são realizadas, mas além disso, a gente tem a solução aqui de WMS, que faz toda a parte de gestão e movimentação dos materiais ali dentro do centro de distribuição para otimizar, desde o processo de controle de entrada para ferir ali se aquele material que estava previsto ali no documento de entrada é o que, de fato, eu estou recebendo, se tem algum produto que está avariado eu consigo realizar esse apontamento dentro do WMS. E fora todo o processo de otimização na movimentação de saída. Então, gerar todo um fluxo de separação por onda para que a operação ande menos dentro do centro de distribuição para fazer esse processo de carregamento e atendimento do pedido. Além disso, a gente tem aqui a solução de agendamentos O agendamento ele é responsável por gerar uma melhor organiza\n[LOCUTOR 9]: frente\n[LOCUTOR 2]: aos transportadores e os fornecedores daquilo que está previsto para receber no dia. Então aqui dentro do agendamento, eu vou até entrar um pouquinho ali dentro da solução para demonstrar para vocês, a solução na prática, é onde vocês conseguiriam ali montar janelas de acordo com o horário de trabalho de vocês, de acordo com a capacidade, quantas docas vocês possuem. E ali dentro do agendamento vocês organizarem. Ah, eu tenho aqui uma capacidade máxima, vamos supor, de receber somente sete veículos no dia, porque meu processo de tempo de descarregamento ou carregamento é de três, quatro horas. O exemplo é que eu tenho somente poucas docas dentro da minha operação. Então, aqui dentro do [LOCAL] é que faz todo esse processo de controle. E além disso, dentro aqui do [LOCAL] também, a gente tem uma visão que vou demonstrar para vocês também, que é para que a [LOCAL]\n[LOCUTOR 6]: transportadora,\n[LOCUTOR 2]: o próprio fornecedor consiga entrar na aplicação e eles mesmos realizarem ali o agendamento. E temos o [EMPRESA] também, o [EMPRESA] ele faz toda a parte de controle de pátio e portaria. Então, assim que esse motorista ele chega, ele se identifica na portaria, ele é direcionado ali para os pontos de controle. O que seria esses pontos de controle? Quais serão as etapas que esse motorista vai passar, além de ter todo o processo ali de controle, né? de jornada, então quanto tempo esse motorista está dentro da minha operação, qual o processo que está sendo executado, então o [EMPRESA] vai dar a visibilidade desse todo para a operação de vocês. Então isso aqui é um pouquinho da parte da intralogística. Já no restante que a gente tem aqui dentro da suíte logística, a gente tem um coleta e entrega, que ele é mais voltado ali para o processo de comprovante da entrega ou comprovante do que está sendo coletado ali, Então, vocês, além de ter a digitalização desses canhotos, fisicodigitalizar isso, vocês também tem um processo de visualização quanto que foi entregado, processo de geolocalização também, para saber se o local onde que esse motorista entregou bate com o endereço de cobrança desse cliente. Temos também aqui o nosso TMS, temos também a parte de automação de terminais, que é mais voltada para a operação de cross docking, temos o marketplace de fretes, que ele é voltado para a parte de gestão e votação dos fretes, o nosso roteirizador também, Quando a gente vem aqui para a parte de rastreabilidade logística, a gente tem os nossos custos logísticos, portal logístico, estão muito interligados aqui a parte de TMS.\n[LOCUTOR 2]: tracking é para dar visibilidade para o cliente final de vocês, da atualização do status desse pedido, se esse pedido está separado, se ele está faturado, se ele está em embarque, se ele está em rota de entrega. Temos também aqui o nosso monitoramento, que é mais a parte de monitoramento de carga em si. onde a gente consegue gerar integração ali com os rastreadores, mesmo os da carga, para dar visibilidade ali aonde se encontra a carga de vocês. E os insights logísticos, que é uma ferramenta que vocês já possuem aqui dentro do checklist, mas o interessante dos insights, que hoje ele está presente dentro de todas as nossas soluções aqui dentro da suite, que é justamente dar essa visão de BI. Aqui só foi para contextualizar vocês mesmo, dar um overview aqui sobre a Suite Logística como um todo, do que a gente consegue ofertar ali para vocês. Então, caso, possivelmente, vocês possam ter ali alguma outra dor que vocês possam estar buscando ali a solução, muito possivelmente aqui dentro da Suite Logística a gente vai conseguir atender. Então, isso daqui é a nossa plataforma, que vocês já têm ali acesso, já conseguem, já é uma carinha que não é novidade para vocês. e eu vou entrar aqui na solução de agendamentos e na solução aqui de [EMPRESA]. Podem ficar bem à vontade, pessoal, para questionar, para levantar ali possíveis dúvidas que vocês possuem. Aqui eu reforço que a parte aqui do agendamento e do [EMPRESA], a gente trata como duas soluções distintas, mas as duas, elas se integram de uma forma nativa. Então, todo o agendamento que é realizado dentro aqui da plataforma da solução de agendamentos, a gente espelha isso é para a solução de [EMPRESA] que faz a parte de empate portaria. Então, assim que o motorista chega, os recebimentos estão previstos, as cargas estão previstas para receber naquele dia ou para expedir no dia. De acordo com o que foi feito em agendamentos, o sistema vai espelhar isso para dentro do [EMPRESA]. Ou até mesmo fazer uma chegada não prevista. Então, caso vocês identifiquem, a solução de agendamentos não é uma necessidade atual. Eu só quero realmente o controle ali de parte portaria ali da minha operação. Aí vocês conseguem só implementar também ali só o [EMPRESA], então é só pra reforçar que apesar\n[LOCUTOR 2]: serem duas soluções que se complementam, se vocês identificarem que não tem necessidade de uma ou elas também conseguem funcionar de uma forma separada. Gente, até aqui, tem alguma dúvida? Vocês querem trazer algum cenário?\n[LOCUTOR 13]: [LOCAL], então\n[LOCUTOR 2]: podem ficar à vontade. Bom, então vou entrar aqui dentro das configurações aqui do [LOCAL], porque é realmente a alma aqui do processo, então vou vir aqui dentro das janelas. Dentro aqui das janelas que a gente consegue configurar o que é aquela janela, quais docas que essa janela vai possuir, ela vai ter acesso, então posso ter uma doca ali que é específica para o processo de carga, outra doca que é específica para o processo de descarga, Se ambas foram ali executar os ambos processos também é possível configurar ali quanto a isso. Se tem algum produto ali específico para tratar naquela janela, porque às vezes tem algum produto que leva maior tempo para fazer o processo de carga ou descarga ou até mesmo um tempo ali menor, vocês conseguem aqui configurar de acordo aqui com a janela. Então aqui teria aqui o nome da janela, quais que são os locais, então vocês vão cadastrar ali os locais ali para serem vinculados aqui a essa janela. qual que é o tipo de processo, se é um processo de carga ou se é um processo de descarga. E os itens obrigatórios, aqui esses\n[LOCUTOR 13]: itens\n[LOCUTOR 2]: obrigatórios eles são opcionais, mas é bem relevante porque a gente envia depois essa informação para a transportadora ou para o fornecedor ali ou para o cliente em específico que está vinculado a essa janela, a gente envia esses dados inclusive notificando quais que são os itens ali que são obrigatórios esse motorista ali, ele tá ali apresentando. Então, é uma identidade, é um EPI, é o uniforme da empresa, tá com ali algum sapato ali específico, então vocês conseguem colocar isso aqui dentro das configurações. Aqui seria o tempo, né, então o tempo ali pra fazer o processo de carga ou descarga. O horário de funcionamento dessa janela, então posso ter ali uma janela ali pra fazer o processo ali de carga. que vai ali das 11 horas da manhã até as 22 horas, e o processo de descarga vai das 8 às 18 horas. Então, tudo isso é configurado e vocês também conseguem configurar aqui intervalos. Então, caso tenha ali um horário, algum período da operação,\n[LOCUTOR 13]: que a\n[LOCUTOR 2]: operação, por exemplo, pare ali pro horário do almoço, do jantar, ou algum horário de descanso ali no meio da tarde, algum intervalo, vocês conseguem configurar e o sistema vai respeitar. essa configura\n[LOCUTOR 9]: aqui\n[LOCUTOR 2]: que está vinculada à janela. Aqui a gente tem a limitação dos dias, então quais são os dias da semana que está disponibilizado essa janela e o processo de reagendamento. O que seria esse reagendamento ou até mesmo edição. Como eu mencionei, a gente disponibiliza uma interface ali, um acesso ali, para que esses terceiros, eles consigam, eles mesmo realizarem ali o agendamento de acordo com a disponibilidade operacional de vocês. E aqui vocês conseguem determinar quanto tempo que eles podem fazer o processo ali de reagendamento, cancelamento ou edição. Na minha base aqui, eu configurei para que seja permitido isso, no intervalo mínimo de 5 minutos. Então, 5 minutos antes de acontecer a janela, eu estaria permitindo fazer esse processo de reagendamento. Porque a partir disso, o sistema já configura isso como um no-show. Então, se a pessoa não chegou nesse horário, não reagendou dentro do horário que estava previsto, ele vai dar como no-show e você depois consegue ter todos esses indicadores na operação. A gente também tem as informações dos limitadores. Então consigo configurar essa janela e algum tipo de restrição. Então para essa doca que eu só recebo determinados veículos\n[LOCUTOR 2]: eu tenho uma doca que é vinculada a uma transportadora específica ou fornecedor ou um cliente específico. Então que vocês conseguem restringir isso ou até mesmo gerar restrições de produto quantidade de volumes questões de peso e cubagem também. Então aqui são algumas das informações que o sistema consegue auxiliar ali no momento que a gente está realizando ali o cadastro desse agendamento. Então, aqui é um pouquinho das configurações do agendamento. Então, também conseguimos aqui configurar, cadastrar quais são os locais que eu vou ter. Então, aqui eu posso ter um local que te doca e várias docas aqui vinculadas, posso ter uma área externa, uma área interna ali para fazer o processo de carga e descarga, quais são as transportadoras, os fornecedores, informação até mesmo de ajudantes O bloqueio de agenda, então, tem alguma data específica, por exemplo, um feriado. Eu vou bloquear que não permita realizar agendamento nessa data aqui em específico ou a operação ali vai realizar algum processo de inventário, vai ter que fechar ali a operação, não vai poder receber nem expedir nada. Então, tudo isso é possível configurar aqui dentro do agendamentos. Saindo aqui um pouquinho das configurações, agora eu já vou entrar aqui dentro do painel de agendamentos. De acordo com aquelas docas, aqueles locais que eu configurei dentro\n[LOCUTOR 2]: minha base, o sistema traz essa visibilidade aqui de todas as minhas docas. Então tem um box, tem um doc aqui, tem uma área específica de silo. E para realizar que agendamento eu vou aqui em novo agendamento. O sistema vai me dar duas opções. Eu posso realizar um pré-agendamento. O que seria o pré-agendamento? Quando eu não tenho um documento vinculado. Então só quero realizar uma pré-reserva. dentro daquele período, dentro daquele horário específico, para que? Depois, esse fornecedor, o transportador, o cliente específico, me envia esse documento\n[LOCUTOR 2]: eu vou receber esse documento. documento, a área de compras ou alguma outra área interna vai me enviar essa informação e eu consigo fazer o upload aqui dentro da base do sistema e automaticamente, quando eu carrego esse documento, esse pré-agendamento, o sistema já configura isso como um agendamento já efetivo de fato. E, no caso aqui, um agendamento, quando eu já tenho a informação de qual é o documento que eu vou executar o processo. Essa seria ali a diferença entre o pré-agendamento e um agendamento mesmo efetivo. Dentro aqui do processo, eu vou selecionar qual que é o processo que eu vou executar. Então, se é um processo aqui de recebimento, expedição, de acordo com o que eu configurei ali, aquela janela. Então, por exemplo, aqui eu vou informar aqui que é um processo de expedição. Aqui eu consigo informar aqui a transportadora ou fornecedor, que no meu caso aqui eu vou informar uma transportadora. Posso informar aqui o produto, quanto que eu tenho aqui do peso líquido, a cubagem, a volumetria, por exemplo, que eu tenho ali para essa agenda, e aqui eu insiro aqui as informações do veículo. O que é obrigatório? É obrigatório informar qual que é o tipo de veículo, mas se eu já tiver, por exemplo, a plata do veículo aqui que eu vou receber, posso vir aqui cadastrar aqui como novo e informar os dados aqui desse veículo dentro do sistema, mas caso já esteja cadastrado aqui na minha base, eu posso selecionar aqui uma placa em específico. Então, por exemplo, eu vou marcar aqui essa placa em específico, o sistema já trouxe aqui qual é o\n[LOCUTOR 13]: tipo de\n[LOCUTOR 2]: veículo, carroceria, todas as informações. Aqui eu teria aqui a informação do semi-reboque\n[LOCUTOR 2]: informação também do motorista, caso já saiba ali qual é o motorista que vai realizar esse esse trabalho. Então, aqui eu vou informar que eu vou estar entrando aqui, por exemplo, com\n[LOCUTOR 2]: [PESSOA]. Aqui, no caso, o [PESSOA] eu não vou poder porque a carteira de habilitação do [PESSOA] está vencida. Então, eu não consigo entrar. Então, tudo isso, o sistema ele também traz esses dados ali no dia-a-dia para vocês também estarem ali acompanhando. Então, nesse caso aqui, eu vou vir aqui, vou cadastrar aqui um novo. eu consigo inserir aqui a foto desse motorista, que é bem interessante até mesmo para questões ali do [EMPRESA], por quê? Se eu cadastrar aqui a foto desse motorista e se vocês tiverem, por exemplo, ali uma câmera ali, no momento que faz ali o processo de [EMPRESA], no momento que o motorista está entrando, o sistema consegue validar se a foto que está nessa base de dados ali do sistema, se é correspondente à mesma foto. é a mesma pessoa que está se apresentando ali fisicamente. Caso não seja, o sistema já impede a entrada desse motorista. E caso seja, o sistema vai liberar a pessoa para fazer o check-in ali, por exemplo. Vou informar. Informa aqui a informação da licença, da validade. e o telefone desse motorista. Por que o telefone é obrigatório? Depois eu vou até mostrar uma etapa ali dentro do [EMPRESA] que a gente consegue fazer o processo de convocação desse motorista. Então, consigo convocar esse motorista para a próxima etapa do pátio que ele deve executar. Então, aqui eu vou dar um próximo, aqui eu vou anexar os documentos, eu posso tanto fazer a importação de um XML. Ah, não tem a informação ainda, não tem nota ainda emitida, só tem a informação do pedido. Sem problemas, então aqui é só inserir. Por exemplo, aqui o número do pedido, consigo inserir aqui a informação do cliente destinatário, adicionar ele, vou salvar aqui. No próximo sistema ele vai me dar aqui todas as minhas janelas disponíveis, por exemplo, na data de hoje, senão eu quero agendar ali para amanhã, eu consigo aqui discorrer também e selecionar qual que é a data específica que eu quero realizar esse agendamento. Nesse meu caso aqui eu vou selecionar a data de hoje mesmo, no próximo horário aqui disponível. Vou dar aqui. um salvar. Com isso, o sistema ele pegou e já criou aqui essa agenda já como confirmado, porque eu tô com todos os meus dados, tô com o dado ali do documento, tudo certinho. E assim que eu realizo aqui o processo de agendamento, vou até compartilhar aqui com vocês. compartilhar aqui o meu celular, para mostrar como que fica, que eu inseri o rastro ali desse motorista.\n[LOCUTOR 13]: Eu acho que\n[LOCUTOR 13]: acho\n[LOCUTOR 27]: que ela saiu Você\n[LOCUTOR 13]: Taí, só uma pergunta em relação ao\n[LOCUTOR 2]: tal da\n[LOCUTOR 13]: potência. Eu consigo estabelecer também janelas que eu necessariamente não sei qual é o transportador que vai chegar, mas eu quero receber sempre naquele determinado horário, por exemplo, o conhecedor [PESSOA] Naquele determinado horário, o cliente Y, o transportador, sabe, deixar que é determinado as janelas por transportadora ou por cliente, ou alguma coisa assim, sem necessariamente...\n[LOCUTOR 2]: quero que o\n[LOCUTOR 13]: carro fique dentro das nove às dez.\n[LOCUTOR 2]: Nesse caso é possível, sim. Nesse caso, você criaria ali uma janela específica do fornecedor ou específica ali da transportadora e vincularia ali qual que é o horário. Ah, essa transportadora ali todas quarta e quinta-feira, das nove ao meio-dia, é destinado para essa transportadora específica. E aí, automaticamente, as outras janelas não vão conseguir fazer esse processo de reserva.\n[LOCUTOR 13]: Tá bem. E eu consigo reservar isso por doca que eu tenho ou por porção de segmento?\n[LOCUTOR 2]: Exatamente. Aí você vincula ali aquela doca específica ou docas específicas, caso ali tenha mais de uma doca. Então,\n[LOCUTOR 13]: quanto a isso... Essa reserva pode ser feita pelos transportadores, mas pode ser feita por nós também.\n[LOCUTOR 2]: [PESSOA]. Você primeiro configura ali, cria uma janela específica para aquela transportadora e é aquela só vai conseguir realizar o agendamento naquele horário que está previsto para você. Aqui só para mostrar, estou com outro celular, que o sistema pegou e enviou essa mensagem para o motorista falando que ele tem um agendamento já confirmado. para ele, ele consegue até mesmo verificar questões de restrição quando eu já tenho um agendamento que está vinculado ao motorista específico. Agora eu vou voltar aqui na parte da aplicação e vou compartilhar aqui a visão para vocês da transportadora. O que a transportadora, o que o fornecedor teria acesso, teria visualização? Porque ele vai estar visualizando somente aquilo\n[LOCUTOR 2]: vocês disponibilizarem de janelas aquela transportadora tem uma janela específica, então ele vai estar visualizando ali aquela janela específica dele, ou se não, não tem ali uma janela específica, ele só vai visualizar o que está disponível para realizar o agendamento, ele não vai saber ali o que está reservado para uma ou outra transportadora. Deixa eu acessar aqui.\n[LOCUTOR 13]: Só mostra o disponível, na verdade.\n[LOCUTOR 2]: Exatamente, só mostra o disponível, o que está disponível e o que tiver informação vinculada a ela, ela vai ter visualização, que é de outro fornecedor, de outra transportadora, essa transportadora, esse fornecedor não vai ter acesso. Então aqui eu vou até abrir aqui numa janela anônima, pra não pegar ali o dado do meu acesso anterior, tô acessando\n[LOCUTOR 13]: aqui\n[LOCUTOR 2]: com outro usuário. Um outro ponto que é bem interessante aqui do sistema é que toda atualização que tem do sistema ali com novas funcionalidades, a gente sempre tá ali no pop-up, então como vocês tem ali o checklist, já devem estar acostumados\n[LOCUTOR 2]: isso também. Então aqui eu tô numa visão aqui de uma transportadora, então aqui no gerenciador, aqui nas configurações, ela vai poder ali cadastrar seus motoristas, seus veículos e seus semi-huebocas, ela vai conseguir consultar o que ela tem previsto ali, o que foi realizado, o que foi confirmado, o que foi dado ali como no show também. E aqui dentro da transportadora, ela vai ter acesso ao que está disponível ali, o que ela tem em agendamento. Então, quando ela vai realizar aqui um agendamento, ela consegue selecionar qual que é a unidade de vocês, caso vocês tenham mais de uma unidade. E aí informaria aqui qual que é o tipo de processo, as informações aqui de peso, Um ponto aqui importante de ser dito é que, para a transportadora, ela não consegue realizar nenhuma pré-reserva. Quem consegue realizar uma pré-reserva são vocês. precisar de informar qual que é o documento ou o pedido, algum dado que ela precisa, que ela vai estar realizando o procedimento para vocês terem visibilidade do porquê que ela está realizando esse agendamento. Então aqui eu vou dar um próximo. Ele vai pedir aqui para realizar aqui, informar aqui novamente as informações de pedido, por exemplo. Vou adicionar aqui, eu vou salvar. E aqui o sistema ele daria aqui a visualização. Então aqui eu tenho, no caso, 5 docas dentro do meu processo, sendo que as 15 horas eu já peguei e vinculei ali a um agendamento. O sistema ele não trouxe essa visibilidade para essa transportadora. Então aqui eu vou informar aqui o outro horário, das 5 e meia, por exemplo, e vou salvar aqui. Salvei essa informação, para a transportadora vai ficar aqui, aguardando aceite do planejador. vocês vão poder editar, vocês vão poder aceitar, vocês vão poder rejeitar esse agendamento que foi realizado ali por essa transportadora. Caso vocês me falem assim, não, [PESSOA], eu quero que o que é transportador, o que o fornecedor, o que o meu cliente\n[LOCUTOR 13]: agendou,\n[LOCUTOR 2]: eu quero que seja aceito ali de uma forma automática. Isso tudo é configuração. Então aqui eu coloquei dentro do meu processo que esse aceite é obrigatório. Então ele vai estar aqui dentro de pendentes, pendência de aceite, E o sistema vai estar retornando aqui as informações, tudo certinho, eu consigo vir aqui confirmar aqui embaixo os pedidos, os documentos que estão vinculados a ele. Eu consigo selecionar todos e confirmar também aqui todos que estão aqui selecionados, ou consigo aqui aceitar, rejeitar, editar ali algum dado. Nesse caso aqui eu vou confirmar, consigo baixar os anexos ali, caso tenha um XML também ali vinculado. eu aceito isso\", ele foi alterado aqui para o processo aqui confirmado. Então tem aqui um processo de expedição agendado e um processo aqui de recebimento. Além disso, o que vocês teriam visibilidade? Aqui vocês tem visibilidade do que foi realizado, do que foi dado no show, que está aguardando, aceite, aqui dentro desse período que eu selecionei, o que está cancelado, atrasado, rejeitado, tudo isso vocês tem visibilidade. E aquele mesmo recurso que a gente tem dentro ali do checklist, que é o nosso recurso de comunicação, que a gente consegue enviar notificações ali, seja por e-mail, Whatsapp, esse mesmo recurso, ele também está disponível aqui dentro aqui do agendamento. Então, consigo gerar uma notificação correspondente aqui a esse agendamento aqui que foi feito. Então, isso aqui é um pouquinho do agendamento. Agora, eu vou entrar como que fica essa informação ali dentro do [EMPRESA]. Então, eu vou vir aqui em [EMPRESA].\n[LOCUTOR 13]: Então,\n[LOCUTOR 2]: aqui dentro do [EMPRESA], já é a segunda etapa do processo. Então, o agendamento, ele vai ser responsável por fazer toda a parte de gestão, organização, mesmo para vocês terem uma visibilidade, uma previsibilidade daquilo que está previsto ali para receber. E no [EMPRESA], vocês vão efetivar essas entradas. Então, de acordo com o que o motorista, ele é, ele, ele Chega na operação de vocês, ele vai se identificar ali na portaria para executar ali todos os processos. Aqui, dentro aqui já da jornada aqui da portaria, então assim que esse motorista, ele chega, ele pode ir diretamente ali na portaria e aí a portaria consegue vir aqui informar, por exemplo, ali a placa desse veículo, caso os dados já estejam ali cadastrados, previamente cadastrado, consegue informar ali o CPF desse motorista. Ou, por exemplo, chegou esse motorista ali para fazer uma carga, um processo de carga ou descarga, mas não tem uma chegada agendada. Isso vai impedir ele realizar a entrada? Não. A portaria vai vir aqui em chegada não agendada e ele vai informar se é um processo de carga ou descarga, as informações aqui do motorista, aquelas mesmas informações ali que foi realizada ali no agendamento, mas agora ele vai efetivar ali de fato, ele não vai realizar um agendamento prévio, ele só vai notificar que entrou dentro da operação. E aqui, dentro do processo de portaria, além do motorista dos carros para fazer os processos operacionais, é possível que vocês também a portaria efetivar a entrada dos prestadores de serviço. Então, um exemplo, a [EMPRESA] vai visitar a operação de vocês, aí vocês vão informar qual que é o prestador de serviço, qual que é a rota, vocês conseguem criar uma rota específica para ele, informar qual que é a descrição, tem uma reunião XPTO, com tais pessoas. O veículo também, então, o veículo ele não é obrigatório, né, porque até mesmo essa pessoa pode não ter chegado ali por meios próprios, pode ter chegado ali de algum outro transporte público. E aqui eu vou colocar, por exemplo, reunião. Daqui a um próximo eu consigo informar o veículo ou não, daqui a um próximo insira aqui a informação desse visitante. E aí vocês também passam a ter controle também dos visitantes, dos prestadores de serviço na operação de vocês. Então, aqui é um pouquinho do processo de portaria. Ah, é somente por aqui? Eu tenho que ter uma portaria? Eu tenho que ter um porteiro para realizar o processo de entrada desse motorista? Não. A gente tem um processo aqui que a gente chama de [EMPRESA]. [EMPRESA], a gente consegue executar isso hoje de duas formas. Um seria ou vocês colocarem um totem na operação de vocês, pelo qual ele na portaria, que aí o motorista ele pega vai até [LOCAL] e gerem... informaria a placa\n[LOCUTOR 13]: ali do\n[LOCUTOR 2]: veículo, pra notificar que ele chegou ali dentro da operação, ou se não, ele pode acessar ali um aplicativo. Então, esse aplicativo, ele acessaria esse aplicativo, informaria ali os seus dados, seria como se fosse um pré-cadastro, né, se ele tiver já um agendamento realizado, tá tudo certo, se ele não tiver, ele consegue ali inserir esses dados ali de pré-cadastro e essa informação vai ser notificada ali pra portaria. Nesse caso aqui, como eu já tenho o agendamento realizado, eu só vou informar aqui o meu CPF ou a placa em específico, ele vai me dar aqui os detalhes, eu consigo aqui ver os detalhes e fazer o processo de check-in. E com isso, a portaria, quando eu atualizo aqui o meu processo aqui da portaria, tem esse daqui aguardando para entrar. Então, o que estava já agendado, ele\n[LOCUTOR 2]: fez o processo\n[LOCUTOR 2]: check-in, ele vai estar aqui aguardando\n[LOCUTOR 13]: para\n[LOCUTOR 13]: Pode seguir, tem que aparecer um aviso na nossa tela aqui, por isso eu tenho que parar um pouquinho. Mas pode seguir, por favor.\n[LOCUTOR 2]: Pode seguir, perfeito. Então aqui, ent\n[LOCUTOR 2]: aguardando pra entrar. Então esse motorista já notificou a portaria que tá dentro ali do perímetro ali da operação e agora ele precisa adentrar a operação pra ir pro próximo etapa ali da [LOCAL]. Como que é feito isso? A operação consegue vir aqui, a portaria consegue fazer esse processo aqui de convocação. Quando eu convoco esse motorista, aparece tanto em um painel, então vou aparecer aqui, vou selecionar por exemplo aqui meu ponto de controle que é a portaria. Então ele traz essa notificação tanto por um painel, quanto também a gente envia essa notificação ali, seja por WhatsApp ou SMS, para que esse motorista vá ao seu próximo ponto de controle, que o próximo ponto de controle é ali na portaria para entrar dentro da operação. Aí, feito isso, a portaria vem e faz aqui o processo de entrada do motorista.\n[LOCUTOR 13]: Então, ele\n[LOCUTOR 2]: consegue registrar a entrada aqui. Ele já não vai estar mais aguardando aqui para entrar, ele vai estar aqui em processo. E vocês vão ter toda a visibilidade do que está aguardando para entrar, o que está ali na portaria, e qual etapa que ele está dentro desse painel da jornada de bate. Então, vocês conseguem até mesmo colocar isso aqui num televisor e acompanhar. Então, aqui nesse recebimento que eu fiz agora, essa entrada, na verdade, que eu fiz agora, que é um processo de expedição, eu estou aqui nessa primeira etapa aqui, que é a minha etapa aqui de portaria. E aí todas essas próximas etapas aqui, tanto portaria, balança manual, isso que que a gente chama de ponto de controle. E esses pontos de controle, essas etapas, essa rota que o motorista vai fazer, isso tudo é parametrizado por vocês. Então, aqui dentro da configuração do sistema, vocês conseguem cadastrar todas as possibilidades de pontos de controle que vocês têm. Então, no meu caso aqui, eu tenho balança manual, eu tenho estacionamento, eu tenho uma portaria com checklist, vocês que já têm checklist, O [EMPRESA] também integra de uma forma automática com o checklist. Então vamos supor que assim que esse motorista chega, tem que fazer um processo de inspeção para averiguar as condições desse carro, se esse carro está com os pneus corretos, se tem alguma não conformidade. Então vocês conseguem informar que esse ponto de controle tem vínculo com o checklist vai ser aberto ali um processo de inspeção de uma forma automática ali dentro do checklist e somente vai conseguir da sequência a próxima etapa desse ponto de controle depois que finalizar esse processo ali dentro do checklist. Caso não gere, por exemplo, se gerou uma não conformidade, alguém vai realizar essa tratativa dessa não conformidade, vai ficar parado. Então esse motorista ele não vai conseguir ir adiante e ir para o próximo etapa assim que não for finalizado, justamente porque foi feita ali a inspeção desse veículo, esse veículo ele não está em condições ali conforme para realizar ali o processo ali de carregamento, eu vou ter que pegar e cancelar e falar para a transportadora que vai ter que trazer aqui um outro caminhão, porque esse caminhão não tem condições. Então tudo isso vocês conseguem parametrizar aqui dentro do sistema. Eu tenho outros pontos, ah, tem uma balança, tem processo de doca, recebimento fiscal, então tudo isso Vocês cadastram aqui, informando qual que é o nome do ponto de controle, qual que é a descrição, o tipo de processo que vai estar vinculado, se é uma área, por exemplo, é um estacionamento, é uma área intermediária. Se vai ter processo de convocação, então essa convocação que eu mencionei, que eu consigo convocar esse motorista para o próximo ponto de controle, é feito aqui, é configurado aqui, que eu posso configurar ali por painel, SMS ou WhatsApp. E aqui, o\n[LOCUTOR 13]: checklist.\n[LOCUTOR 2]: Então, se é a setapa, esse ponto de controle vai ter vínculo aqui com um processo aqui de roteiro. Então, os roteiros que estão cadastrados ali no checklist do sistema, ele vai retornar aqui para essa etapa desse ponto aqui de controle. Dentro aqui também das configurações, eu tenho as rotas. Então, de acordo com os pontos de controle que eu cadastrei, eu vou criar a rota\n[LOCUTOR 13]: desse\n[LOCUTOR 2]: processo. Então, aqui eu posso denominar, por exemplo, a descarga granela. Aqui eu informo qual que é o processo viário ali que vai estar é vinculado, então aqui\n[LOCUTOR 2]: informar que é um processo aqui de descarga, ele retorna\n[LOCUTOR 13]: aqui\n[LOCUTOR 2]: e aqui o próximo eu vou estar informando minimamente um ponto de controle, uma rota ali para executar, eu preciso entrar, entrar e sair, né, então isso aqui, o sistema já traz aqui como um padrão. Ah, mas essa minha etapa, depois ali o processo de descarga, eu vou ter um processo aqui de recebimento fiscal, depois aqui do recebimento fiscal, ele vai ali pra minha doca, depois da doca, ele pode realizar aqui o processo aqui de saída. Não, além aqui do recebimento fiscal, antes do recebimento eu quero direcionar ele pra uma área de estacionamento, porque ele, eu não vou liberar ele direto ali para a minha operação. Então aqui eu vou colocar aqui como a etapa superior, então consigo aqui arrastar, aqui denominar qualquer sequência que vai ser realizada. Então aqui a minha rota é portaria, estacionamento, recebimento fiscal, doca e depois faz aqui o processo de saída. Então aqui vocês conseguem configurar e também adicionar aqui informações que eu consigo integrar com o processo de checklist. dentro aqui dessa rota também. Então aqui é um pouquinho da configuração da rota. Eu tenho aqui o bloqueio de acesso, então eu posso bloquear um motorista\n[LOCUTOR 2]: um veículo que ele não pode adentrar mais dentro da minha operação. Então quando esse motorista ou esse veículo tentar entrar dentro da operação, além de impedir, vai gerar uma notificação ali para vocês, até mesmo caso seja necessário. E aqui todas as outras partes de cadastro, de fornecedores, transportadoras, acesso dessas transportadoras, desses fornecedores também, qual que vai ser o acesso ali, e todas as configurações também de controle de semáforo dentro da operação, se exige ali, conferência de documentos, então tudo isso são parametrizações aqui que a gente consegue ali incorporar\n[LOCUTOR 2]: processo ali de vocês. Mas, saindo daqui um pouquinho das configurações, vou voltar aqui para o meu processo aqui de jornada. Então, eu entrei dentro da operação, ele está aqui na portaria, eu já permiti, então ele foi aqui, ele está aguardando início aqui dentro do meu processo aqui da minha doca. Vocês podem ver que tem alguns que estão aqui numa sinalização aqui vermelha. O que seria isso? Eu consigo também configurar dentro do sistema para que, qual que é o tempo que esse motorista, ele pode ficar dentro daquele processo para gerar alertas para vocês. Vamos supor que no processo da [LOCAL], ele tem ali no máximo duas horas para fazer o processo de carregamento ou processo de descarregamento. Caso esteja ali em uma hora e meia, você consegue configurar o sistema para que em uma hora e meia o sistema ele gera uma notificação para vocês. Aí o sistema ele vai alterar aqui para uma cor aqui em amarelo, para vocês terem que chamar atenção, para ter como atenção ali para esse processo que está estourando, o processo desse ponto de controle. Caso ele estoure essa etapa, caso ele ultrapasse essas duas horas, como exemplo eu utilizei, que está configurado dentro do sistema, o sistema ele vai alterar aqui por uma cor vermelha, pra realmente vocês priorizarem, pra vocês não esquecerem, eu já tive aqui relatos aqui de operações de motorista ter ficado ali dois dias ali dentro da operação, porque esqueceu, literalmente, desse motorista, esqueceu que ele tava ali dentro da operação, então aqui o sistema ele consegue gerar esses alertas aqui, pra que vocês sempre ali fiquem atentos aqui a esse tempo. Então aqui\n[LOCUTOR 13]: eu tô\n[LOCUTOR 2]: no meu, pode perguntar,\n[LOCUTOR 13]: Não, aqui a gente não esquece. Só uma pergunta, a passagem de um movimento de uma etapa pra outra é aqui? É na... Como é que o nome é de portador de servimento? Agora tem que... Liberei uma [LOCAL] lá no meu xerifado. Liberei uma posição de recebendo um xerife. Como é que eu faço? Como é que eu informo a portaria que tá disponível a [LOCAL] pro próximo caminhão entrar?\n[LOCUTOR 2]: Sim, aí nesse caso, Vocês vão ter aqui a visibilidade, aqui dentro da jornada, que esse motorista está aguardando ali para entrar. Então, aqui dentro da jornada de pássaro, vocês vão ter essa visibilidade e vocês podem pegar e notificar ali a portaria que esse motorista pode entrar. E faria que esse processo aqui do que está agendado aqui para o dia, vocês conseguem anotificar a portaria para a portaria pegar e fazer o check-in desse motorista, entrar ali com esse motorista dentro da operação. [PESSOA], gera toda a notificação diretamente aqui pelo próprio sistema. E aí entrou ali dentro da operação. A operação começou a fazer o processo de carga ou processo de descarga. A operação vai vir aqui, clicar aqui em iniciar processo. Deixa eu só fechar aqui. Vai clicar aqui em iniciar processo. Então quer dizer que começou a fazer ali o processo aqui. de carga\n[LOCUTOR 2]: processo de descarga, ele consegue conferir até mesmo aqui os documentos. Então, vocês conseguem colocar essa etapa aqui\n[LOCUTOR 2]: obrigatória?\n[LOCUTOR 13]: Tá, só uma pergunta aqui em relação\n[LOCUTOR 13]: isso. É totos com totos. Eu fiz uma nota de recebimento no recebimento fiscal e esse processo está indo lá para a mocha de fado, por exemplo. Ele vai começar a fazer o recebimento lá no coletor. Ele já integra com isso aqui? Ou ele precisa vir aqui nessa tela e dar ok que começou a receber?\n[LOCUTOR 2]: Ele precisa vir aqui nessa tela e receber. Porque hoje, das soluções que são integradas ali de totos com totos, é o agendamento, o [EMPRESA] e o checklist. Hoje são essas três soluções ali que são integradas ali de uma forma nativa. Hoje o [EMPRESA] não integra de uma forma nativa ali com o WMS. Ah, ele deu o processo ali de entrada, automaticamente já gera aqui o processo\n[LOCUTOR 13]: aqui,\n[LOCUTOR 2]: já estarta esse processo aqui dentro do [EMPRESA]. Hoje a gente não tem isso, tá?\n[LOCUTOR 13]: Então todos os cadastros de transportadora que eu tenho dentro do [EMPRESA] e tal, eu tenho que repetir o cadastro aqui\n[LOCUTOR 2]: no [EMPRESA]?\n[LOCUTOR 2]: o cadastro tem, pra parte de cadastro a gente transportadora, fornecedor, motorista, placa, essas coisas assim, a gente consegue tudo cadastrar ali de uma forma nativa. Então, se for cadastrado, hoje vocês têm Proteus?\n[LOCUTOR 13]: [EMPRESA]. [EMPRESA]. [EMPRESA]? FET e Proteus. Desculpa. Na parte de FET, né, no GFE.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 2]: na parte\n[LOCUTOR 13]: de ERP, [EMPRESA].\n[LOCUTOR 2]: Ah, então nesse caso ali com o GFE, que é a parte de proteose que acaba entrando ali, mas essa parte de transporte em si, isso é integrado ali de uma forma nativa, junto com a [EMPRESA], tá?\n[LOCUTOR 13]: Então o [EMPRESA] é a base proteose?\n[LOCUTOR 2]: É a base, ela é proteose.\n[LOCUTOR 13]: Esse é um ponto assim, né? que faça menos clientes e consiga fazer. O ponto de colocar o item TOTOS no ativo, e não uma solução, era para ele estar integrado. O\n[LOCUTOR 4]: possível\n[LOCUTOR 2]: fazer?\n[LOCUTOR 13]: Isso está longe de acontecer? Ou vocês estão no processo de acontecer?\n[LOCUTOR 2]: Olha, a parte do [EMPRESA], com o Proteus, está em caminho de estar acontecendo. Então já está ali a parte de cadastro, de transportadora, motorista, isso tudo já disponibilizaram ali de uma forma nativa. Com o WMS, está em roadmap, mas ainda não tem data prevista mesmo de priorização, mas o que os nossos clientes tem feito, quando há essa necessidade. Tanto no [EMPRESA] quanto ali no WMS, a gente tem APIs ali disponíveis, então consegue configurar para que, no momento que seja dado o start ali de recebimento ou seja iniciado o processo de conferência, ser enviada ali uma integração ali para o [EMPRESA], uma comunicação para automatizar esse processo. Então a gente consegue desenhar isso dentro aqui da ferramenta, tá? Então a gente tem ali eventos ali disponíveis para personalizar ali de acordo um cliente ali necessita para gerar essas automatizações.\n[LOCUTOR 13]: Como eu botei a nota e pedido aqui, se eu desse um ok no recebimento, podia dar entrada na nota, né?\n[LOCUTOR 2]: Sim. Hoje, o processo de conferência de entrada, vocês fazem ali dentro do próprio aplicativo do [LOCAL] mesmo, né?\n[LOCUTOR 2]: caso, a gente conseguiria ali, caso você Se por exemplo, ah não, quero ir para o [LOCAL], aí a gente consegue estudar uma forma de gerar essa integração, ou caso vocês mantenham ali dentro do data sou, a gente consegue trabalhar com esse gatilho mesmo de chamada, então automatizar esse processo.\n[LOCUTOR 13]: O aplicativo\n[LOCUTOR 2]: que a gente tem aqui do [EMPRESA] seria mais um aplicativo do motorista, para o motorista notificar que chegou ali dentro da operação. Não seria nem um aplicativo em si, seria dentro ali do browser mesmo. esse [EMPRESA], essa mesma visão aqui do [EMPRESA], ele consegue notificar ali que entrou dentro ali da operação e aí o sistema tem todo um processo de validação de perímetro, né? Então, se ele pega ali a geolocalização ali desse motorista, está dentro do perímetro ali da operação, ele permite. Se ele estiver ali muito longe, aí ele não vai permitir porque ele identifica que esse motorista não está ao redor da operação. Então hoje o aplicativo que a gente tem é esse. A parte aqui da execução dessas tarefas hoje a gente não teria aplicativo. Outra\n[LOCUTOR 13]: pergunta, obrigatoriamente tem que ter esse de arrendamento mais o [EMPRESA] ou só o [EMPRESA] pode ser colocado de forma separada? ele\n[LOCUTOR 2]: pode ser implementado de uma forma separada. Então, a gente até criou dois sistemas, porque a gente entende ali que tem operações que só faz sentido ali ter agendamento, não tem um controle de parte portaria, e tem operações que não tem, não faz ali esse agendamento prévio, só realmente entra ali com esses motoristas ali, e faz controle ali da operação ali, do tempo desse motorista de jornada, né, do motorista somente no [EMPRESA].\n[LOCUTOR 13]: Tá, outra pergunta. Tem como, você tem essa possibilidade, por exemplo, quando eu, Eu dou saída num caminhão. O caminhão vai na inspecção, ele terminou de carregar, eu dou saída ali da doca, ou de uma doca, de outro segmento. Automaticamente chamar o próximo caminhão? Na fila?\n[LOCUTOR 13]: a gente teria que pensar no processo\n[LOCUTOR 2]: de automatização mesmo, pra chamar o próximo motorista e assim por diante pra entrar. Mas de forma automática hoje não. Os gatilhos mesmo de entrada e saída são feitos ali de uma forma manual, mas nada impede, igual o reforço, da gente\n[LOCUTOR 2]: e criar ali um disparo mesmo de integração, tá?\n[LOCUTOR 13]: [LOCUTOR 1]: aqui nesse caso aqui, por exemplo, eu vou finalizar, né, fiz aqui o processo aqui\n[LOCUTOR 2]: de carga aqui desse motorista e quando eu volto aqui na portaria ele tá aguardando aqui pra sair. Então, nesse caso aqui, no meu caso ainda não, ele ainda tá no meu processo aqui que seria aqui da minha balança aqui manual, inclusive que até o meu tempo aqui já foi até estourado aqui, de acordo com o que eu configurei dentro do sistema.\n[LOCUTOR 13]: ela vai ficar verde ali e vai habilitar o próximo, isso?\n[LOCUTOR 2]: Exatamente. Sempre quando está esse sinal aqui de certinho, de certo, de ok, é que ele executou essa etapa. Quando ele está em vermelho aqui, é que estourou essa etapa do meu processo. Então,\n[LOCUTOR 2]: que eu configurei dentro do sistema, ele está estourado. Se ele fica aqui em verde, quer dizer que essa etapa foi passada aqui dentro do tempo que está previsto para essa etapa. No meu processo em específico aqui, eu tenho um processo aqui de balança, então vou iniciar aqui a aferição aqui da minha balança, mas tudo isso eu reforço aqui a configuração, né? Vou finalizar. Quando eu venho aqui para a minha jornada, a balança eu executei dentro do prazo, então ele está aqui em verde, e aí ele está já disponibilizado aqui para fazer o processo de saída. Então, quando eu venho aqui em detalhes, a operação em si, ou a portaria, ela pode só informar aqui diretamente o CPF ou a placa ali desse motorista em específico. [PESSOA] entrando aqui um pouco mais no detalhe, mas para mostrar aqui para vocês. E aí eu pego e venho aqui, inicio esse processo, registro aqui. A saída, eu posso ter a etapa de conferir aqui os documentos que estão aqui previstos nesse processo de expedição. Depois, eu registro aqui a saída. Registrei a saída, já saiu aqui dentro do meu processo aqui da jornada do motorista, porque o motorista já saiu em específico. Depois, onde que eu consigo acompanhar toda essa jornada do motorista? Dentro do meu histórico. Então, dentro do histórico, eu tenho aqui o histórico de carga e descarga. E eu consigo ver aqui todas as movimentações que foram geradas, o tempo que foi realizado entre um e outro, os documentos que estão vinculados também ali, caso seja necessário. E o mesmo recurso de comunicação que tem no [PESSOA], tem também aqui no [EMPRESA], para vocês gerarem essas comunicações de e-mail, WhatsApp, para ser tudo gerado aqui dentro do próprio [EMPRESA]. Bom, uma\n[LOCUTOR 13]: pergunta,\n[LOCUTOR 13]: pergunta assim, só em relação a, quando fala da documentação ali, a documentação como ele não tem integração com o [EMPRESA], eu preciso anexar o documento, é isso? Uma\n[LOCUTOR 2]: nota\n[LOCUTOR 13]: precisa anexar essa nota ali, é isso?\n[LOCUTOR 2]: Exatamente,\n[LOCUTOR 2]: precisa anexar esse documento, seja ali uma, caso na etapa de vocês ali, seja de fato ali anexar, O documento de entrada, a nota fiscal de entrada de compra em específico ou uma remessa ou até mesmo ali um pedido, uma nota fiscal de venda, vocês anexam ali o XML. Se vocês não tiverem essa informação, porque às vezes o pedido só é saturado ali depois do processo de conferência e o motorista já está ali na doc em específico, vocês conseguem informar ali o número do pedido, pode ser o pedido, pode ser o DTA, pode ser a [LOCAL], então são tudo documentos válidos que o [EMPRESA] aceita.\n[LOCUTOR 13]: Outra pergunta assim, na portaria ali, eu boto a visão da portaria, eu consigo saber quem que está dentro da janela prevista ou não? Eu consigo enxergar isso na portaria? Ou é só a visão que está na portaria agora?\n[LOCUTOR 2]: Sim, aqui dentro da... aqui a gente consegue ter visibilidade aqui do que está agendado aqui para o dia. O horário também previsto aqui do que está agendado aqui, que já foi notificado. E aqui\n[LOCUTOR 13]: dentro\n[LOCUTOR 2]: da jornada vocês conseguem ter visibilidade do que já entrou dentro da portaria. Então o que a portaria permitiu já entrar ali.\n[LOCUTOR 7]: aguardando a portaria vir de onde? que está aguardando aqui para entrar. Então, se eu estivesse\n[LOCUTOR 13]: aqui\n[LOCUTOR 2]: aguardando aqui para entrar, ele retornaria aqui nessa visão.\n[LOCUTOR 13]: E aí tem o agendamento também, se está agendado para algum horário, ele aparece ali. E\n[LOCUTOR 2]: [PESSOA], exatamente. É aqui dentro da, tanto aqui da portaria ou aqui dentro da jornada, vocês conseguem vir aqui visualizar que os detalhes E aqui dentro\n[LOCUTOR 2]: detalhes vocês conseguem ter o tempo da jornada em específico consegue ter outras informações também aqui referente à etapa depois que esse motorista ele já entrou.\n[LOCUTOR 27]: Eu tenho uma agenda às 15 que eu preciso entrar. Eu acho que não é muito longa ali mas eu retorno aqui ou se não checo contigo depois os Next Steps. Pode ser?\n[LOCUTOR 2]: Combinado.\n[LOCUTOR 27]: Então, Marcos, depois voltamos a falar aqui, deixo vocês com a Thaís.\n[LOCUTOR 13]: Abraço. E aí,\n[LOCUTOR 2]: só para complementar também, assim como dentro ali do checklist, dentro aqui do [EMPRESA], dentro do agendamento, a gente tem aqui os nossos insights. logísticos, né, então são visões ali já prontas que vocês conseguem acompanhar, né, do que que tava aqui igual do [EMPRESA], do processo do pátio aqui, a média diária, o que tá sem agendamento,\n[LOCUTOR 13]: o que\n[LOCUTOR 2]: entrou sem agendamento, qual que é essa média, o tempo médio de entrada, o tempo médio ali de duração e aqui todas as informações, né, por tipo de operação, por rota, por transportadora, o que tá ali, a quantidade ali sem agendamento, então são todas as informações que vocês conseguem aqui acompanhar, aqui a rota e horário, para ter uma visibilidade até mesmo ali de tempo, né, de entrada, processo aqui de participação, né, então quais são as as portadoras e os fornecedores que entram ali dentro da operação de vocês, que tem mais quantidade de processo, quantidade sem agendamento, por tempo médio de duração, isso tudo realmente para vocês conseguirem acompanhar no dia a dia e ter a informação do dado, que o dado hoje é tão importante para as operações em si. Então é isso gente, aqui de uma\n[LOCUTOR 13]: forma\n[LOCUTOR 2]: bem resumida aqui do processo, seria isso, então dentro do [EMPRESA] até mesmo que eu consigo dar visibilidade aqui para vocês, que é uma ferramenta que está em constante evolução, a necessidade que vocês têm ali para automatizar esse processo ali junto, até mesmo ali com o [LOCAL], eu vou entrar em contato ali com a equipe ali de produto, até mesmo para passar e dar tranquilidade ali para vocês que a gente consegue automatizar e coloco também vocês ali em cópia dentro desse circuito ali para gerar e dar visibilidade sobre todas essas informações. Ah, dentro ali do [LOCAL] seria disparado essa interface, por exemplo, e ali dentro do [EMPRESA] receberia o portal. Só para vocês terem uma visibilidade mesmo, eu vou levantar isso junto com a equipe de produto\n[LOCUTOR 13]: para\n[LOCUTOR 2]: mostrar que a gente consegue personalizar isso de uma forma\n[LOCUTOR 2]: fácil.\n[LOCUTOR 13]: Obrigado pela disponibilidade e pelas aplicações. E agora vamos para as próximas etapas internas e é importante vir em curso disso para a gente também. É,\n[LOCUTOR 2]: só para ter uma visibilidade. Hoje o [EMPRESA], ele é calculado ali o valor da recorrência do produto pela quantidade de entradas que vocês têm ali de carros dentro da operação e contando também ali de visitante. Vocês têm uma visibilidade da média que vocês recebem ali por mês?\n[LOCUTOR 13]: Só para entender, por que é cobrado em função dessa... Por que foi cobrado dessa forma? Isso tem algum custo adicional, se você vê mais ou menos?\n[LOCUTOR 2]: Teria ali um custo adicional que é de, acho que é de R$ 1,67, por exemplo, tem um pacote ali igual o checklist. O checklist também é dividido ali por pacotes de inspeção, quantas inspeções vocês executam ali por mês. Então o agendamento tem, o [EMPRESA] do agendamento tem mais ou menos essa mesma lógica, pela quantidade média que vocês executam, qual o pacote que se encaixa melhor nessa operação. Se ultrapassar, vocês pagam um adicional\n[LOCUTOR 2]: entrada que ultrapassou, que é cerca de 1,60 e poucos centavos, ou caso vocês estejam ultrapassando ali muito, aí a gente realmente apura esse entrem em contato com vocês, porque talvez seja ali um momento até mesmo ali de fazer o upgrade ali do pacote ali adquirido.\n[LOCUTOR 13]: Hoje eu tiro em torno de umas 300, 350 recebimentos mesmo, mais ou menos.\n[LOCUTOR 2]: Ah, perfeito.\n[LOCUTOR 13]: Expedição, eu acho que é próximo a isso, né, se pensar que é 20 dias por dia. Então, de 300, somando os dois lados, recebimento e expedição, É 600 a 700 meses.\n[LOCUTOR 2]: Esse\n[LOCUTOR 13]: é o nosso número. É só para entender o porquê da\n[LOCUTOR 2]: especificação.\n[LOCUTOR 13]: Já que vocês têm essa ferramenta, por que é especificado dessa forma?\n[LOCUTOR 2]: Porque se a gente fosse especificar, por exemplo, por quantidade de usuários, a cada transportadora que você cadastrasse, a cada fornecedor ia acabar computando ali como um novo usuário e às vezes acabaria ali aumentando os custos. Então, a gente tem motoristas ali que estão vinculados também. Então, por usuário, acaba ali não sendo algo acessível para as operações, porque ficaria ali um custo muito alto.\n[LOCUTOR 13]: Então, por isso que a gente\n[LOCUTOR 2]: quer, pela quantidade de processamento que a gente vai ter que dispor para vocês. Então, se é, por exemplo, 700, entradas ali mensais, então a\n[LOCUTOR 13]: gente\n[LOCUTOR 2]: calcula ali que vocês v\n[LOCUTOR 10]: gastar um\n[LOCUTOR 2]: pouco de\n[LOCUTOR 13]: tempo,\n[LOCUTOR 2]: um recurso de\n[LOCUTOR 13]: máquina,\n[LOCUTOR 2]: vamos assim\n[LOCUTOR 13]: dizer,\n[LOCUTOR 2]: dentro\n[LOCUTOR 13]: dessa\n[LOCUTOR 2]: documentação.\n[LOCUTOR 2]: por conta disso.\n[LOCUTOR 13]: Diferentemente,\n[LOCUTOR 2]: por exemplo, do WMS. WMS, como\n[LOCUTOR 2]: gente n\n[LOCUTOR 2]: acesso externo, né, de pessoas externas,\n[LOCUTOR 2]: já é calculado ali pela quantidade de usuários, então cada Cada solução, a gente identificou ali uma métrica para melhor atender.\n[LOCUTOR 2]: Obrigada, viu, pessoal. Então a gente vai se falando. Eu vou levantar ali com a equipe de produto e também depois a gente pega e passa ali a visão de investimento ali para vocês, tá?\n[LOCUTOR 13]: [LOCAL],",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:39.775357+00:00",
+    "total_linhas": 235,
+    "linhas_mantidas": 177,
+    "linhas_removidas": 58,
+    "percentual_mantido": 75.32,
+    "confianca_media": 0.4885
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: Então, o que vocês estão buscando? Qual que é a dor atual que vocês têm na operação que vocês estão buscando como solução? Ou até mesmo, talvez, uma oportunidade de melhoria? O que vocês vislumbram mesmo como uma oportunidade de melhoria?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Sim, vou dar uma esclamada em qual é a nossa... Agora a gente tá mudando um pouco o nosso processo aqui de... Principalmente de recebimento, tá? Onde hoje quem faz todo o controle dos caminhões que acessam o recebimento para descarregar os vigilantes na portaria. Então, olha, eu tenho um caminhão, olha, eu tenho 18 caminhões para descarregar. Não tem um controle eficiente disso, né? É por isso que a gente buscou a TI para nos apoiar sobre isso, buscar uma solução, né? Daí ele consultou vocês, ele disse que vocês têm uma ferramenta que pode nos auxiliar, né? tem o Julien aqui, que é o responsável pela expedição, que também a gente tem um fluxo contínuo de entrada e saída de veículos, né, que daqui a pouco poderia nos auxiliar na questão de entrada e saída, mais controle, estatística e um monte de informações que nos ajudaria aí nas tomadas de decisões para ir para frente, né. Então, temos essa dificuldade e gostaríamos de uma solução que nos auxiliasse.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL]. Hoje vocês já têm ali alguma solução que faz ali a parte de gestão de estoque, já faz ali o controle dessas movimentações ou atualmente não?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: É que eu acho assim, só para concordar, a gente tem uma solução, então assim, depois que o material já está colocado no sistema, mas o nosso interesse nesse momento seria um pouco mais a questão da... Antes da nota, né? Antes da nota, né? A questão de gestão de parques, especificamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5589,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, perfeito, pessoal. Teria ali mais algum outro ponto, alguma outra dor que vocês queiram trazer?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: excelente, então. Então, perfeito, pessoal. Então, vou compartilhar aqui minha tela. Já vou trazer aqui um pouquinho aqui do contexto aqui. da suíte log",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4076,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: onde está ali a solução de checklist e também as outras demais soluções ali. Vou compartilhar aqui minha tela junto com vocês. Bom, é só para voltar um passo ali para trás, até mesmo para dar o contexto aqui para a agenda. Então, hoje vocês já têm aqui a solução de checklist. Além da solução de checklist, a gente tem outras soluções dentro do portfólio aqui da suíte logística. Minha tela está compartilhando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4992,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: para vocês,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5007,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: pessoal?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: perfeito. A minha tela aqui acabou travando um pouquinho, mas o importante é que vocês estejam vendo. Então, a gente tem aqui a suite logística, essa plataforma de logística para atender a logística de ponta a ponta, vocês já possuem aqui então o checklist e os insights logísticos, que é mais voltado ali a uma ferramenta para fazer o processo ali de controle de inspeção, digitalizar ali essas inspeções que são realizadas, mas além disso, a gente tem a solução aqui de WMS, que faz toda a parte de gestão e movimentação dos materiais ali dentro do centro de distribuição para otimizar, desde o processo de controle de entrada para ferir ali se aquele material que estava previsto ali no documento de entrada é o que, de fato, eu estou recebendo, se tem algum produto que está avariado eu consigo realizar esse apontamento dentro do WMS. E fora todo o processo de otimização na movimentação de saída. Então, gerar todo um fluxo de separação por onda para que a operação ande menos dentro do centro de distribuição para fazer esse processo de carregamento e atendimento do pedido. Além disso, a gente tem aqui a solução de agendamentos O agendamento ele é responsável por gerar uma melhor organiza",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: frente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aos transportadores e os fornecedores daquilo que está previsto para receber no dia. Então aqui dentro do agendamento, eu vou até entrar um pouquinho ali dentro da solução para demonstrar para vocês, a solução na prática, é onde vocês conseguiriam ali montar janelas de acordo com o horário de trabalho de vocês, de acordo com a capacidade, quantas docas vocês possuem. E ali dentro do agendamento vocês organizarem. Ah, eu tenho aqui uma capacidade máxima, vamos supor, de receber somente sete veículos no dia, porque meu processo de tempo de descarregamento ou carregamento é de três, quatro horas. O exemplo é que eu tenho somente poucas docas dentro da minha operação. Então, aqui dentro do [LOCAL] é que faz todo esse processo de controle. E além disso, dentro aqui do [LOCAL] também, a gente tem uma visão que vou demonstrar para vocês também, que é para que a [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: transportadora,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: o próprio fornecedor consiga entrar na aplicação e eles mesmos realizarem ali o agendamento. E temos o [EMPRESA] também, o [EMPRESA] ele faz toda a parte de controle de pátio e portaria. Então, assim que esse motorista ele chega, ele se identifica na portaria, ele é direcionado ali para os pontos de controle. O que seria esses pontos de controle? Quais serão as etapas que esse motorista vai passar, além de ter todo o processo ali de controle, né? de jornada, então quanto tempo esse motorista está dentro da minha operação, qual o processo que está sendo executado, então o [EMPRESA] vai dar a visibilidade desse todo para a operação de vocês. Então isso aqui é um pouquinho da parte da intralogística. Já no restante que a gente tem aqui dentro da suíte logística, a gente tem um coleta e entrega, que ele é mais voltado ali para o processo de comprovante da entrega ou comprovante do que está sendo coletado ali, Então, vocês, além de ter a digitalização desses canhotos, fisicodigitalizar isso, vocês também tem um processo de visualização quanto que foi entregado, processo de geolocalização também, para saber se o local onde que esse motorista entregou bate com o endereço de cobrança desse cliente. Temos também aqui o nosso TMS, temos também a parte de automação de terminais, que é mais voltada para a operação de cross docking, temos o marketplace de fretes, que ele é voltado para a parte de gestão e votação dos fretes, o nosso roteirizador também, Quando a gente vem aqui para a parte de rastreabilidade logística, a gente tem os nossos custos logísticos, portal logístico, estão muito interligados aqui a parte de TMS.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tracking é para dar visibilidade para o cliente final de vocês, da atualização do status desse pedido, se esse pedido está separado, se ele está faturado, se ele está em embarque, se ele está em rota de entrega. Temos também aqui o nosso monitoramento, que é mais a parte de monitoramento de carga em si. onde a gente consegue gerar integração ali com os rastreadores, mesmo os da carga, para dar visibilidade ali aonde se encontra a carga de vocês. E os insights logísticos, que é uma ferramenta que vocês já possuem aqui dentro do checklist, mas o interessante dos insights, que hoje ele está presente dentro de todas as nossas soluções aqui dentro da suite, que é justamente dar essa visão de BI. Aqui só foi para contextualizar vocês mesmo, dar um overview aqui sobre a Suite Logística como um todo, do que a gente consegue ofertar ali para vocês. Então, caso, possivelmente, vocês possam ter ali alguma outra dor que vocês possam estar buscando ali a solução, muito possivelmente aqui dentro da Suite Logística a gente vai conseguir atender. Então, isso daqui é a nossa plataforma, que vocês já têm ali acesso, já conseguem, já é uma carinha que não é novidade para vocês. e eu vou entrar aqui na solução de agendamentos e na solução aqui de [EMPRESA]. Podem ficar bem à vontade, pessoal, para questionar, para levantar ali possíveis dúvidas que vocês possuem. Aqui eu reforço que a parte aqui do agendamento e do [EMPRESA], a gente trata como duas soluções distintas, mas as duas, elas se integram de uma forma nativa. Então, todo o agendamento que é realizado dentro aqui da plataforma da solução de agendamentos, a gente espelha isso é para a solução de [EMPRESA] que faz a parte de empate portaria. Então, assim que o motorista chega, os recebimentos estão previstos, as cargas estão previstas para receber naquele dia ou para expedir no dia. De acordo com o que foi feito em agendamentos, o sistema vai espelhar isso para dentro do [EMPRESA]. Ou até mesmo fazer uma chegada não prevista. Então, caso vocês identifiquem, a solução de agendamentos não é uma necessidade atual. Eu só quero realmente o controle ali de parte portaria ali da minha operação. Aí vocês conseguem só implementar também ali só o [EMPRESA], então é só pra reforçar que apesar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: serem duas soluções que se complementam, se vocês identificarem que não tem necessidade de uma ou elas também conseguem funcionar de uma forma separada. Gente, até aqui, tem alguma dúvida? Vocês querem trazer algum cenário?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCAL], então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: podem ficar à vontade. Bom, então vou entrar aqui dentro das configurações aqui do [LOCAL], porque é realmente a alma aqui do processo, então vou vir aqui dentro das janelas. Dentro aqui das janelas que a gente consegue configurar o que é aquela janela, quais docas que essa janela vai possuir, ela vai ter acesso, então posso ter uma doca ali que é específica para o processo de carga, outra doca que é específica para o processo de descarga, Se ambas foram ali executar os ambos processos também é possível configurar ali quanto a isso. Se tem algum produto ali específico para tratar naquela janela, porque às vezes tem algum produto que leva maior tempo para fazer o processo de carga ou descarga ou até mesmo um tempo ali menor, vocês conseguem aqui configurar de acordo aqui com a janela. Então aqui teria aqui o nome da janela, quais que são os locais, então vocês vão cadastrar ali os locais ali para serem vinculados aqui a essa janela. qual que é o tipo de processo, se é um processo de carga ou se é um processo de descarga. E os itens obrigatórios, aqui esses",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: itens",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: obrigatórios eles são opcionais, mas é bem relevante porque a gente envia depois essa informação para a transportadora ou para o fornecedor ali ou para o cliente em específico que está vinculado a essa janela, a gente envia esses dados inclusive notificando quais que são os itens ali que são obrigatórios esse motorista ali, ele tá ali apresentando. Então, é uma identidade, é um EPI, é o uniforme da empresa, tá com ali algum sapato ali específico, então vocês conseguem colocar isso aqui dentro das configurações. Aqui seria o tempo, né, então o tempo ali pra fazer o processo de carga ou descarga. O horário de funcionamento dessa janela, então posso ter ali uma janela ali pra fazer o processo ali de carga. que vai ali das 11 horas da manhã até as 22 horas, e o processo de descarga vai das 8 às 18 horas. Então, tudo isso é configurado e vocês também conseguem configurar aqui intervalos. Então, caso tenha ali um horário, algum período da operação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: que a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: operação, por exemplo, pare ali pro horário do almoço, do jantar, ou algum horário de descanso ali no meio da tarde, algum intervalo, vocês conseguem configurar e o sistema vai respeitar. essa configura",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: que está vinculada à janela. Aqui a gente tem a limitação dos dias, então quais são os dias da semana que está disponibilizado essa janela e o processo de reagendamento. O que seria esse reagendamento ou até mesmo edição. Como eu mencionei, a gente disponibiliza uma interface ali, um acesso ali, para que esses terceiros, eles consigam, eles mesmo realizarem ali o agendamento de acordo com a disponibilidade operacional de vocês. E aqui vocês conseguem determinar quanto tempo que eles podem fazer o processo ali de reagendamento, cancelamento ou edição. Na minha base aqui, eu configurei para que seja permitido isso, no intervalo mínimo de 5 minutos. Então, 5 minutos antes de acontecer a janela, eu estaria permitindo fazer esse processo de reagendamento. Porque a partir disso, o sistema já configura isso como um no-show. Então, se a pessoa não chegou nesse horário, não reagendou dentro do horário que estava previsto, ele vai dar como no-show e você depois consegue ter todos esses indicadores na operação. A gente também tem as informações dos limitadores. Então consigo configurar essa janela e algum tipo de restrição. Então para essa doca que eu só recebo determinados veículos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: eu tenho uma doca que é vinculada a uma transportadora específica ou fornecedor ou um cliente específico. Então que vocês conseguem restringir isso ou até mesmo gerar restrições de produto quantidade de volumes questões de peso e cubagem também. Então aqui são algumas das informações que o sistema consegue auxiliar ali no momento que a gente está realizando ali o cadastro desse agendamento. Então, aqui é um pouquinho das configurações do agendamento. Então, também conseguimos aqui configurar, cadastrar quais são os locais que eu vou ter. Então, aqui eu posso ter um local que te doca e várias docas aqui vinculadas, posso ter uma área externa, uma área interna ali para fazer o processo de carga e descarga, quais são as transportadoras, os fornecedores, informação até mesmo de ajudantes O bloqueio de agenda, então, tem alguma data específica, por exemplo, um feriado. Eu vou bloquear que não permita realizar agendamento nessa data aqui em específico ou a operação ali vai realizar algum processo de inventário, vai ter que fechar ali a operação, não vai poder receber nem expedir nada. Então, tudo isso é possível configurar aqui dentro do agendamentos. Saindo aqui um pouquinho das configurações, agora eu já vou entrar aqui dentro do painel de agendamentos. De acordo com aquelas docas, aqueles locais que eu configurei dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: minha base, o sistema traz essa visibilidade aqui de todas as minhas docas. Então tem um box, tem um doc aqui, tem uma área específica de silo. E para realizar que agendamento eu vou aqui em novo agendamento. O sistema vai me dar duas opções. Eu posso realizar um pré-agendamento. O que seria o pré-agendamento? Quando eu não tenho um documento vinculado. Então só quero realizar uma pré-reserva. dentro daquele período, dentro daquele horário específico, para que? Depois, esse fornecedor, o transportador, o cliente específico, me envia esse documento",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: eu vou receber esse documento. documento, a área de compras ou alguma outra área interna vai me enviar essa informação e eu consigo fazer o upload aqui dentro da base do sistema e automaticamente, quando eu carrego esse documento, esse pré-agendamento, o sistema já configura isso como um agendamento já efetivo de fato. E, no caso aqui, um agendamento, quando eu já tenho a informação de qual é o documento que eu vou executar o processo. Essa seria ali a diferença entre o pré-agendamento e um agendamento mesmo efetivo. Dentro aqui do processo, eu vou selecionar qual que é o processo que eu vou executar. Então, se é um processo aqui de recebimento, expedição, de acordo com o que eu configurei ali, aquela janela. Então, por exemplo, aqui eu vou informar aqui que é um processo de expedição. Aqui eu consigo informar aqui a transportadora ou fornecedor, que no meu caso aqui eu vou informar uma transportadora. Posso informar aqui o produto, quanto que eu tenho aqui do peso líquido, a cubagem, a volumetria, por exemplo, que eu tenho ali para essa agenda, e aqui eu insiro aqui as informações do veículo. O que é obrigatório? É obrigatório informar qual que é o tipo de veículo, mas se eu já tiver, por exemplo, a plata do veículo aqui que eu vou receber, posso vir aqui cadastrar aqui como novo e informar os dados aqui desse veículo dentro do sistema, mas caso já esteja cadastrado aqui na minha base, eu posso selecionar aqui uma placa em específico. Então, por exemplo, eu vou marcar aqui essa placa em específico, o sistema já trouxe aqui qual é o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tipo de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: veículo, carroceria, todas as informações. Aqui eu teria aqui a informação do semi-reboque",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: e a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: informação também do motorista, caso já saiba ali qual é o motorista que vai realizar esse esse trabalho. Então, aqui eu vou informar que eu vou estar entrando aqui, por exemplo, com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA]. Aqui, no caso, o [PESSOA] eu não vou poder porque a carteira de habilitação do [PESSOA] está vencida. Então, eu não consigo entrar. Então, tudo isso, o sistema ele também traz esses dados ali no dia-a-dia para vocês também estarem ali acompanhando. Então, nesse caso aqui, eu vou vir aqui, vou cadastrar aqui um novo. eu consigo inserir aqui a foto desse motorista, que é bem interessante até mesmo para questões ali do [EMPRESA], por quê? Se eu cadastrar aqui a foto desse motorista e se vocês tiverem, por exemplo, ali uma câmera ali, no momento que faz ali o processo de [EMPRESA], no momento que o motorista está entrando, o sistema consegue validar se a foto que está nessa base de dados ali do sistema, se é correspondente à mesma foto. é a mesma pessoa que está se apresentando ali fisicamente. Caso não seja, o sistema já impede a entrada desse motorista. E caso seja, o sistema vai liberar a pessoa para fazer o check-in ali, por exemplo. Vou informar. Informa aqui a informação da licença, da validade. e o telefone desse motorista. Por que o telefone é obrigatório? Depois eu vou até mostrar uma etapa ali dentro do [EMPRESA] que a gente consegue fazer o processo de convocação desse motorista. Então, consigo convocar esse motorista para a próxima etapa do pátio que ele deve executar. Então, aqui eu vou dar um próximo, aqui eu vou anexar os documentos, eu posso tanto fazer a importação de um XML. Ah, não tem a informação ainda, não tem nota ainda emitida, só tem a informação do pedido. Sem problemas, então aqui é só inserir. Por exemplo, aqui o número do pedido, consigo inserir aqui a informação do cliente destinatário, adicionar ele, vou salvar aqui. No próximo sistema ele vai me dar aqui todas as minhas janelas disponíveis, por exemplo, na data de hoje, senão eu quero agendar ali para amanhã, eu consigo aqui discorrer também e selecionar qual que é a data específica que eu quero realizar esse agendamento. Nesse meu caso aqui eu vou selecionar a data de hoje mesmo, no próximo horário aqui disponível. Vou dar aqui. um salvar. Com isso, o sistema ele pegou e já criou aqui essa agenda já como confirmado, porque eu tô com todos os meus dados, tô com o dado ali do documento, tudo certinho. E assim que eu realizo aqui o processo de agendamento, vou até compartilhar aqui com vocês. compartilhar aqui o meu celular, para mostrar como que fica, que eu inseri o rastro ali desse motorista.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Está mudando alguma coisa, Thaís, porque o nosso está congelado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Estou aqui carregando meu celular e agora vou compartilhar. Gente, só um momentinho que eu vou ter que sair aqui da agenda e voltar, porque parou aqui mesmo, só um momento.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4243,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Eu acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: ela",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: que ela saiu Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tá aí ou não?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [EMPRESA], gente, voltei, tá? Eu tive que [LOCAL] aqui, sair da agenda e entrar de novo, porque travou aqui minha máquina mesmo. Bom, então agora voltando aqui a compartilhar, peço desculpa por isso, mas agora eu vou retomar aqui. Então, aqui só pra mostrar pra vocês,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vou aqui abrir a câmera aqui do meu outro celular, e aqui, ó, só pra dar visibilidade.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4506,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Taí, só uma pergunta em relação ao",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tal da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: potência. Eu consigo estabelecer também janelas que eu necessariamente não sei qual é o transportador que vai chegar, mas eu quero receber sempre naquele determinado horário, por exemplo, o conhecedor [PESSOA] Naquele determinado horário, o cliente Y, o transportador, sabe, deixar que é determinado as janelas por transportadora ou por cliente, ou alguma coisa assim, sem necessariamente...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: não sei que caminhão, que motorista vai vir, nem que nota vai vir ainda, mas eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4554,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: quero que o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: carro fique dentro das nove às dez.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5345,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Nesse caso é possível, sim. Nesse caso, você criaria ali uma janela específica do fornecedor ou específica ali da transportadora e vincularia ali qual que é o horário. Ah, essa transportadora ali todas quarta e quinta-feira, das nove ao meio-dia, é destinado para essa transportadora específica. E aí, automaticamente, as outras janelas não vão conseguir fazer esse processo de reserva.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá bem. E eu consigo reservar isso por doca que eu tenho ou por porção de segmento?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4911,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Exatamente. Aí você vincula ali aquela doca específica ou docas específicas, caso ali tenha mais de uma doca. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5019,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: quanto a isso... Essa reserva pode ser feita pelos transportadores, mas pode ser feita por nós também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA]. Você primeiro configura ali, cria uma janela específica para aquela transportadora e é aquela só vai conseguir realizar o agendamento naquele horário que está previsto para você. Aqui só para mostrar, estou com outro celular, que o sistema pegou e enviou essa mensagem para o motorista falando que ele tem um agendamento já confirmado. para ele, ele consegue até mesmo verificar questões de restrição quando eu já tenho um agendamento que está vinculado ao motorista específico. Agora eu vou voltar aqui na parte da aplicação e vou compartilhar aqui a visão para vocês da transportadora. O que a transportadora, o que o fornecedor teria acesso, teria visualização? Porque ele vai estar visualizando somente aquilo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vocês disponibilizarem de janelas aquela transportadora tem uma janela específica, então ele vai estar visualizando ali aquela janela específica dele, ou se não, não tem ali uma janela específica, ele só vai visualizar o que está disponível para realizar o agendamento, ele não vai saber ali o que está reservado para uma ou outra transportadora. Deixa eu acessar aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Só mostra o disponível, na verdade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Exatamente, só mostra o disponível, o que está disponível e o que tiver informação vinculada a ela, ela vai ter visualização, que é de outro fornecedor, de outra transportadora, essa transportadora, esse fornecedor não vai ter acesso. Então aqui eu vou até abrir aqui numa janela anônima, pra não pegar ali o dado do meu acesso anterior, tô acessando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: com outro usuário. Um outro ponto que é bem interessante aqui do sistema é que toda atualização que tem do sistema ali com novas funcionalidades, a gente sempre tá ali no pop-up, então como vocês tem ali o checklist, já devem estar acostumados",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: isso também. Então aqui eu tô numa visão aqui de uma transportadora, então aqui no gerenciador, aqui nas configurações, ela vai poder ali cadastrar seus motoristas, seus veículos e seus semi-huebocas, ela vai conseguir consultar o que ela tem previsto ali, o que foi realizado, o que foi confirmado, o que foi dado ali como no show também. E aqui dentro da transportadora, ela vai ter acesso ao que está disponível ali, o que ela tem em agendamento. Então, quando ela vai realizar aqui um agendamento, ela consegue selecionar qual que é a unidade de vocês, caso vocês tenham mais de uma unidade. E aí informaria aqui qual que é o tipo de processo, as informações aqui de peso, Um ponto aqui importante de ser dito é que, para a transportadora, ela não consegue realizar nenhuma pré-reserva. Quem consegue realizar uma pré-reserva são vocês. precisar de informar qual que é o documento ou o pedido, algum dado que ela precisa, que ela vai estar realizando o procedimento para vocês terem visibilidade do porquê que ela está realizando esse agendamento. Então aqui eu vou dar um próximo. Ele vai pedir aqui para realizar aqui, informar aqui novamente as informações de pedido, por exemplo. Vou adicionar aqui, eu vou salvar. E aqui o sistema ele daria aqui a visualização. Então aqui eu tenho, no caso, 5 docas dentro do meu processo, sendo que as 15 horas eu já peguei e vinculei ali a um agendamento. O sistema ele não trouxe essa visibilidade para essa transportadora. Então aqui eu vou informar aqui o outro horário, das 5 e meia, por exemplo, e vou salvar aqui. Salvei essa informação, para a transportadora vai ficar aqui, aguardando aceite do planejador. vocês vão poder editar, vocês vão poder aceitar, vocês vão poder rejeitar esse agendamento que foi realizado ali por essa transportadora. Caso vocês me falem assim, não, [PESSOA], eu quero que o que é transportador, o que o fornecedor, o que o meu cliente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: agendou,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: eu quero que seja aceito ali de uma forma automática. Isso tudo é configuração. Então aqui eu coloquei dentro do meu processo que esse aceite é obrigatório. Então ele vai estar aqui dentro de pendentes, pendência de aceite, E o sistema vai estar retornando aqui as informações, tudo certinho, eu consigo vir aqui confirmar aqui embaixo os pedidos, os documentos que estão vinculados a ele. Eu consigo selecionar todos e confirmar também aqui todos que estão aqui selecionados, ou consigo aqui aceitar, rejeitar, editar ali algum dado. Nesse caso aqui eu vou confirmar, consigo baixar os anexos ali, caso tenha um XML também ali vinculado. eu aceito isso\", ele foi alterado aqui para o processo aqui confirmado. Então tem aqui um processo de expedição agendado e um processo aqui de recebimento. Além disso, o que vocês teriam visibilidade? Aqui vocês tem visibilidade do que foi realizado, do que foi dado no show, que está aguardando, aceite, aqui dentro desse período que eu selecionei, o que está cancelado, atrasado, rejeitado, tudo isso vocês tem visibilidade. E aquele mesmo recurso que a gente tem dentro ali do checklist, que é o nosso recurso de comunicação, que a gente consegue enviar notificações ali, seja por e-mail, Whatsapp, esse mesmo recurso, ele também está disponível aqui dentro aqui do agendamento. Então, consigo gerar uma notificação correspondente aqui a esse agendamento aqui que foi feito. Então, isso aqui é um pouquinho do agendamento. Agora, eu vou entrar como que fica essa informação ali dentro do [EMPRESA]. Então, eu vou vir aqui em [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aqui dentro do [EMPRESA], já é a segunda etapa do processo. Então, o agendamento, ele vai ser responsável por fazer toda a parte de gestão, organização, mesmo para vocês terem uma visibilidade, uma previsibilidade daquilo que está previsto ali para receber. E no [EMPRESA], vocês vão efetivar essas entradas. Então, de acordo com o que o motorista, ele é, ele, ele Chega na operação de vocês, ele vai se identificar ali na portaria para executar ali todos os processos. Aqui, dentro aqui já da jornada aqui da portaria, então assim que esse motorista, ele chega, ele pode ir diretamente ali na portaria e aí a portaria consegue vir aqui informar, por exemplo, ali a placa desse veículo, caso os dados já estejam ali cadastrados, previamente cadastrado, consegue informar ali o CPF desse motorista. Ou, por exemplo, chegou esse motorista ali para fazer uma carga, um processo de carga ou descarga, mas não tem uma chegada agendada. Isso vai impedir ele realizar a entrada? Não. A portaria vai vir aqui em chegada não agendada e ele vai informar se é um processo de carga ou descarga, as informações aqui do motorista, aquelas mesmas informações ali que foi realizada ali no agendamento, mas agora ele vai efetivar ali de fato, ele não vai realizar um agendamento prévio, ele só vai notificar que entrou dentro da operação. E aqui, dentro do processo de portaria, além do motorista dos carros para fazer os processos operacionais, é possível que vocês também a portaria efetivar a entrada dos prestadores de serviço. Então, um exemplo, a [EMPRESA] vai visitar a operação de vocês, aí vocês vão informar qual que é o prestador de serviço, qual que é a rota, vocês conseguem criar uma rota específica para ele, informar qual que é a descrição, tem uma reunião XPTO, com tais pessoas. O veículo também, então, o veículo ele não é obrigatório, né, porque até mesmo essa pessoa pode não ter chegado ali por meios próprios, pode ter chegado ali de algum outro transporte público. E aqui eu vou colocar, por exemplo, reunião. Daqui a um próximo eu consigo informar o veículo ou não, daqui a um próximo insira aqui a informação desse visitante. E aí vocês também passam a ter controle também dos visitantes, dos prestadores de serviço na operação de vocês. Então, aqui é um pouquinho do processo de portaria. Ah, é somente por aqui? Eu tenho que ter uma portaria? Eu tenho que ter um porteiro para realizar o processo de entrada desse motorista? Não. A gente tem um processo aqui que a gente chama de [EMPRESA]. [EMPRESA], a gente consegue executar isso hoje de duas formas. Um seria ou vocês colocarem um totem na operação de vocês, pelo qual ele na portaria, que aí o motorista ele pega vai até [LOCAL] e gerem... informaria a placa",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ali do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: veículo, pra notificar que ele chegou ali dentro da operação, ou se não, ele pode acessar ali um aplicativo. Então, esse aplicativo, ele acessaria esse aplicativo, informaria ali os seus dados, seria como se fosse um pré-cadastro, né, se ele tiver já um agendamento realizado, tá tudo certo, se ele não tiver, ele consegue ali inserir esses dados ali de pré-cadastro e essa informação vai ser notificada ali pra portaria. Nesse caso aqui, como eu já tenho o agendamento realizado, eu só vou informar aqui o meu CPF ou a placa em específico, ele vai me dar aqui os detalhes, eu consigo aqui ver os detalhes e fazer o processo de check-in. E com isso, a portaria, quando eu atualizo aqui o meu processo aqui da portaria, tem esse daqui aguardando para entrar. Então, o que estava já agendado, ele",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: já",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: fez o processo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: check-in, ele vai estar aqui aguardando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: entrar. Dúvidas até aqui, pessoal?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3804,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Pode seguir, tem que aparecer um aviso na nossa tela aqui, por isso eu tenho que parar um pouquinho. Mas pode seguir, por favor.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.476,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Pode seguir, perfeito. Então aqui, ent",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aguardando pra entrar. Então esse motorista já notificou a portaria que tá dentro ali do perímetro ali da operação e agora ele precisa adentrar a operação pra ir pro próximo etapa ali da [LOCAL]. Como que é feito isso? A operação consegue vir aqui, a portaria consegue fazer esse processo aqui de convocação. Quando eu convoco esse motorista, aparece tanto em um painel, então vou aparecer aqui, vou selecionar por exemplo aqui meu ponto de controle que é a portaria. Então ele traz essa notificação tanto por um painel, quanto também a gente envia essa notificação ali, seja por WhatsApp ou SMS, para que esse motorista vá ao seu próximo ponto de controle, que o próximo ponto de controle é ali na portaria para entrar dentro da operação. Aí, feito isso, a portaria vem e faz aqui o processo de entrada do motorista.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Então, ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: consegue registrar a entrada aqui. Ele já não vai estar mais aguardando aqui para entrar, ele vai estar aqui em processo. E vocês vão ter toda a visibilidade do que está aguardando para entrar, o que está ali na portaria, e qual etapa que ele está dentro desse painel da jornada de bate. Então, vocês conseguem até mesmo colocar isso aqui num televisor e acompanhar. Então, aqui nesse recebimento que eu fiz agora, essa entrada, na verdade, que eu fiz agora, que é um processo de expedição, eu estou aqui nessa primeira etapa aqui, que é a minha etapa aqui de portaria. E aí todas essas próximas etapas aqui, tanto portaria, balança manual, isso que que a gente chama de ponto de controle. E esses pontos de controle, essas etapas, essa rota que o motorista vai fazer, isso tudo é parametrizado por vocês. Então, aqui dentro da configuração do sistema, vocês conseguem cadastrar todas as possibilidades de pontos de controle que vocês têm. Então, no meu caso aqui, eu tenho balança manual, eu tenho estacionamento, eu tenho uma portaria com checklist, vocês que já têm checklist, O [EMPRESA] também integra de uma forma automática com o checklist. Então vamos supor que assim que esse motorista chega, tem que fazer um processo de inspeção para averiguar as condições desse carro, se esse carro está com os pneus corretos, se tem alguma não conformidade. Então vocês conseguem informar que esse ponto de controle tem vínculo com o checklist vai ser aberto ali um processo de inspeção de uma forma automática ali dentro do checklist e somente vai conseguir da sequência a próxima etapa desse ponto de controle depois que finalizar esse processo ali dentro do checklist. Caso não gere, por exemplo, se gerou uma não conformidade, alguém vai realizar essa tratativa dessa não conformidade, vai ficar parado. Então esse motorista ele não vai conseguir ir adiante e ir para o próximo etapa assim que não for finalizado, justamente porque foi feita ali a inspeção desse veículo, esse veículo ele não está em condições ali conforme para realizar ali o processo ali de carregamento, eu vou ter que pegar e cancelar e falar para a transportadora que vai ter que trazer aqui um outro caminhão, porque esse caminhão não tem condições. Então tudo isso vocês conseguem parametrizar aqui dentro do sistema. Eu tenho outros pontos, ah, tem uma balança, tem processo de doca, recebimento fiscal, então tudo isso Vocês cadastram aqui, informando qual que é o nome do ponto de controle, qual que é a descrição, o tipo de processo que vai estar vinculado, se é uma área, por exemplo, é um estacionamento, é uma área intermediária. Se vai ter processo de convocação, então essa convocação que eu mencionei, que eu consigo convocar esse motorista para o próximo ponto de controle, é feito aqui, é configurado aqui, que eu posso configurar ali por painel, SMS ou WhatsApp. E aqui, o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: checklist.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Então, se é a setapa, esse ponto de controle vai ter vínculo aqui com um processo aqui de roteiro. Então, os roteiros que estão cadastrados ali no checklist do sistema, ele vai retornar aqui para essa etapa desse ponto aqui de controle. Dentro aqui também das configurações, eu tenho as rotas. Então, de acordo com os pontos de controle que eu cadastrei, eu vou criar a rota",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: desse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: processo. Então, aqui eu posso denominar, por exemplo, a descarga granela. Aqui eu informo qual que é o processo viário ali que vai estar é vinculado, então aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: eu vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: informar que é um processo aqui de descarga, ele retorna",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: e aqui o próximo eu vou estar informando minimamente um ponto de controle, uma rota ali para executar, eu preciso entrar, entrar e sair, né, então isso aqui, o sistema já traz aqui como um padrão. Ah, mas essa minha etapa, depois ali o processo de descarga, eu vou ter um processo aqui de recebimento fiscal, depois aqui do recebimento fiscal, ele vai ali pra minha doca, depois da doca, ele pode realizar aqui o processo aqui de saída. Não, além aqui do recebimento fiscal, antes do recebimento eu quero direcionar ele pra uma área de estacionamento, porque ele, eu não vou liberar ele direto ali para a minha operação. Então aqui eu vou colocar aqui como a etapa superior, então consigo aqui arrastar, aqui denominar qualquer sequência que vai ser realizada. Então aqui a minha rota é portaria, estacionamento, recebimento fiscal, doca e depois faz aqui o processo de saída. Então aqui vocês conseguem configurar e também adicionar aqui informações que eu consigo integrar com o processo de checklist. dentro aqui dessa rota também. Então aqui é um pouquinho da configuração da rota. Eu tenho aqui o bloqueio de acesso, então eu posso bloquear um motorista",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: um veículo que ele não pode adentrar mais dentro da minha operação. Então quando esse motorista ou esse veículo tentar entrar dentro da operação, além de impedir, vai gerar uma notificação ali para vocês, até mesmo caso seja necessário. E aqui todas as outras partes de cadastro, de fornecedores, transportadoras, acesso dessas transportadoras, desses fornecedores também, qual que vai ser o acesso ali, e todas as configurações também de controle de semáforo dentro da operação, se exige ali, conferência de documentos, então tudo isso são parametrizações aqui que a gente consegue ali incorporar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ao",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: processo ali de vocês. Mas, saindo daqui um pouquinho das configurações, vou voltar aqui para o meu processo aqui de jornada. Então, eu entrei dentro da operação, ele está aqui na portaria, eu já permiti, então ele foi aqui, ele está aguardando início aqui dentro do meu processo aqui da minha doca. Vocês podem ver que tem alguns que estão aqui numa sinalização aqui vermelha. O que seria isso? Eu consigo também configurar dentro do sistema para que, qual que é o tempo que esse motorista, ele pode ficar dentro daquele processo para gerar alertas para vocês. Vamos supor que no processo da [LOCAL], ele tem ali no máximo duas horas para fazer o processo de carregamento ou processo de descarregamento. Caso esteja ali em uma hora e meia, você consegue configurar o sistema para que em uma hora e meia o sistema ele gera uma notificação para vocês. Aí o sistema ele vai alterar aqui para uma cor aqui em amarelo, para vocês terem que chamar atenção, para ter como atenção ali para esse processo que está estourando, o processo desse ponto de controle. Caso ele estoure essa etapa, caso ele ultrapasse essas duas horas, como exemplo eu utilizei, que está configurado dentro do sistema, o sistema ele vai alterar aqui por uma cor vermelha, pra realmente vocês priorizarem, pra vocês não esquecerem, eu já tive aqui relatos aqui de operações de motorista ter ficado ali dois dias ali dentro da operação, porque esqueceu, literalmente, desse motorista, esqueceu que ele tava ali dentro da operação, então aqui o sistema ele consegue gerar esses alertas aqui, pra que vocês sempre ali fiquem atentos aqui a esse tempo. Então aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: eu tô",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4809,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: no meu, pode perguntar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4995,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Não, aqui a gente não esquece. Só uma pergunta, a passagem de um movimento de uma etapa pra outra é aqui? É na... Como é que o nome é de portador de servimento? Agora tem que... Liberei uma [LOCAL] lá no meu xerifado. Liberei uma posição de recebendo um xerife. Como é que eu faço? Como é que eu informo a portaria que tá disponível a [LOCAL] pro próximo caminhão entrar?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Sim, aí nesse caso, Vocês vão ter aqui a visibilidade, aqui dentro da jornada, que esse motorista está aguardando ali para entrar. Então, aqui dentro da jornada de pássaro, vocês vão ter essa visibilidade e vocês podem pegar e notificar ali a portaria que esse motorista pode entrar. E faria que esse processo aqui do que está agendado aqui para o dia, vocês conseguem anotificar a portaria para a portaria pegar e fazer o check-in desse motorista, entrar ali com esse motorista dentro da operação. [PESSOA], gera toda a notificação diretamente aqui pelo próprio sistema. E aí entrou ali dentro da operação. A operação começou a fazer o processo de carga ou processo de descarga. A operação vai vir aqui, clicar aqui em iniciar processo. Deixa eu só fechar aqui. Vai clicar aqui em iniciar processo. Então quer dizer que começou a fazer ali o processo aqui. de carga",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: processo de descarga, ele consegue conferir até mesmo aqui os documentos. Então, vocês conseguem colocar essa etapa aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: obrigatória?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá, só uma pergunta aqui em relação",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: isso. É totos com totos. Eu fiz uma nota de recebimento no recebimento fiscal e esse processo está indo lá para a mocha de fado, por exemplo. Ele vai começar a fazer o recebimento lá no coletor. Ele já integra com isso aqui? Ou ele precisa vir aqui nessa tela e dar ok que começou a receber?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ele precisa vir aqui nessa tela e receber. Porque hoje, das soluções que são integradas ali de totos com totos, é o agendamento, o [EMPRESA] e o checklist. Hoje são essas três soluções ali que são integradas ali de uma forma nativa. Hoje o [EMPRESA] não integra de uma forma nativa ali com o WMS. Ah, ele deu o processo ali de entrada, automaticamente já gera aqui o processo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: já estarta esse processo aqui dentro do [EMPRESA]. Hoje a gente não tem isso, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Então todos os cadastros de transportadora que eu tenho dentro do [EMPRESA] e tal, eu tenho que repetir o cadastro aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: no [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5317,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: o cadastro tem, pra parte de cadastro a gente transportadora, fornecedor, motorista, placa, essas coisas assim, a gente consegue tudo cadastrar ali de uma forma nativa. Então, se for cadastrado, hoje vocês têm Proteus?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [EMPRESA]. [EMPRESA]. [EMPRESA]? FET e Proteus. Desculpa. Na parte de FET, né, no GFE.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5337,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: E aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: na parte",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: de ERP, [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ah, então nesse caso ali com o GFE, que é a parte de proteose que acaba entrando ali, mas essa parte de transporte em si, isso é integrado ali de uma forma nativa, junto com a [EMPRESA], tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Então o [EMPRESA] é a base proteose?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: É a base, ela é proteose.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Esse é um ponto assim, né? que faça menos clientes e consiga fazer. O ponto de colocar o item TOTOS no ativo, e não uma solução, era para ele estar integrado. O",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: possível",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: fazer?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Isso está longe de acontecer? Ou vocês estão no processo de acontecer?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [EMPRESA], desculpa o final, não entendi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3799,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Ou não vai acontecer, você não vou integrar esse [EMPRESA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4258,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Olha, a parte do [EMPRESA], com o Proteus, está em caminho de estar acontecendo. Então já está ali a parte de cadastro, de transportadora, motorista, isso tudo já disponibilizaram ali de uma forma nativa. Com o WMS, está em roadmap, mas ainda não tem data prevista mesmo de priorização, mas o que os nossos clientes tem feito, quando há essa necessidade. Tanto no [EMPRESA] quanto ali no WMS, a gente tem APIs ali disponíveis, então consegue configurar para que, no momento que seja dado o start ali de recebimento ou seja iniciado o processo de conferência, ser enviada ali uma integração ali para o [EMPRESA], uma comunicação para automatizar esse processo. Então a gente consegue desenhar isso dentro aqui da ferramenta, tá? Então a gente tem ali eventos ali disponíveis para personalizar ali de acordo um cliente ali necessita para gerar essas automatizações.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Como eu botei a nota e pedido aqui, se eu desse um ok no recebimento, podia dar entrada na nota, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4775,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Sim. Hoje, o processo de conferência de entrada, vocês fazem ali dentro do próprio aplicativo do [LOCAL] mesmo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Sim. É e-mail. Nesse",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: caso, a gente conseguiria ali, caso você Se por exemplo, ah não, quero ir para o [LOCAL], aí a gente consegue estudar uma forma de gerar essa integração, ou caso vocês mantenham ali dentro do data sou, a gente consegue trabalhar com esse gatilho mesmo de chamada, então automatizar esse processo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: O aplicativo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: que a gente tem aqui do [EMPRESA] seria mais um aplicativo do motorista, para o motorista notificar que chegou ali dentro da operação. Não seria nem um aplicativo em si, seria dentro ali do browser mesmo. esse [EMPRESA], essa mesma visão aqui do [EMPRESA], ele consegue notificar ali que entrou dentro ali da operação e aí o sistema tem todo um processo de validação de perímetro, né? Então, se ele pega ali a geolocalização ali desse motorista, está dentro do perímetro ali da operação, ele permite. Se ele estiver ali muito longe, aí ele não vai permitir porque ele identifica que esse motorista não está ao redor da operação. Então hoje o aplicativo que a gente tem é esse. A parte aqui da execução dessas tarefas hoje a gente não teria aplicativo. Outra",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: pergunta, obrigatoriamente tem que ter esse de arrendamento mais o [EMPRESA] ou só o [EMPRESA] pode ser colocado de forma separada? ele",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: pode ser implementado de uma forma separada. Então, a gente até criou dois sistemas, porque a gente entende ali que tem operações que só faz sentido ali ter agendamento, não tem um controle de parte portaria, e tem operações que não tem, não faz ali esse agendamento prévio, só realmente entra ali com esses motoristas ali, e faz controle ali da operação ali, do tempo desse motorista de jornada, né, do motorista somente no [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tá, outra pergunta. Tem como, você tem essa possibilidade, por exemplo, quando eu, Eu dou saída num caminhão. O caminhão vai na inspecção, ele terminou de carregar, eu dou saída ali da doca, ou de uma doca, de outro segmento. Automaticamente chamar o próximo caminhão? Na fila?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, hoje",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3883,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: a gente teria que pensar no processo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: de automatização mesmo, pra chamar o próximo motorista e assim por diante pra entrar. Mas de forma automática hoje não. Os gatilhos mesmo de entrada e saída são feitos ali de uma forma manual, mas nada impede, igual o reforço, da gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: pegar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: e criar ali um disparo mesmo de integração, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCUTOR 1]: aqui nesse caso aqui, por exemplo, eu vou finalizar, né, fiz aqui o processo aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: de carga aqui desse motorista e quando eu volto aqui na portaria ele tá aguardando aqui pra sair. Então, nesse caso aqui, no meu caso ainda não, ele ainda tá no meu processo aqui que seria aqui da minha balança aqui manual, inclusive que até o meu tempo aqui já foi até estourado aqui, de acordo com o que eu configurei dentro do sistema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: ela vai ficar verde ali e vai habilitar o próximo, isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Exatamente. Sempre quando está esse sinal aqui de certinho, de certo, de ok, é que ele executou essa etapa. Quando ele está em vermelho aqui, é que estourou essa etapa do meu processo. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: que eu configurei dentro do sistema, ele está estourado. Se ele fica aqui em verde, quer dizer que essa etapa foi passada aqui dentro do tempo que está previsto para essa etapa. No meu processo em específico aqui, eu tenho um processo aqui de balança, então vou iniciar aqui a aferição aqui da minha balança, mas tudo isso eu reforço aqui a configuração, né? Vou finalizar. Quando eu venho aqui para a minha jornada, a balança eu executei dentro do prazo, então ele está aqui em verde, e aí ele está já disponibilizado aqui para fazer o processo de saída. Então, quando eu venho aqui em detalhes, a operação em si, ou a portaria, ela pode só informar aqui diretamente o CPF ou a placa ali desse motorista em específico. [PESSOA] entrando aqui um pouco mais no detalhe, mas para mostrar aqui para vocês. E aí eu pego e venho aqui, inicio esse processo, registro aqui. A saída, eu posso ter a etapa de conferir aqui os documentos que estão aqui previstos nesse processo de expedição. Depois, eu registro aqui a saída. Registrei a saída, já saiu aqui dentro do meu processo aqui da jornada do motorista, porque o motorista já saiu em específico. Depois, onde que eu consigo acompanhar toda essa jornada do motorista? Dentro do meu histórico. Então, dentro do histórico, eu tenho aqui o histórico de carga e descarga. E eu consigo ver aqui todas as movimentações que foram geradas, o tempo que foi realizado entre um e outro, os documentos que estão vinculados também ali, caso seja necessário. E o mesmo recurso de comunicação que tem no [PESSOA], tem também aqui no [EMPRESA], para vocês gerarem essas comunicações de e-mail, WhatsApp, para ser tudo gerado aqui dentro do próprio [EMPRESA]. Bom, uma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: pergunta,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: pergunta assim, só em relação a, quando fala da documentação ali, a documentação como ele não tem integração com o [EMPRESA], eu preciso anexar o documento, é isso? Uma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: nota",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: precisa anexar essa nota ali, é isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5387,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Exatamente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: precisa anexar esse documento, seja ali uma, caso na etapa de vocês ali, seja de fato ali anexar, O documento de entrada, a nota fiscal de entrada de compra em específico ou uma remessa ou até mesmo ali um pedido, uma nota fiscal de venda, vocês anexam ali o XML. Se vocês não tiverem essa informação, porque às vezes o pedido só é saturado ali depois do processo de conferência e o motorista já está ali na doc em específico, vocês conseguem informar ali o número do pedido, pode ser o pedido, pode ser o DTA, pode ser a [LOCAL], então são tudo documentos válidos que o [EMPRESA] aceita.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Outra pergunta assim, na portaria ali, eu boto a visão da portaria, eu consigo saber quem que está dentro da janela prevista ou não? Eu consigo enxergar isso na portaria? Ou é só a visão que está na portaria agora?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4674,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Sim, aqui dentro da... aqui a gente consegue ter visibilidade aqui do que está agendado aqui para o dia. O horário também previsto aqui do que está agendado aqui, que já foi notificado. E aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5194,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: da jornada vocês conseguem ter visibilidade do que já entrou dentro da portaria. Então o que a portaria permitiu já entrar ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Aí vocês já conseguem...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 7]: aguardando a portaria vir de onde? que está aguardando aqui para entrar. Então, se eu estivesse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5333,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aguardando aqui para entrar, ele retornaria aqui nessa visão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: E aí tem o agendamento também, se está agendado para algum horário, ele aparece ali. E",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: quem conseguiu ver, professor, dependendo das novas dessas, ele está ali, das novas.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA], exatamente. É aqui dentro da, tanto aqui da portaria ou aqui dentro da jornada, vocês conseguem vir aqui visualizar que os detalhes E aqui dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.517,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: detalhes vocês conseguem ter o tempo da jornada em específico consegue ter outras informações também aqui referente à etapa depois que esse motorista ele já entrou.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Eu tenho uma agenda às 15 que eu preciso entrar. Eu acho que não é muito longa ali mas eu retorno aqui ou se não checo contigo depois os Next Steps. Pode ser?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4867,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: Então, Marcos, depois voltamos a falar aqui, deixo vocês com a Thaís.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4919,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Abraço. E aí,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: só para complementar também, assim como dentro ali do checklist, dentro aqui do [EMPRESA], dentro do agendamento, a gente tem aqui os nossos insights. logísticos, né, então são visões ali já prontas que vocês conseguem acompanhar, né, do que que tava aqui igual do [EMPRESA], do processo do pátio aqui, a média diária, o que tá sem agendamento,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: o que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: entrou sem agendamento, qual que é essa média, o tempo médio de entrada, o tempo médio ali de duração e aqui todas as informações, né, por tipo de operação, por rota, por transportadora, o que tá ali, a quantidade ali sem agendamento, então são todas as informações que vocês conseguem aqui acompanhar, aqui a rota e horário, para ter uma visibilidade até mesmo ali de tempo, né, de entrada, processo aqui de participação, né, então quais são as as portadoras e os fornecedores que entram ali dentro da operação de vocês, que tem mais quantidade de processo, quantidade sem agendamento, por tempo médio de duração, isso tudo realmente para vocês conseguirem acompanhar no dia a dia e ter a informação do dado, que o dado hoje é tão importante para as operações em si. Então é isso gente, aqui de uma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: forma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: bem resumida aqui do processo, seria isso, então dentro do [EMPRESA] até mesmo que eu consigo dar visibilidade aqui para vocês, que é uma ferramenta que está em constante evolução, a necessidade que vocês têm ali para automatizar esse processo ali junto, até mesmo ali com o [LOCAL], eu vou entrar em contato ali com a equipe ali de produto, até mesmo para passar e dar tranquilidade ali para vocês que a gente consegue automatizar e coloco também vocês ali em cópia dentro desse circuito ali para gerar e dar visibilidade sobre todas essas informações. Ah, dentro ali do [LOCAL] seria disparado essa interface, por exemplo, e ali dentro do [EMPRESA] receberia o portal. Só para vocês terem uma visibilidade mesmo, eu vou levantar isso junto com a equipe de produto",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: mostrar que a gente consegue personalizar isso de uma forma",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: fácil.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Obrigado pela disponibilidade e pelas aplicações. E agora vamos para as próximas etapas internas e é importante vir em curso disso para a gente também. É,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5341,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: só para ter uma visibilidade. Hoje o [EMPRESA], ele é calculado ali o valor da recorrência do produto pela quantidade de entradas que vocês têm ali de carros dentro da operação e contando também ali de visitante. Vocês têm uma visibilidade da média que vocês recebem ali por mês?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Só para entender, por que é cobrado em função dessa... Por que foi cobrado dessa forma? Isso tem algum custo adicional, se você vê mais ou menos?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Teria ali um custo adicional que é de, acho que é de R$ 1,67, por exemplo, tem um pacote ali igual o checklist. O checklist também é dividido ali por pacotes de inspeção, quantas inspeções vocês executam ali por mês. Então o agendamento tem, o [EMPRESA] do agendamento tem mais ou menos essa mesma lógica, pela quantidade média que vocês executam, qual o pacote que se encaixa melhor nessa operação. Se ultrapassar, vocês pagam um adicional",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: entrada que ultrapassou, que é cerca de 1,60 e poucos centavos, ou caso vocês estejam ultrapassando ali muito, aí a gente realmente apura esse entrem em contato com vocês, porque talvez seja ali um momento até mesmo ali de fazer o upgrade ali do pacote ali adquirido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5452,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Hoje eu tiro em torno de umas 300, 350 recebimentos mesmo, mais ou menos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4742,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ah, perfeito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Expedição, eu acho que é próximo a isso, né, se pensar que é 20 dias por dia. Então, de 300, somando os dois lados, recebimento e expedição, É 600 a 700 meses.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5074,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: é o nosso número. É só para entender o porquê da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: especificação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Já que vocês têm essa ferramenta, por que é especificado dessa forma?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Porque se a gente fosse especificar, por exemplo, por quantidade de usuários, a cada transportadora que você cadastrasse, a cada fornecedor ia acabar computando ali como um novo usuário e às vezes acabaria ali aumentando os custos. Então, a gente tem motoristas ali que estão vinculados também. Então, por usuário, acaba ali não sendo algo acessível para as operações, porque ficaria ali um custo muito alto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Então, por isso que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: quer, pela quantidade de processamento que a gente vai ter que dispor para vocês. Então, se é, por exemplo, 700, entradas ali mensais, então a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5686,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: calcula ali que vocês v",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4778,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: gastar um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: pouco de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tempo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: um recurso de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: máquina,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vamos assim",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: dizer,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: dessa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: documentação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: por conta disso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Diferentemente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: por exemplo, do WMS. WMS, como",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5242,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: gente n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: acesso externo, né, de pessoas externas,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: já é calculado ali pela quantidade de usuários, então cada Cada solução, a gente identificou ali uma métrica para melhor atender.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Obrigado pela sua amizade.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4382,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Obrigada, viu, pessoal. Então a gente vai se falando. Eu vou levantar ali com a equipe de produto e também depois a gente pega e passa ali a visão de investimento ali para vocês, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4973,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Show. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Até mais, gente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

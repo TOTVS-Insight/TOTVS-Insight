@@ -1,0 +1,163 @@
+{
+  "id_reuniao": "938580",
+  "codt": "TEZGHH",
+  "data_reuniao": "2026-01-26 10:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO DE JANEIRO",
+  "segmento": "SERVICOS",
+  "uf": "SC",
+  "texto_original": "[LOCUTOR 3]: Eu tinha mandado uma mensagem aqui pra [PESSOA], confirmando a reunião. Ela não tinha visto ainda. Dá uns minutinhos, vê se ela conecta, senão eu tento dar uma ligada, tá bom? Tá.\n[LOCUTOR 4]: Eu vou fechar aqui, só pra mim mandar um áudio, resolver algumas coisinhas, eu já volto.\n[LOCUTOR 3]: Combinado.\n[LOCUTOR 1]: Estou por aqui também, tá, [PESSOA]? [LOCAL].\n[LOCUTOR 3]: Tá bom. Oi,\n[LOCUTOR 1]: [PESSOA]. Cortou, viu? Não entendi.\n[LOCUTOR 3]: Ah, falei que eu tentei ligar para a [PESSOA], mas ela recusou a chamada. Falei para a gente aguardar mais uns 5 minutos para não prender muito vocês também. De qualquer forma, o [PESSOA] também estava no invite. Eu mandei mensagem aqui para ele, mas ele não avisou ainda. Então,\n[LOCUTOR 1]: certinho.\n[LOCUTOR 3]: Qualquer\n[LOCUTOR 1]: coisa, a gente marca para uma outra data também. Não tem problema\n[LOCUTOR 3]: não.\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 3]: Ela não me respondeu aqui mesmo. Vamos fazer o seguinte, se ela me chamar aqui nesse meio tempo, eu te aviso pra pegar com você outras datas, pra tentar alinhar com ela, tá?\n[LOCUTOR 1]: Combinado.\n[LOCUTOR 3]: Não me atendeu de novo,\n[LOCUTOR 1]: não. Combinado, então.\n[LOCUTOR 3]: Tá bom, obrigada,\n[LOCUTOR 4]: viu? [LOCAL],\n[LOCUTOR 1]: gente.\n[LOCUTOR 3]: Obrigada,\n[LOCUTOR 1]: você. Obrigada, [PESSOA].\n[LOCUTOR 4]: Obrigado.\n[LOCUTOR 1]: [LOCAL], tchau.",
+  "texto_filtrado": "[LOCUTOR 3]: Eu tinha mandado uma mensagem aqui pra [PESSOA], confirmando a reunião. Ela não tinha visto ainda. Dá uns minutinhos, vê se ela conecta, senão eu tento dar uma ligada, tá bom? Tá.\n[LOCUTOR 3]: Combinado.\n[LOCUTOR 1]: Estou por aqui também, tá, [PESSOA]? [LOCAL].\n[LOCUTOR 3]: Ah, falei que eu tentei ligar para a [PESSOA], mas ela recusou a chamada. Falei para a gente aguardar mais uns 5 minutos para não prender muito vocês também. De qualquer forma, o [PESSOA] também estava no invite. Eu mandei mensagem aqui para ele, mas ele não avisou ainda. Então,\n[LOCUTOR 1]: certinho.\n[LOCUTOR 3]: Qualquer\n[LOCUTOR 1]: coisa, a gente marca para uma outra data também. Não tem problema\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 1]: Combinado.\n[LOCUTOR 4]: viu? [LOCAL],\n[LOCUTOR 1]: gente.\n[LOCUTOR 1]: você. Obrigada, [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:13.603280+00:00",
+    "total_linhas": 23,
+    "linhas_mantidas": 12,
+    "linhas_removidas": 11,
+    "percentual_mantido": 52.17,
+    "confianca_media": 0.4511
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 3]: Eu tinha mandado uma mensagem aqui pra [PESSOA], confirmando a reunião. Ela não tinha visto ainda. Dá uns minutinhos, vê se ela conecta, senão eu tento dar uma ligada, tá bom? Tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Eu vou fechar aqui, só pra mim mandar um áudio, resolver algumas coisinhas, eu já volto.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Estou por aqui também, tá, [PESSOA]? [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom. Oi,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4088,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA]. Cortou, viu? Não entendi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3541,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ah, falei que eu tentei ligar para a [PESSOA], mas ela recusou a chamada. Falei para a gente aguardar mais uns 5 minutos para não prender muito vocês também. De qualquer forma, o [PESSOA] também estava no invite. Eu mandei mensagem aqui para ele, mas ele não avisou ainda. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: certinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Qualquer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: coisa, a gente marca para uma outra data também. Não tem problema",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Ela não me respondeu aqui mesmo. Vamos fazer o seguinte, se ela me chamar aqui nesse meio tempo, eu te aviso pra pegar com você outras datas, pra tentar alinhar com ela, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4316,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Não me atendeu de novo,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4266,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: não. Combinado, então.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tá bom, obrigada,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: viu? [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Obrigada,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: você. Obrigada, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id_reuniao": "1284188",
+  "codt": "T84397",
+  "data_reuniao": "2026-03-23 16:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 5]: [EMPRESA],\n[LOCUTOR 2]: pessoal. Esse [EMPRESA] construtor de vendas aqui, alguém sabe o que que é?\n[LOCUTOR 3]: \n[LOCUTOR 4]: [LOCUTOR 1]: uma IA da vendas, pode tirar se for o caso, não tem problema não.\n[LOCUTOR 2]: Ah não, é porque tem duas IAs aqui, tem uma IA [EMPRESA], essa de cima roxinha, e\n[LOCUTOR 6]: tem esse\n[LOCUTOR 2]: construtor\n[LOCUTOR 6]: de vendas. Então podemos tirar aqui, a gente tira ele fora.",
+  "texto_filtrado": "[LOCUTOR 5]: [EMPRESA],\n[LOCUTOR 2]: pessoal. Esse [EMPRESA] construtor de vendas aqui, alguém sabe o que que é?\n[LOCUTOR 4]: [LOCUTOR 1]: uma IA da vendas, pode tirar se for o caso, não tem problema não.\n[LOCUTOR 2]: Ah não, é porque tem duas IAs aqui, tem uma IA [EMPRESA], essa de cima roxinha, e\n[LOCUTOR 6]: tem esse\n[LOCUTOR 2]: construtor\n[LOCUTOR 6]: de vendas. Então podemos tirar aqui, a gente tira ele fora.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:07.756916+00:00",
+    "total_linhas": 8,
+    "linhas_mantidas": 7,
+    "linhas_removidas": 1,
+    "percentual_mantido": 87.5,
+    "confianca_media": 0.4967
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 5]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: pessoal. Esse [EMPRESA] construtor de vendas aqui, alguém sabe o que que é?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 4]: [LOCUTOR 1]: uma IA da vendas, pode tirar se for o caso, não tem problema não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ah não, é porque tem duas IAs aqui, tem uma IA [EMPRESA], essa de cima roxinha, e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: tem esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: construtor",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: de vendas. Então podemos tirar aqui, a gente tira ele fora.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    }
+  ]
+}

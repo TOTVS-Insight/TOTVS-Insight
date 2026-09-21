@@ -1,0 +1,2131 @@
+{
+  "id_reuniao": "1107759",
+  "codt": "114491",
+  "data_reuniao": "2026-02-23 08:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 16]: Deixa eu dar um ping aqui no parceiro de quem vai participar. Deixa eu ver se ele já está... Ah, é o [PESSOA]. O [PESSOA] pediu para avisar que ele já está acessando. Teve um probleminha no modem. Acho que ele está remoto hoje, mas já vai acessar. O [PESSOA]. e [PESSOA], enfim, deixa eu comentar um negócio com vocês, acho que até eu tinha comentado na sexta, eu passei o código de vocês para o [PESSOA], aí o [PESSOA] conseguiu olhar lá o histórico do que já foi visto, já foi feito, enfim, em relação à [LOCAL], mas aí o que eu pedi para ele, para de repente a gente hoje fazer um bate-papo com vocês para entender o que vocês precisam,\n[LOCUTOR 55]: para\n[LOCUTOR 16]: entender se é aquele mesmo cenário que a gente falou a última vez que, deixa eu pegar aqui, quando que foi, ou se é uma demanda nova. Acho que de repente a gente poderia começar assim, entender o que é que voc\n[LOCUTOR 29]: precisam\n[LOCUTOR 16]: hoje. Daí depois a gente conseguir aqui, entrou o [PESSOA] aí, conseguir ver o\n[LOCUTOR 34]: que... Bom dia, bom dia.\n[LOCUTOR 16]: Bom dia,\n[LOCUTOR 55]: [PESSOA], tudo\n[LOCUTOR 16]: bem?\n[LOCUTOR 55]: Estava\n[LOCUTOR 16]: falando aqui com o [PESSOA] e com o [PESSOA], que [PESSOA] os responsáveis pela TI lá da [EMPRESA], né? E como a gente já teve, em alguns outros momentos, conversas sobre cloud, de repente seria interessante, nesse momento, a gente entender o que é, né? Qual que é a demanda, o que eles esperam de cloud. O [PESSOA] tinha me comentado alguma coisa. Pra daí a gente ver se é a mesma demanda que foi no passado, ou se é algo novo, né? E aí ver como conduzir dentro de casa.\n[LOCUTOR 55]: Olha, cara. Tudo bom,\n[LOCUTOR 34]: meu amigo? Tudo certo, mestre. Como estão as coisas por aí? Desculpa a\n[LOCUTOR 55]: demora\n[LOCUTOR 34]: mesmo.\n[LOCUTOR 55]: Tive um\n[LOCUTOR 34]: probleminha na minha internet que tive que reiniciar o modem.\n[LOCUTOR 55]: Não tem problema. Acontece. Cara, basicamente é assim, né? De novo, quando nós estamos na época de fazer alguma renovação de equipamento aqui na [EMPRESA], a gente acaba olhando um pouquinho para os lados, né? Se fazer qualquer coisa. Então, a gente meio que tomou um susto aí, né? meio que tava esperando, meio que tomou um susto com o preço de hardware, como é que tá hoje em dia, né, que foi orçar aí servidores, storage, e tanto storage quanto a memória RAM [PESSOA] duas coisas que aumentaram bastante de preço aí nos últimos meses, né.\n[LOCUTOR 34]: É\n[LOCUTOR 55]: verdade, acho\n[LOCUTOR 34]: que vai aumentar mais ainda até o final do ano, né,\n[LOCUTOR 55]: só depois\n[LOCUTOR 34]: baixar, questão de terras raras, enfim.\n[LOCUTOR 55]: É, o pessoal, pelo que eu andei lendo aí, o pessoal estima que [EMPRESA] em 2028, 2029, talvez, para dar uma normalizada. Vai longe, hein? Cara, a gente precisa de um orçamento, né? A gente precisa entender o que que possibilidades que a gente tem para orçar aí, né? [PESSOA] eu sei que tem que fazer alguma mensuração ou a gente tem que passar algumas informações aqui do nosso ambiente como está. Tanto questão de acesso aí, a gente não sei se faz alguma medição aqui no ambiente com alguma ferramenta de vocês, né? [PESSOA] funcionalidade da ferramenta e tal, eu não sei se teve alguma grande novidade, grande inovação nos últimos tempos, né, pra gente ficar par.\n[LOCUTOR 34]: Vocês [PESSOA] DataSoup ou Proteus?\n[LOCUTOR 55]: Proteus.\n[LOCUTOR 34]: Proteus?\n[LOCUTOR 55]: Isso. Cara, basicamente é isso, né? A gente precisa entender aí o tipo de informação que que vocês precisam para poder passar um orçamento conciso para a gente. Boa.\n[LOCUTOR 34]: Show de bola. Sabe que é um momento bom de você pensar nisso [PESSOA] tem realmente umas novidades muito legais a partir de cloud. Não sei quanto tempo passa que vocês orçaram da outra vez. Lembra mais ou menos?\n[LOCUTOR 55]: Foi ano passado ou foi no outro, cara.\n[LOCUTOR 34]: 24 para 25 por ali.\n[LOCUTOR 55]: É. Eu e o [LOCAL] ficamos discutindo ontem, é sexta e a gente não chegou no consenso.\n[LOCUTOR 34]: [LOCAL]. O que eu ia comentar é o seguinte, a gente, a principal novidade agora é a questão da gente de ar, né? Que a gente habilitou eles dentro da nossa nuvem, tá? Obviamente isso roda pra quem estiver na nuvem da Tots por um motivo de arquitetura do projeto, de estratégia, também de estratégia comercial da companhia, né? Mas a gente vê algumas mudanças, principalmente nesse ponto. O que eu queria comentar também é que dependendo do seu cenário, não só a troca de hardware, mas mais coisas podem ficar vantajosas. Eu sei\n[LOCUTOR 55]: que\n[LOCUTOR 34]: qualquer\n[LOCUTOR 55]: versão,\n[LOCUTOR 34]: banco de dados, entrega licença enterprise, estão mudando com Oracle ou com a SQL? Então\n[LOCUTOR 55]: a\n[LOCUTOR 34]: gente entrega a parte do licenciamento do banco e aí você se livra dessa bronca toda, tá? Atualização, diversão, tudo isso\n[LOCUTOR 55]: fica\n[LOCUTOR 34]: a [EMPRESA]. Sua única preocupação vai ser com relação aos customizados, né? Que a [EMPRESA] não mexe nos customizados, aí fica com vocês ainda. O acesso ao banco a gente deixa liberado. para vocês podem ter conexões ou dever ser no banco para a Power BI e para replicar o banco para alguma algum outro lugar. E que é mais seu comentário com vocês. Vocês lembram qual era a modalidade que vocês tinham votado da outra vez? Lembra?\n[LOCUTOR 55]: Deixa\n[LOCUTOR 16]: eu pegar aqui. Eu achei aqui a data. Foi agosto de 25. \n[LOCUTOR 8]: muito\n[LOCUTOR 16]: tempo.\n[LOCUTOR 34]: É\n[LOCUTOR 16]: o\n[LOCUTOR 34]: mês que eu cheguei na [LOCAL].\n[LOCUTOR 16]: Isso aí, isso aí, que ainda foi o [PESSOA] que fez\n[LOCUTOR 55]: a\n[LOCUTOR 16]: condução lá. Cara, deixa eu ver se eu acho aqui, [PESSOA]. Se eu não me engano, foi o dedicado. Deixa eu ver se no material que eu tô olhando aqui tem.\n[LOCUTOR 34]: Você tem quantos\n[LOCUTOR 16]: usu\n[LOCUTOR 28]: aí?\n[LOCUTOR 16]: [PESSOA], [PESSOA].\n[LOCUTOR 55]: Cara, dá mais ou menos uns 360 acessos simultâneos aí.\n[LOCUTOR 34]: [LOCAL]. A Suite 300 tem que ser [PESSOA] já. Eu vou falar um pouquinho da modalidade [PESSOA] só para a gente recapitular. Então, a gente entrega o HA, então [PESSOA] os servidores redundantes, nó primário e nó secundário, e aí você conecta através do DNS da TOTOS, e se o nó primário falha, a gente direciona automaticamente as conexões para o nó secundário. Essa replicação é no nível do virtualizador, então a gente replica as VMs no nível do virtualizador, E os storages, a gente replica eles utilizando os recursos da [LOCAL]. A parte de backup, a gente entrega backup com retenção de cinco anos. O backup mais recente dos últimos 30 dias ali, eles [PESSOA] feitos na mesma área de blocos em que é feita a produção. Então, a gente utiliza os\n[LOCUTOR 55]: discos\n[LOCUTOR 34]: [EMPRESA], os mesmos discos. [PESSOA] utilizados para esse backup recente, para você ter um restore mais rápido. Se você precisar restaurar o backup, ao invés de utilizar o nosso secundário do cluster e para mais de cinco anos a gente manda aparelho de objeto, enfim, como uma estratégia de backup convencional. A gente entrega o atendimento via [LOCAL], então você não precisa abrir chamado, fala direto com o cara no WhatsApp, é muito mais fácil que a mesma pessoa que vai te atender sempre e também que você vai ter a facilidade de não precisar abrir chamado, né, cara? \n[LOCUTOR 26]: chamado\n[LOCUTOR 34]: é...\n[LOCUTOR 55]: Ninguém gosta de abrir chamado. \n[LOCUTOR 6]: das\n[LOCUTOR 55]: coisas que eu falo para o [LOCAL], que dá uma desanimada na gente, é pensar, vou ter que abrir um chamado para fazer um lance no meu ambiente.\n[LOCUTOR 34]: Aí \n[LOCUTOR 35]: complicado, né?\n[LOCUTOR 34]: Pois é,\n[LOCUTOR 55]: cara, então... \n[LOCUTOR 23]: gente tem\n[LOCUTOR 55]: bastante agilidade aqui, né, tendo tudo local aqui, né, cara. Tem, logicamente, os limitadores aí, né, de ambiente e tal, mas agilidade, se a gente tem que partir pra um cenário que tem que abrir chamado, aí chega a dar um exame.\n[LOCUTOR 34]: É, o principal problema de chamada, às vezes você abre o chamado e cai pra um [LOCAL].\n[LOCUTOR 55]: É,\n[LOCUTOR 34]: cara... O cara entrou ontem na empresa, O cara não sabe nem ele não sabe nem que a TOTUS é de comer ou de passar no cabelo. O que\n[LOCUTOR 55]: faz esse\n[LOCUTOR 34]: negócio.\n[LOCUTOR 55]: E\n[LOCUTOR 34]: aí até ele descobrir que não sabe escalar para o [LOCAL] o cara resolveu o problema e você perdeu as duas ou três horas de produção. Então você está no [PESSOA] é ótimo [PESSOA] o engenheiro [PESSOA] ele é um líder do time de suporte. Então ele tem uma pequena célula. 3 ou 4 caras que trabalham com ele e aí [PESSOA] ele não pode ficar 24 horas trabalhando. Ele vai direcionando para quem está no plantão naquela hora ali e você fala sempre com ele. Então o cara conhece o seu ambiente, é um cara mais sênior. Então\n[LOCUTOR 55]: faz\n[LOCUTOR 34]: toda a diferença para os projetos que a gente está orçando, principalmente onde você não pode parar, tem a opera\n[LOCUTOR 39]: mais\n[LOCUTOR 34]: rítmica, enfim, tem que estar nessa modalidade. Parte dos agentes de A, tá? Quando você for pra novinha da [EMPRESA], você fica habilitado a contratar os agentes de [PESSOA] O que que [PESSOA] os agentes de A? Eles [PESSOA] recursos de inteligência artificial aut\n[LOCUTOR 3]: que\n[LOCUTOR 34]: fazem uma tarefa específica que você programar ou que a [EMPRESA] programar. Você pode contratar um customizado e fazer o que você quiser, ou então contratar o padrão da [EMPRESA]. Vou te dar um exemplo. A [EMPRESA] tem um que é o Supervisor de Compras. Então você vai habilitar lá, tem algumas coisas que você customiza, e ele vai fazer o que o teu servidor de compras faria. Quando alguém botar um pedido de compra, ele vai ser acionado automaticamente, vai revisar o pedido e vai dizer, ó, pedido negado, [PESSOA] você botou que a caneta é R$30,00, e sempre que a gente comprou caneta foi R$15,00. Por que que dessa vez é R$30,00? Então coisas que um supervisor teria que ficar olhando no detalhe sempre e que a regra é a mesma, né? Se a variação for mais do que 10% do histórico, tem que olhar duas vezes. Então essa regra pode ser aplicada no agente e ele faz isso automaticamente.\n[LOCUTOR 55]: Então\n[LOCUTOR 34]: tem um monte de coisa legal, cara. A parte de [EMPRESA] é legal também. Então você tem os agentes lá. Imagina que o cara do [EMPRESA] Não precisar nem de computador, cara. O cara tem o agente integrado no WhatsApp, ele vai lá, como é que foi ontem as coisas aqui? Putz, a esteira 5 deu muito refugo, tem que fazer manutenção em tal peça, tal parte. Pô, o cara não precisa ter que cruzar relatório, baixar, olhar no BI. Então, muita coisa que ajuda no dia a dia, tá?\n[LOCUTOR 55]: E\n[LOCUTOR 34]: essa\n[LOCUTOR 55]: informação, ela chega de que forma pro cara?\n[LOCUTOR 34]: Essa informação, como é que funciona? O Agente de Ar da [EMPRESA] está disponível numa plataforma que é chamada de DTA [LOCAL]. Essa plataforma, você está no cloud, você contrata ela, ela vai integrar com o seu ambiente. E aí, o que a [EMPRESA] faz? Ela disponibiliza para você integrar isso por um botão dentro do sistema, para você utilizar isso numa API. Então, a questão do WhatsApp é que você pode integrar com o WhatsApp através de uma API do WhatsApp. E aí você faz essa comunicação e o cara vai estar falando no Whatsapp, mas é com a API do nosso VCA [LOCAL], integra direto com a nossa IA. Legal,\n[LOCUTOR 55]: interessante.\n[LOCUTOR 34]: Tem gente que bota no Teams, por exemplo.\n[LOCUTOR 55]: Sim, interessante. Acho que pra nós, interessante saber que tem, mas no momento o desafio primeiro é conseguir transpassar nosso ambiente para a nuvem, né, cara? Talvez, num segundo momento, isso parece ser mais interessante, né? Quem está mais maduro aí na nuvem, a proposta do agente de ar parece ser mais interessante, até [PESSOA], pelo que tu me disse, tem algum custo, né? Então...\n[LOCUTOR 34]: É, e é uma jornada, né? \n[LOCUTOR 27]: começa,\n[LOCUTOR 34]: você migra, e\n[LOCUTOR 55]: depois voc\n[LOCUTOR 22]: vai olhando, vai experimentando...\n[LOCUTOR 55]: É interessante saber. Por enquanto, acho que é algo que nós não vamos molhar os pés ainda, né?\n[LOCUTOR 34]: \n[LOCUTOR 43]: é bom saber que existe a ferramenta, que a [PESSOA] está disponibilizando. Boa, show de bola. A ideia é essa, lembrar vocês que vocês vão ter isso, vai estar habilitado esse recurso migrando. A partir da gente fazer o assessment, tá? Foi em agosto de 2025. O próximo assessment seria agosto de 26, ele tem uma duração aí de 12 meses, tá? Mas o que que eu recomendo que a gente faça? Eu peço um e-mail pro time técnico, só um e-mail com instruções pra vocês rodarem alguns comandos básicos, pra ver se o tamanho da base não aumentou muito. Daqui a pouco a gente cota aí um tera de banco e agora tá 1.2. E vai dar problema na hora de implementar. Só essas pequenas coisas que talvez possa ter aumentado o tamanho da base, enfim. Mas se vocês rodam os scripts, nos devolvem, pode ser?\n[LOCUTOR 55]: Sim, sim, claro. Sem problema.\n[LOCUTOR 34]: [LOCAL]. Então, já vou providenciar isso, a gente manda pra vocês em breve esses e-mails, tá? Com relação à proposta, eu e o [LOCAL] a gente monta, a gente marca de apresentar para vocês com calma. A nossa migração, ela está demorando aí na média de 45 dias para acontecer. E principalmente o ambiente pra ele, que tem que entregar redundante e tudo mais, tem uma jornada um pouco mais longa. Mas em 45 dias é mais ou menos o prazo para você estar rodando em produção com o ambiente, tá?\n[LOCUTOR 55]: Então,\n[LOCUTOR 34]: esse é o tempo médio aí de migração. Quando é que termina a garantia dos servidores de vocês aí?\n[LOCUTOR 55]: Cara... Não sei dizer exatamente quando termina a garantia. O nosso storage está fora de garantia.\n[LOCUTOR 34]: \n[LOCUTOR 43]: está para terminar a garantia de servidor também. [LOCAL]. Para saber se é muito urgente ou não aquele projeto.\n[LOCUTOR 55]: É.\n[LOCUTOR 34]: É.\n[LOCUTOR 55]: Normal, tá? A gente está com um orçamento em aberto agora de servidor de storage. Então, as coisas estão acontecendo. Eu estava comentando com o [LOCAL]. A ideia era a gente disparar isso antes da metade do ano. ter tudo redondinho antes da metade do ano, mas acho que vai ser difícil, tá? Conseguir fazer tudo nessa metade do ano. [PESSOA] a metade do ano a nossa versão do Proteus expira, né? Daí a migra\n[LOCUTOR 15]: da\n[LOCUTOR 55]: versão, tá? Eu tenho uma migração de VMs, de ferramenta de VM planejada, nós vamos migrar de VM pra Hyper-V, né? Então, isso também vai acontecer. Queria elencar pra fazer tudo mais ou menos junto\n[LOCUTOR 34]: antes\n[LOCUTOR 55]: da\n[LOCUTOR 34]: metade do\n[LOCUTOR 55]: ano, mas estamos quase em março, né, cara?\n[LOCUTOR 34]: [LOCUTOR 24]: acho que vai dar, mas vamos lá, vamos fazer conforme a\n[LOCUTOR 55]: gente consegue.\n[LOCUTOR 34]: O que vocês tem hoje de VM além das VMs do Proteus? Deve ter\n[LOCUTOR 55]: do AD\n[LOCUTOR 34]: provavelmente.\n[LOCUTOR 55]: A gente\n[LOCUTOR 34]: tem uma\n[LOCUTOR 55]: VM de AD, a gente tem uma VM que é servidor de arquivos, tem VM... a gente tem duas VMs que [PESSOA] TS, que é o pessoal da produção, conecta nessas VMs para acessar o ambiente virtual e poder trabalhar.\n[LOCUTOR 34]: [LOCUTOR 20]: uma VM com sistemas legados e que roda o nosso... o [EMPRESA], né, os todos os meses. Caramba. Servidor de\n[LOCUTOR 1]: backup.\n[LOCUTOR 55]: de backup, monitoramento do ambiente. Isso aí, eu acho. Ah,\n[LOCUTOR 1]: é o servidor de \n[LOCUTOR 50]: [PESSOA].\n[LOCUTOR 34]: Eu ia propor para você o seguinte. Uma forma de você economizar muito é você migrar todo o workload e você não precisa comprar nada de servidores. A TOTOS ela tem um modelo de oferta em cima de [PESSOA] o proteus vai ser o que ele vai ser o PASS. Ele é quase um [EMPRESA]. Ele só não é [PESSOA] você tem acesso ao banco que vai rodar. Pode customizar. Mas a gente tem um modelo de ar que é um modelo de nuvem privada convencional. Eu te comercializo a VM e você escolhe a configuração tamanho do disco e você pode migrar o que você quiser para lá. Tem acesso ao sistema operacional e você instala o que você quiser. Tem sentido para vocês avaliar também a migração dessas outras VMs. Eu também\n[LOCUTOR 55]: consigo\n[LOCUTOR 34]: te entregar banco licenciado. Te entrego a licença de caldo AD sem custo adicional. A gente tem um contrato\n[LOCUTOR 55]: de\n[LOCUTOR 34]: placa [EMPRESA] para comprar caldo AD. \n[LOCUTOR 7]: que estudar o cenário aí, cara. De arrancada, a nossa ideia é o foco no [LOCAL], até [PESSOA] o nosso maior problema está sendo o desempenho com Proteus. A empresa vai crescendo, o número de acessos vai crescendo, os processos vão ficando mais complexos. É o que acaba mais causando mais transtorno para nós no dia a dia a Proteus. Mas, cara, sem dúvida, é interessante a gente estudar aí. Outras propostas aí que a [LOCAL] tem.\n[LOCUTOR 34]: Até [PESSOA] eu consigo te entregar em rede local tudo, né? Então, se você tem algum tipo de integração, alguma coisa...\n[LOCUTOR 55]: Vamos...\n[LOCUTOR 34]: \n[LOCUTOR 51]: gente fica no mesmo ambiente, né?\n[LOCUTOR 55]: A gente consegue fazer duas frentes aí paralelas, né? [LOCAL]. No [LOCAL] Cloud aí, que é parte do Proteus, [LOCAL] e outros servidores que daí não [PESSOA] tão urgentes. Não é uma situação tão urgente. Acho que é melhor\n[LOCUTOR 34]: a gente\n[LOCUTOR 55]: fazer assim.\n[LOCUTOR 34]: A gente monta, montem dois projetos separados e eles podem ser, inclusive, em fases separadas. A gente vê um agora e vê o outro mais pra frente.\n[LOCUTOR 55]: Sim, acho que é melhor.\n[LOCUTOR 34]: E comentar pra gente, caso vocês pensem na ideia, lembrem que tem essa possibilidade com a gente também, tá? Eu não entendi o porquê as VMs do TS pra acessar o Proteus.\n[LOCUTOR 55]: É só por causa do nosso ambiente, né? O pessoal\n[LOCUTOR 34]: tem\n[LOCUTOR 55]: terminais, alguns terminais burros na produção, né? acessam via TES, esse servidor. É um servidor de TES, e aí esse servidor acessa, o pessoal acessa a partir dele o Proteus, né?\n[LOCUTOR 34]: Ah tá, perfeito.\n[LOCUTOR 1]: [PESSOA] \n[LOCUTOR 4]: na versão web agora já, né?\n[LOCUTOR 55]: Sim, sim, sim. É, a Juquita até fez, colocamos alguns slaves em um desses servidores pra dar uma balanceada na carga aí que o nosso servidor principal do Proteus tava a meio esgoelar.\n[LOCUTOR 34]: [LOCAL]. [LOCAL]. [PESSOA], você ia falar alguma coisa? Te interrompi, [EMPRESA].\n[LOCUTOR 1]: Não, é que o UTS, além do Proteus, a gente tem outros serviços de acesso a desenhos e coisas por isso.\n[LOCUTOR 34]: Ah, entendi.\n[LOCUTOR 55]: Também tem isso, né? Sofra de engenharia e tal.\n[LOCUTOR 34]: Boa. [LOCAL], pessoal. Bom, então, acho que é isso, né? Eu mando para vocês os scripts que vocês rodarem lá. Só para a gente dar uma atualizada aqui. Quando a gente tiver com esse coco na mão, a gente apresenta aí o [LOCAL]. E quando vocês quiserem ver essa questão das outras VMs... Quais foram as [LOCAL]?\n[LOCUTOR 55]: Não, acho que\n[LOCUTOR 34]: não. Não? Eu vou te mandar um link do [LOCAL], ele é um software da [EMPRESA], tá? Qualquer computador da rede, você executa ele, vai pedir umas permissões ali, você bota o usuário e senha do [EMPRESA], ele vai conectar no teu vCenter, vai te trazer a lista de todos os VMs.\n[LOCUTOR 55]: [LOCUTOR 18]: [PESSOA] com todas as VMs, uso de CPU, uso de memória, disco. Ele te traz todo o inventário de VMs que você tem na rede.\n[LOCUTOR 1]: E\n[LOCUTOR 34]: aí, se quiser compartilhar comigo, depois a gente dá uma olhada com calma e fala, ó cara, vale a pena, não vale a pena? [LOCAL] a pena fazer em duas páginas? Você que migrar tudo de uma vez é uma loucura, né?\n[LOCUTOR 55]: É, trabalho\n[LOCUTOR 34]: grande,\n[LOCUTOR 55]: trabalho grande,\n[LOCUTOR 34]: né? Mas enfim, se fizer sentido pra vocês, eu te mando depois o link da [LOCAL] ali pelo [LOCAL] e a gente pode ir olhando em paralelo também, sem galho.\n[LOCUTOR 55]: Bem tranquilo.\n[LOCUTOR 34]: Fechou, pessoal? Alguma dúvida a mais?\n[LOCUTOR 55]: Acho que não, cara. Acho que é mais na proposta aí que vocês forem fazer depois contemplar cenários diferentes. Tu me falou assim, mais de 300 acertos, já tem que ir pra praia. [LOCAL]. Então a gente já tira um pedaço aí da proposta do ar, né? Não sei se tem alguma outra variação, né? Não me recordo da outra proposta que a gente teve, se tem variações a\n[LOCUTOR 33]: Tem sim de ambiente, vocês podem ter vários ambientes. Por padrão, a gente entrega dois, produção e desenvolvimento. Mas vocês podem ter um de homologação, pode ter um de [LOCAL], pode ter mais um ambiente só para reforma tributária, que \n[LOCUTOR 35]: para os caras\n[LOCUTOR 34]: desenvolverem só a reforma, enfim.\n[LOCUTOR 55]: Olha, todo o tempo que eu estou aqui no MGR, acho que só uma vez a gente teve três ambientes rodando aí. Mas acho que, no momento, não vale a pena a gente estudar essa possibilidade. \n[LOCUTOR 10]: tem TSS e [LOCAL] também, né?\n[LOCUTOR 55]: Sim.\n[LOCUTOR 34]: Vocês tem ideia de quantos documentos eles estão emitindo?\n[LOCUTOR 55]: Não, nem ideia.\n[LOCUTOR 34]: Eu mando também o script pra atualizar isso. Quem é o [PESSOA], pra eu não esquecer. [EMPRESA], esses tem?\n[LOCUTOR 55]: É [EMPRESA], cara.\n[LOCUTOR 34]: É gestão\n[LOCUTOR 55]: de\n[LOCUTOR 34]: frotas, né?\n[LOCUTOR 55]: Não, não.\n[LOCUTOR 16]: [EMPRESA] de frete embarcador.\n[LOCUTOR 55]: [LOCUTOR 30]: tem.\n[LOCUTOR 1]: Vem com esses nomes difíceis. \n[LOCUTOR 11]: só sei a siga. Se o [LOCAL] não estiver junto comigo,\n[LOCUTOR 55]: aí eu não vou conseguir. Isso é só um\n[LOCUTOR 34]: checkbox,\n[LOCUTOR 55]: assim. Tem, não tem.\n[LOCUTOR 34]: Exatamente. Se eu me lembro de mais alguma coisa... Cara, eu acho que é isso, tá? Se eu tiver mais alguma outra dúvida, eu mando pro [LOCAL]. O [LOCAL], se quiser, pode passar meu contato com a vontade e a gente vai trocando ideia, não tem galho.\n[LOCUTOR 55]: [LOCUTOR 23]: gente fica em... [LOCUTOR 23]: gente fica em [LOCAL]. [LOCAL] é na [LOCAL], perto\n[LOCUTOR 34]: de \n[LOCUTOR 54]: [LOCAL]. É uns 80 quilômetros de [LOCAL], 130, 140 quilômetros de [LOCAL].\n[LOCUTOR 34]: Eu sou um novo hamburguense, né?\n[LOCUTOR 55]: Então...\n[LOCUTOR 34]: [LOCUTOR 5]: conheço um pouco o nosso\n[LOCUTOR 55]: estado. Aqui\n[LOCUTOR 1]: no quintal, então.\n[LOCUTOR 55]: [LOCUTOR 2]: conhecido como noia. \n[LOCUTOR 31]: é interessante você comentar sobre isso, [PESSOA] algumas coisas sim podem inviabilizar o projeto. A questão de impressora térmica, a comunicação é por IP ou é por porta serial?\n[LOCUTOR 55]: É por IP. \n[LOCUTOR 23]: gente fecha. Vocês tem o que de firewall aí?\n[LOCUTOR 55]: Tem sofos.\n[LOCUTOR 34]: A gente fecha uma VPN IPsec, geralmente dois túneis se você tem uma redundância. A gente utiliza a [LOCAL] do nosso lado, mas a gente\n[LOCUTOR 55]: habilita\n[LOCUTOR 34]: o BGP... \n[LOCUTOR 47]: pessoal que usa a [LOCAL] aí...\n[LOCUTOR 1]: \n[LOCUTOR 53]: caverna, né?\n[LOCUTOR 55]: [LOCAL], com tudo que a gente paga pra\n[LOCUTOR 1]: todos,\n[LOCUTOR 55]: claro que vai usar a [LOCAL]\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 34]: Eu ia falar, cara, e sabe qual que é o ponto? É que isso é uma coisa que eu não sabia, tá? E até é uma informação meio coincidencial.\n[LOCUTOR 55]: [LOCUTOR 23]: Totos é o maior comprador da [LOCAL] Latina de vários fornecedores, cara. De\n[LOCUTOR 34]: vários. Aí os caras pegam um\n[LOCUTOR 55]: precinho e\n[LOCUTOR 34]: o precinho fica\n[LOCUTOR 1]: assim, \n[LOCUTOR 4]: bem\n[LOCUTOR 1]: baratinho.\n[LOCUTOR 55]: É\n[LOCUTOR 1]: muito bom tu falar\n[LOCUTOR 55]: isso\n[LOCUTOR 1]: [PESSOA] o [LOCAL] tá me devendo uma mochila, cara.\n[LOCUTOR 34]: [PESSOA], assim tu vai quebrar a firma, é o terceiro que eu devia te falar que eu tô devendo mochila.\n[LOCUTOR 1]: \n[LOCUTOR 12]: viu? Tu viu só.\n[LOCUTOR 34]: Oferece caneta pelo\n[LOCUTOR 55]: menos.\n[LOCUTOR 16]: [LOCAL] eu já levei, mas\n[LOCUTOR 55]: ele não\n[LOCUTOR 16]: quer.\n[LOCUTOR 55]: 16 anos de topos aqui bicho, nem é uma mochila.\n[LOCUTOR 16]: Olha,\n[LOCUTOR 34]: só que eu tenho na minha mochila\n[LOCUTOR 16]: ali\n[LOCUTOR 34]: um kitzinho com caneta, com agenda, com uns brindezinhos,\n[LOCUTOR 16]: sabe?\n[LOCUTOR 34]: Inclusive a gente ganhou lá no evento lá,\n[LOCUTOR 16]: [LOCAL].\n[LOCUTOR 34]: Você estava\n[LOCUTOR 16]: lá no\n[LOCUTOR 34]: treinamento, né? Se a gente for visitar vocês, eu e o [LOCAL], tomar um café uma hora, pode ser pra apresentar a proposta? Daqui a pouco eu levo pra\n[LOCUTOR 16]: vocês.\n[LOCUTOR 1]: \n[LOCUTOR 11]: tenho um\n[LOCUTOR 16]: monte de\n[LOCUTOR 34]: trabalho. Eu tenho\n[LOCUTOR 16]: um monte. Vai vir a mochila mas vai uma canetinha. Vai um bloquinho de anotação. É\n[LOCUTOR 55]: o\n[LOCUTOR 34]: que sobrou do orçamento. O resto foi pra\n[LOCUTOR 55]: falar no\n[LOCUTOR 34]: alto lá.\n[LOCUTOR 55]: Mas então tá. Não, não estava falando do Firewall né. Perguntou do Firewall. Daí ele falou\n[LOCUTOR 34]: que\n[LOCUTOR 55]: fecha a VPN e IPsec.\n[LOCUTOR 34]: Fecha a VPN e\n[LOCUTOR 55]: IPsec.\n[LOCUTOR 34]: A gente coloca a BGP se você tiver na tecnologia de BGP que aí o túnel troca automaticamente em caso do Firewall. Não precisa ter que estar [LOCAL] no outro túnel.\n[LOCUTOR 1]: \n[LOCUTOR 14]: a parte das integrações funciona bem. Não vejo muito problema com isso. A não ser quando você tem muita integração. A gente recomenda que você use uma coisa chamada I-PASS. Que é um centralizador de integrações.\n[LOCUTOR 55]: Eu\n[LOCUTOR 1]: consigo ter duas conexões [PESSOA]. [PESSOA] aqui nós temos uma filial em [PESSOA] [PESSOA] que acho que não precisaria conectar aqui né. Vai conectar direto de \n[LOCUTOR 50]: [PESSOA]. Talvez ela d\n[LOCUTOR 32]: a\n[LOCUTOR 55]: volta aqui e\n[LOCUTOR 1]: conecta\n[LOCUTOR 55]: direto.\n[LOCUTOR 1]: Tem uma caixa lá também.\n[LOCUTOR 55]: Tem uns soltos lá também.\n[LOCUTOR 34]: É assim a melhor estratégia que eu recomendo é você ter VPN independente para cada unidade que você não fica dependente de uma só. Dê algum [PESSOA] aí. [PESSOA] [PESSOA] continua funcionando\n[LOCUTOR 55]: mas\n[LOCUTOR 34]: bem tranquilo. Dá para fazer duas VPN em cada. As VPN é 100 reais cada VPN. Então isso aí não é o que vai atrapalhar o projeto. Então eu já considero quatro VPN no projeto duas para vocês aí duas para [PESSOA] [PESSOA].\n[LOCUTOR 55]: Acho que sim. \n[LOCUTOR 13]: já tem\n[LOCUTOR 55]: uns 40 usuários, né?\n[LOCUTOR 1]: É que\n[LOCUTOR 55]: lá tem\n[LOCUTOR 1]: mais saída, né?\n[LOCUTOR 55]: É, até que lá é bastante comercial.\n[LOCUTOR 34]: [LOCAL], duas VPNs. O acesso vocês podem escolher se vocês querem liberar o acesso, no caso,\n[LOCUTOR 55]: para\n[LOCUTOR 34]: o usuário do Proteus, tá?\n[LOCUTOR 55]: [LOCUTOR 25]: VPNs, obviamente, elas [PESSOA] obrigatórias nas botas para acesso ao\n[LOCUTOR 34]: banco\n[LOCUTOR 55]: e\n[LOCUTOR 34]: qualquer tipo de conexão [PESSOA], tá? Mas para acessar o Proteus, você pode escolher. A gente tem a Cloudflare como proteção de borda. Então você pode escolher controlar o tráfego pela sua VPN ou liberar o tráfego pela internet e aplicar algumas regras de WAF. O que faz mais sentido para vocês?\n[LOCUTOR 55]: Não sei, cara. É o\n[LOCUTOR 1]: que eu preciso\n[LOCUTOR 55]: estudar e não é o que eu parei para pensar. Hoje\n[LOCUTOR 34]: todos os usuários de vocês, eles... Eles tem uma amarração na rede ou o cara ta na rede ou o cara não acessa? Ou tem gente que ta de home office, ta fora da rede?\n[LOCUTOR 55]: Não cara, dificilmente alguém acessa. você vai acessar a home office, assim, que a nossa política é o cara vai acessar a home office e tu acessas a máquina, a tua máquina aqui na [EMPRESA] pra poder trabalhar. Tu não vai\n[LOCUTOR 34]: acessar a tecnologia\n[LOCUTOR 55]: particular em casa.\n[LOCUTOR 34]: Ótimo. Ah, então eu deixaria restrito nas VPNs mesmo, voc\n[LOCUTOR 36]: tem\n[LOCUTOR 34]: mais controle dos acessos.\n[LOCUTOR 55]: Se a gente tiver alguma mudança cultural muito grande aqui na empresa, tá? [LOCAL].\n[LOCUTOR 34]: Não, bem tranquilo. O que é mais. Eu acho que é isso mesmo sem exigir alguma dúvida a gente vai conversando\n[LOCUTOR 55]: para\n[LOCUTOR 34]: fazer vários papos aí conforme for\n[LOCUTOR 55]: pesquisando\n[LOCUTOR 34]: durante o caminho. A minha preocupação é que eu estou na [LOCAL] desde agosto mas eu venho do mercado de nuvem então eu sou arquiteto de soluções certificado pela AWS pela Oracle. [LOCAL] muito projeto em nuvem pública mas eu tenho uma preocupação muito grande que é. A gente não pode bater o martelo do projeto sem\n[LOCUTOR 55]: ter a\n[LOCUTOR 34]: certeza de que todos os pontos [PESSOA] amarrados. Então\n[LOCUTOR 55]: tudo\n[LOCUTOR 34]: o que vocês tiverem de dúvida não existe dúvida que\n[LOCUTOR 55]: vão\n[LOCUTOR 34]: ver depois. A gente vamos vendo o caminho e vão mandando manda para o [PESSOA] me manda ou me chama no ar. Vamos conversando quando vocês realmente pensarem em virar o projeto. A gente não tem nenhum tipo de\n[LOCUTOR 55]: putz\n[LOCUTOR 34]: faltou tal coisa e tem que olhar tal coisa e tem que voltar tudo atr\n[LOCUTOR 48]: ou\n[LOCUTOR 34]: ter o risco de a gente ter um problema mais para frente.\n[LOCUTOR 55]: Então\n[LOCUTOR 34]: vocês têm a minha A minha dedicação e a minha preocupação é garantir\n[LOCUTOR 1]: que\n[LOCUTOR 34]: vocês não se incomodem depois na constatação do projeto, tá?\n[LOCUTOR 55]: Show de bola.\n[LOCUTOR 34]: Até [PESSOA] se der problema, sou eu que vou ter que ajudar o [LOCAL] a resolver.\n[LOCUTOR 55]: Vamos lá. Vamos com calma aí, cara. Vamos analisar com carinho, [PESSOA] tá na hora da gente tomar uma renovada aqui. Vamos ver. Daqui a pouco a gente vai pelo caminho da nuvem. Vamos ver.\n[LOCUTOR 34]: Boa. Show de bola. [LOCAL],\n[LOCUTOR 55]: pessoal.\n[LOCUTOR 34]: É isso aí, então?\n[LOCUTOR 55]: É isso aí, show. Acho que é isso, cara.\n[LOCUTOR 34]: [LOCUTOR 5]: fico esperando o e-mail de\n[LOCUTOR 16]: vocês aí com\n[LOCUTOR 55]: ferramenta e script pra gente rodar aqui e já vamos\n[LOCUTOR 16]: tocar\n[LOCUTOR 55]: pausa\n[LOCUTOR 16]: aí. [PESSOA], se tu quiser mandar já direto, né,\n[LOCUTOR 55]: pode\n[LOCUTOR 16]: pegar no invite, já tem o e-mail do [PESSOA] e do [PESSOA], se tu quiser pode já mandar pra eles me deixar em cópia, ou se tu preferir me mandar e aí eu encaminho também, não tem erro, tá?\n[LOCUTOR 34]: E\n[LOCUTOR 16]: aí a gente vai, vamos falar. \n[LOCUTOR 11]: vou mandar então.\n[LOCUTOR 16]: Invite. Se tu vai mandar, já vai até na tua assinatura, já vai provavelmente teu contato. Aí vocês já podem até, como o [PESSOA] comentou, né? Crise antes de precisar de alguma coisa. Podemos sancionar aí o [PESSOA] pra tirar essas dúvidas aí.\n[LOCUTOR 55]: Bem tranquilo.\n[LOCUTOR 16]: [LOCAL].\n[LOCUTOR 34]: [LOCAL],\n[LOCUTOR 16]: pessoal.\n[LOCUTOR 55]: Fechou.\n[LOCUTOR 16]: Obrigado aí pelo tempo. [LOCAL]. [LOCAL],\n[LOCUTOR 34]: [PESSOA].\n[LOCUTOR 1]: [LOCAL],\n[LOCUTOR 16]: [PESSOA].\n[LOCUTOR 34]: Boa semana.\n[LOCUTOR 16]: [LOCAL],\n[LOCUTOR 55]: [PESSOA].\n[LOCUTOR 16]: E aí",
+  "texto_filtrado": "[LOCUTOR 16]: Deixa eu dar um ping aqui no parceiro de quem vai participar. Deixa eu ver se ele já está... Ah, é o [PESSOA]. O [PESSOA] pediu para avisar que ele já está acessando. Teve um probleminha no modem. Acho que ele está remoto hoje, mas já vai acessar. O [PESSOA]. e [PESSOA], enfim, deixa eu comentar um negócio com vocês, acho que até eu tinha comentado na sexta, eu passei o código de vocês para o [PESSOA], aí o [PESSOA] conseguiu olhar lá o histórico do que já foi visto, já foi feito, enfim, em relação à [LOCAL], mas aí o que eu pedi para ele, para de repente a gente hoje fazer um bate-papo com vocês para entender o que vocês precisam,\n[LOCUTOR 55]: para\n[LOCUTOR 16]: entender se é aquele mesmo cenário que a gente falou a última vez que, deixa eu pegar aqui, quando que foi, ou se é uma demanda nova. Acho que de repente a gente poderia começar assim, entender o que é que voc\n[LOCUTOR 29]: precisam\n[LOCUTOR 55]: Estava\n[LOCUTOR 16]: falando aqui com o [PESSOA] e com o [PESSOA], que [PESSOA] os responsáveis pela TI lá da [EMPRESA], né? E como a gente já teve, em alguns outros momentos, conversas sobre cloud, de repente seria interessante, nesse momento, a gente entender o que é, né? Qual que é a demanda, o que eles esperam de cloud. O [PESSOA] tinha me comentado alguma coisa. Pra daí a gente ver se é a mesma demanda que foi no passado, ou se é algo novo, né? E aí ver como conduzir dentro de casa.\n[LOCUTOR 55]: demora\n[LOCUTOR 34]: mesmo.\n[LOCUTOR 55]: Tive um\n[LOCUTOR 34]: probleminha na minha internet que tive que reiniciar o modem.\n[LOCUTOR 55]: Não tem problema. Acontece. Cara, basicamente é assim, né? De novo, quando nós estamos na época de fazer alguma renovação de equipamento aqui na [EMPRESA], a gente acaba olhando um pouquinho para os lados, né? Se fazer qualquer coisa. Então, a gente meio que tomou um susto aí, né? meio que tava esperando, meio que tomou um susto com o preço de hardware, como é que tá hoje em dia, né, que foi orçar aí servidores, storage, e tanto storage quanto a memória RAM [PESSOA] duas coisas que aumentaram bastante de preço aí nos últimos meses, né.\n[LOCUTOR 55]: verdade, acho\n[LOCUTOR 34]: que vai aumentar mais ainda até o final do ano, né,\n[LOCUTOR 55]: só depois\n[LOCUTOR 34]: baixar, questão de terras raras, enfim.\n[LOCUTOR 55]: É, o pessoal, pelo que eu andei lendo aí, o pessoal estima que [EMPRESA] em 2028, 2029, talvez, para dar uma normalizada. Vai longe, hein? Cara, a gente precisa de um orçamento, né? A gente precisa entender o que que possibilidades que a gente tem para orçar aí, né? [PESSOA] eu sei que tem que fazer alguma mensuração ou a gente tem que passar algumas informações aqui do nosso ambiente como está. Tanto questão de acesso aí, a gente não sei se faz alguma medição aqui no ambiente com alguma ferramenta de vocês, né? [PESSOA] funcionalidade da ferramenta e tal, eu não sei se teve alguma grande novidade, grande inovação nos últimos tempos, né, pra gente ficar par.\n[LOCUTOR 55]: Proteus.\n[LOCUTOR 34]: Proteus?\n[LOCUTOR 55]: Isso. Cara, basicamente é isso, né? A gente precisa entender aí o tipo de informação que que vocês precisam para poder passar um orçamento conciso para a gente. Boa.\n[LOCUTOR 34]: Show de bola. Sabe que é um momento bom de você pensar nisso [PESSOA] tem realmente umas novidades muito legais a partir de cloud. Não sei quanto tempo passa que vocês orçaram da outra vez. Lembra mais ou menos?\n[LOCUTOR 55]: Foi ano passado ou foi no outro, cara.\n[LOCUTOR 34]: 24 para 25 por ali.\n[LOCUTOR 34]: [LOCAL]. O que eu ia comentar é o seguinte, a gente, a principal novidade agora é a questão da gente de ar, né? Que a gente habilitou eles dentro da nossa nuvem, tá? Obviamente isso roda pra quem estiver na nuvem da Tots por um motivo de arquitetura do projeto, de estratégia, também de estratégia comercial da companhia, né? Mas a gente vê algumas mudanças, principalmente nesse ponto. O que eu queria comentar também é que dependendo do seu cenário, não só a troca de hardware, mas mais coisas podem ficar vantajosas. Eu sei\n[LOCUTOR 34]: qualquer\n[LOCUTOR 55]: versão,\n[LOCUTOR 34]: banco de dados, entrega licença enterprise, estão mudando com Oracle ou com a SQL? Então\n[LOCUTOR 34]: gente entrega a parte do licenciamento do banco e aí você se livra dessa bronca toda, tá? Atualização, diversão, tudo isso\n[LOCUTOR 55]: fica\n[LOCUTOR 34]: a [EMPRESA]. Sua única preocupação vai ser com relação aos customizados, né? Que a [EMPRESA] não mexe nos customizados, aí fica com vocês ainda. O acesso ao banco a gente deixa liberado. para vocês podem ter conexões ou dever ser no banco para a Power BI e para replicar o banco para alguma algum outro lugar. E que é mais seu comentário com vocês. Vocês lembram qual era a modalidade que vocês tinham votado da outra vez? Lembra?\n[LOCUTOR 16]: eu pegar aqui. Eu achei aqui a data. Foi agosto de 25.\n[LOCUTOR 8]: muito\n[LOCUTOR 16]: tempo.\n[LOCUTOR 34]: mês que eu cheguei na [LOCAL].\n[LOCUTOR 16]: Isso aí, isso aí, que ainda foi o [PESSOA] que fez\n[LOCUTOR 34]: Você tem quantos\n[LOCUTOR 16]: [PESSOA], [PESSOA].\n[LOCUTOR 55]: Cara, dá mais ou menos uns 360 acessos simultâneos aí.\n[LOCUTOR 34]: [LOCAL]. A Suite 300 tem que ser [PESSOA] já. Eu vou falar um pouquinho da modalidade [PESSOA] só para a gente recapitular. Então, a gente entrega o HA, então [PESSOA] os servidores redundantes, nó primário e nó secundário, e aí você conecta através do DNS da TOTOS, e se o nó primário falha, a gente direciona automaticamente as conexões para o nó secundário. Essa replicação é no nível do virtualizador, então a gente replica as VMs no nível do virtualizador, E os storages, a gente replica eles utilizando os recursos da [LOCAL]. A parte de backup, a gente entrega backup com retenção de cinco anos. O backup mais recente dos últimos 30 dias ali, eles [PESSOA] feitos na mesma área de blocos em que é feita a produção. Então, a gente utiliza os\n[LOCUTOR 55]: discos\n[LOCUTOR 34]: [EMPRESA], os mesmos discos. [PESSOA] utilizados para esse backup recente, para você ter um restore mais rápido. Se você precisar restaurar o backup, ao invés de utilizar o nosso secundário do cluster e para mais de cinco anos a gente manda aparelho de objeto, enfim, como uma estratégia de backup convencional. A gente entrega o atendimento via [LOCAL], então você não precisa abrir chamado, fala direto com o cara no WhatsApp, é muito mais fácil que a mesma pessoa que vai te atender sempre e também que você vai ter a facilidade de não precisar abrir chamado, né, cara?\n[LOCUTOR 26]: chamado\n[LOCUTOR 55]: Ninguém gosta de abrir chamado.\n[LOCUTOR 55]: coisas que eu falo para o [LOCAL], que dá uma desanimada na gente, é pensar, vou ter que abrir um chamado para fazer um lance no meu ambiente.\n[LOCUTOR 35]: complicado, né?\n[LOCUTOR 34]: Pois é,\n[LOCUTOR 55]: cara, então...\n[LOCUTOR 23]: gente tem\n[LOCUTOR 55]: bastante agilidade aqui, né, tendo tudo local aqui, né, cara. Tem, logicamente, os limitadores aí, né, de ambiente e tal, mas agilidade, se a gente tem que partir pra um cenário que tem que abrir chamado, aí chega a dar um exame.\n[LOCUTOR 34]: É, o principal problema de chamada, às vezes você abre o chamado e cai pra um [LOCAL].\n[LOCUTOR 34]: cara... O cara entrou ontem na empresa, O cara não sabe nem ele não sabe nem que a TOTUS é de comer ou de passar no cabelo. O que\n[LOCUTOR 55]: faz esse\n[LOCUTOR 34]: negócio.\n[LOCUTOR 34]: aí até ele descobrir que não sabe escalar para o [LOCAL] o cara resolveu o problema e você perdeu as duas ou três horas de produção. Então você está no [PESSOA] é ótimo [PESSOA] o engenheiro [PESSOA] ele é um líder do time de suporte. Então ele tem uma pequena célula. 3 ou 4 caras que trabalham com ele e aí [PESSOA] ele não pode ficar 24 horas trabalhando. Ele vai direcionando para quem está no plantão naquela hora ali e você fala sempre com ele. Então o cara conhece o seu ambiente, é um cara mais sênior. Então\n[LOCUTOR 34]: toda a diferença para os projetos que a gente está orçando, principalmente onde você não pode parar, tem a opera\n[LOCUTOR 34]: rítmica, enfim, tem que estar nessa modalidade. Parte dos agentes de A, tá? Quando você for pra novinha da [EMPRESA], você fica habilitado a contratar os agentes de [PESSOA] O que que [PESSOA] os agentes de A? Eles [PESSOA] recursos de inteligência artificial aut\n[LOCUTOR 34]: fazem uma tarefa específica que você programar ou que a [EMPRESA] programar. Você pode contratar um customizado e fazer o que você quiser, ou então contratar o padrão da [EMPRESA]. Vou te dar um exemplo. A [EMPRESA] tem um que é o Supervisor de Compras. Então você vai habilitar lá, tem algumas coisas que você customiza, e ele vai fazer o que o teu servidor de compras faria. Quando alguém botar um pedido de compra, ele vai ser acionado automaticamente, vai revisar o pedido e vai dizer, ó, pedido negado, [PESSOA] você botou que a caneta é R$30,00, e sempre que a gente comprou caneta foi R$15,00. Por que que dessa vez é R$30,00? Então coisas que um supervisor teria que ficar olhando no detalhe sempre e que a regra é a mesma, né? Se a variação for mais do que 10% do histórico, tem que olhar duas vezes. Então essa regra pode ser aplicada no agente e ele faz isso automaticamente.\n[LOCUTOR 55]: Então\n[LOCUTOR 34]: tem um monte de coisa legal, cara. A parte de [EMPRESA] é legal também. Então você tem os agentes lá. Imagina que o cara do [EMPRESA] Não precisar nem de computador, cara. O cara tem o agente integrado no WhatsApp, ele vai lá, como é que foi ontem as coisas aqui? Putz, a esteira 5 deu muito refugo, tem que fazer manutenção em tal peça, tal parte. Pô, o cara não precisa ter que cruzar relatório, baixar, olhar no BI. Então, muita coisa que ajuda no dia a dia, tá?\n[LOCUTOR 34]: essa\n[LOCUTOR 55]: informação, ela chega de que forma pro cara?\n[LOCUTOR 34]: Essa informação, como é que funciona? O Agente de Ar da [EMPRESA] está disponível numa plataforma que é chamada de DTA [LOCAL]. Essa plataforma, você está no cloud, você contrata ela, ela vai integrar com o seu ambiente. E aí, o que a [EMPRESA] faz? Ela disponibiliza para você integrar isso por um botão dentro do sistema, para você utilizar isso numa API. Então, a questão do WhatsApp é que você pode integrar com o WhatsApp através de uma API do WhatsApp. E aí você faz essa comunicação e o cara vai estar falando no Whatsapp, mas é com a API do nosso VCA [LOCAL], integra direto com a nossa IA. Legal,\n[LOCUTOR 55]: interessante.\n[LOCUTOR 34]: Tem gente que bota no Teams, por exemplo.\n[LOCUTOR 55]: Sim, interessante. Acho que pra nós, interessante saber que tem, mas no momento o desafio primeiro é conseguir transpassar nosso ambiente para a nuvem, né, cara? Talvez, num segundo momento, isso parece ser mais interessante, né? Quem está mais maduro aí na nuvem, a proposta do agente de ar parece ser mais interessante, até [PESSOA], pelo que tu me disse, tem algum custo, né? Então...\n[LOCUTOR 34]: É, e é uma jornada, né?\n[LOCUTOR 27]: começa,\n[LOCUTOR 34]: você migra, e\n[LOCUTOR 55]: depois voc\n[LOCUTOR 22]: vai olhando, vai experimentando...\n[LOCUTOR 55]: É interessante saber. Por enquanto, acho que é algo que nós não vamos molhar os pés ainda, né?\n[LOCUTOR 43]: é bom saber que existe a ferramenta, que a [PESSOA] está disponibilizando. Boa, show de bola. A ideia é essa, lembrar vocês que vocês vão ter isso, vai estar habilitado esse recurso migrando. A partir da gente fazer o assessment, tá? Foi em agosto de 2025. O próximo assessment seria agosto de 26, ele tem uma duração aí de 12 meses, tá? Mas o que que eu recomendo que a gente faça? Eu peço um e-mail pro time técnico, só um e-mail com instruções pra vocês rodarem alguns comandos básicos, pra ver se o tamanho da base não aumentou muito. Daqui a pouco a gente cota aí um tera de banco e agora tá 1.2. E vai dar problema na hora de implementar. Só essas pequenas coisas que talvez possa ter aumentado o tamanho da base, enfim. Mas se vocês rodam os scripts, nos devolvem, pode ser?\n[LOCUTOR 55]: Sim, sim, claro. Sem problema.\n[LOCUTOR 34]: [LOCAL]. Então, já vou providenciar isso, a gente manda pra vocês em breve esses e-mails, tá? Com relação à proposta, eu e o [LOCAL] a gente monta, a gente marca de apresentar para vocês com calma. A nossa migração, ela está demorando aí na média de 45 dias para acontecer. E principalmente o ambiente pra ele, que tem que entregar redundante e tudo mais, tem uma jornada um pouco mais longa. Mas em 45 dias é mais ou menos o prazo para você estar rodando em produção com o ambiente, tá?\n[LOCUTOR 55]: Então,\n[LOCUTOR 34]: esse é o tempo médio aí de migração. Quando é que termina a garantia dos servidores de vocês aí?\n[LOCUTOR 55]: Cara... Não sei dizer exatamente quando termina a garantia. O nosso storage está fora de garantia.\n[LOCUTOR 43]: está para terminar a garantia de servidor também. [LOCAL]. Para saber se é muito urgente ou não aquele projeto.\n[LOCUTOR 55]: Normal, tá? A gente está com um orçamento em aberto agora de servidor de storage. Então, as coisas estão acontecendo. Eu estava comentando com o [LOCAL]. A ideia era a gente disparar isso antes da metade do ano. ter tudo redondinho antes da metade do ano, mas acho que vai ser difícil, tá? Conseguir fazer tudo nessa metade do ano. [PESSOA] a metade do ano a nossa versão do Proteus expira, né? Daí a migra\n[LOCUTOR 55]: versão, tá? Eu tenho uma migração de VMs, de ferramenta de VM planejada, nós vamos migrar de VM pra Hyper-V, né? Então, isso também vai acontecer. Queria elencar pra fazer tudo mais ou menos junto\n[LOCUTOR 34]: antes\n[LOCUTOR 34]: metade do\n[LOCUTOR 55]: ano, mas estamos quase em março, né, cara?\n[LOCUTOR 34]: [LOCUTOR 24]: acho que vai dar, mas vamos lá, vamos fazer conforme a\n[LOCUTOR 55]: gente consegue.\n[LOCUTOR 34]: O que vocês tem hoje de VM além das VMs do Proteus? Deve ter\n[LOCUTOR 55]: do AD\n[LOCUTOR 34]: provavelmente.\n[LOCUTOR 55]: A gente\n[LOCUTOR 34]: tem uma\n[LOCUTOR 55]: VM de AD, a gente tem uma VM que é servidor de arquivos, tem VM... a gente tem duas VMs que [PESSOA] TS, que é o pessoal da produção, conecta nessas VMs para acessar o ambiente virtual e poder trabalhar.\n[LOCUTOR 34]: [LOCUTOR 20]: uma VM com sistemas legados e que roda o nosso... o [EMPRESA], né, os todos os meses. Caramba. Servidor de\n[LOCUTOR 1]: backup.\n[LOCUTOR 55]: de backup, monitoramento do ambiente. Isso aí, eu acho. Ah,\n[LOCUTOR 1]: é o servidor de\n[LOCUTOR 50]: [PESSOA].\n[LOCUTOR 34]: Eu ia propor para você o seguinte. Uma forma de você economizar muito é você migrar todo o workload e você não precisa comprar nada de servidores. A TOTOS ela tem um modelo de oferta em cima de [PESSOA] o proteus vai ser o que ele vai ser o PASS. Ele é quase um [EMPRESA]. Ele só não é [PESSOA] você tem acesso ao banco que vai rodar. Pode customizar. Mas a gente tem um modelo de ar que é um modelo de nuvem privada convencional. Eu te comercializo a VM e você escolhe a configuração tamanho do disco e você pode migrar o que você quiser para lá. Tem acesso ao sistema operacional e você instala o que você quiser. Tem sentido para vocês avaliar também a migração dessas outras VMs. Eu também\n[LOCUTOR 55]: consigo\n[LOCUTOR 34]: te entregar banco licenciado. Te entrego a licença de caldo AD sem custo adicional. A gente tem um contrato\n[LOCUTOR 34]: placa [EMPRESA] para comprar caldo AD.\n[LOCUTOR 7]: que estudar o cenário aí, cara. De arrancada, a nossa ideia é o foco no [LOCAL], até [PESSOA] o nosso maior problema está sendo o desempenho com Proteus. A empresa vai crescendo, o número de acessos vai crescendo, os processos vão ficando mais complexos. É o que acaba mais causando mais transtorno para nós no dia a dia a Proteus. Mas, cara, sem dúvida, é interessante a gente estudar aí. Outras propostas aí que a [LOCAL] tem.\n[LOCUTOR 34]: Até [PESSOA] eu consigo te entregar em rede local tudo, né? Então, se você tem algum tipo de integração, alguma coisa...\n[LOCUTOR 55]: Vamos...\n[LOCUTOR 51]: gente fica no mesmo ambiente, né?\n[LOCUTOR 55]: A gente consegue fazer duas frentes aí paralelas, né? [LOCAL]. No [LOCAL] Cloud aí, que é parte do Proteus, [LOCAL] e outros servidores que daí não [PESSOA] tão urgentes. Não é uma situação tão urgente. Acho que é melhor\n[LOCUTOR 34]: a gente\n[LOCUTOR 55]: fazer assim.\n[LOCUTOR 34]: A gente monta, montem dois projetos separados e eles podem ser, inclusive, em fases separadas. A gente vê um agora e vê o outro mais pra frente.\n[LOCUTOR 34]: E comentar pra gente, caso vocês pensem na ideia, lembrem que tem essa possibilidade com a gente também, tá? Eu não entendi o porquê as VMs do TS pra acessar o Proteus.\n[LOCUTOR 55]: É só por causa do nosso ambiente, né? O pessoal\n[LOCUTOR 55]: terminais, alguns terminais burros na produção, né? acessam via TES, esse servidor. É um servidor de TES, e aí esse servidor acessa, o pessoal acessa a partir dele o Proteus, né?\n[LOCUTOR 34]: Ah tá, perfeito.\n[LOCUTOR 1]: [PESSOA]\n[LOCUTOR 4]: na versão web agora já, né?\n[LOCUTOR 55]: Sim, sim, sim. É, a Juquita até fez, colocamos alguns slaves em um desses servidores pra dar uma balanceada na carga aí que o nosso servidor principal do Proteus tava a meio esgoelar.\n[LOCUTOR 34]: [LOCAL]. [LOCAL]. [PESSOA], você ia falar alguma coisa? Te interrompi, [EMPRESA].\n[LOCUTOR 1]: Não, é que o UTS, além do Proteus, a gente tem outros serviços de acesso a desenhos e coisas por isso.\n[LOCUTOR 55]: Também tem isso, né? Sofra de engenharia e tal.\n[LOCUTOR 34]: Boa. [LOCAL], pessoal. Bom, então, acho que é isso, né? Eu mando para vocês os scripts que vocês rodarem lá. Só para a gente dar uma atualizada aqui. Quando a gente tiver com esse coco na mão, a gente apresenta aí o [LOCAL]. E quando vocês quiserem ver essa questão das outras VMs... Quais foram as [LOCAL]?\n[LOCUTOR 34]: não. Não? Eu vou te mandar um link do [LOCAL], ele é um software da [EMPRESA], tá? Qualquer computador da rede, você executa ele, vai pedir umas permissões ali, você bota o usuário e senha do [EMPRESA], ele vai conectar no teu vCenter, vai te trazer a lista de todos os VMs.\n[LOCUTOR 55]: [LOCUTOR 18]: [PESSOA] com todas as VMs, uso de CPU, uso de memória, disco. Ele te traz todo o inventário de VMs que você tem na rede.\n[LOCUTOR 34]: aí, se quiser compartilhar comigo, depois a gente dá uma olhada com calma e fala, ó cara, vale a pena, não vale a pena? [LOCAL] a pena fazer em duas páginas? Você que migrar tudo de uma vez é uma loucura, né?\n[LOCUTOR 55]: É, trabalho\n[LOCUTOR 34]: grande,\n[LOCUTOR 55]: trabalho grande,\n[LOCUTOR 34]: né? Mas enfim, se fizer sentido pra vocês, eu te mando depois o link da [LOCAL] ali pelo [LOCAL] e a gente pode ir olhando em paralelo também, sem galho.\n[LOCUTOR 55]: Acho que não, cara. Acho que é mais na proposta aí que vocês forem fazer depois contemplar cenários diferentes. Tu me falou assim, mais de 300 acertos, já tem que ir pra praia. [LOCAL]. Então a gente já tira um pedaço aí da proposta do ar, né? Não sei se tem alguma outra variação, né? Não me recordo da outra proposta que a gente teve, se tem variações a\n[LOCUTOR 33]: Tem sim de ambiente, vocês podem ter vários ambientes. Por padrão, a gente entrega dois, produção e desenvolvimento. Mas vocês podem ter um de homologação, pode ter um de [LOCAL], pode ter mais um ambiente só para reforma tributária, que\n[LOCUTOR 35]: para os caras\n[LOCUTOR 34]: desenvolverem só a reforma, enfim.\n[LOCUTOR 55]: Olha, todo o tempo que eu estou aqui no MGR, acho que só uma vez a gente teve três ambientes rodando aí. Mas acho que, no momento, não vale a pena a gente estudar essa possibilidade.\n[LOCUTOR 10]: tem TSS e [LOCAL] também, né?\n[LOCUTOR 34]: Vocês tem ideia de quantos documentos eles estão emitindo?\n[LOCUTOR 55]: É [EMPRESA], cara.\n[LOCUTOR 34]: É gestão\n[LOCUTOR 34]: frotas, né?\n[LOCUTOR 16]: [EMPRESA] de frete embarcador.\n[LOCUTOR 55]: [LOCUTOR 30]: tem.\n[LOCUTOR 1]: Vem com esses nomes difíceis.\n[LOCUTOR 34]: checkbox,\n[LOCUTOR 55]: [LOCUTOR 23]: gente fica em... [LOCUTOR 23]: gente fica em [LOCAL]. [LOCAL] é na [LOCAL], perto\n[LOCUTOR 54]: [LOCAL]. É uns 80 quilômetros de [LOCAL], 130, 140 quilômetros de [LOCAL].\n[LOCUTOR 55]: Então...\n[LOCUTOR 34]: [LOCUTOR 5]: conheço um pouco o nosso\n[LOCUTOR 55]: estado. Aqui\n[LOCUTOR 1]: no quintal, então.\n[LOCUTOR 31]: é interessante você comentar sobre isso, [PESSOA] algumas coisas sim podem inviabilizar o projeto. A questão de impressora térmica, a comunicação é por IP ou é por porta serial?\n[LOCUTOR 55]: É por IP.\n[LOCUTOR 23]: gente fecha. Vocês tem o que de firewall aí?\n[LOCUTOR 55]: Tem sofos.\n[LOCUTOR 34]: A gente fecha uma VPN IPsec, geralmente dois túneis se você tem uma redundância. A gente utiliza a [LOCAL] do nosso lado, mas a gente\n[LOCUTOR 55]: habilita\n[LOCUTOR 34]: o BGP...\n[LOCUTOR 53]: caverna, né?\n[LOCUTOR 55]: [LOCAL], com tudo que a gente paga pra\n[LOCUTOR 1]: todos,\n[LOCUTOR 55]: claro que vai usar a [LOCAL]\n[LOCUTOR 1]: [LOCAL].\n[LOCUTOR 34]: Eu ia falar, cara, e sabe qual que é o ponto? É que isso é uma coisa que eu não sabia, tá? E até é uma informação meio coincidencial.\n[LOCUTOR 55]: [LOCUTOR 23]: Totos é o maior comprador da [LOCAL] Latina de vários fornecedores, cara. De\n[LOCUTOR 34]: vários. Aí os caras pegam um\n[LOCUTOR 55]: precinho e\n[LOCUTOR 34]: o precinho fica\n[LOCUTOR 1]: baratinho.\n[LOCUTOR 55]: isso\n[LOCUTOR 34]: [PESSOA], assim tu vai quebrar a firma, é o terceiro que eu devia te falar que eu tô devendo mochila.\n[LOCUTOR 12]: viu? Tu viu só.\n[LOCUTOR 34]: Oferece caneta pelo\n[LOCUTOR 55]: menos.\n[LOCUTOR 16]: quer.\n[LOCUTOR 55]: 16 anos de topos aqui bicho, nem é uma mochila.\n[LOCUTOR 16]: Olha,\n[LOCUTOR 34]: só que eu tenho na minha mochila\n[LOCUTOR 34]: um kitzinho com caneta, com agenda, com uns brindezinhos,\n[LOCUTOR 16]: sabe?\n[LOCUTOR 34]: Inclusive a gente ganhou lá no evento lá,\n[LOCUTOR 16]: [LOCAL].\n[LOCUTOR 34]: Você estava\n[LOCUTOR 16]: lá no\n[LOCUTOR 34]: treinamento, né? Se a gente for visitar vocês, eu e o [LOCAL], tomar um café uma hora, pode ser pra apresentar a proposta? Daqui a pouco eu levo pra\n[LOCUTOR 11]: tenho um\n[LOCUTOR 16]: monte de\n[LOCUTOR 16]: um monte. Vai vir a mochila mas vai uma canetinha. Vai um bloquinho de anotação. É\n[LOCUTOR 34]: que sobrou do orçamento. O resto foi pra\n[LOCUTOR 55]: falar no\n[LOCUTOR 34]: alto lá.\n[LOCUTOR 55]: Mas então tá. Não, não estava falando do Firewall né. Perguntou do Firewall. Daí ele falou\n[LOCUTOR 55]: fecha a VPN e IPsec.\n[LOCUTOR 34]: Fecha a VPN e\n[LOCUTOR 55]: IPsec.\n[LOCUTOR 34]: A gente coloca a BGP se você tiver na tecnologia de BGP que aí o túnel troca automaticamente em caso do Firewall. Não precisa ter que estar [LOCAL] no outro túnel.\n[LOCUTOR 14]: a parte das integrações funciona bem. Não vejo muito problema com isso. A não ser quando você tem muita integração. A gente recomenda que você use uma coisa chamada I-PASS. Que é um centralizador de integrações.\n[LOCUTOR 1]: consigo ter duas conexões [PESSOA]. [PESSOA] aqui nós temos uma filial em [PESSOA] [PESSOA] que acho que não precisaria conectar aqui né. Vai conectar direto de\n[LOCUTOR 50]: [PESSOA]. Talvez ela d\n[LOCUTOR 55]: volta aqui e\n[LOCUTOR 1]: conecta\n[LOCUTOR 55]: direto.\n[LOCUTOR 1]: Tem uma caixa lá também.\n[LOCUTOR 55]: Tem uns soltos lá também.\n[LOCUTOR 34]: É assim a melhor estratégia que eu recomendo é você ter VPN independente para cada unidade que você não fica dependente de uma só. Dê algum [PESSOA] aí. [PESSOA] [PESSOA] continua funcionando\n[LOCUTOR 34]: bem tranquilo. Dá para fazer duas VPN em cada. As VPN é 100 reais cada VPN. Então isso aí não é o que vai atrapalhar o projeto. Então eu já considero quatro VPN no projeto duas para vocês aí duas para [PESSOA] [PESSOA].\n[LOCUTOR 13]: já tem\n[LOCUTOR 55]: uns 40 usuários, né?\n[LOCUTOR 1]: É que\n[LOCUTOR 55]: lá tem\n[LOCUTOR 55]: É, até que lá é bastante comercial.\n[LOCUTOR 34]: [LOCAL], duas VPNs. O acesso vocês podem escolher se vocês querem liberar o acesso, no caso,\n[LOCUTOR 55]: para\n[LOCUTOR 34]: o usuário do Proteus, tá?\n[LOCUTOR 55]: [LOCUTOR 25]: VPNs, obviamente, elas [PESSOA] obrigatórias nas botas para acesso ao\n[LOCUTOR 34]: banco\n[LOCUTOR 34]: qualquer tipo de conexão [PESSOA], tá? Mas para acessar o Proteus, você pode escolher. A gente tem a Cloudflare como proteção de borda. Então você pode escolher controlar o tráfego pela sua VPN ou liberar o tráfego pela internet e aplicar algumas regras de WAF. O que faz mais sentido para vocês?\n[LOCUTOR 1]: que eu preciso\n[LOCUTOR 34]: todos os usuários de vocês, eles... Eles tem uma amarração na rede ou o cara ta na rede ou o cara não acessa? Ou tem gente que ta de home office, ta fora da rede?\n[LOCUTOR 34]: acessar a tecnologia\n[LOCUTOR 55]: particular em casa.\n[LOCUTOR 55]: Se a gente tiver alguma mudança cultural muito grande aqui na empresa, tá? [LOCAL].\n[LOCUTOR 55]: para\n[LOCUTOR 34]: fazer vários papos aí conforme for\n[LOCUTOR 55]: pesquisando\n[LOCUTOR 34]: durante o caminho. A minha preocupação é que eu estou na [LOCAL] desde agosto mas eu venho do mercado de nuvem então eu sou arquiteto de soluções certificado pela AWS pela Oracle. [LOCAL] muito projeto em nuvem pública mas eu tenho uma preocupação muito grande que é. A gente não pode bater o martelo do projeto sem\n[LOCUTOR 55]: ter a\n[LOCUTOR 34]: certeza de que todos os pontos [PESSOA] amarrados. Então\n[LOCUTOR 34]: o que vocês tiverem de dúvida não existe dúvida que\n[LOCUTOR 34]: ver depois. A gente vamos vendo o caminho e vão mandando manda para o [PESSOA] me manda ou me chama no ar. Vamos conversando quando vocês realmente pensarem em virar o projeto. A gente não tem nenhum tipo de\n[LOCUTOR 55]: putz\n[LOCUTOR 34]: faltou tal coisa e tem que olhar tal coisa e tem que voltar tudo atr\n[LOCUTOR 34]: ter o risco de a gente ter um problema mais para frente.\n[LOCUTOR 55]: Então\n[LOCUTOR 34]: vocês têm a minha A minha dedicação e a minha preocupação é garantir\n[LOCUTOR 34]: vocês não se incomodem depois na constatação do projeto, tá?\n[LOCUTOR 55]: Show de bola.\n[LOCUTOR 34]: Até [PESSOA] se der problema, sou eu que vou ter que ajudar o [LOCAL] a resolver.\n[LOCUTOR 55]: Vamos lá. Vamos com calma aí, cara. Vamos analisar com carinho, [PESSOA] tá na hora da gente tomar uma renovada aqui. Vamos ver. Daqui a pouco a gente vai pelo caminho da nuvem. Vamos ver.\n[LOCUTOR 34]: Boa. Show de bola. [LOCAL],\n[LOCUTOR 34]: É isso aí, então?\n[LOCUTOR 55]: É isso aí, show. Acho que é isso, cara.\n[LOCUTOR 34]: [LOCUTOR 5]: fico esperando o e-mail de\n[LOCUTOR 16]: vocês aí com\n[LOCUTOR 55]: ferramenta e script pra gente rodar aqui e já vamos\n[LOCUTOR 16]: tocar\n[LOCUTOR 55]: pausa\n[LOCUTOR 16]: aí. [PESSOA], se tu quiser mandar já direto, né,\n[LOCUTOR 55]: pode\n[LOCUTOR 16]: pegar no invite, já tem o e-mail do [PESSOA] e do [PESSOA], se tu quiser pode já mandar pra eles me deixar em cópia, ou se tu preferir me mandar e aí eu encaminho também, não tem erro, tá?\n[LOCUTOR 16]: aí a gente vai, vamos falar.\n[LOCUTOR 16]: Invite. Se tu vai mandar, já vai até na tua assinatura, já vai provavelmente teu contato. Aí vocês já podem até, como o [PESSOA] comentou, né? Crise antes de precisar de alguma coisa. Podemos sancionar aí o [PESSOA] pra tirar essas dúvidas aí.\n[LOCUTOR 16]: [LOCAL].\n[LOCUTOR 34]: [LOCAL],\n[LOCUTOR 55]: Fechou.\n[LOCUTOR 34]: [PESSOA].\n[LOCUTOR 1]: [LOCAL],\n[LOCUTOR 16]: [PESSOA].\n[LOCUTOR 16]: [LOCAL],\n[LOCUTOR 55]: [PESSOA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:43.232612+00:00",
+    "total_linhas": 351,
+    "linhas_mantidas": 254,
+    "linhas_removidas": 97,
+    "percentual_mantido": 72.36,
+    "confianca_media": 0.489
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 16]: Deixa eu dar um ping aqui no parceiro de quem vai participar. Deixa eu ver se ele já está... Ah, é o [PESSOA]. O [PESSOA] pediu para avisar que ele já está acessando. Teve um probleminha no modem. Acho que ele está remoto hoje, mas já vai acessar. O [PESSOA]. e [PESSOA], enfim, deixa eu comentar um negócio com vocês, acho que até eu tinha comentado na sexta, eu passei o código de vocês para o [PESSOA], aí o [PESSOA] conseguiu olhar lá o histórico do que já foi visto, já foi feito, enfim, em relação à [LOCAL], mas aí o que eu pedi para ele, para de repente a gente hoje fazer um bate-papo com vocês para entender o que vocês precisam,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: entender se é aquele mesmo cenário que a gente falou a última vez que, deixa eu pegar aqui, quando que foi, ou se é uma demanda nova. Acho que de repente a gente poderia começar assim, entender o que é que voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5099,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: precisam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: hoje. Daí depois a gente conseguir aqui, entrou o [PESSOA] aí, conseguir ver o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: que... Bom dia, bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4039,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Bom dia,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [PESSOA], tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Estava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: falando aqui com o [PESSOA] e com o [PESSOA], que [PESSOA] os responsáveis pela TI lá da [EMPRESA], né? E como a gente já teve, em alguns outros momentos, conversas sobre cloud, de repente seria interessante, nesse momento, a gente entender o que é, né? Qual que é a demanda, o que eles esperam de cloud. O [PESSOA] tinha me comentado alguma coisa. Pra daí a gente ver se é a mesma demanda que foi no passado, ou se é algo novo, né? E aí ver como conduzir dentro de casa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.576,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Olha, cara. Tudo bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: meu amigo? Tudo certo, mestre. Como estão as coisas por aí? Desculpa a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3973,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: demora",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Tive um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: probleminha na minha internet que tive que reiniciar o modem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5199,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Não tem problema. Acontece. Cara, basicamente é assim, né? De novo, quando nós estamos na época de fazer alguma renovação de equipamento aqui na [EMPRESA], a gente acaba olhando um pouquinho para os lados, né? Se fazer qualquer coisa. Então, a gente meio que tomou um susto aí, né? meio que tava esperando, meio que tomou um susto com o preço de hardware, como é que tá hoje em dia, né, que foi orçar aí servidores, storage, e tanto storage quanto a memória RAM [PESSOA] duas coisas que aumentaram bastante de preço aí nos últimos meses, né.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 55]: verdade, acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: que vai aumentar mais ainda até o final do ano, né,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: só depois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: baixar, questão de terras raras, enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É, o pessoal, pelo que eu andei lendo aí, o pessoal estima que [EMPRESA] em 2028, 2029, talvez, para dar uma normalizada. Vai longe, hein? Cara, a gente precisa de um orçamento, né? A gente precisa entender o que que possibilidades que a gente tem para orçar aí, né? [PESSOA] eu sei que tem que fazer alguma mensuração ou a gente tem que passar algumas informações aqui do nosso ambiente como está. Tanto questão de acesso aí, a gente não sei se faz alguma medição aqui no ambiente com alguma ferramenta de vocês, né? [PESSOA] funcionalidade da ferramenta e tal, eu não sei se teve alguma grande novidade, grande inovação nos últimos tempos, né, pra gente ficar par.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Vocês [PESSOA] DataSoup ou Proteus?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Proteus?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Isso. Cara, basicamente é isso, né? A gente precisa entender aí o tipo de informação que que vocês precisam para poder passar um orçamento conciso para a gente. Boa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Show de bola. Sabe que é um momento bom de você pensar nisso [PESSOA] tem realmente umas novidades muito legais a partir de cloud. Não sei quanto tempo passa que vocês orçaram da outra vez. Lembra mais ou menos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4723,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Foi ano passado ou foi no outro, cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5516,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: 24 para 25 por ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5411,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É. Eu e o [LOCAL] ficamos discutindo ontem, é sexta e a gente não chegou no consenso.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.449,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCAL]. O que eu ia comentar é o seguinte, a gente, a principal novidade agora é a questão da gente de ar, né? Que a gente habilitou eles dentro da nossa nuvem, tá? Obviamente isso roda pra quem estiver na nuvem da Tots por um motivo de arquitetura do projeto, de estratégia, também de estratégia comercial da companhia, né? Mas a gente vê algumas mudanças, principalmente nesse ponto. O que eu queria comentar também é que dependendo do seu cenário, não só a troca de hardware, mas mais coisas podem ficar vantajosas. Eu sei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5437,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: qualquer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: versão,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: banco de dados, entrega licença enterprise, estão mudando com Oracle ou com a SQL? Então",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: gente entrega a parte do licenciamento do banco e aí você se livra dessa bronca toda, tá? Atualização, diversão, tudo isso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: fica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: a [EMPRESA]. Sua única preocupação vai ser com relação aos customizados, né? Que a [EMPRESA] não mexe nos customizados, aí fica com vocês ainda. O acesso ao banco a gente deixa liberado. para vocês podem ter conexões ou dever ser no banco para a Power BI e para replicar o banco para alguma algum outro lugar. E que é mais seu comentário com vocês. Vocês lembram qual era a modalidade que vocês tinham votado da outra vez? Lembra?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Deixa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: eu pegar aqui. Eu achei aqui a data. Foi agosto de 25.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4804,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: muito",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 16]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: mês que eu cheguei na [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4953,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Isso aí, isso aí, que ainda foi o [PESSOA] que fez",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5327,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: condução lá. Cara, deixa eu ver se eu acho aqui, [PESSOA]. Se eu não me engano, foi o dedicado. Deixa eu ver se no material que eu tô olhando aqui tem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Você tem quantos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: usu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 28]: aí?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [PESSOA], [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Cara, dá mais ou menos uns 360 acessos simultâneos aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4684,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCAL]. A Suite 300 tem que ser [PESSOA] já. Eu vou falar um pouquinho da modalidade [PESSOA] só para a gente recapitular. Então, a gente entrega o HA, então [PESSOA] os servidores redundantes, nó primário e nó secundário, e aí você conecta através do DNS da TOTOS, e se o nó primário falha, a gente direciona automaticamente as conexões para o nó secundário. Essa replicação é no nível do virtualizador, então a gente replica as VMs no nível do virtualizador, E os storages, a gente replica eles utilizando os recursos da [LOCAL]. A parte de backup, a gente entrega backup com retenção de cinco anos. O backup mais recente dos últimos 30 dias ali, eles [PESSOA] feitos na mesma área de blocos em que é feita a produção. Então, a gente utiliza os",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: discos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [EMPRESA], os mesmos discos. [PESSOA] utilizados para esse backup recente, para você ter um restore mais rápido. Se você precisar restaurar o backup, ao invés de utilizar o nosso secundário do cluster e para mais de cinco anos a gente manda aparelho de objeto, enfim, como uma estratégia de backup convencional. A gente entrega o atendimento via [LOCAL], então você não precisa abrir chamado, fala direto com o cara no WhatsApp, é muito mais fácil que a mesma pessoa que vai te atender sempre e também que você vai ter a facilidade de não precisar abrir chamado, né, cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 26]: chamado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: é...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Ninguém gosta de abrir chamado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: das",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 55]: coisas que eu falo para o [LOCAL], que dá uma desanimada na gente, é pensar, vou ter que abrir um chamado para fazer um lance no meu ambiente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5083,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 35]: complicado, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Pois é,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: cara, então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: bastante agilidade aqui, né, tendo tudo local aqui, né, cara. Tem, logicamente, os limitadores aí, né, de ambiente e tal, mas agilidade, se a gente tem que partir pra um cenário que tem que abrir chamado, aí chega a dar um exame.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: É, o principal problema de chamada, às vezes você abre o chamado e cai pra um [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 34]: cara... O cara entrou ontem na empresa, O cara não sabe nem ele não sabe nem que a TOTUS é de comer ou de passar no cabelo. O que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5111,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: faz esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: negócio.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: aí até ele descobrir que não sabe escalar para o [LOCAL] o cara resolveu o problema e você perdeu as duas ou três horas de produção. Então você está no [PESSOA] é ótimo [PESSOA] o engenheiro [PESSOA] ele é um líder do time de suporte. Então ele tem uma pequena célula. 3 ou 4 caras que trabalham com ele e aí [PESSOA] ele não pode ficar 24 horas trabalhando. Ele vai direcionando para quem está no plantão naquela hora ali e você fala sempre com ele. Então o cara conhece o seu ambiente, é um cara mais sênior. Então",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: faz",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: toda a diferença para os projetos que a gente está orçando, principalmente onde você não pode parar, tem a opera",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4907,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 39]: mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: rítmica, enfim, tem que estar nessa modalidade. Parte dos agentes de A, tá? Quando você for pra novinha da [EMPRESA], você fica habilitado a contratar os agentes de [PESSOA] O que que [PESSOA] os agentes de A? Eles [PESSOA] recursos de inteligência artificial aut",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5824,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: fazem uma tarefa específica que você programar ou que a [EMPRESA] programar. Você pode contratar um customizado e fazer o que você quiser, ou então contratar o padrão da [EMPRESA]. Vou te dar um exemplo. A [EMPRESA] tem um que é o Supervisor de Compras. Então você vai habilitar lá, tem algumas coisas que você customiza, e ele vai fazer o que o teu servidor de compras faria. Quando alguém botar um pedido de compra, ele vai ser acionado automaticamente, vai revisar o pedido e vai dizer, ó, pedido negado, [PESSOA] você botou que a caneta é R$30,00, e sempre que a gente comprou caneta foi R$15,00. Por que que dessa vez é R$30,00? Então coisas que um supervisor teria que ficar olhando no detalhe sempre e que a regra é a mesma, né? Se a variação for mais do que 10% do histórico, tem que olhar duas vezes. Então essa regra pode ser aplicada no agente e ele faz isso automaticamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: tem um monte de coisa legal, cara. A parte de [EMPRESA] é legal também. Então você tem os agentes lá. Imagina que o cara do [EMPRESA] Não precisar nem de computador, cara. O cara tem o agente integrado no WhatsApp, ele vai lá, como é que foi ontem as coisas aqui? Putz, a esteira 5 deu muito refugo, tem que fazer manutenção em tal peça, tal parte. Pô, o cara não precisa ter que cruzar relatório, baixar, olhar no BI. Então, muita coisa que ajuda no dia a dia, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: informação, ela chega de que forma pro cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Essa informação, como é que funciona? O Agente de Ar da [EMPRESA] está disponível numa plataforma que é chamada de DTA [LOCAL]. Essa plataforma, você está no cloud, você contrata ela, ela vai integrar com o seu ambiente. E aí, o que a [EMPRESA] faz? Ela disponibiliza para você integrar isso por um botão dentro do sistema, para você utilizar isso numa API. Então, a questão do WhatsApp é que você pode integrar com o WhatsApp através de uma API do WhatsApp. E aí você faz essa comunicação e o cara vai estar falando no Whatsapp, mas é com a API do nosso VCA [LOCAL], integra direto com a nossa IA. Legal,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: interessante.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Tem gente que bota no Teams, por exemplo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5257,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Sim, interessante. Acho que pra nós, interessante saber que tem, mas no momento o desafio primeiro é conseguir transpassar nosso ambiente para a nuvem, né, cara? Talvez, num segundo momento, isso parece ser mais interessante, né? Quem está mais maduro aí na nuvem, a proposta do agente de ar parece ser mais interessante, até [PESSOA], pelo que tu me disse, tem algum custo, né? Então...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: É, e é uma jornada, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 27]: começa,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: você migra, e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: depois voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: vai olhando, vai experimentando...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É interessante saber. Por enquanto, acho que é algo que nós não vamos molhar os pés ainda, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4804,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 43]: é bom saber que existe a ferramenta, que a [PESSOA] está disponibilizando. Boa, show de bola. A ideia é essa, lembrar vocês que vocês vão ter isso, vai estar habilitado esse recurso migrando. A partir da gente fazer o assessment, tá? Foi em agosto de 2025. O próximo assessment seria agosto de 26, ele tem uma duração aí de 12 meses, tá? Mas o que que eu recomendo que a gente faça? Eu peço um e-mail pro time técnico, só um e-mail com instruções pra vocês rodarem alguns comandos básicos, pra ver se o tamanho da base não aumentou muito. Daqui a pouco a gente cota aí um tera de banco e agora tá 1.2. E vai dar problema na hora de implementar. Só essas pequenas coisas que talvez possa ter aumentado o tamanho da base, enfim. Mas se vocês rodam os scripts, nos devolvem, pode ser?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Sim, sim, claro. Sem problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCAL]. Então, já vou providenciar isso, a gente manda pra vocês em breve esses e-mails, tá? Com relação à proposta, eu e o [LOCAL] a gente monta, a gente marca de apresentar para vocês com calma. A nossa migração, ela está demorando aí na média de 45 dias para acontecer. E principalmente o ambiente pra ele, que tem que entregar redundante e tudo mais, tem uma jornada um pouco mais longa. Mas em 45 dias é mais ou menos o prazo para você estar rodando em produção com o ambiente, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: esse é o tempo médio aí de migração. Quando é que termina a garantia dos servidores de vocês aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Cara... Não sei dizer exatamente quando termina a garantia. O nosso storage está fora de garantia.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 43]: está para terminar a garantia de servidor também. [LOCAL]. Para saber se é muito urgente ou não aquele projeto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 34]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Normal, tá? A gente está com um orçamento em aberto agora de servidor de storage. Então, as coisas estão acontecendo. Eu estava comentando com o [LOCAL]. A ideia era a gente disparar isso antes da metade do ano. ter tudo redondinho antes da metade do ano, mas acho que vai ser difícil, tá? Conseguir fazer tudo nessa metade do ano. [PESSOA] a metade do ano a nossa versão do Proteus expira, né? Daí a migra",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 15]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 55]: versão, tá? Eu tenho uma migração de VMs, de ferramenta de VM planejada, nós vamos migrar de VM pra Hyper-V, né? Então, isso também vai acontecer. Queria elencar pra fazer tudo mais ou menos junto",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: antes",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: metade do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: ano, mas estamos quase em março, né, cara?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCUTOR 24]: acho que vai dar, mas vamos lá, vamos fazer conforme a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: gente consegue.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: O que vocês tem hoje de VM além das VMs do Proteus? Deve ter",
+      "mantida": true,
+      "probabilidade_relevancia": 0.533,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: do AD",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: provavelmente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: tem uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: VM de AD, a gente tem uma VM que é servidor de arquivos, tem VM... a gente tem duas VMs que [PESSOA] TS, que é o pessoal da produção, conecta nessas VMs para acessar o ambiente virtual e poder trabalhar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCUTOR 20]: uma VM com sistemas legados e que roda o nosso... o [EMPRESA], né, os todos os meses. Caramba. Servidor de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: backup.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: de backup, monitoramento do ambiente. Isso aí, eu acho. Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5676,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: é o servidor de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Eu ia propor para você o seguinte. Uma forma de você economizar muito é você migrar todo o workload e você não precisa comprar nada de servidores. A TOTOS ela tem um modelo de oferta em cima de [PESSOA] o proteus vai ser o que ele vai ser o PASS. Ele é quase um [EMPRESA]. Ele só não é [PESSOA] você tem acesso ao banco que vai rodar. Pode customizar. Mas a gente tem um modelo de ar que é um modelo de nuvem privada convencional. Eu te comercializo a VM e você escolhe a configuração tamanho do disco e você pode migrar o que você quiser para lá. Tem acesso ao sistema operacional e você instala o que você quiser. Tem sentido para vocês avaliar também a migração dessas outras VMs. Eu também",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: consigo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: te entregar banco licenciado. Te entrego a licença de caldo AD sem custo adicional. A gente tem um contrato",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: placa [EMPRESA] para comprar caldo AD.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 7]: que estudar o cenário aí, cara. De arrancada, a nossa ideia é o foco no [LOCAL], até [PESSOA] o nosso maior problema está sendo o desempenho com Proteus. A empresa vai crescendo, o número de acessos vai crescendo, os processos vão ficando mais complexos. É o que acaba mais causando mais transtorno para nós no dia a dia a Proteus. Mas, cara, sem dúvida, é interessante a gente estudar aí. Outras propostas aí que a [LOCAL] tem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Até [PESSOA] eu consigo te entregar em rede local tudo, né? Então, se você tem algum tipo de integração, alguma coisa...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Vamos...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 51]: gente fica no mesmo ambiente, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: A gente consegue fazer duas frentes aí paralelas, né? [LOCAL]. No [LOCAL] Cloud aí, que é parte do Proteus, [LOCAL] e outros servidores que daí não [PESSOA] tão urgentes. Não é uma situação tão urgente. Acho que é melhor",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: fazer assim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: A gente monta, montem dois projetos separados e eles podem ser, inclusive, em fases separadas. A gente vê um agora e vê o outro mais pra frente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4898,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Sim, acho que é melhor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: E comentar pra gente, caso vocês pensem na ideia, lembrem que tem essa possibilidade com a gente também, tá? Eu não entendi o porquê as VMs do TS pra acessar o Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4725,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É só por causa do nosso ambiente, né? O pessoal",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 55]: terminais, alguns terminais burros na produção, né? acessam via TES, esse servidor. É um servidor de TES, e aí esse servidor acessa, o pessoal acessa a partir dele o Proteus, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Ah tá, perfeito.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: na versão web agora já, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Sim, sim, sim. É, a Juquita até fez, colocamos alguns slaves em um desses servidores pra dar uma balanceada na carga aí que o nosso servidor principal do Proteus tava a meio esgoelar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCAL]. [LOCAL]. [PESSOA], você ia falar alguma coisa? Te interrompi, [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não, é que o UTS, além do Proteus, a gente tem outros serviços de acesso a desenhos e coisas por isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5319,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Ah, entendi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Também tem isso, né? Sofra de engenharia e tal.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Boa. [LOCAL], pessoal. Bom, então, acho que é isso, né? Eu mando para vocês os scripts que vocês rodarem lá. Só para a gente dar uma atualizada aqui. Quando a gente tiver com esse coco na mão, a gente apresenta aí o [LOCAL]. E quando vocês quiserem ver essa questão das outras VMs... Quais foram as [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4871,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Não, acho que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: não. Não? Eu vou te mandar um link do [LOCAL], ele é um software da [EMPRESA], tá? Qualquer computador da rede, você executa ele, vai pedir umas permissões ali, você bota o usuário e senha do [EMPRESA], ele vai conectar no teu vCenter, vai te trazer a lista de todos os VMs.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCUTOR 18]: [PESSOA] com todas as VMs, uso de CPU, uso de memória, disco. Ele te traz todo o inventário de VMs que você tem na rede.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6045,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: aí, se quiser compartilhar comigo, depois a gente dá uma olhada com calma e fala, ó cara, vale a pena, não vale a pena? [LOCAL] a pena fazer em duas páginas? Você que migrar tudo de uma vez é uma loucura, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5129,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É, trabalho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: grande,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: trabalho grande,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: né? Mas enfim, se fizer sentido pra vocês, eu te mando depois o link da [LOCAL] ali pelo [LOCAL] e a gente pode ir olhando em paralelo também, sem galho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5115,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Bem tranquilo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Fechou, pessoal? Alguma dúvida a mais?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3804,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Acho que não, cara. Acho que é mais na proposta aí que vocês forem fazer depois contemplar cenários diferentes. Tu me falou assim, mais de 300 acertos, já tem que ir pra praia. [LOCAL]. Então a gente já tira um pedaço aí da proposta do ar, né? Não sei se tem alguma outra variação, né? Não me recordo da outra proposta que a gente teve, se tem variações a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 33]: Tem sim de ambiente, vocês podem ter vários ambientes. Por padrão, a gente entrega dois, produção e desenvolvimento. Mas vocês podem ter um de homologação, pode ter um de [LOCAL], pode ter mais um ambiente só para reforma tributária, que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 35]: para os caras",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: desenvolverem só a reforma, enfim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Olha, todo o tempo que eu estou aqui no MGR, acho que só uma vez a gente teve três ambientes rodando aí. Mas acho que, no momento, não vale a pena a gente estudar essa possibilidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4823,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: tem TSS e [LOCAL] também, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Vocês tem ideia de quantos documentos eles estão emitindo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4813,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Não, nem ideia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Eu mando também o script pra atualizar isso. Quem é o [PESSOA], pra eu não esquecer. [EMPRESA], esses tem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4325,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É [EMPRESA], cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: É gestão",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: frotas, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Não, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [EMPRESA] de frete embarcador.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCUTOR 30]: tem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Vem com esses nomes difíceis.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: só sei a siga. Se o [LOCAL] não estiver junto comigo,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: aí eu não vou conseguir. Isso é só um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3777,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: checkbox,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: assim. Tem, não tem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Exatamente. Se eu me lembro de mais alguma coisa... Cara, eu acho que é isso, tá? Se eu tiver mais alguma outra dúvida, eu mando pro [LOCAL]. O [LOCAL], se quiser, pode passar meu contato com a vontade e a gente vai trocando ideia, não tem galho.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4527,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCUTOR 23]: gente fica em... [LOCUTOR 23]: gente fica em [LOCAL]. [LOCAL] é na [LOCAL], perto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 54]: [LOCAL]. É uns 80 quilômetros de [LOCAL], 130, 140 quilômetros de [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Eu sou um novo hamburguense, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCUTOR 5]: conheço um pouco o nosso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: estado. Aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: no quintal, então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCUTOR 2]: conhecido como noia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: é interessante você comentar sobre isso, [PESSOA] algumas coisas sim podem inviabilizar o projeto. A questão de impressora térmica, a comunicação é por IP ou é por porta serial?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É por IP.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: gente fecha. Vocês tem o que de firewall aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5202,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Tem sofos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: A gente fecha uma VPN IPsec, geralmente dois túneis se você tem uma redundância. A gente utiliza a [LOCAL] do nosso lado, mas a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5635,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: habilita",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: o BGP...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 47]: pessoal que usa a [LOCAL] aí...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4381,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 53]: caverna, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCAL], com tudo que a gente paga pra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5055,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: todos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: claro que vai usar a [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Eu ia falar, cara, e sabe qual que é o ponto? É que isso é uma coisa que eu não sabia, tá? E até é uma informação meio coincidencial.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCUTOR 23]: Totos é o maior comprador da [LOCAL] Latina de vários fornecedores, cara. De",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 34]: vários. Aí os caras pegam um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5001,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: precinho e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: o precinho fica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: assim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 4]: bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: baratinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: muito bom tu falar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA] o [LOCAL] tá me devendo uma mochila, cara.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [PESSOA], assim tu vai quebrar a firma, é o terceiro que eu devia te falar que eu tô devendo mochila.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 12]: viu? Tu viu só.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Oferece caneta pelo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: menos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [LOCAL] eu já levei, mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: ele não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: quer.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: 16 anos de topos aqui bicho, nem é uma mochila.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Olha,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: só que eu tenho na minha mochila",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4953,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: ali",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: um kitzinho com caneta, com agenda, com uns brindezinhos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5246,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: sabe?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Inclusive a gente ganhou lá no evento lá,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Você estava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: lá no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: treinamento, né? Se a gente for visitar vocês, eu e o [LOCAL], tomar um café uma hora, pode ser pra apresentar a proposta? Daqui a pouco eu levo pra",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: vocês.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 11]: tenho um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: monte de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: trabalho. Eu tenho",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: um monte. Vai vir a mochila mas vai uma canetinha. Vai um bloquinho de anotação. É",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: que sobrou do orçamento. O resto foi pra",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: falar no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: alto lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Mas então tá. Não, não estava falando do Firewall né. Perguntou do Firewall. Daí ele falou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4766,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 55]: fecha a VPN e IPsec.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Fecha a VPN e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: IPsec.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: A gente coloca a BGP se você tiver na tecnologia de BGP que aí o túnel troca automaticamente em caso do Firewall. Não precisa ter que estar [LOCAL] no outro túnel.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.573,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 14]: a parte das integrações funciona bem. Não vejo muito problema com isso. A não ser quando você tem muita integração. A gente recomenda que você use uma coisa chamada I-PASS. Que é um centralizador de integrações.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: consigo ter duas conexões [PESSOA]. [PESSOA] aqui nós temos uma filial em [PESSOA] [PESSOA] que acho que não precisaria conectar aqui né. Vai conectar direto de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5145,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: [PESSOA]. Talvez ela d",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 32]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 55]: volta aqui e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: conecta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: direto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tem uma caixa lá também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Tem uns soltos lá também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: É assim a melhor estratégia que eu recomendo é você ter VPN independente para cada unidade que você não fica dependente de uma só. Dê algum [PESSOA] aí. [PESSOA] [PESSOA] continua funcionando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.505,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: bem tranquilo. Dá para fazer duas VPN em cada. As VPN é 100 reais cada VPN. Então isso aí não é o que vai atrapalhar o projeto. Então eu já considero quatro VPN no projeto duas para vocês aí duas para [PESSOA] [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Acho que sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: já tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: uns 40 usuários, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: lá tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: mais saída, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É, até que lá é bastante comercial.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4944,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCAL], duas VPNs. O acesso vocês podem escolher se vocês querem liberar o acesso, no caso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4838,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: o usuário do Proteus, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCUTOR 25]: VPNs, obviamente, elas [PESSOA] obrigatórias nas botas para acesso ao",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: banco",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: qualquer tipo de conexão [PESSOA], tá? Mas para acessar o Proteus, você pode escolher. A gente tem a Cloudflare como proteção de borda. Então você pode escolher controlar o tráfego pela sua VPN ou liberar o tráfego pela internet e aplicar algumas regras de WAF. O que faz mais sentido para vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5537,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Não sei, cara. É o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: que eu preciso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: estudar e não é o que eu parei para pensar. Hoje",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4432,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: todos os usuários de vocês, eles... Eles tem uma amarração na rede ou o cara ta na rede ou o cara não acessa? Ou tem gente que ta de home office, ta fora da rede?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Não cara, dificilmente alguém acessa. você vai acessar a home office, assim, que a nossa política é o cara vai acessar a home office e tu acessas a máquina, a tua máquina aqui na [EMPRESA] pra poder trabalhar. Tu não vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4535,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: acessar a tecnologia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: particular em casa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Ótimo. Ah, então eu deixaria restrito nas VPNs mesmo, voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 36]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: mais controle dos acessos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Se a gente tiver alguma mudança cultural muito grande aqui na empresa, tá? [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5352,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Não, bem tranquilo. O que é mais. Eu acho que é isso mesmo sem exigir alguma dúvida a gente vai conversando",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4181,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: fazer vários papos aí conforme for",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: pesquisando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: durante o caminho. A minha preocupação é que eu estou na [LOCAL] desde agosto mas eu venho do mercado de nuvem então eu sou arquiteto de soluções certificado pela AWS pela Oracle. [LOCAL] muito projeto em nuvem pública mas eu tenho uma preocupação muito grande que é. A gente não pode bater o martelo do projeto sem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: ter a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: certeza de que todos os pontos [PESSOA] amarrados. Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5628,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: o que vocês tiverem de dúvida não existe dúvida que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4866,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: vão",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: ver depois. A gente vamos vendo o caminho e vão mandando manda para o [PESSOA] me manda ou me chama no ar. Vamos conversando quando vocês realmente pensarem em virar o projeto. A gente não tem nenhum tipo de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4722,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: putz",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: faltou tal coisa e tem que olhar tal coisa e tem que voltar tudo atr",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4887,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 48]: ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: ter o risco de a gente ter um problema mais para frente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: vocês têm a minha A minha dedicação e a minha preocupação é garantir",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 34]: vocês não se incomodem depois na constatação do projeto, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Show de bola.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Até [PESSOA] se der problema, sou eu que vou ter que ajudar o [LOCAL] a resolver.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Vamos lá. Vamos com calma aí, cara. Vamos analisar com carinho, [PESSOA] tá na hora da gente tomar uma renovada aqui. Vamos ver. Daqui a pouco a gente vai pelo caminho da nuvem. Vamos ver.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5491,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Boa. Show de bola. [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: É isso aí, então?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É isso aí, show. Acho que é isso, cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCUTOR 5]: fico esperando o e-mail de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: vocês aí com",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4919,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: ferramenta e script pra gente rodar aqui e já vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: tocar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: pausa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: aí. [PESSOA], se tu quiser mandar já direto, né,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: pode",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: pegar no invite, já tem o e-mail do [PESSOA] e do [PESSOA], se tu quiser pode já mandar pra eles me deixar em cópia, ou se tu preferir me mandar e aí eu encaminho também, não tem erro, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4942,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: aí a gente vai, vamos falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: vou mandar então.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Invite. Se tu vai mandar, já vai até na tua assinatura, já vai provavelmente teu contato. Aí vocês já podem até, como o [PESSOA] comentou, né? Crise antes de precisar de alguma coisa. Podemos sancionar aí o [PESSOA] pra tirar essas dúvidas aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.484,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Bem tranquilo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Fechou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Obrigado aí pelo tempo. [LOCAL]. [LOCAL],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: Boa semana.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4341,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: E aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    }
+  ]
+}

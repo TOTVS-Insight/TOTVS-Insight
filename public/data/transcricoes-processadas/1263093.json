@@ -1,0 +1,2737 @@
+{
+  "id_reuniao": "1263093",
+  "codt": "T09256",
+  "data_reuniao": "2026-03-17 16:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "MANUFATURA",
+  "uf": "RS",
+  "texto_original": "[LOCUTOR 8]: Foi permitindo aqui as entradas. Teremos o [PESSOA] aqui com a gente também.\n[LOCUTOR 66]: Isso e o [PESSOA] aqui do lado do [LOCAL].\n[LOCUTOR 8]: Isso aí.\n[LOCUTOR 66]: Foi que pediu a reunião.\n[LOCUTOR 8]: Bem tranquilo. Já começou a chuva aí?\n[LOCUTOR 66]: Aqui não, aqui está escuro agora.\n[LOCUTOR 8]: Aqui já começou um temporalzinho.\n[LOCUTOR 66]: É.\n[LOCUTOR 8]: Diz que eu tô só uns quilômetros de distância de vocês.\n[LOCUTOR 66]: Tu tá onde? Ali no\n[LOCUTOR 8]: [LOCUTOR 1]: [LOCAL]? Isso.\n[LOCUTOR 66]: É, é pertinho.\n[LOCUTOR 8]: É\n[LOCUTOR 9]: pertinho. Boa tarde, pessoal.\n[LOCUTOR 66]: [EMPRESA], [PESSOA].\n[LOCUTOR 8]: [EMPRESA],\n[LOCUTOR 66]: [PESSOA].\n[LOCUTOR 9]: Tudo bem? Beleza. \n[LOCUTOR 20]: certo.\n[LOCUTOR 9]: [LOCAL], vai\n[LOCUTOR 8]: pegar uma chuvarada pra descer.\n[LOCUTOR 9]: É, né?\n[LOCUTOR 8]: Tô\n[LOCUTOR 9]: se me segurando\n[LOCUTOR 8]: aqui.\n[LOCUTOR 9]: É,\n[LOCUTOR 8]: viu?\n[LOCUTOR 66]: Culpa\n[LOCUTOR 8]: minha.\n[LOCUTOR 66]: Tu tá em [LOCAL], [PESSOA]?\n[LOCUTOR 9]: Tô em [LOCAL], tô em [LOCAL].\n[LOCUTOR 66]: Ah, sabia.\n[LOCUTOR 9]: Tô aqui pertinho, mas agora tem que voltar a [LOCAL], vamos ver o que você achou.\n[LOCUTOR 66]: Sim, tu tá ali na [LOCAL] também, ali na [LOCAL]?\n[LOCUTOR 9]: Isso, isso.\n[LOCUTOR 8]: Boa tarde, [PESSOA].\n[LOCUTOR 9]: \n[LOCUTOR 34]: tarde,\n[LOCUTOR 60]: tudo bem? [PESSOA],\n[LOCUTOR 9]: tudo\n[LOCUTOR 60]: bem? [PESSOA].\n[LOCUTOR 9]: Me contem,\n[LOCUTOR 8]: então, meninos.\n[LOCUTOR 9]: Deixa\n[LOCUTOR 8]: eu me apresentar.\n[LOCUTOR 9]: O\n[LOCUTOR 8]: [PESSOA] eu ainda não conhecia.\n[LOCUTOR 60]: Bom,\n[LOCUTOR 9]: [PESSOA],\n[LOCUTOR 60]: eu sou o diretor\n[LOCUTOR 9]: financeiro\n[LOCUTOR 60]: aqui da\n[LOCUTOR 9]: [LOCAL].\n[LOCUTOR 60]: Vocês me escutam bem aí?\n[LOCUTOR 9]: Sim.\n[LOCUTOR 60]: Estou\n[LOCUTOR 8]: um\n[LOCUTOR 9]: pouquinho\n[LOCUTOR 8]: baixinho, mas escuto.\n[LOCUTOR 60]: Eu estou sem\n[LOCUTOR 9]: o\n[LOCUTOR 60]: fone hoje aqui, eu estou só com o microfone da câmera, Eu sou diretor\n[LOCUTOR 8]: financeiro\n[LOCUTOR 60]: aqui da [LOCAL]. Eu estou... Eu que, assim, provoquei aí o time inicialmente para a gente entender quais seriam as melhores soluções para a gente implementar aí para preparar a companhia para a reforma tributária, né? Então\n[LOCUTOR 8]: a\n[LOCUTOR 60]: gente foi ao mercado, a gente pesquisou diversas soluções E aí, obviamente, já tinha um viés embutido na nossa decisão, porque a gente já trabalha com proteos aqui na [LOCAL], a gente decidiu seguir por um caminho que nos foi impedido pelo time da [LOCAL], de implementar o [LOCAL] de tributos junto com os [EMPRESA].\n[LOCUTOR 8]: \n[LOCUTOR 26]: durante a nossa fase aqui de análise, parecia que a gente ia ter algum trabalho para implementação, mas que ia ser nada assim. fora do comum e, depois de implementado, a gente teria bons resultados em termos de eficiência da execução das obrigações tributárias em emitimento fiscal, tudo mais simples, tanto nas saídas quanto nas entradas. Até o fim do ano passado, eu vinha fazendo reuniões recorrentes aqui com a equipe, A gente estava parametrizando [EMPRESA] e [EMPRESA] no [LOCAL]. Esse ano, em virtude de uma série de motivos, eu acabei não fazendo essas reuniões sem correntes. E agora, nessa semana, no começo da semana, ontem, na verdade, eu fiz a reunião com a equipe e tive algumas surpresas ruins. Quais foram essas surpresas? Primeiro, muita dificuldade, com complexidade muito grande para fazer a parametrização do [LOCAL] de tributos com a quantidade de, entre aspas, edge cases que a gente tem aqui no Prisani. Quando a gente fala de tributação, tudo é edge case, porque, assim, são muitas particularidades, muitas coisas específicas e tudo mais, e a gente não consegue copiar parâmetros e a gente, de uma filial para outra, por exemplo, a gente não consegue, a gente tem que ficar repetindo a mesma, o data entry ali, muitas vezes, para muitos clientes diferentes, para muitas situações diferentes. Isso me parece altamente ineficiente. A nossa expectativa é, se a gente demorou dois\n[LOCUTOR 60]: meses para parametrizar os corfins, CMS, nós vamos terminar de parametrizar quando ele sair lá em 2022, porque são muitos casos específicos. Esse é o tema principal aqui com relação ao [LOCAL] de atributos. Tem um tema com relação à tesa inteligente, que a gente ainda não tem clareza se a gente vai conseguir usar, se não vai conseguir\n[LOCUTOR 8]: usar.\n[LOCUTOR 60]: Então, assim, eu não sei se é um problema da equipe da [LOCAL], se é um problema de comunicação entre [LOCAL], e Totos e Boa, que é a outra turma que está aqui com a gente, não está claro para mim. Tem um tema de lote, mas eu acho que o [PESSOA] conseguiria tratar. E, para mim, a surpresa ainda maior, depois de muitas ridas e vindas, o feedback que o time da [LOCAL] me deu é que a gente não vai conseguir usar os destaques para nada. Que a gente vem pagando os destaques e tudo mais, e que a gente não vai nem conseguir parametrizar esse negócio. E aí eu queria entender o que a gente pensa de próximos passos aqui nessa relação, porque assim, é\n[LOCUTOR 8]: difícil\n[LOCUTOR 60]: a gente ter uma boa relação o fornecedor,\n[LOCUTOR 8]: etc.\n[LOCUTOR 60]: Se a\n[LOCUTOR 8]: gente\n[LOCUTOR 60]: tá pagando um aplicamento que a gente não vai conseguir usar,\n[LOCUTOR 8]: e se\n[LOCUTOR 60]: a gente tem todas\n[LOCUTOR 8]: essas\n[LOCUTOR 60]: barreiras para\n[LOCUTOR 8]: conseguir\n[LOCUTOR 60]: implementar os finamentos que a gente contratou. Eu queria ouvir de vocês, o que vocês enxergam de alternativas que a gente tem.\n[LOCUTOR 9]: [EMPRESA], [PESSOA], boa tarde. Um primeiro passo que eu fiz depois do levantamento, Eu passei um e-mail, acho que foi ontem ou antes, foi bem recente agora, né, para o [PESSOA]. Eu não sei se já houve tempo de validar aquele e-mail, [PESSOA], porque o e-mail, ele foi no sentido, assim, de... Isso que a gente está falando um pouco mais em alto nível aqui, eu descrevi com um pouco mais de detalhe o que eu estou entendendo, assim, dos pontos do [LOCAL] ali, que estão sendo contestados pela [LOCAL]. Então, pra poder levar isso aqui internamente, a gente conseguir, vamos dizer assim, batalhar por isso daqui, né? Porque, olha, realmente, por ter sido algo que não tá atendendo e tal, eu tive que entrar um pouco mais em detalhe. Eu só queria saber se já conseguiu ou não validar aquilo, caso, se tá correto, se tem que corrigir alguma coisa ali, que eu mandei até print de tela, descobrindo aonde que...\n[LOCUTOR 66]: Sim, eu recebi esse e-mail ontem, tá? Eu não correspondi ainda, estou validando aqui com a minha colega, com a Thaís, sobre\n[LOCUTOR 9]: essas\n[LOCUTOR 66]: questões, tem alguns pontos a mais ali que a gente precisa adicionar, mas\n[LOCUTOR 9]: eu quis\n[LOCUTOR 66]: esperar essa nossa conversa aqui para mim te disparar a resposta dele.\n[LOCUTOR 9]: Tá, tá, perfeito. É, porque assim, eu imagino, aí é um conto assim, no processo da venda, né, hoje até eu O SN já não está atuando mais na TOTUS, a [EMPRESA] que assumiu a conta. Mas eu imagino que, de um modo geral, a visão de vocês é o quê? Queria otimizar. Talvez não dava para entrar em muitos detalhes técnicos naquela fase. comercial, mas a visão era que iria otimizar o processo, que não otimizou. Acho que a visão de vocês, resumindo, é que n\n[LOCUTOR 50]: fizesse,\n[LOCUTOR 9]: né?\n[LOCUTOR 60]: Tinha\n[LOCUTOR 9]: como ter detalhes, talvez, naquela, naquele momento, né?\n[LOCUTOR 60]: A gente tentou entrar nesses detalhes que o time da [PESSOA] está. Obviamente, é um nível de detalhe muito grande, mas a\n[LOCUTOR 9]: gente\n[LOCUTOR 60]: tentou provocar discussões sobre Se a gente, dado o nosso sistema de configuração de produtos, se eu usaria o NCM, ou usaria o nome do produto, o que eu usaria como referência? A gente chegou a tentar discutir esses pontos na hora da venda. Eu não ia contratar nenhum produto aqui que com uma tese conceitual apenas de, ah, vamos otimizar.\n[LOCUTOR 9]: Sim,\n[LOCUTOR 60]: sim. A gente\n[LOCUTOR 9]: tentou\n[LOCUTOR 60]: entrar nesse nível de detalhe. A\n[LOCUTOR 9]: gente\n[LOCUTOR 60]: teve respostas positivas aí da equipe durante esse período. Sim, a gente entende o ponto de vista, a gente consegue otimizar e etc. Eu consigo eventualmente, inclusive, recuperar essas respostas\n[LOCUTOR 9]: que\n[LOCUTOR 60]: a gente teve, mas a gente tinha muitas dúvidas, tá?\n[LOCUTOR 9]: Alguma coisa talvez nos ajude, talvez nos ajude um pouco pra ir atrás, assim. Mas um ponto aqui que eu acho, ali eu descrevi alguns, né? Mas eu acho que o que eu entendi, um deles é o fato de Os produtos que vocês vendem, normalmente, sempre é criado um novo código de produto, né? Por serem muito personalizados. Isso causa um trabalho a mais? É isso?\n[LOCUTOR 66]: Isso. \n[LOCUTOR 4]: dos\n[LOCUTOR 66]: pontos principais foi que a gente precisa trabalhar com grupo e a gente precisa, em vários casos, várias regras tributárias, vários perfis de participante e perfil de produto, usar o campo [PESSOA]. E ele não tem essa opção.\n[LOCUTOR 60]: [LOCUTOR 19]: assim, é inviável hoje o pessoal do\n[LOCUTOR 9]: fiscal dando\n[LOCUTOR 66]: manutenção colocando produto a produto lá dentro do [LOCAL]. Por quê? Porque todo dia gera produto novo. Qualquer\n[LOCUTOR 9]: configuração...\n[LOCUTOR 60]: Assim, a gente pensou na hipótese de a gente agrupar esses produtos?\n[LOCUTOR 9]: Sim,\n[LOCUTOR 66]: a gente usa grupo de produto\n[LOCUTOR 9]: para\n[LOCUTOR 66]: isso também.\n[LOCUTOR 9]: Isso.\n[LOCUTOR 8]: [PESSOA], uma dúvida.\n[LOCUTOR 66]: Foi\n[LOCUTOR 8]: comentado, o [PESSOA] comentou agora há pouco, em relação a ter que fazer o cadastro do mesmo item\n[LOCUTOR 9]: contábil,\n[LOCUTOR 8]: digamos assim, o mesmo item fiscal, diversas vezes, entre matrizes, entre\n[LOCUTOR 60]: CNPJs diferentes. Isso,\n[LOCUTOR 8]: correto.\n[LOCUTOR 9]: É\n[LOCUTOR 8]: possível que a gente aprimore isso?\n[LOCUTOR 9]: Em que um\n[LOCUTOR 8]: cadastro possa ser puxado?\n[LOCUTOR 9]: Não, pode\n[LOCUTOR 8]: ser um CNPJ do grupo?\n[LOCUTOR 9]: Então, em nenhum momento que eu saiba, não, mas teremos\n[LOCUTOR 8]: que\n[LOCUTOR 9]: levar esse produto, porque a rotina de configuradores de produtos, [PESSOA]... [PESSOA] é\n[LOCUTOR 8]: específica para\n[LOCUTOR 9]: cada\n[LOCUTOR 8]: CNPJ? Porque\n[LOCUTOR 9]: [PESSOA] é relativamente nova, vamos dizer assim. [PESSOA] está passando por melhorias ali constantes. A gente pode tentar levar isso adiante para verificar. Porque, por exemplo, a gente não tinha recursos assim de... Era de otimizar, por exemplo, transferir... Antigamente tinha que ter um ambiente de teste, de\n[LOCUTOR 8]: produção.\n[LOCUTOR 9]: A gente não tinha isso nessa rotina. Antigamente, quando era [LOCAL], era uma tabela única. Era só, tipo, vibrar, copiar isso por fora da base. o configuração de tributos, se não me engano ele tem vinte e poucas tabelas, ele é complexo.\n[LOCUTOR 66]: que o [PESSOA] me pediu antes.\n[LOCUTOR 9]: Sim,\n[LOCUTOR 66]: [PESSOA], dá para usar grupo de\n[LOCUTOR 9]: produto,\n[LOCUTOR 66]: mas a questão é o seguinte, quando tu tem um facilitador, que tu usa o grupo de produto para inserir os registros dentro do perfil do participante, mas isso é uma fotografia no momento. Cinco minutos depois, ele já está desatualizado se criou um produto. Ele não usa aquele grupo de produto sempre. Então, se eu inserir um produto dentro do grupo, ele usa o grupo. Não. O grupo\n[LOCUTOR 9]: é usado como\n[LOCUTOR 66]: um facilitador que pega [PESSOA] os itens daquele grupo e joga para dentro do perfil. Mas se criou um novo, né,\n[LOCUTOR 9]: na [EMPRESA], ele para\n[LOCUTOR 66]: trás, ele não vai. É\n[LOCUTOR 9]: por\n[LOCUTOR 66]: isso\n[LOCUTOR 9]: que esse \n[LOCUTOR 29]: um problema também, né? Então, esse é um problema que causa, reflete no [LOCAL] e reflete no [LOCAL] de tributos. Se a gente pudesse botar lá [PESSOA] os itens que participam do grupo,\n[LOCUTOR 60]: [LOCUTOR 2]: uma\n[LOCUTOR 66]: coisa. A questão é que ele vai lá, ele olha os itens e faz uma carga. Depois, ele não fica fazendo essa carga direto. A gente tem que ir lá e fazer a carga. Por isso que a gente usava o campo [PESSOA], daí o\n[LOCUTOR 9]: [PESSOA] \n[LOCUTOR 29]: [PESSOA], [PESSOA] sempre vai ser.\n[LOCUTOR 9]: A\n[LOCUTOR 66]: gente não usava o Facilitador, porque esse Facilitador a gente entendeu no primeiro momento que se a gente botasse [EMPRESA] lá, ele usava o [EMPRESA], mas não, ele pega e faz uma carga dos itens que estão no [EMPRESA] e depois ele... Mesma coisa que a gente fazia, ah, vou fazer um perfil de participante de [PESSOA] os fornecedores, os clientes da\n[LOCUTOR 9]: cidade\n[LOCUTOR 66]: de [LOCAL].\n[LOCUTOR 9]: \n[LOCUTOR 30]: criar um, o que é o seguinte, já não está dentro do participante também. Então, esse é um dos pontos. Eu não sei se a [PESSOA], acho que não escreveu isso lá no e-mail, mas depois eu posso complementar. Esse também é um ponto que de\n[LOCUTOR 60]: verdade\n[LOCUTOR 66]: causa\n[LOCUTOR 60]: bastante\n[LOCUTOR 66]: problema.\n[LOCUTOR 60]: Tanto no perfil de clientes, quanto no perfil de produtos. [PESSOA] está dizendo que cadastrar um novo item não é automaticamente associado a um perfil específico. \n[LOCUTOR 35]: aí. Mas esse é o perfil, isso [PESSOA] trata no perfil final. Quando tu cria um produto, ele cadastra no perfil. Isso a gente tem discussões internas aqui de resolver via customização, porque como a gente cria pelo Mercanet, a gente já vai colocando dentro de perfis\n[LOCUTOR 9]: espec\n[LOCUTOR 55]: baseados em regras, lá na integração.\n[LOCUTOR 9]: É,\n[LOCUTOR 66]: não.\n[LOCUTOR 9]: A comunidade... Então são dois pontos, né? Nós temos uma questão aqui do [LOCAL], né? Nós temos a questão do próprio [LOCAL] de tributos também, né? \n[LOCUTOR 6]: que o [LOCAL] de tributos, ele é muito atrelado ao [LOCAL]. Se eu não consigo criar um grupo, um perfil de participante com [PESSOA] os ítens do meu grupo, o [LOCAL] não vai conseguir resolver essa\n[LOCUTOR 9]: questão. \n[LOCUTOR 58]: verdade, ele piora, né? Você conversou com o [PESSOA], com a [LOCAL], lá, vocês conversaram e entenderam que, realmente,\n[LOCUTOR 9]: na\n[LOCUTOR 66]: versão atual que ele tem hoje, como ele funciona hoje, ele causa uma mais configuração do que a gente tem.\n[LOCUTOR 9]: O meu ponto\n[LOCUTOR 8]: de vista em relação aos Instax.\n[LOCUTOR 9]: O\n[LOCUTOR 8]: [PESSOA] já abriu a solicitação de cancelamento, Entendemos que, sim, é uma ferramenta útil. [PESSOA] faz algo semelhante ao [LOCAL]\n[LOCUTOR 9]: de\n[LOCUTOR 8]: produtos. No caso, a parte de cadastro é feita em um único\n[LOCUTOR 9]: lugar. Acho que falhou. Não sei se foi a minha rede aqui ou a tua. Para mim, falhou ali.\n[LOCUTOR 8]: Está falhando?\n[LOCUTOR 60]: Não, estou ouvindo bem.\n[LOCUTOR 8]: Acho que foi\n[LOCUTOR 9]: a minha.\n[LOCUTOR 8]: mas, ao mesmo tempo, entendo que, dentro do cenário de vocês, não é uma ferramenta que está sendo útil, que não é uma ferramenta que está trazendo benefício algum, na verdade, né?\n[LOCUTOR 60]: A gente não consegue implementar. A gente, assim, a gente tinha pensado em gastar o ano de 25, 26, implementando isso, para trazer o benefício lá na frente, porque a gente vê um benefício claro, a\n[LOCUTOR 8]: gente\n[LOCUTOR 60]: ter um sistema que automatiza\n[LOCUTOR 8]: nosso...\n[LOCUTOR 60]: a nossa lógica de tributação para cada operação que\n[LOCUTOR 8]: a gente\n[LOCUTOR 60]: faz. A gente gostaria disso. A gente não conseguiu nem começar a implementar o negócio ainda. E assim, se o\n[LOCUTOR 8]: \n[LOCUTOR 31]: pode ser desenvolvido, pode ser melhorado, pode ser adequado, fizer, é ótimo. Senão, a gente vai ter que procurar outra solução no mercado. assim, o valor que a [LOCAL] pagou para a [LOCAL], que sei lá quem que\n[LOCUTOR 60]: a gente está pagando hoje, devolvido para a [LOCAL], que a gente não usou nada desse negócio, a gente rescinde aqui o contrato e a gente vai procurar outra solução no mercado. É ruim, mas a gente sabe que tem outras. Só, o que eu não quero é ficar no meio do caminho, pagando\n[LOCUTOR 8]: uma\n[LOCUTOR 60]: coisa que a gente contratou, entendeu? Idealmente, a gente consegue implementar. Porque, baseado no que a gente tinha conversado inicialmente, era a melhor solução. Mas a gente não conseguia implementar. [LOCAL].\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 66]: Só um ponto. Até do nosso lado, [LOCAL], a gente aberto as sugestões que venham da TOTUS de melhores formas de implementação, boas práticas, né? Até por isso foi o motivo de nós termos escolhido a TOTUS para fazer essa parceria de nos ajudar a implementar o [LOCAL] de tributos e todas essas regras tributárias. Então, nós esperamos também que, contratando o fabricante da solução, o desenvolvedor da solução, venham essas duas práticas embarcadas nesse projeto. Então, a gente\n[LOCUTOR 60]: foi\n[LOCUTOR 66]: bem nesse nível, né? A gente\n[LOCUTOR 60]: foi bem\n[LOCUTOR 66]: nesse\n[LOCUTOR 60]: nível.\n[LOCUTOR 66]: A gente tá inventando\n[LOCUTOR 60]: isso pela primeira vez na [LOCAL], é uma ferramenta nova pra nós, mas vocês aí, vocês já devem ter inventado isso em um monte de clientes. Se quiserem trazer esses clientes pra falar conosco, olha, a gente fez a cozinha, a gente fez a assada, vocês entendem que teve alguém aí dentro que já passou pelo mesmo desafio da [LOCAL]? Sim. Eu já falo bastante isso aqui internamente, já falei com o [PESSOA], já\n[LOCUTOR 8]: falei com a\n[LOCUTOR 60]: [PESSOA], o nosso negócio não é muito diferente de tantos outros que tem por aí. Talvez tenha outros clientes que tenham algo parecido com o que a gente tem aqui, entendeu? A gente só precisa entender o que eles fizeram, mas...\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 60]: Preciso que vocês nos ajudem, entendeu? O [PESSOA] foi falar com um amigo dele que gerencia o Proteus, uma outra empresa. Esse não é o melhor caminho.\n[LOCUTOR 8]: Não, isso aí a gente consegue trazer empresas que já estão utilizando o [LOCAL], pelo menos para vocês terem uma troca. Eles podem contar, ah, não, a gente fez assim, o nosso formato de trabalho é dentro dessa ideia, talvez se fizer nessa outra, digamos assim, por este outro caminho. Isso aí eu não vejo problema, tá, [PESSOA]? Um ponto que me preocupa um pouco, é a parte de relacionar o [LOCAL] com o [LOCAL] de produtos, de tributos, tá? Por quê? O [LOCAL], ele é uma ferramenta que vai auxiliar, mas o [LOCAL], ele é um padrão. Este, ele não, a gente não vai ter muito para onde fugir, para onde correr dentro do [LOCAL]. Então, O objetivo, sim, é agilizar o máximo possível, mas os cadastros vão precisar ser feitos de qualquer forma. Por isso que eu fiz aquela pergunta naquele momento para o [PESSOA], porque se está muito complexo, muito trabalhoso para vocês, a ponto de causar uma dificuldade interna, a gente pode pensar em um plano B, uma solução para que isso agilize esse Ah, a gente vai conseguir estudiar para noite? Não, a gente vai ter que conversar com diversas pessoas aqui dentro para chegar nesse ponto, tá? Mas também não vejo como é impossível a gente fazer\n[LOCUTOR 60]: isso.\n[LOCUTOR 8]: A gente\n[LOCUTOR 60]: sentar\n[LOCUTOR 8]: e\n[LOCUTOR 60]: alinhar. No ritmo do dia para noite, tá? No ritmo que nós estamos indo aqui, nós vamos terminar de\n[LOCUTOR 8]: parametrizar\n[LOCUTOR 60]: o ICMS em 2032.\n[LOCUTOR 8]: Desculpa, mas\n[LOCUTOR 60]: é\n[LOCUTOR 8]: verdade.\n[LOCUTOR 60]: Está ótimo.\n[LOCUTOR 8]: É verdade. Não, não, com certeza.\n[LOCUTOR 60]: E eu\n[LOCUTOR 8]: acho que \n[LOCUTOR 38]: muito importante. É um trabalho muito lento, é um trabalho que exige muitas horas que não parece razoável a gente estar operando dessa forma.\n[LOCUTOR 8]: \n[LOCUTOR 26]: aí a gente está aberto para sugestões, como vocês entendem que a gente pode... parametrizar o [LOCAL] de tributos de maneira mais eficiente. São muitas regras tributárias, são muitos ad cases, etc., mas n\n[LOCUTOR 50]: são tantos assim,\n[LOCUTOR 8]: né? Sim, eu\n[LOCUTOR 9]: acho que\n[LOCUTOR 60]: foi\n[LOCUTOR 9]: isso. Uma coisa que eu gostaria, ali, [PESSOA] e [PESSOA], daquele meio que eu passei, que tu vai retornar e complementar,\n[LOCUTOR 60]: Eu não estou copiado no e-mail, então não\n[LOCUTOR 9]: sei. Depois você pode adicionar depois. Mas eu gostaria assim, de repente, digamos que a gente identifique quatro, vou citar aqui, tá? Quatro pontos de, vamos chamar assim, de contestação, de problema. Esses itens aqui estão atrasando o nosso trabalho de configuração das regras tributárias, tá? Eu gostaria de ter uma visão nesses itens, se a gente consegue, se a gente conseguir a cast, classificar o impacto delas. Digamos que eu tenha lá quatro pontos, mas eu tenho um que representa, na nossa visão, mesmo que não seja por estatística ou por feeling, representa 80% do meu problema, entendeu? O meu ponto assim, só para a gente tentar isso que a [PESSOA] falou ali, de buscar algum tipo de melhoria, de customização, não sei qual vai ser a solução, mas a gente tentar mirar naquilo que vai causar um maior impacto positivo para vocês. Se tiver como colocar isso nessa resposta, poderia ser?\n[LOCUTOR 66]: Sim, sim, eu posso responder, com certeza. Isso, né?\n[LOCUTOR 9]: Ou seja, 4% e 25% cada um.\n[LOCUTOR 66]: Eu até vou te dizer, o maior deles, um dos maiores deles, dois são os principais. Um é esse, que a gente não pode usar o cadastro [PESSOA]. O outro, que a gente não pode usar em base teste. E tem um terceiro também, é bem impactante ali, que é 48 horas úteis para voltar uma regra. Eu sempre falava, 48 horas, 48 horas. A gente descobriu que depois era 48 horas úteis. \n[LOCUTOR 7]: eu tô perdido aqui, [PESSOA]. Durante\n[LOCUTOR 9]: o\n[LOCUTOR 60]: processo de parametrização do [LOCAL] de produtos, a gente parametriza uma regra, ele demora 48 horas úteis para\n[LOCUTOR 9]: [LOCUTOR 3]: [LOCAL]? Não, o\n[LOCUTOR 66]: [LOCAL].\n[LOCUTOR 9]: Mas eu acho que agora\n[LOCUTOR 60]: tem um\n[LOCUTOR 9]: outro ponto nessa\n[LOCUTOR 60]: história.\n[LOCUTOR 9]: Bom,\n[LOCUTOR 60]: acho que a gente tem que separar o que é...\n[LOCUTOR 9]: É,\n[LOCUTOR 66]: eu tô falando do [LOCAL].\n[LOCUTOR 60]: Eu tô me referindo\n[LOCUTOR 9]: a\n[LOCUTOR 60]: isso.\n[LOCUTOR 9]: Mas eu acho que a gente vai ter que ter duas visões, como falou o [PESSOA] ali. Uma ok, do [LOCAL], porque o [LOCAL] a gente já tá praticamente aceitando que não vai ter como ir pra frente, né? A visão é praticamente essa, né? mas a gente vê que somente, digamos, se a gente que se tirar não resolve o problema de vocês também. Isso é ponto.\n[LOCUTOR 66]: O\n[LOCUTOR 9]: que\n[LOCUTOR 66]: a gente precisa é que vocês venham com boas práticas pra nós. Não que nós\n[LOCUTOR 9]: dizemos\n[LOCUTOR 66]: como a gente quer que configure\n[LOCUTOR 9]: isso. \n[LOCUTOR 42]: teria chamado a\n[LOCUTOR 9]: [PESSOA]\n[LOCUTOR 66]: para essa parceria. A gente\n[LOCUTOR 9]: precisa que\n[LOCUTOR 66]: vocês analisem a nossa estrutura de clientes, de fornecedores, de produtos, dessa operação e nos digam quais são as melhores práticas para a gente colocar. Talvez, no nosso entendimento, a gente não esteja usando as melhores práticas, porque a gente não conhece.\n[LOCUTOR 9]: \n[LOCUTOR 63]: nós, como o [PESSOA] bem falou antes, para nós é a primeira vez que a gente implementa o [LOCAL] de atributos. Para vocês, para as pessoas que estão trabalhando com [LOCAL] de atributos, talvez seja lá a 20ª, 30ª empresa que está fazendo. Então,\n[LOCUTOR 66]: a gente precisa desse ponto de consultoria, de nos dizer assim, olha, no caso de vocês, a melhor opção é ser feita desta forma. E aí, a\n[LOCUTOR 8]: pir\n[LOCUTOR 43]: segue essa forma. Mas... Isso falando de [LOCAL] de tributos, tá?\n[LOCUTOR 8]: Depois,\n[LOCUTOR 66]: se a gente for falar de [LOCAL], são esses pontos que eu estava comentando\n[LOCUTOR 8]: antes.\n[LOCUTOR 66]: As 48 horas de validação de regras. As 48 horas que eu falei são validação de regras.\n[LOCUTOR 9]: \n[LOCUTOR 27]: gera uma regra, manda pro [LOCAL]. 48 horas, o time devolve essa regra. [LOCUTOR 19]: a questão principal, a gente não consegue testar isso em base de teste, né? Quando a gente foi falar com o pessoal de produto da [EMPRESA], que teve uma agenda de produto, aí a gente ficou sabendo que\n[LOCUTOR 60]: n\n[LOCUTOR 65]: dava. Até foi uma surpresa também para o pessoal da BOA,\n[LOCUTOR 60]: da\n[LOCUTOR 66]: BOA Digital. Foi uma surpresa também porque eles também não sabiam que não dava para implementar, porque a gente estava falando, ah, vamos botar o [EMPRESA] aqui em teste agora e vamos começar a gerar as regras e começar a consumir essas 50 mil regras que a gente tinha e começar a validar. pelo menos essas principais.\n[LOCUTOR 9]: \n[LOCUTOR 56]: são esses dois pontos, né? Um, do [LOCAL] de tributos. Nós precisamos que vocês nos digam qual é a melhor opção, nos deem o caminho mais simples para nós. A gente conhece bem a nossa operação. A gente não conhece\n[LOCUTOR 66]: bem a\n[LOCUTOR 9]: opera\n[LOCUTOR 48]: do [LOCAL] de tributos. Talvez a gente, olhando com um olhar muito mais superficial, a gente não entenda como eu posso\n[LOCUTOR 9]: utilizar\n[LOCUTOR 66]: aquelas regras. Então isso é uma parceria à quatro mãos. Vocês nos ajudam com boas práticas.\n[LOCUTOR 9]: \n[LOCUTOR 19]: a gente consegue construir\n[LOCUTOR 66]: um cadastro e otimizar esse tempo e tirar, talvez, essa impressão que\n[LOCUTOR 9]: se\n[LOCUTOR 66]: tenha dessa solução.\n[LOCUTOR 9]: A\n[LOCUTOR 66]: gente sabe que ele vem sendo aprimorado conforme o tempo, mas é uma solução que já vinha empregada lá no [PESSOA], né?\n[LOCUTOR 9]: Então,\n[LOCUTOR 66]: ele não é de hoje. Então, você já\n[LOCUTOR 8]: implementou\n[LOCUTOR 66]: há\n[LOCUTOR 8]: alguns\n[LOCUTOR 66]: meses, né? Você já implementou isso no\n[LOCUTOR 9]: [PESSOA]. Não, não, não. \n[LOCUTOR 3]: considerador, ele está\n[LOCUTOR 9]: de origem... A [PESSOA] é um produto novo, né? Feito para... Não,\n[LOCUTOR 8]: não, escutei tudo. o [LOCAL] de tributos, ele existe há mais de três anos no [EMPRESA],\n[LOCUTOR 9]: ele\n[LOCUTOR 8]: já é uma ferramenta consolidada no\n[LOCUTOR 9]: [EMPRESA].\n[LOCUTOR 8]: Dentro\n[LOCUTOR 9]: do\n[LOCUTOR 8]: Proteus, ele é uma ferramenta parcialmente nova, porque existem algumas regrinhas diferentes entre [EMPRESA] e Proteus, mas o [LOCAL] em si já é uma ferramenta existente, tá?\n[LOCUTOR 9]: E\n[LOCUTOR 8]: sim, a gente tem conhecimento para passar para vocês melhores práticas, melhores caminhos e como agilizar esses processos.\n[LOCUTOR 9]: Um\n[LOCUTOR 8]: ponto, [PESSOA], que eu\n[LOCUTOR 9]: quero...\n[LOCUTOR 8]: Desculpa.\n[LOCUTOR 9]: Só queria complementar. Eu não quis te perguntar, mas só queria complementar.\n[LOCUTOR 8]: Sim, por favor. Desculpa,\n[LOCUTOR 9]: só porque estava nesse mesmo ponto, desculpa, Taline, mas estava onde estava. É que eu só queria dizer, [PESSOA], que o que eu gostaria E talvez que sejam dois e-mails separados. Aquele que eu mandei era\n[LOCUTOR 8]: basicamente...\n[LOCUTOR 9]: E nós temos uma situação independente do [LOCAL], que se eu tirar o [LOCAL] hoje e a gente cancelar, o [LOCAL] de tributos também, do jeito que está sendo usado hoje, não está atendendo totalmente. Eu gostaria, tanto no e-mail quanto no outro, é que tu evidenciasse as dores, né, nos dois, tanto do [LOCAL] quanto do [EMPRESA], dependente do [LOCAL], por isso dois assuntos separados, né, e se tu consegue, de alguma forma, mensurar o impacto dessas dores em cada um desses cenários. A solução, e eu tenho que te passar,\n[LOCUTOR 60]: Eu\n[LOCUTOR 9]: tenho que desenvolver pra cima, não quero que tu ache a solução, mas eu quero ter talvez um pouco mais de detalhe assim, talvez a gente não tenha conseguido enxergar tão bem assim. Ok, nesses pontos aqui que estão sendo mais trabalhosos e tal, qual é a maior dor? No [EMPRESA] tu já deu um exemplo aí, tu falou dos 48 horas, falou dessas situações, isso aí já tá claro pra mim. Mas aí até pensando no [LOCAL] de tributos, mesmo se a gente não for continuar com o [EMPRESA],\n[LOCUTOR 60]: Quais\n[LOCUTOR 9]: são os pontos mais críticos aqui pra eu ir atrás de solução? Seja com boas práticas, seja com alguma customização, com alguma coisa, mas que eu consiga resolver pra ti, pra que de alguma forma vocês consigam configurar isso sem levar esse tempo todo que tá levando, tá? Então, se tu puder\n[LOCUTOR 8]: fazer\n[LOCUTOR 9]: só essa avaliação e trazer isso pra mim, mas aí eu concordo contigo, a solução é o que a gente dá. Não,\n[LOCUTOR 66]: acho que\n[LOCUTOR 9]: a gente\n[LOCUTOR 66]: tá... Não, é só pra gente ficar alinhado e\n[LOCUTOR 8]: o\n[LOCUTOR 66]: conhecimento ficar...\n[LOCUTOR 8]: [LOCUTOR 5]: entendido isso, ficar claro para [PESSOA], né? Então, ok, a gente vai... [LOCUTOR 63]: mim, são dois assuntos diferentes. A gente está naquele meta tratando sobre [LOCAL], a gente gera um agora, falando de [LOCAL] de tributos, e aí a gente fala sobre boas práticas, vocês nos mostram boas práticas, olhando para o nosso segmento e olhando para o nosso produto, né? Para a estruturação que o produto... \n[LOCUTOR 3]: cenário\n[LOCUTOR 8]: de vocês.\n[LOCUTOR 66]: O cenário\n[LOCUTOR 8]: do produto.\n[LOCUTOR 66]: e\n[LOCUTOR 9]: a\n[LOCUTOR 66]: estruturação que o Proteus tem aqui dentro. A gente tem um [LOCAL] de produto aqui que ele é bem específico, foi desenvolvido lá no começo do projeto, foi desenvolvido pela fábrica, então quem desenvolveu foi a TOTOS, usando melhores práticas da TOTOS.\n[LOCUTOR 9]: TOTOS,\n[LOCUTOR 8]: a gente\n[LOCUTOR 66]: paga uma fração da nossa manutenção é por esse produto,\n[LOCUTOR 9]: \n[LOCUTOR 29]: considerado um produto, a\n[LOCUTOR 8]: gente não pode\n[LOCUTOR 66]: nem compilar ele, tem chave de compilação, a solução, a gente\n[LOCUTOR 8]: não pode nem\n[LOCUTOR 66]: mexer naquilo.\n[LOCUTOR 9]: Então,\n[LOCUTOR 66]: é bem nesse ponto. A gente divide esses dois assuntos nas dois assuntos separados. Eles são assuntos concomitantes, são assuntos que se interligam, mas a gente tem que tratar de forma separada. As duas questões, concordo com isso. E essa questão do\n[LOCUTOR 9]: [LOCAL]\n[LOCUTOR 66]: de tributos, vocês têm que nos passar essas boas práticas e nos ajudar com isso, nem que seja para nos tirar essa impressão de que ele \n[LOCUTOR 2]: t\n[LOCUTOR 65]: complexo.\n[LOCUTOR 9]: \n[LOCUTOR 16]: assim, olha, tem\n[LOCUTOR 8]: outros\n[LOCUTOR 66]: clientes, fazer um benchmark com outros clientes. Eu tenho conversado\n[LOCUTOR 8]: tamb\n[LOCUTOR 61]: com outros clientes. que\n[LOCUTOR 9]: alguns\n[LOCUTOR 66]: têm as mesmas dores, outros não,\n[LOCUTOR 9]: por\n[LOCUTOR 66]: causa do tipo de\n[LOCUTOR 8]: segmento. Eu\n[LOCUTOR 9]: quero o teu e-mail com a dor e eu tenho que te trazer a solução.\n[LOCUTOR 8]: Deixa eu dar uma sequência aqui agora, licença. [LOCAL], [PESSOA], a gente não vai tirar muito essa impressão de que ele é complexo, tá? Porque ele é bem complexo, mas a gente tem que agilizar esse processo para vocês com as melhores práticas, perfeito? Já sabemos aonde, pelo menos junto com o [PESSOA], já sei uma frente para atacar, tá? Então, dentro desse cenário, eu acredito que sim, a gente vai poder dar um direcionamento melhor para vocês. Em relação aos [PESSOA], eu queria fazer uma observação, que eu não sei se foi passado para vocês antes ou não, mas O [LOCAL], ele trabalha de forma única, tá? Então não é que ele não possa estar na base teste, só que ele não pode estar ao mesmo tempo nos dois lugares, como é o padrão TOTUS, de ter uma base homologação e uma base produção, certo?\n[LOCUTOR 66]: Na documentação fala que não pode migrar.\n[LOCUTOR 8]: Ele não pode sair de uma e ir pra outra?\n[LOCUTOR 66]: Isso. Na documentação tá escrito isso.\n[LOCUTOR 8]: Tá, então isso\n[LOCUTOR 66]: aí\n[LOCUTOR 8]: eu\n[LOCUTOR 66]: vou\n[LOCUTOR 8]: retraspar\n[LOCUTOR 66]: ali,\n[LOCUTOR 8]: tá? Porque existe sim a possibilidade de o [LOCAL] ser implantado, digamos assim, ele ser colocado na tua base teste e tu atuar com ele na tua base teste. Ele vai consumir de qualquer forma? Aquelas regras vão ser consumidas. Se tu tirar ele da tua base teste e colocar ele na tua base produção dentro do mesmo período, ele vai consumir em duplicidade, tá? Mas eu não vejo o porquê disso não acontecer. Claro que com uma organização de períodos, seria possível fazer isso dentro desse cenário. Se isso te foi passado, é obrigação minha agora te dar uma devolutiva relacionada a isso.\n[LOCUTOR 66]: [LOCAL]. Estou tentando achar aqui a documentação. Eu\n[LOCUTOR 8]: tenho acesso.\n[LOCUTOR 66]: Mas eu posso te mandar na sequência. [LOCAL].\n[LOCUTOR 8]: Desculpa.\n[LOCUTOR 60]: Nenhuma empresa séria colocaria o [LOCAL] para rodar direto em base de produção.\n[LOCUTOR 8]: Tu sabe, [PESSOA], que eu tenho uma percepção igual?\n[LOCUTOR 60]: Então, provavelmente, você tem outros clientes que implementaram o [LOCAL]\n[LOCUTOR 8]: e\n[LOCUTOR 60]: que acharam uma solução para esse problema do [LOCAL] não rodar em base de texto. O que a gente precisa saber é como que eles fizeram para a gente ver se a gente consegue copiar. Não deveria ser tão complexo assim.\n[LOCUTOR 8]: Não, não. Eu concordo. Eu concordo. E eu acredito que as fontes atuantes, neste momento, estão acabando, elas estão complicando um pouquinho mais para a gente chegar onde a gente precisa, por isso que eu acho que essa reunião, [PESSOA] foi essencial, essencial para os próximos passos, tá? Eu tinha, eu vinha acompanhando com o [PESSOA] e com o [PESSOA] a situação do [LOCAL], o [PESSOA] já tinha me relatado, nós já estávamos correndo internamente em relação ao [LOCAL], mas eu não conhecia essa dificuldade também do [LOCAL], pelo menos não de uma forma tão profunda. E eu acredito, sim, que a gente pode atuar, a gente pode entrar de uma forma diferente que não está sendo feita.\n[LOCUTOR 60]: Uma pergunta direta para o [PESSOA] e para o [PESSOA]. Vocês estão fazendo reuniões de acompanhamento do projeto? Em quanto tempo?\n[LOCUTOR 9]: \n[LOCUTOR 52]: tenho essas reuniões com o [PESSOA],\n[LOCUTOR 66]: da BOA. Eu tive homem.\n[LOCUTOR 9]: Eu, inclusive, eu conversei com o Wader hoje, tá, [PESSOA]? E a ideia é que eu participe de todas as reuniões também, tá?\n[LOCUTOR 66]: Tá,\n[LOCUTOR 9]: pede\n[LOCUTOR 66]: pro Wader que colocar nos...\n[LOCUTOR 60]: Qual que é a frequência das reuniões?\n[LOCUTOR 66]: Em torno de 15 dias, por aí, mais\n[LOCUTOR 60]: ou menos\n[LOCUTOR 66]: isso. Porque,\n[LOCUTOR 60]: [LOCUTOR 59]: vezes, a gente\n[LOCUTOR 66]: usa uma agenda das meninas pra entrar junto e conversar. numa agenda que o pessoal está trabalhando para conversar com todo mundo junto.\n[LOCUTOR 60]: Quero que a gente faça uma reunião com o time do fiscal, com o time da [EMPRESA], com o time, eu não sei se da boa, ou com o [PESSOA], ou com a [PESSOA], mas eu queria que a gente fizesse uma reunião, no mínimo, com frequência quinzenal, para a gente acompanhar agora que nós estamos nesse meio\n[LOCUTOR 8]: ponto\n[LOCUTOR 60]: de virada que hoje a gente\n[LOCUTOR 8]: vai...\n[LOCUTOR 9]: \n[LOCUTOR 25]: a gente vai rescindir o [LOCAL] ali, ou não, ou talvez a gente continue. E o que a [LOCAL] pode nos apoiar aqui na implementação do computador. [LOCAL]. [LOCUTOR 22]: quero uma reunião quinzenal com uma turma ali\n[LOCUTOR 60]: do Fiscal também,\n[LOCUTOR 9]: que\n[LOCUTOR 60]: traz os problemas de quem está tentando parametrizar o negócio,\n[LOCUTOR 8]: para\n[LOCUTOR 60]: a gente poder ver se a gente consegue encontrar soluções ou não\n[LOCUTOR 8]: para\n[LOCUTOR 60]: os problemas que a gente está tendo.\n[LOCUTOR 9]: \n[LOCUTOR 37]: ter uma parecida com a Galine, a gente precisa\n[LOCUTOR 60]: ter a reunião\n[LOCUTOR 8]: para\n[LOCUTOR 60]: a gente poder conversar mais sobre os assuntos, que eu estou achando que esse projeto está meio solto.\n[LOCUTOR 8]: Eu também gostaria de participar desse pedido do [EMPRESA], para ele me incluir.\n[LOCUTOR 9]: [PESSOA].\n[LOCUTOR 8]: para mim,\n[LOCUTOR 60]: para o\n[LOCUTOR 8]: [PESSOA], porque senão a gente fica um pouco perdido de como agir. É quase aquela, pode ser uma coisa meio medíocre de se falar, mas é quase aquela coisa, enquanto não tem barulho, quer dizer que está tudo calmo, sabe? Eu não quero chegar ao ponto de ter barulho. Então, nós já passamos desse ponto,\n[LOCUTOR 60]: infelizmente,\n[LOCUTOR 8]: né? \n[LOCUTOR 23]: que o barulho maior do cliente que contratou o serviço seis meses atrás está querendo rescindir, antes de implementar, acho que esse é o maior barulho que pode ter. Estamos no limite aqui, e a gente precisa entender qual o caminho a seguir.\n[LOCUTOR 8]: [LOCAL]. Ação nossa, agora, interna. [PESSOA], te agradeço se tu me colocar em cópia também nos e-mails que tu for encaminhar para o [PESSOA], porque muitas vezes ele vai por uma frente e eu vou por outra. A gente consegue trabalhar em conjunto, mas em frentes diferentes, tá? Então, eu acredito que a gente possa dar os próximos passos\n[LOCUTOR 9]: de\n[LOCUTOR 8]: organização em breve. Em breve.\n[LOCUTOR 66]: [LOCAL].\n[LOCUTOR 8]: \n[LOCUTOR 52]: copio [PESSOA] os e-mails. Eu te\n[LOCUTOR 60]: agradeço. Obrigado,\n[LOCUTOR 9]: pessoal.\n[LOCUTOR 60]: Obrigado.\n[LOCUTOR 9]: [LOCAL],\n[LOCUTOR 8]: eu que\n[LOCUTOR 60]: agradeço.\n[LOCUTOR 66]: Obrigado, pessoal. Até mais.\n[LOCUTOR 8]: Até mais. [LOCAL],\n[LOCUTOR 9]: tchau.\n[LOCUTOR 66]: [LOCAL], tchau.",
+  "texto_filtrado": "[LOCUTOR 8]: Foi permitindo aqui as entradas. Teremos o [PESSOA] aqui com a gente também.\n[LOCUTOR 66]: Isso e o [PESSOA] aqui do lado do [LOCAL].\n[LOCUTOR 8]: Isso aí.\n[LOCUTOR 66]: Foi que pediu a reunião.\n[LOCUTOR 8]: Aqui já começou um temporalzinho.\n[LOCUTOR 8]: Diz que eu tô só uns quilômetros de distância de vocês.\n[LOCUTOR 66]: Tu tá onde? Ali no\n[LOCUTOR 8]: [LOCUTOR 1]: [LOCAL]? Isso.\n[LOCUTOR 66]: É, é pertinho.\n[LOCUTOR 66]: [EMPRESA], [PESSOA].\n[LOCUTOR 8]: [EMPRESA],\n[LOCUTOR 66]: [PESSOA].\n[LOCUTOR 9]: [LOCAL], vai\n[LOCUTOR 9]: se me segurando\n[LOCUTOR 8]: aqui.\n[LOCUTOR 66]: Culpa\n[LOCUTOR 8]: minha.\n[LOCUTOR 66]: Tu tá em [LOCAL], [PESSOA]?\n[LOCUTOR 9]: Tô em [LOCAL], tô em [LOCAL].\n[LOCUTOR 66]: Ah, sabia.\n[LOCUTOR 9]: Tô aqui pertinho, mas agora tem que voltar a [LOCAL], vamos ver o que você achou.\n[LOCUTOR 9]: Isso, isso.\n[LOCUTOR 8]: então, meninos.\n[LOCUTOR 9]: [PESSOA],\n[LOCUTOR 9]: financeiro\n[LOCUTOR 60]: aqui da\n[LOCUTOR 9]: [LOCAL].\n[LOCUTOR 60]: Estou\n[LOCUTOR 9]: pouquinho\n[LOCUTOR 8]: baixinho, mas escuto.\n[LOCUTOR 8]: financeiro\n[LOCUTOR 60]: aqui da [LOCAL]. Eu estou... Eu que, assim, provoquei aí o time inicialmente para a gente entender quais seriam as melhores soluções para a gente implementar aí para preparar a companhia para a reforma tributária, né? Então\n[LOCUTOR 60]: gente foi ao mercado, a gente pesquisou diversas soluções E aí, obviamente, já tinha um viés embutido na nossa decisão, porque a gente já trabalha com proteos aqui na [LOCAL], a gente decidiu seguir por um caminho que nos foi impedido pelo time da [LOCAL], de implementar o [LOCAL] de tributos junto com os [EMPRESA].\n[LOCUTOR 26]: durante a nossa fase aqui de análise, parecia que a gente ia ter algum trabalho para implementação, mas que ia ser nada assim. fora do comum e, depois de implementado, a gente teria bons resultados em termos de eficiência da execução das obrigações tributárias em emitimento fiscal, tudo mais simples, tanto nas saídas quanto nas entradas. Até o fim do ano passado, eu vinha fazendo reuniões recorrentes aqui com a equipe, A gente estava parametrizando [EMPRESA] e [EMPRESA] no [LOCAL]. Esse ano, em virtude de uma série de motivos, eu acabei não fazendo essas reuniões sem correntes. E agora, nessa semana, no começo da semana, ontem, na verdade, eu fiz a reunião com a equipe e tive algumas surpresas ruins. Quais foram essas surpresas? Primeiro, muita dificuldade, com complexidade muito grande para fazer a parametrização do [LOCAL] de tributos com a quantidade de, entre aspas, edge cases que a gente tem aqui no Prisani. Quando a gente fala de tributação, tudo é edge case, porque, assim, são muitas particularidades, muitas coisas específicas e tudo mais, e a gente não consegue copiar parâmetros e a gente, de uma filial para outra, por exemplo, a gente não consegue, a gente tem que ficar repetindo a mesma, o data entry ali, muitas vezes, para muitos clientes diferentes, para muitas situações diferentes. Isso me parece altamente ineficiente. A nossa expectativa é, se a gente demorou dois\n[LOCUTOR 60]: meses para parametrizar os corfins, CMS, nós vamos terminar de parametrizar quando ele sair lá em 2022, porque são muitos casos específicos. Esse é o tema principal aqui com relação ao [LOCAL] de atributos. Tem um tema com relação à tesa inteligente, que a gente ainda não tem clareza se a gente vai conseguir usar, se não vai conseguir\n[LOCUTOR 8]: usar.\n[LOCUTOR 60]: Então, assim, eu não sei se é um problema da equipe da [LOCAL], se é um problema de comunicação entre [LOCAL], e Totos e Boa, que é a outra turma que está aqui com a gente, não está claro para mim. Tem um tema de lote, mas eu acho que o [PESSOA] conseguiria tratar. E, para mim, a surpresa ainda maior, depois de muitas ridas e vindas, o feedback que o time da [LOCAL] me deu é que a gente não vai conseguir usar os destaques para nada. Que a gente vem pagando os destaques e tudo mais, e que a gente não vai nem conseguir parametrizar esse negócio. E aí eu queria entender o que a gente pensa de próximos passos aqui nessa relação, porque assim, é\n[LOCUTOR 8]: difícil\n[LOCUTOR 60]: a gente ter uma boa relação o fornecedor,\n[LOCUTOR 8]: gente\n[LOCUTOR 60]: a gente tem todas\n[LOCUTOR 8]: essas\n[LOCUTOR 60]: barreiras para\n[LOCUTOR 8]: conseguir\n[LOCUTOR 60]: implementar os finamentos que a gente contratou. Eu queria ouvir de vocês, o que vocês enxergam de alternativas que a gente tem.\n[LOCUTOR 9]: [EMPRESA], [PESSOA], boa tarde. Um primeiro passo que eu fiz depois do levantamento, Eu passei um e-mail, acho que foi ontem ou antes, foi bem recente agora, né, para o [PESSOA]. Eu não sei se já houve tempo de validar aquele e-mail, [PESSOA], porque o e-mail, ele foi no sentido, assim, de... Isso que a gente está falando um pouco mais em alto nível aqui, eu descrevi com um pouco mais de detalhe o que eu estou entendendo, assim, dos pontos do [LOCAL] ali, que estão sendo contestados pela [LOCAL]. Então, pra poder levar isso aqui internamente, a gente conseguir, vamos dizer assim, batalhar por isso daqui, né? Porque, olha, realmente, por ter sido algo que não tá atendendo e tal, eu tive que entrar um pouco mais em detalhe. Eu só queria saber se já conseguiu ou não validar aquilo, caso, se tá correto, se tem que corrigir alguma coisa ali, que eu mandei até print de tela, descobrindo aonde que...\n[LOCUTOR 9]: essas\n[LOCUTOR 66]: questões, tem alguns pontos a mais ali que a gente precisa adicionar, mas\n[LOCUTOR 66]: esperar essa nossa conversa aqui para mim te disparar a resposta dele.\n[LOCUTOR 9]: Tá, tá, perfeito. É, porque assim, eu imagino, aí é um conto assim, no processo da venda, né, hoje até eu O SN já não está atuando mais na TOTUS, a [EMPRESA] que assumiu a conta. Mas eu imagino que, de um modo geral, a visão de vocês é o quê? Queria otimizar. Talvez não dava para entrar em muitos detalhes técnicos naquela fase. comercial, mas a visão era que iria otimizar o processo, que não otimizou. Acho que a visão de vocês, resumindo, é que n\n[LOCUTOR 50]: fizesse,\n[LOCUTOR 60]: Tinha\n[LOCUTOR 60]: A gente tentou entrar nesses detalhes que o time da [PESSOA] está. Obviamente, é um nível de detalhe muito grande, mas a\n[LOCUTOR 9]: gente\n[LOCUTOR 60]: tentou provocar discussões sobre Se a gente, dado o nosso sistema de configuração de produtos, se eu usaria o NCM, ou usaria o nome do produto, o que eu usaria como referência? A gente chegou a tentar discutir esses pontos na hora da venda. Eu não ia contratar nenhum produto aqui que com uma tese conceitual apenas de, ah, vamos otimizar.\n[LOCUTOR 9]: tentou\n[LOCUTOR 60]: entrar nesse nível de detalhe. A\n[LOCUTOR 9]: gente\n[LOCUTOR 60]: teve respostas positivas aí da equipe durante esse período. Sim, a gente entende o ponto de vista, a gente consegue otimizar e etc. Eu consigo eventualmente, inclusive, recuperar essas respostas\n[LOCUTOR 60]: a gente teve, mas a gente tinha muitas dúvidas, tá?\n[LOCUTOR 9]: Alguma coisa talvez nos ajude, talvez nos ajude um pouco pra ir atrás, assim. Mas um ponto aqui que eu acho, ali eu descrevi alguns, né? Mas eu acho que o que eu entendi, um deles é o fato de Os produtos que vocês vendem, normalmente, sempre é criado um novo código de produto, né? Por serem muito personalizados. Isso causa um trabalho a mais? É isso?\n[LOCUTOR 66]: Isso.\n[LOCUTOR 66]: pontos principais foi que a gente precisa trabalhar com grupo e a gente precisa, em vários casos, várias regras tributárias, vários perfis de participante e perfil de produto, usar o campo [PESSOA]. E ele não tem essa opção.\n[LOCUTOR 9]: fiscal dando\n[LOCUTOR 66]: manutenção colocando produto a produto lá dentro do [LOCAL]. Por quê? Porque todo dia gera produto novo. Qualquer\n[LOCUTOR 9]: configuração...\n[LOCUTOR 60]: Assim, a gente pensou na hipótese de a gente agrupar esses produtos?\n[LOCUTOR 66]: a gente usa grupo de produto\n[LOCUTOR 9]: para\n[LOCUTOR 66]: isso também.\n[LOCUTOR 9]: Isso.\n[LOCUTOR 8]: [PESSOA], uma dúvida.\n[LOCUTOR 8]: comentado, o [PESSOA] comentou agora há pouco, em relação a ter que fazer o cadastro do mesmo item\n[LOCUTOR 9]: contábil,\n[LOCUTOR 8]: digamos assim, o mesmo item fiscal, diversas vezes, entre matrizes, entre\n[LOCUTOR 60]: CNPJs diferentes. Isso,\n[LOCUTOR 8]: correto.\n[LOCUTOR 8]: possível que a gente aprimore isso?\n[LOCUTOR 9]: Em que um\n[LOCUTOR 8]: cadastro possa ser puxado?\n[LOCUTOR 8]: ser um CNPJ do grupo?\n[LOCUTOR 9]: levar esse produto, porque a rotina de configuradores de produtos, [PESSOA]... [PESSOA] é\n[LOCUTOR 8]: específica para\n[LOCUTOR 9]: cada\n[LOCUTOR 8]: CNPJ? Porque\n[LOCUTOR 9]: [PESSOA] é relativamente nova, vamos dizer assim. [PESSOA] está passando por melhorias ali constantes. A gente pode tentar levar isso adiante para verificar. Porque, por exemplo, a gente não tinha recursos assim de... Era de otimizar, por exemplo, transferir... Antigamente tinha que ter um ambiente de teste, de\n[LOCUTOR 8]: produção.\n[LOCUTOR 9]: A gente não tinha isso nessa rotina. Antigamente, quando era [LOCAL], era uma tabela única. Era só, tipo, vibrar, copiar isso por fora da base. o configuração de tributos, se não me engano ele tem vinte e poucas tabelas, ele é complexo.\n[LOCUTOR 66]: que o [PESSOA] me pediu antes.\n[LOCUTOR 66]: [PESSOA], dá para usar grupo de\n[LOCUTOR 9]: produto,\n[LOCUTOR 66]: mas a questão é o seguinte, quando tu tem um facilitador, que tu usa o grupo de produto para inserir os registros dentro do perfil do participante, mas isso é uma fotografia no momento. Cinco minutos depois, ele já está desatualizado se criou um produto. Ele não usa aquele grupo de produto sempre. Então, se eu inserir um produto dentro do grupo, ele usa o grupo. Não. O grupo\n[LOCUTOR 66]: um facilitador que pega [PESSOA] os itens daquele grupo e joga para dentro do perfil. Mas se criou um novo, né,\n[LOCUTOR 9]: na [EMPRESA], ele para\n[LOCUTOR 66]: isso\n[LOCUTOR 9]: que esse\n[LOCUTOR 29]: um problema também, né? Então, esse é um problema que causa, reflete no [LOCAL] e reflete no [LOCAL] de tributos. Se a gente pudesse botar lá [PESSOA] os itens que participam do grupo,\n[LOCUTOR 60]: [LOCUTOR 2]: uma\n[LOCUTOR 66]: coisa. A questão é que ele vai lá, ele olha os itens e faz uma carga. Depois, ele não fica fazendo essa carga direto. A gente tem que ir lá e fazer a carga. Por isso que a gente usava o campo [PESSOA], daí o\n[LOCUTOR 9]: [PESSOA]\n[LOCUTOR 29]: [PESSOA], [PESSOA] sempre vai ser.\n[LOCUTOR 66]: gente não usava o Facilitador, porque esse Facilitador a gente entendeu no primeiro momento que se a gente botasse [EMPRESA] lá, ele usava o [EMPRESA], mas não, ele pega e faz uma carga dos itens que estão no [EMPRESA] e depois ele... Mesma coisa que a gente fazia, ah, vou fazer um perfil de participante de [PESSOA] os fornecedores, os clientes da\n[LOCUTOR 9]: cidade\n[LOCUTOR 66]: de [LOCAL].\n[LOCUTOR 30]: criar um, o que é o seguinte, já não está dentro do participante também. Então, esse é um dos pontos. Eu não sei se a [PESSOA], acho que não escreveu isso lá no e-mail, mas depois eu posso complementar. Esse também é um ponto que de\n[LOCUTOR 60]: verdade\n[LOCUTOR 66]: causa\n[LOCUTOR 60]: bastante\n[LOCUTOR 66]: problema.\n[LOCUTOR 60]: Tanto no perfil de clientes, quanto no perfil de produtos. [PESSOA] está dizendo que cadastrar um novo item não é automaticamente associado a um perfil específico.\n[LOCUTOR 35]: aí. Mas esse é o perfil, isso [PESSOA] trata no perfil final. Quando tu cria um produto, ele cadastra no perfil. Isso a gente tem discussões internas aqui de resolver via customização, porque como a gente cria pelo Mercanet, a gente já vai colocando dentro de perfis\n[LOCUTOR 9]: espec\n[LOCUTOR 55]: baseados em regras, lá na integração.\n[LOCUTOR 9]: A comunidade... Então são dois pontos, né? Nós temos uma questão aqui do [LOCAL], né? Nós temos a questão do próprio [LOCAL] de tributos também, né?\n[LOCUTOR 6]: que o [LOCAL] de tributos, ele é muito atrelado ao [LOCAL]. Se eu não consigo criar um grupo, um perfil de participante com [PESSOA] os ítens do meu grupo, o [LOCAL] não vai conseguir resolver essa\n[LOCUTOR 9]: questão.\n[LOCUTOR 58]: verdade, ele piora, né? Você conversou com o [PESSOA], com a [LOCAL], lá, vocês conversaram e entenderam que, realmente,\n[LOCUTOR 66]: versão atual que ele tem hoje, como ele funciona hoje, ele causa uma mais configuração do que a gente tem.\n[LOCUTOR 8]: de vista em relação aos Instax.\n[LOCUTOR 8]: [PESSOA] já abriu a solicitação de cancelamento, Entendemos que, sim, é uma ferramenta útil. [PESSOA] faz algo semelhante ao [LOCAL]\n[LOCUTOR 8]: produtos. No caso, a parte de cadastro é feita em um único\n[LOCUTOR 9]: lugar. Acho que falhou. Não sei se foi a minha rede aqui ou a tua. Para mim, falhou ali.\n[LOCUTOR 8]: Acho que foi\n[LOCUTOR 9]: a minha.\n[LOCUTOR 8]: mas, ao mesmo tempo, entendo que, dentro do cenário de vocês, não é uma ferramenta que está sendo útil, que não é uma ferramenta que está trazendo benefício algum, na verdade, né?\n[LOCUTOR 60]: A gente não consegue implementar. A gente, assim, a gente tinha pensado em gastar o ano de 25, 26, implementando isso, para trazer o benefício lá na frente, porque a gente vê um benefício claro, a\n[LOCUTOR 8]: gente\n[LOCUTOR 60]: ter um sistema que automatiza\n[LOCUTOR 8]: nosso...\n[LOCUTOR 60]: a nossa lógica de tributação para cada operação que\n[LOCUTOR 8]: a gente\n[LOCUTOR 60]: faz. A gente gostaria disso. A gente não conseguiu nem começar a implementar o negócio ainda. E assim, se o\n[LOCUTOR 31]: pode ser desenvolvido, pode ser melhorado, pode ser adequado, fizer, é ótimo. Senão, a gente vai ter que procurar outra solução no mercado. assim, o valor que a [LOCAL] pagou para a [LOCAL], que sei lá quem que\n[LOCUTOR 60]: a gente está pagando hoje, devolvido para a [LOCAL], que a gente não usou nada desse negócio, a gente rescinde aqui o contrato e a gente vai procurar outra solução no mercado. É ruim, mas a gente sabe que tem outras. Só, o que eu não quero é ficar no meio do caminho, pagando\n[LOCUTOR 60]: coisa que a gente contratou, entendeu? Idealmente, a gente consegue implementar. Porque, baseado no que a gente tinha conversado inicialmente, era a melhor solução. Mas a gente não conseguia implementar. [LOCAL].\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 66]: Só um ponto. Até do nosso lado, [LOCAL], a gente aberto as sugestões que venham da TOTUS de melhores formas de implementação, boas práticas, né? Até por isso foi o motivo de nós termos escolhido a TOTUS para fazer essa parceria de nos ajudar a implementar o [LOCAL] de tributos e todas essas regras tributárias. Então, nós esperamos também que, contratando o fabricante da solução, o desenvolvedor da solução, venham essas duas práticas embarcadas nesse projeto. Então, a gente\n[LOCUTOR 60]: foi bem\n[LOCUTOR 66]: nesse\n[LOCUTOR 60]: nível.\n[LOCUTOR 66]: A gente tá inventando\n[LOCUTOR 60]: isso pela primeira vez na [LOCAL], é uma ferramenta nova pra nós, mas vocês aí, vocês já devem ter inventado isso em um monte de clientes. Se quiserem trazer esses clientes pra falar conosco, olha, a gente fez a cozinha, a gente fez a assada, vocês entendem que teve alguém aí dentro que já passou pelo mesmo desafio da [LOCAL]? Sim. Eu já falo bastante isso aqui internamente, já falei com o [PESSOA], já\n[LOCUTOR 8]: falei com a\n[LOCUTOR 60]: [PESSOA], o nosso negócio não é muito diferente de tantos outros que tem por aí. Talvez tenha outros clientes que tenham algo parecido com o que a gente tem aqui, entendeu? A gente só precisa entender o que eles fizeram, mas...\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 60]: Preciso que vocês nos ajudem, entendeu? O [PESSOA] foi falar com um amigo dele que gerencia o Proteus, uma outra empresa. Esse não é o melhor caminho.\n[LOCUTOR 8]: Não, isso aí a gente consegue trazer empresas que já estão utilizando o [LOCAL], pelo menos para vocês terem uma troca. Eles podem contar, ah, não, a gente fez assim, o nosso formato de trabalho é dentro dessa ideia, talvez se fizer nessa outra, digamos assim, por este outro caminho. Isso aí eu não vejo problema, tá, [PESSOA]? Um ponto que me preocupa um pouco, é a parte de relacionar o [LOCAL] com o [LOCAL] de produtos, de tributos, tá? Por quê? O [LOCAL], ele é uma ferramenta que vai auxiliar, mas o [LOCAL], ele é um padrão. Este, ele não, a gente não vai ter muito para onde fugir, para onde correr dentro do [LOCAL]. Então, O objetivo, sim, é agilizar o máximo possível, mas os cadastros vão precisar ser feitos de qualquer forma. Por isso que eu fiz aquela pergunta naquele momento para o [PESSOA], porque se está muito complexo, muito trabalhoso para vocês, a ponto de causar uma dificuldade interna, a gente pode pensar em um plano B, uma solução para que isso agilize esse Ah, a gente vai conseguir estudiar para noite? Não, a gente vai ter que conversar com diversas pessoas aqui dentro para chegar nesse ponto, tá? Mas também não vejo como é impossível a gente fazer\n[LOCUTOR 60]: isso.\n[LOCUTOR 8]: A gente\n[LOCUTOR 60]: sentar\n[LOCUTOR 60]: alinhar. No ritmo do dia para noite, tá? No ritmo que nós estamos indo aqui, nós vamos terminar de\n[LOCUTOR 8]: parametrizar\n[LOCUTOR 60]: o ICMS em 2032.\n[LOCUTOR 8]: verdade.\n[LOCUTOR 8]: acho que\n[LOCUTOR 38]: muito importante. É um trabalho muito lento, é um trabalho que exige muitas horas que não parece razoável a gente estar operando dessa forma.\n[LOCUTOR 26]: aí a gente está aberto para sugestões, como vocês entendem que a gente pode... parametrizar o [LOCAL] de tributos de maneira mais eficiente. São muitas regras tributárias, são muitos ad cases, etc., mas n\n[LOCUTOR 50]: são tantos assim,\n[LOCUTOR 9]: acho que\n[LOCUTOR 9]: isso. Uma coisa que eu gostaria, ali, [PESSOA] e [PESSOA], daquele meio que eu passei, que tu vai retornar e complementar,\n[LOCUTOR 9]: sei. Depois você pode adicionar depois. Mas eu gostaria assim, de repente, digamos que a gente identifique quatro, vou citar aqui, tá? Quatro pontos de, vamos chamar assim, de contestação, de problema. Esses itens aqui estão atrasando o nosso trabalho de configuração das regras tributárias, tá? Eu gostaria de ter uma visão nesses itens, se a gente consegue, se a gente conseguir a cast, classificar o impacto delas. Digamos que eu tenha lá quatro pontos, mas eu tenho um que representa, na nossa visão, mesmo que não seja por estatística ou por feeling, representa 80% do meu problema, entendeu? O meu ponto assim, só para a gente tentar isso que a [PESSOA] falou ali, de buscar algum tipo de melhoria, de customização, não sei qual vai ser a solução, mas a gente tentar mirar naquilo que vai causar um maior impacto positivo para vocês. Se tiver como colocar isso nessa resposta, poderia ser?\n[LOCUTOR 9]: Ou seja, 4% e 25% cada um.\n[LOCUTOR 7]: eu tô perdido aqui, [PESSOA]. Durante\n[LOCUTOR 60]: processo de parametrização do [LOCAL] de produtos, a gente parametriza uma regra, ele demora 48 horas úteis para\n[LOCUTOR 66]: [LOCAL].\n[LOCUTOR 9]: Mas eu acho que agora\n[LOCUTOR 60]: tem um\n[LOCUTOR 9]: outro ponto nessa\n[LOCUTOR 60]: história.\n[LOCUTOR 60]: acho que a gente tem que separar o que é...\n[LOCUTOR 66]: eu tô falando do [LOCAL].\n[LOCUTOR 60]: isso.\n[LOCUTOR 9]: Mas eu acho que a gente vai ter que ter duas visões, como falou o [PESSOA] ali. Uma ok, do [LOCAL], porque o [LOCAL] a gente já tá praticamente aceitando que não vai ter como ir pra frente, né? A visão é praticamente essa, né? mas a gente vê que somente, digamos, se a gente que se tirar não resolve o problema de vocês também. Isso é ponto.\n[LOCUTOR 66]: a gente precisa é que vocês venham com boas práticas pra nós. Não que nós\n[LOCUTOR 9]: dizemos\n[LOCUTOR 66]: como a gente quer que configure\n[LOCUTOR 9]: isso.\n[LOCUTOR 42]: teria chamado a\n[LOCUTOR 9]: [PESSOA]\n[LOCUTOR 66]: para essa parceria. A gente\n[LOCUTOR 9]: precisa que\n[LOCUTOR 66]: vocês analisem a nossa estrutura de clientes, de fornecedores, de produtos, dessa operação e nos digam quais são as melhores práticas para a gente colocar. Talvez, no nosso entendimento, a gente não esteja usando as melhores práticas, porque a gente não conhece.\n[LOCUTOR 63]: nós, como o [PESSOA] bem falou antes, para nós é a primeira vez que a gente implementa o [LOCAL] de atributos. Para vocês, para as pessoas que estão trabalhando com [LOCAL] de atributos, talvez seja lá a 20ª, 30ª empresa que está fazendo. Então,\n[LOCUTOR 66]: a gente precisa desse ponto de consultoria, de nos dizer assim, olha, no caso de vocês, a melhor opção é ser feita desta forma. E aí, a\n[LOCUTOR 43]: segue essa forma. Mas... Isso falando de [LOCAL] de tributos, tá?\n[LOCUTOR 8]: Depois,\n[LOCUTOR 66]: se a gente for falar de [LOCAL], são esses pontos que eu estava comentando\n[LOCUTOR 8]: antes.\n[LOCUTOR 66]: As 48 horas de validação de regras. As 48 horas que eu falei são validação de regras.\n[LOCUTOR 27]: gera uma regra, manda pro [LOCAL]. 48 horas, o time devolve essa regra. [LOCUTOR 19]: a questão principal, a gente não consegue testar isso em base de teste, né? Quando a gente foi falar com o pessoal de produto da [EMPRESA], que teve uma agenda de produto, aí a gente ficou sabendo que\n[LOCUTOR 65]: dava. Até foi uma surpresa também para o pessoal da BOA,\n[LOCUTOR 66]: BOA Digital. Foi uma surpresa também porque eles também não sabiam que não dava para implementar, porque a gente estava falando, ah, vamos botar o [EMPRESA] aqui em teste agora e vamos começar a gerar as regras e começar a consumir essas 50 mil regras que a gente tinha e começar a validar. pelo menos essas principais.\n[LOCUTOR 56]: são esses dois pontos, né? Um, do [LOCAL] de tributos. Nós precisamos que vocês nos digam qual é a melhor opção, nos deem o caminho mais simples para nós. A gente conhece bem a nossa operação. A gente não conhece\n[LOCUTOR 9]: opera\n[LOCUTOR 48]: do [LOCAL] de tributos. Talvez a gente, olhando com um olhar muito mais superficial, a gente não entenda como eu posso\n[LOCUTOR 9]: utilizar\n[LOCUTOR 66]: aquelas regras. Então isso é uma parceria à quatro mãos. Vocês nos ajudam com boas práticas.\n[LOCUTOR 19]: a gente consegue construir\n[LOCUTOR 66]: um cadastro e otimizar esse tempo e tirar, talvez, essa impressão que\n[LOCUTOR 66]: tenha dessa solução.\n[LOCUTOR 66]: gente sabe que ele vem sendo aprimorado conforme o tempo, mas é uma solução que já vinha empregada lá no [PESSOA], né?\n[LOCUTOR 9]: Então,\n[LOCUTOR 8]: implementou\n[LOCUTOR 8]: alguns\n[LOCUTOR 66]: meses, né? Você já implementou isso no\n[LOCUTOR 3]: considerador, ele está\n[LOCUTOR 9]: de origem... A [PESSOA] é um produto novo, né? Feito para... Não,\n[LOCUTOR 8]: não, escutei tudo. o [LOCAL] de tributos, ele existe há mais de três anos no [EMPRESA],\n[LOCUTOR 8]: já é uma ferramenta consolidada no\n[LOCUTOR 9]: [EMPRESA].\n[LOCUTOR 8]: Dentro\n[LOCUTOR 8]: Proteus, ele é uma ferramenta parcialmente nova, porque existem algumas regrinhas diferentes entre [EMPRESA] e Proteus, mas o [LOCAL] em si já é uma ferramenta existente, tá?\n[LOCUTOR 8]: sim, a gente tem conhecimento para passar para vocês melhores práticas, melhores caminhos e como agilizar esses processos.\n[LOCUTOR 8]: ponto, [PESSOA], que eu\n[LOCUTOR 9]: quero...\n[LOCUTOR 9]: só porque estava nesse mesmo ponto, desculpa, Taline, mas estava onde estava. É que eu só queria dizer, [PESSOA], que o que eu gostaria E talvez que sejam dois e-mails separados. Aquele que eu mandei era\n[LOCUTOR 8]: basicamente...\n[LOCUTOR 9]: E nós temos uma situação independente do [LOCAL], que se eu tirar o [LOCAL] hoje e a gente cancelar, o [LOCAL] de tributos também, do jeito que está sendo usado hoje, não está atendendo totalmente. Eu gostaria, tanto no e-mail quanto no outro, é que tu evidenciasse as dores, né, nos dois, tanto do [LOCAL] quanto do [EMPRESA], dependente do [LOCAL], por isso dois assuntos separados, né, e se tu consegue, de alguma forma, mensurar o impacto dessas dores em cada um desses cenários. A solução, e eu tenho que te passar,\n[LOCUTOR 9]: tenho que desenvolver pra cima, não quero que tu ache a solução, mas eu quero ter talvez um pouco mais de detalhe assim, talvez a gente não tenha conseguido enxergar tão bem assim. Ok, nesses pontos aqui que estão sendo mais trabalhosos e tal, qual é a maior dor? No [EMPRESA] tu já deu um exemplo aí, tu falou dos 48 horas, falou dessas situações, isso aí já tá claro pra mim. Mas aí até pensando no [LOCAL] de tributos, mesmo se a gente não for continuar com o [EMPRESA],\n[LOCUTOR 60]: Quais\n[LOCUTOR 9]: são os pontos mais críticos aqui pra eu ir atrás de solução? Seja com boas práticas, seja com alguma customização, com alguma coisa, mas que eu consiga resolver pra ti, pra que de alguma forma vocês consigam configurar isso sem levar esse tempo todo que tá levando, tá? Então, se tu puder\n[LOCUTOR 8]: fazer\n[LOCUTOR 9]: só essa avaliação e trazer isso pra mim, mas aí eu concordo contigo, a solução é o que a gente dá. Não,\n[LOCUTOR 66]: acho que\n[LOCUTOR 9]: a gente\n[LOCUTOR 66]: conhecimento ficar...\n[LOCUTOR 8]: [LOCUTOR 5]: entendido isso, ficar claro para [PESSOA], né? Então, ok, a gente vai... [LOCUTOR 63]: mim, são dois assuntos diferentes. A gente está naquele meta tratando sobre [LOCAL], a gente gera um agora, falando de [LOCAL] de tributos, e aí a gente fala sobre boas práticas, vocês nos mostram boas práticas, olhando para o nosso segmento e olhando para o nosso produto, né? Para a estruturação que o produto...\n[LOCUTOR 3]: cenário\n[LOCUTOR 8]: de vocês.\n[LOCUTOR 66]: O cenário\n[LOCUTOR 8]: do produto.\n[LOCUTOR 66]: estruturação que o Proteus tem aqui dentro. A gente tem um [LOCAL] de produto aqui que ele é bem específico, foi desenvolvido lá no começo do projeto, foi desenvolvido pela fábrica, então quem desenvolveu foi a TOTOS, usando melhores práticas da TOTOS.\n[LOCUTOR 9]: TOTOS,\n[LOCUTOR 8]: a gente\n[LOCUTOR 66]: paga uma fração da nossa manutenção é por esse produto,\n[LOCUTOR 29]: considerado um produto, a\n[LOCUTOR 66]: nem compilar ele, tem chave de compilação, a solução, a gente\n[LOCUTOR 66]: mexer naquilo.\n[LOCUTOR 9]: Então,\n[LOCUTOR 66]: é bem nesse ponto. A gente divide esses dois assuntos nas dois assuntos separados. Eles são assuntos concomitantes, são assuntos que se interligam, mas a gente tem que tratar de forma separada. As duas questões, concordo com isso. E essa questão do\n[LOCUTOR 9]: [LOCAL]\n[LOCUTOR 66]: de tributos, vocês têm que nos passar essas boas práticas e nos ajudar com isso, nem que seja para nos tirar essa impressão de que ele\n[LOCUTOR 65]: complexo.\n[LOCUTOR 16]: assim, olha, tem\n[LOCUTOR 8]: outros\n[LOCUTOR 66]: clientes, fazer um benchmark com outros clientes. Eu tenho conversado\n[LOCUTOR 8]: tamb\n[LOCUTOR 61]: com outros clientes. que\n[LOCUTOR 9]: alguns\n[LOCUTOR 66]: têm as mesmas dores, outros não,\n[LOCUTOR 66]: causa do tipo de\n[LOCUTOR 9]: quero o teu e-mail com a dor e eu tenho que te trazer a solução.\n[LOCUTOR 8]: Deixa eu dar uma sequência aqui agora, licença. [LOCAL], [PESSOA], a gente não vai tirar muito essa impressão de que ele é complexo, tá? Porque ele é bem complexo, mas a gente tem que agilizar esse processo para vocês com as melhores práticas, perfeito? Já sabemos aonde, pelo menos junto com o [PESSOA], já sei uma frente para atacar, tá? Então, dentro desse cenário, eu acredito que sim, a gente vai poder dar um direcionamento melhor para vocês. Em relação aos [PESSOA], eu queria fazer uma observação, que eu não sei se foi passado para vocês antes ou não, mas O [LOCAL], ele trabalha de forma única, tá? Então não é que ele não possa estar na base teste, só que ele não pode estar ao mesmo tempo nos dois lugares, como é o padrão TOTUS, de ter uma base homologação e uma base produção, certo?\n[LOCUTOR 66]: Na documentação fala que não pode migrar.\n[LOCUTOR 8]: Ele não pode sair de uma e ir pra outra?\n[LOCUTOR 66]: Isso. Na documentação tá escrito isso.\n[LOCUTOR 8]: Tá, então isso\n[LOCUTOR 8]: retraspar\n[LOCUTOR 8]: tá? Porque existe sim a possibilidade de o [LOCAL] ser implantado, digamos assim, ele ser colocado na tua base teste e tu atuar com ele na tua base teste. Ele vai consumir de qualquer forma? Aquelas regras vão ser consumidas. Se tu tirar ele da tua base teste e colocar ele na tua base produção dentro do mesmo período, ele vai consumir em duplicidade, tá? Mas eu não vejo o porquê disso não acontecer. Claro que com uma organização de períodos, seria possível fazer isso dentro desse cenário. Se isso te foi passado, é obrigação minha agora te dar uma devolutiva relacionada a isso.\n[LOCUTOR 66]: [LOCAL]. Estou tentando achar aqui a documentação. Eu\n[LOCUTOR 8]: tenho acesso.\n[LOCUTOR 66]: Mas eu posso te mandar na sequência. [LOCAL].\n[LOCUTOR 60]: Nenhuma empresa séria colocaria o [LOCAL] para rodar direto em base de produção.\n[LOCUTOR 8]: Tu sabe, [PESSOA], que eu tenho uma percepção igual?\n[LOCUTOR 60]: Então, provavelmente, você tem outros clientes que implementaram o [LOCAL]\n[LOCUTOR 60]: que acharam uma solução para esse problema do [LOCAL] não rodar em base de texto. O que a gente precisa saber é como que eles fizeram para a gente ver se a gente consegue copiar. Não deveria ser tão complexo assim.\n[LOCUTOR 8]: Não, não. Eu concordo. Eu concordo. E eu acredito que as fontes atuantes, neste momento, estão acabando, elas estão complicando um pouquinho mais para a gente chegar onde a gente precisa, por isso que eu acho que essa reunião, [PESSOA] foi essencial, essencial para os próximos passos, tá? Eu tinha, eu vinha acompanhando com o [PESSOA] e com o [PESSOA] a situação do [LOCAL], o [PESSOA] já tinha me relatado, nós já estávamos correndo internamente em relação ao [LOCAL], mas eu não conhecia essa dificuldade também do [LOCAL], pelo menos não de uma forma tão profunda. E eu acredito, sim, que a gente pode atuar, a gente pode entrar de uma forma diferente que não está sendo feita.\n[LOCUTOR 60]: Uma pergunta direta para o [PESSOA] e para o [PESSOA]. Vocês estão fazendo reuniões de acompanhamento do projeto? Em quanto tempo?\n[LOCUTOR 52]: tenho essas reuniões com o [PESSOA],\n[LOCUTOR 66]: da BOA. Eu tive homem.\n[LOCUTOR 9]: Eu, inclusive, eu conversei com o Wader hoje, tá, [PESSOA]? E a ideia é que eu participe de todas as reuniões também, tá?\n[LOCUTOR 9]: pede\n[LOCUTOR 66]: pro Wader que colocar nos...\n[LOCUTOR 60]: Qual que é a frequência das reuniões?\n[LOCUTOR 66]: Em torno de 15 dias, por aí, mais\n[LOCUTOR 60]: ou menos\n[LOCUTOR 66]: isso. Porque,\n[LOCUTOR 60]: [LOCUTOR 59]: vezes, a gente\n[LOCUTOR 66]: usa uma agenda das meninas pra entrar junto e conversar. numa agenda que o pessoal está trabalhando para conversar com todo mundo junto.\n[LOCUTOR 60]: Quero que a gente faça uma reunião com o time do fiscal, com o time da [EMPRESA], com o time, eu não sei se da boa, ou com o [PESSOA], ou com a [PESSOA], mas eu queria que a gente fizesse uma reunião, no mínimo, com frequência quinzenal, para a gente acompanhar agora que nós estamos nesse meio\n[LOCUTOR 8]: ponto\n[LOCUTOR 60]: de virada que hoje a gente\n[LOCUTOR 25]: a gente vai rescindir o [LOCAL] ali, ou não, ou talvez a gente continue. E o que a [LOCAL] pode nos apoiar aqui na implementação do computador. [LOCAL]. [LOCUTOR 22]: quero uma reunião quinzenal com uma turma ali\n[LOCUTOR 60]: do Fiscal também,\n[LOCUTOR 60]: traz os problemas de quem está tentando parametrizar o negócio,\n[LOCUTOR 8]: para\n[LOCUTOR 60]: os problemas que a gente está tendo.\n[LOCUTOR 37]: ter uma parecida com a Galine, a gente precisa\n[LOCUTOR 60]: ter a reunião\n[LOCUTOR 8]: para\n[LOCUTOR 60]: a gente poder conversar mais sobre os assuntos, que eu estou achando que esse projeto está meio solto.\n[LOCUTOR 8]: Eu também gostaria de participar desse pedido do [EMPRESA], para ele me incluir.\n[LOCUTOR 9]: [PESSOA].\n[LOCUTOR 8]: para mim,\n[LOCUTOR 60]: para o\n[LOCUTOR 8]: [PESSOA], porque senão a gente fica um pouco perdido de como agir. É quase aquela, pode ser uma coisa meio medíocre de se falar, mas é quase aquela coisa, enquanto não tem barulho, quer dizer que está tudo calmo, sabe? Eu não quero chegar ao ponto de ter barulho. Então, nós já passamos desse ponto,\n[LOCUTOR 60]: infelizmente,\n[LOCUTOR 23]: que o barulho maior do cliente que contratou o serviço seis meses atrás está querendo rescindir, antes de implementar, acho que esse é o maior barulho que pode ter. Estamos no limite aqui, e a gente precisa entender qual o caminho a seguir.\n[LOCUTOR 8]: [LOCAL]. Ação nossa, agora, interna. [PESSOA], te agradeço se tu me colocar em cópia também nos e-mails que tu for encaminhar para o [PESSOA], porque muitas vezes ele vai por uma frente e eu vou por outra. A gente consegue trabalhar em conjunto, mas em frentes diferentes, tá? Então, eu acredito que a gente possa dar os próximos passos\n[LOCUTOR 8]: organização em breve. Em breve.\n[LOCUTOR 66]: [LOCAL].\n[LOCUTOR 52]: copio [PESSOA] os e-mails. Eu te\n[LOCUTOR 9]: [LOCAL],\n[LOCUTOR 8]: eu que\n[LOCUTOR 60]: agradeço.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:36.990326+00:00",
+    "total_linhas": 452,
+    "linhas_mantidas": 305,
+    "linhas_removidas": 147,
+    "percentual_mantido": 67.48,
+    "confianca_media": 0.4869
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 8]: Foi permitindo aqui as entradas. Teremos o [PESSOA] aqui com a gente também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Isso e o [PESSOA] aqui do lado do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Foi que pediu a reunião.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.546,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Bem tranquilo. Já começou a chuva aí?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Aqui não, aqui está escuro agora.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3876,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Aqui já começou um temporalzinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Diz que eu tô só uns quilômetros de distância de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Tu tá onde? Ali no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 1]: [LOCAL]? Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: É, é pertinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: pertinho. Boa tarde, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3861,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [EMPRESA], [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tudo bem? Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3851,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL], vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: pegar uma chuvarada pra descer.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4538,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: É, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tô",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: se me segurando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: viu?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Culpa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: minha.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Tu tá em [LOCAL], [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tô em [LOCAL], tô em [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5378,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Ah, sabia.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tô aqui pertinho, mas agora tem que voltar a [LOCAL], vamos ver o que você achou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5207,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Sim, tu tá ali na [LOCAL] também, ali na [LOCAL]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4584,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Isso, isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Boa tarde, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 34]: tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: tudo bem? [PESSOA],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: bem? [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Me contem,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4209,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: então, meninos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Deixa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: eu me apresentar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4178,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA] eu ainda não conhecia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: eu sou o diretor",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: financeiro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: aqui da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Vocês me escutam bem aí?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4083,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Estou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: pouquinho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: baixinho, mas escuto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Eu estou sem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: fone hoje aqui, eu estou só com o microfone da câmera, Eu sou diretor",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4596,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: financeiro",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: aqui da [LOCAL]. Eu estou... Eu que, assim, provoquei aí o time inicialmente para a gente entender quais seriam as melhores soluções para a gente implementar aí para preparar a companhia para a reforma tributária, né? Então",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: gente foi ao mercado, a gente pesquisou diversas soluções E aí, obviamente, já tinha um viés embutido na nossa decisão, porque a gente já trabalha com proteos aqui na [LOCAL], a gente decidiu seguir por um caminho que nos foi impedido pelo time da [LOCAL], de implementar o [LOCAL] de tributos junto com os [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 26]: durante a nossa fase aqui de análise, parecia que a gente ia ter algum trabalho para implementação, mas que ia ser nada assim. fora do comum e, depois de implementado, a gente teria bons resultados em termos de eficiência da execução das obrigações tributárias em emitimento fiscal, tudo mais simples, tanto nas saídas quanto nas entradas. Até o fim do ano passado, eu vinha fazendo reuniões recorrentes aqui com a equipe, A gente estava parametrizando [EMPRESA] e [EMPRESA] no [LOCAL]. Esse ano, em virtude de uma série de motivos, eu acabei não fazendo essas reuniões sem correntes. E agora, nessa semana, no começo da semana, ontem, na verdade, eu fiz a reunião com a equipe e tive algumas surpresas ruins. Quais foram essas surpresas? Primeiro, muita dificuldade, com complexidade muito grande para fazer a parametrização do [LOCAL] de tributos com a quantidade de, entre aspas, edge cases que a gente tem aqui no Prisani. Quando a gente fala de tributação, tudo é edge case, porque, assim, são muitas particularidades, muitas coisas específicas e tudo mais, e a gente não consegue copiar parâmetros e a gente, de uma filial para outra, por exemplo, a gente não consegue, a gente tem que ficar repetindo a mesma, o data entry ali, muitas vezes, para muitos clientes diferentes, para muitas situações diferentes. Isso me parece altamente ineficiente. A nossa expectativa é, se a gente demorou dois",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: meses para parametrizar os corfins, CMS, nós vamos terminar de parametrizar quando ele sair lá em 2022, porque são muitos casos específicos. Esse é o tema principal aqui com relação ao [LOCAL] de atributos. Tem um tema com relação à tesa inteligente, que a gente ainda não tem clareza se a gente vai conseguir usar, se não vai conseguir",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: usar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Então, assim, eu não sei se é um problema da equipe da [LOCAL], se é um problema de comunicação entre [LOCAL], e Totos e Boa, que é a outra turma que está aqui com a gente, não está claro para mim. Tem um tema de lote, mas eu acho que o [PESSOA] conseguiria tratar. E, para mim, a surpresa ainda maior, depois de muitas ridas e vindas, o feedback que o time da [LOCAL] me deu é que a gente não vai conseguir usar os destaques para nada. Que a gente vem pagando os destaques e tudo mais, e que a gente não vai nem conseguir parametrizar esse negócio. E aí eu queria entender o que a gente pensa de próximos passos aqui nessa relação, porque assim, é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: difícil",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: a gente ter uma boa relação o fornecedor,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: etc.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Se a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: tá pagando um aplicamento que a gente não vai conseguir usar,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4368,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: e se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: a gente tem todas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: essas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: barreiras para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: conseguir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: implementar os finamentos que a gente contratou. Eu queria ouvir de vocês, o que vocês enxergam de alternativas que a gente tem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [EMPRESA], [PESSOA], boa tarde. Um primeiro passo que eu fiz depois do levantamento, Eu passei um e-mail, acho que foi ontem ou antes, foi bem recente agora, né, para o [PESSOA]. Eu não sei se já houve tempo de validar aquele e-mail, [PESSOA], porque o e-mail, ele foi no sentido, assim, de... Isso que a gente está falando um pouco mais em alto nível aqui, eu descrevi com um pouco mais de detalhe o que eu estou entendendo, assim, dos pontos do [LOCAL] ali, que estão sendo contestados pela [LOCAL]. Então, pra poder levar isso aqui internamente, a gente conseguir, vamos dizer assim, batalhar por isso daqui, né? Porque, olha, realmente, por ter sido algo que não tá atendendo e tal, eu tive que entrar um pouco mais em detalhe. Eu só queria saber se já conseguiu ou não validar aquilo, caso, se tá correto, se tem que corrigir alguma coisa ali, que eu mandei até print de tela, descobrindo aonde que...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4992,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Sim, eu recebi esse e-mail ontem, tá? Eu não correspondi ainda, estou validando aqui com a minha colega, com a Thaís, sobre",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4219,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: essas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: questões, tem alguns pontos a mais ali que a gente precisa adicionar, mas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4962,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: eu quis",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: esperar essa nossa conversa aqui para mim te disparar a resposta dele.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Tá, tá, perfeito. É, porque assim, eu imagino, aí é um conto assim, no processo da venda, né, hoje até eu O SN já não está atuando mais na TOTUS, a [EMPRESA] que assumiu a conta. Mas eu imagino que, de um modo geral, a visão de vocês é o quê? Queria otimizar. Talvez não dava para entrar em muitos detalhes técnicos naquela fase. comercial, mas a visão era que iria otimizar o processo, que não otimizou. Acho que a visão de vocês, resumindo, é que n",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 50]: fizesse,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Tinha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: como ter detalhes, talvez, naquela, naquele momento, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: A gente tentou entrar nesses detalhes que o time da [PESSOA] está. Obviamente, é um nível de detalhe muito grande, mas a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5235,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: tentou provocar discussões sobre Se a gente, dado o nosso sistema de configuração de produtos, se eu usaria o NCM, ou usaria o nome do produto, o que eu usaria como referência? A gente chegou a tentar discutir esses pontos na hora da venda. Eu não ia contratar nenhum produto aqui que com uma tese conceitual apenas de, ah, vamos otimizar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 60]: sim. A gente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tentou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: entrar nesse nível de detalhe. A",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: teve respostas positivas aí da equipe durante esse período. Sim, a gente entende o ponto de vista, a gente consegue otimizar e etc. Eu consigo eventualmente, inclusive, recuperar essas respostas",
+      "mantida": true,
+      "probabilidade_relevancia": 0.468,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: a gente teve, mas a gente tinha muitas dúvidas, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Alguma coisa talvez nos ajude, talvez nos ajude um pouco pra ir atrás, assim. Mas um ponto aqui que eu acho, ali eu descrevi alguns, né? Mas eu acho que o que eu entendi, um deles é o fato de Os produtos que vocês vendem, normalmente, sempre é criado um novo código de produto, né? Por serem muito personalizados. Isso causa um trabalho a mais? É isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: pontos principais foi que a gente precisa trabalhar com grupo e a gente precisa, em vários casos, várias regras tributárias, vários perfis de participante e perfil de produto, usar o campo [PESSOA]. E ele não tem essa opção.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5789,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: [LOCUTOR 19]: assim, é inviável hoje o pessoal do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.454,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: fiscal dando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: manutenção colocando produto a produto lá dentro do [LOCAL]. Por quê? Porque todo dia gera produto novo. Qualquer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5279,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: configuração...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Assim, a gente pensou na hipótese de a gente agrupar esses produtos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 66]: a gente usa grupo de produto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: isso também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA], uma dúvida.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: comentado, o [PESSOA] comentou agora há pouco, em relação a ter que fazer o cadastro do mesmo item",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: contábil,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: digamos assim, o mesmo item fiscal, diversas vezes, entre matrizes, entre",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: CNPJs diferentes. Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: correto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: possível que a gente aprimore isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Em que um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.521,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: cadastro possa ser puxado?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Não, pode",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ser um CNPJ do grupo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5531,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então, em nenhum momento que eu saiba, não, mas teremos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4548,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: levar esse produto, porque a rotina de configuradores de produtos, [PESSOA]... [PESSOA] é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: específica para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: cada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: CNPJ? Porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA] é relativamente nova, vamos dizer assim. [PESSOA] está passando por melhorias ali constantes. A gente pode tentar levar isso adiante para verificar. Porque, por exemplo, a gente não tinha recursos assim de... Era de otimizar, por exemplo, transferir... Antigamente tinha que ter um ambiente de teste, de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5414,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: produção.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A gente não tinha isso nessa rotina. Antigamente, quando era [LOCAL], era uma tabela única. Era só, tipo, vibrar, copiar isso por fora da base. o configuração de tributos, se não me engano ele tem vinte e poucas tabelas, ele é complexo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: que o [PESSOA] me pediu antes.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4604,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [PESSOA], dá para usar grupo de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5883,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: produto,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: mas a questão é o seguinte, quando tu tem um facilitador, que tu usa o grupo de produto para inserir os registros dentro do perfil do participante, mas isso é uma fotografia no momento. Cinco minutos depois, ele já está desatualizado se criou um produto. Ele não usa aquele grupo de produto sempre. Então, se eu inserir um produto dentro do grupo, ele usa o grupo. Não. O grupo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: é usado como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: um facilitador que pega [PESSOA] os itens daquele grupo e joga para dentro do perfil. Mas se criou um novo, né,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: na [EMPRESA], ele para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5556,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: trás, ele não vai. É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: um problema também, né? Então, esse é um problema que causa, reflete no [LOCAL] e reflete no [LOCAL] de tributos. Se a gente pudesse botar lá [PESSOA] os itens que participam do grupo,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: [LOCUTOR 2]: uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: coisa. A questão é que ele vai lá, ele olha os itens e faz uma carga. Depois, ele não fica fazendo essa carga direto. A gente tem que ir lá e fazer a carga. Por isso que a gente usava o campo [PESSOA], daí o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4899,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 29]: [PESSOA], [PESSOA] sempre vai ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: gente não usava o Facilitador, porque esse Facilitador a gente entendeu no primeiro momento que se a gente botasse [EMPRESA] lá, ele usava o [EMPRESA], mas não, ele pega e faz uma carga dos itens que estão no [EMPRESA] e depois ele... Mesma coisa que a gente fazia, ah, vou fazer um perfil de participante de [PESSOA] os fornecedores, os clientes da",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: cidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: de [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 30]: criar um, o que é o seguinte, já não está dentro do participante também. Então, esse é um dos pontos. Eu não sei se a [PESSOA], acho que não escreveu isso lá no e-mail, mas depois eu posso complementar. Esse também é um ponto que de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4727,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: verdade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: causa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: bastante",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Tanto no perfil de clientes, quanto no perfil de produtos. [PESSOA] está dizendo que cadastrar um novo item não é automaticamente associado a um perfil específico.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 35]: aí. Mas esse é o perfil, isso [PESSOA] trata no perfil final. Quando tu cria um produto, ele cadastra no perfil. Isso a gente tem discussões internas aqui de resolver via customização, porque como a gente cria pelo Mercanet, a gente já vai colocando dentro de perfis",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: espec",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: baseados em regras, lá na integração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 66]: não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A comunidade... Então são dois pontos, né? Nós temos uma questão aqui do [LOCAL], né? Nós temos a questão do próprio [LOCAL] de tributos também, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6179,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que o [LOCAL] de tributos, ele é muito atrelado ao [LOCAL]. Se eu não consigo criar um grupo, um perfil de participante com [PESSOA] os ítens do meu grupo, o [LOCAL] não vai conseguir resolver essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5053,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: questão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 58]: verdade, ele piora, né? Você conversou com o [PESSOA], com a [LOCAL], lá, vocês conversaram e entenderam que, realmente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: versão atual que ele tem hoje, como ele funciona hoje, ele causa uma mais configuração do que a gente tem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: O meu ponto",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: de vista em relação aos Instax.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA] já abriu a solicitação de cancelamento, Entendemos que, sim, é uma ferramenta útil. [PESSOA] faz algo semelhante ao [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: produtos. No caso, a parte de cadastro é feita em um único",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5584,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: lugar. Acho que falhou. Não sei se foi a minha rede aqui ou a tua. Para mim, falhou ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5128,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Está falhando?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Não, estou ouvindo bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3901,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Acho que foi",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5415,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a minha.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: mas, ao mesmo tempo, entendo que, dentro do cenário de vocês, não é uma ferramenta que está sendo útil, que não é uma ferramenta que está trazendo benefício algum, na verdade, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4861,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: A gente não consegue implementar. A gente, assim, a gente tinha pensado em gastar o ano de 25, 26, implementando isso, para trazer o benefício lá na frente, porque a gente vê um benefício claro, a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5234,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: ter um sistema que automatiza",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5214,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: nosso...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: a nossa lógica de tributação para cada operação que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: faz. A gente gostaria disso. A gente não conseguiu nem começar a implementar o negócio ainda. E assim, se o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 31]: pode ser desenvolvido, pode ser melhorado, pode ser adequado, fizer, é ótimo. Senão, a gente vai ter que procurar outra solução no mercado. assim, o valor que a [LOCAL] pagou para a [LOCAL], que sei lá quem que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: a gente está pagando hoje, devolvido para a [LOCAL], que a gente não usou nada desse negócio, a gente rescinde aqui o contrato e a gente vai procurar outra solução no mercado. É ruim, mas a gente sabe que tem outras. Só, o que eu não quero é ficar no meio do caminho, pagando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: uma",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: coisa que a gente contratou, entendeu? Idealmente, a gente consegue implementar. Porque, baseado no que a gente tinha conversado inicialmente, era a melhor solução. Mas a gente não conseguia implementar. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Só um ponto. Até do nosso lado, [LOCAL], a gente aberto as sugestões que venham da TOTUS de melhores formas de implementação, boas práticas, né? Até por isso foi o motivo de nós termos escolhido a TOTUS para fazer essa parceria de nos ajudar a implementar o [LOCAL] de tributos e todas essas regras tributárias. Então, nós esperamos também que, contratando o fabricante da solução, o desenvolvedor da solução, venham essas duas práticas embarcadas nesse projeto. Então, a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: bem nesse nível, né? A gente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: foi bem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4924,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: nesse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: nível.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: A gente tá inventando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: isso pela primeira vez na [LOCAL], é uma ferramenta nova pra nós, mas vocês aí, vocês já devem ter inventado isso em um monte de clientes. Se quiserem trazer esses clientes pra falar conosco, olha, a gente fez a cozinha, a gente fez a assada, vocês entendem que teve alguém aí dentro que já passou pelo mesmo desafio da [LOCAL]? Sim. Eu já falo bastante isso aqui internamente, já falei com o [PESSOA], já",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: falei com a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: [PESSOA], o nosso negócio não é muito diferente de tantos outros que tem por aí. Talvez tenha outros clientes que tenham algo parecido com o que a gente tem aqui, entendeu? A gente só precisa entender o que eles fizeram, mas...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Preciso que vocês nos ajudem, entendeu? O [PESSOA] foi falar com um amigo dele que gerencia o Proteus, uma outra empresa. Esse não é o melhor caminho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4981,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não, isso aí a gente consegue trazer empresas que já estão utilizando o [LOCAL], pelo menos para vocês terem uma troca. Eles podem contar, ah, não, a gente fez assim, o nosso formato de trabalho é dentro dessa ideia, talvez se fizer nessa outra, digamos assim, por este outro caminho. Isso aí eu não vejo problema, tá, [PESSOA]? Um ponto que me preocupa um pouco, é a parte de relacionar o [LOCAL] com o [LOCAL] de produtos, de tributos, tá? Por quê? O [LOCAL], ele é uma ferramenta que vai auxiliar, mas o [LOCAL], ele é um padrão. Este, ele não, a gente não vai ter muito para onde fugir, para onde correr dentro do [LOCAL]. Então, O objetivo, sim, é agilizar o máximo possível, mas os cadastros vão precisar ser feitos de qualquer forma. Por isso que eu fiz aquela pergunta naquele momento para o [PESSOA], porque se está muito complexo, muito trabalhoso para vocês, a ponto de causar uma dificuldade interna, a gente pode pensar em um plano B, uma solução para que isso agilize esse Ah, a gente vai conseguir estudiar para noite? Não, a gente vai ter que conversar com diversas pessoas aqui dentro para chegar nesse ponto, tá? Mas também não vejo como é impossível a gente fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: sentar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: alinhar. No ritmo do dia para noite, tá? No ritmo que nós estamos indo aqui, nós vamos terminar de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: parametrizar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: o ICMS em 2032.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Desculpa, mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: verdade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Está ótimo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: É verdade. Não, não, com certeza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4247,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: E eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: muito importante. É um trabalho muito lento, é um trabalho que exige muitas horas que não parece razoável a gente estar operando dessa forma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 26]: aí a gente está aberto para sugestões, como vocês entendem que a gente pode... parametrizar o [LOCAL] de tributos de maneira mais eficiente. São muitas regras tributárias, são muitos ad cases, etc., mas n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5069,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 50]: são tantos assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: né? Sim, eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: foi",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: isso. Uma coisa que eu gostaria, ali, [PESSOA] e [PESSOA], daquele meio que eu passei, que tu vai retornar e complementar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4892,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Eu não estou copiado no e-mail, então não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4116,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: sei. Depois você pode adicionar depois. Mas eu gostaria assim, de repente, digamos que a gente identifique quatro, vou citar aqui, tá? Quatro pontos de, vamos chamar assim, de contestação, de problema. Esses itens aqui estão atrasando o nosso trabalho de configuração das regras tributárias, tá? Eu gostaria de ter uma visão nesses itens, se a gente consegue, se a gente conseguir a cast, classificar o impacto delas. Digamos que eu tenha lá quatro pontos, mas eu tenho um que representa, na nossa visão, mesmo que não seja por estatística ou por feeling, representa 80% do meu problema, entendeu? O meu ponto assim, só para a gente tentar isso que a [PESSOA] falou ali, de buscar algum tipo de melhoria, de customização, não sei qual vai ser a solução, mas a gente tentar mirar naquilo que vai causar um maior impacto positivo para vocês. Se tiver como colocar isso nessa resposta, poderia ser?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Sim, sim, eu posso responder, com certeza. Isso, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Ou seja, 4% e 25% cada um.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Eu até vou te dizer, o maior deles, um dos maiores deles, dois são os principais. Um é esse, que a gente não pode usar o cadastro [PESSOA]. O outro, que a gente não pode usar em base teste. E tem um terceiro também, é bem impactante ali, que é 48 horas úteis para voltar uma regra. Eu sempre falava, 48 horas, 48 horas. A gente descobriu que depois era 48 horas úteis.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4554,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: eu tô perdido aqui, [PESSOA]. Durante",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4809,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: processo de parametrização do [LOCAL] de produtos, a gente parametriza uma regra, ele demora 48 horas úteis para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCUTOR 3]: [LOCAL]? Não, o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Mas eu acho que agora",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: tem um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: outro ponto nessa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: história.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: acho que a gente tem que separar o que é...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 66]: eu tô falando do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5344,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Eu tô me referindo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4466,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Mas eu acho que a gente vai ter que ter duas visões, como falou o [PESSOA] ali. Uma ok, do [LOCAL], porque o [LOCAL] a gente já tá praticamente aceitando que não vai ter como ir pra frente, né? A visão é praticamente essa, né? mas a gente vê que somente, digamos, se a gente que se tirar não resolve o problema de vocês também. Isso é ponto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: a gente precisa é que vocês venham com boas práticas pra nós. Não que nós",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4868,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: dizemos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: como a gente quer que configure",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5088,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 42]: teria chamado a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: para essa parceria. A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: precisa que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5398,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: vocês analisem a nossa estrutura de clientes, de fornecedores, de produtos, dessa operação e nos digam quais são as melhores práticas para a gente colocar. Talvez, no nosso entendimento, a gente não esteja usando as melhores práticas, porque a gente não conhece.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 63]: nós, como o [PESSOA] bem falou antes, para nós é a primeira vez que a gente implementa o [LOCAL] de atributos. Para vocês, para as pessoas que estão trabalhando com [LOCAL] de atributos, talvez seja lá a 20ª, 30ª empresa que está fazendo. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5413,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: a gente precisa desse ponto de consultoria, de nos dizer assim, olha, no caso de vocês, a melhor opção é ser feita desta forma. E aí, a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: pir",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 43]: segue essa forma. Mas... Isso falando de [LOCAL] de tributos, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Depois,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: se a gente for falar de [LOCAL], são esses pontos que eu estava comentando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5306,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: antes.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: As 48 horas de validação de regras. As 48 horas que eu falei são validação de regras.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 27]: gera uma regra, manda pro [LOCAL]. 48 horas, o time devolve essa regra. [LOCUTOR 19]: a questão principal, a gente não consegue testar isso em base de teste, né? Quando a gente foi falar com o pessoal de produto da [EMPRESA], que teve uma agenda de produto, aí a gente ficou sabendo que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5549,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: dava. Até foi uma surpresa também para o pessoal da BOA,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4709,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: BOA Digital. Foi uma surpresa também porque eles também não sabiam que não dava para implementar, porque a gente estava falando, ah, vamos botar o [EMPRESA] aqui em teste agora e vamos começar a gerar as regras e começar a consumir essas 50 mil regras que a gente tinha e começar a validar. pelo menos essas principais.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5097,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 56]: são esses dois pontos, né? Um, do [LOCAL] de tributos. Nós precisamos que vocês nos digam qual é a melhor opção, nos deem o caminho mais simples para nós. A gente conhece bem a nossa operação. A gente não conhece",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: bem a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: opera",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 48]: do [LOCAL] de tributos. Talvez a gente, olhando com um olhar muito mais superficial, a gente não entenda como eu posso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4708,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: utilizar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: aquelas regras. Então isso é uma parceria à quatro mãos. Vocês nos ajudam com boas práticas.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4998,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 19]: a gente consegue construir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: um cadastro e otimizar esse tempo e tirar, talvez, essa impressão que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4956,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: tenha dessa solução.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5169,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: gente sabe que ele vem sendo aprimorado conforme o tempo, mas é uma solução que já vinha empregada lá no [PESSOA], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: ele não é de hoje. Então, você já",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4382,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: implementou",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: há",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: alguns",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: meses, né? Você já implementou isso no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA]. Não, não, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: considerador, ele está",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: de origem... A [PESSOA] é um produto novo, né? Feito para... Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.505,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: não, escutei tudo. o [LOCAL] de tributos, ele existe há mais de três anos no [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: já é uma ferramenta consolidada no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5199,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Proteus, ele é uma ferramenta parcialmente nova, porque existem algumas regrinhas diferentes entre [EMPRESA] e Proteus, mas o [LOCAL] em si já é uma ferramenta existente, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5522,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: sim, a gente tem conhecimento para passar para vocês melhores práticas, melhores caminhos e como agilizar esses processos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ponto, [PESSOA], que eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: quero...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Desculpa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Só queria complementar. Eu não quis te perguntar, mas só queria complementar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Sim, por favor. Desculpa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3851,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: só porque estava nesse mesmo ponto, desculpa, Taline, mas estava onde estava. É que eu só queria dizer, [PESSOA], que o que eu gostaria E talvez que sejam dois e-mails separados. Aquele que eu mandei era",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4676,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: basicamente...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: E nós temos uma situação independente do [LOCAL], que se eu tirar o [LOCAL] hoje e a gente cancelar, o [LOCAL] de tributos também, do jeito que está sendo usado hoje, não está atendendo totalmente. Eu gostaria, tanto no e-mail quanto no outro, é que tu evidenciasse as dores, né, nos dois, tanto do [LOCAL] quanto do [EMPRESA], dependente do [LOCAL], por isso dois assuntos separados, né, e se tu consegue, de alguma forma, mensurar o impacto dessas dores em cada um desses cenários. A solução, e eu tenho que te passar,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tenho que desenvolver pra cima, não quero que tu ache a solução, mas eu quero ter talvez um pouco mais de detalhe assim, talvez a gente não tenha conseguido enxergar tão bem assim. Ok, nesses pontos aqui que estão sendo mais trabalhosos e tal, qual é a maior dor? No [EMPRESA] tu já deu um exemplo aí, tu falou dos 48 horas, falou dessas situações, isso aí já tá claro pra mim. Mas aí até pensando no [LOCAL] de tributos, mesmo se a gente não for continuar com o [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Quais",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: são os pontos mais críticos aqui pra eu ir atrás de solução? Seja com boas práticas, seja com alguma customização, com alguma coisa, mas que eu consiga resolver pra ti, pra que de alguma forma vocês consigam configurar isso sem levar esse tempo todo que tá levando, tá? Então, se tu puder",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: só essa avaliação e trazer isso pra mim, mas aí eu concordo contigo, a solução é o que a gente dá. Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: tá... Não, é só pra gente ficar alinhado e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: conhecimento ficar...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 5]: entendido isso, ficar claro para [PESSOA], né? Então, ok, a gente vai... [LOCUTOR 63]: mim, são dois assuntos diferentes. A gente está naquele meta tratando sobre [LOCAL], a gente gera um agora, falando de [LOCAL] de tributos, e aí a gente fala sobre boas práticas, vocês nos mostram boas práticas, olhando para o nosso segmento e olhando para o nosso produto, né? Para a estruturação que o produto...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: cenário",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: de vocês.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5098,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: O cenário",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: do produto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5695,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: estruturação que o Proteus tem aqui dentro. A gente tem um [LOCAL] de produto aqui que ele é bem específico, foi desenvolvido lá no começo do projeto, foi desenvolvido pela fábrica, então quem desenvolveu foi a TOTOS, usando melhores práticas da TOTOS.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: TOTOS,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: paga uma fração da nossa manutenção é por esse produto,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 29]: considerado um produto, a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4956,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gente não pode",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: nem compilar ele, tem chave de compilação, a solução, a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: não pode nem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: mexer naquilo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: é bem nesse ponto. A gente divide esses dois assuntos nas dois assuntos separados. Eles são assuntos concomitantes, são assuntos que se interligam, mas a gente tem que tratar de forma separada. As duas questões, concordo com isso. E essa questão do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: de tributos, vocês têm que nos passar essas boas práticas e nos ajudar com isso, nem que seja para nos tirar essa impressão de que ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5646,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: t",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: complexo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 16]: assim, olha, tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: outros",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: clientes, fazer um benchmark com outros clientes. Eu tenho conversado",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tamb",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 61]: com outros clientes. que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: alguns",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: têm as mesmas dores, outros não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: causa do tipo de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6013,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: segmento. Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: quero o teu e-mail com a dor e eu tenho que te trazer a solução.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Deixa eu dar uma sequência aqui agora, licença. [LOCAL], [PESSOA], a gente não vai tirar muito essa impressão de que ele é complexo, tá? Porque ele é bem complexo, mas a gente tem que agilizar esse processo para vocês com as melhores práticas, perfeito? Já sabemos aonde, pelo menos junto com o [PESSOA], já sei uma frente para atacar, tá? Então, dentro desse cenário, eu acredito que sim, a gente vai poder dar um direcionamento melhor para vocês. Em relação aos [PESSOA], eu queria fazer uma observação, que eu não sei se foi passado para vocês antes ou não, mas O [LOCAL], ele trabalha de forma única, tá? Então não é que ele não possa estar na base teste, só que ele não pode estar ao mesmo tempo nos dois lugares, como é o padrão TOTUS, de ter uma base homologação e uma base produção, certo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Na documentação fala que não pode migrar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Ele não pode sair de uma e ir pra outra?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4933,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Isso. Na documentação tá escrito isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tá, então isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: aí",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 66]: vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: retraspar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: ali,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tá? Porque existe sim a possibilidade de o [LOCAL] ser implantado, digamos assim, ele ser colocado na tua base teste e tu atuar com ele na tua base teste. Ele vai consumir de qualquer forma? Aquelas regras vão ser consumidas. Se tu tirar ele da tua base teste e colocar ele na tua base produção dentro do mesmo período, ele vai consumir em duplicidade, tá? Mas eu não vejo o porquê disso não acontecer. Claro que com uma organização de períodos, seria possível fazer isso dentro desse cenário. Se isso te foi passado, é obrigação minha agora te dar uma devolutiva relacionada a isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [LOCAL]. Estou tentando achar aqui a documentação. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tenho acesso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Mas eu posso te mandar na sequência. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Desculpa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Nenhuma empresa séria colocaria o [LOCAL] para rodar direto em base de produção.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5999,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tu sabe, [PESSOA], que eu tenho uma percepção igual?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4892,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Então, provavelmente, você tem outros clientes que implementaram o [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: que acharam uma solução para esse problema do [LOCAL] não rodar em base de texto. O que a gente precisa saber é como que eles fizeram para a gente ver se a gente consegue copiar. Não deveria ser tão complexo assim.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Não, não. Eu concordo. Eu concordo. E eu acredito que as fontes atuantes, neste momento, estão acabando, elas estão complicando um pouquinho mais para a gente chegar onde a gente precisa, por isso que eu acho que essa reunião, [PESSOA] foi essencial, essencial para os próximos passos, tá? Eu tinha, eu vinha acompanhando com o [PESSOA] e com o [PESSOA] a situação do [LOCAL], o [PESSOA] já tinha me relatado, nós já estávamos correndo internamente em relação ao [LOCAL], mas eu não conhecia essa dificuldade também do [LOCAL], pelo menos não de uma forma tão profunda. E eu acredito, sim, que a gente pode atuar, a gente pode entrar de uma forma diferente que não está sendo feita.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Uma pergunta direta para o [PESSOA] e para o [PESSOA]. Vocês estão fazendo reuniões de acompanhamento do projeto? Em quanto tempo?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5562,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 52]: tenho essas reuniões com o [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: da BOA. Eu tive homem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4634,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Eu, inclusive, eu conversei com o Wader hoje, tá, [PESSOA]? E a ideia é que eu participe de todas as reuniões também, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.508,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Tá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: pede",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: pro Wader que colocar nos...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Qual que é a frequência das reuniões?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Em torno de 15 dias, por aí, mais",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4961,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: ou menos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: isso. Porque,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: [LOCUTOR 59]: vezes, a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: usa uma agenda das meninas pra entrar junto e conversar. numa agenda que o pessoal está trabalhando para conversar com todo mundo junto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4929,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Quero que a gente faça uma reunião com o time do fiscal, com o time da [EMPRESA], com o time, eu não sei se da boa, ou com o [PESSOA], ou com a [PESSOA], mas eu queria que a gente fizesse uma reunião, no mínimo, com frequência quinzenal, para a gente acompanhar agora que nós estamos nesse meio",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ponto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: de virada que hoje a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5151,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: vai...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 25]: a gente vai rescindir o [LOCAL] ali, ou não, ou talvez a gente continue. E o que a [LOCAL] pode nos apoiar aqui na implementação do computador. [LOCAL]. [LOCUTOR 22]: quero uma reunião quinzenal com uma turma ali",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 60]: do Fiscal também,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 60]: traz os problemas de quem está tentando parametrizar o negócio,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: a gente poder ver se a gente consegue encontrar soluções ou não",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: para",
+      "mantida": false,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "duplicada"
+    },
+    {
+      "linha": "[LOCUTOR 60]: os problemas que a gente está tendo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 37]: ter uma parecida com a Galine, a gente precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: ter a reunião",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: a gente poder conversar mais sobre os assuntos, que eu estou achando que esse projeto está meio solto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4663,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Eu também gostaria de participar desse pedido do [EMPRESA], para ele me incluir.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5549,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: para mim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: para o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA], porque senão a gente fica um pouco perdido de como agir. É quase aquela, pode ser uma coisa meio medíocre de se falar, mas é quase aquela coisa, enquanto não tem barulho, quer dizer que está tudo calmo, sabe? Eu não quero chegar ao ponto de ter barulho. Então, nós já passamos desse ponto,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4857,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: infelizmente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 23]: que o barulho maior do cliente que contratou o serviço seis meses atrás está querendo rescindir, antes de implementar, acho que esse é o maior barulho que pode ter. Estamos no limite aqui, e a gente precisa entender qual o caminho a seguir.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL]. Ação nossa, agora, interna. [PESSOA], te agradeço se tu me colocar em cópia também nos e-mails que tu for encaminhar para o [PESSOA], porque muitas vezes ele vai por uma frente e eu vou por outra. A gente consegue trabalhar em conjunto, mas em frentes diferentes, tá? Então, eu acredito que a gente possa dar os próximos passos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: organização em breve. Em breve.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 52]: copio [PESSOA] os e-mails. Eu te",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4841,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: agradeço. Obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: eu que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 60]: agradeço.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Obrigado, pessoal. Até mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Até mais. [LOCAL],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

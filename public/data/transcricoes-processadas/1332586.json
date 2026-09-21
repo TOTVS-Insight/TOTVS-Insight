@@ -1,0 +1,967 @@
+{
+  "id_reuniao": "1332586",
+  "codt": "TFCKHB",
+  "data_reuniao": "2026-03-30 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SERVICOS",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 22]: a gente tem tempo ainda pra liberar.\n[LOCUTOR 1]: Boa tarde, [PESSOA], bem-vinda.\n[LOCUTOR 22]: Foi bacana, tudo bem?\n[LOCUTOR 1]: Tudo bem, e você?\n[LOCUTOR 22]: Bem também. Vamos lá.\n[LOCUTOR 1]: \n[LOCUTOR 4]: em ordem, já? O [PESSOA] vai entrar, [PESSOA], só nós mesmo. Eu dei um alô pra ele quando você mandou e-mail, até encaminhei o e-mail pra paralelo, comunicando que vocês, né, nos buscaram aí pra retomada de conversa e tal, e ele já tá ciente, mas acho que ele tinha uma outra agenda. Mas talvez ele entre ainda no decorrer da reunião.\n[LOCUTOR 22]: Mas vamos lá, qual que era a ideia aqui principal, né? Trouxe a Lili, que a gente tá fazendo um processo aqui dentro de tentar ter o máximo de controle possível dentro do sistema. Parar de usar o [LOCAL] do [PESSOA] para tudo e fazer realmente o controle dentro do sistema e de ir lá exportar os relatórios só para fazer análise e [PESSOA] preparar o relatório para fazer análise. E aí, naquelas conversas que a gente teve lá no passado, a parte do [EMPRESA] ficava muito interessante no sentido de controle de dívida, do fluxo de caixa, E aí eu queria ver contigo, até para ver se você consegue entrar mais ou menos no sistema para mostrar para a gente e para a gente ter garantia que a gente vai conseguir, usando o [LOCAL], fazer essa gestão que a gente precisa integrada ali com o Proteus, com a parte contábil.\n[LOCUTOR 1]: [LOCAL]. Vamos lá. A ideia é realmente essa, retomar alguns pontos específicos aqui. Aquela parte institucional, tranquilo, né, [PESSOA]? [PESSOA] \n[LOCUTOR 12]: necessário\n[LOCUTOR 1]: entrar\n[LOCUTOR 22]: já na\n[LOCUTOR 1]: navegação. Vamos lá. Deixa eu compartilhar minha tela com vocês aqui. Vamos lá. E a ideia é uma agenda interativa, tá? Se qualquer dúvida, qualquer ponderação, fique à vontade para... para me interromper sem\n[LOCUTOR 22]: problemas,\n[LOCUTOR 1]: tá?\n[LOCUTOR 22]: Então\n[LOCUTOR 1]: vamos lá. Estão vendo a tela, né?\n[LOCUTOR 22]: Bem.\n[LOCUTOR 1]: [LOCAL], então aqui... Essa é a estrutura de acesso de [EMPRESA], já a parte operacional de navegação, então integração APPS, hospedada em nuvem pela AWS, a nuvem da [EMPRESA], integração com AD aqui da [EMPRESA] para fins de acessibilidade. A solução, então, ela é multi-usuário, ela é multi-idioma, multi-empresa, multi-moeda. Então, acessando a solução, o usuário para com analytics que é o bloco aqui de entrada da solução é vinculado a ao controle tanto de fechamentos de moeda então assim [LOCAL] vai automaticamente nos bancos oficiais tá [LOCAL] vai na na [EMPRESA], o [LOCAL] vai no [LOCAL], vai na [EMPRESA], vai na [EMPRESA] para buscar fundos de investimento. Então ele tem essa sistemática de tanto trazer as informações de forma automática de moedas e indexadores quanto aplicar esses dados nos contratos que estão sob gestão de [LOCAL]. Então essa estrutura, essa tela inicial, o usuário consegue isso na fase de projeto efeito. a implementação de grupo de consolidação, de empresas. Esses filtros o usuário consegue implementar aqui para aquilo que ele precisa evoluir, por exemplo, as dívidas. E aqui, na verdade, são recortes. Isso aqui são recortes dos dashboards, que estão lá num campo específico no GSPLAN, que o usuário consegue antecipar, vamos colocar assim, trazer isso para a tela inicial para uma visualização mais imediata, logo após o seu acesso. Por exemplo, controle de dívida, controle de posição de captação de aplicação a representatividade traz esse quadro esquerdo um pouquinho mais enxuto. Só com o tipo de operação com a modalidade de operação e o percentual aquele já traz o tipo de operação o saldo devedor a data de competência e se a captação ou se é uma aplicação financeira. O mesmo para fins de gestão de caixa e tesouraria que é um outro módulo Posições aqui de saldos, de conta corrente, com filtros também que o usuário consegue inserir. Então já traz informações de conciliação bancária, concentração de pagamentos, então ele traz informações gráficas aqui também já nessa tela inicial. Essa tela bem interessante, disponibilidade de caixa, a gente sempre projeta automaticamente sete dias à frente as suas entradas e saídas projetadas, os fechamentos aqui de saldos de cada uma das datas, Isso para o usuário ter, nessa tela inicial, já aquela informação consolidada. E, já nessa tela inicial, o usuário consegue, então, exportar também. Diversas telas do gestão, o usuário consegue exportar, seja para a imagem, seja para a planilha, para ter um controle, para ter uma informação de simulação de cenário, por exemplo. E já tem essas informações disponíveis à mão. Essa tela do Analytics é comum a todos os módulos. Para avançar um pouquinho, aqui eu já estava numa agenda anterior, eu resolvi [PESSOA] fechar aqui a visualização, mas aqui é a estrutura do fluxo de caixa. Então o usuário Nessa visão, o que ele precisa em relação à disponibilidade aqui de fluxo de caixa, onde ele já se conecta com o Proteus, com contas a pagar e a receber, e se conecta com\n[LOCUTOR 22]: a\n[LOCUTOR 1]: conciliação bancária também do Proteus, já traz aqui o que foi tratado, que está realizado. Então assim, o previsto e o realizado aqui, inicialmente, depois de partir para o [LOCAL], previsto e realizado. é aquilo que já, o previsto, aquilo que já tem no Proteus, lá no [LOCAL], a pagar, a receber uma contrapartida, integração com compras também é possível implementar, uma contrapartida, uma nota fiscal, um faturamento, então ele tem essa estrutura, ele traz as informações aqui de previsto, realizado, ele já traz a consolidação de informações aqui também de realização lá no Proteus, o usuário traz aqui a informação de parâmetros. Então, para exemplo, para demonstração utilizamos indústria, mas são outros modelos que o usuário pode utilizar também. O fato é que na fase de projeto e de implantação de [LOCAL] na companhia, isso é desenhado a quatro mãos de uma forma mais estruturada. Então, o que eu quero demonstrar com isso é que o usuário, implementando aqui os dados, trazendo a faixa de datas, trazendo aqui a periodicidade e a visão que ele precisa desse fluxo, ele já consegue programar essa estrutura para ter a informação ali do seu previsto, do seu realizado, já ter isso plenamente estruturado dentro do [EMPRESA] e também com a possibilidade de orçamento de caixa, que é uma outra funcionalidade do módulo. Aqui já entra a figura do orçado. Então o usuário consegue trazer cenários futuros aqui e sempre fica logado no [LOCAL]. O nome dos dados do último usuário, bem como data e horário do seu acesso e alteração, por segurança. O usuário, então, ele tem uma estrutura em que ele consegue basicamente desenhar um cenário futuro, um projetado aqui para quantos meses à frente sejam necessários para a realidade daquele daquele nicho em que a empresa está situada, para que haja aquele comportamento de caixa diagnóstico, aquele comportamento de caixa em relação aos compromissos, às saídas, aos seus controles mais à frente, e também para fins gerenciais em termos de estratégia, em termos de comparativo, em termos de cenário em que ele está tentando gerar. Aqui acho que ficou aberto da tela anterior. da agenda anterior, deixa eu só atualizar aqui novamente, e aí a gente já vai avançando. Pessoal, dúvidas vão perguntando, tá? Tô só configurando aqui. Aproveitar que eu voltei nessa tela e aqui também eu consigo nesse filtro, são diversas possibilidades de filtro para gerar o fluxo. Eu posso ter um fluxo amplo, macro,\n[LOCUTOR 22]: de\n[LOCUTOR 1]: toda a estrutura, olhando todos os NPJs, ou eu posso ter um fluxo mais específico, por um grupo de consolidação específico, por uma empresa específica, grupo de contas, uma conta específica. [LOCAL] várias as possibilidades\n[LOCUTOR 22]: de\n[LOCUTOR 1]: filtros que eu consigo implementar quando eu vou gerar um fluxo de caixa. \n[LOCUTOR 19]: aí até, eu perguntei isso da outra\n[LOCUTOR 1]: vez, se\n[LOCUTOR 22]: a gente consegue, por exemplo, essa projeção aí para frente, subir lá um arquivo para que ele possa fazer a projeção, independente de eu ter isso já lá no Proteus.\n[LOCUTOR 1]: Consegue importar, consegue importar, exatamente. Tem uma plenídia padrão, você consegue trazer isso pronto, importa, alimenta aqui o [LOCAL] e ele também vai estar, que é essa importação aqui.\n[LOCUTOR 22]: O que eu estou entendendo aqui é que o que é previsto é o que já está lançado e orçado. Essa projeção que você me colocou falando é o que estaria nessa coluna de orçado, né?\n[LOCUTOR 1]: Exatamente. [LOCAL], ele é o orçamento de caixa. É o meu cenário de projetado aqui, de estrutura.\n[LOCUTOR 22]: Beleza.\n[LOCUTOR 1]: Enquanto ele vai carregando, eu estou em home office hoje, meu Wi-Fi está... Estou com a porta fechada aqui, então o Wi-Fi está patinando um pouquinho, mas vamos lá. já volto aqui em fluxo e em orçamento. Só para passar para vocês as outras funcionalidades do mesmo modo de tesouraria, controle de saldos da companhia, que seja por uma conexão por API com bancos ou por van bancária com bancos também, através de um diretório, gerencia, ele traz por uma estrutura dentro do módulo, no caso essa de recursos disponíveis, o controle de saldos da companhia, que vai muito Além de uma simples visualização de posições de saldo, que eu consigo filtrar aqui por estruturas ou por grupos, ou mesmo importar para uma planilha de Excel. Eu quero somente a minha posição de saldos, quero ter isso planilhado. Consegui fazer. Mas vai além disso, tem o controle também de cash pooling, o controle aqui. de transferências dentro da estrutura, então grupos de cache pooling. Eu consigo criar uma sistemática, um gerenciamento, uma programação de transferências automáticas de contas, entre contas da própria companhia, dentro do [LOCAL]. O usuário consegue, a partir do [LOCAL], comandar a que arquivos remessa de valores para que ele tenha aquilo estruturado. Por exemplo, aqui eu simulei uma conta A para uma conta B, um valor X e a gestão já me traz uma estrutura, uma projeção de saldos após aquela Transação. Salvando e continuando, essa informação é levada para o banco, através da mesma vã bancária, da API, ou manualmente pelo usuário, e o banco faz a transação no seu sistema próprio e já impacta, já sensibiliza no próprio [LOCAL]. Então é uma funcionalidade também da estrutura. E conciliação bancária? Também existe a possibilidade de conciliação bancária, vocês podem fazer no Proteus, tranquilamente, mas a conciliação bancária no dia cima também é uma funcionalidade dentro do módulo já embarcada. Então aqui, no exemplo aqui, essa da direita de caixa que trouxe lá do Proteus, lá do meu contas a pagar e a receber, informações com possibilidade de agrupamento aqui para [PESSOA] poluir tanto a visualização, aí ele traz a soma aqui ao lado. Aqui as posições que vieram do banco, extrato do banco, aquele extrato de conciliação D-1 para conciliação bancária. Então aqui ele traz a informação, por exemplo, uma tarifa bancária [PESSOA] conciliou aqui essa tarifa de TED de R$3,50, [PESSOA] conciliou. O usuário consegue conciliar manualmente e também já criar uma classificação, gerar uma classificação bancária que é uma regra de conciliação para que ele tenha nas próximas ocasiões de conciliação bancária aquela regra sendo utilizada.\n[LOCUTOR 22]: Aqui a gente só vai usar ele para ter os lançamentos que são diretos do Strata. Aquilo que eu [PESSOA] tenho contas a pagar e a receber que está no Proteus, eu vou lançar por aqui. Basicamente tarifa, débito automático.\n[LOCUTOR 1]: [PESSOA]. Os eventos de tesouraria, os eventos mais bancários, exatamente. Isso cai para manualmente ser feita a classificação bancária. Aqui gerou a estrutura de caixa, de fluxo. Então aqui, por exemplo.\n[LOCUTOR 22]: Aqui, tirando os bancos que você tem API, quais bancos que você tem API hoje? Tem que construir todas as APIs?\n[LOCUTOR 1]: API hoje, [LOCAL], [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA] [PESSOA], ainda [PESSOA], e [EMPRESA] acho que se crede, salvo engano. Mas [EMPRESA], [LOCAL], [EMPRESA] e [EMPRESA] com certeza. \n[LOCUTOR 14]: por\n[LOCUTOR 1]: API, ou caso vocês tenham vã bancária, a própria vã bancária pode ser configurada um diretório para atender as plantas, se for o\n[LOCUTOR 22]: caso. Ou então também via [EMPRESA], eu conseguiria importar [EMPRESA] direto aqui.\n[LOCUTOR 1]: O [EMPRESA] consegue importar também, exatamente. \n[LOCUTOR 15]: o que muda na prática hoje com o processo que tem dentro do Proteus? Porque hoje no Proteus os meninos já fecham banco, já concilia banco. Essa funcionalidade tem aqui também.\n[LOCUTOR 1]: Pode manter.\n[LOCUTOR 22]: O lugar ou do outro.\n[LOCUTOR 1]: Exatamente. A ideia [PESSOA] é duplicar esforço. Esse questionamento é bem comum. Ah, faço, [PESSOA]. Já estou com a rotina de fazer minha conciliação necessária no Proteus. Preciso migrar para o [LOCAL] isso num primeiro momento ou tem alguma restrição se eu [PESSOA] migrar? [PESSOA], tranquilamente, você pode manter no Proteus. [LOCAL] vai trazer informação para fins aqui de fluxo de caixa, por exemplo, ele vai trazer informação consolidada já com a conciliação do Proteus, bem tranquilo. Aqui, por exemplo, eu tenho minha estrutura aqui de fluxo, gerou fluxo semanal, as minhas datas, valores, os níveis, subníveis, Eu tenho aqui, por exemplo, uma somatória na semana de 9 a 15 do sete. Essa somatória semanal eu consigo visualizar, ela é discriminada. Então, item a item, data por data, todas as informações dos dados, conta, os dados de vencimento e realização, os dados aqui dos valores, a parte mais cadastral, o vínculo com o Proteus em relação à conta contábil, centro de custo, gerencial, nota fiscal, codificação. Então isso tudo é espelhado, aquilo que tem no proteus em plano de centro de custo de conta contábil é trazido para o [LOCAL] de forma automática. E aqui, já partindo para aquela ideia do orçado, mas deixa eu falar dos níveis primeiro aqui, entradas operacionais e saídas operacionais, entradas e saídas financeiras, outras. posições de nada de imprensa, de entrada e saída. Aqui os lançamentos a classificar, por exemplo, aqueles que você trouxe em relação aos bancos, que [PESSOA] conciliaram automaticamente, entre outros, aqueles eventos de tesouraria, por exemplo, estão aqui no a classificar. O usuário tem esse controle também através do próprio fluxo de caixa, caso seja necessário. E aqui o último nível da estrutura. Esse é o fluxo gerado automaticamente através da parametrização aqui. O que o usuário consegue fazer já na estrutura do fluxo de caixa, e aí já partindo para a ideia do orçado, é simular aqui cenários. Por exemplo, eu tenho lá minha saída operacional matéria-prima e tem um. Eu estou visualizando um mês, o fato de ser manau aqui é irrelevante. Eu estou vendo um período futuro da minha estrutura e eu [PESSOA] tenho um lançamento lá da minha saída operacional matéria-prima e tem um. Eu quero lançar isso. Eu consigo lançar manualmente, Trazer informação ali na estrutura. E eu consigo, com texto livre, também trazer uma informação dentro do GSPLAN e utilizar a estrutura do GSPLAN. E aqui eu consigo inserir tantos itens quanto sejam necessários ou quanto eu queira para aquela simulação. E eu consigo exportar isso aqui. Quero fazer uma simulação, [PESSOA] quero salvar nada no GSPLAN, quero só simular um cenário e deixar salvo aqui no meu controle, ou seja, eu vou fazer aqui\n[LOCUTOR 22]: e\n[LOCUTOR 1]: aqui já é a figura do orçado. Esse lançamento que eu coloquei manualmente na minha estrutura de simulação.\n[LOCUTOR 22]: Essa estrutura de curto de carga, eu consigo mexer nela também, né?\n[LOCUTOR 1]: Consegue, consegue também.\n[LOCUTOR 22]: E aí, assim, para ele fazer essas classificações, por exemplo, aquele produto 1, 2, isso daqui ele busca o quê? Da natureza, que eu fiz o lançamento lá no financeiro.\n[LOCUTOR 1]: Exatamente.\n[LOCUTOR 22]: É isso\n[LOCUTOR 1]: que determina.\n[LOCUTOR 22]: Então, dá pra gente montar aquela escritura que a gente tava tendo ele com ele, dá pra gente montar. Monta esse formatinho aqui dentro. [PESSOA] tem nada que [PESSOA] passe pelo Proteus, né? Porque se você fecha a bola aqui... [PESSOA]. Assim, o intermediários pode ser que [PESSOA] passe, mas o final sempre passa pelo Proteus. Aí, outra dúvida. Aqui, [LOCAL].\n[LOCUTOR 1]: \n[LOCUTOR 3]: controle das dívidas, se eu tiver o controle aqui das dívidas, eu tenho lá um valor de um dos empréstimos, eu tenho a movimentação que eu faço dele. Eu vou conseguir controlar aqui no [LOCAL] tanto o saldo inicial, a atualização dele, quanto os pagamentos para refletir ele lá no [EMPRESA] e eu gerar um título para pagar por\n[LOCUTOR 22]: ela?\n[LOCUTOR 1]: O que o [LOCAL] [PESSOA] faz no Proteus, no caso de vocês no Proteus, é controle de pagamentos, baixa de títulos, pagamentos, isso [PESSOA] é escopo de [LOCAL]. Eu até vou demonstrar\n[LOCUTOR 22]: para vocês. Controle de pagamentos de dívida.\n[LOCUTOR 1]: Ah [PESSOA], isso sim, isso ele faz, isso ele\n[LOCUTOR 22]: tem\n[LOCUTOR 1]: integração.\n[LOCUTOR 22]: Ele trata de empréstimo de um milhão, então o\n[LOCUTOR 1]: cálculo\n[LOCUTOR 22]: da atualização dessa dívida, atualizado o SELIC.\n[LOCUTOR 1]: Então o\n[LOCUTOR 22]: cálculo dessa atualização, estou entendendo que ele vai estar aqui dentro do [LOCAL].\n[LOCUTOR 1]: \n[LOCUTOR 19]: aqui eu vou ter lá a regra, por exemplo, que todo mês eu pago os juros daquele contrato. [PESSOA] l\n[LOCUTOR 11]: 1,7 de juros e vou pagar aquele valor de juros. Esse pagamento eu vou refletir ele como um título de contas a pagar lá no financeiro, vou baixar ele, vou conciliar banco lá e eu vou ter o meu saldo atualizado da dívida aqui.\n[LOCUTOR 1]: Sim, isso sim. Você vai atualizar. Por exemplo, aqui, o que\n[LOCUTOR 22]: você está...\n[LOCUTOR 1]: A gente já ilustra. Pode falar.\n[LOCUTOR 22]: E dentro aqui da minha visão do fluxo de caixa, lá no meu bloco, basicamente, eu tenho o fluxo de caixa operacional e investimento financeiro. Lá dentro da minha estrutura de financeiro, eu conseguiria ter destacado, olha, esse pagamento é deste\n[LOCUTOR 1]: contrato\n[LOCUTOR 22]: aqui.\n[LOCUTOR 1]: Sim, sim. Isso é possível conciliar. O que você está mencionando é isso aqui. É a parametrização contábil dentro do [EMPRESA]. Por exemplo, aqui. Aqui vale para... de operações financeiras e também arrendamentos. Então, para falar de operações financeiras. Por exemplo, vou dar um exemplo de uma aplicação, mas a regra\n[LOCUTOR 22]: para\n[LOCUTOR 1]: a dívida é a mesma. Aqui, vou entrar aqui nessa...\n[LOCUTOR 22]: E esse módulo também está 100% integrado lá com o meu módulo de contábil fiscal...\n[LOCUTOR 1]: Sim, sim.\n[LOCUTOR 22]: Sim,\n[LOCUTOR 1]: por exemplo aqui, é uma parametrização de aplicação financeira. Especificamente, CDB, CDB posso fixar em cotas. Eu estou especificando, eu criei um padrão aqui que os usar a [EMPRESA], eu quero que a [LOCAL] mande, referente a CDBs, mande isso aqui lá para a minha contabilidade no Proteus. [LOCAL], foi um exemplo básico. Ah, eu quero mandar mais, além do que está ali, eu quero mandar também outros itens aqui, dentre esses disponíveis. Eu posso selecionar qualquer um deles. Todos os eventos contábeis, a [LOCAL] calcula. Quem determina qual informação vai para o [EMPRESA], para o Proteus, no caso, é o usuário. E aqui tudo dá para aprofundar um pouquinho. Por exemplo resgate líquido é um evento contábil resgate líquido. Tudo é parametrizado. Lembra aquilo que eu falei que o plano está tudo espelhado o que tem no proteus está espelhado no [LOCAL]. É isso aqui. Então qual é a conta de débito. Conta contábil de crédito de crédito centro de custos de crédito. Conta transitória se houver. Tem rateio estorno.\n[LOCUTOR 22]: E aí, se for pagamento, eu gero um título no [LOCAL] a Receber. Se for contabilização de juros, eu vou reconhecer a despesa financeira lá no contábil.\n[LOCUTOR 1]: Isso.\n[LOCUTOR 22]: E se for pagamento de principal, ele também vai reconhecer. Vou colocar aqui a minha regra para ele deduzir lá o meu valor de principal e, consequentemente, deduzir do meu cálculo também.\n[LOCUTOR 1]: É isso aí. Tudo que estiver parametrizado aqui no [LOCAL], de evento contábil, ele vai mandar lá para o teu Proteus, no destinatário específico, dentro da contabilidade. Além do controle, aqui já entrando nessa parte de operações financeiras, então além da automatização aqui do controle das minhas dívidas, aqui das minhas aplicações financeiras, dos meus investimentos, Aí, se tiver também mútuos, derivativos, isso tudo é controlado por [LOCAL].\n[LOCUTOR 22]: E lá no controle, lá no contrato, eu vou conseguir separar cada um dos contratos e colocar minha regra de atualização para cada um dos contratos? Consegue? Qualquer. A\n[LOCUTOR 1]: dinâmica de parametrização você determina, se você\n[LOCUTOR 22]: quiser\n[LOCUTOR 1]: criar isso de uma forma específica para cada grupo de contrato. Isso o [EMPRESA] também permite, porque é possível criar os grupos aqui também. Um grupo de contrato, um grupo gerencial, então ele consegue estabelecer diversas possibilidades de filtros. Ent\n[LOCUTOR 17]: aqui\n[LOCUTOR 1]: basicamente ele vai automatizar esse fluxo de controle dessas operações financeiras, vai buscar no mercado automaticamente nas fontes oficiais os dados, indexadores, moeda, fechamentos, vai trazer, vai atualizar aqui e com a parametrização contábil ele vai devolver para o Proteus, para a contabilidade financeiros os parâmetros aqui determinados. Aqui eu coloquei o orçado. Lembra que tinha só a semana? O orçado traz esta coluna de comparativa e diferença. Esse\n[LOCUTOR 22]: é\n[LOCUTOR 1]: o previsto e realizado, aqui é o meu orçado. \n[LOCUTOR 8]: aponta\n[LOCUTOR 1]: a diferença em valor, ele aponta a diferença em percentual, seja positiva ou negativa, ele vai apontar. E aqui consigo exportar o meu controle para um estudo, para uma análise, e isso fica salvo também dentro da biblioteca do próprio gestor. Então, além da automatização do fluxo de caixa, ele também já entra num campo mais gerencial de gestão de cenários, para tomada de decisão, para capital de giro, para uma situação específica, uma projeção específica, então ele é bem é importante nesse ponto também. Além, eu passei aqui, basicamente, pelas questões mais operacionais e funcionais da solução, mas também é importante mencionar o MyBook, que são os relatórios de gestão para todos os módulos. Então, os seus relatórios, por exemplo, controle aqui em relação a investimentos, meus controles de aplicações e resgates, por exemplo, para a gente trazer exemplos de relatórios. Com gráficos, com grids, trazendo a nível de contrato, de tipo de operação, contratos. O meu controle também aqui das minhas dívidas com derivativos vinculados, consigo trazer aqui também.\n[LOCUTOR 22]: Fluxo\n[LOCUTOR 1]: de pagamento de parcelas, como é que está o comportamento, a projeção dos meus fluxos para os próximos 30 dias. Eu consigo filtrar aqui por banco, por estrutura. É possível ter isso sempre à mão, parametrizado. Gráficos aqui para análise, por exemplo, que também são derivativos. Mas aqui gráficos, por exemplo, no meu controle de [PESSOA]. como é que está o comportamento, a distribuição de valores dos títulos [PESSOA] vencidos a receber e a pagar por faixa de dias, percentual, valor, nadimplência, liquidez. Então ele vai... A ideia qual é? Ele vai... Todos os dados e informações que estão no [EMPRESA], o usuário consegue traduzir isso na forma de relatórios. Veja, esse aqui é um módulo de [LOCAL] que é para controle de covenants, de cláusulas contratuais.\n[LOCUTOR 22]: Então\n[LOCUTOR 1]: veja, o próprio O relatório já traz o teor da cláusula integral, comportamento de vencimentos, compromissos. É só para demonstrar que realmente, graficos, é para demonstrar que realmente, por mais simples operacionalmente que seja o módulo, a parte gerencial, através dos dados extraídos, ela é bem relevante aqui para essa utilização. \n[LOCUTOR 10]: a minha resposta.\n[LOCUTOR 1]: Está recapitulado?\n[LOCUTOR 22]: Para a\n[LOCUTOR 1]: [PESSOA], é um pouco de novidade.\n[LOCUTOR 22]: [PESSOA], é que agora a gente tem a missão de defender o projeto aqui internamente. A gente\n[LOCUTOR 1]: tem\n[LOCUTOR 22]: que mostrar um pouco a necessidade, o que está sendo feito aqui para a gente de controle, de análise, versus o custo. E me diz uma coisa, [PESSOA], falando em custo, como que funciona o custo? A gente tem plantação, tem plantação e setup e é só... licenciamento?\n[LOCUTOR 1]: Vamos fazer o seguinte, é interessante a gente recapitular, né, [PESSOA]? Eu mando e-mail para vocês agora após a agenda padrão, para quê? Para levantar a volumetria atualizada de vocês, aí eu discrimino ali no corpo do\n[LOCUTOR 22]: e-mail o\n[LOCUTOR 1]: que \n[LOCUTOR 12]: operações\n[LOCUTOR 1]: financeiras, o que é gest\n[LOCUTOR 17]: de\n[LOCUTOR 1]: caixa, né?\n[LOCUTOR 22]: Sim.\n[LOCUTOR 1]: A proposta comercial também discrimina os módulos, até porque as implantações e a própria contratação [PESSOA] precisam seguir simultaneamente, então é tranquilo nesse ponto também. E aí eu devolvo já para vocês uma visão de investimento, para vocês terem isso e levar também para\n[LOCUTOR 22]: a\n[LOCUTOR 1]: diretoria.\n[LOCUTOR 22]: Qual que é a previsão de implantação? Quanto tempo a gente precisa? Principalmente, qual que é o esforço que a gente tem que ter do nosso\n[LOCUTOR 1]: lado aqui? Isso geralmente na fase de apresentação da proposta comercial, eu desenho para vocês ali no slide e o material também eu mando na sequência depois de apresentar os valores, tá? Mas o que determina a celeridade é uma faixa de 90 a 120 dias. Só que assim, o que determina a celeridade é justamente naquele fluxo de implantação, naquelas atividades ali concatenadas, é a transição de uma para outra, é a sazonalidade, é o período do ano, como você falou agora, a disponibilidade também de esforço aí do time de [EMPRESA], de vocês para isso. Isso é mais ajustado assim, já na fase de projeto, até na prévia, antes do início da implantação, no arm-up, a gente desenha isso de uma forma mais estruturada. Mas o que determina a celeridade, a gente fala de 90, 120 anos, mas tem projeto que termina antes, por exemplo. Isso é bem comum.\n[LOCUTOR 22]: Mas me diz, além do time da [EMPRESA], o que você precisa do time de negócio aqui? Qual que é o esforço?\n[LOCUTOR 1]: Geralmente fica um ponto focal do financeiro para\n[LOCUTOR 22]: o\n[LOCUTOR 1]: módulo, geralmente um para cada módulo, se for o caso, mas também pode ser um para os dois, se vocês preferirem também.\n[LOCUTOR 22]: Desculpa, mas o que a gente está chamando de separando [LOCAL] dois\n[LOCUTOR 1]: módulos, né? O controle de dívidas ali, vamos lá, operações financeiras é um módulo que se destina a controle de aplicações de operações financeiras no sentido de contratos. Então, aplicações, captações, derivativos, mútuos, fianças. Esse é um módulo específico, que é esse que automatiza o controle, as moedas e devolve lá a informação para o Proteus.\n[LOCUTOR 22]: E\n[LOCUTOR 1]: o outro módulo é o gestão de caixa e tesouraria, que é esse, do fluxo de caixa, do projetado de caixa, recursos disponíveis e da conciliação bancária. Eles são apartados operacionalmente e também contratualmente. Então, como próximo passo, a ideia é realmente atualizar, só para documentar, por mais que [PESSOA] tenha mudado, eu disparo o e-mail para vocês na\n[LOCUTOR 22]: sequência, vocês me\n[LOCUTOR 1]: devolvem com a volumetria atualizada de usuários, de empresas, de movimentação, dos dados que estão ali, que são meio objetivos, e aí eu já consigo precificar isso para vocês e devolver com uma visão de investimento para que vocês, internamente, evoluam e também nos apresentem uma devolutiva\n[LOCUTOR 22]: nos próximos\n[LOCUTOR 1]: dias.\n[LOCUTOR 22]: E mais alguma coisa que tinha preocupação de que [PESSOA] atendia? Até aquilo que a gente\n[LOCUTOR 1]: ouviu falando\n[LOCUTOR 22]: até das últimas agendas com o [PESSOA]. Então, mas dentro do que tem financeiro, que a gente tem parte de controle ali, ele atende. É isso. É isso que precisa.\n[LOCUTOR 1]: Vocês têm algum tipo de operação financeira que seja mais, assim, fora do padrão? Se bem que gestão vai atender tudo.\n[LOCUTOR 22]: Por exemplo, se eu lançar uma dívida entre os [EMPRESA] das empresas, ele vai controlar ali como se fosse uma\n[LOCUTOR 1]: dívida.\n[LOCUTOR 22]: É\n[LOCUTOR 1]: mútuo, ele controla. Ele tem um template específico. \n[LOCUTOR 7]: vou colocar lá se tem juros, se [PESSOA] tem juros. Eu vou tratar ele como um contrato normal, [PESSOA] tenho nenhuma diferenciação.\n[LOCUTOR 1]: Sim, é parametrizável também, bem tranquilo. Importante, falando em implantação, na implantação existe uma etapa, uma fase, que é a capacitação dos usuários, então a parte para deixar o usuário pronto para pilotar a [LOCAL], pelo menos de uma forma inicial, tem fechamento assistido, onde o time acompanha o fechamento de vocês inicial, para depois liberar o go live, então para a produção também é detalhado esse fluxo de implantação.\n[LOCUTOR 22]: Ótimo. [LOCAL].\n[LOCUTOR 1]: É isso gente.\n[LOCUTOR 22]: É isso. Então manda por favor.\n[LOCUTOR 1]: Manda na sequência para vocês\n[LOCUTOR 22]: e\n[LOCUTOR 1]: a gente vai mantendo o contato. Dúvidas que surgirem também depois do e-mail depois da agenda que podem me pontuar sem problemas.\n[LOCUTOR 22]: Vamos\n[LOCUTOR 1]: conversar.\n[LOCUTOR 22]: [LOCAL].\n[LOCUTOR 1]: Obrigado. [PESSOA].\n[LOCUTOR 22]: [LOCAL].\n[LOCUTOR 1]: Até mais.\n[LOCUTOR 22]: [LOCAL]. Boa\n[LOCUTOR 1]: semana. [PESSOA].",
+  "texto_filtrado": "[LOCUTOR 22]: a gente tem tempo ainda pra liberar.\n[LOCUTOR 4]: em ordem, já? O [PESSOA] vai entrar, [PESSOA], só nós mesmo. Eu dei um alô pra ele quando você mandou e-mail, até encaminhei o e-mail pra paralelo, comunicando que vocês, né, nos buscaram aí pra retomada de conversa e tal, e ele já tá ciente, mas acho que ele tinha uma outra agenda. Mas talvez ele entre ainda no decorrer da reunião.\n[LOCUTOR 22]: Mas vamos lá, qual que era a ideia aqui principal, né? Trouxe a Lili, que a gente tá fazendo um processo aqui dentro de tentar ter o máximo de controle possível dentro do sistema. Parar de usar o [LOCAL] do [PESSOA] para tudo e fazer realmente o controle dentro do sistema e de ir lá exportar os relatórios só para fazer análise e [PESSOA] preparar o relatório para fazer análise. E aí, naquelas conversas que a gente teve lá no passado, a parte do [EMPRESA] ficava muito interessante no sentido de controle de dívida, do fluxo de caixa, E aí eu queria ver contigo, até para ver se você consegue entrar mais ou menos no sistema para mostrar para a gente e para a gente ter garantia que a gente vai conseguir, usando o [LOCAL], fazer essa gestão que a gente precisa integrada ali com o Proteus, com a parte contábil.\n[LOCUTOR 1]: [LOCAL]. Vamos lá. A ideia é realmente essa, retomar alguns pontos específicos aqui. Aquela parte institucional, tranquilo, né, [PESSOA]? [PESSOA]\n[LOCUTOR 12]: necessário\n[LOCUTOR 1]: entrar\n[LOCUTOR 22]: já na\n[LOCUTOR 1]: navegação. Vamos lá. Deixa eu compartilhar minha tela com vocês aqui. Vamos lá. E a ideia é uma agenda interativa, tá? Se qualquer dúvida, qualquer ponderação, fique à vontade para... para me interromper sem\n[LOCUTOR 22]: problemas,\n[LOCUTOR 22]: Então\n[LOCUTOR 1]: [LOCAL], então aqui... Essa é a estrutura de acesso de [EMPRESA], já a parte operacional de navegação, então integração APPS, hospedada em nuvem pela AWS, a nuvem da [EMPRESA], integração com AD aqui da [EMPRESA] para fins de acessibilidade. A solução, então, ela é multi-usuário, ela é multi-idioma, multi-empresa, multi-moeda. Então, acessando a solução, o usuário para com analytics que é o bloco aqui de entrada da solução é vinculado a ao controle tanto de fechamentos de moeda então assim [LOCAL] vai automaticamente nos bancos oficiais tá [LOCAL] vai na na [EMPRESA], o [LOCAL] vai no [LOCAL], vai na [EMPRESA], vai na [EMPRESA] para buscar fundos de investimento. Então ele tem essa sistemática de tanto trazer as informações de forma automática de moedas e indexadores quanto aplicar esses dados nos contratos que estão sob gestão de [LOCAL]. Então essa estrutura, essa tela inicial, o usuário consegue isso na fase de projeto efeito. a implementação de grupo de consolidação, de empresas. Esses filtros o usuário consegue implementar aqui para aquilo que ele precisa evoluir, por exemplo, as dívidas. E aqui, na verdade, são recortes. Isso aqui são recortes dos dashboards, que estão lá num campo específico no GSPLAN, que o usuário consegue antecipar, vamos colocar assim, trazer isso para a tela inicial para uma visualização mais imediata, logo após o seu acesso. Por exemplo, controle de dívida, controle de posição de captação de aplicação a representatividade traz esse quadro esquerdo um pouquinho mais enxuto. Só com o tipo de operação com a modalidade de operação e o percentual aquele já traz o tipo de operação o saldo devedor a data de competência e se a captação ou se é uma aplicação financeira. O mesmo para fins de gestão de caixa e tesouraria que é um outro módulo Posições aqui de saldos, de conta corrente, com filtros também que o usuário consegue inserir. Então já traz informações de conciliação bancária, concentração de pagamentos, então ele traz informações gráficas aqui também já nessa tela inicial. Essa tela bem interessante, disponibilidade de caixa, a gente sempre projeta automaticamente sete dias à frente as suas entradas e saídas projetadas, os fechamentos aqui de saldos de cada uma das datas, Isso para o usuário ter, nessa tela inicial, já aquela informação consolidada. E, já nessa tela inicial, o usuário consegue, então, exportar também. Diversas telas do gestão, o usuário consegue exportar, seja para a imagem, seja para a planilha, para ter um controle, para ter uma informação de simulação de cenário, por exemplo. E já tem essas informações disponíveis à mão. Essa tela do Analytics é comum a todos os módulos. Para avançar um pouquinho, aqui eu já estava numa agenda anterior, eu resolvi [PESSOA] fechar aqui a visualização, mas aqui é a estrutura do fluxo de caixa. Então o usuário Nessa visão, o que ele precisa em relação à disponibilidade aqui de fluxo de caixa, onde ele já se conecta com o Proteus, com contas a pagar e a receber, e se conecta com\n[LOCUTOR 1]: conciliação bancária também do Proteus, já traz aqui o que foi tratado, que está realizado. Então assim, o previsto e o realizado aqui, inicialmente, depois de partir para o [LOCAL], previsto e realizado. é aquilo que já, o previsto, aquilo que já tem no Proteus, lá no [LOCAL], a pagar, a receber uma contrapartida, integração com compras também é possível implementar, uma contrapartida, uma nota fiscal, um faturamento, então ele tem essa estrutura, ele traz as informações aqui de previsto, realizado, ele já traz a consolidação de informações aqui também de realização lá no Proteus, o usuário traz aqui a informação de parâmetros. Então, para exemplo, para demonstração utilizamos indústria, mas são outros modelos que o usuário pode utilizar também. O fato é que na fase de projeto e de implantação de [LOCAL] na companhia, isso é desenhado a quatro mãos de uma forma mais estruturada. Então, o que eu quero demonstrar com isso é que o usuário, implementando aqui os dados, trazendo a faixa de datas, trazendo aqui a periodicidade e a visão que ele precisa desse fluxo, ele já consegue programar essa estrutura para ter a informação ali do seu previsto, do seu realizado, já ter isso plenamente estruturado dentro do [EMPRESA] e também com a possibilidade de orçamento de caixa, que é uma outra funcionalidade do módulo. Aqui já entra a figura do orçado. Então o usuário consegue trazer cenários futuros aqui e sempre fica logado no [LOCAL]. O nome dos dados do último usuário, bem como data e horário do seu acesso e alteração, por segurança. O usuário, então, ele tem uma estrutura em que ele consegue basicamente desenhar um cenário futuro, um projetado aqui para quantos meses à frente sejam necessários para a realidade daquele daquele nicho em que a empresa está situada, para que haja aquele comportamento de caixa diagnóstico, aquele comportamento de caixa em relação aos compromissos, às saídas, aos seus controles mais à frente, e também para fins gerenciais em termos de estratégia, em termos de comparativo, em termos de cenário em que ele está tentando gerar. Aqui acho que ficou aberto da tela anterior. da agenda anterior, deixa eu só atualizar aqui novamente, e aí a gente já vai avançando. Pessoal, dúvidas vão perguntando, tá? Tô só configurando aqui. Aproveitar que eu voltei nessa tela e aqui também eu consigo nesse filtro, são diversas possibilidades de filtro para gerar o fluxo. Eu posso ter um fluxo amplo, macro,\n[LOCUTOR 1]: toda a estrutura, olhando todos os NPJs, ou eu posso ter um fluxo mais específico, por um grupo de consolidação específico, por uma empresa específica, grupo de contas, uma conta específica. [LOCAL] várias as possibilidades\n[LOCUTOR 1]: filtros que eu consigo implementar quando eu vou gerar um fluxo de caixa.\n[LOCUTOR 1]: vez, se\n[LOCUTOR 22]: a gente consegue, por exemplo, essa projeção aí para frente, subir lá um arquivo para que ele possa fazer a projeção, independente de eu ter isso já lá no Proteus.\n[LOCUTOR 1]: Consegue importar, consegue importar, exatamente. Tem uma plenídia padrão, você consegue trazer isso pronto, importa, alimenta aqui o [LOCAL] e ele também vai estar, que é essa importação aqui.\n[LOCUTOR 22]: O que eu estou entendendo aqui é que o que é previsto é o que já está lançado e orçado. Essa projeção que você me colocou falando é o que estaria nessa coluna de orçado, né?\n[LOCUTOR 1]: Exatamente. [LOCAL], ele é o orçamento de caixa. É o meu cenário de projetado aqui, de estrutura.\n[LOCUTOR 1]: Enquanto ele vai carregando, eu estou em home office hoje, meu Wi-Fi está... Estou com a porta fechada aqui, então o Wi-Fi está patinando um pouquinho, mas vamos lá. já volto aqui em fluxo e em orçamento. Só para passar para vocês as outras funcionalidades do mesmo modo de tesouraria, controle de saldos da companhia, que seja por uma conexão por API com bancos ou por van bancária com bancos também, através de um diretório, gerencia, ele traz por uma estrutura dentro do módulo, no caso essa de recursos disponíveis, o controle de saldos da companhia, que vai muito Além de uma simples visualização de posições de saldo, que eu consigo filtrar aqui por estruturas ou por grupos, ou mesmo importar para uma planilha de Excel. Eu quero somente a minha posição de saldos, quero ter isso planilhado. Consegui fazer. Mas vai além disso, tem o controle também de cash pooling, o controle aqui. de transferências dentro da estrutura, então grupos de cache pooling. Eu consigo criar uma sistemática, um gerenciamento, uma programação de transferências automáticas de contas, entre contas da própria companhia, dentro do [LOCAL]. O usuário consegue, a partir do [LOCAL], comandar a que arquivos remessa de valores para que ele tenha aquilo estruturado. Por exemplo, aqui eu simulei uma conta A para uma conta B, um valor X e a gestão já me traz uma estrutura, uma projeção de saldos após aquela Transação. Salvando e continuando, essa informação é levada para o banco, através da mesma vã bancária, da API, ou manualmente pelo usuário, e o banco faz a transação no seu sistema próprio e já impacta, já sensibiliza no próprio [LOCAL]. Então é uma funcionalidade também da estrutura. E conciliação bancária? Também existe a possibilidade de conciliação bancária, vocês podem fazer no Proteus, tranquilamente, mas a conciliação bancária no dia cima também é uma funcionalidade dentro do módulo já embarcada. Então aqui, no exemplo aqui, essa da direita de caixa que trouxe lá do Proteus, lá do meu contas a pagar e a receber, informações com possibilidade de agrupamento aqui para [PESSOA] poluir tanto a visualização, aí ele traz a soma aqui ao lado. Aqui as posições que vieram do banco, extrato do banco, aquele extrato de conciliação D-1 para conciliação bancária. Então aqui ele traz a informação, por exemplo, uma tarifa bancária [PESSOA] conciliou aqui essa tarifa de TED de R$3,50, [PESSOA] conciliou. O usuário consegue conciliar manualmente e também já criar uma classificação, gerar uma classificação bancária que é uma regra de conciliação para que ele tenha nas próximas ocasiões de conciliação bancária aquela regra sendo utilizada.\n[LOCUTOR 22]: Aqui a gente só vai usar ele para ter os lançamentos que são diretos do Strata. Aquilo que eu [PESSOA] tenho contas a pagar e a receber que está no Proteus, eu vou lançar por aqui. Basicamente tarifa, débito automático.\n[LOCUTOR 1]: [PESSOA]. Os eventos de tesouraria, os eventos mais bancários, exatamente. Isso cai para manualmente ser feita a classificação bancária. Aqui gerou a estrutura de caixa, de fluxo. Então aqui, por exemplo.\n[LOCUTOR 22]: Aqui, tirando os bancos que você tem API, quais bancos que você tem API hoje? Tem que construir todas as APIs?\n[LOCUTOR 1]: API hoje, [LOCAL], [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA] [PESSOA], ainda [PESSOA], e [EMPRESA] acho que se crede, salvo engano. Mas [EMPRESA], [LOCAL], [EMPRESA] e [EMPRESA] com certeza.\n[LOCUTOR 1]: API, ou caso vocês tenham vã bancária, a própria vã bancária pode ser configurada um diretório para atender as plantas, se for o\n[LOCUTOR 22]: caso. Ou então também via [EMPRESA], eu conseguiria importar [EMPRESA] direto aqui.\n[LOCUTOR 1]: O [EMPRESA] consegue importar também, exatamente.\n[LOCUTOR 15]: o que muda na prática hoje com o processo que tem dentro do Proteus? Porque hoje no Proteus os meninos já fecham banco, já concilia banco. Essa funcionalidade tem aqui também.\n[LOCUTOR 1]: Pode manter.\n[LOCUTOR 22]: O lugar ou do outro.\n[LOCUTOR 1]: Exatamente. A ideia [PESSOA] é duplicar esforço. Esse questionamento é bem comum. Ah, faço, [PESSOA]. Já estou com a rotina de fazer minha conciliação necessária no Proteus. Preciso migrar para o [LOCAL] isso num primeiro momento ou tem alguma restrição se eu [PESSOA] migrar? [PESSOA], tranquilamente, você pode manter no Proteus. [LOCAL] vai trazer informação para fins aqui de fluxo de caixa, por exemplo, ele vai trazer informação consolidada já com a conciliação do Proteus, bem tranquilo. Aqui, por exemplo, eu tenho minha estrutura aqui de fluxo, gerou fluxo semanal, as minhas datas, valores, os níveis, subníveis, Eu tenho aqui, por exemplo, uma somatória na semana de 9 a 15 do sete. Essa somatória semanal eu consigo visualizar, ela é discriminada. Então, item a item, data por data, todas as informações dos dados, conta, os dados de vencimento e realização, os dados aqui dos valores, a parte mais cadastral, o vínculo com o Proteus em relação à conta contábil, centro de custo, gerencial, nota fiscal, codificação. Então isso tudo é espelhado, aquilo que tem no proteus em plano de centro de custo de conta contábil é trazido para o [LOCAL] de forma automática. E aqui, já partindo para aquela ideia do orçado, mas deixa eu falar dos níveis primeiro aqui, entradas operacionais e saídas operacionais, entradas e saídas financeiras, outras. posições de nada de imprensa, de entrada e saída. Aqui os lançamentos a classificar, por exemplo, aqueles que você trouxe em relação aos bancos, que [PESSOA] conciliaram automaticamente, entre outros, aqueles eventos de tesouraria, por exemplo, estão aqui no a classificar. O usuário tem esse controle também através do próprio fluxo de caixa, caso seja necessário. E aqui o último nível da estrutura. Esse é o fluxo gerado automaticamente através da parametrização aqui. O que o usuário consegue fazer já na estrutura do fluxo de caixa, e aí já partindo para a ideia do orçado, é simular aqui cenários. Por exemplo, eu tenho lá minha saída operacional matéria-prima e tem um. Eu estou visualizando um mês, o fato de ser manau aqui é irrelevante. Eu estou vendo um período futuro da minha estrutura e eu [PESSOA] tenho um lançamento lá da minha saída operacional matéria-prima e tem um. Eu quero lançar isso. Eu consigo lançar manualmente, Trazer informação ali na estrutura. E eu consigo, com texto livre, também trazer uma informação dentro do GSPLAN e utilizar a estrutura do GSPLAN. E aqui eu consigo inserir tantos itens quanto sejam necessários ou quanto eu queira para aquela simulação. E eu consigo exportar isso aqui. Quero fazer uma simulação, [PESSOA] quero salvar nada no GSPLAN, quero só simular um cenário e deixar salvo aqui no meu controle, ou seja, eu vou fazer aqui\n[LOCUTOR 1]: aqui já é a figura do orçado. Esse lançamento que eu coloquei manualmente na minha estrutura de simulação.\n[LOCUTOR 22]: Essa estrutura de curto de carga, eu consigo mexer nela também, né?\n[LOCUTOR 1]: Consegue, consegue também.\n[LOCUTOR 22]: E aí, assim, para ele fazer essas classificações, por exemplo, aquele produto 1, 2, isso daqui ele busca o quê? Da natureza, que eu fiz o lançamento lá no financeiro.\n[LOCUTOR 1]: Exatamente.\n[LOCUTOR 22]: É isso\n[LOCUTOR 1]: que determina.\n[LOCUTOR 22]: Então, dá pra gente montar aquela escritura que a gente tava tendo ele com ele, dá pra gente montar. Monta esse formatinho aqui dentro. [PESSOA] tem nada que [PESSOA] passe pelo Proteus, né? Porque se você fecha a bola aqui... [PESSOA]. Assim, o intermediários pode ser que [PESSOA] passe, mas o final sempre passa pelo Proteus. Aí, outra dúvida. Aqui, [LOCAL].\n[LOCUTOR 3]: controle das dívidas, se eu tiver o controle aqui das dívidas, eu tenho lá um valor de um dos empréstimos, eu tenho a movimentação que eu faço dele. Eu vou conseguir controlar aqui no [LOCAL] tanto o saldo inicial, a atualização dele, quanto os pagamentos para refletir ele lá no [EMPRESA] e eu gerar um título para pagar por\n[LOCUTOR 1]: O que o [LOCAL] [PESSOA] faz no Proteus, no caso de vocês no Proteus, é controle de pagamentos, baixa de títulos, pagamentos, isso [PESSOA] é escopo de [LOCAL]. Eu até vou demonstrar\n[LOCUTOR 22]: para vocês. Controle de pagamentos de dívida.\n[LOCUTOR 1]: integração.\n[LOCUTOR 22]: Ele trata de empréstimo de um milhão, então o\n[LOCUTOR 1]: cálculo\n[LOCUTOR 22]: da atualização dessa dívida, atualizado o SELIC.\n[LOCUTOR 1]: Então o\n[LOCUTOR 22]: cálculo dessa atualização, estou entendendo que ele vai estar aqui dentro do [LOCAL].\n[LOCUTOR 19]: aqui eu vou ter lá a regra, por exemplo, que todo mês eu pago os juros daquele contrato. [PESSOA] l\n[LOCUTOR 11]: 1,7 de juros e vou pagar aquele valor de juros. Esse pagamento eu vou refletir ele como um título de contas a pagar lá no financeiro, vou baixar ele, vou conciliar banco lá e eu vou ter o meu saldo atualizado da dívida aqui.\n[LOCUTOR 1]: A gente já ilustra. Pode falar.\n[LOCUTOR 22]: E dentro aqui da minha visão do fluxo de caixa, lá no meu bloco, basicamente, eu tenho o fluxo de caixa operacional e investimento financeiro. Lá dentro da minha estrutura de financeiro, eu conseguiria ter destacado, olha, esse pagamento é deste\n[LOCUTOR 1]: contrato\n[LOCUTOR 22]: aqui.\n[LOCUTOR 1]: Sim, sim. Isso é possível conciliar. O que você está mencionando é isso aqui. É a parametrização contábil dentro do [EMPRESA]. Por exemplo, aqui. Aqui vale para... de operações financeiras e também arrendamentos. Então, para falar de operações financeiras. Por exemplo, vou dar um exemplo de uma aplicação, mas a regra\n[LOCUTOR 22]: para\n[LOCUTOR 22]: E esse módulo também está 100% integrado lá com o meu módulo de contábil fiscal...\n[LOCUTOR 1]: por exemplo aqui, é uma parametrização de aplicação financeira. Especificamente, CDB, CDB posso fixar em cotas. Eu estou especificando, eu criei um padrão aqui que os usar a [EMPRESA], eu quero que a [LOCAL] mande, referente a CDBs, mande isso aqui lá para a minha contabilidade no Proteus. [LOCAL], foi um exemplo básico. Ah, eu quero mandar mais, além do que está ali, eu quero mandar também outros itens aqui, dentre esses disponíveis. Eu posso selecionar qualquer um deles. Todos os eventos contábeis, a [LOCAL] calcula. Quem determina qual informação vai para o [EMPRESA], para o Proteus, no caso, é o usuário. E aqui tudo dá para aprofundar um pouquinho. Por exemplo resgate líquido é um evento contábil resgate líquido. Tudo é parametrizado. Lembra aquilo que eu falei que o plano está tudo espelhado o que tem no proteus está espelhado no [LOCAL]. É isso aqui. Então qual é a conta de débito. Conta contábil de crédito de crédito centro de custos de crédito. Conta transitória se houver. Tem rateio estorno.\n[LOCUTOR 22]: E aí, se for pagamento, eu gero um título no [LOCAL] a Receber. Se for contabilização de juros, eu vou reconhecer a despesa financeira lá no contábil.\n[LOCUTOR 1]: Isso.\n[LOCUTOR 22]: E se for pagamento de principal, ele também vai reconhecer. Vou colocar aqui a minha regra para ele deduzir lá o meu valor de principal e, consequentemente, deduzir do meu cálculo também.\n[LOCUTOR 1]: É isso aí. Tudo que estiver parametrizado aqui no [LOCAL], de evento contábil, ele vai mandar lá para o teu Proteus, no destinatário específico, dentro da contabilidade. Além do controle, aqui já entrando nessa parte de operações financeiras, então além da automatização aqui do controle das minhas dívidas, aqui das minhas aplicações financeiras, dos meus investimentos, Aí, se tiver também mútuos, derivativos, isso tudo é controlado por [LOCAL].\n[LOCUTOR 22]: E lá no controle, lá no contrato, eu vou conseguir separar cada um dos contratos e colocar minha regra de atualização para cada um dos contratos? Consegue? Qualquer. A\n[LOCUTOR 1]: dinâmica de parametrização você determina, se você\n[LOCUTOR 22]: quiser\n[LOCUTOR 1]: criar isso de uma forma específica para cada grupo de contrato. Isso o [EMPRESA] também permite, porque é possível criar os grupos aqui também. Um grupo de contrato, um grupo gerencial, então ele consegue estabelecer diversas possibilidades de filtros. Ent\n[LOCUTOR 17]: aqui\n[LOCUTOR 1]: basicamente ele vai automatizar esse fluxo de controle dessas operações financeiras, vai buscar no mercado automaticamente nas fontes oficiais os dados, indexadores, moeda, fechamentos, vai trazer, vai atualizar aqui e com a parametrização contábil ele vai devolver para o Proteus, para a contabilidade financeiros os parâmetros aqui determinados. Aqui eu coloquei o orçado. Lembra que tinha só a semana? O orçado traz esta coluna de comparativa e diferença. Esse\n[LOCUTOR 8]: aponta\n[LOCUTOR 1]: a diferença em valor, ele aponta a diferença em percentual, seja positiva ou negativa, ele vai apontar. E aqui consigo exportar o meu controle para um estudo, para uma análise, e isso fica salvo também dentro da biblioteca do próprio gestor. Então, além da automatização do fluxo de caixa, ele também já entra num campo mais gerencial de gestão de cenários, para tomada de decisão, para capital de giro, para uma situação específica, uma projeção específica, então ele é bem é importante nesse ponto também. Além, eu passei aqui, basicamente, pelas questões mais operacionais e funcionais da solução, mas também é importante mencionar o MyBook, que são os relatórios de gestão para todos os módulos. Então, os seus relatórios, por exemplo, controle aqui em relação a investimentos, meus controles de aplicações e resgates, por exemplo, para a gente trazer exemplos de relatórios. Com gráficos, com grids, trazendo a nível de contrato, de tipo de operação, contratos. O meu controle também aqui das minhas dívidas com derivativos vinculados, consigo trazer aqui também.\n[LOCUTOR 22]: Fluxo\n[LOCUTOR 1]: de pagamento de parcelas, como é que está o comportamento, a projeção dos meus fluxos para os próximos 30 dias. Eu consigo filtrar aqui por banco, por estrutura. É possível ter isso sempre à mão, parametrizado. Gráficos aqui para análise, por exemplo, que também são derivativos. Mas aqui gráficos, por exemplo, no meu controle de [PESSOA]. como é que está o comportamento, a distribuição de valores dos títulos [PESSOA] vencidos a receber e a pagar por faixa de dias, percentual, valor, nadimplência, liquidez. Então ele vai... A ideia qual é? Ele vai... Todos os dados e informações que estão no [EMPRESA], o usuário consegue traduzir isso na forma de relatórios. Veja, esse aqui é um módulo de [LOCAL] que é para controle de covenants, de cláusulas contratuais.\n[LOCUTOR 22]: Então\n[LOCUTOR 1]: veja, o próprio O relatório já traz o teor da cláusula integral, comportamento de vencimentos, compromissos. É só para demonstrar que realmente, graficos, é para demonstrar que realmente, por mais simples operacionalmente que seja o módulo, a parte gerencial, através dos dados extraídos, ela é bem relevante aqui para essa utilização.\n[LOCUTOR 10]: a minha resposta.\n[LOCUTOR 22]: Para a\n[LOCUTOR 1]: [PESSOA], é um pouco de novidade.\n[LOCUTOR 22]: [PESSOA], é que agora a gente tem a missão de defender o projeto aqui internamente. A gente\n[LOCUTOR 22]: que mostrar um pouco a necessidade, o que está sendo feito aqui para a gente de controle, de análise, versus o custo. E me diz uma coisa, [PESSOA], falando em custo, como que funciona o custo? A gente tem plantação, tem plantação e setup e é só... licenciamento?\n[LOCUTOR 1]: Vamos fazer o seguinte, é interessante a gente recapitular, né, [PESSOA]? Eu mando e-mail para vocês agora após a agenda padrão, para quê? Para levantar a volumetria atualizada de vocês, aí eu discrimino ali no corpo do\n[LOCUTOR 22]: e-mail o\n[LOCUTOR 12]: operações\n[LOCUTOR 1]: financeiras, o que é gest\n[LOCUTOR 1]: caixa, né?\n[LOCUTOR 1]: A proposta comercial também discrimina os módulos, até porque as implantações e a própria contratação [PESSOA] precisam seguir simultaneamente, então é tranquilo nesse ponto também. E aí eu devolvo já para vocês uma visão de investimento, para vocês terem isso e levar também para\n[LOCUTOR 1]: diretoria.\n[LOCUTOR 22]: Qual que é a previsão de implantação? Quanto tempo a gente precisa? Principalmente, qual que é o esforço que a gente tem que ter do nosso\n[LOCUTOR 1]: lado aqui? Isso geralmente na fase de apresentação da proposta comercial, eu desenho para vocês ali no slide e o material também eu mando na sequência depois de apresentar os valores, tá? Mas o que determina a celeridade é uma faixa de 90 a 120 dias. Só que assim, o que determina a celeridade é justamente naquele fluxo de implantação, naquelas atividades ali concatenadas, é a transição de uma para outra, é a sazonalidade, é o período do ano, como você falou agora, a disponibilidade também de esforço aí do time de [EMPRESA], de vocês para isso. Isso é mais ajustado assim, já na fase de projeto, até na prévia, antes do início da implantação, no arm-up, a gente desenha isso de uma forma mais estruturada. Mas o que determina a celeridade, a gente fala de 90, 120 anos, mas tem projeto que termina antes, por exemplo. Isso é bem comum.\n[LOCUTOR 22]: Mas me diz, além do time da [EMPRESA], o que você precisa do time de negócio aqui? Qual que é o esforço?\n[LOCUTOR 1]: Geralmente fica um ponto focal do financeiro para\n[LOCUTOR 1]: módulo, geralmente um para cada módulo, se for o caso, mas também pode ser um para os dois, se vocês preferirem também.\n[LOCUTOR 22]: Desculpa, mas o que a gente está chamando de separando [LOCAL] dois\n[LOCUTOR 1]: módulos, né? O controle de dívidas ali, vamos lá, operações financeiras é um módulo que se destina a controle de aplicações de operações financeiras no sentido de contratos. Então, aplicações, captações, derivativos, mútuos, fianças. Esse é um módulo específico, que é esse que automatiza o controle, as moedas e devolve lá a informação para o Proteus.\n[LOCUTOR 1]: o outro módulo é o gestão de caixa e tesouraria, que é esse, do fluxo de caixa, do projetado de caixa, recursos disponíveis e da conciliação bancária. Eles são apartados operacionalmente e também contratualmente. Então, como próximo passo, a ideia é realmente atualizar, só para documentar, por mais que [PESSOA] tenha mudado, eu disparo o e-mail para vocês na\n[LOCUTOR 1]: devolvem com a volumetria atualizada de usuários, de empresas, de movimentação, dos dados que estão ali, que são meio objetivos, e aí eu já consigo precificar isso para vocês e devolver com uma visão de investimento para que vocês, internamente, evoluam e também nos apresentem uma devolutiva\n[LOCUTOR 22]: nos próximos\n[LOCUTOR 22]: E mais alguma coisa que tinha preocupação de que [PESSOA] atendia? Até aquilo que a gente\n[LOCUTOR 1]: ouviu falando\n[LOCUTOR 22]: até das últimas agendas com o [PESSOA]. Então, mas dentro do que tem financeiro, que a gente tem parte de controle ali, ele atende. É isso. É isso que precisa.\n[LOCUTOR 1]: Vocês têm algum tipo de operação financeira que seja mais, assim, fora do padrão? Se bem que gestão vai atender tudo.\n[LOCUTOR 22]: Por exemplo, se eu lançar uma dívida entre os [EMPRESA] das empresas, ele vai controlar ali como se fosse uma\n[LOCUTOR 1]: dívida.\n[LOCUTOR 1]: mútuo, ele controla. Ele tem um template específico.\n[LOCUTOR 7]: vou colocar lá se tem juros, se [PESSOA] tem juros. Eu vou tratar ele como um contrato normal, [PESSOA] tenho nenhuma diferenciação.\n[LOCUTOR 1]: Sim, é parametrizável também, bem tranquilo. Importante, falando em implantação, na implantação existe uma etapa, uma fase, que é a capacitação dos usuários, então a parte para deixar o usuário pronto para pilotar a [LOCAL], pelo menos de uma forma inicial, tem fechamento assistido, onde o time acompanha o fechamento de vocês inicial, para depois liberar o go live, então para a produção também é detalhado esse fluxo de implantação.\n[LOCUTOR 22]: Ótimo. [LOCAL].\n[LOCUTOR 1]: É isso gente.\n[LOCUTOR 1]: Manda na sequência para vocês\n[LOCUTOR 1]: a gente vai mantendo o contato. Dúvidas que surgirem também depois do e-mail depois da agenda que podem me pontuar sem problemas.\n[LOCUTOR 22]: Vamos\n[LOCUTOR 1]: conversar.\n[LOCUTOR 22]: [LOCAL].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:11.610600+00:00",
+    "total_linhas": 157,
+    "linhas_mantidas": 112,
+    "linhas_removidas": 45,
+    "percentual_mantido": 71.34,
+    "confianca_media": 0.4861
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 22]: a gente tem tempo ainda pra liberar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Boa tarde, [PESSOA], bem-vinda.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4138,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Foi bacana, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4517,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tudo bem, e você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Bem também. Vamos lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 4]: em ordem, já? O [PESSOA] vai entrar, [PESSOA], só nós mesmo. Eu dei um alô pra ele quando você mandou e-mail, até encaminhei o e-mail pra paralelo, comunicando que vocês, né, nos buscaram aí pra retomada de conversa e tal, e ele já tá ciente, mas acho que ele tinha uma outra agenda. Mas talvez ele entre ainda no decorrer da reunião.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5266,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Mas vamos lá, qual que era a ideia aqui principal, né? Trouxe a Lili, que a gente tá fazendo um processo aqui dentro de tentar ter o máximo de controle possível dentro do sistema. Parar de usar o [LOCAL] do [PESSOA] para tudo e fazer realmente o controle dentro do sistema e de ir lá exportar os relatórios só para fazer análise e [PESSOA] preparar o relatório para fazer análise. E aí, naquelas conversas que a gente teve lá no passado, a parte do [EMPRESA] ficava muito interessante no sentido de controle de dívida, do fluxo de caixa, E aí eu queria ver contigo, até para ver se você consegue entrar mais ou menos no sistema para mostrar para a gente e para a gente ter garantia que a gente vai conseguir, usando o [LOCAL], fazer essa gestão que a gente precisa integrada ali com o Proteus, com a parte contábil.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL]. Vamos lá. A ideia é realmente essa, retomar alguns pontos específicos aqui. Aquela parte institucional, tranquilo, né, [PESSOA]? [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: necessário",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: entrar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: já na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: navegação. Vamos lá. Deixa eu compartilhar minha tela com vocês aqui. Vamos lá. E a ideia é uma agenda interativa, tá? Se qualquer dúvida, qualquer ponderação, fique à vontade para... para me interromper sem",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: problemas,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: vamos lá. Estão vendo a tela, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4304,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL], então aqui... Essa é a estrutura de acesso de [EMPRESA], já a parte operacional de navegação, então integração APPS, hospedada em nuvem pela AWS, a nuvem da [EMPRESA], integração com AD aqui da [EMPRESA] para fins de acessibilidade. A solução, então, ela é multi-usuário, ela é multi-idioma, multi-empresa, multi-moeda. Então, acessando a solução, o usuário para com analytics que é o bloco aqui de entrada da solução é vinculado a ao controle tanto de fechamentos de moeda então assim [LOCAL] vai automaticamente nos bancos oficiais tá [LOCAL] vai na na [EMPRESA], o [LOCAL] vai no [LOCAL], vai na [EMPRESA], vai na [EMPRESA] para buscar fundos de investimento. Então ele tem essa sistemática de tanto trazer as informações de forma automática de moedas e indexadores quanto aplicar esses dados nos contratos que estão sob gestão de [LOCAL]. Então essa estrutura, essa tela inicial, o usuário consegue isso na fase de projeto efeito. a implementação de grupo de consolidação, de empresas. Esses filtros o usuário consegue implementar aqui para aquilo que ele precisa evoluir, por exemplo, as dívidas. E aqui, na verdade, são recortes. Isso aqui são recortes dos dashboards, que estão lá num campo específico no GSPLAN, que o usuário consegue antecipar, vamos colocar assim, trazer isso para a tela inicial para uma visualização mais imediata, logo após o seu acesso. Por exemplo, controle de dívida, controle de posição de captação de aplicação a representatividade traz esse quadro esquerdo um pouquinho mais enxuto. Só com o tipo de operação com a modalidade de operação e o percentual aquele já traz o tipo de operação o saldo devedor a data de competência e se a captação ou se é uma aplicação financeira. O mesmo para fins de gestão de caixa e tesouraria que é um outro módulo Posições aqui de saldos, de conta corrente, com filtros também que o usuário consegue inserir. Então já traz informações de conciliação bancária, concentração de pagamentos, então ele traz informações gráficas aqui também já nessa tela inicial. Essa tela bem interessante, disponibilidade de caixa, a gente sempre projeta automaticamente sete dias à frente as suas entradas e saídas projetadas, os fechamentos aqui de saldos de cada uma das datas, Isso para o usuário ter, nessa tela inicial, já aquela informação consolidada. E, já nessa tela inicial, o usuário consegue, então, exportar também. Diversas telas do gestão, o usuário consegue exportar, seja para a imagem, seja para a planilha, para ter um controle, para ter uma informação de simulação de cenário, por exemplo. E já tem essas informações disponíveis à mão. Essa tela do Analytics é comum a todos os módulos. Para avançar um pouquinho, aqui eu já estava numa agenda anterior, eu resolvi [PESSOA] fechar aqui a visualização, mas aqui é a estrutura do fluxo de caixa. Então o usuário Nessa visão, o que ele precisa em relação à disponibilidade aqui de fluxo de caixa, onde ele já se conecta com o Proteus, com contas a pagar e a receber, e se conecta com",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: conciliação bancária também do Proteus, já traz aqui o que foi tratado, que está realizado. Então assim, o previsto e o realizado aqui, inicialmente, depois de partir para o [LOCAL], previsto e realizado. é aquilo que já, o previsto, aquilo que já tem no Proteus, lá no [LOCAL], a pagar, a receber uma contrapartida, integração com compras também é possível implementar, uma contrapartida, uma nota fiscal, um faturamento, então ele tem essa estrutura, ele traz as informações aqui de previsto, realizado, ele já traz a consolidação de informações aqui também de realização lá no Proteus, o usuário traz aqui a informação de parâmetros. Então, para exemplo, para demonstração utilizamos indústria, mas são outros modelos que o usuário pode utilizar também. O fato é que na fase de projeto e de implantação de [LOCAL] na companhia, isso é desenhado a quatro mãos de uma forma mais estruturada. Então, o que eu quero demonstrar com isso é que o usuário, implementando aqui os dados, trazendo a faixa de datas, trazendo aqui a periodicidade e a visão que ele precisa desse fluxo, ele já consegue programar essa estrutura para ter a informação ali do seu previsto, do seu realizado, já ter isso plenamente estruturado dentro do [EMPRESA] e também com a possibilidade de orçamento de caixa, que é uma outra funcionalidade do módulo. Aqui já entra a figura do orçado. Então o usuário consegue trazer cenários futuros aqui e sempre fica logado no [LOCAL]. O nome dos dados do último usuário, bem como data e horário do seu acesso e alteração, por segurança. O usuário, então, ele tem uma estrutura em que ele consegue basicamente desenhar um cenário futuro, um projetado aqui para quantos meses à frente sejam necessários para a realidade daquele daquele nicho em que a empresa está situada, para que haja aquele comportamento de caixa diagnóstico, aquele comportamento de caixa em relação aos compromissos, às saídas, aos seus controles mais à frente, e também para fins gerenciais em termos de estratégia, em termos de comparativo, em termos de cenário em que ele está tentando gerar. Aqui acho que ficou aberto da tela anterior. da agenda anterior, deixa eu só atualizar aqui novamente, e aí a gente já vai avançando. Pessoal, dúvidas vão perguntando, tá? Tô só configurando aqui. Aproveitar que eu voltei nessa tela e aqui também eu consigo nesse filtro, são diversas possibilidades de filtro para gerar o fluxo. Eu posso ter um fluxo amplo, macro,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: toda a estrutura, olhando todos os NPJs, ou eu posso ter um fluxo mais específico, por um grupo de consolidação específico, por uma empresa específica, grupo de contas, uma conta específica. [LOCAL] várias as possibilidades",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: filtros que eu consigo implementar quando eu vou gerar um fluxo de caixa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4663,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 19]: aí até, eu perguntei isso da outra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: vez, se",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: a gente consegue, por exemplo, essa projeção aí para frente, subir lá um arquivo para que ele possa fazer a projeção, independente de eu ter isso já lá no Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5539,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Consegue importar, consegue importar, exatamente. Tem uma plenídia padrão, você consegue trazer isso pronto, importa, alimenta aqui o [LOCAL] e ele também vai estar, que é essa importação aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: O que eu estou entendendo aqui é que o que é previsto é o que já está lançado e orçado. Essa projeção que você me colocou falando é o que estaria nessa coluna de orçado, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4882,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Exatamente. [LOCAL], ele é o orçamento de caixa. É o meu cenário de projetado aqui, de estrutura.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Enquanto ele vai carregando, eu estou em home office hoje, meu Wi-Fi está... Estou com a porta fechada aqui, então o Wi-Fi está patinando um pouquinho, mas vamos lá. já volto aqui em fluxo e em orçamento. Só para passar para vocês as outras funcionalidades do mesmo modo de tesouraria, controle de saldos da companhia, que seja por uma conexão por API com bancos ou por van bancária com bancos também, através de um diretório, gerencia, ele traz por uma estrutura dentro do módulo, no caso essa de recursos disponíveis, o controle de saldos da companhia, que vai muito Além de uma simples visualização de posições de saldo, que eu consigo filtrar aqui por estruturas ou por grupos, ou mesmo importar para uma planilha de Excel. Eu quero somente a minha posição de saldos, quero ter isso planilhado. Consegui fazer. Mas vai além disso, tem o controle também de cash pooling, o controle aqui. de transferências dentro da estrutura, então grupos de cache pooling. Eu consigo criar uma sistemática, um gerenciamento, uma programação de transferências automáticas de contas, entre contas da própria companhia, dentro do [LOCAL]. O usuário consegue, a partir do [LOCAL], comandar a que arquivos remessa de valores para que ele tenha aquilo estruturado. Por exemplo, aqui eu simulei uma conta A para uma conta B, um valor X e a gestão já me traz uma estrutura, uma projeção de saldos após aquela Transação. Salvando e continuando, essa informação é levada para o banco, através da mesma vã bancária, da API, ou manualmente pelo usuário, e o banco faz a transação no seu sistema próprio e já impacta, já sensibiliza no próprio [LOCAL]. Então é uma funcionalidade também da estrutura. E conciliação bancária? Também existe a possibilidade de conciliação bancária, vocês podem fazer no Proteus, tranquilamente, mas a conciliação bancária no dia cima também é uma funcionalidade dentro do módulo já embarcada. Então aqui, no exemplo aqui, essa da direita de caixa que trouxe lá do Proteus, lá do meu contas a pagar e a receber, informações com possibilidade de agrupamento aqui para [PESSOA] poluir tanto a visualização, aí ele traz a soma aqui ao lado. Aqui as posições que vieram do banco, extrato do banco, aquele extrato de conciliação D-1 para conciliação bancária. Então aqui ele traz a informação, por exemplo, uma tarifa bancária [PESSOA] conciliou aqui essa tarifa de TED de R$3,50, [PESSOA] conciliou. O usuário consegue conciliar manualmente e também já criar uma classificação, gerar uma classificação bancária que é uma regra de conciliação para que ele tenha nas próximas ocasiões de conciliação bancária aquela regra sendo utilizada.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Aqui a gente só vai usar ele para ter os lançamentos que são diretos do Strata. Aquilo que eu [PESSOA] tenho contas a pagar e a receber que está no Proteus, eu vou lançar por aqui. Basicamente tarifa, débito automático.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5149,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA]. Os eventos de tesouraria, os eventos mais bancários, exatamente. Isso cai para manualmente ser feita a classificação bancária. Aqui gerou a estrutura de caixa, de fluxo. Então aqui, por exemplo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Aqui, tirando os bancos que você tem API, quais bancos que você tem API hoje? Tem que construir todas as APIs?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5168,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: API hoje, [LOCAL], [EMPRESA], [EMPRESA], [EMPRESA], [EMPRESA] [PESSOA], ainda [PESSOA], e [EMPRESA] acho que se crede, salvo engano. Mas [EMPRESA], [LOCAL], [EMPRESA] e [EMPRESA] com certeza.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.529,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 14]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: API, ou caso vocês tenham vã bancária, a própria vã bancária pode ser configurada um diretório para atender as plantas, se for o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5413,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: caso. Ou então também via [EMPRESA], eu conseguiria importar [EMPRESA] direto aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4983,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O [EMPRESA] consegue importar também, exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 15]: o que muda na prática hoje com o processo que tem dentro do Proteus? Porque hoje no Proteus os meninos já fecham banco, já concilia banco. Essa funcionalidade tem aqui também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Pode manter.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: O lugar ou do outro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Exatamente. A ideia [PESSOA] é duplicar esforço. Esse questionamento é bem comum. Ah, faço, [PESSOA]. Já estou com a rotina de fazer minha conciliação necessária no Proteus. Preciso migrar para o [LOCAL] isso num primeiro momento ou tem alguma restrição se eu [PESSOA] migrar? [PESSOA], tranquilamente, você pode manter no Proteus. [LOCAL] vai trazer informação para fins aqui de fluxo de caixa, por exemplo, ele vai trazer informação consolidada já com a conciliação do Proteus, bem tranquilo. Aqui, por exemplo, eu tenho minha estrutura aqui de fluxo, gerou fluxo semanal, as minhas datas, valores, os níveis, subníveis, Eu tenho aqui, por exemplo, uma somatória na semana de 9 a 15 do sete. Essa somatória semanal eu consigo visualizar, ela é discriminada. Então, item a item, data por data, todas as informações dos dados, conta, os dados de vencimento e realização, os dados aqui dos valores, a parte mais cadastral, o vínculo com o Proteus em relação à conta contábil, centro de custo, gerencial, nota fiscal, codificação. Então isso tudo é espelhado, aquilo que tem no proteus em plano de centro de custo de conta contábil é trazido para o [LOCAL] de forma automática. E aqui, já partindo para aquela ideia do orçado, mas deixa eu falar dos níveis primeiro aqui, entradas operacionais e saídas operacionais, entradas e saídas financeiras, outras. posições de nada de imprensa, de entrada e saída. Aqui os lançamentos a classificar, por exemplo, aqueles que você trouxe em relação aos bancos, que [PESSOA] conciliaram automaticamente, entre outros, aqueles eventos de tesouraria, por exemplo, estão aqui no a classificar. O usuário tem esse controle também através do próprio fluxo de caixa, caso seja necessário. E aqui o último nível da estrutura. Esse é o fluxo gerado automaticamente através da parametrização aqui. O que o usuário consegue fazer já na estrutura do fluxo de caixa, e aí já partindo para a ideia do orçado, é simular aqui cenários. Por exemplo, eu tenho lá minha saída operacional matéria-prima e tem um. Eu estou visualizando um mês, o fato de ser manau aqui é irrelevante. Eu estou vendo um período futuro da minha estrutura e eu [PESSOA] tenho um lançamento lá da minha saída operacional matéria-prima e tem um. Eu quero lançar isso. Eu consigo lançar manualmente, Trazer informação ali na estrutura. E eu consigo, com texto livre, também trazer uma informação dentro do GSPLAN e utilizar a estrutura do GSPLAN. E aqui eu consigo inserir tantos itens quanto sejam necessários ou quanto eu queira para aquela simulação. E eu consigo exportar isso aqui. Quero fazer uma simulação, [PESSOA] quero salvar nada no GSPLAN, quero só simular um cenário e deixar salvo aqui no meu controle, ou seja, eu vou fazer aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: aqui já é a figura do orçado. Esse lançamento que eu coloquei manualmente na minha estrutura de simulação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Essa estrutura de curto de carga, eu consigo mexer nela também, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5364,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Consegue, consegue também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E aí, assim, para ele fazer essas classificações, por exemplo, aquele produto 1, 2, isso daqui ele busca o quê? Da natureza, que eu fiz o lançamento lá no financeiro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: É isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: que determina.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Então, dá pra gente montar aquela escritura que a gente tava tendo ele com ele, dá pra gente montar. Monta esse formatinho aqui dentro. [PESSOA] tem nada que [PESSOA] passe pelo Proteus, né? Porque se você fecha a bola aqui... [PESSOA]. Assim, o intermediários pode ser que [PESSOA] passe, mas o final sempre passa pelo Proteus. Aí, outra dúvida. Aqui, [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 3]: controle das dívidas, se eu tiver o controle aqui das dívidas, eu tenho lá um valor de um dos empréstimos, eu tenho a movimentação que eu faço dele. Eu vou conseguir controlar aqui no [LOCAL] tanto o saldo inicial, a atualização dele, quanto os pagamentos para refletir ele lá no [EMPRESA] e eu gerar um título para pagar por",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: ela?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O que o [LOCAL] [PESSOA] faz no Proteus, no caso de vocês no Proteus, é controle de pagamentos, baixa de títulos, pagamentos, isso [PESSOA] é escopo de [LOCAL]. Eu até vou demonstrar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5004,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: para vocês. Controle de pagamentos de dívida.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5604,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Ah [PESSOA], isso sim, isso ele faz, isso ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: integração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Ele trata de empréstimo de um milhão, então o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5533,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: cálculo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: da atualização dessa dívida, atualizado o SELIC.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: cálculo dessa atualização, estou entendendo que ele vai estar aqui dentro do [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 19]: aqui eu vou ter lá a regra, por exemplo, que todo mês eu pago os juros daquele contrato. [PESSOA] l",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: 1,7 de juros e vou pagar aquele valor de juros. Esse pagamento eu vou refletir ele como um título de contas a pagar lá no financeiro, vou baixar ele, vou conciliar banco lá e eu vou ter o meu saldo atualizado da dívida aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, isso sim. Você vai atualizar. Por exemplo, aqui, o que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4265,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: você está...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: A gente já ilustra. Pode falar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E dentro aqui da minha visão do fluxo de caixa, lá no meu bloco, basicamente, eu tenho o fluxo de caixa operacional e investimento financeiro. Lá dentro da minha estrutura de financeiro, eu conseguiria ter destacado, olha, esse pagamento é deste",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: contrato",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, sim. Isso é possível conciliar. O que você está mencionando é isso aqui. É a parametrização contábil dentro do [EMPRESA]. Por exemplo, aqui. Aqui vale para... de operações financeiras e também arrendamentos. Então, para falar de operações financeiras. Por exemplo, vou dar um exemplo de uma aplicação, mas a regra",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: a dívida é a mesma. Aqui, vou entrar aqui nessa...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E esse módulo também está 100% integrado lá com o meu módulo de contábil fiscal...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: por exemplo aqui, é uma parametrização de aplicação financeira. Especificamente, CDB, CDB posso fixar em cotas. Eu estou especificando, eu criei um padrão aqui que os usar a [EMPRESA], eu quero que a [LOCAL] mande, referente a CDBs, mande isso aqui lá para a minha contabilidade no Proteus. [LOCAL], foi um exemplo básico. Ah, eu quero mandar mais, além do que está ali, eu quero mandar também outros itens aqui, dentre esses disponíveis. Eu posso selecionar qualquer um deles. Todos os eventos contábeis, a [LOCAL] calcula. Quem determina qual informação vai para o [EMPRESA], para o Proteus, no caso, é o usuário. E aqui tudo dá para aprofundar um pouquinho. Por exemplo resgate líquido é um evento contábil resgate líquido. Tudo é parametrizado. Lembra aquilo que eu falei que o plano está tudo espelhado o que tem no proteus está espelhado no [LOCAL]. É isso aqui. Então qual é a conta de débito. Conta contábil de crédito de crédito centro de custos de crédito. Conta transitória se houver. Tem rateio estorno.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E aí, se for pagamento, eu gero um título no [LOCAL] a Receber. Se for contabilização de juros, eu vou reconhecer a despesa financeira lá no contábil.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E se for pagamento de principal, ele também vai reconhecer. Vou colocar aqui a minha regra para ele deduzir lá o meu valor de principal e, consequentemente, deduzir do meu cálculo também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É isso aí. Tudo que estiver parametrizado aqui no [LOCAL], de evento contábil, ele vai mandar lá para o teu Proteus, no destinatário específico, dentro da contabilidade. Além do controle, aqui já entrando nessa parte de operações financeiras, então além da automatização aqui do controle das minhas dívidas, aqui das minhas aplicações financeiras, dos meus investimentos, Aí, se tiver também mútuos, derivativos, isso tudo é controlado por [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E lá no controle, lá no contrato, eu vou conseguir separar cada um dos contratos e colocar minha regra de atualização para cada um dos contratos? Consegue? Qualquer. A",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: dinâmica de parametrização você determina, se você",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: quiser",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: criar isso de uma forma específica para cada grupo de contrato. Isso o [EMPRESA] também permite, porque é possível criar os grupos aqui também. Um grupo de contrato, um grupo gerencial, então ele consegue estabelecer diversas possibilidades de filtros. Ent",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 17]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: basicamente ele vai automatizar esse fluxo de controle dessas operações financeiras, vai buscar no mercado automaticamente nas fontes oficiais os dados, indexadores, moeda, fechamentos, vai trazer, vai atualizar aqui e com a parametrização contábil ele vai devolver para o Proteus, para a contabilidade financeiros os parâmetros aqui determinados. Aqui eu coloquei o orçado. Lembra que tinha só a semana? O orçado traz esta coluna de comparativa e diferença. Esse",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: o previsto e realizado, aqui é o meu orçado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aponta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: a diferença em valor, ele aponta a diferença em percentual, seja positiva ou negativa, ele vai apontar. E aqui consigo exportar o meu controle para um estudo, para uma análise, e isso fica salvo também dentro da biblioteca do próprio gestor. Então, além da automatização do fluxo de caixa, ele também já entra num campo mais gerencial de gestão de cenários, para tomada de decisão, para capital de giro, para uma situação específica, uma projeção específica, então ele é bem é importante nesse ponto também. Além, eu passei aqui, basicamente, pelas questões mais operacionais e funcionais da solução, mas também é importante mencionar o MyBook, que são os relatórios de gestão para todos os módulos. Então, os seus relatórios, por exemplo, controle aqui em relação a investimentos, meus controles de aplicações e resgates, por exemplo, para a gente trazer exemplos de relatórios. Com gráficos, com grids, trazendo a nível de contrato, de tipo de operação, contratos. O meu controle também aqui das minhas dívidas com derivativos vinculados, consigo trazer aqui também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Fluxo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: de pagamento de parcelas, como é que está o comportamento, a projeção dos meus fluxos para os próximos 30 dias. Eu consigo filtrar aqui por banco, por estrutura. É possível ter isso sempre à mão, parametrizado. Gráficos aqui para análise, por exemplo, que também são derivativos. Mas aqui gráficos, por exemplo, no meu controle de [PESSOA]. como é que está o comportamento, a distribuição de valores dos títulos [PESSOA] vencidos a receber e a pagar por faixa de dias, percentual, valor, nadimplência, liquidez. Então ele vai... A ideia qual é? Ele vai... Todos os dados e informações que estão no [EMPRESA], o usuário consegue traduzir isso na forma de relatórios. Veja, esse aqui é um módulo de [LOCAL] que é para controle de covenants, de cláusulas contratuais.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Então",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: veja, o próprio O relatório já traz o teor da cláusula integral, comportamento de vencimentos, compromissos. É só para demonstrar que realmente, graficos, é para demonstrar que realmente, por mais simples operacionalmente que seja o módulo, a parte gerencial, através dos dados extraídos, ela é bem relevante aqui para essa utilização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 10]: a minha resposta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Está recapitulado?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Para a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA], é um pouco de novidade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5332,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: [PESSOA], é que agora a gente tem a missão de defender o projeto aqui internamente. A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5602,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 22]: que mostrar um pouco a necessidade, o que está sendo feito aqui para a gente de controle, de análise, versus o custo. E me diz uma coisa, [PESSOA], falando em custo, como que funciona o custo? A gente tem plantação, tem plantação e setup e é só... licenciamento?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Vamos fazer o seguinte, é interessante a gente recapitular, né, [PESSOA]? Eu mando e-mail para vocês agora após a agenda padrão, para quê? Para levantar a volumetria atualizada de vocês, aí eu discrimino ali no corpo do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5453,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: e-mail o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 12]: operações",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: financeiras, o que é gest",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: caixa, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: A proposta comercial também discrimina os módulos, até porque as implantações e a própria contratação [PESSOA] precisam seguir simultaneamente, então é tranquilo nesse ponto também. E aí eu devolvo já para vocês uma visão de investimento, para vocês terem isso e levar também para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: diretoria.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Qual que é a previsão de implantação? Quanto tempo a gente precisa? Principalmente, qual que é o esforço que a gente tem que ter do nosso",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: lado aqui? Isso geralmente na fase de apresentação da proposta comercial, eu desenho para vocês ali no slide e o material também eu mando na sequência depois de apresentar os valores, tá? Mas o que determina a celeridade é uma faixa de 90 a 120 dias. Só que assim, o que determina a celeridade é justamente naquele fluxo de implantação, naquelas atividades ali concatenadas, é a transição de uma para outra, é a sazonalidade, é o período do ano, como você falou agora, a disponibilidade também de esforço aí do time de [EMPRESA], de vocês para isso. Isso é mais ajustado assim, já na fase de projeto, até na prévia, antes do início da implantação, no arm-up, a gente desenha isso de uma forma mais estruturada. Mas o que determina a celeridade, a gente fala de 90, 120 anos, mas tem projeto que termina antes, por exemplo. Isso é bem comum.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Mas me diz, além do time da [EMPRESA], o que você precisa do time de negócio aqui? Qual que é o esforço?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Geralmente fica um ponto focal do financeiro para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: módulo, geralmente um para cada módulo, se for o caso, mas também pode ser um para os dois, se vocês preferirem também.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5519,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Desculpa, mas o que a gente está chamando de separando [LOCAL] dois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4842,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: módulos, né? O controle de dívidas ali, vamos lá, operações financeiras é um módulo que se destina a controle de aplicações de operações financeiras no sentido de contratos. Então, aplicações, captações, derivativos, mútuos, fianças. Esse é um módulo específico, que é esse que automatiza o controle, as moedas e devolve lá a informação para o Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: o outro módulo é o gestão de caixa e tesouraria, que é esse, do fluxo de caixa, do projetado de caixa, recursos disponíveis e da conciliação bancária. Eles são apartados operacionalmente e também contratualmente. Então, como próximo passo, a ideia é realmente atualizar, só para documentar, por mais que [PESSOA] tenha mudado, eu disparo o e-mail para vocês na",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: sequência, vocês me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4157,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: devolvem com a volumetria atualizada de usuários, de empresas, de movimentação, dos dados que estão ali, que são meio objetivos, e aí eu já consigo precificar isso para vocês e devolver com uma visão de investimento para que vocês, internamente, evoluam e também nos apresentem uma devolutiva",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: nos próximos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: dias.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4428,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: E mais alguma coisa que tinha preocupação de que [PESSOA] atendia? Até aquilo que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ouviu falando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: até das últimas agendas com o [PESSOA]. Então, mas dentro do que tem financeiro, que a gente tem parte de controle ali, ele atende. É isso. É isso que precisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Vocês têm algum tipo de operação financeira que seja mais, assim, fora do padrão? Se bem que gestão vai atender tudo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Por exemplo, se eu lançar uma dívida entre os [EMPRESA] das empresas, ele vai controlar ali como se fosse uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5258,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: dívida.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: É",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: mútuo, ele controla. Ele tem um template específico.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: vou colocar lá se tem juros, se [PESSOA] tem juros. Eu vou tratar ele como um contrato normal, [PESSOA] tenho nenhuma diferenciação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Sim, é parametrizável também, bem tranquilo. Importante, falando em implantação, na implantação existe uma etapa, uma fase, que é a capacitação dos usuários, então a parte para deixar o usuário pronto para pilotar a [LOCAL], pelo menos de uma forma inicial, tem fechamento assistido, onde o time acompanha o fechamento de vocês inicial, para depois liberar o go live, então para a produção também é detalhado esse fluxo de implantação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Ótimo. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É isso gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: É isso. Então manda por favor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4444,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Manda na sequência para vocês",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5129,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: a gente vai mantendo o contato. Dúvidas que surgirem também depois do e-mail depois da agenda que podem me pontuar sem problemas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: Vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: conversar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Obrigado. [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "duplicada"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Até mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 22]: [LOCAL]. Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: semana. [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    }
+  ]
+}

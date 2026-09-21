@@ -1,0 +1,1153 @@
+{
+  "id_reuniao": "1071032",
+  "codt": "TFD077",
+  "data_reuniao": "2026-02-12 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "DF",
+  "texto_original": "[LOCUTOR 13]: Então, uma das coisas que chegou até a te perguntar é que ele queria a degustação dessas máquinas também, tá? É um tópico que ele vai trazer pra você, mas ele vai explicar o porquê. Parece que tem das máquinas que ele tem, tem já um time que faz sustentação, enfim, um volume que ele vai explicar. Mas ele trouxe esse ponto, que a intenção dele é de trazer tudo pra gente. Meio que ele vai ficar pedindo, já que é a intenção dele,\n[LOCUTOR 9]: E você sabe o motivo o porquê que ele quer sair lá da AWS.\n[LOCUTOR 13]: Então porque ele quer pelo menos o que ele disse está nativo aqui no [LOCAL].\n[LOCUTOR 9]: Entendi. Vamos ouvir o que ele tem para dizer e aquela proposta dele lá a gente discutiu o escopo.\n[LOCUTOR 13]: Eu até expliquei isso para ele que eu já vou só explicar se liberar. Eu até expliquei isso para ele que estava como 12 meses a precificação E aí ele\n[LOCUTOR 9]: até me\n[LOCUTOR 13]: autorizou a colocar como 36, se isso for mudar o cenário, tá?\n[LOCUTOR 9]: Não, beleza. Oi,\n[LOCUTOR 13]: [PESSOA], tudo [PESSOA] - \n[LOCUTOR 18]: Olá, [PESSOA], tudo bem?\n[LOCUTOR 13]: Fala,\n[LOCUTOR 9]: [PESSOA], boa tarde, tudo bem?[PESSOA] - \n[LOCUTOR 18]: Boa tarde, tudo bem, [PESSOA]? Deixa eu trocar a tela aqui.\n[LOCUTOR 13]: [EMPRESA] - \n[LOCUTOR 18]: aí, tudo tranquilo?\n[LOCUTOR 13]: Tudo tranquilo. [PESSOA], eu trouxe o cara de [PESSOA].[PESSOA] - \n[LOCUTOR 18]: Pra\n[LOCUTOR 13]: falarTed [LOCAL] - \n[LOCUTOR 18]: com\n[LOCUTOR 13]: você, eu sei que você já me explicou alguns pontos hoje mais cedo, mas foi como eu te falei, acho que é mais produtivo e efetivo que você passe as suas necessidades, essa intenção que a gente tem, né, contínua, de trazer a parte da CTS que tá na AWS pra todos, tá? Pra que a gente consiga te apoiar aqui comercialmente, tá [PESSOA] - \n[LOCUTOR 18]: Pronto. O que é que eu conversei com a [PESSOA] hoje? Então, eu estou com essa frente de trazer o que eu tenho da AWS para cá. O que estava sob minha gestão eu já trouxe, que foi a parte do Proteus que está no [PESSOA],\n[LOCUTOR 9]: e [LOCAL] - \n[LOCUTOR 18]: três máquinas pequenas que tem atividades específicas. Aí eu tenho mais dois serviços lá, que é um de hospedagem de MySQL, e o outro que é um servidor web, né? E aí eu gostaria de passar, só que esse é um pouco mais delicado porque eu tenho um sistema de e-commerce lá, tá? Rodando em produção, e tem uma empresa que faz a gestão pra mim, entendeu? Então, além da hospedagem, eles fazem a sustentação do servidor lá pra mim, entendeu? É um serviço a mais, que eu trazendo pra Totos aqui, eu não teria esse serviço. porque a especialidade do pessoal lá é o orde de prédios, né? Então eles cuidam da parte de segurança, uma série de itens lá. Mas, e tem uma empresa de desenvolvimento que cuida do projeto pra mim, e eles fazem essa parte de sustentação também.\n[LOCUTOR 9]: [LOCAL] - \n[LOCUTOR 18]: que eu queria, já conheço ele há um bom tempo, né? E aí, o que é que eu falei com a [PESSOA] aqui? Eu tenho ele pago até setembro lá, entendeu? Então tem uma folga aí até eu... eu negociar o próximo ano com eles, mas eu queria uma degustação, eu já peguei uma vez uma degustação de 30 dias, que eu sei que vocês fazem, não sei se ainda está com essa promoção, mas eu precisaria de 30 dias para quê? Dessas duas máquinas que está no orçamento aí, para que eu montasse isso com esse time lá, ver se o negócio está funcionando, que eles realmente são capazes Entendeu? E tem um feeling ali de como vai funcionar. Isso porque essa plataforma lá, ela lê dados do Proteus aí, por API, né? Então ela toda interrompida. Uma coisa que eu quero trazer é pro [LOCAL], né? Porque hoje tá lá em [LOCAL], né? Então tem esse delay aí, né? Tá? Então eu queria ver isso funcionando. Então se fosse possível, né? Até para mostrar, eu acho que tem uma possibilidade até de eu colocar isso funcionando, mostrar para os meus sócios aqui, que não são de TI, que você sabe que tem essa dificuldade também do negócio, já está pago até setembro.\n[LOCUTOR 9]: [LOCAL] [LOCAL] - \n[LOCUTOR 18]: existem vários benefícios para que a gente traga isso para cá. Eu queria fazer esse pedido para você ver o que você pode fazer para a gente adiantar isso, um pouco o negócio, se é possível, claro.\n[LOCUTOR 9]: Não, beleza, [PESSOA]. Beleza. Vamos trabalhar junto aqui, eu e a [PESSOA], a gente vai correr atrás aqui para conseguir entregar uma, pelo menos uma experiência inicial para você. O que eu não consigo garantir é que a gente vai conseguir entregar até esse teste que você fez no outro momento, possivelmente era um teste com recurso limitado, era algum recurso de [LOCAL] - \n[LOCUTOR 18]: máquina... Era até mil reais eu acho, né?\n[LOCUTOR 9]: Era até mil reais na época?[PESSOA] - \n[LOCUTOR 18]: É,\n[LOCUTOR 9]: é. eles colocam algumas campanhas aqui, mas assim, nada impede agora, deu bar ganhar e a gente vai fazer isso aqui, pode ter certeza da gente ver o que a gente consegue fazerTed [LOCAL] - \n[LOCUTOR 18]: para\n[LOCUTOR 9]: conseguir te dar a possibilidade de fazer esse teste. Eu queria confirmar contigo uma questão importantíssima que é com relação ao escopo aqui, porque pelo que a [PESSOA] meTed [LOCAL] - \n[LOCUTOR 18]: falou, o\n[LOCUTOR 9]: valor que você paga de infraestrutura lá na AWS por essas máquinas aqui, ele está bem abaixo, né?[PESSOA] - \n[LOCUTOR 18]: Sim sim está bem abaixo do que do que eu pago para vocês pela como eles fazem um ano para mim. Então acaba que eu até pedi para eles o valor o provável valor até porque o dólar como a gente paga o valor em dólar\n[LOCUTOR 9]: háTed [LOCAL] - \n[LOCUTOR 18]: uma tendência de queda né do que eu renovei para hoje já tá quase já tá um real acho a menos né a projeção ali entendeu ent\n[LOCUTOR 1]: éTed [LOCAL] - \n[LOCUTOR 18]: provável e lá é [EMPRESA] né o índice de reajuste né entendeu mas como é uma queda do dólar aí eu acredito que cai um pouco tá mas eu tenho também lá o valor referente à sustentação que eles fazem. Entendeu\n[LOCUTOR 9]: que uma dúvida que eu fiquei pede você paga esse valor fixo que aí você fecha o contrato anualTed [LOCAL] - \n[LOCUTOR 18]: pelo ano.\n[LOCUTOR 9]: E esse valor fixo ele não tem nada além dele que você precisa pagar adicional. Por exemplo o tráfego de entrada e saída lá dentro da nuvem pública eles eles cobram de você isso também.[PESSOA] - \n[LOCUTOR 18]: Não não não não não já está incluído já. Eu só tenho um outro contrato de serviço com eles. em relação à nuvem, a tráfego não é cobrado. O que eu tenho aqui com eles, às vezes, que geram uma cobrança, é que às vezes eu preciso, eu estou com algum problema no sistema aqui, por exemplo, outro dia eu tive um problema de espaço em disco lá, uma falha na nossa aplicação aqui, não estava pagando os arquivos lá, e aí o que é que eu peço para eles? Cara, dá um upgrade aí no espaço, né? E aí fica ali uma semana, duas, até eu tratar aquilo ali, entendeu? Conseguir, aí eu pago essas diferenças aí.\n[LOCUTOR 9]: Ou precisoTed [LOCAL] - \n[LOCUTOR 18]: de mais máquina porque eu estou fazendo uma campanha aqui, algo desse tipo, entendeu? O que varia em relação a isso aí, mas mais nada disso aí não.\n[LOCUTOR 9]: Entendi. Aqui, o que eu estava tentando fazer, quando eu recebi essa proposta aqui da [PESSOA], era enxergar um caminho onde a gente pudesse baratear algum tipo de custo aqui dentro dessa estrutura. Por exemplo, tem a variável aqui do backup, [PESSOA].[PESSOA] - \n[LOCUTOR 18]: O\n[LOCUTOR 9]: backup é importante para você que a TOTOS faça, ou caso você continue com essa gestão, eles realizariam esse backup da estrutura para você?[PESSOA] - \n[LOCUTOR 18]: Não, eu prefiro que fique aí com vocês, isso aí. Mas é, por exemplo, nesse período aí não precisa do backup, né? No período\n[LOCUTOR 9]: de teste, você diz, né?[PESSOA] - \n[LOCUTOR 18]: É, no período de teste não precisa.\n[LOCUTOR 9]: Não, entendi. Mas depois, é porque assim, só pra gente conseguir até ser competitivo e você me dar insumo, porque é uma briga que eu tenho aqui com o time de [PESSOA] - \n[LOCUTOR 18]: do\n[LOCUTOR 9]: [LOCAL], que é a seguinte, o pessoal, eles construíram essa oferta, eles trazem pra gente que essa oferta era uma oferta muito competitiva perante ao mercado, principalmente a nuvem pública, onde a gente precisa ter um valor inferior ao que está sendo praticado lá, mas o que a gente vê com o seu relato, é que a gente não tá competitivo se a gente for comparar o valor com o valor. Eu queria saber, eu vou avaliar essa possibilidade da gente conseguir fazer esse trial e entregar pra você esse ambiente aí por um período, ainda não defini,[PESSOA] - \n[LOCUTOR 18]: mas\n[LOCUTOR 9]: a gente vaiTed [LOCAL] - \n[LOCUTOR 18]: estudar essa\n[LOCUTOR 9]: possibilidade. Mas eu queria saber se você conseguiria me ajudar, evidenciando [LOCAL] é o valor que você paga lá? Assim, eu acredito totalmenteTed [LOCAL] - \n[LOCUTOR 18]: no que você está falando. Eu\n[LOCUTOR 9]: preciso escalar isso daqui para cima para mostrar para o pessoal que eles passam para a gente do comercial aqui de estrutura foi construída uma oferta com um valor competitivo mas não é o que a gente vê na prática com o seu depoimento e a gente precisa brigar tanto paraTed [LOCAL] - \n[LOCUTOR 18]: reduzir\n[LOCUTOR 9]: quanto usar isso como argumento para a gente liberar para você.[PESSOA] - \n[LOCUTOR 18]: Tá bom, tá bom. Aqui tem... São duas máquinas aí, deixa eu ver.\n[LOCUTOR 9]: Aqui vocêTed [LOCAL] - \n[LOCUTOR 18]: tem o link, né?\n[LOCUTOR 9]: EuTed [LOCAL] - \n[LOCUTOR 18]: tô conseguindo enxergar. Deixa eu ver aí. O primeiro aí... Ah, tá. O primeiro aqui é uma máquina, né?\n[LOCUTOR 9]: Isso, é uma máquina. É uma máquina com 4 [PESSOA], Linux, 8 GB de RAM.[PESSOA] - \n[LOCUTOR 18]: [LOCAL]. Aí tem a segunda aqui.\n[LOCUTOR 9]: A segundaTed [LOCAL] - \n[LOCUTOR 18]: linha é\n[LOCUTOR 9]: o backup, a terceira linha é uma outra máquina com duasTed [LOCAL] - \n[LOCUTOR 18]: [PESSOA]. E aqui\n[LOCUTOR 9]: sãoTed [LOCAL] - \n[LOCUTOR 18]: dois discos, né?\n[LOCUTOR 9]: [LOCAL].[PESSOA] - \n[LOCUTOR 18]: Eu vou olhar essa questão do disco lá. Como é que tá o tamanho deles? Você pegou lá do prospecto que eu te mandei, não é [PESSOA]?\n[LOCUTOR 13]: Isso, daqueles que colocam sempre.[PESSOA] - \n[LOCUTOR 18]: Eu acho que teve um ajuste pra baixo, até por conta da... da tratativa que a gente deu aqui no sistema, que não esteja utilizando mais esses 50 aí, tá? Mas eu vou confirmar, pra te ajudar isso aí. Pegar uma fotografia lá, do cenário, né? Aí a questão da banda, o backup eu acho que eles não fazem lá, tá? Porque realmente o valor não... Eles não utilizam a estrutura da [EMPRESA], eu acredito que\n[LOCUTOR 9]: não. Foi o que eu pensei, [PESSOA], por isso [PESSOA] [LOCAL] - \n[LOCUTOR 18]: eu... \n[LOCUTOR 5]: você tem essa outra linha de cobrança com eles, que é a parte do serviço, eu imaginei que ele não estaria dentro.[PESSOA] - \n[LOCUTOR 18]: Não estaria lá, né? Voc\n[LOCUTOR 8]: tambémTed [LOCAL] - \n[LOCUTOR 18]: têm uma vantagem, assim, se eu for contratar o que eu tenho lá aqui no [LOCAL], falei até pra [PESSOA] hoje, né? Eles inclusive falam assim, cara, não dá porque eu não consigo fazer esse preço aí, entendeu?\n[LOCUTOR 9]: Sim.[PESSOA] - \n[LOCUTOR 18]: Porque o preço quase que dobra você trazendo ele pra dentro da estrutura aqui no [LOCAL]. Tudo muito mais caro. Você\n[LOCUTOR 9]: falou da AWS mesmo.[PESSOA] - \n[LOCUTOR 18]: Os preços deles. Vou dizer uma coisa pra você. Eles são um time especializado lá em hospedagem de WordPress. E eles têm uns preços, não sei qual é o cambalacho que eles fazem lá. Que é realmente assim. Eu nunca consegui nada competitivo com eles. Vou ser bem sério com você. Porque todo mundo que você traz aqui Na verdade a [LOCAL] quando entrou há dois anos atrás os caras estavam cobrindo qualquer oferta. Na época voc\n[LOCUTOR 8]: sofreramTed [LOCAL] - \n[LOCUTOR 18]: aí com eles.\n[LOCUTOR 9]: Sim os carasTed [LOCAL] - \n[LOCUTOR 18]: estavam\n[LOCUTOR 9]: queimando dinheiro e eles [EMPRESA] - \n[LOCUTOR 18]: queimar dinheiro.\n[LOCUTOR 9]: FazTed [LOCAL] - \n[LOCUTOR 18]: parte. Muita gente eu vi que migrou para lá e tal. Entendeu foram condições bem. Eu nem olhei lá na verdade. Eu não sei como é que está lá mas assim eu acredito que lá eles não têm a questão do backup lá dentro não deve fazer. De outra forma, isso aí. Mas... Eu tento aqui, dentro de casa aqui, com meus dois sócios aqui, a gente trazer essa infa pra vocês aí, tá?\n[LOCUTOR 9]: [PESSOA],[PESSOA] - \n[LOCUTOR 18]: mas assim, o try é bem importante, pra eu ver o negócio rodando lá e até a capacidade técnica do time aqui. de fazer a sustentação disso aí, entendeu? Que o desafio deles é montar o ambiente aí, tá? Não precisa de backup, você pode diminuir isso aí, né? Bastante, pela metade pra... E outra coisa, eu fazendo isso antes, né? Eu quero fazer o quanto antes, eu libero o ambiente, né? E a gente parte aí pra assinatura do contrato. Eu falei pra a [LOCAL] que tem um outro ambiente, eu tô desenvolvendo uma plataforma de telemedicina, né?\n[LOCUTOR 9]: comTed [LOCAL] - \n[LOCUTOR 18]: o time lá da [LOCAL]. E assim, a gente está em fase agora de tratativa, eles vão me passar a configuração da máquina, eu vou fazer uma cotação com vocês também aí, tá? Eles indicaram aqui até, não sei se você conhece, uma coisa que eu não tinha visto ainda, mas vou falar com você aqui, mas me parece que os preços deles são bem competitivos, tá? Vou até abrir aqui para você.\n[LOCUTOR 9]: O provedor, você disse, [PESSOA], eles te recomendaramTed [LOCAL] - \n[LOCUTOR 18]: o\n[LOCUTOR 9]: provedor?[PESSOA] - \n[LOCUTOR 18]: É. Deram uma sugestão, né? Vou abrir aqui para você. Uma estimativa aqui. Deixa eu compartilhar até aqui. [PESSOA]. Então aqui ó, eles fizeram a parte de... Na verdade é o time de desenvolvimento, tá?\n[LOCUTOR 9]: Sim.[PESSOA] - \n[LOCUTOR 18]: Eles fizeram a sugestão pra gente colocar esse [PESSOA] aqui, você já ouviu falar dele?\n[LOCUTOR 9]: [PESSOA] é novidade pra mim, [PESSOA] - \n[LOCUTOR 18]: É, cara, mas...\n[LOCUTOR 9]: Eles entregam infra? Ou eles [EMPRESA] - \n[LOCUTOR 18]: serviço... Entregam infra, entregam infra.\n[LOCUTOR 9]: [PESSOA].[PESSOA] - \n[LOCUTOR 18]: É bem bacana. Então a estrutura não tem aqui... Eles fizeram lá uma sessão na AWS e nesse Flywire. Eu criei uma conta pra mim lá, eu vi assim que é tudo muito baseado em Prompt, né? Não tem aquela modernidade toda que tem na AWS, nem o que vocês têm aí, tá? Então, assim, é muito hands-on lá, mão na massa. Mas a diferença aqui, assim, não olhei maiores detalhes, não tive essa reunião no início da semana aí, tá? Eu pedi para eles a infraestrutura de hardware inicial que eles precisam para fazer uma contação com vocês aí. N\n[LOCUTOR 1]: legal legal interessante. Eu particularmente não conhecia não. Se você conseguir levantar esse. [PESSOA] - \n[LOCUTOR 18]: olhada lá, eu vou levantar o requisito e passar pra vocês. Eu também não conhecia, tá? Mas assim, esse pessoal é acadêmico, né cara? Eles desenvolvem projetos pra muitas empresas de fora aí e os caras chegam, o mercado é assim, né? Chega coisa pra eles aí, como novidade, né?\n[LOCUTOR 9]: Sim, na olhadaTed [LOCAL] - \n[LOCUTOR 18]: da loja\n[LOCUTOR 9]: deles aqui parece ser interessante mesmo.[PESSOA] - \n[LOCUTOR 18]: Parece interessante. Assim, do ponto de vista, é mais um play pra competir com vocês, mas é como você falou, né? Como você tem que estar abaixo aí logo esse negócio aí vai vai escalar. Se já não é né. Sim. Se já não é. Então eles utilizam diversos projetos lá já de clientes deles dentro dessa faixa aí. Então eles falam o cara e eles desenvolvem projetos para DEL para empresas grandes e bem robustas. Sim eu acho que vale a pena dar uma olhada mas esse é um que eu vou. Assim que ele me passar aqui o requisito mínimo de rádio Eu vou passar para a [PESSOA] aí para a gente fazer uma cotação aí também que é um projeto que está em MVP e vai entrar. É provável que tem produção ele em maio junho. É uma coisa bem bem mais próxima até desse outro aí meu\n[LOCUTOR 9]: show. Foi de bola foi de bola. Vamos dar esse passo inicial então eu e a [PESSOA] a gente vai brigar aqui para entender o que a gente consegue fazer de melhor na [LOCAL] - \n[LOCUTOR 18]: do\n[LOCUTOR 9]: ambienteTed [LOCAL] - \n[LOCUTOR 18]: se é\n[LOCUTOR 9]: possível se não é por quanto tempo. E aí a gente alinha com você. Até amanhã a gente já dá um retorno com [LOCAL] - \n[LOCUTOR 18]: posição bacana. Aí vamos assim. Esse trail é bom. As coisas dão uma parada agora sempre lá. Aí a gente alinha a data direitinho entendeu. Tendo ok aí eu também alinho com a turma lá. Eu falei três meses pode ser que seja menos como eu te falei. Mas eu que você consegue aí que eu acho que vai dar um um impulso bem legal aí para trazer essa info para cá.\n[LOCUTOR 9]: Beleza. Ficou de bola.[PESSOA] - \n[LOCUTOR 18]: [LOCAL]. Deixa\n[LOCUTOR 9]: com a gente aqui e aí até amanhã a [PESSOA] já sinaliza com a devolutiva que eu vou receber interna.[PESSOA] - \n[LOCUTOR 18]: Fechou então. [PESSOA] vocês a\n[LOCUTOR 6]: tá.[PESSOA] - \n[LOCUTOR 18]: Obrigado viu [PESSOA]. Obrigado\n[LOCUTOR 9]: [PESSOA]. [PESSOA] - \n[LOCUTOR 18]: coisa é s\n[LOCUTOR 11]: [LOCAL] - \n[LOCUTOR 18]: aqui tá.\n[LOCUTOR 9]: [LOCAL].\n[LOCUTOR 13]: Obrigada.[PESSOA] - \n[LOCUTOR 18]: Um abraço. [PESSOA].\n[LOCUTOR 13]: Então, os três meses que é meio complicado. Ah,\n[LOCUTOR 9]: então, a gente vai dar um jeito de dar um somebody love nele, você vai ver. Eu não vou conseguir literalmente isso que ele quer, mas alguma coisa eu vou conseguir. Não vai ser\n[LOCUTOR 13]: literalmente\n[LOCUTOR 9]: isso, mas alguma coisa eu vou conseguir. Só que tem um ponto, não sei se você se ligou, eu tinha olhado a proposta de manhã e essa linha aqui, não sei se ficou claro pra você durante a conversa, mas aquela linha que custa 400 e pouco, ela é uma linha que lá eles não têm. Ele podia falar pra você que tava pagando aquele valor que ele pagou, mas esse Então se ele falasse pode tirar a gente já tiraria quatrocentos\n[LOCUTOR 13]: e poucos. Para eles impacta. Sabe por que dessa vez ele já pediu para colocar\n[LOCUTOR 9]: que\n[LOCUTOR 13]: da outra máquina que nós usamos ele fez o [LOCAL]. Aí na hora que começaram a entrar em contato com ele, ele [PESSOA], backup.\n[LOCUTOR 9]: Aí teve\n[LOCUTOR 13]: que assinar uma outra proposta parte, então na cabeça dele ficou ruim fazer separado, né? Então dessa vez ele já falou, faz com backup.\n[LOCUTOR 9]: Não, é importante, pô.\n[LOCUTOR 13]: Mas é importante... Desculpa,\n[LOCUTOR 9]: é importante ter o backup, sem dúvida, eu não recomendo nenhum entrar sem o backup, só que eu vi na interação que ele teve com você ali no WhatsApp, você perguntou, é o mesmo escopo?\n[LOCUTOR 13]: Aí ele\n[LOCUTOR 9]: falou pra você, é o mesmo escopo. Só que eu sei que não é, eu sei\n[LOCUTOR 13]: que lá eles\n[LOCUTOR 9]: não entendem. Então, ele não foi... \n[LOCUTOR 4]: não diria\n[LOCUTOR 9]: nem fair.\n[LOCUTOR 13]: Basicamente,\n[LOCUTOR 9]: ali ele olhou a máquina e tal...\n[LOCUTOR 13]: Não, é\n[LOCUTOR 9]: a mesma\n[LOCUTOR 13]: coisa.\n[LOCUTOR 9]: É a mesma coisa, mas não é a mesma coisa. Então, a\n[LOCUTOR 13]: gente tem\n[LOCUTOR 9]: esses 400 e pouco pra tirar. E a gente tinha além desses 400 e pouco, mas... 160 para tirar. Então, a gente está falando aí de já reduzir quase 600 reais nessa mensalidade e a gente ficaria competitivo, entendeu? Então, era para mostrar para ele o que a gente conseguiria\n[LOCUTOR 13]: fazer. E tinha uma possibilidade, né? Tá.\n[LOCUTOR 9]: Isso. E aí, agora, a minha estratégia vai ser a seguinte. Como ele falou que o backup para esse primeiro momento de teste não seria necessário, a gente vai apresentar um valor inicial sem o backup. Então, eu vou trabalhar aqui para ver o valor mínimo, acho que vai ficar em uns 1.300 reais a mensalidade, beleza?\n[LOCUTOR 13]: [LOCUTOR 3]: esses R$ 1.300 fica mais fácil de brigar por alguma coisa, porque se os caras olharem uma proposta de R$ 2.000 vai ser mais difícil. R$ 1.300 vai ser mais fácil para conseguir tentar contornar aqui internamente a gente costurar isso. E aí ele quer três meses. Três meses a gente não vai conseguir, mas alguma coisa a gente vai. E aí alinhar com ele. A gente conseguiu reduzir o valor para tanto, a gente vai conseguir segurar o primeiro mês, alguma coisa nessa linha a gente vai fazer, tá bom? Então, tranquilo. É porque ele é bem objetivo, ele é bem rápido em tomada de decisão. Até me espantou que essa, ele falou assim, não, é pra setembro. Porque quando ele me pede, ele quer a proposta até inclusive no mesmo dia. Geralmente\n[LOCUTOR 9]: ele\n[LOCUTOR 13]: assina na mesma semana, no máximo na próxima. Ele tem um timing muito rápido de decisão. Então, por isso que eu queria tentar trazer esse contexto da intenção do restante para que você levasse para o pessoal inteiro, porque tem outras oportunidades ali, como você viu. Então, quanto\n[LOCUTOR 9]: mais\n[LOCUTOR 13]: negócios ele gerar ali, você vê que a intenção é unificar tudo aqui. Esses são os dois que estão em pauta, mas pode surgir mais. Não,\n[LOCUTOR 9]: e é\n[LOCUTOR 13]: tiro\n[LOCUTOR 9]: rápido, né, [PESSOA]? É tiro rápido. É o\n[LOCUTOR 13]: tipo\n[LOCUTOR 9]: de oportunidade que é tiro rápido. Então, se a gente conseguir capitalizar isso daí, a gente não vai ter tanto trabalho para conduzir, para gerenciar, é pegar, comprar proposta Desenrolar.\n[LOCUTOR 13]: Não, tranquilo. Eu vou só lembrar ele de me enviar essas evidências aqui do\n[LOCUTOR 9]: escopo da\n[LOCUTOR 13]: AWS. Recebendo já te compartilho então.\n[LOCUTOR 9]: Fechou. \n[LOCUTOR 7]: disso,\n[LOCUTOR 9]: eu já vou me movimentar aqui. Até amanhã\n[LOCUTOR 13]: eu tenho uma\n[LOCUTOR 9]: opção pra gente conseguir costurar isso, tá?\n[LOCUTOR 13]: Beleza, vou cobrar ele aqui então, tá bom? Obrigada, [PESSOA]. [LOCAL],\n[LOCUTOR 9]: tchau.",
+  "texto_filtrado": "[LOCUTOR 13]: Então, uma das coisas que chegou até a te perguntar é que ele queria a degustação dessas máquinas também, tá? É um tópico que ele vai trazer pra você, mas ele vai explicar o porquê. Parece que tem das máquinas que ele tem, tem já um time que faz sustentação, enfim, um volume que ele vai explicar. Mas ele trouxe esse ponto, que a intenção dele é de trazer tudo pra gente. Meio que ele vai ficar pedindo, já que é a intenção dele,\n[LOCUTOR 9]: E você sabe o motivo o porquê que ele quer sair lá da AWS.\n[LOCUTOR 13]: Então porque ele quer pelo menos o que ele disse está nativo aqui no [LOCAL].\n[LOCUTOR 9]: Entendi. Vamos ouvir o que ele tem para dizer e aquela proposta dele lá a gente discutiu o escopo.\n[LOCUTOR 13]: Eu até expliquei isso para ele que eu já vou só explicar se liberar. Eu até expliquei isso para ele que estava como 12 meses a precificação E aí ele\n[LOCUTOR 13]: autorizou a colocar como 36, se isso for mudar o cenário, tá?\n[LOCUTOR 13]: Fala,\n[LOCUTOR 13]: [EMPRESA] -\n[LOCUTOR 13]: Tudo tranquilo. [PESSOA], eu trouxe o cara de [PESSOA].[PESSOA] -\n[LOCUTOR 13]: falarTed [LOCAL] -\n[LOCUTOR 13]: você, eu sei que você já me explicou alguns pontos hoje mais cedo, mas foi como eu te falei, acho que é mais produtivo e efetivo que você passe as suas necessidades, essa intenção que a gente tem, né, contínua, de trazer a parte da CTS que tá na AWS pra todos, tá? Pra que a gente consiga te apoiar aqui comercialmente, tá [PESSOA] -\n[LOCUTOR 18]: Pronto. O que é que eu conversei com a [PESSOA] hoje? Então, eu estou com essa frente de trazer o que eu tenho da AWS para cá. O que estava sob minha gestão eu já trouxe, que foi a parte do Proteus que está no [PESSOA],\n[LOCUTOR 9]: e [LOCAL] -\n[LOCUTOR 18]: três máquinas pequenas que tem atividades específicas. Aí eu tenho mais dois serviços lá, que é um de hospedagem de MySQL, e o outro que é um servidor web, né? E aí eu gostaria de passar, só que esse é um pouco mais delicado porque eu tenho um sistema de e-commerce lá, tá? Rodando em produção, e tem uma empresa que faz a gestão pra mim, entendeu? Então, além da hospedagem, eles fazem a sustentação do servidor lá pra mim, entendeu? É um serviço a mais, que eu trazendo pra Totos aqui, eu não teria esse serviço. porque a especialidade do pessoal lá é o orde de prédios, né? Então eles cuidam da parte de segurança, uma série de itens lá. Mas, e tem uma empresa de desenvolvimento que cuida do projeto pra mim, e eles fazem essa parte de sustentação também.\n[LOCUTOR 9]: [LOCAL] -\n[LOCUTOR 18]: que eu queria, já conheço ele há um bom tempo, né? E aí, o que é que eu falei com a [PESSOA] aqui? Eu tenho ele pago até setembro lá, entendeu? Então tem uma folga aí até eu... eu negociar o próximo ano com eles, mas eu queria uma degustação, eu já peguei uma vez uma degustação de 30 dias, que eu sei que vocês fazem, não sei se ainda está com essa promoção, mas eu precisaria de 30 dias para quê? Dessas duas máquinas que está no orçamento aí, para que eu montasse isso com esse time lá, ver se o negócio está funcionando, que eles realmente são capazes Entendeu? E tem um feeling ali de como vai funcionar. Isso porque essa plataforma lá, ela lê dados do Proteus aí, por API, né? Então ela toda interrompida. Uma coisa que eu quero trazer é pro [LOCAL], né? Porque hoje tá lá em [LOCAL], né? Então tem esse delay aí, né? Tá? Então eu queria ver isso funcionando. Então se fosse possível, né? Até para mostrar, eu acho que tem uma possibilidade até de eu colocar isso funcionando, mostrar para os meus sócios aqui, que não são de TI, que você sabe que tem essa dificuldade também do negócio, já está pago até setembro.\n[LOCUTOR 9]: [LOCAL] [LOCAL] -\n[LOCUTOR 18]: existem vários benefícios para que a gente traga isso para cá. Eu queria fazer esse pedido para você ver o que você pode fazer para a gente adiantar isso, um pouco o negócio, se é possível, claro.\n[LOCUTOR 9]: Era até mil reais na época?[PESSOA] -\n[LOCUTOR 9]: é. eles colocam algumas campanhas aqui, mas assim, nada impede agora, deu bar ganhar e a gente vai fazer isso aqui, pode ter certeza da gente ver o que a gente consegue fazerTed [LOCAL] -\n[LOCUTOR 18]: para\n[LOCUTOR 9]: conseguir te dar a possibilidade de fazer esse teste. Eu queria confirmar contigo uma questão importantíssima que é com relação ao escopo aqui, porque pelo que a [PESSOA] meTed [LOCAL] -\n[LOCUTOR 18]: falou, o\n[LOCUTOR 9]: valor que você paga de infraestrutura lá na AWS por essas máquinas aqui, ele está bem abaixo, né?[PESSOA] -\n[LOCUTOR 18]: Sim sim está bem abaixo do que do que eu pago para vocês pela como eles fazem um ano para mim. Então acaba que eu até pedi para eles o valor o provável valor até porque o dólar como a gente paga o valor em dólar\n[LOCUTOR 9]: háTed [LOCAL] -\n[LOCUTOR 18]: uma tendência de queda né do que eu renovei para hoje já tá quase já tá um real acho a menos né a projeção ali entendeu ent\n[LOCUTOR 1]: éTed [LOCAL] -\n[LOCUTOR 18]: provável e lá é [EMPRESA] né o índice de reajuste né entendeu mas como é uma queda do dólar aí eu acredito que cai um pouco tá mas eu tenho também lá o valor referente à sustentação que eles fazem. Entendeu\n[LOCUTOR 9]: que uma dúvida que eu fiquei pede você paga esse valor fixo que aí você fecha o contrato anualTed [LOCAL] -\n[LOCUTOR 18]: pelo ano.\n[LOCUTOR 9]: E esse valor fixo ele não tem nada além dele que você precisa pagar adicional. Por exemplo o tráfego de entrada e saída lá dentro da nuvem pública eles eles cobram de você isso também.[PESSOA] -\n[LOCUTOR 18]: Não não não não não já está incluído já. Eu só tenho um outro contrato de serviço com eles. em relação à nuvem, a tráfego não é cobrado. O que eu tenho aqui com eles, às vezes, que geram uma cobrança, é que às vezes eu preciso, eu estou com algum problema no sistema aqui, por exemplo, outro dia eu tive um problema de espaço em disco lá, uma falha na nossa aplicação aqui, não estava pagando os arquivos lá, e aí o que é que eu peço para eles? Cara, dá um upgrade aí no espaço, né? E aí fica ali uma semana, duas, até eu tratar aquilo ali, entendeu? Conseguir, aí eu pago essas diferenças aí.\n[LOCUTOR 9]: Ou precisoTed [LOCAL] -\n[LOCUTOR 18]: de mais máquina porque eu estou fazendo uma campanha aqui, algo desse tipo, entendeu? O que varia em relação a isso aí, mas mais nada disso aí não.\n[LOCUTOR 9]: Entendi. Aqui, o que eu estava tentando fazer, quando eu recebi essa proposta aqui da [PESSOA], era enxergar um caminho onde a gente pudesse baratear algum tipo de custo aqui dentro dessa estrutura. Por exemplo, tem a variável aqui do backup, [PESSOA].[PESSOA] -\n[LOCUTOR 9]: backup é importante para você que a TOTOS faça, ou caso você continue com essa gestão, eles realizariam esse backup da estrutura para você?[PESSOA] -\n[LOCUTOR 18]: Não, eu prefiro que fique aí com vocês, isso aí. Mas é, por exemplo, nesse período aí não precisa do backup, né? No período\n[LOCUTOR 9]: de teste, você diz, né?[PESSOA] -\n[LOCUTOR 18]: É, no período de teste não precisa.\n[LOCUTOR 9]: [LOCAL], que é a seguinte, o pessoal, eles construíram essa oferta, eles trazem pra gente que essa oferta era uma oferta muito competitiva perante ao mercado, principalmente a nuvem pública, onde a gente precisa ter um valor inferior ao que está sendo praticado lá, mas o que a gente vê com o seu relato, é que a gente não tá competitivo se a gente for comparar o valor com o valor. Eu queria saber, eu vou avaliar essa possibilidade da gente conseguir fazer esse trial e entregar pra você esse ambiente aí por um período, ainda não defini,[PESSOA] -\n[LOCUTOR 9]: a gente vaiTed [LOCAL] -\n[LOCUTOR 18]: estudar essa\n[LOCUTOR 9]: possibilidade. Mas eu queria saber se você conseguiria me ajudar, evidenciando [LOCAL] é o valor que você paga lá? Assim, eu acredito totalmenteTed [LOCAL] -\n[LOCUTOR 18]: no que você está falando. Eu\n[LOCUTOR 9]: preciso escalar isso daqui para cima para mostrar para o pessoal que eles passam para a gente do comercial aqui de estrutura foi construída uma oferta com um valor competitivo mas não é o que a gente vê na prática com o seu depoimento e a gente precisa brigar tanto paraTed [LOCAL] -\n[LOCUTOR 18]: reduzir\n[LOCUTOR 9]: quanto usar isso como argumento para a gente liberar para você.[PESSOA] -\n[LOCUTOR 9]: Aqui vocêTed [LOCAL] -\n[LOCUTOR 18]: tem o link, né?\n[LOCUTOR 9]: EuTed [LOCAL] -\n[LOCUTOR 9]: Isso, é uma máquina. É uma máquina com 4 [PESSOA], Linux, 8 GB de RAM.[PESSOA] -\n[LOCUTOR 18]: [LOCAL]. Aí tem a segunda aqui.\n[LOCUTOR 9]: A segundaTed [LOCAL] -\n[LOCUTOR 18]: linha é\n[LOCUTOR 9]: o backup, a terceira linha é uma outra máquina com duasTed [LOCAL] -\n[LOCUTOR 18]: [PESSOA]. E aqui\n[LOCUTOR 9]: sãoTed [LOCAL] -\n[LOCUTOR 18]: dois discos, né?\n[LOCUTOR 9]: [LOCAL].[PESSOA] -\n[LOCUTOR 18]: Eu vou olhar essa questão do disco lá. Como é que tá o tamanho deles? Você pegou lá do prospecto que eu te mandei, não é [PESSOA]?\n[LOCUTOR 13]: Isso, daqueles que colocam sempre.[PESSOA] -\n[LOCUTOR 18]: Eu acho que teve um ajuste pra baixo, até por conta da... da tratativa que a gente deu aqui no sistema, que não esteja utilizando mais esses 50 aí, tá? Mas eu vou confirmar, pra te ajudar isso aí. Pegar uma fotografia lá, do cenário, né? Aí a questão da banda, o backup eu acho que eles não fazem lá, tá? Porque realmente o valor não... Eles não utilizam a estrutura da [EMPRESA], eu acredito que\n[LOCUTOR 9]: não. Foi o que eu pensei, [PESSOA], por isso [PESSOA] [LOCAL] -\n[LOCUTOR 5]: você tem essa outra linha de cobrança com eles, que é a parte do serviço, eu imaginei que ele não estaria dentro.[PESSOA] -\n[LOCUTOR 8]: tambémTed [LOCAL] -\n[LOCUTOR 18]: têm uma vantagem, assim, se eu for contratar o que eu tenho lá aqui no [LOCAL], falei até pra [PESSOA] hoje, né? Eles inclusive falam assim, cara, não dá porque eu não consigo fazer esse preço aí, entendeu?\n[LOCUTOR 18]: Porque o preço quase que dobra você trazendo ele pra dentro da estrutura aqui no [LOCAL]. Tudo muito mais caro. Você\n[LOCUTOR 9]: falou da AWS mesmo.[PESSOA] -\n[LOCUTOR 18]: Os preços deles. Vou dizer uma coisa pra você. Eles são um time especializado lá em hospedagem de WordPress. E eles têm uns preços, não sei qual é o cambalacho que eles fazem lá. Que é realmente assim. Eu nunca consegui nada competitivo com eles. Vou ser bem sério com você. Porque todo mundo que você traz aqui Na verdade a [LOCAL] quando entrou há dois anos atrás os caras estavam cobrindo qualquer oferta. Na época voc\n[LOCUTOR 8]: sofreramTed [LOCAL] -\n[LOCUTOR 18]: aí com eles.\n[LOCUTOR 18]: estavam\n[LOCUTOR 9]: queimando dinheiro e eles [EMPRESA] -\n[LOCUTOR 18]: queimar dinheiro.\n[LOCUTOR 9]: FazTed [LOCAL] -\n[LOCUTOR 18]: parte. Muita gente eu vi que migrou para lá e tal. Entendeu foram condições bem. Eu nem olhei lá na verdade. Eu não sei como é que está lá mas assim eu acredito que lá eles não têm a questão do backup lá dentro não deve fazer. De outra forma, isso aí. Mas... Eu tento aqui, dentro de casa aqui, com meus dois sócios aqui, a gente trazer essa infa pra vocês aí, tá?\n[LOCUTOR 9]: [PESSOA],[PESSOA] -\n[LOCUTOR 18]: mas assim, o try é bem importante, pra eu ver o negócio rodando lá e até a capacidade técnica do time aqui. de fazer a sustentação disso aí, entendeu? Que o desafio deles é montar o ambiente aí, tá? Não precisa de backup, você pode diminuir isso aí, né? Bastante, pela metade pra... E outra coisa, eu fazendo isso antes, né? Eu quero fazer o quanto antes, eu libero o ambiente, né? E a gente parte aí pra assinatura do contrato. Eu falei pra a [LOCAL] que tem um outro ambiente, eu tô desenvolvendo uma plataforma de telemedicina, né?\n[LOCUTOR 9]: comTed [LOCAL] -\n[LOCUTOR 18]: o time lá da [LOCAL]. E assim, a gente está em fase agora de tratativa, eles vão me passar a configuração da máquina, eu vou fazer uma cotação com vocês também aí, tá? Eles indicaram aqui até, não sei se você conhece, uma coisa que eu não tinha visto ainda, mas vou falar com você aqui, mas me parece que os preços deles são bem competitivos, tá? Vou até abrir aqui para você.\n[LOCUTOR 9]: O provedor, você disse, [PESSOA], eles te recomendaramTed [LOCAL] -\n[LOCUTOR 9]: provedor?[PESSOA] -\n[LOCUTOR 18]: É. Deram uma sugestão, né? Vou abrir aqui para você. Uma estimativa aqui. Deixa eu compartilhar até aqui. [PESSOA]. Então aqui ó, eles fizeram a parte de... Na verdade é o time de desenvolvimento, tá?\n[LOCUTOR 18]: Eles fizeram a sugestão pra gente colocar esse [PESSOA] aqui, você já ouviu falar dele?\n[LOCUTOR 9]: [PESSOA] é novidade pra mim, [PESSOA] -\n[LOCUTOR 18]: É, cara, mas...\n[LOCUTOR 9]: Eles entregam infra? Ou eles [EMPRESA] -\n[LOCUTOR 18]: serviço... Entregam infra, entregam infra.\n[LOCUTOR 9]: [PESSOA].[PESSOA] -\n[LOCUTOR 18]: É bem bacana. Então a estrutura não tem aqui... Eles fizeram lá uma sessão na AWS e nesse Flywire. Eu criei uma conta pra mim lá, eu vi assim que é tudo muito baseado em Prompt, né? Não tem aquela modernidade toda que tem na AWS, nem o que vocês têm aí, tá? Então, assim, é muito hands-on lá, mão na massa. Mas a diferença aqui, assim, não olhei maiores detalhes, não tive essa reunião no início da semana aí, tá? Eu pedi para eles a infraestrutura de hardware inicial que eles precisam para fazer uma contação com vocês aí. N\n[LOCUTOR 1]: legal legal interessante. Eu particularmente não conhecia não. Se você conseguir levantar esse. [PESSOA] -\n[LOCUTOR 18]: olhada lá, eu vou levantar o requisito e passar pra vocês. Eu também não conhecia, tá? Mas assim, esse pessoal é acadêmico, né cara? Eles desenvolvem projetos pra muitas empresas de fora aí e os caras chegam, o mercado é assim, né? Chega coisa pra eles aí, como novidade, né?\n[LOCUTOR 18]: da loja\n[LOCUTOR 9]: deles aqui parece ser interessante mesmo.[PESSOA] -\n[LOCUTOR 18]: Parece interessante. Assim, do ponto de vista, é mais um play pra competir com vocês, mas é como você falou, né? Como você tem que estar abaixo aí logo esse negócio aí vai vai escalar. Se já não é né. Sim. Se já não é. Então eles utilizam diversos projetos lá já de clientes deles dentro dessa faixa aí. Então eles falam o cara e eles desenvolvem projetos para DEL para empresas grandes e bem robustas. Sim eu acho que vale a pena dar uma olhada mas esse é um que eu vou. Assim que ele me passar aqui o requisito mínimo de rádio Eu vou passar para a [PESSOA] aí para a gente fazer uma cotação aí também que é um projeto que está em MVP e vai entrar. É provável que tem produção ele em maio junho. É uma coisa bem bem mais próxima até desse outro aí meu\n[LOCUTOR 9]: show. Foi de bola foi de bola. Vamos dar esse passo inicial então eu e a [PESSOA] a gente vai brigar aqui para entender o que a gente consegue fazer de melhor na [LOCAL] -\n[LOCUTOR 9]: ambienteTed [LOCAL] -\n[LOCUTOR 9]: possível se não é por quanto tempo. E aí a gente alinha com você. Até amanhã a gente já dá um retorno com [LOCAL] -\n[LOCUTOR 18]: posição bacana. Aí vamos assim. Esse trail é bom. As coisas dão uma parada agora sempre lá. Aí a gente alinha a data direitinho entendeu. Tendo ok aí eu também alinho com a turma lá. Eu falei três meses pode ser que seja menos como eu te falei. Mas eu que você consegue aí que eu acho que vai dar um um impulso bem legal aí para trazer essa info para cá.\n[LOCUTOR 9]: Beleza. Ficou de bola.[PESSOA] -\n[LOCUTOR 9]: com a gente aqui e aí até amanhã a [PESSOA] já sinaliza com a devolutiva que eu vou receber interna.[PESSOA] -\n[LOCUTOR 6]: tá.[PESSOA] -\n[LOCUTOR 9]: [PESSOA]. [PESSOA] -\n[LOCUTOR 18]: coisa é s\n[LOCUTOR 11]: [LOCAL] -\n[LOCUTOR 18]: aqui tá.\n[LOCUTOR 9]: [LOCAL].\n[LOCUTOR 13]: Obrigada.[PESSOA] -\n[LOCUTOR 18]: Um abraço. [PESSOA].\n[LOCUTOR 13]: Então, os três meses que é meio complicado. Ah,\n[LOCUTOR 13]: literalmente\n[LOCUTOR 9]: isso, mas alguma coisa eu vou conseguir. Só que tem um ponto, não sei se você se ligou, eu tinha olhado a proposta de manhã e essa linha aqui, não sei se ficou claro pra você durante a conversa, mas aquela linha que custa 400 e pouco, ela é uma linha que lá eles não têm. Ele podia falar pra você que tava pagando aquele valor que ele pagou, mas esse Então se ele falasse pode tirar a gente já tiraria quatrocentos\n[LOCUTOR 13]: e poucos. Para eles impacta. Sabe por que dessa vez ele já pediu para colocar\n[LOCUTOR 13]: da outra máquina que nós usamos ele fez o [LOCAL]. Aí na hora que começaram a entrar em contato com ele, ele [PESSOA], backup.\n[LOCUTOR 9]: Aí teve\n[LOCUTOR 13]: que assinar uma outra proposta parte, então na cabeça dele ficou ruim fazer separado, né? Então dessa vez ele já falou, faz com backup.\n[LOCUTOR 9]: é importante ter o backup, sem dúvida, eu não recomendo nenhum entrar sem o backup, só que eu vi na interação que ele teve com você ali no WhatsApp, você perguntou, é o mesmo escopo?\n[LOCUTOR 13]: Aí ele\n[LOCUTOR 13]: que lá eles\n[LOCUTOR 9]: nem fair.\n[LOCUTOR 13]: Basicamente,\n[LOCUTOR 9]: ali ele olhou a máquina e tal...\n[LOCUTOR 9]: a mesma\n[LOCUTOR 13]: coisa.\n[LOCUTOR 13]: gente tem\n[LOCUTOR 9]: esses 400 e pouco pra tirar. E a gente tinha além desses 400 e pouco, mas... 160 para tirar. Então, a gente está falando aí de já reduzir quase 600 reais nessa mensalidade e a gente ficaria competitivo, entendeu? Então, era para mostrar para ele o que a gente conseguiria\n[LOCUTOR 13]: fazer. E tinha uma possibilidade, né? Tá.\n[LOCUTOR 9]: Isso. E aí, agora, a minha estratégia vai ser a seguinte. Como ele falou que o backup para esse primeiro momento de teste não seria necessário, a gente vai apresentar um valor inicial sem o backup. Então, eu vou trabalhar aqui para ver o valor mínimo, acho que vai ficar em uns 1.300 reais a mensalidade, beleza?\n[LOCUTOR 13]: [LOCUTOR 3]: esses R$ 1.300 fica mais fácil de brigar por alguma coisa, porque se os caras olharem uma proposta de R$ 2.000 vai ser mais difícil. R$ 1.300 vai ser mais fácil para conseguir tentar contornar aqui internamente a gente costurar isso. E aí ele quer três meses. Três meses a gente não vai conseguir, mas alguma coisa a gente vai. E aí alinhar com ele. A gente conseguiu reduzir o valor para tanto, a gente vai conseguir segurar o primeiro mês, alguma coisa nessa linha a gente vai fazer, tá bom? Então, tranquilo. É porque ele é bem objetivo, ele é bem rápido em tomada de decisão. Até me espantou que essa, ele falou assim, não, é pra setembro. Porque quando ele me pede, ele quer a proposta até inclusive no mesmo dia. Geralmente\n[LOCUTOR 13]: assina na mesma semana, no máximo na próxima. Ele tem um timing muito rápido de decisão. Então, por isso que eu queria tentar trazer esse contexto da intenção do restante para que você levasse para o pessoal inteiro, porque tem outras oportunidades ali, como você viu. Então, quanto\n[LOCUTOR 13]: negócios ele gerar ali, você vê que a intenção é unificar tudo aqui. Esses são os dois que estão em pauta, mas pode surgir mais. Não,\n[LOCUTOR 13]: tiro\n[LOCUTOR 9]: rápido, né, [PESSOA]? É tiro rápido. É o\n[LOCUTOR 9]: de oportunidade que é tiro rápido. Então, se a gente conseguir capitalizar isso daí, a gente não vai ter tanto trabalho para conduzir, para gerenciar, é pegar, comprar proposta Desenrolar.\n[LOCUTOR 9]: escopo da\n[LOCUTOR 13]: AWS. Recebendo já te compartilho então.\n[LOCUTOR 9]: Fechou.\n[LOCUTOR 7]: disso,\n[LOCUTOR 13]: eu tenho uma\n[LOCUTOR 9]: opção pra gente conseguir costurar isso, tá?",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:21.440043+00:00",
+    "total_linhas": 188,
+    "linhas_mantidas": 141,
+    "linhas_removidas": 47,
+    "percentual_mantido": 75.0,
+    "confianca_media": 0.4777
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 13]: Então, uma das coisas que chegou até a te perguntar é que ele queria a degustação dessas máquinas também, tá? É um tópico que ele vai trazer pra você, mas ele vai explicar o porquê. Parece que tem das máquinas que ele tem, tem já um time que faz sustentação, enfim, um volume que ele vai explicar. Mas ele trouxe esse ponto, que a intenção dele é de trazer tudo pra gente. Meio que ele vai ficar pedindo, já que é a intenção dele,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: E você sabe o motivo o porquê que ele quer sair lá da AWS.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5492,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Então porque ele quer pelo menos o que ele disse está nativo aqui no [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5241,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Entendi. Vamos ouvir o que ele tem para dizer e aquela proposta dele lá a gente discutiu o escopo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Eu até expliquei isso para ele que eu já vou só explicar se liberar. Eu até expliquei isso para ele que estava como 12 meses a precificação E aí ele",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: até me",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4019,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: autorizou a colocar como 36, se isso for mudar o cenário, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4782,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Não, beleza. Oi,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3481,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [PESSOA], tudo [PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Olá, [PESSOA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Fala,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA], boa tarde, tudo bem?[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Boa tarde, tudo bem, [PESSOA]? Deixa eu trocar a tela aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3691,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [EMPRESA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: aí, tudo tranquilo?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Tudo tranquilo. [PESSOA], eu trouxe o cara de [PESSOA].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4829,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Pra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: falarTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: você, eu sei que você já me explicou alguns pontos hoje mais cedo, mas foi como eu te falei, acho que é mais produtivo e efetivo que você passe as suas necessidades, essa intenção que a gente tem, né, contínua, de trazer a parte da CTS que tá na AWS pra todos, tá? Pra que a gente consiga te apoiar aqui comercialmente, tá [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Pronto. O que é que eu conversei com a [PESSOA] hoje? Então, eu estou com essa frente de trazer o que eu tenho da AWS para cá. O que estava sob minha gestão eu já trouxe, que foi a parte do Proteus que está no [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5498,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: três máquinas pequenas que tem atividades específicas. Aí eu tenho mais dois serviços lá, que é um de hospedagem de MySQL, e o outro que é um servidor web, né? E aí eu gostaria de passar, só que esse é um pouco mais delicado porque eu tenho um sistema de e-commerce lá, tá? Rodando em produção, e tem uma empresa que faz a gestão pra mim, entendeu? Então, além da hospedagem, eles fazem a sustentação do servidor lá pra mim, entendeu? É um serviço a mais, que eu trazendo pra Totos aqui, eu não teria esse serviço. porque a especialidade do pessoal lá é o orde de prédios, né? Então eles cuidam da parte de segurança, uma série de itens lá. Mas, e tem uma empresa de desenvolvimento que cuida do projeto pra mim, e eles fazem essa parte de sustentação também.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: que eu queria, já conheço ele há um bom tempo, né? E aí, o que é que eu falei com a [PESSOA] aqui? Eu tenho ele pago até setembro lá, entendeu? Então tem uma folga aí até eu... eu negociar o próximo ano com eles, mas eu queria uma degustação, eu já peguei uma vez uma degustação de 30 dias, que eu sei que vocês fazem, não sei se ainda está com essa promoção, mas eu precisaria de 30 dias para quê? Dessas duas máquinas que está no orçamento aí, para que eu montasse isso com esse time lá, ver se o negócio está funcionando, que eles realmente são capazes Entendeu? E tem um feeling ali de como vai funcionar. Isso porque essa plataforma lá, ela lê dados do Proteus aí, por API, né? Então ela toda interrompida. Uma coisa que eu quero trazer é pro [LOCAL], né? Porque hoje tá lá em [LOCAL], né? Então tem esse delay aí, né? Tá? Então eu queria ver isso funcionando. Então se fosse possível, né? Até para mostrar, eu acho que tem uma possibilidade até de eu colocar isso funcionando, mostrar para os meus sócios aqui, que não são de TI, que você sabe que tem essa dificuldade também do negócio, já está pago até setembro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL] [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: existem vários benefícios para que a gente traga isso para cá. Eu queria fazer esse pedido para você ver o que você pode fazer para a gente adiantar isso, um pouco o negócio, se é possível, claro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Não, beleza, [PESSOA]. Beleza. Vamos trabalhar junto aqui, eu e a [PESSOA], a gente vai correr atrás aqui para conseguir entregar uma, pelo menos uma experiência inicial para você. O que eu não consigo garantir é que a gente vai conseguir entregar até esse teste que você fez no outro momento, possivelmente era um teste com recurso limitado, era algum recurso de [LOCAL] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: máquina... Era até mil reais eu acho, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4234,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Era até mil reais na época?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: é. eles colocam algumas campanhas aqui, mas assim, nada impede agora, deu bar ganhar e a gente vai fazer isso aqui, pode ter certeza da gente ver o que a gente consegue fazerTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5354,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: conseguir te dar a possibilidade de fazer esse teste. Eu queria confirmar contigo uma questão importantíssima que é com relação ao escopo aqui, porque pelo que a [PESSOA] meTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: falou, o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: valor que você paga de infraestrutura lá na AWS por essas máquinas aqui, ele está bem abaixo, né?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Sim sim está bem abaixo do que do que eu pago para vocês pela como eles fazem um ano para mim. Então acaba que eu até pedi para eles o valor o provável valor até porque o dólar como a gente paga o valor em dólar",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: háTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: uma tendência de queda né do que eu renovei para hoje já tá quase já tá um real acho a menos né a projeção ali entendeu ent",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5481,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: éTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: provável e lá é [EMPRESA] né o índice de reajuste né entendeu mas como é uma queda do dólar aí eu acredito que cai um pouco tá mas eu tenho também lá o valor referente à sustentação que eles fazem. Entendeu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que uma dúvida que eu fiquei pede você paga esse valor fixo que aí você fecha o contrato anualTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: pelo ano.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: E esse valor fixo ele não tem nada além dele que você precisa pagar adicional. Por exemplo o tráfego de entrada e saída lá dentro da nuvem pública eles eles cobram de você isso também.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Não não não não não já está incluído já. Eu só tenho um outro contrato de serviço com eles. em relação à nuvem, a tráfego não é cobrado. O que eu tenho aqui com eles, às vezes, que geram uma cobrança, é que às vezes eu preciso, eu estou com algum problema no sistema aqui, por exemplo, outro dia eu tive um problema de espaço em disco lá, uma falha na nossa aplicação aqui, não estava pagando os arquivos lá, e aí o que é que eu peço para eles? Cara, dá um upgrade aí no espaço, né? E aí fica ali uma semana, duas, até eu tratar aquilo ali, entendeu? Conseguir, aí eu pago essas diferenças aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Ou precisoTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: de mais máquina porque eu estou fazendo uma campanha aqui, algo desse tipo, entendeu? O que varia em relação a isso aí, mas mais nada disso aí não.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Entendi. Aqui, o que eu estava tentando fazer, quando eu recebi essa proposta aqui da [PESSOA], era enxergar um caminho onde a gente pudesse baratear algum tipo de custo aqui dentro dessa estrutura. Por exemplo, tem a variável aqui do backup, [PESSOA].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: backup é importante para você que a TOTOS faça, ou caso você continue com essa gestão, eles realizariam esse backup da estrutura para você?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5739,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Não, eu prefiro que fique aí com vocês, isso aí. Mas é, por exemplo, nesse período aí não precisa do backup, né? No período",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4893,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: de teste, você diz, né?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: É, no período de teste não precisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5123,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Não, entendi. Mas depois, é porque assim, só pra gente conseguir até ser competitivo e você me dar insumo, porque é uma briga que eu tenho aqui com o time de [PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4322,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL], que é a seguinte, o pessoal, eles construíram essa oferta, eles trazem pra gente que essa oferta era uma oferta muito competitiva perante ao mercado, principalmente a nuvem pública, onde a gente precisa ter um valor inferior ao que está sendo praticado lá, mas o que a gente vê com o seu relato, é que a gente não tá competitivo se a gente for comparar o valor com o valor. Eu queria saber, eu vou avaliar essa possibilidade da gente conseguir fazer esse trial e entregar pra você esse ambiente aí por um período, ainda não defini,[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a gente vaiTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: estudar essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: possibilidade. Mas eu queria saber se você conseguiria me ajudar, evidenciando [LOCAL] é o valor que você paga lá? Assim, eu acredito totalmenteTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: no que você está falando. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4794,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: preciso escalar isso daqui para cima para mostrar para o pessoal que eles passam para a gente do comercial aqui de estrutura foi construída uma oferta com um valor competitivo mas não é o que a gente vê na prática com o seu depoimento e a gente precisa brigar tanto paraTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: reduzir",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: quanto usar isso como argumento para a gente liberar para você.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5188,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Tá bom, tá bom. Aqui tem... São duas máquinas aí, deixa eu ver.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4067,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Aqui vocêTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: tem o link, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: EuTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: tô conseguindo enxergar. Deixa eu ver aí. O primeiro aí... Ah, tá. O primeiro aqui é uma máquina, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4584,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Isso, é uma máquina. É uma máquina com 4 [PESSOA], Linux, 8 GB de RAM.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [LOCAL]. Aí tem a segunda aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: A segundaTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: linha é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: o backup, a terceira linha é uma outra máquina com duasTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5331,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [PESSOA]. E aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: sãoTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: dois discos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Eu vou olhar essa questão do disco lá. Como é que tá o tamanho deles? Você pegou lá do prospecto que eu te mandei, não é [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4627,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Isso, daqueles que colocam sempre.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Eu acho que teve um ajuste pra baixo, até por conta da... da tratativa que a gente deu aqui no sistema, que não esteja utilizando mais esses 50 aí, tá? Mas eu vou confirmar, pra te ajudar isso aí. Pegar uma fotografia lá, do cenário, né? Aí a questão da banda, o backup eu acho que eles não fazem lá, tá? Porque realmente o valor não... Eles não utilizam a estrutura da [EMPRESA], eu acredito que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: não. Foi o que eu pensei, [PESSOA], por isso [PESSOA] [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4618,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: eu...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: você tem essa outra linha de cobrança com eles, que é a parte do serviço, eu imaginei que ele não estaria dentro.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5273,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Não estaria lá, né? Voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tambémTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: têm uma vantagem, assim, se eu for contratar o que eu tenho lá aqui no [LOCAL], falei até pra [PESSOA] hoje, né? Eles inclusive falam assim, cara, não dá porque eu não consigo fazer esse preço aí, entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Porque o preço quase que dobra você trazendo ele pra dentro da estrutura aqui no [LOCAL]. Tudo muito mais caro. Você",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: falou da AWS mesmo.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Os preços deles. Vou dizer uma coisa pra você. Eles são um time especializado lá em hospedagem de WordPress. E eles têm uns preços, não sei qual é o cambalacho que eles fazem lá. Que é realmente assim. Eu nunca consegui nada competitivo com eles. Vou ser bem sério com você. Porque todo mundo que você traz aqui Na verdade a [LOCAL] quando entrou há dois anos atrás os caras estavam cobrindo qualquer oferta. Na época voc",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: sofreramTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: aí com eles.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim os carasTed [LOCAL] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.44,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: estavam",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: queimando dinheiro e eles [EMPRESA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: queimar dinheiro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: FazTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: parte. Muita gente eu vi que migrou para lá e tal. Entendeu foram condições bem. Eu nem olhei lá na verdade. Eu não sei como é que está lá mas assim eu acredito que lá eles não têm a questão do backup lá dentro não deve fazer. De outra forma, isso aí. Mas... Eu tento aqui, dentro de casa aqui, com meus dois sócios aqui, a gente trazer essa infa pra vocês aí, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA],[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: mas assim, o try é bem importante, pra eu ver o negócio rodando lá e até a capacidade técnica do time aqui. de fazer a sustentação disso aí, entendeu? Que o desafio deles é montar o ambiente aí, tá? Não precisa de backup, você pode diminuir isso aí, né? Bastante, pela metade pra... E outra coisa, eu fazendo isso antes, né? Eu quero fazer o quanto antes, eu libero o ambiente, né? E a gente parte aí pra assinatura do contrato. Eu falei pra a [LOCAL] que tem um outro ambiente, eu tô desenvolvendo uma plataforma de telemedicina, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: comTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: o time lá da [LOCAL]. E assim, a gente está em fase agora de tratativa, eles vão me passar a configuração da máquina, eu vou fazer uma cotação com vocês também aí, tá? Eles indicaram aqui até, não sei se você conhece, uma coisa que eu não tinha visto ainda, mas vou falar com você aqui, mas me parece que os preços deles são bem competitivos, tá? Vou até abrir aqui para você.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: O provedor, você disse, [PESSOA], eles te recomendaramTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: provedor?[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: É. Deram uma sugestão, né? Vou abrir aqui para você. Uma estimativa aqui. Deixa eu compartilhar até aqui. [PESSOA]. Então aqui ó, eles fizeram a parte de... Na verdade é o time de desenvolvimento, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4698,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim.[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Eles fizeram a sugestão pra gente colocar esse [PESSOA] aqui, você já ouviu falar dele?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA] é novidade pra mim, [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: É, cara, mas...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Eles entregam infra? Ou eles [EMPRESA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: serviço... Entregam infra, entregam infra.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: É bem bacana. Então a estrutura não tem aqui... Eles fizeram lá uma sessão na AWS e nesse Flywire. Eu criei uma conta pra mim lá, eu vi assim que é tudo muito baseado em Prompt, né? Não tem aquela modernidade toda que tem na AWS, nem o que vocês têm aí, tá? Então, assim, é muito hands-on lá, mão na massa. Mas a diferença aqui, assim, não olhei maiores detalhes, não tive essa reunião no início da semana aí, tá? Eu pedi para eles a infraestrutura de hardware inicial que eles precisam para fazer uma contação com vocês aí. N",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: legal legal interessante. Eu particularmente não conhecia não. Se você conseguir levantar esse. [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: olhada lá, eu vou levantar o requisito e passar pra vocês. Eu também não conhecia, tá? Mas assim, esse pessoal é acadêmico, né cara? Eles desenvolvem projetos pra muitas empresas de fora aí e os caras chegam, o mercado é assim, né? Chega coisa pra eles aí, como novidade, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Sim, na olhadaTed [LOCAL] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: da loja",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: deles aqui parece ser interessante mesmo.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5165,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Parece interessante. Assim, do ponto de vista, é mais um play pra competir com vocês, mas é como você falou, né? Como você tem que estar abaixo aí logo esse negócio aí vai vai escalar. Se já não é né. Sim. Se já não é. Então eles utilizam diversos projetos lá já de clientes deles dentro dessa faixa aí. Então eles falam o cara e eles desenvolvem projetos para DEL para empresas grandes e bem robustas. Sim eu acho que vale a pena dar uma olhada mas esse é um que eu vou. Assim que ele me passar aqui o requisito mínimo de rádio Eu vou passar para a [PESSOA] aí para a gente fazer uma cotação aí também que é um projeto que está em MVP e vai entrar. É provável que tem produção ele em maio junho. É uma coisa bem bem mais próxima até desse outro aí meu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: show. Foi de bola foi de bola. Vamos dar esse passo inicial então eu e a [PESSOA] a gente vai brigar aqui para entender o que a gente consegue fazer de melhor na [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5924,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ambienteTed [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: se é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: possível se não é por quanto tempo. E aí a gente alinha com você. Até amanhã a gente já dá um retorno com [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4786,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: posição bacana. Aí vamos assim. Esse trail é bom. As coisas dão uma parada agora sempre lá. Aí a gente alinha a data direitinho entendeu. Tendo ok aí eu também alinho com a turma lá. Eu falei três meses pode ser que seja menos como eu te falei. Mas eu que você consegue aí que eu acho que vai dar um um impulso bem legal aí para trazer essa info para cá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Beleza. Ficou de bola.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.482,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: [LOCAL]. Deixa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: com a gente aqui e aí até amanhã a [PESSOA] já sinaliza com a devolutiva que eu vou receber interna.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4623,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Fechou então. [PESSOA] vocês a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: tá.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Obrigado viu [PESSOA]. Obrigado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [PESSOA]. [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: coisa é s",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: [LOCAL] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: aqui tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Obrigada.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 18]: Um abraço. [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Então, os três meses que é meio complicado. Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: então, a gente vai dar um jeito de dar um somebody love nele, você vai ver. Eu não vou conseguir literalmente isso que ele quer, mas alguma coisa eu vou conseguir. Não vai ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4362,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: literalmente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: isso, mas alguma coisa eu vou conseguir. Só que tem um ponto, não sei se você se ligou, eu tinha olhado a proposta de manhã e essa linha aqui, não sei se ficou claro pra você durante a conversa, mas aquela linha que custa 400 e pouco, ela é uma linha que lá eles não têm. Ele podia falar pra você que tava pagando aquele valor que ele pagou, mas esse Então se ele falasse pode tirar a gente já tiraria quatrocentos",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: e poucos. Para eles impacta. Sabe por que dessa vez ele já pediu para colocar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5527,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: da outra máquina que nós usamos ele fez o [LOCAL]. Aí na hora que começaram a entrar em contato com ele, ele [PESSOA], backup.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5587,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Aí teve",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: que assinar uma outra proposta parte, então na cabeça dele ficou ruim fazer separado, né? Então dessa vez ele já falou, faz com backup.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Não, é importante, pô.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Mas é importante... Desculpa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4276,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: é importante ter o backup, sem dúvida, eu não recomendo nenhum entrar sem o backup, só que eu vi na interação que ele teve com você ali no WhatsApp, você perguntou, é o mesmo escopo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Aí ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: falou pra você, é o mesmo escopo. Só que eu sei que não é, eu sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4434,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: que lá eles",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: não entendem. Então, ele não foi...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4225,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 4]: não diria",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: nem fair.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Basicamente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ali ele olhou a máquina e tal...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Não, é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a mesma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: coisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: É a mesma coisa, mas não é a mesma coisa. Então, a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: gente tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: esses 400 e pouco pra tirar. E a gente tinha além desses 400 e pouco, mas... 160 para tirar. Então, a gente está falando aí de já reduzir quase 600 reais nessa mensalidade e a gente ficaria competitivo, entendeu? Então, era para mostrar para ele o que a gente conseguiria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5609,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: fazer. E tinha uma possibilidade, né? Tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Isso. E aí, agora, a minha estratégia vai ser a seguinte. Como ele falou que o backup para esse primeiro momento de teste não seria necessário, a gente vai apresentar um valor inicial sem o backup. Então, eu vou trabalhar aqui para ver o valor mínimo, acho que vai ficar em uns 1.300 reais a mensalidade, beleza?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: [LOCUTOR 3]: esses R$ 1.300 fica mais fácil de brigar por alguma coisa, porque se os caras olharem uma proposta de R$ 2.000 vai ser mais difícil. R$ 1.300 vai ser mais fácil para conseguir tentar contornar aqui internamente a gente costurar isso. E aí ele quer três meses. Três meses a gente não vai conseguir, mas alguma coisa a gente vai. E aí alinhar com ele. A gente conseguiu reduzir o valor para tanto, a gente vai conseguir segurar o primeiro mês, alguma coisa nessa linha a gente vai fazer, tá bom? Então, tranquilo. É porque ele é bem objetivo, ele é bem rápido em tomada de decisão. Até me espantou que essa, ele falou assim, não, é pra setembro. Porque quando ele me pede, ele quer a proposta até inclusive no mesmo dia. Geralmente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: ele",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: assina na mesma semana, no máximo na próxima. Ele tem um timing muito rápido de decisão. Então, por isso que eu queria tentar trazer esse contexto da intenção do restante para que você levasse para o pessoal inteiro, porque tem outras oportunidades ali, como você viu. Então, quanto",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: negócios ele gerar ali, você vê que a intenção é unificar tudo aqui. Esses são os dois que estão em pauta, mas pode surgir mais. Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 9]: e é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tiro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: rápido, né, [PESSOA]? É tiro rápido. É o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: tipo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 9]: de oportunidade que é tiro rápido. Então, se a gente conseguir capitalizar isso daí, a gente não vai ter tanto trabalho para conduzir, para gerenciar, é pegar, comprar proposta Desenrolar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Não, tranquilo. Eu vou só lembrar ele de me enviar essas evidências aqui do",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4358,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: escopo da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: AWS. Recebendo já te compartilho então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: Fechou.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 7]: disso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: eu já vou me movimentar aqui. Até amanhã",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3742,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: eu tenho uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4709,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: opção pra gente conseguir costurar isso, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 13]: Beleza, vou cobrar ele aqui então, tá bom? Obrigada, [PESSOA]. [LOCAL],",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3578,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

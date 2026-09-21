@@ -1,0 +1,3085 @@
+{
+  "id_reuniao": "1155182",
+  "codt": "T04167",
+  "data_reuniao": "2026-03-06 14:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 28]: Boa tarde. Olá,\n[LOCUTOR 70]: boa tarde. Tudo\n[LOCUTOR 1]: bem?\n[LOCUTOR 89]: Pessoal,\n[LOCUTOR 6]: boa tarde.\n[LOCUTOR 77]: Boa tarde, pessoal.\n[LOCUTOR 70]: Tudo bem, gente?\n[LOCUTOR 89]: Tudo jóia?\n[LOCUTOR 20]: Tudo\n[LOCUTOR 70]: jóia. Pessoal, eu falo aqui pelo lado da fotos, né? A [PESSOA], que estava conduzindo junto com vocês, ela comentou que vai atrasar alguns minutinhos. Estamos finalizando uma outra reunião. Acho que ela já está chegando conosco.\n[LOCUTOR 31]: [EMPRESA],\n[LOCUTOR 70]: gente.\n[LOCUTOR 31]: Boa tarde. Tudo bem?\n[LOCUTOR 20]: Boa\n[LOCUTOR 6]: tarde,\n[LOCUTOR 89]: [PESSOA].\n[LOCUTOR 31]: Desculpa o atraso de alguns minutinhos. Estava numa outra agenda aqui. Mas que bom que deu certo, né? [PESSOA], a gente tem começado? Não,\n[LOCUTOR 70]: eu já tava aí a comentar, só que você tinha avisado que ia atrasar uns minutinhos, mas foi\n[LOCUTOR 6]: bem\n[LOCUTOR 70]: breve, então...\n[LOCUTOR 31]: Foi bem pontual, é\n[LOCUTOR 70]: forecast,\n[LOCUTOR 31]: né,\n[LOCUTOR 70]: meu\n[LOCUTOR 31]: amigo? Então é rápido.\n[LOCUTOR 70]: Sexta-feira, forecast, né? Isso aí.\n[LOCUTOR 31]: É, n\n[LOCUTOR 38]: tem como\n[LOCUTOR 31]: não ser, né? Mas ficou. Pessoal, é a primeira vez que nós conhecemos, né? Conhece todo mundo, eu acho que já.\n[LOCUTOR 70]: Só... Apalhando um pouquinho o teu microfone, eu acho,\n[LOCUTOR 20]: [PESSOA]. É, apalhou aqui pra mim, não sei se...\n[LOCUTOR 6]: [PESSOA]\n[LOCUTOR 31]: ouvem?\n[LOCUTOR 70]: Sim,\n[LOCUTOR 20]: vamos\n[LOCUTOR 70]: ouvir. Tudo\n[LOCUTOR 31]: certo. Então, perfeito. Acho que a gente pode seguir,\n[LOCUTOR 70]: né?\n[LOCUTOR 31]: Fiquei super à vontade aí, [PESSOA].\n[LOCUTOR 70]: Sim, legal. Bom, a [PESSOA] me comentou, pessoal. [PESSOA] passou, inclusive, um e-mail que vocês trocaram ali a respeito de estar utilizando o Identity e fazendo single sign-on com algumas soluções que hoje vocês já têm. Soluções totos, né? Não sei se tem alguma solução também de outros fornecedores. Enfim, a ideia seria a gente fazer um papo sobre isso, né? como que seria um projeto para fazer essa integração, esse uso via SSO do Identity. Então eu queria escutar, eu acho que vocês já conhecem a solução, pelo que eu percebi, vocês já descreveram, inclusive, algumas coisas, né? Passaram ali, né? Meia referência técnica, algumas documentações. Então eu queria entender um pouco mais do projeto em si, o que vocês têm como objetivo, o que vocês querem do nosso apoio para é trazer o identity para uma realidade de vocês, integrado com a rede, integrado também com os aplicativos do dia a dia. O que eu posso contribuir com vocês?\n[LOCUTOR 89]: Então, [PESSOA], o projeto, ele consiste em a gente fazer essa integração do Proteus e do RM para fazer o single sign-on utilizando\n[LOCUTOR 70]: a identidade\n[LOCUTOR 89]: que a gente tem aqui de rede. Então, no caso, poderia ser, na verdade, preferencialmente com o [LOCAL], né?\n[LOCUTOR 70]: Então,\n[LOCUTOR 89]: quando o usuário fazer a autenticação, ele vai utilizar o mesmo\n[LOCUTOR 70]: usu\n[LOCUTOR 54]: de rede, que eles já estão acostumados, né? já\n[LOCUTOR 70]: est\n[LOCUTOR 5]: acostumados a utilizar ali todo... Nós já temos sistemas aqui que utilizam, né? \n[LOCUTOR 10]: uso,\n[LOCUTOR 89]: né?\n[LOCUTOR 70]: Desse...\n[LOCUTOR 89]: Dessa integração com o [EMPRESA]. Então, o\n[LOCUTOR 70]: pessoal aqui\n[LOCUTOR 89]: é muito tranquilo de passar por todo o processo. Inclusive, ali com o [LOCAL].\n[LOCUTOR 70]: Mas,\n[LOCUTOR 89]: como nós temos essa questão, né? Principalmente do RM, né? Que tem ali usuários que fazem... Que não são, né? Da rede, né? Que são os alunos, né? Que fazem um acesso ali via... CPF ou alguma outra conta. Tem essa preocupação, né, de como é que seria feito. \n[LOCUTOR 58]: portal, tu diz, o portal do aluno?\n[LOCUTOR 89]: Isso.\n[LOCUTOR 70]: \n[LOCUTOR 84]: do Connect. Sim, a gente tem a possibilidade de trazer eles também ali junto com o single sign-on, né, fazendo o mesmo login.\n[LOCUTOR 89]: É, que na verdade a gente não tem a gestão desses usuários, né, porque esses usuários são... Se eu falar alguma besteira aqui, o pessoal me corrige, mas eu acredito que eles ficam armazenados ali dentro de uma base local, mas o single sign-on seria para o acesso administrativo.\n[LOCUTOR 20]: Acho que esse é o ponto, né, [PESSOA]? Acho que se a gente fosse utilizar a solução do IDENTIS, até vai ficar\n[LOCUTOR 70]: claro,\n[LOCUTOR 20]: tá? Eu não conheço a solução,\n[LOCUTOR 70]: acho que\n[LOCUTOR 20]: o [PESSOA] aí, talvez o [PESSOA], o pessoal conheça mais,\n[LOCUTOR 70]: mas\n[LOCUTOR 20]: eu não conheço ela, tá? E aí eu entendo que o acesso ali pelo single sign-on que a gente quer utilizar seria para os acessos administrativos, né? Eu entendo que ali, se a gente for implementar na RM,\n[LOCUTOR 70]: para\n[LOCUTOR 20]: os alunos, para os pais, teria que continuar o acesso, de repente, para o usuário e senha, que é hoje, né? Sem afetar,\n[LOCUTOR 70]: né?\n[LOCUTOR 20]: [PESSOA], [PESSOA]? [PESSOA] aí.\n[LOCUTOR 70]: Sim,\n[LOCUTOR 89]: exatamente.\n[LOCUTOR 70]: Eu acho que não teria impacto, né? Estaria separado daí os logins, né? A gente, aí só, depois eu valido, inclusive, isso com o próprio time do RM, Questões ali de habilitar isso para que seja uma autenticação híbrida. Vamos falar dessa forma. Então, para o que é usuário administrativo possa usar o single sign-on e o que é usuário de portal, que tem ali direto pais, alunos, enfim, possa ser feito sem usar essa parte do login unificado do SSO. Se vocês quiserem eu mostro um pouquinho como é a parte do Identity ali interno para vocês também conhecerem, não sei se todo mundo já viu, mas se vocês quiserem eu mostro um pouquinho.\n[LOCUTOR 20]: Eu acho que seria legal, tá, [PESSOA]?\n[LOCUTOR 70]: Não sei\n[LOCUTOR 20]: se você conhece,\n[LOCUTOR 89]: mas o\n[LOCUTOR 20]: [PESSOA] é...\n[LOCUTOR 89]: É bem interessante.\n[LOCUTOR 70]: [PESSOA], eu vou mostrar então aqui o nosso ambiente, que a gente consegue reproduzir um pouco da experiência, inclusive, e aí fique à vontade para a gente ir fazendo trocas. ambiente com usuária administrativa aqui, mas aqui a gente pode pegar o material para apresentar um pouco de algumas minhas telas também PPT daí. Vocês já estão vendo a minha tela? Tá, né?\n[LOCUTOR 31]: Sim, [LOCAL].\n[LOCUTOR 70]: [PESSOA]. Bom, aqui vocês vão ter uma URL, né, que vai ser redirecionada, independente da solução que vocês vão estar estartando, iniciando ali, seja o portal do RL, seja o RH, o [EMPRESA], seja o Proteus, né, via app, e ele vai fazer a chamada de uma URL que vai estar configurada para o domínio de vocês. Vou chamar aqui, por exemplo, a fundação, .fluigidentity, e a partir disso, esse usuário e senha aqui, ele já está integrado com a rede, com o [EMPRESA]. Então, eu tenho aqui a minha autenticação, gravada aqui, e aí a gente tem o [EMPRESA] aqui habilitado, nesse caso aqui, que a gente usa, a gente tem um aplicativo que gera esse token de acesso. Então... Uma dúvida,\n[LOCUTOR 20]: [LOCAL]. Posso te\n[LOCUTOR 70]: falar?\n[LOCUTOR 20]: Posso te ir cortando?\n[LOCUTOR 70]: [EMPRESA], claro. Pode sim.\n[LOCUTOR 20]: Você mostrou ali a tela mostrando o usuário e senha, né? Hoje, em alguns sistemas que a gente tem aqui,\n[LOCUTOR 70]: o\n[LOCUTOR 20]: usuário não preenche o usuário e senha, né? É aquele botão, como se fosse ali do [EMPRESA], do \n[LOCUTOR 44]: ali,\n[LOCUTOR 20]: que tem o da [EMPRESA] também, entrar com a conta, né?\n[LOCUTOR 70]: Sim,\n[LOCUTOR 20]: o\n[LOCUTOR 70]: oficial...\n[LOCUTOR 20]: Sim,\n[LOCUTOR 70]: é possível, sim. Tu vai fazer esse vínculo aí com outra fonte, né, desses usuários. [EMPRESA] [EMPRESA], [EMPRESA], Facebook, Gmail, né,\n[LOCUTOR 89]: [EMPRESA].\n[LOCUTOR 70]: [LOCUTOR 42]: nosso objetivo é o [EMPRESA] mesmo. É o [EMPRESA], né? Sim, então ele vai estar disponível ali para fazer isso nessa tela de login. Então, além de... Aqui a gente não tem habilitado, né?\n[LOCUTOR 20]: Eu vou\n[LOCUTOR 70]: pegar o material aqui e depois a gente mostra também essa tela aí como seria isso. Vou trazer de novo aqui o [PESSOA]. Após isso ele vai estar atrelado ao usuário, as permissões do usuário. E aí a gente tem as aplicações que vão ser configuradas aqui para fazer o SSO. para a gente ter acesso aqui com o mesmo usuário. Aqui vocês vão fazer essa parametrização de aplicativos, vai criando aqui os aplicativos e liberando para grupos de usuário ou usuários específicos. E aí ele vai ter acesso a esse [LOCAL] de aplicações aqui para uso. Vou pegar aqui um exemplo que a gente tem, a gente usa o Gmail aqui. Então está ele configurado aqui, eu poderia ter aplicativos do Office 365, o [EMPRESA], também Aplicações de mercado, né? A gente já tem os aplicativos prontos e podem ser criadas aplicações customizadas. Então, vou chamar o aplicativo de outro fornecedor, vou chamar o próprio ERP, o [LOCAL], chamar o RM, chamar o Fluid, chamar o [EMPRESA], o Topos Analytics, ou outro [EMPRESA], o CRM. Vocês vão fazer essa configuração de aplicativo e fazer essa integração via protocolo, protocolo SAML, para fazer essa amarração de login, o SSO. Vou pegar aqui um exemplo, o [LOCAL], que a gente usa aqui, que é a nossa intranet, o nosso Fluid. A partir desse [LOCAL] de aplicações, eu vou navegando nas ferramentas do meu dia a dia. E aqui, integrado, sincronizado com o [EMPRESA], o [EMPRESA] Azure, enfim. e ele replica para cá todos os bloqueios, todos os usuários novos. Então, tem uma área administrativa que eu não tenho acesso aqui. Aqui eu só tenho o meu multi-empresa. Eu posso ter outras empresas aqui também por usuário, cadastrados e relacionados ao usuário. Cada empresa vai ter os seus aplicativos diferentes. E aí, claro, tem outros menus aqui com opções de auditoria, configuração de servidores, o próprio [EMPRESA] [EMPRESA]. Enfim, para esse sincronismo de usuários, de grupos, que ele espelha com a rede. E, através dessas áreas, você vai poder fazer a administração, tanto dos aplicativos, quanto dos usuários ativos, desativados. E o Identity faz o provisionamento desses usuários. O que que é? \n[LOCUTOR 71]: bloqueia o\n[LOCUTOR 70]: usuário.\n[LOCUTOR 89]: [PESSOA]. É, até nessa situação, né, que é importante também, porque assim, como a gente quer manter, né, a gente já tem um sistema aqui de DM, né, que\n[LOCUTOR 70]: faz\n[LOCUTOR 89]: esse provisionamento de usuários, né, ativa, né, cria e bloqueia usuários, se ele faz isso automaticamente, porque assim, a ideia do single sign-on é justamente isso, quando, por exemplo, o usuário sai da empresa, né, o usuário dele é bloqueado e automaticamente já não vai ter mais acesso ao sistema, né.\n[LOCUTOR 70]: [LOCUTOR 36]: que eu entendi, ele já vai sincronizar esse tipo de informação, que o usuário já foi bloqueado e já não vai mais permitir o acesso. Já. Ele já faz esse sincronismo automático ali\n[LOCUTOR 89]: e\n[LOCUTOR 70]: já bloqueia,\n[LOCUTOR 89]: ele já\n[LOCUTOR 70]: perde o acesso automaticamente. Isso fica rodando ali,\n[LOCUTOR 89]: que\n[LOCUTOR 70]: é o time, vamos\n[LOCUTOR 89]: chamar\n[LOCUTOR 70]: de time assim, tem\n[LOCUTOR 89]: um\n[LOCUTOR 70]: tempo de refresh, mas ele faz esse espelhamento dos usuários.\n[LOCUTOR 89]: [PESSOA].\n[LOCUTOR 70]: O próprio Identity também consegue fazer esse caso, o [EMPRESA] consegue fazer. o bloqueio lá na rede. Aqui eu peguei uma outra aplicação, só para exemplificar, mas que ele acessa. Aqui eu peguei um terceiro aqui. \n[LOCUTOR 14]: sei se voc\n[LOCUTOR 35]: estavam...\n[LOCUTOR 77]: Não, deixa eu só tirar uma dúvida. Nesse sentido de bloquear, a gente consegue plugar ele no Proteus, no GPI do Proteus, para fazer\n[LOCUTOR 70]: essa... para\n[LOCUTOR 77]: sinalizar que aquele usuário foi desligado e fazer esse bloqueio? Já tem essa integração nativa com o Proteus? \n[LOCUTOR 13]: bloqueia o nível acima, na verdade, né? Ele bloqueia o teu usuário pra acessar toda e qualquer aplicação daí.\n[LOCUTOR 6]: É que ele tá além do [EMPRESA], né? O \n[LOCUTOR 49]: a\n[LOCUTOR 6]: origem de tudo. Se bloqueia no [EMPRESA], é uma cascata, né?\n[LOCUTOR 77]: Ele não tem como, por exemplo, integrar no módulo de gestão de pessoas do Proteus para que o bloqueio chegue aqui no Identity e o Identity bloquear no [EMPRESA].\n[LOCUTOR 70]: Nesse caso, tu poderia ter um processo automatizado, um fluxo, que quando está dado, ou um gatilho, até mesmo uma integração no GPR, para fazer isso, tá? E o\n[LOCUTOR 77]: [LOCUTOR 24]: tem APIs para isso, mas n\n[LOCUTOR 34]: é\n[LOCUTOR 70]: nativo,\n[LOCUTOR 77]: né? Mas nativo, não. Tá. Não. A minha dúvida é se ela é nativa. A gente já tem essa integração com esse outro sistema que o [PESSOA] comentou,\n[LOCUTOR 70]: mas\n[LOCUTOR 77]: a minha dúvida é se teria alguma coisa nativa mesmo para conversar dentro do Proteus.\n[LOCUTOR 70]: [EMPRESA]. Atualmente, não, né? Mas como\n[LOCUTOR 77]: tu\n[LOCUTOR 70]: já tem o processo funcionaria da mesma forma, né? \n[LOCUTOR 74]: que\n[LOCUTOR 70]: por outro caminho. Quando bloqueado lá, o Identity iria bloquear aqui também, né?\n[LOCUTOR 77]: [LOCUTOR 13]: perderia o direito de acesso a toda e qualquer aplicação, ele não iria conseguir logar aqui, nessa área de aplicativos.\n[LOCUTOR 89]: [PESSOA], sobre o permissionamento, a permissão que eu tenho dentro do \n[LOCUTOR 24]: \n[LOCUTOR 56]: em relação às aplicações que o usuário vai ter acesso, certo?\n[LOCUTOR 70]: Isso, isso aí. Só,\n[LOCUTOR 89]: abaixo...\n[LOCUTOR 70]: \n[LOCUTOR 87]: no caso, por exemplo, vamos dizer que a gente implementou o sistema, o sistema está rodando, a gente define ali que ele vai ter acesso ao Proteus, só que se o usuário já tinha acesso ao Proteus antes. [LOCUTOR 85]: a isso, ele não vai alterar nenhuma permissão, né? O acesso ali que ele já tinha no Proteus permanece o mesmo, as configurações, os módulos, essas coisas, mesma coisa. Mesma coisa. O permissionamento entre os módulos do usuário é feito no próprio Proteus, né? Ainda.\n[LOCUTOR 89]: Tá bom.\n[LOCUTOR 70]: Sobre... Como\n[LOCUTOR 20]: você estava\n[LOCUTOR 70]: falando, né?\n[LOCUTOR 20]: Se eu tiver um grupo na D ali,\n[LOCUTOR 70]: por\n[LOCUTOR 20]: exemplo, eu crio um grupo na D lá de [EMPRESA]. Ele consegue, dá para relacionar, e digamos, eu tenho um conjunto de permissões lá no Proteus que eu chamo lá também de [EMPRESA]. Então ele consegue levar isso ou ele leva esse grupo até o\n[LOCUTOR 70]: Proteus\n[LOCUTOR 20]: como uma permissão do Proteus? Ou eu ainda tenho que ir lá no Proteus e associar que esse usuário tem a permiss\n[LOCUTOR 11]: financeira? Sim, tu ainda tem que fazer isso, [PESSOA] A gente tem algumas iniciativas que visam fazer isso, né? Pra fazer essa liberação aí do Identity poder levar permissionamento de menus, de funcionalidades, de rotinas lá dentro do Proteus, mas ela ainda não está liberada, ainda não está disponível para utilização.\n[LOCUTOR 6]: \n[LOCUTOR 52]: até depois trazer aqui para o time de produto e ver se a gente tem alguma previsão de liberar isso, tá? E aí eu posso dar um\n[LOCUTOR 20]: retorno\n[LOCUTOR 70]: para vocês na sequência. Mas na prática, hoje, teria que fazer a liberação lá dentro do Proteus, no configurador. liberando os menus, as permissões do usuário.\n[LOCUTOR 6]: Isso aí, eu vou pegar um gancho nessa dúvida aí, o [PESSOA], nessa gama de dúvidas sobre a questão do acesso. Pelo que eu entendi, me corrigi se eu estiver errado. Pelo que eu estou vendo, o Identity é um portal. Dentro desse portal, é uma console [EMPRESA], que eu vou logar nele via a minha conta do [EMPRESA], e dentro dela eu vou ter ali os ícones das plataformas que eu utilizo. Então, se eu tiver o RM, o meu RH, o próprio Proteus, vai estar tudo ali. Beleza, essa é\n[LOCUTOR 70]: a primeira\n[LOCUTOR 6]: fase. \n[LOCUTOR 58]: acesso\n[LOCUTOR 6]: a cada uma dessas plataformas, o que está autenticando nessas plataformas, é aí que eu fiquei um pouquinho na dúvida. Por exemplo, hoje o meu acesso no meu RH é com o meu CPF. O meu acesso com o meu RH, o meu usuário é o meu CPF, não é uma conta nem minha de e-mail, por exemplo. Como que ele vai interpretar essa segunda etapa no acesso direto das plataformas?\n[LOCUTOR 70]: Tá, aí a gente tem a amarração com essas plataformas, né? Vai ter ali... Por exemplo, no caso do [PESSOA] a gente já tem o aplicativo pronto para ser utilizado. Então ele vai ser parametrizado, mas via de regra essa amarração, esse vínculo, ele é feito pelo e-mail.\n[LOCUTOR 6]: \n[LOCUTOR 23]: aí cada aplicação pode ter um tratamento diferente. Mas a questão... Eu não tenho impacto para o usuário na hora dele entrar na aplicação? Por exemplo, no meu caso, eu loguei ali na plataforma, fiz o login no Identity. [PESSOA]. Agora eu quero acessar o meu RH. Eu estou dando o exemplo do meu RH aqui. Porque é um que não é tradicionalmente o e-mail. Mas eu vou acessar ali. Como que ele vai... Eu vou ter impacto nesse acesso?\n[LOCUTOR 70]: Não. O usuário, tu diz?\n[LOCUTOR 6]: É, porque o meu acesso hoje é CPF, né? Ele não é um usuário de e-mail no meu RH. Aí eu\n[LOCUTOR 70]: só tenho dúvida.\n[LOCUTOR 6]: Pode ser que tenha mais alguém com acesso igual o meu, né? Não sei se é padrão.\n[LOCUTOR 70]: Vai\n[LOCUTOR 6]: ter que\n[LOCUTOR 70]: ser feita uma mudança, né? Isso,\n[LOCUTOR 6]: exato.\n[LOCUTOR 70]: Aí eu não tenho detalhe\n[LOCUTOR 6]: de cada\n[LOCUTOR 70]: um dos aplicativos. A gente pode validar, tá? Pegar, por exemplo, o que seria as premissas, né? Pra gente implantar\n[LOCUTOR 6]: com o\n[LOCUTOR 70]: app. Isso, com o app meu RH. com o Proteus, o que\n[LOCUTOR 6]: temos\n[LOCUTOR 70]: ali de parametrização já pronta do lado de cada aplicação. Nessas\n[LOCUTOR 6]: que\n[LOCUTOR 70]: são nativas, que já existem. Então eu posso buscar aqui e mandar os detalhes disso, tá? De cabeça não tem essas informações. Mas via de regra é o e-mail, né? Então, tanto para integração com [EMPRESA], ele tem ali ou o e-mail nome.sobrenome e o arroba, ali o domínio, Então, de prática, de antirregra, é o e-mail que vai estar vinculado aqui.\n[LOCUTOR 6]: Usuários que\n[LOCUTOR 70]: não tiverem e-mail, tu pode ter usuários logins híbridos, né? Então, tu pode ter casos aqui que não vai estar integrado com o [EMPRESA], por exemplo, tu ter só um login, nome e sobrenome, né? Sim. E senha. Isso,\n[LOCUTOR 6]: eu acho que é importante a gente validar os requisitos para cada uma das plataformas, para a gente ver o\n[LOCUTOR 70]: que\n[LOCUTOR 6]: se vai acabar tendo alguma necessidade de adequação,\n[LOCUTOR 70]: o\n[LOCUTOR 6]: que a gente\n[LOCUTOR 70]: quer\n[LOCUTOR 6]: entender\n[LOCUTOR 70]: aqui\n[LOCUTOR 6]: também é a questão de... legal, eu vou colocar o identity\n[LOCUTOR 70]: aqui\n[LOCUTOR 6]: por uma melhoria de segurança, mas a nossa ideia\n[LOCUTOR 70]: é...\n[LOCUTOR 6]: e o\n[LOCUTOR 70]: impacto\n[LOCUTOR 6]: quanto\n[LOCUTOR 70]: a isso?\n[LOCUTOR 6]: Não... E como eu vou reduzir impactos ou não ter?\n[LOCUTOR 70]: O\n[LOCUTOR 6]: que eu tenho que fazer de atividade? Porque é um projeto mesmo,\n[LOCUTOR 70]: né? A\n[LOCUTOR 6]: gente precisa colocar umas atividadeszinhas ali até chegar no final.\n[LOCUTOR 70]: É, e é um projeto que tende a ser de médio e longo prazo, né?\n[LOCUTOR 6]: Vocês est\n[LOCUTOR 38]: cada vez trazendo mais aplicações ali pra dentro dessa área de aplicativos ali.\n[LOCUTOR 6]: Obviamente,\n[LOCUTOR 70]: vocês não vão sair com vários, vocês\n[LOCUTOR 6]: v\n[LOCUTOR 38]: incrementando aos poucos, né? Então, mas a gente pode pensar num projeto, sim, e aí a gente traz os que são importantes para uma primeira fase e traz para vocês os requisitos que são dispensáveis para que seja habilitado.\n[LOCUTOR 6]: Então, quanto a essa\n[LOCUTOR 70]: parte de\n[LOCUTOR 6]: migração, a gente pode deixar aí com vocês para validar esses requisitos, né?\n[LOCUTOR 70]: Para\n[LOCUTOR 6]: a gente poder entender.\n[LOCUTOR 70]: Isso, a gente só precisa daí, quais seriam as aplicações, né? Eu acho que o ARM, pelo que eu entendi, o Proteus.\n[LOCUTOR 6]: \n[LOCUTOR 76]: próprio... O meu RH, exato. O RM, o Proteus.\n[LOCUTOR 70]: E\n[LOCUTOR 6]: acho que era o portal também, né, [PESSOA]?\n[LOCUTOR 70]: O\n[LOCUTOR 6]: portal\n[LOCUTOR 77]: ele vai utilizar as APIs do Proteus também. O portal ele vai usar o Proteus também. fazer a autenticação. Então, aí se o Proteus fizer a\n[LOCUTOR 70]: autenticação,\n[LOCUTOR 77]: o portal consegue.\n[LOCUTOR 70]: Sim.\n[LOCUTOR 6]: \n[LOCUTOR 66]: uma URL diferente lá. [EMPRESA]. Mas ela não fica inserida no identity. Aí é só pra entender.\n[LOCUTOR 77]: [LOCUTOR 63]: acredito que não... Desculpa, [PESSOA]. É que esse portal que o [PESSOA] tá se referindo é um portal que a gente tem interno.\n[LOCUTOR 70]: Ah,\n[LOCUTOR 77]: entendi. É um\n[LOCUTOR 70]: portal customizado\n[LOCUTOR 77]: de\n[LOCUTOR 70]: vocês?\n[LOCUTOR 77]: É. Hoje ele autentica o usuário através do Proteus. A gente tem as APIs de usuário do Proteus, então hoje ele bate no Proteus e autentica. \n[LOCUTOR 87]: eu\n[LOCUTOR 77]: acho que assim,\n[LOCUTOR 89]: né, [PESSOA]? Uma vez que eu identifiquei ele e reconheci que o usuário foi\n[LOCUTOR 77]: bloqueado,\n[LOCUTOR 89]: que tem acesso ali ao\n[LOCUTOR 70]: Proteus,\n[LOCUTOR 89]: ele n\n[LOCUTOR 38]: vai\n[LOCUTOR 89]: permitir fazer essa autenticação do Proteus através do portal de contratos, né?\n[LOCUTOR 77]: Sim, sim. Exato.\n[LOCUTOR 6]: [PESSOA], legal.\n[LOCUTOR 77]: Porque daí ele vai bater direto no... Hoje ele bate no Proteus e depois\n[LOCUTOR 70]: bate no\n[LOCUTOR 77]: [EMPRESA].\n[LOCUTOR 70]: [LOCUTOR 50]: no caso ele bateria só no [EMPRESA] e\n[LOCUTOR 20]: depois\n[LOCUTOR 77]: no Proteus\n[LOCUTOR 20]: só pra\n[LOCUTOR 77]: verificar a\n[LOCUTOR 70]: permissão.\n[LOCUTOR 77]: Mudaria\n[LOCUTOR 20]: um\n[LOCUTOR 77]: pouquinho, mas de qualquer forma ele não bateria direto no ID.\n[LOCUTOR 70]: Eu vou anotar\n[LOCUTOR 20]: aqui\n[LOCUTOR 70]: pra pegar os detalhes, tá? Eu entendo que sim, ele estaria aqui como um aplicativo separado, né? Mas a autenticação dele vai funcionar, digamos que da mesma forma como o Proteus aí já vai ter, né? Eu entendo que será um aplicativo separado daí. Assim como a gente tem aqui o CRM\n[LOCUTOR 20]: É, só um ponto\n[LOCUTOR 70]: de\n[LOCUTOR 20]: atenção aí que\n[LOCUTOR 70]: tem que ter,\n[LOCUTOR 20]: acho que [PESSOA], \n[LOCUTOR 37]: e\n[LOCUTOR 20]: aí, [PESSOA], talvez fosse bom validar. É porque, [PESSOA], no portal,\n[LOCUTOR 70]: esse\n[LOCUTOR 20]: portal interno que a gente montou aqui, a gente chama de portal de contratos, tá, [PESSOA]? E aí, se você bate na API ali do Proteus, [PESSOA], eu entendo que o usuário lá pode estar, pode\n[LOCUTOR 70]: ser que\n[LOCUTOR 20]: não esteja bloqueado, né?\n[LOCUTOR 70]: [LOCUTOR 7]: é o que o [PESSOA] comentou, [PESSOA]. O Identity aí vai estar se comunicando com o Azure [EMPRESA], E aí ele bloqueia numa camada acima, mas ele não sincroniza isso com o Proteus, né? Então, se o portal de contratos tá batendo direto no Proteus, ele pode ter uma informação errada do status do usuário, né? Então acho que talvez seja um ponto pra gente validar depois, tá?\n[LOCUTOR 6]: [PESSOA], importante a consideração.\n[LOCUTOR 77]: Sim, sim, a gente tem que revisar depois. Hoje, na verdade, ele bate nas duas instâncias. Ele bate tanto no [EMPRESA] quanto no Proteus, só que na mesma\n[LOCUTOR 20]: ordem.\n[LOCUTOR 77]: Porque um valida a predição, um valida o usuário, e depois,\n[LOCUTOR 70]: se\n[LOCUTOR 77]: não me engano, ele bate no [EMPRESA] primeiro para validar o usuário. E aí, se o usuário autenticar, ele bate no Proteus para verificar se aquele usu\n[LOCUTOR 26]: também\n[LOCUTOR 77]: existe no Proteus e se ele tem,\n[LOCUTOR 20]: para ele\n[LOCUTOR 77]: fazer uma instalação portal. Se não me engano, o fluxo é esse. Aí para a gente trazer para o Identity, a gente poderia criar um app aqui\n[LOCUTOR 70]: e\n[LOCUTOR 77]: trazer ele para o Identity também, porque a gente não precisa\n[LOCUTOR 70]: ter\n[LOCUTOR 77]: essa permissão dentro do Proteus, poderia ter\n[LOCUTOR 70]: só\n[LOCUTOR 77]: no [EMPRESA] e depois aqui no Identity, para gerenciar\n[LOCUTOR 70]: isso.\n[LOCUTOR 89]: Eu vou colocar ali, né,\n[LOCUTOR 77]: [PESSOA],\n[LOCUTOR 89]: uma camada de autentica\n[LOCUTOR 21]: antes.\n[LOCUTOR 89]: antes de bater na API do Proteus.\n[LOCUTOR 77]: \n[LOCUTOR 87]: ali é a n\n[LOCUTOR 25]: do webapp mesmo.\n[LOCUTOR 77]: Sim, até pra gente guardar as suas\n[LOCUTOR 70]: permissões. Hoje vocês já usam o webapp do Proteus, né?\n[LOCUTOR 77]: Sim, sim, utilizamos.\n[LOCUTOR 70]: Eu vou levar isso também pra gente buscar os premissas, os requisitos. Mas eu não sei se essa preocupação de vocês com relação a bloqueio, ela se aplica. Porque assim, uma vez o usuário bloqueado, entendo que vocês vão fazer esse bloqueio na rede, né? Antes de mais nada. E aí ele já não vai mais acessar aqui. Então ele não vai conseguir tentar acessar o portal de contratos, por exemplo. Por mais que ele esteja lá habilitado, o identity não vai fazer o acesso, porque ele não vai conseguir acessar aqui. ele não vai ter esse caminho disponível para ele poder acessar, ele já vai ser barrado aqui quando ele tentar logar no Identity, não vai chegar aqui nessa área de aplicativos. \n[LOCUTOR 87]: aí, no caso, se ele tiver a URL direta também, ele também não vai conseguir, né?\n[LOCUTOR 70]: Não, a URL direta igual ela vai chamar aqui, deixa eu tentar mostrar para vocês aqui, não sei se ele vai pegar em cache, deixa eu pegar aqui uma outra Ele vai fazer um redirect, né?\n[LOCUTOR 89]: Então,\n[LOCUTOR 70]: ele vai\n[LOCUTOR 89]: tentar, ele\n[LOCUTOR 70]: vai chamar aqui, né?\n[LOCUTOR 89]: E\n[LOCUTOR 70]: aí, quando ele bater aqui, ele já vai dar o usuário inválido, né?\n[LOCUTOR 89]: Ah, isso aí. Tá.\n[LOCUTOR 70]: Então,\n[LOCUTOR 89]: todas aquelas URLGS que a gente tem aqui do RM, né? Do Proteus, ele vai redirecionar sempre para o\n[LOCUTOR 70]: ident. Isso aí. É... Eu anotei aqui [LOCAL], o [LOCAL] back-office, não é? Não, o [LOCAL], qual o [LOCAL] que vocês usam hoje? Quais modos vocês usam? Hoje\n[LOCUTOR 20]: a gente usa o educacional aqui.\n[LOCUTOR 70]: O RH, o Proteus, o WebAPP,\n[LOCUTOR 20]: Seriam esses três e mais esse portal que foi desenvolvido aqui pelo [PESSOA], que é o portal de contratos.\n[LOCUTOR 70]: Esse seria a fase 1, vamos falar assim, né?\n[LOCUTOR 20]: Aí é com o [PESSOA], tá? Aparentemente eu acho que seria só essa fase, tá, [PESSOA]? Mas aí o [PESSOA] pode falar melhor.\n[LOCUTOR 70]: [LOCUTOR 16]: as outras aplicações que a gente tem hoje aqui, me parece que a gente já tem integração direta com a D, tá? A quest\n[LOCUTOR 18]: aqui era mais os produtos da TOTOS, sem o IDENTITY. Pelo que eu entendi, a gente não consegue fazer uma integração com [EMPRESA], com intra-ID, né?\n[LOCUTOR 70]: Sim, ele tem que ficar... fazer esse intermédio, intermediar essa conexão, né?\n[LOCUTOR 20]: Era mais por isso, tá? Mas aí o [PESSOA] pode me convidar.\n[LOCUTOR 70]: [PESSOA], eu coloquei na tela alguns materiais aqui, um material que a gente tem de apresentação do Identity, né? Que fala um pouquinho de... como ele faz o sincronismo com a rede, tem aquela parte do login social que eu acabei de passar. Tem alguns detalhes aqui também de segurança, [PESSOA]. Tem a tela aqui que eu passei antes, mostra um pouquinho dos cadastros internos aqui. Mostra o login via Gmail, usando aí o conceito de login social, seria um provider externo. e aquela mesma tela de aplicações. Alguns menus que eu não mostrei lá. E aqui em cima, usuários, aplicativos, grupos, relatórios. Então, pelo IDE, a gente consegue também fazer bloqueios por range de IP, por localidade e trazer um nível maior de segurança. Além do [EMPRESA], tem outros fatores também atrelados aí que podem ser habilitados. Material que depois eu posso encaminhar para vocês. E eu vou levantar os requisitos, né? Como vocês têm aí já uma lista de aplicações que vocês buscam estar já utilizando aí, né? No projeto inicial, acho que é importante a gente detalhar o que são as premissas para isso e a gente dar continuidade, né? Avançar aí com o que seria o esforço necessário para concretizar isso, trazer essa experiência que a gente tem que eu mostrei para vocês, né? de login unificado. Hoje\n[LOCUTOR 77]: a gente está usando o Cloud da Tots. Isso mudou alguma coisa?\n[LOCUTOR 70]: Não.\n[LOCUTOR 77]: Hoje\n[LOCUTOR 70]: a\n[LOCUTOR 77]: gente está usando\n[LOCUTOR 70]: o\n[LOCUTOR 77]: Prime no Proteus e o [EMPRESA] no RM, tá?\n[LOCUTOR 70]: Cloud [EMPRESA] e Cloud Prime pro Proteus. Vou anotar\n[LOCUTOR 77]: aqui.\n[LOCUTOR 70]: É um ponto importante, vale a pena a gente também confirmar, tá?\n[LOCUTOR 77]: Sim, na implementação acho que isso pode talvez ajudar, né?\n[LOCUTOR 70]: Sim.\n[LOCUTOR 89]: O [PESSOA] quer perguntar alguma coisa?\n[LOCUTOR 6]: Além dos quesitos técnicos, né? O que eu queria, a gente também tem interesse, eu não sei se já foi passado aí para você, [PESSOA], mas seria também entender um pouco a parte comercial, [PESSOA], questão de valores, como seria, que é um módulo adicional que a gente não tem.\n[LOCUTOR 70]: Então,\n[LOCUTOR 6]: entender\n[LOCUTOR 70]: um pouco\n[LOCUTOR 6]: desse lado. também, não sei se\n[LOCUTOR 70]: vocês\n[LOCUTOR 6]: já têm algo para agora,\n[LOCUTOR 70]: mas\n[LOCUTOR 6]: fazer um estudo baseado\n[LOCUTOR 70]: nesses\n[LOCUTOR 6]: requisitos que a\n[LOCUTOR 70]: gente tem. A precificação é feita por IDs. Basicamente, a solução é [EMPRESA], como vocês já sabiam, ou comentaram, mas ela é 100% [EMPRESA]. O que facilita também na questão de nuvens, de aplicações em nuvens híbridas, ou aplicações locais, ou em alguma nuvem. Então, o Identity funciona 100% SaaS. E aí, vocês têm o licenciamento sendo feito por IDs nominais. Então, vamos supor que vocês queiram hoje estar fazendo essa administração via Identity dos acessos para 200 usuários. Então, a gente vai precisar precificar em cima de 200 IDs. E é isso aí, tem um projeto de serviço que visa implementar essas aplicações, já entregar isso para vocês pronto, e depois vocês podem avançar, inclusive por conta própria, se vocês tiverem por objetivo também interno. Hoje vocês não usam o Fluid, né, como solução. de plataforma, de [LOCAL], de [PESSOA], não,\n[LOCUTOR 31]: né? – Não,\n[LOCUTOR 20]: né, [PESSOA]?\n[LOCUTOR 31]: – Não.\n[LOCUTOR 20]: Não.\n[LOCUTOR 70]: Se vocês usassem ele, na verdade, o Identity é considerado um módulo do Fluid, e aí a gente teria também um licenciamento diferente. Mas então ele é licenciado apenas para o módulo do Identity, e basicamente é isso. A gente precisa do número de IDs de usuários. E\n[LOCUTOR 20]: [PESSOA], [PESSOA], não sei se vocês já têm esse número aí, mas\n[LOCUTOR 89]: talvez\n[LOCUTOR 20]: a gente acelere.\n[LOCUTOR 89]: Mas nesse caso não contam os usuários que são os alunos, pais, essas coisas, eles não contam, né?\n[LOCUTOR 70]: Não, porque eles não estariam nem acessando por aí, né?\n[LOCUTOR 89]: [LOCUTOR 63]: entendi. Tá bom.\n[LOCUTOR 20]: \n[LOCUTOR 60]: gente vai fazer esse levantamento, porque tem outros colégios também, né, para entender melhor a quantidade de acesso administrativo.\n[LOCUTOR 70]: Vocês teriam\n[LOCUTOR 20]: aplicações...\n[LOCUTOR 70]: Eu ia comentar\n[LOCUTOR 20]: se voc\n[LOCUTOR 35]: teriam aplicações separadas por empresa, talvez, no conceito de multiempresa, ou não? Já poderia ficar classificado por... Isso ficaria dentro das aplicações, talvez mesmo. Eu\n[LOCUTOR 20]: entendo que\n[LOCUTOR 70]: fica dentro\n[LOCUTOR 20]: das aplicações, né? A gente até tem a separação aqui, que seria o administrativo, né? E cada um dos colégios, [PESSOA]. Mas a gente... Acho que o sistema\n[LOCUTOR 70]: ali... A\n[LOCUTOR 20]: gente faz\n[LOCUTOR 70]: a\n[LOCUTOR 20]: separação, né? É o que\n[LOCUTOR 70]: voc\n[LOCUTOR 15]: falou, né? Às vezes uma pessoa que entra, né? Ela entra no RM, né? E aí no RM tem a separação dos dois colégios, né? O RM é um só, né? para\n[LOCUTOR 70]: cada\n[LOCUTOR 20]: empresa, o\n[LOCUTOR 70]: mesmo\n[LOCUTOR 20]: para\n[LOCUTOR 70]: todas. Então, perfeito. Ficaria uma empresa e abaixo as aplicações separadas, às vezes, por perfil de usuário, administrativo, profissional. Aí vocês vão organizar depois isso dentro do próprio identico ou com base até nos grupos do [EMPRESA], se for usado ali na importação. Eu\n[LOCUTOR 20]: entendo\n[LOCUTOR 70]: que\n[LOCUTOR 20]: o ideal seria, até não sei se muda alguma coisa aí, mas\n[LOCUTOR 70]: o\n[LOCUTOR 20]: ideal seria realmente o que você falou, estar atrelada a grupos do [EMPRESA] ali mesmo,\n[LOCUTOR 70]: para\n[LOCUTOR 20]: a gest\n[LOCUTOR 38]: ficar\n[LOCUTOR 20]: centralizada.\n[LOCUTOR 70]: [PESSOA]. Vocês têm nenhuma ideia de usuários para a gente, daqui a pouco, pensar algo por aqui ou algo que vocês nos passem depois? Eu posso mandar aqui um e-mail na sequência, um resumo aí da nossa agenda, um material\n[LOCUTOR 77]: ali\n[LOCUTOR 70]: também do Identity, e vocês me fazem os usuários e a quantidade para a gente poder avançar por aqui e analisar.\n[LOCUTOR 77]: Eu\n[LOCUTOR 31]: acho que\n[LOCUTOR 77]: os usuários,\n[LOCUTOR 31]: a gente\n[LOCUTOR 70]: tem que\n[LOCUTOR 77]: pensar\n[LOCUTOR 31]: em todos\n[LOCUTOR 77]: os usuários por conta do meu RH, tá? Eu tenho que pensar em praticamente todo mundo que tem algum vínculo com o funcionário, né? \n[LOCUTOR 59]: situação do [LOCAL] vai ser praticamente todo mundo, né?\n[LOCUTOR 77]: Praticamente todo\n[LOCUTOR 20]: o p\n[LOCUTOR 9]: da\n[LOCUTOR 20]: fundação que\n[LOCUTOR 70]: teria\n[LOCUTOR 77]: que ser\n[LOCUTOR 89]: um\n[LOCUTOR 77]: usuário, não s\n[LOCUTOR 33]: o pessoal\n[LOCUTOR 77]: de back-office.\n[LOCUTOR 89]: [LOCUTOR 12]: usuários a gente tem aí, [PESSOA]? Não sei se consegue ver fácil, ou o [PESSOA], né? [LOCAL] é o quê?\n[LOCUTOR 70]: Uns\n[LOCUTOR 20]: 200 aí?\n[LOCUTOR 89]: Uns 300, né?\n[LOCUTOR 20]: Não, mas pega direitinho aí. Não sei se você consegue pegar a [PESSOA] e o [PESSOA] aí. Depois então manda o [PESSOA]. Mas eu acho que deve ser\n[LOCUTOR 89]: por aí. [EMPRESA],\n[LOCUTOR 20]: a gente passa\n[LOCUTOR 89]: o n\n[LOCUTOR 3]: mais\n[LOCUTOR 89]: [PESSOA].\n[LOCUTOR 70]: Show. Então tá. Então tá combinado. Da minha parte, eu acho que é isso. Então buscar as premissas. E aí depois eu passo numa segunda, no segundo e-mail. Talvez a gente marque uma nova conversa.\n[LOCUTOR 89]: [LOCUTOR 27]: já pra trazer alguma visão de orçamento, né? O que tu acha, [PESSOA]? Eu acho que sim, né?\n[LOCUTOR 70]: Acho\n[LOCUTOR 31]: que podemos fazer dessa forma, [PESSOA].\n[LOCUTOR 89]: E\n[LOCUTOR 70]: aí, quando vocês têm alguma dúvida, a gente discute também nessa próxima call, me mandam por e-mail, a\n[LOCUTOR 89]: gente vai\n[LOCUTOR 70]: caminhando, vai\n[LOCUTOR 89]: evoluindo.\n[LOCUTOR 6]: \n[LOCUTOR 51]: coisa que\n[LOCUTOR 70]: só\n[LOCUTOR 6]: fica uma consideraç\n[LOCUTOR 5]: também\n[LOCUTOR 6]: para todos nós aqui pensarmos,\n[LOCUTOR 89]: a gente\n[LOCUTOR 6]: pensou aqui, [PESSOA],\n[LOCUTOR 89]: se\n[LOCUTOR 6]: formos fazer essa aquisição, lógico,\n[LOCUTOR 89]: a gente vai\n[LOCUTOR 6]: ver valores,\n[LOCUTOR 89]: etc.\n[LOCUTOR 6]: Qual que seria a questão de prazo? A gente tinha mensurado no projeto interno nosso aqui, a gente adequar esses sistemas até julho, mas pode ser que a gente não tenha definido uma data que esteja tão Pode ser também. Mas o desejado seria esse. Então, seria importante também ter do lado de vocês, olha, poxa, pessoal, a\n[LOCUTOR 70]: gente\n[LOCUTOR 6]: estudou aqui\n[LOCUTOR 70]: com\n[LOCUTOR 6]: essa quantidade de usuários, quantidade de sistemas, complexidade,\n[LOCUTOR 70]: de\n[LOCUTOR 6]: que o prazo seria X. Só pra gente também ter do\n[LOCUTOR 70]: lado... Acho que tá no mundo agora, [PESSOA]. E\n[LOCUTOR 6]: também se vocês estariam confortáveis com o que a gente tem aqui de ideia de prazo, né?\n[LOCUTOR 70]: De implantação. É junho ou julho? Desculpa.\n[LOCUTOR 6]: [LOCAL].\n[LOCUTOR 70]: [LOCAL].\n[LOCUTOR 6]: Isso.\n[LOCUTOR 70]: Sim, a gente valida junto ao escopo e\n[LOCUTOR 6]: a gente\n[LOCUTOR 70]: traz ali dentro da visão de orçamento de investimento o macro cronograma.\n[LOCUTOR 6]: \n[LOCUTOR 61]: pensando nas etapas. [LOCAL]. Importante.\n[LOCUTOR 70]: [EMPRESA] aqui com a disponibilidade também de recursos internos. que a gente tem para poder atuar nesse projeto. É padrão meio que a gente fazer isso também, tá, [PESSOA]? Mas,\n[LOCUTOR 6]: enfim,\n[LOCUTOR 70]: é importante tu mencionar que a gente dá mais ênfase também nisso na hora da apresentação e já valida, inclusive, com o time de entrega aqui.\n[LOCUTOR 6]: Sim. Deixa eu só confirmar aqui... Não, é junho, perdão. A gente\n[LOCUTOR 70]: colocou junho.\n[LOCUTOR 6]: Junho. Final de junho.\n[LOCUTOR 70]: Final\n[LOCUTOR 6]: de junho.\n[LOCUTOR 70]: Ok. Eu anotei aqui também algumas coisas apesar de estar sendo transcrita aqui a reunião. Eu passo então o resumo para vocês agora na sequência e a gente fica de marcar uma nova agenda para trazer os detalhes das premissas do macro-cronograma já com a visão também de investimento para os ideas que vocês passarem.\n[LOCUTOR 31]: [LOCAL].\n[LOCUTOR 70]: Terminado? Nossa parte eu acho que tá...\n[LOCUTOR 6]: \n[LOCUTOR 19]: ok. \n[LOCUTOR 2]: pessoal ficou na\n[LOCUTOR 70]: escuridão aí.\n[LOCUTOR 31]: Faltando\n[LOCUTOR 70]: luz por aí? Se tá faltando luz eu não abri que tá segurando\n[LOCUTOR 89]: a\n[LOCUTOR 70]: internet. Tá tudo certo.\n[LOCUTOR 89]: [PESSOA], considera aí cerca de 350 usuários, tá?\n[LOCUTOR 70]: Quantos?\n[LOCUTOR 89]: 350.\n[LOCUTOR 70]: 350?\n[LOCUTOR 6]: [PESSOA].\n[LOCUTOR 70]: [LOCAL]. Já tomei nota aqui também. [LOCAL], gente. Mais algum ponto?\n[LOCUTOR 20]: [LOCUTOR 4]: isso. Da minha parte.\n[LOCUTOR 89]: Obrigado,\n[LOCUTOR 6]: pessoal.\n[LOCUTOR 31]: Qualquer dúvida\n[LOCUTOR 89]: é só chamar,\n[LOCUTOR 31]: [PESSOA].\n[LOCUTOR 70]: Tá\n[LOCUTOR 6]: bom.\n[LOCUTOR 31]: [PESSOA], obrigado viu.\n[LOCUTOR 70]: Gente, boa sexta aí, final de sexta-feira. [LOCAL].\n[LOCUTOR 6]: [LOCAL], [EMPRESA].\n[LOCUTOR 31]: [LOCAL],\n[LOCUTOR 1]: [EMPRESA].",
+  "texto_filtrado": "[LOCUTOR 70]: jóia. Pessoal, eu falo aqui pelo lado da fotos, né? A [PESSOA], que estava conduzindo junto com vocês, ela comentou que vai atrasar alguns minutinhos. Estamos finalizando uma outra reunião. Acho que ela já está chegando conosco.\n[LOCUTOR 31]: [EMPRESA],\n[LOCUTOR 70]: gente.\n[LOCUTOR 89]: [PESSOA].\n[LOCUTOR 70]: eu já tava aí a comentar, só que você tinha avisado que ia atrasar uns minutinhos, mas foi\n[LOCUTOR 70]: breve, então...\n[LOCUTOR 31]: Foi bem pontual, é\n[LOCUTOR 70]: forecast,\n[LOCUTOR 31]: amigo? Então é rápido.\n[LOCUTOR 70]: Sexta-feira, forecast, né? Isso aí.\n[LOCUTOR 6]: [PESSOA]\n[LOCUTOR 31]: ouvem?\n[LOCUTOR 20]: vamos\n[LOCUTOR 31]: certo. Então, perfeito. Acho que a gente pode seguir,\n[LOCUTOR 31]: Fiquei super à vontade aí, [PESSOA].\n[LOCUTOR 70]: Sim, legal. Bom, a [PESSOA] me comentou, pessoal. [PESSOA] passou, inclusive, um e-mail que vocês trocaram ali a respeito de estar utilizando o Identity e fazendo single sign-on com algumas soluções que hoje vocês já têm. Soluções totos, né? Não sei se tem alguma solução também de outros fornecedores. Enfim, a ideia seria a gente fazer um papo sobre isso, né? como que seria um projeto para fazer essa integração, esse uso via SSO do Identity. Então eu queria escutar, eu acho que vocês já conhecem a solução, pelo que eu percebi, vocês já descreveram, inclusive, algumas coisas, né? Passaram ali, né? Meia referência técnica, algumas documentações. Então eu queria entender um pouco mais do projeto em si, o que vocês têm como objetivo, o que vocês querem do nosso apoio para é trazer o identity para uma realidade de vocês, integrado com a rede, integrado também com os aplicativos do dia a dia. O que eu posso contribuir com vocês?\n[LOCUTOR 89]: Então, [PESSOA], o projeto, ele consiste em a gente fazer essa integração do Proteus e do RM para fazer o single sign-on utilizando\n[LOCUTOR 70]: a identidade\n[LOCUTOR 89]: que a gente tem aqui de rede. Então, no caso, poderia ser, na verdade, preferencialmente com o [LOCAL], né?\n[LOCUTOR 70]: Então,\n[LOCUTOR 89]: quando o usuário fazer a autenticação, ele vai utilizar o mesmo\n[LOCUTOR 54]: de rede, que eles já estão acostumados, né? já\n[LOCUTOR 5]: acostumados a utilizar ali todo... Nós já temos sistemas aqui que utilizam, né?\n[LOCUTOR 70]: Desse...\n[LOCUTOR 89]: Dessa integração com o [EMPRESA]. Então, o\n[LOCUTOR 89]: é muito tranquilo de passar por todo o processo. Inclusive, ali com o [LOCAL].\n[LOCUTOR 89]: como nós temos essa questão, né? Principalmente do RM, né? Que tem ali usuários que fazem... Que não são, né? Da rede, né? Que são os alunos, né? Que fazem um acesso ali via... CPF ou alguma outra conta. Tem essa preocupação, né, de como é que seria feito.\n[LOCUTOR 58]: portal, tu diz, o portal do aluno?\n[LOCUTOR 89]: Isso.\n[LOCUTOR 84]: do Connect. Sim, a gente tem a possibilidade de trazer eles também ali junto com o single sign-on, né, fazendo o mesmo login.\n[LOCUTOR 89]: É, que na verdade a gente não tem a gestão desses usuários, né, porque esses usuários são... Se eu falar alguma besteira aqui, o pessoal me corrige, mas eu acredito que eles ficam armazenados ali dentro de uma base local, mas o single sign-on seria para o acesso administrativo.\n[LOCUTOR 20]: Acho que esse é o ponto, né, [PESSOA]? Acho que se a gente fosse utilizar a solução do IDENTIS, até vai ficar\n[LOCUTOR 70]: claro,\n[LOCUTOR 70]: acho que\n[LOCUTOR 20]: eu não conheço ela, tá? E aí eu entendo que o acesso ali pelo single sign-on que a gente quer utilizar seria para os acessos administrativos, né? Eu entendo que ali, se a gente for implementar na RM,\n[LOCUTOR 70]: para\n[LOCUTOR 20]: os alunos, para os pais, teria que continuar o acesso, de repente, para o usuário e senha, que é hoje, né? Sem afetar,\n[LOCUTOR 20]: [PESSOA], [PESSOA]? [PESSOA] aí.\n[LOCUTOR 89]: exatamente.\n[LOCUTOR 70]: Eu acho que não teria impacto, né? Estaria separado daí os logins, né? A gente, aí só, depois eu valido, inclusive, isso com o próprio time do RM, Questões ali de habilitar isso para que seja uma autenticação híbrida. Vamos falar dessa forma. Então, para o que é usuário administrativo possa usar o single sign-on e o que é usuário de portal, que tem ali direto pais, alunos, enfim, possa ser feito sem usar essa parte do login unificado do SSO. Se vocês quiserem eu mostro um pouquinho como é a parte do Identity ali interno para vocês também conhecerem, não sei se todo mundo já viu, mas se vocês quiserem eu mostro um pouquinho.\n[LOCUTOR 20]: Eu acho que seria legal, tá, [PESSOA]?\n[LOCUTOR 20]: se você conhece,\n[LOCUTOR 89]: mas o\n[LOCUTOR 20]: [PESSOA] é...\n[LOCUTOR 70]: [PESSOA], eu vou mostrar então aqui o nosso ambiente, que a gente consegue reproduzir um pouco da experiência, inclusive, e aí fique à vontade para a gente ir fazendo trocas. ambiente com usuária administrativa aqui, mas aqui a gente pode pegar o material para apresentar um pouco de algumas minhas telas também PPT daí. Vocês já estão vendo a minha tela? Tá, né?\n[LOCUTOR 70]: [PESSOA]. Bom, aqui vocês vão ter uma URL, né, que vai ser redirecionada, independente da solução que vocês vão estar estartando, iniciando ali, seja o portal do RL, seja o RH, o [EMPRESA], seja o Proteus, né, via app, e ele vai fazer a chamada de uma URL que vai estar configurada para o domínio de vocês. Vou chamar aqui, por exemplo, a fundação, .fluigidentity, e a partir disso, esse usuário e senha aqui, ele já está integrado com a rede, com o [EMPRESA]. Então, eu tenho aqui a minha autenticação, gravada aqui, e aí a gente tem o [EMPRESA] aqui habilitado, nesse caso aqui, que a gente usa, a gente tem um aplicativo que gera esse token de acesso. Então... Uma dúvida,\n[LOCUTOR 20]: [LOCAL]. Posso te\n[LOCUTOR 70]: falar?\n[LOCUTOR 20]: Posso te ir cortando?\n[LOCUTOR 70]: [EMPRESA], claro. Pode sim.\n[LOCUTOR 20]: Você mostrou ali a tela mostrando o usuário e senha, né? Hoje, em alguns sistemas que a gente tem aqui,\n[LOCUTOR 20]: usuário não preenche o usuário e senha, né? É aquele botão, como se fosse ali do [EMPRESA], do\n[LOCUTOR 20]: que tem o da [EMPRESA] também, entrar com a conta, né?\n[LOCUTOR 70]: oficial...\n[LOCUTOR 70]: é possível, sim. Tu vai fazer esse vínculo aí com outra fonte, né, desses usuários. [EMPRESA] [EMPRESA], [EMPRESA], Facebook, Gmail, né,\n[LOCUTOR 89]: [EMPRESA].\n[LOCUTOR 70]: [LOCUTOR 42]: nosso objetivo é o [EMPRESA] mesmo. É o [EMPRESA], né? Sim, então ele vai estar disponível ali para fazer isso nessa tela de login. Então, além de... Aqui a gente não tem habilitado, né?\n[LOCUTOR 70]: pegar o material aqui e depois a gente mostra também essa tela aí como seria isso. Vou trazer de novo aqui o [PESSOA]. Após isso ele vai estar atrelado ao usuário, as permissões do usuário. E aí a gente tem as aplicações que vão ser configuradas aqui para fazer o SSO. para a gente ter acesso aqui com o mesmo usuário. Aqui vocês vão fazer essa parametrização de aplicativos, vai criando aqui os aplicativos e liberando para grupos de usuário ou usuários específicos. E aí ele vai ter acesso a esse [LOCAL] de aplicações aqui para uso. Vou pegar aqui um exemplo que a gente tem, a gente usa o Gmail aqui. Então está ele configurado aqui, eu poderia ter aplicativos do Office 365, o [EMPRESA], também Aplicações de mercado, né? A gente já tem os aplicativos prontos e podem ser criadas aplicações customizadas. Então, vou chamar o aplicativo de outro fornecedor, vou chamar o próprio ERP, o [LOCAL], chamar o RM, chamar o Fluid, chamar o [EMPRESA], o Topos Analytics, ou outro [EMPRESA], o CRM. Vocês vão fazer essa configuração de aplicativo e fazer essa integração via protocolo, protocolo SAML, para fazer essa amarração de login, o SSO. Vou pegar aqui um exemplo, o [LOCAL], que a gente usa aqui, que é a nossa intranet, o nosso Fluid. A partir desse [LOCAL] de aplicações, eu vou navegando nas ferramentas do meu dia a dia. E aqui, integrado, sincronizado com o [EMPRESA], o [EMPRESA] Azure, enfim. e ele replica para cá todos os bloqueios, todos os usuários novos. Então, tem uma área administrativa que eu não tenho acesso aqui. Aqui eu só tenho o meu multi-empresa. Eu posso ter outras empresas aqui também por usuário, cadastrados e relacionados ao usuário. Cada empresa vai ter os seus aplicativos diferentes. E aí, claro, tem outros menus aqui com opções de auditoria, configuração de servidores, o próprio [EMPRESA] [EMPRESA]. Enfim, para esse sincronismo de usuários, de grupos, que ele espelha com a rede. E, através dessas áreas, você vai poder fazer a administração, tanto dos aplicativos, quanto dos usuários ativos, desativados. E o Identity faz o provisionamento desses usuários. O que que é?\n[LOCUTOR 71]: bloqueia o\n[LOCUTOR 70]: usuário.\n[LOCUTOR 89]: [PESSOA]. É, até nessa situação, né, que é importante também, porque assim, como a gente quer manter, né, a gente já tem um sistema aqui de DM, né, que\n[LOCUTOR 89]: esse provisionamento de usuários, né, ativa, né, cria e bloqueia usuários, se ele faz isso automaticamente, porque assim, a ideia do single sign-on é justamente isso, quando, por exemplo, o usuário sai da empresa, né, o usuário dele é bloqueado e automaticamente já não vai ter mais acesso ao sistema, né.\n[LOCUTOR 70]: [LOCUTOR 36]: que eu entendi, ele já vai sincronizar esse tipo de informação, que o usuário já foi bloqueado e já não vai mais permitir o acesso. Já. Ele já faz esse sincronismo automático ali\n[LOCUTOR 70]: já bloqueia,\n[LOCUTOR 89]: ele já\n[LOCUTOR 70]: perde o acesso automaticamente. Isso fica rodando ali,\n[LOCUTOR 70]: é o time, vamos\n[LOCUTOR 89]: chamar\n[LOCUTOR 70]: de time assim, tem\n[LOCUTOR 70]: tempo de refresh, mas ele faz esse espelhamento dos usuários.\n[LOCUTOR 89]: [PESSOA].\n[LOCUTOR 70]: O próprio Identity também consegue fazer esse caso, o [EMPRESA] consegue fazer. o bloqueio lá na rede. Aqui eu peguei uma outra aplicação, só para exemplificar, mas que ele acessa. Aqui eu peguei um terceiro aqui.\n[LOCUTOR 14]: sei se voc\n[LOCUTOR 35]: estavam...\n[LOCUTOR 77]: Não, deixa eu só tirar uma dúvida. Nesse sentido de bloquear, a gente consegue plugar ele no Proteus, no GPI do Proteus, para fazer\n[LOCUTOR 70]: essa... para\n[LOCUTOR 77]: sinalizar que aquele usuário foi desligado e fazer esse bloqueio? Já tem essa integração nativa com o Proteus?\n[LOCUTOR 13]: bloqueia o nível acima, na verdade, né? Ele bloqueia o teu usuário pra acessar toda e qualquer aplicação daí.\n[LOCUTOR 6]: É que ele tá além do [EMPRESA], né? O\n[LOCUTOR 6]: origem de tudo. Se bloqueia no [EMPRESA], é uma cascata, né?\n[LOCUTOR 77]: Ele não tem como, por exemplo, integrar no módulo de gestão de pessoas do Proteus para que o bloqueio chegue aqui no Identity e o Identity bloquear no [EMPRESA].\n[LOCUTOR 70]: Nesse caso, tu poderia ter um processo automatizado, um fluxo, que quando está dado, ou um gatilho, até mesmo uma integração no GPR, para fazer isso, tá? E o\n[LOCUTOR 77]: [LOCUTOR 24]: tem APIs para isso, mas n\n[LOCUTOR 70]: nativo,\n[LOCUTOR 77]: né? Mas nativo, não. Tá. Não. A minha dúvida é se ela é nativa. A gente já tem essa integração com esse outro sistema que o [PESSOA] comentou,\n[LOCUTOR 77]: a minha dúvida é se teria alguma coisa nativa mesmo para conversar dentro do Proteus.\n[LOCUTOR 70]: já tem o processo funcionaria da mesma forma, né?\n[LOCUTOR 70]: por outro caminho. Quando bloqueado lá, o Identity iria bloquear aqui também, né?\n[LOCUTOR 77]: [LOCUTOR 13]: perderia o direito de acesso a toda e qualquer aplicação, ele não iria conseguir logar aqui, nessa área de aplicativos.\n[LOCUTOR 89]: [PESSOA], sobre o permissionamento, a permissão que eu tenho dentro do\n[LOCUTOR 56]: em relação às aplicações que o usuário vai ter acesso, certo?\n[LOCUTOR 70]: Isso, isso aí. Só,\n[LOCUTOR 89]: abaixo...\n[LOCUTOR 87]: no caso, por exemplo, vamos dizer que a gente implementou o sistema, o sistema está rodando, a gente define ali que ele vai ter acesso ao Proteus, só que se o usuário já tinha acesso ao Proteus antes. [LOCUTOR 85]: a isso, ele não vai alterar nenhuma permissão, né? O acesso ali que ele já tinha no Proteus permanece o mesmo, as configurações, os módulos, essas coisas, mesma coisa. Mesma coisa. O permissionamento entre os módulos do usuário é feito no próprio Proteus, né? Ainda.\n[LOCUTOR 20]: você estava\n[LOCUTOR 70]: falando, né?\n[LOCUTOR 20]: Se eu tiver um grupo na D ali,\n[LOCUTOR 20]: exemplo, eu crio um grupo na D lá de [EMPRESA]. Ele consegue, dá para relacionar, e digamos, eu tenho um conjunto de permissões lá no Proteus que eu chamo lá também de [EMPRESA]. Então ele consegue levar isso ou ele leva esse grupo até o\n[LOCUTOR 70]: Proteus\n[LOCUTOR 20]: como uma permissão do Proteus? Ou eu ainda tenho que ir lá no Proteus e associar que esse usuário tem a permiss\n[LOCUTOR 11]: financeira? Sim, tu ainda tem que fazer isso, [PESSOA] A gente tem algumas iniciativas que visam fazer isso, né? Pra fazer essa liberação aí do Identity poder levar permissionamento de menus, de funcionalidades, de rotinas lá dentro do Proteus, mas ela ainda não está liberada, ainda não está disponível para utilização.\n[LOCUTOR 52]: até depois trazer aqui para o time de produto e ver se a gente tem alguma previsão de liberar isso, tá? E aí eu posso dar um\n[LOCUTOR 20]: retorno\n[LOCUTOR 70]: para vocês na sequência. Mas na prática, hoje, teria que fazer a liberação lá dentro do Proteus, no configurador. liberando os menus, as permissões do usuário.\n[LOCUTOR 6]: Isso aí, eu vou pegar um gancho nessa dúvida aí, o [PESSOA], nessa gama de dúvidas sobre a questão do acesso. Pelo que eu entendi, me corrigi se eu estiver errado. Pelo que eu estou vendo, o Identity é um portal. Dentro desse portal, é uma console [EMPRESA], que eu vou logar nele via a minha conta do [EMPRESA], e dentro dela eu vou ter ali os ícones das plataformas que eu utilizo. Então, se eu tiver o RM, o meu RH, o próprio Proteus, vai estar tudo ali. Beleza, essa é\n[LOCUTOR 70]: a primeira\n[LOCUTOR 6]: fase.\n[LOCUTOR 58]: acesso\n[LOCUTOR 6]: a cada uma dessas plataformas, o que está autenticando nessas plataformas, é aí que eu fiquei um pouquinho na dúvida. Por exemplo, hoje o meu acesso no meu RH é com o meu CPF. O meu acesso com o meu RH, o meu usuário é o meu CPF, não é uma conta nem minha de e-mail, por exemplo. Como que ele vai interpretar essa segunda etapa no acesso direto das plataformas?\n[LOCUTOR 70]: Tá, aí a gente tem a amarração com essas plataformas, né? Vai ter ali... Por exemplo, no caso do [PESSOA] a gente já tem o aplicativo pronto para ser utilizado. Então ele vai ser parametrizado, mas via de regra essa amarração, esse vínculo, ele é feito pelo e-mail.\n[LOCUTOR 23]: aí cada aplicação pode ter um tratamento diferente. Mas a questão... Eu não tenho impacto para o usuário na hora dele entrar na aplicação? Por exemplo, no meu caso, eu loguei ali na plataforma, fiz o login no Identity. [PESSOA]. Agora eu quero acessar o meu RH. Eu estou dando o exemplo do meu RH aqui. Porque é um que não é tradicionalmente o e-mail. Mas eu vou acessar ali. Como que ele vai... Eu vou ter impacto nesse acesso?\n[LOCUTOR 6]: É, porque o meu acesso hoje é CPF, né? Ele não é um usuário de e-mail no meu RH. Aí eu\n[LOCUTOR 70]: só tenho dúvida.\n[LOCUTOR 6]: Pode ser que tenha mais alguém com acesso igual o meu, né? Não sei se é padrão.\n[LOCUTOR 6]: ter que\n[LOCUTOR 70]: ser feita uma mudança, né? Isso,\n[LOCUTOR 6]: exato.\n[LOCUTOR 6]: de cada\n[LOCUTOR 70]: um dos aplicativos. A gente pode validar, tá? Pegar, por exemplo, o que seria as premissas, né? Pra gente implantar\n[LOCUTOR 6]: com o\n[LOCUTOR 70]: app. Isso, com o app meu RH. com o Proteus, o que\n[LOCUTOR 6]: temos\n[LOCUTOR 70]: ali de parametrização já pronta do lado de cada aplicação. Nessas\n[LOCUTOR 70]: são nativas, que já existem. Então eu posso buscar aqui e mandar os detalhes disso, tá? De cabeça não tem essas informações. Mas via de regra é o e-mail, né? Então, tanto para integração com [EMPRESA], ele tem ali ou o e-mail nome.sobrenome e o arroba, ali o domínio, Então, de prática, de antirregra, é o e-mail que vai estar vinculado aqui.\n[LOCUTOR 6]: Usuários que\n[LOCUTOR 6]: eu acho que é importante a gente validar os requisitos para cada uma das plataformas, para a gente ver o\n[LOCUTOR 6]: se vai acabar tendo alguma necessidade de adequação,\n[LOCUTOR 6]: que a gente\n[LOCUTOR 70]: quer\n[LOCUTOR 6]: entender\n[LOCUTOR 70]: aqui\n[LOCUTOR 6]: também é a questão de... legal, eu vou colocar o identity\n[LOCUTOR 70]: aqui\n[LOCUTOR 6]: por uma melhoria de segurança, mas a nossa ideia\n[LOCUTOR 70]: impacto\n[LOCUTOR 6]: quanto\n[LOCUTOR 70]: a isso?\n[LOCUTOR 6]: que eu tenho que fazer de atividade? Porque é um projeto mesmo,\n[LOCUTOR 6]: gente precisa colocar umas atividadeszinhas ali até chegar no final.\n[LOCUTOR 70]: É, e é um projeto que tende a ser de médio e longo prazo, né?\n[LOCUTOR 38]: cada vez trazendo mais aplicações ali pra dentro dessa área de aplicativos ali.\n[LOCUTOR 6]: Obviamente,\n[LOCUTOR 38]: incrementando aos poucos, né? Então, mas a gente pode pensar num projeto, sim, e aí a gente traz os que são importantes para uma primeira fase e traz para vocês os requisitos que são dispensáveis para que seja habilitado.\n[LOCUTOR 6]: Então, quanto a essa\n[LOCUTOR 70]: parte de\n[LOCUTOR 6]: migração, a gente pode deixar aí com vocês para validar esses requisitos, né?\n[LOCUTOR 70]: Para\n[LOCUTOR 6]: a gente poder entender.\n[LOCUTOR 70]: Isso, a gente só precisa daí, quais seriam as aplicações, né? Eu acho que o ARM, pelo que eu entendi, o Proteus.\n[LOCUTOR 76]: próprio... O meu RH, exato. O RM, o Proteus.\n[LOCUTOR 6]: acho que era o portal também, né, [PESSOA]?\n[LOCUTOR 6]: portal\n[LOCUTOR 77]: ele vai utilizar as APIs do Proteus também. O portal ele vai usar o Proteus também. fazer a autenticação. Então, aí se o Proteus fizer a\n[LOCUTOR 70]: autenticação,\n[LOCUTOR 77]: o portal consegue.\n[LOCUTOR 66]: uma URL diferente lá. [EMPRESA]. Mas ela não fica inserida no identity. Aí é só pra entender.\n[LOCUTOR 70]: portal customizado\n[LOCUTOR 77]: É. Hoje ele autentica o usuário através do Proteus. A gente tem as APIs de usuário do Proteus, então hoje ele bate no Proteus e autentica.\n[LOCUTOR 77]: acho que assim,\n[LOCUTOR 89]: né, [PESSOA]? Uma vez que eu identifiquei ele e reconheci que o usuário foi\n[LOCUTOR 77]: bloqueado,\n[LOCUTOR 89]: que tem acesso ali ao\n[LOCUTOR 70]: Proteus,\n[LOCUTOR 89]: ele n\n[LOCUTOR 89]: permitir fazer essa autenticação do Proteus através do portal de contratos, né?\n[LOCUTOR 6]: [PESSOA], legal.\n[LOCUTOR 77]: Porque daí ele vai bater direto no... Hoje ele bate no Proteus e depois\n[LOCUTOR 70]: bate no\n[LOCUTOR 77]: [EMPRESA].\n[LOCUTOR 70]: [LOCUTOR 50]: no caso ele bateria só no [EMPRESA] e\n[LOCUTOR 20]: depois\n[LOCUTOR 77]: no Proteus\n[LOCUTOR 20]: só pra\n[LOCUTOR 77]: verificar a\n[LOCUTOR 70]: permissão.\n[LOCUTOR 77]: Mudaria\n[LOCUTOR 77]: pouquinho, mas de qualquer forma ele não bateria direto no ID.\n[LOCUTOR 20]: aqui\n[LOCUTOR 70]: pra pegar os detalhes, tá? Eu entendo que sim, ele estaria aqui como um aplicativo separado, né? Mas a autenticação dele vai funcionar, digamos que da mesma forma como o Proteus aí já vai ter, né? Eu entendo que será um aplicativo separado daí. Assim como a gente tem aqui o CRM\n[LOCUTOR 20]: É, só um ponto\n[LOCUTOR 20]: atenção aí que\n[LOCUTOR 70]: tem que ter,\n[LOCUTOR 20]: acho que [PESSOA],\n[LOCUTOR 20]: aí, [PESSOA], talvez fosse bom validar. É porque, [PESSOA], no portal,\n[LOCUTOR 70]: esse\n[LOCUTOR 20]: portal interno que a gente montou aqui, a gente chama de portal de contratos, tá, [PESSOA]? E aí, se você bate na API ali do Proteus, [PESSOA], eu entendo que o usuário lá pode estar, pode\n[LOCUTOR 70]: ser que\n[LOCUTOR 70]: [LOCUTOR 7]: é o que o [PESSOA] comentou, [PESSOA]. O Identity aí vai estar se comunicando com o Azure [EMPRESA], E aí ele bloqueia numa camada acima, mas ele não sincroniza isso com o Proteus, né? Então, se o portal de contratos tá batendo direto no Proteus, ele pode ter uma informação errada do status do usuário, né? Então acho que talvez seja um ponto pra gente validar depois, tá?\n[LOCUTOR 6]: [PESSOA], importante a consideração.\n[LOCUTOR 77]: Sim, sim, a gente tem que revisar depois. Hoje, na verdade, ele bate nas duas instâncias. Ele bate tanto no [EMPRESA] quanto no Proteus, só que na mesma\n[LOCUTOR 20]: ordem.\n[LOCUTOR 77]: Porque um valida a predição, um valida o usuário, e depois,\n[LOCUTOR 77]: não me engano, ele bate no [EMPRESA] primeiro para validar o usuário. E aí, se o usuário autenticar, ele bate no Proteus para verificar se aquele usu\n[LOCUTOR 26]: também\n[LOCUTOR 77]: existe no Proteus e se ele tem,\n[LOCUTOR 20]: para ele\n[LOCUTOR 77]: fazer uma instalação portal. Se não me engano, o fluxo é esse. Aí para a gente trazer para o Identity, a gente poderia criar um app aqui\n[LOCUTOR 77]: trazer ele para o Identity também, porque a gente não precisa\n[LOCUTOR 77]: essa permissão dentro do Proteus, poderia ter\n[LOCUTOR 77]: no [EMPRESA] e depois aqui no Identity, para gerenciar\n[LOCUTOR 70]: isso.\n[LOCUTOR 77]: [PESSOA],\n[LOCUTOR 89]: uma camada de autentica\n[LOCUTOR 21]: antes.\n[LOCUTOR 89]: antes de bater na API do Proteus.\n[LOCUTOR 87]: ali é a n\n[LOCUTOR 25]: do webapp mesmo.\n[LOCUTOR 70]: permissões. Hoje vocês já usam o webapp do Proteus, né?\n[LOCUTOR 70]: Eu vou levar isso também pra gente buscar os premissas, os requisitos. Mas eu não sei se essa preocupação de vocês com relação a bloqueio, ela se aplica. Porque assim, uma vez o usuário bloqueado, entendo que vocês vão fazer esse bloqueio na rede, né? Antes de mais nada. E aí ele já não vai mais acessar aqui. Então ele não vai conseguir tentar acessar o portal de contratos, por exemplo. Por mais que ele esteja lá habilitado, o identity não vai fazer o acesso, porque ele não vai conseguir acessar aqui. ele não vai ter esse caminho disponível para ele poder acessar, ele já vai ser barrado aqui quando ele tentar logar no Identity, não vai chegar aqui nessa área de aplicativos.\n[LOCUTOR 87]: aí, no caso, se ele tiver a URL direta também, ele também não vai conseguir, né?\n[LOCUTOR 89]: Então,\n[LOCUTOR 70]: ele vai\n[LOCUTOR 89]: tentar, ele\n[LOCUTOR 70]: vai chamar aqui, né?\n[LOCUTOR 70]: aí, quando ele bater aqui, ele já vai dar o usuário inválido, né?\n[LOCUTOR 89]: Ah, isso aí. Tá.\n[LOCUTOR 70]: Então,\n[LOCUTOR 89]: todas aquelas URLGS que a gente tem aqui do RM, né? Do Proteus, ele vai redirecionar sempre para o\n[LOCUTOR 20]: a gente usa o educacional aqui.\n[LOCUTOR 70]: O RH, o Proteus, o WebAPP,\n[LOCUTOR 20]: Seriam esses três e mais esse portal que foi desenvolvido aqui pelo [PESSOA], que é o portal de contratos.\n[LOCUTOR 70]: Esse seria a fase 1, vamos falar assim, né?\n[LOCUTOR 20]: Aí é com o [PESSOA], tá? Aparentemente eu acho que seria só essa fase, tá, [PESSOA]? Mas aí o [PESSOA] pode falar melhor.\n[LOCUTOR 70]: [LOCUTOR 16]: as outras aplicações que a gente tem hoje aqui, me parece que a gente já tem integração direta com a D, tá? A quest\n[LOCUTOR 18]: aqui era mais os produtos da TOTOS, sem o IDENTITY. Pelo que eu entendi, a gente não consegue fazer uma integração com [EMPRESA], com intra-ID, né?\n[LOCUTOR 70]: Sim, ele tem que ficar... fazer esse intermédio, intermediar essa conexão, né?\n[LOCUTOR 70]: [PESSOA], eu coloquei na tela alguns materiais aqui, um material que a gente tem de apresentação do Identity, né? Que fala um pouquinho de... como ele faz o sincronismo com a rede, tem aquela parte do login social que eu acabei de passar. Tem alguns detalhes aqui também de segurança, [PESSOA]. Tem a tela aqui que eu passei antes, mostra um pouquinho dos cadastros internos aqui. Mostra o login via Gmail, usando aí o conceito de login social, seria um provider externo. e aquela mesma tela de aplicações. Alguns menus que eu não mostrei lá. E aqui em cima, usuários, aplicativos, grupos, relatórios. Então, pelo IDE, a gente consegue também fazer bloqueios por range de IP, por localidade e trazer um nível maior de segurança. Além do [EMPRESA], tem outros fatores também atrelados aí que podem ser habilitados. Material que depois eu posso encaminhar para vocês. E eu vou levantar os requisitos, né? Como vocês têm aí já uma lista de aplicações que vocês buscam estar já utilizando aí, né? No projeto inicial, acho que é importante a gente detalhar o que são as premissas para isso e a gente dar continuidade, né? Avançar aí com o que seria o esforço necessário para concretizar isso, trazer essa experiência que a gente tem que eu mostrei para vocês, né? de login unificado. Hoje\n[LOCUTOR 77]: a gente está usando o Cloud da Tots. Isso mudou alguma coisa?\n[LOCUTOR 77]: Prime no Proteus e o [EMPRESA] no RM, tá?\n[LOCUTOR 77]: aqui.\n[LOCUTOR 70]: É um ponto importante, vale a pena a gente também confirmar, tá?\n[LOCUTOR 77]: Sim, na implementação acho que isso pode talvez ajudar, né?\n[LOCUTOR 89]: O [PESSOA] quer perguntar alguma coisa?\n[LOCUTOR 6]: Além dos quesitos técnicos, né? O que eu queria, a gente também tem interesse, eu não sei se já foi passado aí para você, [PESSOA], mas seria também entender um pouco a parte comercial, [PESSOA], questão de valores, como seria, que é um módulo adicional que a gente não tem.\n[LOCUTOR 70]: Então,\n[LOCUTOR 6]: entender\n[LOCUTOR 70]: um pouco\n[LOCUTOR 6]: já têm algo para agora,\n[LOCUTOR 6]: fazer um estudo baseado\n[LOCUTOR 70]: nesses\n[LOCUTOR 6]: requisitos que a\n[LOCUTOR 70]: gente tem. A precificação é feita por IDs. Basicamente, a solução é [EMPRESA], como vocês já sabiam, ou comentaram, mas ela é 100% [EMPRESA]. O que facilita também na questão de nuvens, de aplicações em nuvens híbridas, ou aplicações locais, ou em alguma nuvem. Então, o Identity funciona 100% SaaS. E aí, vocês têm o licenciamento sendo feito por IDs nominais. Então, vamos supor que vocês queiram hoje estar fazendo essa administração via Identity dos acessos para 200 usuários. Então, a gente vai precisar precificar em cima de 200 IDs. E é isso aí, tem um projeto de serviço que visa implementar essas aplicações, já entregar isso para vocês pronto, e depois vocês podem avançar, inclusive por conta própria, se vocês tiverem por objetivo também interno. Hoje vocês não usam o Fluid, né, como solução. de plataforma, de [LOCAL], de [PESSOA], não,\n[LOCUTOR 20]: né, [PESSOA]?\n[LOCUTOR 70]: Se vocês usassem ele, na verdade, o Identity é considerado um módulo do Fluid, e aí a gente teria também um licenciamento diferente. Mas então ele é licenciado apenas para o módulo do Identity, e basicamente é isso. A gente precisa do número de IDs de usuários. E\n[LOCUTOR 89]: talvez\n[LOCUTOR 20]: a gente acelere.\n[LOCUTOR 60]: gente vai fazer esse levantamento, porque tem outros colégios também, né, para entender melhor a quantidade de acesso administrativo.\n[LOCUTOR 20]: aplicações...\n[LOCUTOR 20]: se voc\n[LOCUTOR 35]: teriam aplicações separadas por empresa, talvez, no conceito de multiempresa, ou não? Já poderia ficar classificado por... Isso ficaria dentro das aplicações, talvez mesmo. Eu\n[LOCUTOR 20]: entendo que\n[LOCUTOR 70]: fica dentro\n[LOCUTOR 20]: das aplicações, né? A gente até tem a separação aqui, que seria o administrativo, né? E cada um dos colégios, [PESSOA]. Mas a gente... Acho que o sistema\n[LOCUTOR 70]: ali... A\n[LOCUTOR 20]: gente faz\n[LOCUTOR 20]: separação, né? É o que\n[LOCUTOR 15]: falou, né? Às vezes uma pessoa que entra, né? Ela entra no RM, né? E aí no RM tem a separação dos dois colégios, né? O RM é um só, né? para\n[LOCUTOR 70]: cada\n[LOCUTOR 20]: empresa, o\n[LOCUTOR 70]: mesmo\n[LOCUTOR 20]: para\n[LOCUTOR 70]: todas. Então, perfeito. Ficaria uma empresa e abaixo as aplicações separadas, às vezes, por perfil de usuário, administrativo, profissional. Aí vocês vão organizar depois isso dentro do próprio identico ou com base até nos grupos do [EMPRESA], se for usado ali na importação. Eu\n[LOCUTOR 20]: entendo\n[LOCUTOR 20]: ideal seria realmente o que você falou, estar atrelada a grupos do [EMPRESA] ali mesmo,\n[LOCUTOR 70]: para\n[LOCUTOR 20]: a gest\n[LOCUTOR 38]: ficar\n[LOCUTOR 20]: centralizada.\n[LOCUTOR 70]: [PESSOA]. Vocês têm nenhuma ideia de usuários para a gente, daqui a pouco, pensar algo por aqui ou algo que vocês nos passem depois? Eu posso mandar aqui um e-mail na sequência, um resumo aí da nossa agenda, um material\n[LOCUTOR 70]: também do Identity, e vocês me fazem os usuários e a quantidade para a gente poder avançar por aqui e analisar.\n[LOCUTOR 31]: acho que\n[LOCUTOR 77]: os usuários,\n[LOCUTOR 31]: a gente\n[LOCUTOR 70]: tem que\n[LOCUTOR 77]: pensar\n[LOCUTOR 31]: em todos\n[LOCUTOR 77]: os usuários por conta do meu RH, tá? Eu tenho que pensar em praticamente todo mundo que tem algum vínculo com o funcionário, né?\n[LOCUTOR 59]: situação do [LOCAL] vai ser praticamente todo mundo, né?\n[LOCUTOR 77]: Praticamente todo\n[LOCUTOR 20]: fundação que\n[LOCUTOR 70]: teria\n[LOCUTOR 77]: que ser\n[LOCUTOR 77]: de back-office.\n[LOCUTOR 20]: 200 aí?\n[LOCUTOR 89]: Uns 300, né?\n[LOCUTOR 89]: por aí. [EMPRESA],\n[LOCUTOR 20]: a gente passa\n[LOCUTOR 89]: [PESSOA].\n[LOCUTOR 70]: Show. Então tá. Então tá combinado. Da minha parte, eu acho que é isso. Então buscar as premissas. E aí depois eu passo numa segunda, no segundo e-mail. Talvez a gente marque uma nova conversa.\n[LOCUTOR 89]: [LOCUTOR 27]: já pra trazer alguma visão de orçamento, né? O que tu acha, [PESSOA]? Eu acho que sim, né?\n[LOCUTOR 70]: Acho\n[LOCUTOR 31]: que podemos fazer dessa forma, [PESSOA].\n[LOCUTOR 89]: gente vai\n[LOCUTOR 70]: caminhando, vai\n[LOCUTOR 89]: evoluindo.\n[LOCUTOR 51]: coisa que\n[LOCUTOR 6]: fica uma consideraç\n[LOCUTOR 5]: também\n[LOCUTOR 6]: para todos nós aqui pensarmos,\n[LOCUTOR 89]: a gente\n[LOCUTOR 6]: pensou aqui, [PESSOA],\n[LOCUTOR 6]: formos fazer essa aquisição, lógico,\n[LOCUTOR 89]: a gente vai\n[LOCUTOR 6]: ver valores,\n[LOCUTOR 6]: Qual que seria a questão de prazo? A gente tinha mensurado no projeto interno nosso aqui, a gente adequar esses sistemas até julho, mas pode ser que a gente não tenha definido uma data que esteja tão Pode ser também. Mas o desejado seria esse. Então, seria importante também ter do lado de vocês, olha, poxa, pessoal, a\n[LOCUTOR 70]: gente\n[LOCUTOR 6]: estudou aqui\n[LOCUTOR 6]: essa quantidade de usuários, quantidade de sistemas, complexidade,\n[LOCUTOR 6]: que o prazo seria X. Só pra gente também ter do\n[LOCUTOR 70]: lado... Acho que tá no mundo agora, [PESSOA]. E\n[LOCUTOR 6]: também se vocês estariam confortáveis com o que a gente tem aqui de ideia de prazo, né?\n[LOCUTOR 70]: De implantação. É junho ou julho? Desculpa.\n[LOCUTOR 6]: [LOCAL].\n[LOCUTOR 70]: [LOCAL].\n[LOCUTOR 6]: Isso.\n[LOCUTOR 6]: a gente\n[LOCUTOR 70]: traz ali dentro da visão de orçamento de investimento o macro cronograma.\n[LOCUTOR 61]: pensando nas etapas. [LOCAL]. Importante.\n[LOCUTOR 70]: [EMPRESA] aqui com a disponibilidade também de recursos internos. que a gente tem para poder atuar nesse projeto. É padrão meio que a gente fazer isso também, tá, [PESSOA]? Mas,\n[LOCUTOR 6]: enfim,\n[LOCUTOR 70]: é importante tu mencionar que a gente dá mais ênfase também nisso na hora da apresentação e já valida, inclusive, com o time de entrega aqui.\n[LOCUTOR 6]: Sim. Deixa eu só confirmar aqui... Não, é junho, perdão. A gente\n[LOCUTOR 70]: colocou junho.\n[LOCUTOR 6]: Junho. Final de junho.\n[LOCUTOR 70]: Final\n[LOCUTOR 6]: de junho.\n[LOCUTOR 70]: Ok. Eu anotei aqui também algumas coisas apesar de estar sendo transcrita aqui a reunião. Eu passo então o resumo para vocês agora na sequência e a gente fica de marcar uma nova agenda para trazer os detalhes das premissas do macro-cronograma já com a visão também de investimento para os ideas que vocês passarem.\n[LOCUTOR 31]: [LOCAL].\n[LOCUTOR 70]: Terminado? Nossa parte eu acho que tá...\n[LOCUTOR 2]: pessoal ficou na\n[LOCUTOR 70]: escuridão aí.\n[LOCUTOR 31]: Faltando\n[LOCUTOR 89]: [PESSOA], considera aí cerca de 350 usuários, tá?\n[LOCUTOR 70]: Quantos?\n[LOCUTOR 6]: [PESSOA].\n[LOCUTOR 20]: [LOCUTOR 4]: isso. Da minha parte.\n[LOCUTOR 31]: Qualquer dúvida\n[LOCUTOR 89]: é só chamar,\n[LOCUTOR 31]: [PESSOA].\n[LOCUTOR 70]: Gente, boa sexta aí, final de sexta-feira. [LOCAL].\n[LOCUTOR 6]: [LOCAL], [EMPRESA].\n[LOCUTOR 31]: [LOCAL],\n[LOCUTOR 1]: [EMPRESA].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:32.093102+00:00",
+    "total_linhas": 510,
+    "linhas_mantidas": 343,
+    "linhas_removidas": 167,
+    "percentual_mantido": 67.25,
+    "confianca_media": 0.4872
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 28]: Boa tarde. Olá,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: boa tarde. Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4055,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Pessoal,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: boa tarde.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Boa tarde, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3861,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Tudo bem, gente?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Tudo jóia?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: jóia. Pessoal, eu falo aqui pelo lado da fotos, né? A [PESSOA], que estava conduzindo junto com vocês, ela comentou que vai atrasar alguns minutinhos. Estamos finalizando uma outra reunião. Acho que ela já está chegando conosco.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4786,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: gente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Boa tarde. Tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Boa",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Desculpa o atraso de alguns minutinhos. Estava numa outra agenda aqui. Mas que bom que deu certo, né? [PESSOA], a gente tem começado? Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3937,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: eu já tava aí a comentar, só que você tinha avisado que ia atrasar uns minutinhos, mas foi",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5112,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: bem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: breve, então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Foi bem pontual, é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4924,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: forecast,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: né,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 70]: meu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: amigo? Então é rápido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sexta-feira, forecast, né? Isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.529,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: É, n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: tem como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: não ser, né? Mas ficou. Pessoal, é a primeira vez que nós conhecemos, né? Conhece todo mundo, eu acho que já.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4424,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Só... Apalhando um pouquinho o teu microfone, eu acho,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [PESSOA]. É, apalhou aqui pra mim, não sei se...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: ouvem?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 20]: vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: ouvir. Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: certo. Então, perfeito. Acho que a gente pode seguir,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4621,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Fiquei super à vontade aí, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sim, legal. Bom, a [PESSOA] me comentou, pessoal. [PESSOA] passou, inclusive, um e-mail que vocês trocaram ali a respeito de estar utilizando o Identity e fazendo single sign-on com algumas soluções que hoje vocês já têm. Soluções totos, né? Não sei se tem alguma solução também de outros fornecedores. Enfim, a ideia seria a gente fazer um papo sobre isso, né? como que seria um projeto para fazer essa integração, esse uso via SSO do Identity. Então eu queria escutar, eu acho que vocês já conhecem a solução, pelo que eu percebi, vocês já descreveram, inclusive, algumas coisas, né? Passaram ali, né? Meia referência técnica, algumas documentações. Então eu queria entender um pouco mais do projeto em si, o que vocês têm como objetivo, o que vocês querem do nosso apoio para é trazer o identity para uma realidade de vocês, integrado com a rede, integrado também com os aplicativos do dia a dia. O que eu posso contribuir com vocês?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Então, [PESSOA], o projeto, ele consiste em a gente fazer essa integração do Proteus e do RM para fazer o single sign-on utilizando",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: a identidade",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: que a gente tem aqui de rede. Então, no caso, poderia ser, na verdade, preferencialmente com o [LOCAL], né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5815,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: quando o usuário fazer a autenticação, ele vai utilizar o mesmo",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: usu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 54]: de rede, que eles já estão acostumados, né? já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5202,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: est",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: acostumados a utilizar ali todo... Nós já temos sistemas aqui que utilizam, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.528,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 10]: uso,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 89]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Desse...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Dessa integração com o [EMPRESA]. Então, o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: pessoal aqui",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: é muito tranquilo de passar por todo o processo. Inclusive, ali com o [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Mas,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 89]: como nós temos essa questão, né? Principalmente do RM, né? Que tem ali usuários que fazem... Que não são, né? Da rede, né? Que são os alunos, né? Que fazem um acesso ali via... CPF ou alguma outra conta. Tem essa preocupação, né, de como é que seria feito.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 58]: portal, tu diz, o portal do aluno?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 84]: do Connect. Sim, a gente tem a possibilidade de trazer eles também ali junto com o single sign-on, né, fazendo o mesmo login.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5442,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: É, que na verdade a gente não tem a gestão desses usuários, né, porque esses usuários são... Se eu falar alguma besteira aqui, o pessoal me corrige, mas eu acredito que eles ficam armazenados ali dentro de uma base local, mas o single sign-on seria para o acesso administrativo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Acho que esse é o ponto, né, [PESSOA]? Acho que se a gente fosse utilizar a solução do IDENTIS, até vai ficar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: claro,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: tá? Eu não conheço a solução,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4295,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: o [PESSOA] aí, talvez o [PESSOA], o pessoal conheça mais,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3804,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: eu não conheço ela, tá? E aí eu entendo que o acesso ali pelo single sign-on que a gente quer utilizar seria para os acessos administrativos, né? Eu entendo que ali, se a gente for implementar na RM,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: os alunos, para os pais, teria que continuar o acesso, de repente, para o usuário e senha, que é hoje, né? Sem afetar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5549,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [PESSOA], [PESSOA]? [PESSOA] aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 89]: exatamente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Eu acho que não teria impacto, né? Estaria separado daí os logins, né? A gente, aí só, depois eu valido, inclusive, isso com o próprio time do RM, Questões ali de habilitar isso para que seja uma autenticação híbrida. Vamos falar dessa forma. Então, para o que é usuário administrativo possa usar o single sign-on e o que é usuário de portal, que tem ali direto pais, alunos, enfim, possa ser feito sem usar essa parte do login unificado do SSO. Se vocês quiserem eu mostro um pouquinho como é a parte do Identity ali interno para vocês também conhecerem, não sei se todo mundo já viu, mas se vocês quiserem eu mostro um pouquinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Eu acho que seria legal, tá, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Não sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: se você conhece,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: mas o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [PESSOA] é...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: É bem interessante.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [PESSOA], eu vou mostrar então aqui o nosso ambiente, que a gente consegue reproduzir um pouco da experiência, inclusive, e aí fique à vontade para a gente ir fazendo trocas. ambiente com usuária administrativa aqui, mas aqui a gente pode pegar o material para apresentar um pouco de algumas minhas telas também PPT daí. Vocês já estão vendo a minha tela? Tá, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.491,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Sim, [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [PESSOA]. Bom, aqui vocês vão ter uma URL, né, que vai ser redirecionada, independente da solução que vocês vão estar estartando, iniciando ali, seja o portal do RL, seja o RH, o [EMPRESA], seja o Proteus, né, via app, e ele vai fazer a chamada de uma URL que vai estar configurada para o domínio de vocês. Vou chamar aqui, por exemplo, a fundação, .fluigidentity, e a partir disso, esse usuário e senha aqui, ele já está integrado com a rede, com o [EMPRESA]. Então, eu tenho aqui a minha autenticação, gravada aqui, e aí a gente tem o [EMPRESA] aqui habilitado, nesse caso aqui, que a gente usa, a gente tem um aplicativo que gera esse token de acesso. Então... Uma dúvida,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCAL]. Posso te",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: falar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Posso te ir cortando?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [EMPRESA], claro. Pode sim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4675,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Você mostrou ali a tela mostrando o usuário e senha, né? Hoje, em alguns sistemas que a gente tem aqui,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4934,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: usuário não preenche o usuário e senha, né? É aquele botão, como se fosse ali do [EMPRESA], do",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5159,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 44]: ali,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: que tem o da [EMPRESA] também, entrar com a conta, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5546,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 20]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: oficial...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 70]: é possível, sim. Tu vai fazer esse vínculo aí com outra fonte, né, desses usuários. [EMPRESA] [EMPRESA], [EMPRESA], Facebook, Gmail, né,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [LOCUTOR 42]: nosso objetivo é o [EMPRESA] mesmo. É o [EMPRESA], né? Sim, então ele vai estar disponível ali para fazer isso nessa tela de login. Então, além de... Aqui a gente não tem habilitado, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4822,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Eu vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: pegar o material aqui e depois a gente mostra também essa tela aí como seria isso. Vou trazer de novo aqui o [PESSOA]. Após isso ele vai estar atrelado ao usuário, as permissões do usuário. E aí a gente tem as aplicações que vão ser configuradas aqui para fazer o SSO. para a gente ter acesso aqui com o mesmo usuário. Aqui vocês vão fazer essa parametrização de aplicativos, vai criando aqui os aplicativos e liberando para grupos de usuário ou usuários específicos. E aí ele vai ter acesso a esse [LOCAL] de aplicações aqui para uso. Vou pegar aqui um exemplo que a gente tem, a gente usa o Gmail aqui. Então está ele configurado aqui, eu poderia ter aplicativos do Office 365, o [EMPRESA], também Aplicações de mercado, né? A gente já tem os aplicativos prontos e podem ser criadas aplicações customizadas. Então, vou chamar o aplicativo de outro fornecedor, vou chamar o próprio ERP, o [LOCAL], chamar o RM, chamar o Fluid, chamar o [EMPRESA], o Topos Analytics, ou outro [EMPRESA], o CRM. Vocês vão fazer essa configuração de aplicativo e fazer essa integração via protocolo, protocolo SAML, para fazer essa amarração de login, o SSO. Vou pegar aqui um exemplo, o [LOCAL], que a gente usa aqui, que é a nossa intranet, o nosso Fluid. A partir desse [LOCAL] de aplicações, eu vou navegando nas ferramentas do meu dia a dia. E aqui, integrado, sincronizado com o [EMPRESA], o [EMPRESA] Azure, enfim. e ele replica para cá todos os bloqueios, todos os usuários novos. Então, tem uma área administrativa que eu não tenho acesso aqui. Aqui eu só tenho o meu multi-empresa. Eu posso ter outras empresas aqui também por usuário, cadastrados e relacionados ao usuário. Cada empresa vai ter os seus aplicativos diferentes. E aí, claro, tem outros menus aqui com opções de auditoria, configuração de servidores, o próprio [EMPRESA] [EMPRESA]. Enfim, para esse sincronismo de usuários, de grupos, que ele espelha com a rede. E, através dessas áreas, você vai poder fazer a administração, tanto dos aplicativos, quanto dos usuários ativos, desativados. E o Identity faz o provisionamento desses usuários. O que que é?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 71]: bloqueia o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: usuário.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [PESSOA]. É, até nessa situação, né, que é importante também, porque assim, como a gente quer manter, né, a gente já tem um sistema aqui de DM, né, que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: faz",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 89]: esse provisionamento de usuários, né, ativa, né, cria e bloqueia usuários, se ele faz isso automaticamente, porque assim, a ideia do single sign-on é justamente isso, quando, por exemplo, o usuário sai da empresa, né, o usuário dele é bloqueado e automaticamente já não vai ter mais acesso ao sistema, né.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5386,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [LOCUTOR 36]: que eu entendi, ele já vai sincronizar esse tipo de informação, que o usuário já foi bloqueado e já não vai mais permitir o acesso. Já. Ele já faz esse sincronismo automático ali",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 89]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: já bloqueia,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: ele já",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: perde o acesso automaticamente. Isso fica rodando ali,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: é o time, vamos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: chamar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: de time assim, tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: tempo de refresh, mas ele faz esse espelhamento dos usuários.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: O próprio Identity também consegue fazer esse caso, o [EMPRESA] consegue fazer. o bloqueio lá na rede. Aqui eu peguei uma outra aplicação, só para exemplificar, mas que ele acessa. Aqui eu peguei um terceiro aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 14]: sei se voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: estavam...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Não, deixa eu só tirar uma dúvida. Nesse sentido de bloquear, a gente consegue plugar ele no Proteus, no GPI do Proteus, para fazer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5107,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: essa... para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: sinalizar que aquele usuário foi desligado e fazer esse bloqueio? Já tem essa integração nativa com o Proteus?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 13]: bloqueia o nível acima, na verdade, né? Ele bloqueia o teu usuário pra acessar toda e qualquer aplicação daí.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É que ele tá além do [EMPRESA], né? O",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5753,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 49]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: origem de tudo. Se bloqueia no [EMPRESA], é uma cascata, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5449,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Ele não tem como, por exemplo, integrar no módulo de gestão de pessoas do Proteus para que o bloqueio chegue aqui no Identity e o Identity bloquear no [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5841,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Nesse caso, tu poderia ter um processo automatizado, um fluxo, que quando está dado, ou um gatilho, até mesmo uma integração no GPR, para fazer isso, tá? E o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: [LOCUTOR 24]: tem APIs para isso, mas n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 34]: é",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 70]: nativo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: né? Mas nativo, não. Tá. Não. A minha dúvida é se ela é nativa. A gente já tem essa integração com esse outro sistema que o [PESSOA] comentou,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: a minha dúvida é se teria alguma coisa nativa mesmo para conversar dentro do Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [EMPRESA]. Atualmente, não, né? Mas como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4292,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: tu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: já tem o processo funcionaria da mesma forma, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 74]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: por outro caminho. Quando bloqueado lá, o Identity iria bloquear aqui também, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: [LOCUTOR 13]: perderia o direito de acesso a toda e qualquer aplicação, ele não iria conseguir logar aqui, nessa área de aplicativos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [PESSOA], sobre o permissionamento, a permissão que eu tenho dentro do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 24]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 56]: em relação às aplicações que o usuário vai ter acesso, certo?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Isso, isso aí. Só,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: abaixo...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 87]: no caso, por exemplo, vamos dizer que a gente implementou o sistema, o sistema está rodando, a gente define ali que ele vai ter acesso ao Proteus, só que se o usuário já tinha acesso ao Proteus antes. [LOCUTOR 85]: a isso, ele não vai alterar nenhuma permissão, né? O acesso ali que ele já tinha no Proteus permanece o mesmo, as configurações, os módulos, essas coisas, mesma coisa. Mesma coisa. O permissionamento entre os módulos do usuário é feito no próprio Proteus, né? Ainda.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sobre... Como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: você estava",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: falando, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Se eu tiver um grupo na D ali,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4891,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: exemplo, eu crio um grupo na D lá de [EMPRESA]. Ele consegue, dá para relacionar, e digamos, eu tenho um conjunto de permissões lá no Proteus que eu chamo lá também de [EMPRESA]. Então ele consegue levar isso ou ele leva esse grupo até o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Proteus",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: como uma permissão do Proteus? Ou eu ainda tenho que ir lá no Proteus e associar que esse usuário tem a permiss",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 11]: financeira? Sim, tu ainda tem que fazer isso, [PESSOA] A gente tem algumas iniciativas que visam fazer isso, né? Pra fazer essa liberação aí do Identity poder levar permissionamento de menus, de funcionalidades, de rotinas lá dentro do Proteus, mas ela ainda não está liberada, ainda não está disponível para utilização.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 52]: até depois trazer aqui para o time de produto e ver se a gente tem alguma previsão de liberar isso, tá? E aí eu posso dar um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5307,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: retorno",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: para vocês na sequência. Mas na prática, hoje, teria que fazer a liberação lá dentro do Proteus, no configurador. liberando os menus, as permissões do usuário.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Isso aí, eu vou pegar um gancho nessa dúvida aí, o [PESSOA], nessa gama de dúvidas sobre a questão do acesso. Pelo que eu entendi, me corrigi se eu estiver errado. Pelo que eu estou vendo, o Identity é um portal. Dentro desse portal, é uma console [EMPRESA], que eu vou logar nele via a minha conta do [EMPRESA], e dentro dela eu vou ter ali os ícones das plataformas que eu utilizo. Então, se eu tiver o RM, o meu RH, o próprio Proteus, vai estar tudo ali. Beleza, essa é",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: a primeira",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: fase.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 58]: acesso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a cada uma dessas plataformas, o que está autenticando nessas plataformas, é aí que eu fiquei um pouquinho na dúvida. Por exemplo, hoje o meu acesso no meu RH é com o meu CPF. O meu acesso com o meu RH, o meu usuário é o meu CPF, não é uma conta nem minha de e-mail, por exemplo. Como que ele vai interpretar essa segunda etapa no acesso direto das plataformas?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Tá, aí a gente tem a amarração com essas plataformas, né? Vai ter ali... Por exemplo, no caso do [PESSOA] a gente já tem o aplicativo pronto para ser utilizado. Então ele vai ser parametrizado, mas via de regra essa amarração, esse vínculo, ele é feito pelo e-mail.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 23]: aí cada aplicação pode ter um tratamento diferente. Mas a questão... Eu não tenho impacto para o usuário na hora dele entrar na aplicação? Por exemplo, no meu caso, eu loguei ali na plataforma, fiz o login no Identity. [PESSOA]. Agora eu quero acessar o meu RH. Eu estou dando o exemplo do meu RH aqui. Porque é um que não é tradicionalmente o e-mail. Mas eu vou acessar ali. Como que ele vai... Eu vou ter impacto nesse acesso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Não. O usuário, tu diz?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: É, porque o meu acesso hoje é CPF, né? Ele não é um usuário de e-mail no meu RH. Aí eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: só tenho dúvida.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Pode ser que tenha mais alguém com acesso igual o meu, né? Não sei se é padrão.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4746,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: ter que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: ser feita uma mudança, né? Isso,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5201,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: exato.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Aí eu não tenho detalhe",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3957,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: de cada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: um dos aplicativos. A gente pode validar, tá? Pegar, por exemplo, o que seria as premissas, né? Pra gente implantar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5137,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: com o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: app. Isso, com o app meu RH. com o Proteus, o que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: temos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: ali de parametrização já pronta do lado de cada aplicação. Nessas",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: são nativas, que já existem. Então eu posso buscar aqui e mandar os detalhes disso, tá? De cabeça não tem essas informações. Mas via de regra é o e-mail, né? Então, tanto para integração com [EMPRESA], ele tem ali ou o e-mail nome.sobrenome e o arroba, ali o domínio, Então, de prática, de antirregra, é o e-mail que vai estar vinculado aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Usuários que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: não tiverem e-mail, tu pode ter usuários logins híbridos, né? Então, tu pode ter casos aqui que não vai estar integrado com o [EMPRESA], por exemplo, tu ter só um login, nome e sobrenome, né? Sim. E senha. Isso,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4543,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: eu acho que é importante a gente validar os requisitos para cada uma das plataformas, para a gente ver o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: se vai acabar tendo alguma necessidade de adequação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: quer",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: entender",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: também é a questão de... legal, eu vou colocar o identity",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4607,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: por uma melhoria de segurança, mas a nossa ideia",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5511,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: é...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: e o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: impacto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: quanto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: a isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Não... E como eu vou reduzir impactos ou não ter?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3623,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que eu tenho que fazer de atividade? Porque é um projeto mesmo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5134,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: né? A",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: gente precisa colocar umas atividadeszinhas ali até chegar no final.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4996,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: É, e é um projeto que tende a ser de médio e longo prazo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Vocês est",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: cada vez trazendo mais aplicações ali pra dentro dessa área de aplicativos ali.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4938,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Obviamente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: vocês não vão sair com vários, vocês",
+      "mantida": false,
+      "probabilidade_relevancia": 0.434,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: v",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 38]: incrementando aos poucos, né? Então, mas a gente pode pensar num projeto, sim, e aí a gente traz os que são importantes para uma primeira fase e traz para vocês os requisitos que são dispensáveis para que seja habilitado.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Então, quanto a essa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: parte de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: migração, a gente pode deixar aí com vocês para validar esses requisitos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a gente poder entender.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Isso, a gente só precisa daí, quais seriam as aplicações, né? Eu acho que o ARM, pelo que eu entendi, o Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 76]: próprio... O meu RH, exato. O RM, o Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: acho que era o portal também, né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: O",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: portal",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: ele vai utilizar as APIs do Proteus também. O portal ele vai usar o Proteus também. fazer a autenticação. Então, aí se o Proteus fizer a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: autenticação,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: o portal consegue.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 66]: uma URL diferente lá. [EMPRESA]. Mas ela não fica inserida no identity. Aí é só pra entender.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4769,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: [LOCUTOR 63]: acredito que não... Desculpa, [PESSOA]. É que esse portal que o [PESSOA] tá se referindo é um portal que a gente tem interno.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4599,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Ah,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 77]: entendi. É um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: portal customizado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: vocês?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: É. Hoje ele autentica o usuário através do Proteus. A gente tem as APIs de usuário do Proteus, então hoje ele bate no Proteus e autentica.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5659,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 87]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: acho que assim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: né, [PESSOA]? Uma vez que eu identifiquei ele e reconheci que o usuário foi",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5157,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: bloqueado,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: que tem acesso ali ao",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Proteus,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: ele n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 89]: permitir fazer essa autenticação do Proteus através do portal de contratos, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Sim, sim. Exato.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA], legal.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Porque daí ele vai bater direto no... Hoje ele bate no Proteus e depois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4896,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: bate no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [LOCUTOR 50]: no caso ele bateria só no [EMPRESA] e",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5295,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: depois",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: no Proteus",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: só pra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: verificar a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: permissão.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Mudaria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: pouquinho, mas de qualquer forma ele não bateria direto no ID.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Eu vou anotar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: pra pegar os detalhes, tá? Eu entendo que sim, ele estaria aqui como um aplicativo separado, né? Mas a autenticação dele vai funcionar, digamos que da mesma forma como o Proteus aí já vai ter, né? Eu entendo que será um aplicativo separado daí. Assim como a gente tem aqui o CRM",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: É, só um ponto",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: atenção aí que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: tem que ter,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: acho que [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 37]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: aí, [PESSOA], talvez fosse bom validar. É porque, [PESSOA], no portal,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4681,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: portal interno que a gente montou aqui, a gente chama de portal de contratos, tá, [PESSOA]? E aí, se você bate na API ali do Proteus, [PESSOA], eu entendo que o usuário lá pode estar, pode",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: ser que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5252,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: não esteja bloqueado, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [LOCUTOR 7]: é o que o [PESSOA] comentou, [PESSOA]. O Identity aí vai estar se comunicando com o Azure [EMPRESA], E aí ele bloqueia numa camada acima, mas ele não sincroniza isso com o Proteus, né? Então, se o portal de contratos tá batendo direto no Proteus, ele pode ter uma informação errada do status do usuário, né? Então acho que talvez seja um ponto pra gente validar depois, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA], importante a consideração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Sim, sim, a gente tem que revisar depois. Hoje, na verdade, ele bate nas duas instâncias. Ele bate tanto no [EMPRESA] quanto no Proteus, só que na mesma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.476,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: ordem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Porque um valida a predição, um valida o usuário, e depois,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: não me engano, ele bate no [EMPRESA] primeiro para validar o usuário. E aí, se o usuário autenticar, ele bate no Proteus para verificar se aquele usu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5074,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 26]: também",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: existe no Proteus e se ele tem,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5341,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: para ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: fazer uma instalação portal. Se não me engano, o fluxo é esse. Aí para a gente trazer para o Identity, a gente poderia criar um app aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: trazer ele para o Identity também, porque a gente não precisa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4906,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: ter",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: essa permissão dentro do Proteus, poderia ter",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: no [EMPRESA] e depois aqui no Identity, para gerenciar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Eu vou colocar ali, né,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4101,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: uma camada de autentica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: antes.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: antes de bater na API do Proteus.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6074,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 87]: ali é a n",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: do webapp mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Sim, até pra gente guardar as suas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4224,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: permissões. Hoje vocês já usam o webapp do Proteus, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Sim, sim, utilizamos.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Eu vou levar isso também pra gente buscar os premissas, os requisitos. Mas eu não sei se essa preocupação de vocês com relação a bloqueio, ela se aplica. Porque assim, uma vez o usuário bloqueado, entendo que vocês vão fazer esse bloqueio na rede, né? Antes de mais nada. E aí ele já não vai mais acessar aqui. Então ele não vai conseguir tentar acessar o portal de contratos, por exemplo. Por mais que ele esteja lá habilitado, o identity não vai fazer o acesso, porque ele não vai conseguir acessar aqui. ele não vai ter esse caminho disponível para ele poder acessar, ele já vai ser barrado aqui quando ele tentar logar no Identity, não vai chegar aqui nessa área de aplicativos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 87]: aí, no caso, se ele tiver a URL direta também, ele também não vai conseguir, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4633,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Não, a URL direta igual ela vai chamar aqui, deixa eu tentar mostrar para vocês aqui, não sei se ele vai pegar em cache, deixa eu pegar aqui uma outra Ele vai fazer um redirect, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4138,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: ele vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: tentar, ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: vai chamar aqui, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: aí, quando ele bater aqui, ele já vai dar o usuário inválido, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Ah, isso aí. Tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: todas aquelas URLGS que a gente tem aqui do RM, né? Do Proteus, ele vai redirecionar sempre para o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: ident. Isso aí. É... Eu anotei aqui [LOCAL], o [LOCAL] back-office, não é? Não, o [LOCAL], qual o [LOCAL] que vocês usam hoje? Quais modos vocês usam? Hoje",
+      "mantida": false,
+      "probabilidade_relevancia": 0.393,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: a gente usa o educacional aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: O RH, o Proteus, o WebAPP,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Seriam esses três e mais esse portal que foi desenvolvido aqui pelo [PESSOA], que é o portal de contratos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Esse seria a fase 1, vamos falar assim, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Aí é com o [PESSOA], tá? Aparentemente eu acho que seria só essa fase, tá, [PESSOA]? Mas aí o [PESSOA] pode falar melhor.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5197,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [LOCUTOR 16]: as outras aplicações que a gente tem hoje aqui, me parece que a gente já tem integração direta com a D, tá? A quest",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 18]: aqui era mais os produtos da TOTOS, sem o IDENTITY. Pelo que eu entendi, a gente não consegue fazer uma integração com [EMPRESA], com intra-ID, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sim, ele tem que ficar... fazer esse intermédio, intermediar essa conexão, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Era mais por isso, tá? Mas aí o [PESSOA] pode me convidar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4462,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [PESSOA], eu coloquei na tela alguns materiais aqui, um material que a gente tem de apresentação do Identity, né? Que fala um pouquinho de... como ele faz o sincronismo com a rede, tem aquela parte do login social que eu acabei de passar. Tem alguns detalhes aqui também de segurança, [PESSOA]. Tem a tela aqui que eu passei antes, mostra um pouquinho dos cadastros internos aqui. Mostra o login via Gmail, usando aí o conceito de login social, seria um provider externo. e aquela mesma tela de aplicações. Alguns menus que eu não mostrei lá. E aqui em cima, usuários, aplicativos, grupos, relatórios. Então, pelo IDE, a gente consegue também fazer bloqueios por range de IP, por localidade e trazer um nível maior de segurança. Além do [EMPRESA], tem outros fatores também atrelados aí que podem ser habilitados. Material que depois eu posso encaminhar para vocês. E eu vou levantar os requisitos, né? Como vocês têm aí já uma lista de aplicações que vocês buscam estar já utilizando aí, né? No projeto inicial, acho que é importante a gente detalhar o que são as premissas para isso e a gente dar continuidade, né? Avançar aí com o que seria o esforço necessário para concretizar isso, trazer essa experiência que a gente tem que eu mostrei para vocês, né? de login unificado. Hoje",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: a gente está usando o Cloud da Tots. Isso mudou alguma coisa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4831,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Hoje",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: gente está usando",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Prime no Proteus e o [EMPRESA] no RM, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Cloud [EMPRESA] e Cloud Prime pro Proteus. Vou anotar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4595,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: É um ponto importante, vale a pena a gente também confirmar, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Sim, na implementação acho que isso pode talvez ajudar, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 89]: O [PESSOA] quer perguntar alguma coisa?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Além dos quesitos técnicos, né? O que eu queria, a gente também tem interesse, eu não sei se já foi passado aí para você, [PESSOA], mas seria também entender um pouco a parte comercial, [PESSOA], questão de valores, como seria, que é um módulo adicional que a gente não tem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: entender",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: um pouco",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: desse lado. também, não sei se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: vocês",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: já têm algo para agora,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: fazer um estudo baseado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: nesses",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: requisitos que a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: gente tem. A precificação é feita por IDs. Basicamente, a solução é [EMPRESA], como vocês já sabiam, ou comentaram, mas ela é 100% [EMPRESA]. O que facilita também na questão de nuvens, de aplicações em nuvens híbridas, ou aplicações locais, ou em alguma nuvem. Então, o Identity funciona 100% SaaS. E aí, vocês têm o licenciamento sendo feito por IDs nominais. Então, vamos supor que vocês queiram hoje estar fazendo essa administração via Identity dos acessos para 200 usuários. Então, a gente vai precisar precificar em cima de 200 IDs. E é isso aí, tem um projeto de serviço que visa implementar essas aplicações, já entregar isso para vocês pronto, e depois vocês podem avançar, inclusive por conta própria, se vocês tiverem por objetivo também interno. Hoje vocês não usam o Fluid, né, como solução. de plataforma, de [LOCAL], de [PESSOA], não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 31]: né? – Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: né, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: – Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Se vocês usassem ele, na verdade, o Identity é considerado um módulo do Fluid, e aí a gente teria também um licenciamento diferente. Mas então ele é licenciado apenas para o módulo do Identity, e basicamente é isso. A gente precisa do número de IDs de usuários. E",
+      "mantida": true,
+      "probabilidade_relevancia": 0.6122,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [PESSOA], [PESSOA], não sei se vocês já têm esse número aí, mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4252,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: talvez",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: a gente acelere.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Mas nesse caso não contam os usuários que são os alunos, pais, essas coisas, eles não contam, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.453,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Não, porque eles não estariam nem acessando por aí, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.406,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [LOCUTOR 63]: entendi. Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 60]: gente vai fazer esse levantamento, porque tem outros colégios também, né, para entender melhor a quantidade de acesso administrativo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5969,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Vocês teriam",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: aplicações...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Eu ia comentar",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: se voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 35]: teriam aplicações separadas por empresa, talvez, no conceito de multiempresa, ou não? Já poderia ficar classificado por... Isso ficaria dentro das aplicações, talvez mesmo. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4929,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: entendo que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: fica dentro",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: das aplicações, né? A gente até tem a separação aqui, que seria o administrativo, né? E cada um dos colégios, [PESSOA]. Mas a gente... Acho que o sistema",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: ali... A",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: gente faz",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: separação, né? É o que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 15]: falou, né? Às vezes uma pessoa que entra, né? Ela entra no RM, né? E aí no RM tem a separação dos dois colégios, né? O RM é um só, né? para",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: cada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: empresa, o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: mesmo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: todas. Então, perfeito. Ficaria uma empresa e abaixo as aplicações separadas, às vezes, por perfil de usuário, administrativo, profissional. Aí vocês vão organizar depois isso dentro do próprio identico ou com base até nos grupos do [EMPRESA], se for usado ali na importação. Eu",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 20]: entendo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: o ideal seria, até não sei se muda alguma coisa aí, mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4143,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: ideal seria realmente o que você falou, estar atrelada a grupos do [EMPRESA] ali mesmo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5753,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: a gest",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: ficar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: centralizada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [PESSOA]. Vocês têm nenhuma ideia de usuários para a gente, daqui a pouco, pensar algo por aqui ou algo que vocês nos passem depois? Eu posso mandar aqui um e-mail na sequência, um resumo aí da nossa agenda, um material",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5124,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: ali",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: também do Identity, e vocês me fazem os usuários e a quantidade para a gente poder avançar por aqui e analisar.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5252,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: os usuários,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: tem que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: pensar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: em todos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.534,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: os usuários por conta do meu RH, tá? Eu tenho que pensar em praticamente todo mundo que tem algum vínculo com o funcionário, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 59]: situação do [LOCAL] vai ser praticamente todo mundo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 77]: Praticamente todo",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: o p",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 9]: da",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: fundação que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: teria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: que ser",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5252,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 77]: usuário, não s",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 33]: o pessoal",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 77]: de back-office.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [LOCUTOR 12]: usuários a gente tem aí, [PESSOA]? Não sei se consegue ver fácil, ou o [PESSOA], né? [LOCAL] é o quê?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.46,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Uns",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 20]: 200 aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Uns 300, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: Não, mas pega direitinho aí. Não sei se você consegue pegar a [PESSOA] e o [PESSOA] aí. Depois então manda o [PESSOA]. Mas eu acho que deve ser",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4337,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: por aí. [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5198,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: a gente passa",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: o n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: mais",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Show. Então tá. Então tá combinado. Da minha parte, eu acho que é isso. Então buscar as premissas. E aí depois eu passo numa segunda, no segundo e-mail. Talvez a gente marque uma nova conversa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5331,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [LOCUTOR 27]: já pra trazer alguma visão de orçamento, né? O que tu acha, [PESSOA]? Eu acho que sim, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Acho",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: que podemos fazer dessa forma, [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 89]: E",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: aí, quando vocês têm alguma dúvida, a gente discute também nessa próxima call, me mandam por e-mail, a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4556,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: caminhando, vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: evoluindo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 51]: coisa que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: só",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: fica uma consideraç",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: também",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: para todos nós aqui pensarmos,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 89]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: pensou aqui, [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: formos fazer essa aquisição, lógico,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 89]: a gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: ver valores,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 89]: etc.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Qual que seria a questão de prazo? A gente tinha mensurado no projeto interno nosso aqui, a gente adequar esses sistemas até julho, mas pode ser que a gente não tenha definido uma data que esteja tão Pode ser também. Mas o desejado seria esse. Então, seria importante também ter do lado de vocês, olha, poxa, pessoal, a",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: estudou aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: essa quantidade de usuários, quantidade de sistemas, complexidade,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5806,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: que o prazo seria X. Só pra gente também ter do",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: lado... Acho que tá no mundo agora, [PESSOA]. E",
+      "mantida": true,
+      "probabilidade_relevancia": 0.525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: também se vocês estariam confortáveis com o que a gente tem aqui de ideia de prazo, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: De implantação. É junho ou julho? Desculpa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Sim, a gente valida junto ao escopo e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: a gente",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: traz ali dentro da visão de orçamento de investimento o macro cronograma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 61]: pensando nas etapas. [LOCAL]. Importante.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [EMPRESA] aqui com a disponibilidade também de recursos internos. que a gente tem para poder atuar nesse projeto. É padrão meio que a gente fazer isso também, tá, [PESSOA]? Mas,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5878,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: enfim,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: é importante tu mencionar que a gente dá mais ênfase também nisso na hora da apresentação e já valida, inclusive, com o time de entrega aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Sim. Deixa eu só confirmar aqui... Não, é junho, perdão. A gente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 70]: colocou junho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: Junho. Final de junho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Final",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: de junho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Ok. Eu anotei aqui também algumas coisas apesar de estar sendo transcrita aqui a reunião. Eu passo então o resumo para vocês agora na sequência e a gente fica de marcar uma nova agenda para trazer os detalhes das premissas do macro-cronograma já com a visão também de investimento para os ideas que vocês passarem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5871,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Terminado? Nossa parte eu acho que tá...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 6]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 19]: ok.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: pessoal ficou na",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4622,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: escuridão aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Faltando",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: luz por aí? Se tá faltando luz eu não abri que tá segurando",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4546,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: internet. Tá tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: [PESSOA], considera aí cerca de 350 usuários, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Quantos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: 350.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 70]: 350?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: [LOCAL]. Já tomei nota aqui também. [LOCAL], gente. Mais algum ponto?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 20]: [LOCUTOR 4]: isso. Da minha parte.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: Obrigado,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: Qualquer dúvida",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 89]: é só chamar,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Tá",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 6]: bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [PESSOA], obrigado viu.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 70]: Gente, boa sexta aí, final de sexta-feira. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5339,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 6]: [LOCAL], [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 31]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    }
+  ]
+}

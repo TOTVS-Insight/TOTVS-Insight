@@ -1,0 +1,127 @@
+{
+  "id_reuniao": "1139683",
+  "codt": "TEZUTK",
+  "data_reuniao": "2026-03-04 14:30:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS RIO GRANDE DO SUL",
+  "segmento": "VAREJO",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 1]: [EMPRESA] [PESSOA], tudo bem?\n[LOCUTOR 2]: E aí [PESSOA], tudo bem? Acho que ele não vai entrar mesmo então.\n[LOCUTOR 1]: Não, ele falou pra mim que ele foi pra [LOCAL]. Ele foi pro [LOCAL] de [LOCAL] para verificar uma carga. Ele não sabe se vai chegar a tempo.\n[LOCUTOR 2]: A gente marca depois então, outro momento.\n[LOCUTOR 1]: Tá bom. É, eu falei pra ele se ele quisesse remarcar, mas ele nem me respondeu mais. Eu\n[LOCUTOR 2]: não sei\n[LOCUTOR 1]: se é longe de onde ele está, mas eles vão pedir sim.\n[LOCUTOR 2]: Tá bom, beleza, fechou. A gente se informa cada e a gente pega uma outra data, tá bom?\n[LOCUTOR 1]: Tá bom, vou olhar sua agenda, envia um. é sobre a empresa que eu te falei do Ricardo. O senhor chegou a escutar não cheguei\n[LOCUTOR 2]: eu estava no almoçando com o cliente agora eu voltei direto para cá.\n[LOCUTOR 1]: Não tem problema eu só falei que eles têm só o ágora e ele tem interesse dos servidores locais e eu perguntei se fazia sentido mesmo a gente marcar essa agenda.\n[LOCUTOR 2]: Bom mesmo que ele tenha só o agora a gente pode vender para ele um fluido e homologar ele para trazer o IAS que são os servidores que não são da top está\n[LOCUTOR 1]: os\n[LOCUTOR 2]: outros lá. Então para ele é vantagem igual porque a gente é muito barato é muito competitivo e é uma venda igual. Só muda um pouquinho a forma de vender que tem que vender uma licença e tudo mais mas não tem ganho funciona bem.\n[LOCUTOR 1]: Então tá bom. Obrigada.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 1]: [LOCAL].",
+  "texto_filtrado": "[LOCUTOR 1]: Não, ele falou pra mim que ele foi pra [LOCAL]. Ele foi pro [LOCAL] de [LOCAL] para verificar uma carga. Ele não sabe se vai chegar a tempo.\n[LOCUTOR 2]: A gente marca depois então, outro momento.\n[LOCUTOR 1]: se é longe de onde ele está, mas eles vão pedir sim.\n[LOCUTOR 2]: Tá bom, beleza, fechou. A gente se informa cada e a gente pega uma outra data, tá bom?\n[LOCUTOR 2]: eu estava no almoçando com o cliente agora eu voltei direto para cá.\n[LOCUTOR 1]: Não tem problema eu só falei que eles têm só o ágora e ele tem interesse dos servidores locais e eu perguntei se fazia sentido mesmo a gente marcar essa agenda.\n[LOCUTOR 2]: Bom mesmo que ele tenha só o agora a gente pode vender para ele um fluido e homologar ele para trazer o IAS que são os servidores que não são da top está\n[LOCUTOR 2]: outros lá. Então para ele é vantagem igual porque a gente é muito barato é muito competitivo e é uma venda igual. Só muda um pouquinho a forma de vender que tem que vender uma licença e tudo mais mas não tem ganho funciona bem.\n[LOCUTOR 2]: [LOCAL].\n[LOCUTOR 1]: [LOCAL].",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:00.758129+00:00",
+    "total_linhas": 17,
+    "linhas_mantidas": 10,
+    "linhas_removidas": 7,
+    "percentual_mantido": 58.82,
+    "confianca_media": 0.4516
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA] [PESSOA], tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4485,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: E aí [PESSOA], tudo bem? Acho que ele não vai entrar mesmo então.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4062,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não, ele falou pra mim que ele foi pra [LOCAL]. Ele foi pro [LOCAL] de [LOCAL] para verificar uma carga. Ele não sabe se vai chegar a tempo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5204,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: A gente marca depois então, outro momento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá bom. É, eu falei pra ele se ele quisesse remarcar, mas ele nem me respondeu mais. Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4093,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: não sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: se é longe de onde ele está, mas eles vão pedir sim.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.464,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá bom, beleza, fechou. A gente se informa cada e a gente pega uma outra data, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tá bom, vou olhar sua agenda, envia um. é sobre a empresa que eu te falei do Ricardo. O senhor chegou a escutar não cheguei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4405,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: eu estava no almoçando com o cliente agora eu voltei direto para cá.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Não tem problema eu só falei que eles têm só o ágora e ele tem interesse dos servidores locais e eu perguntei se fazia sentido mesmo a gente marcar essa agenda.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Bom mesmo que ele tenha só o agora a gente pode vender para ele um fluido e homologar ele para trazer o IAS que são os servidores que não são da top está",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: os",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: outros lá. Então para ele é vantagem igual porque a gente é muito barato é muito competitivo e é uma venda igual. Só muda um pouquinho a forma de vender que tem que vender uma licença e tudo mais mas não tem ganho funciona bem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Então tá bom. Obrigada.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "id_reuniao": "1072682",
+  "codt": "TFEF01",
+  "data_reuniao": "2026-02-12 15:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "SP",
+  "texto_original": "[LOCUTOR 2]: [PESSOA] o [PESSOA]. Se eu\n[LOCUTOR 3]: te\n[LOCUTOR 2]: falar que ele acabou de me mandar mensagem.\n[LOCUTOR 3]: [LOCAL]?\n[LOCUTOR 2]: [PESSOA]. Era 2h54. Tudo bem, estamos com um problema no acesso ao servidor BI. Geto e VPN, precisava entrar em uma sala com alguém de vocês para configurar o firewall novamente, pois trocamos o firewall e deu erro. Aí eu pergunto para ele. Boa tarde, [PESSOA]. Nesse caso, precisa abrir um ticket para o [LOCAL]. Porque é VPN, né?\n[LOCUTOR 3]: O Dani vai entrar aqui, né?\n[LOCUTOR 2]: Você\n[LOCUTOR 3]: viu a minha\n[LOCUTOR 2]: mensagem? Porque ele deve, então, estar a cabeça nesse problema.\n[LOCUTOR 3]: É. É. \n[LOCUTOR 1]: achei estranho na hora que ele me deu opa, boa tarde, eu falei, oxe, será que ele adivinhou que ia entrar na sala?\n[LOCUTOR 3]: Tão rápido assim. Não,\n[LOCUTOR 2]: vamos fazer o seguinte,\n[LOCUTOR 3]: não sei\n[LOCUTOR 2]: se vai ficar mais cinco minutinhos aí esperando, normalmente\n[LOCUTOR 3]: é.\n[LOCUTOR 2]: Cara, 5 minutos que eu fico, não entrou...\n[LOCUTOR 3]: Vou ficar mais um pouquinho aqui, mas pode deixar,\n[LOCUTOR 2]: se\n[LOCUTOR 3]: ele aparecer aqui eu te chamo lá.\n[LOCUTOR 2]: Fechou, obrigado [PESSOA].\n[LOCUTOR 3]: [LOCAL], até mais.",
+  "texto_filtrado": "[LOCUTOR 2]: [PESSOA] o [PESSOA]. Se eu\n[LOCUTOR 2]: falar que ele acabou de me mandar mensagem.\n[LOCUTOR 3]: [LOCAL]?\n[LOCUTOR 2]: [PESSOA]. Era 2h54. Tudo bem, estamos com um problema no acesso ao servidor BI. Geto e VPN, precisava entrar em uma sala com alguém de vocês para configurar o firewall novamente, pois trocamos o firewall e deu erro. Aí eu pergunto para ele. Boa tarde, [PESSOA]. Nesse caso, precisa abrir um ticket para o [LOCAL]. Porque é VPN, né?\n[LOCUTOR 3]: O Dani vai entrar aqui, né?\n[LOCUTOR 2]: Você\n[LOCUTOR 3]: viu a minha\n[LOCUTOR 2]: mensagem? Porque ele deve, então, estar a cabeça nesse problema.\n[LOCUTOR 1]: achei estranho na hora que ele me deu opa, boa tarde, eu falei, oxe, será que ele adivinhou que ia entrar na sala?\n[LOCUTOR 2]: vamos fazer o seguinte,\n[LOCUTOR 2]: se vai ficar mais cinco minutinhos aí esperando, normalmente",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:12.799743+00:00",
+    "total_linhas": 22,
+    "linhas_mantidas": 11,
+    "linhas_removidas": 11,
+    "percentual_mantido": 50.0,
+    "confianca_media": 0.4504
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA] o [PESSOA]. Se eu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: te",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: falar que ele acabou de me mandar mensagem.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5063,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA]. Era 2h54. Tudo bem, estamos com um problema no acesso ao servidor BI. Geto e VPN, precisava entrar em uma sala com alguém de vocês para configurar o firewall novamente, pois trocamos o firewall e deu erro. Aí eu pergunto para ele. Boa tarde, [PESSOA]. Nesse caso, precisa abrir um ticket para o [LOCAL]. Porque é VPN, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: O Dani vai entrar aqui, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: viu a minha",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: mensagem? Porque ele deve, então, estar a cabeça nesse problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: É. É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: achei estranho na hora que ele me deu opa, boa tarde, eu falei, oxe, será que ele adivinhou que ia entrar na sala?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4683,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Tão rápido assim. Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vamos fazer o seguinte,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: não sei",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: se vai ficar mais cinco minutinhos aí esperando, normalmente",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 3]: é.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Cara, 5 minutos que eu fico, não entrou...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4259,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: Vou ficar mais um pouquinho aqui, mas pode deixar,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4302,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 3]: ele aparecer aqui eu te chamo lá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Fechou, obrigado [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 3]: [LOCAL], até mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    }
+  ]
+}

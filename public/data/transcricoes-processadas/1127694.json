@@ -1,0 +1,115 @@
+{
+  "id_reuniao": "1127694",
+  "codt": "CYMMH9",
+  "data_reuniao": "2026-03-03 10:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 1]: Olá. Olá. Obrigada. Fala [PESSOA], beleza?\n[LOCUTOR 2]: Beleza, tranquilo aqui. O Victor te mandei ali no chat, o [LOCAL] pediu pra remarcar o horário, ele tá no banco, tá bom? Tô só aguardando ele retornar.\n[LOCUTOR 1]: Tua foto não é igual sua imagem. Se você sumir, ninguém vai te achar.\n[LOCUTOR 2]: Vai sim. Vai sim.\n[LOCUTOR 1]: É igual eu, olha aí a minha foto. Nada a ver, cara, nada a ver.\n[LOCUTOR 2]: Nada a ver.\n[LOCUTOR 1]: Se eu sumir, ninguém vai me achar. Você\n[LOCUTOR 2]: vai\n[LOCUTOR 1]: me avisar como é que eu faço?\n[LOCUTOR 2]: Sim, eu aviso. Eu já vi a tua agenda. Está livre a tarde?\n[LOCUTOR 1]: Está livre também.\n[LOCUTOR 2]: [PESSOA]. Só aguardando ele retornar ali. Ele está no banco. Ele falou para mim. Te mandei até um print da conversa ali no chat. Fica\n[LOCUTOR 1]: tranquilo. Me avisa e eu entro de novo, tá?\n[LOCUTOR 2]: Tá bom. Obrigado.\n[LOCUTOR 1]: Um abraço aí, cara. Tchau, tchau.",
+  "texto_filtrado": "[LOCUTOR 2]: Nada a ver.\n[LOCUTOR 2]: [PESSOA]. Só aguardando ele retornar ali. Ele está no banco. Ele falou para mim. Te mandei até um print da conversa ali no chat. Fica\n[LOCUTOR 1]: tranquilo. Me avisa e eu entro de novo, tá?",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:32.872543+00:00",
+    "total_linhas": 15,
+    "linhas_mantidas": 3,
+    "linhas_removidas": 12,
+    "percentual_mantido": 20.0,
+    "confianca_media": 0.4364
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: Olá. Olá. Obrigada. Fala [PESSOA], beleza?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Beleza, tranquilo aqui. O Victor te mandei ali no chat, o [LOCAL] pediu pra remarcar o horário, ele tá no banco, tá bom? Tô só aguardando ele retornar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4556,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tua foto não é igual sua imagem. Se você sumir, ninguém vai te achar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4367,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Vai sim. Vai sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É igual eu, olha aí a minha foto. Nada a ver, cara, nada a ver.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Nada a ver.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Se eu sumir, ninguém vai me achar. Você",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4465,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: me avisar como é que eu faço?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4326,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Sim, eu aviso. Eu já vi a tua agenda. Está livre a tarde?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3927,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Está livre também.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: [PESSOA]. Só aguardando ele retornar ali. Ele está no banco. Ele falou para mim. Te mandei até um print da conversa ali no chat. Fica",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4998,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: tranquilo. Me avisa e eu entro de novo, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4677,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tá bom. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Um abraço aí, cara. Tchau, tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4319,
+      "motivo": "ml"
+    }
+  ]
+}

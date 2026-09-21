@@ -1,0 +1,235 @@
+{
+  "id_reuniao": "1201486",
+  "codt": "TFECH8",
+  "data_reuniao": "2026-03-09 16:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "TO",
+  "texto_original": "[LOCUTOR 2]: Tudo bem? Não tô te ouvindo.\n[LOCUTOR 1]: Opa, agora sim. Boa tarde,\n[LOCUTOR 2]: tudo bem?\n[LOCUTOR 1]: [PESSOA]. Obrigado por\n[LOCUTOR 2]: ter\n[LOCUTOR 1]: conseguido vir aqui na sala.\n[LOCUTOR 2]: Pois é, eu tinha entrado\n[LOCUTOR 1]: e\n[LOCUTOR 2]: saí, porque não tinha ninguém. Acabei... Desculpa,\n[LOCUTOR 1]: eu acabei trazendo... Estava preso numa outra questão aqui.\n[LOCUTOR 2]: O [PESSOA] não entrou ainda, né?\n[LOCUTOR 1]: [PESSOA]. Não. Escolheu no [EMPRESA] ele entrar também?\n[LOCUTOR 2]: Vou mandar mensagem para ele. Você sabe que o nosso contrato foi cancelado, não é, [PESSOA]?\n[LOCUTOR 1]: Foi cancelado?\n[LOCUTOR 2]: Foi.\n[LOCUTOR 1]: Você receberam e-mail quando?\n[LOCUTOR 2]: Ah, eu não sei que foi o que recebeu, só me avisou.\n[LOCUTOR 1]: É, o meu gestor recebeu aqui, vocês estavam pra ser cancelados, eu acho, alguma coisa do tipo. Aí ele pediu pra conversar com vocês, pra ver o que ele podia fazer, o que podia ser. Conversar com vocês, né?\n[LOCUTOR 2]: Então,\n[LOCUTOR 1]: esse meu gestor é novo pro [PESSOA], Então ele tá tentando verificar o que dá para ser feito, né? Conversar com os clientes, entender um pouquinho melhor. Fique em\n[LOCUTOR 2]: paz.\n[LOCUTOR 1]: Por isso que eu pedi essa reunião.\n[LOCUTOR 2]: Não, beleza. Na verdade o [PESSOA] é o que tinha que entrar aqui, porque ele é que sabe melhor da situação do que eu. que é o responsável, não é? Então... [PESSOA] disse que não vai conseguir\n[LOCUTOR 1]: ampliar\n[LOCUTOR 2]: hoje.\n[LOCUTOR 1]: [EMPRESA]. Bom, acho que não adianta muito a gente ficar conversando aqui então, né, [PESSOA]?\n[LOCUTOR 2]: Não, não vai adiantar, porque assim, primeiro que a nossa situação ainda está bem complicada, né? Eu acho que eu já te falei, não sei se eu te falei, mas nós já chegamos a mudar nossos horários de atendimento até de 24 horas, passamos a atender só de 7 às 10 da noite, para reduzir os custos aqui com o pessoal do assistencial, né?\n[LOCUTOR 1]: [EMPRESA].\n[LOCUTOR 2]: E o custo geral do hospital, para poder dar uma estabilizada na situação. Porque o projeto nosso, assim, era... tem até centro cirúrgico já, mas como as coisas não andou da forma que a gente... Não,\n[LOCUTOR 1]: cheguei\n[LOCUTOR 2]: feliz. Então tivemos que reduzir os custos o máximo possível aqui para tentar dar uma estabilizada na situação financeira. Depois quando estabilizar e sim voltar todos os projetos de novo.\n[LOCUTOR 1]: Bem, tá bom. Então vou repassar isso para o [EMPRESA]. E aí qualquer coisa a gente tenta fazer uma ligação ou alguma coisa do tipo. Tá bom.\n[LOCUTOR 2]: Perfeito então. Obrigado.\n[LOCUTOR 1]: Obrigado a você. Até\n[LOCUTOR 2]: mais.",
+  "texto_filtrado": "[LOCUTOR 1]: conseguido vir aqui na sala.\n[LOCUTOR 1]: [PESSOA]. Não. Escolheu no [EMPRESA] ele entrar também?\n[LOCUTOR 2]: Vou mandar mensagem para ele. Você sabe que o nosso contrato foi cancelado, não é, [PESSOA]?\n[LOCUTOR 1]: Foi cancelado?\n[LOCUTOR 1]: Você receberam e-mail quando?\n[LOCUTOR 1]: É, o meu gestor recebeu aqui, vocês estavam pra ser cancelados, eu acho, alguma coisa do tipo. Aí ele pediu pra conversar com vocês, pra ver o que ele podia fazer, o que podia ser. Conversar com vocês, né?\n[LOCUTOR 2]: Então,\n[LOCUTOR 1]: esse meu gestor é novo pro [PESSOA], Então ele tá tentando verificar o que dá para ser feito, né? Conversar com os clientes, entender um pouquinho melhor. Fique em\n[LOCUTOR 1]: Por isso que eu pedi essa reunião.\n[LOCUTOR 2]: Não, beleza. Na verdade o [PESSOA] é o que tinha que entrar aqui, porque ele é que sabe melhor da situação do que eu. que é o responsável, não é? Então... [PESSOA] disse que não vai conseguir\n[LOCUTOR 1]: ampliar\n[LOCUTOR 2]: Não, não vai adiantar, porque assim, primeiro que a nossa situação ainda está bem complicada, né? Eu acho que eu já te falei, não sei se eu te falei, mas nós já chegamos a mudar nossos horários de atendimento até de 24 horas, passamos a atender só de 7 às 10 da noite, para reduzir os custos aqui com o pessoal do assistencial, né?\n[LOCUTOR 1]: [EMPRESA].\n[LOCUTOR 2]: E o custo geral do hospital, para poder dar uma estabilizada na situação. Porque o projeto nosso, assim, era... tem até centro cirúrgico já, mas como as coisas não andou da forma que a gente... Não,\n[LOCUTOR 1]: cheguei\n[LOCUTOR 2]: feliz. Então tivemos que reduzir os custos o máximo possível aqui para tentar dar uma estabilizada na situação financeira. Depois quando estabilizar e sim voltar todos os projetos de novo.\n[LOCUTOR 1]: Bem, tá bom. Então vou repassar isso para o [EMPRESA]. E aí qualquer coisa a gente tenta fazer uma ligação ou alguma coisa do tipo. Tá bom.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:03.560162+00:00",
+    "total_linhas": 35,
+    "linhas_mantidas": 17,
+    "linhas_removidas": 18,
+    "percentual_mantido": 48.57,
+    "confianca_media": 0.4514
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 2]: Tudo bem? Não tô te ouvindo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3994,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Opa, agora sim. Boa tarde,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3851,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA]. Obrigado por",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4204,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: ter",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: conseguido vir aqui na sala.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Pois é, eu tinha entrado",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 2]: saí, porque não tinha ninguém. Acabei... Desculpa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3788,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: eu acabei trazendo... Estava preso numa outra questão aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: O [PESSOA] não entrou ainda, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [PESSOA]. Não. Escolheu no [EMPRESA] ele entrar também?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4678,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Vou mandar mensagem para ele. Você sabe que o nosso contrato foi cancelado, não é, [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Foi cancelado?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5456,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Foi.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Você receberam e-mail quando?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Ah, eu não sei que foi o que recebeu, só me avisou.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4453,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: É, o meu gestor recebeu aqui, vocês estavam pra ser cancelados, eu acho, alguma coisa do tipo. Aí ele pediu pra conversar com vocês, pra ver o que ele podia fazer, o que podia ser. Conversar com vocês, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5138,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: esse meu gestor é novo pro [PESSOA], Então ele tá tentando verificar o que dá para ser feito, né? Conversar com os clientes, entender um pouquinho melhor. Fique em",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: paz.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Por isso que eu pedi essa reunião.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5005,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, beleza. Na verdade o [PESSOA] é o que tinha que entrar aqui, porque ele é que sabe melhor da situação do que eu. que é o responsável, não é? Então... [PESSOA] disse que não vai conseguir",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: ampliar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: hoje.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4416,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA]. Bom, acho que não adianta muito a gente ficar conversando aqui então, né, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4399,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, não vai adiantar, porque assim, primeiro que a nossa situação ainda está bem complicada, né? Eu acho que eu já te falei, não sei se eu te falei, mas nós já chegamos a mudar nossos horários de atendimento até de 24 horas, passamos a atender só de 7 às 10 da noite, para reduzir os custos aqui com o pessoal do assistencial, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: E o custo geral do hospital, para poder dar uma estabilizada na situação. Porque o projeto nosso, assim, era... tem até centro cirúrgico já, mas como as coisas não andou da forma que a gente... Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: cheguei",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: feliz. Então tivemos que reduzir os custos o máximo possível aqui para tentar dar uma estabilizada na situação financeira. Depois quando estabilizar e sim voltar todos os projetos de novo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Bem, tá bom. Então vou repassar isso para o [EMPRESA]. E aí qualquer coisa a gente tenta fazer uma ligação ou alguma coisa do tipo. Tá bom.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Perfeito então. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Obrigado a você. Até",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: mais.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    }
+  ]
+}

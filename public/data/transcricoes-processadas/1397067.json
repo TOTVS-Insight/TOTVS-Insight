@@ -1,0 +1,91 @@
+{
+  "id_reuniao": "1397067",
+  "codt": "T15400",
+  "data_reuniao": "2026-04-07 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS SAUDE",
+  "segmento": "SAUDE",
+  "uf": "RJ",
+  "texto_original": "[LOCUTOR 1]: [EMPRESA], [PESSOA].[PESSOA] - \n[LOCUTOR 2]: Olá, tudo bem?\n[LOCUTOR 1]: Tudo bem, e você?[PESSOA] - \n[LOCUTOR 2]: Tudo bom. Desculpa o atraso que a outra reunião finalizou agora e já vim direto pra cá.\n[LOCUTOR 1]: Imagina! Primeiro, obrigada por ter conseguido alterar sua agenda tão em cima da hora.[PESSOA] - \n[LOCUTOR 2]: Não, tranquilo.\n[LOCUTOR 1]: Temos mais alguém aqui com a [PESSOA] - \n[LOCUTOR 2]: Não, do nosso lado...\n[LOCUTOR 1]: O consultor de vendas que entrou é o automático. Pode tentar. Eu não consigo tirar ele não nãoMiguel [PESSOA] - \n[LOCUTOR 2]: não.\n[LOCUTOR 1]: Remover.",
+  "texto_filtrado": "[LOCUTOR 1]: [EMPRESA], [PESSOA].[PESSOA] -\n[LOCUTOR 1]: Imagina! Primeiro, obrigada por ter conseguido alterar sua agenda tão em cima da hora.[PESSOA] -\n[LOCUTOR 1]: Temos mais alguém aqui com a [PESSOA] -\n[LOCUTOR 2]: Não, do nosso lado...\n[LOCUTOR 1]: O consultor de vendas que entrou é o automático. Pode tentar. Eu não consigo tirar ele não nãoMiguel [PESSOA] -\n[LOCUTOR 1]: Remover.",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:20.442647+00:00",
+    "total_linhas": 11,
+    "linhas_mantidas": 6,
+    "linhas_removidas": 5,
+    "percentual_mantido": 54.55,
+    "confianca_media": 0.4614
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 1]: [EMPRESA], [PESSOA].[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Olá, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Tudo bem, e você?[PESSOA] -",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Tudo bom. Desculpa o atraso que a outra reunião finalizou agora e já vim direto pra cá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Imagina! Primeiro, obrigada por ter conseguido alterar sua agenda tão em cima da hora.[PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5391,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, tranquilo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Temos mais alguém aqui com a [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: Não, do nosso lado...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4766,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 1]: O consultor de vendas que entrou é o automático. Pode tentar. Eu não consigo tirar ele não nãoMiguel [PESSOA] -",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 2]: não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 1]: Remover.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}

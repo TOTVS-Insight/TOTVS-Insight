@@ -1,0 +1,607 @@
+{
+  "id_reuniao": "1239006",
+  "codt": "TFEEI4",
+  "data_reuniao": "2026-03-17 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": "TOTVS MINAS GERAIS",
+  "segmento": "SERVICOS",
+  "uf": "MG",
+  "texto_original": "[LOCUTOR 16]: Vocês me escutam?\n[LOCUTOR 5]: Sim,\n[LOCUTOR 8]: muito. Você nos\n[LOCUTOR 16]: escuta? Está tudo bem? Acho que se você vai ter que entrar, você vai compartilhar, né? Du, entra na reunião pra\n[LOCUTOR 5]: voc\n[LOCUTOR 4]: poder compartilhar o áudio. Depois eu mudo aqui. Eu tô redesenhando o negócio que você me pediu. Eu posso falar que você conversou comigo. Ou eu falo que...\n[LOCUTOR 5]: que\n[LOCUTOR 16]: eu fiz um exemplo mais... Aqui entra na reunião para a gente apresentar. Olá [PESSOA],\n[LOCUTOR 8]: tudo bem?\n[LOCUTOR 16]: Bom dia, tudo bem com vocês?\n[LOCUTOR 5]: \n[LOCUTOR 6]: bem, graças a [PESSOA], seja bem-vindo.\n[LOCUTOR 16]: Não está dando eco aqui, né? Só esperando a [LOCAL] entrar? que a gente vai abrir a tela do [EMPRESA] e dar um pouco de cor para vocês do que é o sistema, do que a gente entendeu de colocar os beneficiários dentro. E para uma próxima conversa, você trazer a carinha, doutor consulta, para poder convencer o nosso [EMPRESA] aqui.\n[LOCUTOR 8]: [PESSOA]. Vocês se importam de eu gravar?\n[LOCUTOR 16]: Não?\n[LOCUTOR 8]: Vou voltar para gravar e vou pedir a autorização de vocês, tá bom?\n[LOCUTOR 16]: Tá bom.\n[LOCUTOR 8]: O pessoal está gravando. Tem autorização de todos para gravar?\n[LOCUTOR 16]: Sim.\n[LOCUTOR 8]: [LOCAL]. Fiquem à vontade. Tudo bom, [LOCAL]?\n[LOCUTOR 16]: Tudo, e você?\n[LOCUTOR 8]: Tudo bem, graças a [PESSOA]. Seja bem-vinda.\n[LOCUTOR 16]: Deixa eu olhar aqui o que eu faço para compartilhar isso. Você manda para mim. Tira aí. Você cortou a tela? É. Só apresentar aqui, [PESSOA] é o nosso controller aqui, gerente contábil fiscal e até faturamento valida. e a [LOCAL], a gerente aqui de Quantos Apagar e Receber Tesouraria. Então, me apoiam aqui na questão, principalmente nas questões aí de dados, tanto no Quantos Receber como no Apagar, e os dados aqui, tudo que migra para a contabilidade. O [PESSOA] é o responsável, inclusive, por assinar aqui o balanço da organização. E como a gente tem, na arquitetura, o CORE nosso, que é o [LOCAL], que aí, como já bem comentou, tudo nasce lá, que é o nosso assistencial, e o caso da empresa [EMPRESA], dentro do [EMPRESA], é onde está concentrado as vidas, né, que possuem os cartões de assinatura, que está embaixo dessa [EMPRESA], e o sistema que administra essas vidas é o Admin, que é o que a [LOCAL] vai navegar um pouquinho para a gente entender como é que a gente enxerga a vida ativa, o plano dele, etc. A gente entende que o TOTOS poderia oferecer algum tipo de produto, do que a gente já enxergou aí, falando de Proteus ou RM. Então, vou dar a palavra aí para a [PESSOA]. Assim, fique à vontade nas perguntas, transitar aqui, você fala para aqui, deixa eu ver e a gente para, tá?\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 16]: O Admin, ele é o nosso sistema único e exclusivo para fazer a gestão velocinatura dentro do doutor consulta. E aí ele é o nosso sistema base para fazer o motor de recorrência, os motores junto às adquirentes, né? Que no caso eu tenho a [EMPRESA] e a Admin para a Arial. Então basicamente eu vou colocar aqui ó, o [PESSOA] do cliente Eu não tenho outra busca tá, não ser pelo [PESSOA] ele não me dá uma outra busca Isso já é uma deficiência porque se eu preciso procurar pelo nome ou fazer qualquer outro tipo de análise como quantos clientes eu tenho e qual tipo de produto, eu não tenho essa essa facilidade dentro do sistema. Eu preciso pedir sempre para que o pessoal do [EMPRESA] gere uma base. E aí, pelo que a gente sabe, tem N bases que eles utilizam para conseguir chegar num relatório comum. E aí, quando eu entro nos dados do cliente, ele vai me trazer toda a vida do cliente Eu tô colocando o meu nome aí, tá? Ele vai trazer toda a vida do cliente dentro do doutor consulta Então se eu tiver dependentes ele vai aparecer aqui, ele aparece os meus dependentes, o meu [PESSOA], os meus dados pessoais, se tenho cartões vinculados ou não, e aqui a assinatura que eu tenho junto ao doutor consulta. Então, ele também não tem uma memória, ou seja, ele não guarda, se eu mudar minha assinatura, ele até deixa guardado, mas ele não guarda nenhuma informação da dentro do [EMPRESA], ele não tem um repositório, tá? Deixa eu mudar aqui só pra vocês, só pra mim, validar. Deixa eu ver esse cliente aqui. Ele é bem... Ó, tá vendo? Ele guarda os clientes, mas Esse cliente aqui, por exemplo, ele já fez mais de uma renovação e ele não guarda qual é o meu código da adquirente, ele sobrepõe Então apenas se eu mudo de plano ele deixa essa informação salva dentro do sistema Mas as informações do meu código de transação dentro da adquirente ele vai sobrepondo dentro do sistema Aí aqui ele vai trazendo outras informações, pedidos que são feitos dentro do CFP. CFP é o call center. É o call center, desculpa. Os pedidos que são feitos no call center, os pagamentos, eles entram em contato. Aqui são cálculos de economia, então farmácia, quanto ele gastou, o doutor consulta quais foram os gastos dele, quanto ele teve de desconto, por conta dele ter o cartão, né, o valor normal, o valor pago, o desconto que foi concedido, ou seja, é uma análise. Se ele tiver boletos, os boletos emitidos, as integrações são realizadas com o [EMPRESA] ou com notas fiscais emitidas, mas aqui é com o [EMPRESA], que é o nosso sistema de back-office. Então, quando que ele integrou com o [EMPRESA], cada parcela paga, ele tem a data, o horário, Isso aqui eu realmente não sei porque eles nem usam essa tela. Aqui são históricos de cancelamento, ou seja, se ele ligou, aonde ele ligou, quando ele pediu o cancelamento do produto. Aí eu tenho comprovanças de pagamento que na realidade ele não sai, ele não faz nenhuma integração com a adquirente. Eu tenho as transações que também ele não faz integração com a adquirente. As notas fiscais emitidas por produto, então se eu clico aqui eu vou precisar baixar as notas que foram emitidas. Caso tenha algum erro de integração, os logos de erro e os dependentes, tá? Então, dependente por produto. Basicamente, isso é o que ele guarda. Porém, eu tenho algumas integrações que ele faz junto à adquirente. Ou seja, no momento que eu faço o cadastro, esse código de cobrança é o código da adquirente, que é que, no caso, a história não utiliza uma getter que é a [LOCAL], ele faz essa cobrança na adquirente, e aí ele volta essa informação para dentro do sistema, se essa cobrança foi com sucesso ou não, para poder gerar o plano e ativar ou inativar o plano. Esse motor,\n[LOCUTOR 8]: ele sai\n[LOCUTOR 16]: de dentro do [EMPRESA] e vai para a adquirente informando, ó, esse daqui foi com sucesso, pode ativar o plano, esse aqui não, A gente tem alguns planos que são tipo [EMPRESA], que é os planos mensais serem utilizados em meeting. Então, todo mês ele manda essa cobrança para dentro da cliente e retorna esse código de cobrança, mas sempre sobrepondo, nunca salvando, tendo um repositório. Então, isso dificulta bastante para a gente fazer todo um processo de liga financeira do cliente dentro do sistema. E... E ele também não retorna informações do tipo chargeback ou reembolso para dentro do [EMPRESA]. Ou seja, se eu fiz um reembolso ou um chargeback, ele não retorna essa informação falando para inativar esse cliente dentro do nosso sistema de assinatura, tá? O Overview é bastante... objetivo aqui, tá, gente? De olhar um pouco o sistema do que, como é que transitam as informações aí, para depois isso virar financeiro e depois contar.\n[LOCUTOR 8]: Gente, claríssimo, tá? Eu tenho perguntas. Posso?\n[LOCUTOR 16]: [EMPRESA]. Primeiramente,\n[LOCUTOR 8]: [PESSOA], muito obrigado pela apresentação, certo? Ficou muito claro mesmo. [PESSOA] pela dinâmica. Nós que somos aqui da área entendemos, fica distanciada, tudo certo, tá? Pergunta, como que o beneficiário entra nesse sistema? Como é que é o input dele? Segunda pergunta, como é que você sabe que ele executou a consulta lá no prestador [PESSOA]? Eu sei que normalmente é no doutor consulta, mas e se não for? Como é que esse dado aparece? Como é que ele integra com a ponta? Vocês dão um portal para esse prestador?\n[LOCUTOR 16]: Não, todas as integrações são feitas pelo nosso robô. O sistema [LOCAL] é um sistema interno nosso que faz toda a vida do cliente dentro da consulta. integra essa informação, ou o sistema [EMPRESA]. Eu vou entrar aqui no [LOCAL], que acho que vai ficar um pouquinho mais claro para você.\n[LOCUTOR 8]: A minha pergunta é, e se não for no [LOCAL]? E se for um...\n[LOCUTOR 16]: Não, tem que ser no [LOCAL], a\n[LOCUTOR 8]: gente... Cuidá-lo não serve para\n[LOCUTOR 16]: consultar\n[LOCUTOR 8]: em outro lugar, só no consulta.\n[LOCUTOR 16]: A gente não tem ainda o papel de marketplace, de você pegar uma clínica que não é doutor consulta, colocar o [LOCAL] lá e fazer funcionar. Não. Hoje a gente está falando do doutor consulta como rede própria e a gente quer que quem, para fidelizar o paciente que ele utiliza o doutor consulta, nossa rede própria, ele acaba adquirindo assinatura para ele ter o benefício dos descontos em consultas e exames e do que a gente oferece para ele, que é a linha de cuidado, que é o nosso ecossistema. Então,\n[LOCUTOR 8]: [LOCUTOR 7]: tudo somente dentro do doutor consulta, não temos nem a intenção de credenciar clínicas e colocar o [LOCAL] na clínica para poder rodar, entendeu? [EMPRESA], perfeito. E a entrada dele?\n[LOCUTOR 16]: Tem cadastro, né? Não, o cadastro é automático. Então, quando ele faz a compra do cartão, ele gera, ele vai gerar essa cobrança na adquirente voltando com o retorno, com o sucesso. Ele geralmente faz a compra pela APP, então ele já vai fazer toda a, ele já vai imputar todas as informações lá no nosso [EMPRESA] ou no site, ou então dentro do nosso centro médico. Ele já imputa as informações de nome, [PESSOA], enfim, todos os dados, e aí dando ok na adquirente, essa integração já vai automática pra dentro do [EMPRESA]. [PESSOA], oi?\n[LOCUTOR 8]: [EMPRESA],\n[LOCUTOR 16]: entendi. Entendeu? O Admin é o sistema base do cartão. Então, no momento que gera um contrato dentro do Admin, ele gera uma integração com o nosso sistema Backoffice, que é o órgão, que é o sistema financeiro contado, mas também gera uma integração com o nosso [LOCAL]. Ele coloca dentro do cadastro do cliente, que esse cliente possui uma conta no número de consulta. Então, aí ele Cria esse símbolo aqui, informando que ele possui um convênio do [PESSOA]. Ele faz essas duas contas com os dois sistemas. E aí, a partir do momento que eu vou utilizando dentro do [LOCAL] aqui, ele vai voltando essa informação para dentro do [EMPRESA] de todas as minhas utilizações com aquelas informações de desconto, enfim. toda a minha vida dentro do doutor consulta ele volta para dentro do [EMPRESA] para que tenha ele no repositório para que a gente possa fazer qualquer tipo de análise mais fácil.\n[LOCUTOR 8]: [LOCAL]. Entendido.\n[LOCUTOR 16]: Então sempre tem a integração função e a gente, no [LOCAL], precisa ler a [LOCAL] como uma beneficiária da assinatura cartão doutor consulta, que está elegível aos descontos aí concedidos.\n[LOCUTOR 8]: \n[LOCUTOR 12]: aí o [LOCAL], a operadora de atendimento que\n[LOCUTOR 16]: atende lá do consulta, se ela marcou uma consulta, fez a consulta e fez um exame, de repente ela vai ter que pós-consulta, comprar algum outro produto, isso já está tudo registrado a ponto de o beneficiário já agendar a nova consulta, se quiser pagar já vai ver com desconto, ou inclusive existe parcelamento dependendo do montante. Assim, o [EMPRESA] ele faz algumas integrações entre o [LOCAL] adquirente O SC2, para saber ir de volta, tanto o cadastro do cliente quanto a vida do cliente para dentro do [EMPRESA] E ele também faz integrações com o Oracle, para que a gente tenha todo o registro contábil, financeiro, para que sejam feitas conciliações dentro do Oracle Faz também todas as integrações com a AdClient Porém, ele não lê na [LOCAL] segundas movimentações dentro da transação, ele só lê a primeira movimentação.\n[LOCUTOR 8]: [EMPRESA].\n[LOCUTOR 16]: Na verdade, ele recebe essa informação, porque essa informação vem diária da [LOCAL]. Nosso webhook está em contato com a [LOCAL] full time. mas ele descarta essa informação e aí ele não dá sequência em ativações ou coisas do tipo, tá?\n[LOCUTOR 8]: [EMPRESA], perfeito, perfeito. Está entendidíssimo. Obrigado pela demonstração, viu, [LOCAL]. Acho que minhas dúvidas, [PESSOA], foram sanadas aqui. Tá bom?\n[LOCUTOR 5]: A gente marca uma nova apresentação e aí\n[LOCUTOR 8]: traz para\n[LOCUTOR 5]: o [PESSOA].\n[LOCUTOR 8]: Agora nós vamos para o próximo passo, né? que é para a gente poder mostrar para vocês, já pensando em tudo isso, já apresentar. Eu já fiz uma apresentação prévia para o [EMPRESA], adicionar alguns elementos principais relacionados a essa parte da apresentação, que foi uma coisa que nós debatemos muito na nossa prévia, que era a questão do sistema do cartão de desconto,\n[LOCUTOR 16]: mas\n[LOCUTOR 8]: agora está entendido, podemos seguir.\n[LOCUTOR 5]: [LOCUTOR 1]: vocês tiverem alguma dúvida, pode me mandar um textado, que eu vou ajudando. Eu não tenho o seu contato, [LOCAL].\n[LOCUTOR 16]: O [EMPRESA] passa. Eu passo. Eu também\n[LOCUTOR 5]: não tenho contato do [EMPRESA].\n[LOCUTOR 16]: Então vamos lá, já vou pôr um chat aqui.\n[LOCUTOR 5]: [PESSOA].\n[LOCUTOR 16]: [PESSOA] aqui, né? A gente mudou do Teams e ficamos perdidos. Pode pôr. Então, vou pôr aqui. Já foi isso.\n[LOCUTOR 5]: Coloquei o meu também aí,\n[LOCUTOR 16]: se\n[LOCUTOR 5]: vocês quiserem anotar. Aí eu estou salvando aqui para a gente poder\n[LOCUTOR 16]: se\n[LOCUTOR 5]: comunicar se for preciso. Uma data, uma agenda, você quer falar alguma coisa, [PESSOA], para propor? Ou vamos primeiro conversar?\n[LOCUTOR 8]: Pode ser conforme a disponibilidade desse, o [EMPRESA] e a equipe podendo, a gente faz a próxima etapa, sem problemas.\n[LOCUTOR 5]: Vocês querem ter uma ideia de data ou a gente...\n[LOCUTOR 16]: Acho que mais ou menos. Hoje é terça? Você acha que dá pra falar na semana ainda?\n[LOCUTOR 8]: Dá, deixa eu ver minha agenda aqui. Essa semana eu só consigo ou quinta depois das... quinta às dezesseis ou sexta-feira a qualquer horário à tarde.\n[LOCUTOR 5]: \n[LOCUTOR 13]: eu ver o meu aqui, minha agenda aqui. Sexta. Que sexta eu acho que éJussara Santana da \n[LOCUTOR 9]: a\n[LOCUTOR 16]: data melhor aqui.[PESSOA] da \n[LOCUTOR 9]: \n[LOCUTOR 11]: que quinta. Quinta, 16h? Ou fica ruim praJussara Santana da  conta\n[LOCUTOR 16]: de turismo? Não,[PESSOA] da \n[LOCUTOR 9]: então... Então,\n[LOCUTOR 16]: vou deixar na sexta. Sexta! Sexta eu fiz o almoço. De manhã até o domingo. Sexta às 15? Pode ser.\n[LOCUTOR 8]: Sexta às 15?\n[LOCUTOR 16]: Pode. Você\n[LOCUTOR 8]: tá no\n[LOCUTOR 5]: mundo.\n[LOCUTOR 16]: Já vou\n[LOCUTOR 5]: gerar um invite pra nós, tá?\n[LOCUTOR 16]: Tá.\n[LOCUTOR 5]: Então tá bom. Muito obrigado, viu, gente.\n[LOCUTOR 16]: Tá, [PESSOA]. Rápido e objetivo.\n[LOCUTOR 5]: É isso aí, é isso\n[LOCUTOR 8]: aí. Até\n[LOCUTOR 5]: sexta\n[LOCUTOR 8]: às\n[LOCUTOR 5]: 15 aí.\n[LOCUTOR 16]: O [PESSOA] falou, se vocês tiverem alguma dúvida, pode acessá-la, tá?\n[LOCUTOR 8]: Obrigado.\n[LOCUTOR 16]: [LOCUTOR 2]: coisa a gente reaciona. [PESSOA], viu? [LOCAL], tchau.\n[LOCUTOR 8]: [LOCUTOR 3]: aqui. [LOCAL], tchau.",
+  "texto_filtrado": "[LOCUTOR 8]: muito. Você nos\n[LOCUTOR 16]: escuta? Está tudo bem? Acho que se você vai ter que entrar, você vai compartilhar, né? Du, entra na reunião pra\n[LOCUTOR 4]: poder compartilhar o áudio. Depois eu mudo aqui. Eu tô redesenhando o negócio que você me pediu. Eu posso falar que você conversou comigo. Ou eu falo que...\n[LOCUTOR 16]: eu fiz um exemplo mais... Aqui entra na reunião para a gente apresentar. Olá [PESSOA],\n[LOCUTOR 16]: Não está dando eco aqui, né? Só esperando a [LOCAL] entrar? que a gente vai abrir a tela do [EMPRESA] e dar um pouco de cor para vocês do que é o sistema, do que a gente entendeu de colocar os beneficiários dentro. E para uma próxima conversa, você trazer a carinha, doutor consulta, para poder convencer o nosso [EMPRESA] aqui.\n[LOCUTOR 8]: [PESSOA]. Vocês se importam de eu gravar?\n[LOCUTOR 8]: Vou voltar para gravar e vou pedir a autorização de vocês, tá bom?\n[LOCUTOR 8]: O pessoal está gravando. Tem autorização de todos para gravar?\n[LOCUTOR 16]: Deixa eu olhar aqui o que eu faço para compartilhar isso. Você manda para mim. Tira aí. Você cortou a tela? É. Só apresentar aqui, [PESSOA] é o nosso controller aqui, gerente contábil fiscal e até faturamento valida. e a [LOCAL], a gerente aqui de Quantos Apagar e Receber Tesouraria. Então, me apoiam aqui na questão, principalmente nas questões aí de dados, tanto no Quantos Receber como no Apagar, e os dados aqui, tudo que migra para a contabilidade. O [PESSOA] é o responsável, inclusive, por assinar aqui o balanço da organização. E como a gente tem, na arquitetura, o CORE nosso, que é o [LOCAL], que aí, como já bem comentou, tudo nasce lá, que é o nosso assistencial, e o caso da empresa [EMPRESA], dentro do [EMPRESA], é onde está concentrado as vidas, né, que possuem os cartões de assinatura, que está embaixo dessa [EMPRESA], e o sistema que administra essas vidas é o Admin, que é o que a [LOCAL] vai navegar um pouquinho para a gente entender como é que a gente enxerga a vida ativa, o plano dele, etc. A gente entende que o TOTOS poderia oferecer algum tipo de produto, do que a gente já enxergou aí, falando de Proteus ou RM. Então, vou dar a palavra aí para a [PESSOA]. Assim, fique à vontade nas perguntas, transitar aqui, você fala para aqui, deixa eu ver e a gente para, tá?\n[LOCUTOR 8]: [LOCAL].\n[LOCUTOR 16]: O Admin, ele é o nosso sistema único e exclusivo para fazer a gestão velocinatura dentro do doutor consulta. E aí ele é o nosso sistema base para fazer o motor de recorrência, os motores junto às adquirentes, né? Que no caso eu tenho a [EMPRESA] e a Admin para a Arial. Então basicamente eu vou colocar aqui ó, o [PESSOA] do cliente Eu não tenho outra busca tá, não ser pelo [PESSOA] ele não me dá uma outra busca Isso já é uma deficiência porque se eu preciso procurar pelo nome ou fazer qualquer outro tipo de análise como quantos clientes eu tenho e qual tipo de produto, eu não tenho essa essa facilidade dentro do sistema. Eu preciso pedir sempre para que o pessoal do [EMPRESA] gere uma base. E aí, pelo que a gente sabe, tem N bases que eles utilizam para conseguir chegar num relatório comum. E aí, quando eu entro nos dados do cliente, ele vai me trazer toda a vida do cliente Eu tô colocando o meu nome aí, tá? Ele vai trazer toda a vida do cliente dentro do doutor consulta Então se eu tiver dependentes ele vai aparecer aqui, ele aparece os meus dependentes, o meu [PESSOA], os meus dados pessoais, se tenho cartões vinculados ou não, e aqui a assinatura que eu tenho junto ao doutor consulta. Então, ele também não tem uma memória, ou seja, ele não guarda, se eu mudar minha assinatura, ele até deixa guardado, mas ele não guarda nenhuma informação da dentro do [EMPRESA], ele não tem um repositório, tá? Deixa eu mudar aqui só pra vocês, só pra mim, validar. Deixa eu ver esse cliente aqui. Ele é bem... Ó, tá vendo? Ele guarda os clientes, mas Esse cliente aqui, por exemplo, ele já fez mais de uma renovação e ele não guarda qual é o meu código da adquirente, ele sobrepõe Então apenas se eu mudo de plano ele deixa essa informação salva dentro do sistema Mas as informações do meu código de transação dentro da adquirente ele vai sobrepondo dentro do sistema Aí aqui ele vai trazendo outras informações, pedidos que são feitos dentro do CFP. CFP é o call center. É o call center, desculpa. Os pedidos que são feitos no call center, os pagamentos, eles entram em contato. Aqui são cálculos de economia, então farmácia, quanto ele gastou, o doutor consulta quais foram os gastos dele, quanto ele teve de desconto, por conta dele ter o cartão, né, o valor normal, o valor pago, o desconto que foi concedido, ou seja, é uma análise. Se ele tiver boletos, os boletos emitidos, as integrações são realizadas com o [EMPRESA] ou com notas fiscais emitidas, mas aqui é com o [EMPRESA], que é o nosso sistema de back-office. Então, quando que ele integrou com o [EMPRESA], cada parcela paga, ele tem a data, o horário, Isso aqui eu realmente não sei porque eles nem usam essa tela. Aqui são históricos de cancelamento, ou seja, se ele ligou, aonde ele ligou, quando ele pediu o cancelamento do produto. Aí eu tenho comprovanças de pagamento que na realidade ele não sai, ele não faz nenhuma integração com a adquirente. Eu tenho as transações que também ele não faz integração com a adquirente. As notas fiscais emitidas por produto, então se eu clico aqui eu vou precisar baixar as notas que foram emitidas. Caso tenha algum erro de integração, os logos de erro e os dependentes, tá? Então, dependente por produto. Basicamente, isso é o que ele guarda. Porém, eu tenho algumas integrações que ele faz junto à adquirente. Ou seja, no momento que eu faço o cadastro, esse código de cobrança é o código da adquirente, que é que, no caso, a história não utiliza uma getter que é a [LOCAL], ele faz essa cobrança na adquirente, e aí ele volta essa informação para dentro do sistema, se essa cobrança foi com sucesso ou não, para poder gerar o plano e ativar ou inativar o plano. Esse motor,\n[LOCUTOR 8]: ele sai\n[LOCUTOR 16]: de dentro do [EMPRESA] e vai para a adquirente informando, ó, esse daqui foi com sucesso, pode ativar o plano, esse aqui não, A gente tem alguns planos que são tipo [EMPRESA], que é os planos mensais serem utilizados em meeting. Então, todo mês ele manda essa cobrança para dentro da cliente e retorna esse código de cobrança, mas sempre sobrepondo, nunca salvando, tendo um repositório. Então, isso dificulta bastante para a gente fazer todo um processo de liga financeira do cliente dentro do sistema. E... E ele também não retorna informações do tipo chargeback ou reembolso para dentro do [EMPRESA]. Ou seja, se eu fiz um reembolso ou um chargeback, ele não retorna essa informação falando para inativar esse cliente dentro do nosso sistema de assinatura, tá? O Overview é bastante... objetivo aqui, tá, gente? De olhar um pouco o sistema do que, como é que transitam as informações aí, para depois isso virar financeiro e depois contar.\n[LOCUTOR 16]: [EMPRESA]. Primeiramente,\n[LOCUTOR 8]: [PESSOA], muito obrigado pela apresentação, certo? Ficou muito claro mesmo. [PESSOA] pela dinâmica. Nós que somos aqui da área entendemos, fica distanciada, tudo certo, tá? Pergunta, como que o beneficiário entra nesse sistema? Como é que é o input dele? Segunda pergunta, como é que você sabe que ele executou a consulta lá no prestador [PESSOA]? Eu sei que normalmente é no doutor consulta, mas e se não for? Como é que esse dado aparece? Como é que ele integra com a ponta? Vocês dão um portal para esse prestador?\n[LOCUTOR 16]: Não, todas as integrações são feitas pelo nosso robô. O sistema [LOCAL] é um sistema interno nosso que faz toda a vida do cliente dentro da consulta. integra essa informação, ou o sistema [EMPRESA]. Eu vou entrar aqui no [LOCAL], que acho que vai ficar um pouquinho mais claro para você.\n[LOCUTOR 8]: A minha pergunta é, e se não for no [LOCAL]? E se for um...\n[LOCUTOR 16]: Não, tem que ser no [LOCAL], a\n[LOCUTOR 16]: consultar\n[LOCUTOR 8]: em outro lugar, só no consulta.\n[LOCUTOR 16]: A gente não tem ainda o papel de marketplace, de você pegar uma clínica que não é doutor consulta, colocar o [LOCAL] lá e fazer funcionar. Não. Hoje a gente está falando do doutor consulta como rede própria e a gente quer que quem, para fidelizar o paciente que ele utiliza o doutor consulta, nossa rede própria, ele acaba adquirindo assinatura para ele ter o benefício dos descontos em consultas e exames e do que a gente oferece para ele, que é a linha de cuidado, que é o nosso ecossistema. Então,\n[LOCUTOR 8]: [LOCUTOR 7]: tudo somente dentro do doutor consulta, não temos nem a intenção de credenciar clínicas e colocar o [LOCAL] na clínica para poder rodar, entendeu? [EMPRESA], perfeito. E a entrada dele?\n[LOCUTOR 16]: Tem cadastro, né? Não, o cadastro é automático. Então, quando ele faz a compra do cartão, ele gera, ele vai gerar essa cobrança na adquirente voltando com o retorno, com o sucesso. Ele geralmente faz a compra pela APP, então ele já vai fazer toda a, ele já vai imputar todas as informações lá no nosso [EMPRESA] ou no site, ou então dentro do nosso centro médico. Ele já imputa as informações de nome, [PESSOA], enfim, todos os dados, e aí dando ok na adquirente, essa integração já vai automática pra dentro do [EMPRESA]. [PESSOA], oi?\n[LOCUTOR 8]: [EMPRESA],\n[LOCUTOR 16]: entendi. Entendeu? O Admin é o sistema base do cartão. Então, no momento que gera um contrato dentro do Admin, ele gera uma integração com o nosso sistema Backoffice, que é o órgão, que é o sistema financeiro contado, mas também gera uma integração com o nosso [LOCAL]. Ele coloca dentro do cadastro do cliente, que esse cliente possui uma conta no número de consulta. Então, aí ele Cria esse símbolo aqui, informando que ele possui um convênio do [PESSOA]. Ele faz essas duas contas com os dois sistemas. E aí, a partir do momento que eu vou utilizando dentro do [LOCAL] aqui, ele vai voltando essa informação para dentro do [EMPRESA] de todas as minhas utilizações com aquelas informações de desconto, enfim. toda a minha vida dentro do doutor consulta ele volta para dentro do [EMPRESA] para que tenha ele no repositório para que a gente possa fazer qualquer tipo de análise mais fácil.\n[LOCUTOR 8]: [LOCAL]. Entendido.\n[LOCUTOR 16]: Então sempre tem a integração função e a gente, no [LOCAL], precisa ler a [LOCAL] como uma beneficiária da assinatura cartão doutor consulta, que está elegível aos descontos aí concedidos.\n[LOCUTOR 12]: aí o [LOCAL], a operadora de atendimento que\n[LOCUTOR 16]: atende lá do consulta, se ela marcou uma consulta, fez a consulta e fez um exame, de repente ela vai ter que pós-consulta, comprar algum outro produto, isso já está tudo registrado a ponto de o beneficiário já agendar a nova consulta, se quiser pagar já vai ver com desconto, ou inclusive existe parcelamento dependendo do montante. Assim, o [EMPRESA] ele faz algumas integrações entre o [LOCAL] adquirente O SC2, para saber ir de volta, tanto o cadastro do cliente quanto a vida do cliente para dentro do [EMPRESA] E ele também faz integrações com o Oracle, para que a gente tenha todo o registro contábil, financeiro, para que sejam feitas conciliações dentro do Oracle Faz também todas as integrações com a AdClient Porém, ele não lê na [LOCAL] segundas movimentações dentro da transação, ele só lê a primeira movimentação.\n[LOCUTOR 8]: [EMPRESA].\n[LOCUTOR 16]: Na verdade, ele recebe essa informação, porque essa informação vem diária da [LOCAL]. Nosso webhook está em contato com a [LOCAL] full time. mas ele descarta essa informação e aí ele não dá sequência em ativações ou coisas do tipo, tá?\n[LOCUTOR 8]: [EMPRESA], perfeito, perfeito. Está entendidíssimo. Obrigado pela demonstração, viu, [LOCAL]. Acho que minhas dúvidas, [PESSOA], foram sanadas aqui. Tá bom?\n[LOCUTOR 5]: A gente marca uma nova apresentação e aí\n[LOCUTOR 8]: traz para\n[LOCUTOR 5]: o [PESSOA].\n[LOCUTOR 8]: Agora nós vamos para o próximo passo, né? que é para a gente poder mostrar para vocês, já pensando em tudo isso, já apresentar. Eu já fiz uma apresentação prévia para o [EMPRESA], adicionar alguns elementos principais relacionados a essa parte da apresentação, que foi uma coisa que nós debatemos muito na nossa prévia, que era a questão do sistema do cartão de desconto,\n[LOCUTOR 16]: O [EMPRESA] passa. Eu passo. Eu também\n[LOCUTOR 5]: não tenho contato do [EMPRESA].\n[LOCUTOR 5]: [PESSOA].\n[LOCUTOR 16]: [PESSOA] aqui, né? A gente mudou do Teams e ficamos perdidos. Pode pôr. Então, vou pôr aqui. Já foi isso.\n[LOCUTOR 5]: vocês quiserem anotar. Aí eu estou salvando aqui para a gente poder\n[LOCUTOR 5]: comunicar se for preciso. Uma data, uma agenda, você quer falar alguma coisa, [PESSOA], para propor? Ou vamos primeiro conversar?\n[LOCUTOR 8]: Pode ser conforme a disponibilidade desse, o [EMPRESA] e a equipe podendo, a gente faz a próxima etapa, sem problemas.\n[LOCUTOR 5]: Vocês querem ter uma ideia de data ou a gente...\n[LOCUTOR 16]: Acho que mais ou menos. Hoje é terça? Você acha que dá pra falar na semana ainda?\n[LOCUTOR 8]: Dá, deixa eu ver minha agenda aqui. Essa semana eu só consigo ou quinta depois das... quinta às dezesseis ou sexta-feira a qualquer horário à tarde.\n[LOCUTOR 13]: eu ver o meu aqui, minha agenda aqui. Sexta. Que sexta eu acho que éJussara Santana da\n[LOCUTOR 16]: data melhor aqui.[PESSOA] da\n[LOCUTOR 11]: que quinta. Quinta, 16h? Ou fica ruim praJussara Santana da  conta\n[LOCUTOR 16]: de turismo? Não,[PESSOA] da\n[LOCUTOR 9]: então... Então,\n[LOCUTOR 16]: vou deixar na sexta. Sexta! Sexta eu fiz o almoço. De manhã até o domingo. Sexta às 15? Pode ser.\n[LOCUTOR 8]: Sexta às 15?\n[LOCUTOR 16]: Pode. Você\n[LOCUTOR 8]: tá no\n[LOCUTOR 5]: mundo.\n[LOCUTOR 5]: gerar um invite pra nós, tá?\n[LOCUTOR 16]: Tá, [PESSOA]. Rápido e objetivo.\n[LOCUTOR 5]: É isso aí, é isso\n[LOCUTOR 5]: sexta\n[LOCUTOR 5]: 15 aí.\n[LOCUTOR 16]: O [PESSOA] falou, se vocês tiverem alguma dúvida, pode acessá-la, tá?",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:18.178417+00:00",
+    "total_linhas": 97,
+    "linhas_mantidas": 62,
+    "linhas_removidas": 35,
+    "percentual_mantido": 63.92,
+    "confianca_media": 0.4804
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 16]: Vocês me escutam?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4157,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: muito. Você nos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: escuta? Está tudo bem? Acho que se você vai ter que entrar, você vai compartilhar, né? Du, entra na reunião pra",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4657,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: voc",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 4]: poder compartilhar o áudio. Depois eu mudo aqui. Eu tô redesenhando o negócio que você me pediu. Eu posso falar que você conversou comigo. Ou eu falo que...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: eu fiz um exemplo mais... Aqui entra na reunião para a gente apresentar. Olá [PESSOA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4888,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Bom dia, tudo bem com vocês?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3919,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 6]: bem, graças a [PESSOA], seja bem-vindo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Não está dando eco aqui, né? Só esperando a [LOCAL] entrar? que a gente vai abrir a tela do [EMPRESA] e dar um pouco de cor para vocês do que é o sistema, do que a gente entendeu de colocar os beneficiários dentro. E para uma próxima conversa, você trazer a carinha, doutor consulta, para poder convencer o nosso [EMPRESA] aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5733,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA]. Vocês se importam de eu gravar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4977,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Não?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Vou voltar para gravar e vou pedir a autorização de vocês, tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Tá bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: O pessoal está gravando. Tem autorização de todos para gravar?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL]. Fiquem à vontade. Tudo bom, [LOCAL]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4213,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Tudo, e você?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Tudo bem, graças a [PESSOA]. Seja bem-vinda.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Deixa eu olhar aqui o que eu faço para compartilhar isso. Você manda para mim. Tira aí. Você cortou a tela? É. Só apresentar aqui, [PESSOA] é o nosso controller aqui, gerente contábil fiscal e até faturamento valida. e a [LOCAL], a gerente aqui de Quantos Apagar e Receber Tesouraria. Então, me apoiam aqui na questão, principalmente nas questões aí de dados, tanto no Quantos Receber como no Apagar, e os dados aqui, tudo que migra para a contabilidade. O [PESSOA] é o responsável, inclusive, por assinar aqui o balanço da organização. E como a gente tem, na arquitetura, o CORE nosso, que é o [LOCAL], que aí, como já bem comentou, tudo nasce lá, que é o nosso assistencial, e o caso da empresa [EMPRESA], dentro do [EMPRESA], é onde está concentrado as vidas, né, que possuem os cartões de assinatura, que está embaixo dessa [EMPRESA], e o sistema que administra essas vidas é o Admin, que é o que a [LOCAL] vai navegar um pouquinho para a gente entender como é que a gente enxerga a vida ativa, o plano dele, etc. A gente entende que o TOTOS poderia oferecer algum tipo de produto, do que a gente já enxergou aí, falando de Proteus ou RM. Então, vou dar a palavra aí para a [PESSOA]. Assim, fique à vontade nas perguntas, transitar aqui, você fala para aqui, deixa eu ver e a gente para, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: O Admin, ele é o nosso sistema único e exclusivo para fazer a gestão velocinatura dentro do doutor consulta. E aí ele é o nosso sistema base para fazer o motor de recorrência, os motores junto às adquirentes, né? Que no caso eu tenho a [EMPRESA] e a Admin para a Arial. Então basicamente eu vou colocar aqui ó, o [PESSOA] do cliente Eu não tenho outra busca tá, não ser pelo [PESSOA] ele não me dá uma outra busca Isso já é uma deficiência porque se eu preciso procurar pelo nome ou fazer qualquer outro tipo de análise como quantos clientes eu tenho e qual tipo de produto, eu não tenho essa essa facilidade dentro do sistema. Eu preciso pedir sempre para que o pessoal do [EMPRESA] gere uma base. E aí, pelo que a gente sabe, tem N bases que eles utilizam para conseguir chegar num relatório comum. E aí, quando eu entro nos dados do cliente, ele vai me trazer toda a vida do cliente Eu tô colocando o meu nome aí, tá? Ele vai trazer toda a vida do cliente dentro do doutor consulta Então se eu tiver dependentes ele vai aparecer aqui, ele aparece os meus dependentes, o meu [PESSOA], os meus dados pessoais, se tenho cartões vinculados ou não, e aqui a assinatura que eu tenho junto ao doutor consulta. Então, ele também não tem uma memória, ou seja, ele não guarda, se eu mudar minha assinatura, ele até deixa guardado, mas ele não guarda nenhuma informação da dentro do [EMPRESA], ele não tem um repositório, tá? Deixa eu mudar aqui só pra vocês, só pra mim, validar. Deixa eu ver esse cliente aqui. Ele é bem... Ó, tá vendo? Ele guarda os clientes, mas Esse cliente aqui, por exemplo, ele já fez mais de uma renovação e ele não guarda qual é o meu código da adquirente, ele sobrepõe Então apenas se eu mudo de plano ele deixa essa informação salva dentro do sistema Mas as informações do meu código de transação dentro da adquirente ele vai sobrepondo dentro do sistema Aí aqui ele vai trazendo outras informações, pedidos que são feitos dentro do CFP. CFP é o call center. É o call center, desculpa. Os pedidos que são feitos no call center, os pagamentos, eles entram em contato. Aqui são cálculos de economia, então farmácia, quanto ele gastou, o doutor consulta quais foram os gastos dele, quanto ele teve de desconto, por conta dele ter o cartão, né, o valor normal, o valor pago, o desconto que foi concedido, ou seja, é uma análise. Se ele tiver boletos, os boletos emitidos, as integrações são realizadas com o [EMPRESA] ou com notas fiscais emitidas, mas aqui é com o [EMPRESA], que é o nosso sistema de back-office. Então, quando que ele integrou com o [EMPRESA], cada parcela paga, ele tem a data, o horário, Isso aqui eu realmente não sei porque eles nem usam essa tela. Aqui são históricos de cancelamento, ou seja, se ele ligou, aonde ele ligou, quando ele pediu o cancelamento do produto. Aí eu tenho comprovanças de pagamento que na realidade ele não sai, ele não faz nenhuma integração com a adquirente. Eu tenho as transações que também ele não faz integração com a adquirente. As notas fiscais emitidas por produto, então se eu clico aqui eu vou precisar baixar as notas que foram emitidas. Caso tenha algum erro de integração, os logos de erro e os dependentes, tá? Então, dependente por produto. Basicamente, isso é o que ele guarda. Porém, eu tenho algumas integrações que ele faz junto à adquirente. Ou seja, no momento que eu faço o cadastro, esse código de cobrança é o código da adquirente, que é que, no caso, a história não utiliza uma getter que é a [LOCAL], ele faz essa cobrança na adquirente, e aí ele volta essa informação para dentro do sistema, se essa cobrança foi com sucesso ou não, para poder gerar o plano e ativar ou inativar o plano. Esse motor,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: ele sai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: de dentro do [EMPRESA] e vai para a adquirente informando, ó, esse daqui foi com sucesso, pode ativar o plano, esse aqui não, A gente tem alguns planos que são tipo [EMPRESA], que é os planos mensais serem utilizados em meeting. Então, todo mês ele manda essa cobrança para dentro da cliente e retorna esse código de cobrança, mas sempre sobrepondo, nunca salvando, tendo um repositório. Então, isso dificulta bastante para a gente fazer todo um processo de liga financeira do cliente dentro do sistema. E... E ele também não retorna informações do tipo chargeback ou reembolso para dentro do [EMPRESA]. Ou seja, se eu fiz um reembolso ou um chargeback, ele não retorna essa informação falando para inativar esse cliente dentro do nosso sistema de assinatura, tá? O Overview é bastante... objetivo aqui, tá, gente? De olhar um pouco o sistema do que, como é que transitam as informações aí, para depois isso virar financeiro e depois contar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Gente, claríssimo, tá? Eu tenho perguntas. Posso?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [EMPRESA]. Primeiramente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [PESSOA], muito obrigado pela apresentação, certo? Ficou muito claro mesmo. [PESSOA] pela dinâmica. Nós que somos aqui da área entendemos, fica distanciada, tudo certo, tá? Pergunta, como que o beneficiário entra nesse sistema? Como é que é o input dele? Segunda pergunta, como é que você sabe que ele executou a consulta lá no prestador [PESSOA]? Eu sei que normalmente é no doutor consulta, mas e se não for? Como é que esse dado aparece? Como é que ele integra com a ponta? Vocês dão um portal para esse prestador?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Não, todas as integrações são feitas pelo nosso robô. O sistema [LOCAL] é um sistema interno nosso que faz toda a vida do cliente dentro da consulta. integra essa informação, ou o sistema [EMPRESA]. Eu vou entrar aqui no [LOCAL], que acho que vai ficar um pouquinho mais claro para você.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: A minha pergunta é, e se não for no [LOCAL]? E se for um...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4723,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Não, tem que ser no [LOCAL], a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.481,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: gente... Cuidá-lo não serve para",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4549,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: consultar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: em outro lugar, só no consulta.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5408,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: A gente não tem ainda o papel de marketplace, de você pegar uma clínica que não é doutor consulta, colocar o [LOCAL] lá e fazer funcionar. Não. Hoje a gente está falando do doutor consulta como rede própria e a gente quer que quem, para fidelizar o paciente que ele utiliza o doutor consulta, nossa rede própria, ele acaba adquirindo assinatura para ele ter o benefício dos descontos em consultas e exames e do que a gente oferece para ele, que é a linha de cuidado, que é o nosso ecossistema. Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.529,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 7]: tudo somente dentro do doutor consulta, não temos nem a intenção de credenciar clínicas e colocar o [LOCAL] na clínica para poder rodar, entendeu? [EMPRESA], perfeito. E a entrada dele?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5413,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Tem cadastro, né? Não, o cadastro é automático. Então, quando ele faz a compra do cartão, ele gera, ele vai gerar essa cobrança na adquirente voltando com o retorno, com o sucesso. Ele geralmente faz a compra pela APP, então ele já vai fazer toda a, ele já vai imputar todas as informações lá no nosso [EMPRESA] ou no site, ou então dentro do nosso centro médico. Ele já imputa as informações de nome, [PESSOA], enfim, todos os dados, e aí dando ok na adquirente, essa integração já vai automática pra dentro do [EMPRESA]. [PESSOA], oi?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [EMPRESA],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: entendi. Entendeu? O Admin é o sistema base do cartão. Então, no momento que gera um contrato dentro do Admin, ele gera uma integração com o nosso sistema Backoffice, que é o órgão, que é o sistema financeiro contado, mas também gera uma integração com o nosso [LOCAL]. Ele coloca dentro do cadastro do cliente, que esse cliente possui uma conta no número de consulta. Então, aí ele Cria esse símbolo aqui, informando que ele possui um convênio do [PESSOA]. Ele faz essas duas contas com os dois sistemas. E aí, a partir do momento que eu vou utilizando dentro do [LOCAL] aqui, ele vai voltando essa informação para dentro do [EMPRESA] de todas as minhas utilizações com aquelas informações de desconto, enfim. toda a minha vida dentro do doutor consulta ele volta para dentro do [EMPRESA] para que tenha ele no repositório para que a gente possa fazer qualquer tipo de análise mais fácil.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCAL]. Entendido.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Então sempre tem a integração função e a gente, no [LOCAL], precisa ler a [LOCAL] como uma beneficiária da assinatura cartão doutor consulta, que está elegível aos descontos aí concedidos.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 12]: aí o [LOCAL], a operadora de atendimento que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: atende lá do consulta, se ela marcou uma consulta, fez a consulta e fez um exame, de repente ela vai ter que pós-consulta, comprar algum outro produto, isso já está tudo registrado a ponto de o beneficiário já agendar a nova consulta, se quiser pagar já vai ver com desconto, ou inclusive existe parcelamento dependendo do montante. Assim, o [EMPRESA] ele faz algumas integrações entre o [LOCAL] adquirente O SC2, para saber ir de volta, tanto o cadastro do cliente quanto a vida do cliente para dentro do [EMPRESA] E ele também faz integrações com o Oracle, para que a gente tenha todo o registro contábil, financeiro, para que sejam feitas conciliações dentro do Oracle Faz também todas as integrações com a AdClient Porém, ele não lê na [LOCAL] segundas movimentações dentro da transação, ele só lê a primeira movimentação.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Na verdade, ele recebe essa informação, porque essa informação vem diária da [LOCAL]. Nosso webhook está em contato com a [LOCAL] full time. mas ele descarta essa informação e aí ele não dá sequência em ativações ou coisas do tipo, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [EMPRESA], perfeito, perfeito. Está entendidíssimo. Obrigado pela demonstração, viu, [LOCAL]. Acho que minhas dúvidas, [PESSOA], foram sanadas aqui. Tá bom?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: A gente marca uma nova apresentação e aí",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 8]: traz para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: o [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Agora nós vamos para o próximo passo, né? que é para a gente poder mostrar para vocês, já pensando em tudo isso, já apresentar. Eu já fiz uma apresentação prévia para o [EMPRESA], adicionar alguns elementos principais relacionados a essa parte da apresentação, que foi uma coisa que nós debatemos muito na nossa prévia, que era a questão do sistema do cartão de desconto,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 16]: mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 8]: agora está entendido, podemos seguir.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4448,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [LOCUTOR 1]: vocês tiverem alguma dúvida, pode me mandar um textado, que eu vou ajudando. Eu não tenho o seu contato, [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3975,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: O [EMPRESA] passa. Eu passo. Eu também",
+      "mantida": true,
+      "probabilidade_relevancia": 0.487,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: não tenho contato do [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5001,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Então vamos lá, já vou pôr um chat aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4394,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [PESSOA] aqui, né? A gente mudou do Teams e ficamos perdidos. Pode pôr. Então, vou pôr aqui. Já foi isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5337,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Coloquei o meu também aí,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: vocês quiserem anotar. Aí eu estou salvando aqui para a gente poder",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4774,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: comunicar se for preciso. Uma data, uma agenda, você quer falar alguma coisa, [PESSOA], para propor? Ou vamos primeiro conversar?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5591,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Pode ser conforme a disponibilidade desse, o [EMPRESA] e a equipe podendo, a gente faz a próxima etapa, sem problemas.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Vocês querem ter uma ideia de data ou a gente...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5151,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Acho que mais ou menos. Hoje é terça? Você acha que dá pra falar na semana ainda?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4721,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Dá, deixa eu ver minha agenda aqui. Essa semana eu só consigo ou quinta depois das... quinta às dezesseis ou sexta-feira a qualquer horário à tarde.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4723,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 13]: eu ver o meu aqui, minha agenda aqui. Sexta. Que sexta eu acho que éJussara Santana da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4926,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: data melhor aqui.[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 11]: que quinta. Quinta, 16h? Ou fica ruim praJussara Santana da  conta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: de turismo? Não,[PESSOA] da",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4859,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: então... Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: vou deixar na sexta. Sexta! Sexta eu fiz o almoço. De manhã até o domingo. Sexta às 15? Pode ser.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5186,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Sexta às 15?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.537,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Pode. Você",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5158,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: tá no",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: mundo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Já vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: gerar um invite pra nós, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 5]: Então tá bom. Muito obrigado, viu, gente.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: Tá, [PESSOA]. Rápido e objetivo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: É isso aí, é isso",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: aí. Até",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 5]: sexta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: às",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 5]: 15 aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: O [PESSOA] falou, se vocês tiverem alguma dúvida, pode acessá-la, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4975,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 16]: [LOCUTOR 2]: coisa a gente reaciona. [PESSOA], viu? [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 8]: [LOCUTOR 3]: aqui. [LOCAL], tchau.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4314,
+      "motivo": "ml"
+    }
+  ]
+}

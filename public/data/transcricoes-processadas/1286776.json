@@ -1,0 +1,2209 @@
+{
+  "id_reuniao": "1286776",
+  "codt": "AATFSE",
+  "data_reuniao": "2026-03-20 11:00:00",
+  "status_reuniao": "COMPLETED",
+  "unidade": null,
+  "segmento": null,
+  "uf": null,
+  "texto_original": "[LOCUTOR 65]: Bom dia. Bom dia.\n[LOCUTOR 55]: Tudo bem, [PESSOA]?\n[LOCUTOR 65]: [LOCAL]. Tudo\n[LOCUTOR 55]: jóia.\n[LOCUTOR 65]: [LOCAL]. Temos\n[LOCUTOR 55]: um\n[LOCUTOR 65]: robô aqui também? Esse consultor de vendas?\n[LOCUTOR 55]: Sim, mas é... não sei, acho que toda pessoa [EMPRESA] que entra, ele... Ele entra também, mas se quiser remover...\n[LOCUTOR 65]: Não, não, é curiosidade mesmo. Estamos no país livre.\n[LOCUTOR 55]: [LOCUTOR 52]: aplicar o teste [PESSOA] nele pra ver se ele\n[LOCUTOR 65]: tá espertinho. Bom dia, [PESSOA].\n[LOCUTOR 55]: Você é do time do [EMPRESA], [PESSOA]?\n[LOCUTOR 43]: Isso, o [PESSOA] e o [PESSOA] sou do Agesto.\n[LOCUTOR 55]: Ah, tá.\n[LOCUTOR 65]: [LOCUTOR 20]: dia era o [PESSOA] que tava naquela outra agenda, né?\n[LOCUTOR 43]: O [PESSOA] fez as agendas de treinamento e ele é o desenvolvedor que tá dando apoio. O [PESSOA] é o consultor de tecnologia e vai entrar também o [PESSOA], que é o [EMPRESA] também, que vai acompanhar as agendas. Quando eu não acompanho, ele acompanha. Como ele tá iniciando agora, ele também tá fazendo. Então tem toda uma equipe agora, [PESSOA], assim, pra atender o [LOCAL], tá?\n[LOCUTOR 55]: Que ótimo.\n[LOCUTOR 43]: É isso aí. Você nunca\n[LOCUTOR 65]: vai ver tanta gente brota junta numa reuni\n[LOCUTOR 42]: só. E feia.\n[LOCUTOR 65]: E feia, porque...\n[LOCUTOR 55]: [LOCUTOR 35]: [PESSOA], ele é o SN, tá? Ele é o responsável executivo de vendas, ele é o responsável pela... pelo [LOCAL], tá?\n[LOCUTOR 65]: [PESSOA], bacana.\n[LOCUTOR 43]: Contextualizar. É, o \n[LOCUTOR 38]: dos\n[LOCUTOR 43]: Olhos.\n[LOCUTOR 55]: Eles estão com muitas soluções lá, sabe, [PESSOA]? Tem seis ou sete soluções lá, é um projeto muito grande, bem complexo. Então, assim, quando eu posso, eu dou uma entrada, porque às vezes o [PESSOA] manda alguma mensagem lá, né? Então...\n[LOCUTOR 43]: \n[LOCUTOR 44]: bom a gente tá sabendo o que tá acontecendo,\n[LOCUTOR 65]: mais ou\n[LOCUTOR 55]: menos. E sempre\n[LOCUTOR 65]: podem haver oportunidades, ou de repente a gente descobre uma dor, uma oportunidade de sugerir alguma coisa.\n[LOCUTOR 43]: E aí o [PESSOA] aqui vai encaminhar\n[LOCUTOR 55]: sempre. Pode sempre me incluir ali nos empates, quando vocês fizerem de capacitação, mesmo que for coisa técnica, não tem problema não. Quando eu consigo, eu entro.\n[LOCUTOR 65]: [LOCAL]. [LOCAL].\n[LOCUTOR 43]: Você vê que a gente deixou a equipe mais robusta agora, né [PESSOA]?\n[LOCUTOR 55]: É, que bom, que bom.\n[LOCUTOR 43]: Ah, o negócio é pra... o\n[LOCUTOR 65]: bruxo tá no grupo agora acabou velho não tem solução impossível o\n[LOCUTOR 43]: bruxo é o [PESSOA] né o [PESSOA] eu tenho que controlar a fera né cara\n[LOCUTOR 65]: ali é não ele é ele é ninja mas ninja dos ninjas ele é o jedi refer\n[LOCUTOR 24]: tá conosco agora eu vou admitir o [PESSOA] aqui tá bom\n[LOCUTOR 65]: dia [PESSOA] [PESSOA] É... ouvimos só ruído, [PESSOA].\n[LOCUTOR 43]: Eu acho que ele tá na obra.\n[LOCUTOR 65]: É.\n[LOCUTOR 66]: [LOCUTOR 56]: microfone deu\n[LOCUTOR 25]: pouca. \n[LOCUTOR 2]: sim.\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 55]: Tudo bem [PESSOA]?\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 55]: [LOCAL]. [LOCAL] dar uma sapiada aqui.\n[LOCUTOR 43]: [PESSOA], só pra te comentar aqui, o [PESSOA] Cavalcanti é o nosso [EMPRESA], ele vai acompanhar também as agendas dos projetos, a parte documentacional e tal, então ele é o contratado nosso aí da [LOCAL], o novo reforço pra [LOCAL] e pra auxiliar na gestão do projeto como um todo também, nessa parte mais administrativa, beleza?\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 66]: Opa, bom dia pessoal, tudo bem?\n[LOCUTOR 43]: Bom dia.\n[LOCUTOR 66]: [LOCUTOR 36]: lá, [PESSOA], faz tua mágica. Eu daqui a pouco eu vou sair da sala, tá? E o [PESSOA] continua.\n[LOCUTOR 65]: [LOCAL]. Então, gente, vamos dar uma conferida em como ficou, o que falta ajustar. Quem vai compartilhar? [PESSOA], vai compartilhar a tela? Mostra\n[LOCUTOR 25]: pra gente como\n[LOCUTOR 65]: é que ficou seu setup. Pela evidência de ontem, SmartSync deu certinho, ele informa que subiu os registros pro Identity, mas esses registros não são automaticamente consumidos, tá? A gente vai te ajudar a ajustar isso lá. Alô? Como é que tá aí? Smart Sync Logs. Dá um clique no Service Log, por favor, para ver só os últimos logs. Na parte de cima tem a .check. Isso, menino. Dá um clique aí. Pode ir lá para o final. Fail Send Status. Result Succeed. False. Data. O tempo limite da operação foi atingido. Cara, tem uma coisinha estranha aí. O Smart Sync ele costuma ser um pouco verborrágico, sabe? Porque logo depois ele tá falando que ele encontrou um novo ou um grupo modificado no [EMPRESA] e vai fazer o Sync com o [EMPRESA].\n[LOCUTOR 25]: \n[LOCUTOR 29]: não fala o que subiu. Vamos lá no Identity, vamos ver o que chegou lá antes de sofrer com o Smart Sync. Por gentileza, ambiente homologação. Eu já importei eles.\n[LOCUTOR 65]: Deu certo lá, né?\n[LOCUTOR 25]: Aqui parece que deu certo também, tá?\n[LOCUTOR 65]: Sim, é porque o SmartSync é um pouco reborrádico. Às vezes a gente fica confuso se ele fez, se ele não fez, se deu certo. Mas de acordo com as últimas mensagens, parece ok, tá? Vamos lá no painel do Identity agora. Vamos organizar as coisas lá.\n[LOCUTOR 25]: aplicativos?\n[LOCUTOR 65]: Eu não tô vendo, tá? Eu tô vendo só o [LOCAL], a tela do SmartSync. Eu acho que não tô vendo\n[LOCUTOR 25]: a\n[LOCUTOR 65]: tela toda.\n[LOCUTOR 25]: Deixa eu recompartilhar.\n[LOCUTOR 65]: Tá.\n[LOCUTOR 25]: Pronto. Boa,\n[LOCUTOR 65]: boa, boa, boa, boa. Ah, já pegou o jeito. Você já tá ali com o aplicativo adicionado. Só que ele não tá configurado ainda. Ou você fez o link entre ele e o Identity?\n[LOCUTOR 25]: Fiz.\n[LOCUTOR 65]: Fiz?\n[LOCUTOR 25]: \n[LOCUTOR 40]: você clicar ali, ele já vai logar direto com alguém que já existe? Vai. Ele tá logando, sabe? Só que ele... É, ele deu um erro lá. Acho que ele deu um erro que eu mandei ontem no grupo lá.\n[LOCUTOR 65]: Tá, vamos dar uma olhada.\n[LOCUTOR 25]: [LOCAL]\n[LOCUTOR 17]: foi aí no entrar... Tá aí o domínio, você colocou bonitinho, o resto a gente não mexe. Você baixou o token, colocou lá, certo? Sincronizar login e sema com o e-mail do [EMPRESA], certo? No [EMPRESA] todo mundo tá com o e-mail, né? Capuzada de chave.\n[LOCUTOR 25]: Sim, [PESSOA].\n[LOCUTOR 65]: [LOCAL].\n[LOCUTOR 25]: Inclusive eu até já coloquei aqui, ó. [LOCAL]\n[LOCUTOR 17]: colocou grupos pro pessoal acessar.\n[LOCUTOR 25]: [PESSOA], na verdade, tínhamos os vários aqui. Aqui, ó.\n[LOCUTOR 65]: Isso, e tá associado a partir de um perfeito. Não, não, parabéns. Até aí tá tudo certo. Vamos lá ver esse erro do lado do Fluid. Tenta acessar aí.\n[LOCUTOR 25]: Tá.\n[LOCUTOR 65]: Vamos ver. [PESSOA] response incomum message not valid. Schema spec names required. Vamos ver do lado do plug como é que ficou. Faz uma coisa. Tenta logar com o e-mail completo, por favor. Volta lá. Mesma coisa, beleza, tá consistente. Vamos dar uma revisada lá no WCM Admin. Como é que a gente vai logar nele? Vou te passar uma dica aqui. Como a gente ativou o Identity, todo mundo que tem login no Fluig, mas não tem no Identity, fica trancado de fora. O login fica sendo exclusivo. Para você acessar o Fluig via Identity, Você vai colocar esse sufixo aqui na URL do [LOCAL]. Colei no chat.\n[LOCUTOR 25]: [LOCAL]\n[LOCUTOR 17]: vai cortar ali o portal idpss e vai colar isso aí. E vai logar como [PESSOA]. Guarda isso aí, tá? Isso aí vai ser importante pra você.\n[LOCUTOR 25]: \n[LOCUTOR 63]: emergências, por exemplo, faz de conta que caiu a identity. Você tem que ter como desligar a identity. Esse é o seu caminho. Entendeu?\n[LOCUTOR 65]: Vai lá. Empresas. [PESSOA] os olhos. Editar. Autenticação. Expande os parâmetros do Identity, por favor. Client Key. CDP Destination. Logout URL. Está tudo no padrão. Sobe um pouquinho, cara. \n[LOCUTOR 5]: eu ver o\n[LOCUTOR 65]: resto ali. O token tá ali. Clique em ações. Testar conexão. [LOCAL]. Clique em ações de novo. Enviar usuários. Haviam usuários pré-existentes no Fluig, né?\n[LOCUTOR 25]: Sim.\n[LOCUTOR 65]: Eu acho que tá aí o problema. A gente tem que vincular esses caras. Vamos lá no Identity,\n[LOCUTOR 25]: de\n[LOCUTOR 65]: volta. Vai lá na página de usuários, na administração,\n[LOCUTOR 25]: e\n[LOCUTOR 65]: vê, por exemplo,\n[LOCUTOR 25]: se tem\n[LOCUTOR 65]: dois de você ou se ele fez a fusão corretamente,\n[LOCUTOR 25]: que\n[LOCUTOR 65]: é o que eu tô esperando. Aí, ó, e-mails diferentes. Foi isso. No caso do [PESSOA], por exemplo. E-mails diferentes, então são chaves diferentes. Aí já encontrei um BOzinho.\n[LOCUTOR 25]: \n[LOCUTOR 31]: esse [PESSOA] é o Super Admin do Identity? Não, é então, esse daqui é... Ele é o [PESSOA], né, no caso.\n[LOCUTOR 65]: O [PESSOA] é\n[LOCUTOR 25]: o\n[LOCUTOR 65]: que recebeu o acesso inicial do Identity?\n[LOCUTOR 25]: Isso.\n[LOCUTOR 65]: Ah, correto. Lá no login você usou o seu outro, o [PESSOA] [PESSOA], no caso?\n[LOCUTOR 25]: Isso. Esse aqui é o do [EMPRESA].\n[LOCUTOR 65]: Esse é o do [EMPRESA]? Ah, tá. Então, perdão, eu me confundi com os dois. Você consegue acessar o log do Fluig? Faz o seguinte, deixa o Fluig aberto aí lá na página do download do log, já na agulha.\n[LOCUTOR 25]: [LOCUTOR 15]: que não vai dar. Não, não, não. Pior que não vai dar. Você tem que estar logado como alguém. Deixa eu\n[LOCUTOR 65]: pensar como é que a gente vai fazer essa jogada. Você consegue... A TOTUS te dá acesso a VM onde o Fluig tá rodando? Pra gente poder ver o log em tempo real?\n[LOCUTOR 25]: O que\n[LOCUTOR 65]: eu quero fazer? Vai ter um erro mais detalhado lá do lado do Fluig. Eu quero ver esse erro para a gente saber se tem manobra ou se a gente vai depender de abrir um chamado, porque a maior parte das operações de infra da [EMPRESA], a gente depende de abrir chamado para eles, para que eles possam verificar os internos do Fluig. Mas se a gente tiver acesso remoto à instância onde o Fluig está rodando, a gente tem alguma manobra. Vamos por partes, ver se você tem acesso. Se não tiver, a gente vai ter que abrir um chamado, infelizmente.\n[LOCUTOR 25]: Aproveitando, quando eu estava configurando o [EMPRESA], eu reparei que ele fala assim, Aqui ó, tem uma nova versão. Tem algum problema a gente usar essa? Teria que usar essa nova aqui.\n[LOCUTOR 65]: Não, isso pode ser um problema. Vamos usar a nova. Esse aí é novo pra mim. Esse SmartSync 5. Vamos usar ele primeiro, porque pode ser justamente esse o [PESSOA] também. A forma que o SmartSync tá enviando, talvez. Até pra gente ter suporte da TOTOS. Copia pra mim o link da nossa documentação, pra eu poder ter acesso a ela também. Esse nosso documentação tem um... deve ser um link, como tá em azulzinho. Copia pra mim, deixa eu ver se eu consigo acessar ele de fora. É novo. Não tô por dentro. [LOCAL], [EMPRESA]. Ótimo. Deixa eu ver aqui. Novo SmartSync. Interação e os grupos vinculados. Ah, [LOCAL], [LOCAL], certo. Cara, vamos fazer o seguinte. Migra o Smart Sync pra esse. Eu tô vendo aqui que é instalar, parametrizar ele e tudo mais. Vamos fazer o upgrade pra ele. Só faz uma coisa pra eu poder pesquisar em paralelo aqui. Provoca o erro de novo. Só pra eu tomar nota do erro. Vou fazer uma captura de tela aqui. Que eu vou pesquisar em paralelo pra ver se a gente tem a chance de encontrar uma solução sem depender da todos. Ok? Pode demorar um pouquinho.\n[LOCUTOR 25]: [LOCUTOR 12]: uma desvantagem da nuvem nesse caso, porque a gente não tem acesso direto a tudo.\n[LOCUTOR 65]: Que por outro lado\n[LOCUTOR 43]: pode ser\n[LOCUTOR 65]: bom,\n[LOCUTOR 43]: porque\n[LOCUTOR 65]: a responsabilidade da infra fica sendo deles, a gente cuida\n[LOCUTOR 43]: só do negócio. Mesmo se abrir o chamado e tal, eu peço prioridade pelo pessoal do Works lá, tá?\n[LOCUTOR 65]: Ah, boa,\n[LOCUTOR 43]: boa. \n[LOCUTOR 13]: lembrado.\n[LOCUTOR 43]: [LOCAL],\n[LOCUTOR 65]: sempre bom.\n[LOCUTOR 43]: [LOCAL], contatinhos.\n[LOCUTOR 65]: Deixa eu pegar a mensagem. Ok. [PESSOA] response. Incoming message did not have\n[LOCUTOR 25]: valid\n[LOCUTOR 65]: schema. O que que me intriga? Ele tá falando que a mensagem que vem não tem o esquema válido. O que me faz pensar no SmartThink, entendeu?\n[LOCUTOR 25]: \n[LOCUTOR 29]: tá dando falta de um atributo. [PESSOA]. Eu tô tentando inferir pela mensagem. [PESSOA] is required. Acredito que seja... Deixa eu ver se eu acho alguma coisa aqui meio óbvia. Você quer que eu atualize aqui o Smart Sync?\n[LOCUTOR 65]: Por favor. Vamos já fazer esse procedimento porque a gente já tira um item do caminho. Eu vou fazer uma pesquisa aqui em paralelo para ver se eu acho uma resposta. Remove o anterior antes, tá? Sempre bom.\n[LOCUTOR 25]: [PESSOA], deixa eu só pegar o filtro aqui.\n[LOCUTOR 65]: Ah, é bom. Toma nota de tudo antes, porque senão você vai ter trabalho. Cara, olhando o aspecto do [PESSOA], O atributo está ausente, o que nos faz pensar no Smart Sync mesmo.\n[LOCUTOR 25]: \n[LOCUTOR 26]: atributo necessário não está indo ou o esquema está diferente do que o Fluig está esperando. Como o Fluig também é o mais novo, pode ser a falta disso aí mesmo. [LOCUTOR 40]: isso não funcionar, a gente vai olhar uma outra coisa. A gente vai olhar o mapeamento dos campos no SmartSync. Mas vamos por partes. Porque ele está falando do atributo name. Será que o atributo name está mapeado corretamente em relação ao que o Fluid está esperando? O atributo do [EMPRESA] está saindo e chegando lá? Acho que sim. Porque lá na tela do Identity, nome, sobrenome e e-mail estão chegando. Então, n\n[LOCUTOR 62]: tenho certeza.\n[LOCUTOR 25]: É isso aí. A respeito do que você perguntou lá da [EMPRESA], vou te mostrar aqui o que a gente tem. Isso aqui, ó.\n[LOCUTOR 65]: É... Nenhum\n[LOCUTOR 25]: acesso...\n[LOCUTOR 65]: Realizar backup, alterar senha, download, limpeza\n[LOCUTOR 25]: de logs,\n[LOCUTOR 65]: topologia operada, restaurar banco, topar arquivos... Ah, não tem acesso remoto. Que pena,\n[LOCUTOR 25]: que\n[LOCUTOR 65]: pena. Se tivesse um SSH lá, ia ser muito bom.\n[LOCUTOR 25]: Não,\n[LOCUTOR 65]: é tudo bem. Acho\n[LOCUTOR 25]: que não tem.\n[LOCUTOR 65]: É... Acho que não tem mesmo. Não, taca aquele pau aí.\n[LOCUTOR 25]: Ele é... Ele é... Ele é quase...\n[LOCUTOR 65]: É, e é gerenciado por eles e provavelmente tá num\n[LOCUTOR 25]: volume\n[LOCUTOR 65]: docker\n[LOCUTOR 25]: l\n[LOCUTOR 16]: dentro.\n[LOCUTOR 25]: É,\n[LOCUTOR 65]: tentamos. Tudo bem.\n[LOCUTOR 25]: É,\n[LOCUTOR 65]: volto rapidinho. Vou ali no banheiro, tá?\n[LOCUTOR 25]: E a\n[LOCUTOR 54]: Veja bem. Antes de prosseguir, faça só uma coisa. Apague o [EMPRESA] que está lá. Vamos recomeçar limpo. beleza, boa, pode seguir Sim, sim, faz sentido marcar. Não, não, acerte automático? Como é que você fez outra vez? Você tá mudo, viu?\n[LOCUTOR 25]: Inicialmente, eu tinha colocado que não, né? Que eu ia autorizar automaticamente nos linguagens.\n[LOCUTOR 65]: Sim. Eu tô vendo a documentação aqui sobre a migração do SmartSync, só pra ter certeza, porque ele tá exigindo o Active Directory já existente, mas a gente optou por limpar. Pode colocar como não, porque vamos tratar ali como um novo por conta da questão dos atributos. Cara, eu fiquei desconfiado. Desmarca ali a migração.\n[LOCUTOR 25]: [PESSOA].\n[LOCUTOR 65]: [PESSOA]. Aí você vai pôr teu filtro de novo. Conectado, conectado. Ele está sincronizando ainda. Vamos esperar, é. Vamos esperar isso aí. São quantos usuários?\n[LOCUTOR 25]: São poucos usuários, acho que 4. Ah,\n[LOCUTOR 65]: é pouquinho. Tá com o filtro lá ainda, né? Você restringiu o acesso.\n[LOCUTOR 25]: \n[LOCUTOR 45]: um detalhe aí. Você não colocou filtro de grupo, né? Não.\n[LOCUTOR 65]: Ele vai mandar a todos. Não é um pecado capital não, é só questão de tempo de sync mesmo. Vou\n[LOCUTOR 25]: levar um\n[LOCUTOR 65]: tempinho.\n[LOCUTOR 25]: mas que tem que criar um serviço. Ele cria\n[LOCUTOR 65]: automaticamente, mas caso não crie, a gente tem que criar manualmente. Vamos ver lá. Aliás, o SmartSync faz a criação do serviço automaticamente. Ah, é só conferir se fez então.\n[LOCUTOR 25]: [LOCAL], tá criado.\n[LOCUTOR 65]: Ah, então, de boa.\n[LOCUTOR 25]: Teoricamente... Ligado,\n[LOCUTOR 65]: tô aqui utilizado, beleza.\n[LOCUTOR 25]: Esse aqui\n[LOCUTOR 65]: não d\n[LOCUTOR 21]: pra selecionar lá os usuários?\n[LOCUTOR 65]: Então, esse novo SmartSync, ele é novo pra mim também, nós vamos descobrir juntos,\n[LOCUTOR 25]: na\n[LOCUTOR 65]: verdade. Desativar, excluir, extrair a versão de SmartSync, tá. Volta lá nas configurações de [EMPRESA]. Vamos ver como é que ficou lá. Dentro do Identity mesmo. Informações, então... Ah não, aí é o SmartSync, eu digo lá no Identity mesmo. Lá no painel do [EMPRESA]. Isso, volta uma tela. Não apareceu nada? É, recarrega aí. A tela deve ter mudado mesmo então. Vai lá em usuários, vamos ver se eles estão chegando.\n[LOCUTOR 25]: Aqui eles já tinham, né? Vou colocar mais um cara no grupo aqui.\n[LOCUTOR 65]: É, vamos validar isso. [PESSOA] um sync manual lá na aplicação, deve ter um botão lá pra isso.\n[LOCUTOR 25]: Daí, bom, teoricamente ele não vai aparecer aqui porque ele tá com\n[LOCUTOR 65]: aquela op\n[LOCUTOR 11]: de liberar lá, né?\n[LOCUTOR 65]: Ah, é o AutoAceite. Vamos lá ver.\n[LOCUTOR 25]: [LOCUTOR 8]: vendo a documentação dele aqui pra ver como que... Como que a gente trabalha com ele. Clica ali no lapizinho. Aí, à direita. Liga o Aceite. Vamos... Vamos descobrir salva aí. Só para gatilhar a mudança, faça qualquer mudança no usuário dele. Só para dar um trigger lá. [LOCUTOR 57]: um pontinho na descrição. É, pronto. Só para poder... Pronto, boa. [LOCUTOR 33]: ver o que vai acontecer agora. [LOCUTOR 18]: não. Pessoal,\n[LOCUTOR 43]: vou precisar me ausentar aqui agora. Aí, [PESSOA], se precisar abrir algum chamado, me coloque em cópia, por favor.\n[LOCUTOR 65]: Sim, como essa versão é nova, cara, a gente vai apanhar um pouquinho aqui ainda, mas\n[LOCUTOR 43]: a gente vai descobrir como... Não, mas a gente\n[LOCUTOR 65]: j\n[LOCUTOR 28]: desenrola\n[LOCUTOR 65]: isso aí. É, a gente vai\n[LOCUTOR 43]: desenrolar\n[LOCUTOR 65]: isso aí.\n[LOCUTOR 43]: [PESSOA], pode seguir aí, fazendo favor, tá bom?\n[LOCUTOR 66]: Combinado.\n[LOCUTOR 43]: [LOCAL], obrigado, pessoal.\n[LOCUTOR 65]: [LOCAL].\n[LOCUTOR 25]: [LOCUTOR 3]: lá no log do [LOCAL], cara, vamos ver o que diz lá, se diz alguma coisa. Sending Message, ele não vai dar nominalmente aí, mas ele tá ativo, 11h30, 38, tá? Ele mandou. Deixa eu ver a documentação dele aqui sobre o gerenciamento. Cara, tinha um link de uma documentação lá na parte de gestão do [EMPRESA]. Não,\n[LOCUTOR 65]: não. Lá mesmo no Identity tinha um lugar lá com um link para uma documentação. Lá no lapizinho do... do Identity. Vai lá na parte de [EMPRESA] de novo.\n[LOCUTOR 25]: \n[LOCUTOR 53]: no lapizinho. E essa é a documentação. Vamos ver se é a mesma ou se é outra. A identidade não vai... tá, já tá fácil aqui. Deixa eu ver aqui. Aceitar o usuário. [LOCUTOR 26]: cara tem uma tela diferente agora, por isso. Vamos ver como é que a gente chega nela. Vai lá na tela de [EMPRESA] de novo, por favor. Acho que\n[LOCUTOR 65]: eu já entendi aqui. Clica em cima do olhos local, vê se ele é clicável. Isso. Cinco pendentes. Pronto, aceita a turma aí. Inclusive o [EMPRESA]\n[LOCUTOR 25]: t\n[LOCUTOR 16]: ali. É, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é\n[LOCUTOR 25]: Aí tem um problema.\n[LOCUTOR 65]: O e-mail é o mesmo. Eu espero que ele mescle. Entendeu? Porque a chave é a mesma.\n[LOCUTOR 25]: Será que não tem que habilitar aquela opção para ele fazer a junção? Tipo aqui. Que agora não dá mais para...\n[LOCUTOR 65]: é porque aquela pergunta pelo que eu li aqui se a gente tá migrando de um outro [EMPRESA] cadastrado no Identity\n[LOCUTOR 25]: s\n[LOCUTOR 14]: que a gente apagou ele para forçar o reinício.\n[LOCUTOR 25]: O que\n[LOCUTOR 65]: eu\n[LOCUTOR 25]: espero\n[LOCUTOR 65]: aí é que ele mescle tudo Processando, quatro aceitos, beleza. Já os grupos, cara, aceitos, eu recomendo que você não aceite tudo, né? Você aceite só o que você achar irrelevante aí na seção de grupos, porque isso\n[LOCUTOR 25]: vai\n[LOCUTOR 65]: importar os grupos internos do [EMPRESA], esses aí, ó, e não é legal, cara, fica uma\n[LOCUTOR 25]: bagunça.\n[LOCUTOR 65]: Mas, por exemplo, acesso fluido, acesso fluigged, esses grupos aí é os que você vai usar. \n[LOCUTOR 22]: tudo\n[LOCUTOR 65]: faz sentido. Teve um cliente que aceitou isso e aí no final ele abraçou a ideia do tipo, como eles iam colocar muita gente, eles estavam amarrando nos grupos do [EMPRESA] mesmo. Foi prático, sabe? Mas o volume de grupo para gerenciar depois ficou meio trabalhoso, um pouco exagerado. Ele duplicou com o [EMPRESA] anterior. Ah, tem que fazer uma limpa então. Nos grupos. Do antigo.\n[LOCUTOR 25]: [LOCUTOR 10]: vida. Clica no lapizinho dele. Deixa eu ver aqui se está para apagar. [LOCUTOR 59]: grupo. É... [LOCAL], usuários... Eu acho que ele não vai deixar.\n[LOCUTOR 65]: Eu acho que ele não vai deixar. Vê se você pode renomear pelo menos para tirar do caminho. Em produção a gente já não vacila com isso. Talvez a gente possa pedir se tiver que abrir um chamado para todos perguntar se eles podem excluir de lá. No caso, o correto é o que está com olhos.local, né?\n[LOCUTOR 25]: Pra ele\n[LOCUTOR 65]: deixar renomear. Ele deixa renomear, não deixa excluir. Tô vendo aqui na parte de grupos, se a gente consegue. Ah cara, pera aí, olha que caminho... Clica no visualizar do grupo que você quer mexer, que você quer excluir. Saí dentro o lixinho cara. [PESSOA] vida né. \n[LOCUTOR 9]: vida. Deu um erro mas que coisa do usuário.\n[LOCUTOR 65]: Desamarra essa turma aí. [LOCAL].\n[LOCUTOR 25]: Tá, agora vamos fazer o teste no login?\n[LOCUTOR 65]: Vamos fazer o teste no login, que é o que a gente tá tentando fazer já, desde o começo. Passa login aí de novo. Click tá configurado. [PESSOA] vida. Mesma coisa. Então não vai\n[LOCUTOR 25]: ser mais nada\n[LOCUTOR 65]: a ver. Deu a mesma coisa. Eu vou falar com a [PESSOA]. Vamos abrir um ticket. Porque geralmente isso aí funciona de primeira. Vou fazer uma coisa antes. Eu vou colar no grupo. Como o bruxo ele tem um acesso mais privilegiado lá. Vamos ver se ele sabe alguma coisa.\n[LOCUTOR 25]: \n[LOCUTOR 52]: colar pra ele aqui. E aí E a\n[LOCUTOR 54]: Estou vendo aqui\n[LOCUTOR 25]: se\n[LOCUTOR 65]: a gente tem algum tipo de manobra para fazer mapeamento de atributos manualmente. Não deveria.\n[LOCUTOR 25]: Será que não é aquele... Esse camarada aqui ó. Será que não é? Tem um parâmetro que você disse. Qual que é o... Aqui, aplicativos...\n[LOCUTOR 65]: Acho que eu entendi sua pergunta, vale a pena entrar, deixa eu ver,\n[LOCUTOR 25]: tem uma\n[LOCUTOR 65]: permissividade\n[LOCUTOR 25]: de\n[LOCUTOR 65]: usuário. Troca isso aí para e-mail. Troca para e-mail que\n[LOCUTOR 25]: o\n[LOCUTOR 65]: e-mail do usuário é o mais consistente entre sistemas, tá? Pode ser isso.\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 65]: [PESSOA] inclusive tem uma observação em algum lugar da [EMPRESA], porque ele pode não ser o mesmo. Tenta de novo aí. Esquece. Encontramos aqui vacilo. Pronto. Pronto, pronto, pronto.\n[LOCUTOR 25]: \n[LOCUTOR 26]: e-mail é a chave mais consistente, incluindo outros sistemas. Isso aí fala de dores passadas, porque o login, o ID, nem sempre é consistente. Se você for ligar um sistema externo, exemplo um sistema web. Login de web, geralmente é e-mail. E isso afeta. É, mas você vê que mesmo a gente trocando ele aceita, né?\n[LOCUTOR 65]: Não, no Identity, para entrar no Identity, como você ativou deliberadamente o [EMPRESA], ele vai aceitar. Está tudo certo, é cômodo. Mas entre sistemas, por exemplo, o Fluig não sabe a chave login do [EMPRESA], ele não conhece, ele conhece e-mail. Tanto que, vai lá no painel de controle em usuários, eu vou te mostrar uma coisa.\n[LOCUTOR 25]: Eu não sei se esse camarada aqui vai ter a permissão.\n[LOCUTOR 65]: Ops!\n[LOCUTOR 25]: [LOCAL]\n[LOCUTOR 17]: tá com WCM admin? Não, não. Você tem que entrar com o usuário admin da plataforma.\n[LOCUTOR 25]: Ah, é verdade.\n[LOCUTOR 65]: Entra com o outro aí. Aí você não vai ver, não.\n[LOCUTOR 25]: [LOCUTOR 7]: o [LOCAL] aí. Olha nós aí. [LOCUTOR 19]: o [LOCAL]? [LOCAL], não.\n[LOCUTOR 65]: É o fórum, cara. A gente fundou esse fórum há uns 4 ou 5 anos atrás.\n[LOCUTOR 25]: [PESSOA]. Não sabia, não.\n[LOCUTOR 65]: O fórum da [EMPRESA] tinha caído, sem motivo, e aí a gente fizemos junto e subimos um fórum. Aí hoje eu tenho o fórum da [EMPRESA] e tem o [LOCAL] também, convivendo pacificamente. [LOCAL]. Se tá... Não, é painel de controle, por favor.\n[LOCUTOR 25]: Esse\n[LOCUTOR 65]: cara não tem.\n[LOCUTOR 25]: \n[LOCUTOR 45]: que ser outro. Quando voc\n[LOCUTOR 17]: criou a empresa, você criou um primeiro usuário.\n[LOCUTOR 25]: Esse usu\n[LOCUTOR 46]: inevitavelmente é o admin.\n[LOCUTOR 25]: Só que ele não tá no identity.\n[LOCUTOR 65]: Então faz o seguinte, desliga o identity, loga lá, bota alguém de admin, liga o identity e segue a vida. Pegadinha do malandro. Tem que ter pelo menos um V.I.D. como a de mim. Senão você se lasca tudo.\n[LOCUTOR 25]: Isso.\n[LOCUTOR 65]: Só isso, salva, sim,\n[LOCUTOR 25]: a\n[LOCUTOR 54]: você vai acessar a moda antiga, vai dar lá o perfil de admin e depois reverte.\n[LOCUTOR 25]: \n[LOCUTOR 40]: dá o papel. É o papel. Se dá o papel, Admin. Não é por grupo, é por papel. Adiciona. Clica no adicionar. Admin. Isso. Se quiser passar para mais alguém, já fornece de uma vez. Eu vou ter que acertar aí. [LOCUTOR 4]: menos trabalho, depois. O [PESSOA], o usar [PESSOA], ele já é de mim, ele já pode dar o acesso para os outros, é mais porque já estamos aqui mesmo. Tá fácil. Boa, agora sei logo como dar PCM de novo, reativa. Todavia, contudo, entretanto, estamos com o SmartSync atualizado. Por uma questão de suporte, talvez um dia a gente esteja bem. Não foi o fim do mundo. Você sabe se a gente consegue...  a gente consegue...\n[LOCUTOR 25]: Pra eles mudarem isso aqui? Esse domínio aí?\n[LOCUTOR 65]: Cara... Eu acho que dá para colocar um domínio customizado aí. Deixa eu ver se eu acho aqui. TATUS, FLUID, CLOUD, DOMÍNIO, PRÓPELO.\n[LOCUTOR 25]: [LOCAL]\n[LOCUTOR 17]: tem [LOCAL] REVERSO instalado na sua estrutura?\n[LOCUTOR 25]: Tem.\n[LOCUTOR 65]: Boa. Deixa eu ver aqui, se pra esse caso ele se aplica. Como tá na nuvem.\n[LOCUTOR 25]: É, eu poderia fazer um... \n[LOCUTOR 12]: um redirecionamento.\n[LOCUTOR 25]: Um CNAME, né?\n[LOCUTOR 65]: Eu\n[LOCUTOR 25]: vou\n[LOCUTOR 65]: te passar aqui o guia, tô só conferindo, mas assim... Geralmente eu comproxo e reverso. Você tem qual aí?\n[LOCUTOR 25]: Eu uso um Apache aqui\n[LOCUTOR 65]: pra... Ah, tá suave. Não, Apache é suave. O guia, inclusive, o guia inicial é com Apache, tá? Acho que já basta. Eu tô vendo aqui se tem alguma pegadinha com... Com... Com Tortos Cloud. Mas assim... Pelo que eu conheço de rede, não. O Proxy Reverso vai ser só um outro caminho. Você vai poder continuar usando esse aí. O Proxy vai fazer a frente. Mandei no chat. Depois você veio.\n[LOCUTOR 25]: Vou usar.\n[LOCUTOR 65]: Ainda mais que você já tem pronto, fica mais fácil ainda. É só você colocar lá e ser feliz. Tipo, ruig.hopr.com.br. É uma coisa assim. [PESSOA].\n[LOCUTOR 25]: Vou dar uma olhada nisso aqui.\n[LOCUTOR 65]: Sim, eu tô vendo aqui se tem algo mais com o Totus Cloud, mas eu acho que não tá.\n[LOCUTOR 25]: [LOCAL]. Bem, então temos o Admin que\n[LOCUTOR 65]: tem que desativar o\n[LOCUTOR 25]: Identity, né, quando se der alguma merda.\n[LOCUTOR 65]: Se der alguma merda, você desativa e usa ele sempre.\n[LOCUTOR 25]: Então normalmente o usuário ele vai logar, primeiro ele vai logar, deixa eu fazer uma simulação aqui. O cara vai logar aqui. Se ele tiver logado no IDENTITY. E ele carrega o IDENTITY, né?\n[LOCUTOR 65]: Ele carrega o IDENTITY.\n[LOCUTOR 25]: Não tem uma forma, por exemplo, do camarada logar aqui, ele já abriu o FLUID, né?\n[LOCUTOR 65]: Tem que passar pelo Identity. Assim, você pode ter, por exemplo, você vai ter ali uma URL de uma notificação de atividade pendente em processo, por exemplo. Aí, ele vai receber o e-mail, vai receber um link. Esse link vai levar para o Fluig. Fluig vai ver se essa pessoa já está com o cookie de autenticação. Se não tiver, vai jogar ela para o Identity. De todo jeito.\n[LOCUTOR 25]: [EMPRESA].\n[LOCUTOR 65]: Entendeu? A ideia do Identity é que essa tela seja o Launchpad de todos os aplicativos do ecossistema da empresa, do cliente. Então, por exemplo, amanhã você vai ter aí um cliente de e-mail, amanhã você vai ter aí um outro aplicativo desktop. Existem algumas formas de automatizar o login. Geralmente você vai ter SEML, eu acho que o Identity já suporta OpenID também, não me lembro de cabeça. Para aplicativos desktop, você instala um agente que vai tentar reconhecer o formulário de login do aplicativo e vai fazer login sem automaticamente ali. É o\n[LOCUTOR 25]: SSO lá, né?\n[LOCUTOR 65]: É, é o SSO lá. Ele tenta automatizar isso também, que ele vai disparar o aplicativo local, vai reconhecer o form e você vai meio que... Sabe a automação de tela na web, quando você vai definir ali em alguma ferramenta, ah, esse campo é login, esse campo é a senha, não sei o quê. Já viu isso?\n[LOCUTOR 25]: [LOCUTOR 12]: a mesma coisa com desktop. Não funciona sempre. Eu já testei alguns aplicativos antigos em Delphi. Funcionou, sabe? Funcionou. O setup foi meio chatinho, mas funcionou. Agora, a maior parte das coisas hoje é web, cara. Por exemplo, você tem aí qual [EMPRESA]? É TOTOS, não TOTOS? Algum outro? A gente tá mudando pro RM, né? [PESSOA].\n[LOCUTOR 65]: O RM suporta login via identity nativamente. Isso não vai ter problema. Ele vai suportar via SAML.\n[LOCUTOR 25]: Então,\n[LOCUTOR 65]: tá tudo certo.\n[LOCUTOR 25]: É isso aí. Obrigado.\n[LOCUTOR 65]: Cara, como eu te falei, eu já consegui com Delphi. Não foi problema. É só mesmo usar o aplicativo lá para reconhecer o campo de login e campo de senha. \n[LOCUTOR 22]: tem\n[LOCUTOR 65]: um porém. É isso aí. E tem um porém aí. A credencial dentro dele também é do [EMPRESA]?\n[LOCUTOR 25]: Não, daí o nosso sistema n\n[LOCUTOR 62]: é.\n[LOCUTOR 25]: [LOCUTOR 12]: uma credencial à parte. O Identity vai salvar essa credencial quando a pessoa vai fazer o login inicial no aplicativo, ele vai informar qual é o login e senha, vai ficar salvo de forma segura no Identity. E aí, quando você clica nele, ele vai injetar essa credencial no form do [EMPRESA], do aplicativo. É meio força bruta, sabe? Mas funciona. É um pouco chato de configurar mesmo, mas se tem essa opção. Se já estão indo para o RM, sinceramente eu não sei se faz sentido. Para qualquer outro aplicativo web, faz todo sentido automatizar login, porque aí você cria o hábito do Launchpad. Eu vou te colar aqui também no chat uma página para você poder ter sempre na mão que é o status do Identity, porque às vezes costuma dar alguma agarrada em alguma coisa, às vezes atraso no login, às vezes cai mesmo, para você poder ter produtividade, saca? Conseguir de\n[LOCUTOR 65]: repente dedativar emergencialmente.\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 65]: [LOCAL]?\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 65]: Mas é isso, cara. E assim, qualquer dúvida que você tiver ao longo do tempo, a gente vai... joga no grupo. O que a gente não souber, que nem esse Smart Sync novo, que foi uma coisa bem nova pra mim. A gente vai desembolar junto e segue a vida.\n[LOCUTOR 25]: [LOCAL], então.\n[LOCUTOR 65]: [PESSOA], você tá aí ainda? \n[LOCUTOR 23]: sim.\n[LOCUTOR 65]: Quais são os próximos passos agora que a gente fechou a Identity?\n[LOCUTOR 66]: E o [EMPRESA] não chegou a me passar. Posso estar conformando com ele, informando...\n[LOCUTOR 65]: É, a gente pergunta\n[LOCUTOR 66]: pra\n[LOCUTOR 65]: ele depois.\n[LOCUTOR 25]: A gente tá... A gente tá... A gente tá estruturando ali o sistema pra fazer um GED nele, né?\n[LOCUTOR 66]: Vocês v\n[LOCUTOR 62]: começar pelo GED, então. [PESSOA].\n[LOCUTOR 25]: Isso, daí a gente já... Na verdade, a gente já fez o treinamento lá com o [PESSOA] e tudo mais.\n[LOCUTOR 65]: [LOCUTOR 1]: eu criei agora o documento pra aquelas variáveis lá, né? Tô fazendo os testes ali pra... Para a menina fazer uma revisão, ele puxar a variável, trocar o nome, ele puxar a variável. Mas, a priori, eu até já desenhei ali o processo ali, que tem o fuxograma lá e tudo mais. Mas, basicamente, o nosso primeiro grande projeto vai ser o GED. [PESSOA]. [PESSOA]. Então, vou ficar antenando ali com o [PESSOA]. Porque cedo ou tarde a gente vai agir em alguma coisa junto aí de novo, mas... Cara, vocês estão com o bruxo aí? O bruxo é... Ele é ímpar, cara. Ele ajudou a construir a ferramenta. Então, ele sabe mais do que ninguém como ela funciona e como implementar bem.\n[LOCUTOR 25]: [LOCUTOR 6]: o conhecimento de processo que\n[LOCUTOR 65]: ele tem. Perto dele, eu sou [PESSOA]. Sou um menino, um bebê. Ele deve ter uns 20 anos de estrada, gente, no mínimo.\n[LOCUTOR 25]: 20 anos de\n[LOCUTOR 65]: estrada, o [PESSOA]. Eu comecei com o Fluid em 2009. Ele estava lá já quando o Fluig ainda estava nascendo como Fluig, ele era o Totus SM, anteriormente o Brava SM. Então ele pegou desde a fase embrionária e foi ajudando a lapidar o Fluig do jeito que a gente conhece ele hoje. Então cara, eu desconheço pessoa melhor que ele no país para falar de Fluig, sério mesmo.\n[LOCUTOR 25]: \n[LOCUTOR 26]: saco dele est\n[LOCUTOR 16]: lá embaixo agora, mas é verdade.\n[LOCUTOR 25]: O cara é foda.\n[LOCUTOR 65]: Ele é foda. Ele é foda mesmo. Bom, gente. Missão cumprida por enquanto.\n[LOCUTOR 25]: [LOCAL], meu amigo.\n[LOCUTOR 65]: Todos vão almoçar em paz hoje.\n[LOCUTOR 25]: \n[LOCUTOR 41]: tá, gente. Estamos aí. Precisou, pode pingar lá no chat. Tamo junto. Meu contato no Teams é esse aí também. O Teams, aquele pessoal. Fiquem à vontade e a gente vai desembolando. [LOCAL]! Muito obrigado viu!\n[LOCUTOR 66]: Obrigado!\n[LOCUTOR 65]: Combinado gente!\n[LOCUTOR 66]: [LOCUTOR 32]: abraço\n[LOCUTOR 25]: para\n[LOCUTOR 65]: vocês! Um abraço!\n[LOCUTOR 25]: [LOCAL]!",
+  "texto_filtrado": "[LOCUTOR 55]: jóia.\n[LOCUTOR 65]: [LOCAL]. Temos\n[LOCUTOR 65]: robô aqui também? Esse consultor de vendas?\n[LOCUTOR 55]: [LOCUTOR 52]: aplicar o teste [PESSOA] nele pra ver se ele\n[LOCUTOR 55]: Você é do time do [EMPRESA], [PESSOA]?\n[LOCUTOR 43]: Isso, o [PESSOA] e o [PESSOA] sou do Agesto.\n[LOCUTOR 55]: Ah, tá.\n[LOCUTOR 65]: [LOCUTOR 20]: dia era o [PESSOA] que tava naquela outra agenda, né?\n[LOCUTOR 43]: O [PESSOA] fez as agendas de treinamento e ele é o desenvolvedor que tá dando apoio. O [PESSOA] é o consultor de tecnologia e vai entrar também o [PESSOA], que é o [EMPRESA] também, que vai acompanhar as agendas. Quando eu não acompanho, ele acompanha. Como ele tá iniciando agora, ele também tá fazendo. Então tem toda uma equipe agora, [PESSOA], assim, pra atender o [LOCAL], tá?\n[LOCUTOR 55]: Que ótimo.\n[LOCUTOR 43]: É isso aí. Você nunca\n[LOCUTOR 65]: vai ver tanta gente brota junta numa reuni\n[LOCUTOR 42]: só. E feia.\n[LOCUTOR 65]: E feia, porque...\n[LOCUTOR 55]: [LOCUTOR 35]: [PESSOA], ele é o SN, tá? Ele é o responsável executivo de vendas, ele é o responsável pela... pelo [LOCAL], tá?\n[LOCUTOR 65]: [PESSOA], bacana.\n[LOCUTOR 43]: Contextualizar. É, o\n[LOCUTOR 43]: Olhos.\n[LOCUTOR 55]: Eles estão com muitas soluções lá, sabe, [PESSOA]? Tem seis ou sete soluções lá, é um projeto muito grande, bem complexo. Então, assim, quando eu posso, eu dou uma entrada, porque às vezes o [PESSOA] manda alguma mensagem lá, né? Então...\n[LOCUTOR 44]: bom a gente tá sabendo o que tá acontecendo,\n[LOCUTOR 55]: menos. E sempre\n[LOCUTOR 65]: podem haver oportunidades, ou de repente a gente descobre uma dor, uma oportunidade de sugerir alguma coisa.\n[LOCUTOR 43]: E aí o [PESSOA] aqui vai encaminhar\n[LOCUTOR 55]: sempre. Pode sempre me incluir ali nos empates, quando vocês fizerem de capacitação, mesmo que for coisa técnica, não tem problema não. Quando eu consigo, eu entro.\n[LOCUTOR 65]: [LOCAL]. [LOCAL].\n[LOCUTOR 43]: Você vê que a gente deixou a equipe mais robusta agora, né [PESSOA]?\n[LOCUTOR 55]: É, que bom, que bom.\n[LOCUTOR 43]: Ah, o negócio é pra... o\n[LOCUTOR 65]: bruxo tá no grupo agora acabou velho não tem solução impossível o\n[LOCUTOR 43]: bruxo é o [PESSOA] né o [PESSOA] eu tenho que controlar a fera né cara\n[LOCUTOR 43]: Eu acho que ele tá na obra.\n[LOCUTOR 66]: [LOCUTOR 56]: microfone deu\n[LOCUTOR 25]: pouca.\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 55]: [LOCAL]. [LOCAL] dar uma sapiada aqui.\n[LOCUTOR 43]: [PESSOA], só pra te comentar aqui, o [PESSOA] Cavalcanti é o nosso [EMPRESA], ele vai acompanhar também as agendas dos projetos, a parte documentacional e tal, então ele é o contratado nosso aí da [LOCAL], o novo reforço pra [LOCAL] e pra auxiliar na gestão do projeto como um todo também, nessa parte mais administrativa, beleza?\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 65]: é que ficou seu setup. Pela evidência de ontem, SmartSync deu certinho, ele informa que subiu os registros pro Identity, mas esses registros não são automaticamente consumidos, tá? A gente vai te ajudar a ajustar isso lá. Alô? Como é que tá aí? Smart Sync Logs. Dá um clique no Service Log, por favor, para ver só os últimos logs. Na parte de cima tem a .check. Isso, menino. Dá um clique aí. Pode ir lá para o final. Fail Send Status. Result Succeed. False. Data. O tempo limite da operação foi atingido. Cara, tem uma coisinha estranha aí. O Smart Sync ele costuma ser um pouco verborrágico, sabe? Porque logo depois ele tá falando que ele encontrou um novo ou um grupo modificado no [EMPRESA] e vai fazer o Sync com o [EMPRESA].\n[LOCUTOR 29]: não fala o que subiu. Vamos lá no Identity, vamos ver o que chegou lá antes de sofrer com o Smart Sync. Por gentileza, ambiente homologação. Eu já importei eles.\n[LOCUTOR 65]: Sim, é porque o SmartSync é um pouco reborrádico. Às vezes a gente fica confuso se ele fez, se ele não fez, se deu certo. Mas de acordo com as últimas mensagens, parece ok, tá? Vamos lá no painel do Identity agora. Vamos organizar as coisas lá.\n[LOCUTOR 25]: aplicativos?\n[LOCUTOR 40]: você clicar ali, ele já vai logar direto com alguém que já existe? Vai. Ele tá logando, sabe? Só que ele... É, ele deu um erro lá. Acho que ele deu um erro que eu mandei ontem no grupo lá.\n[LOCUTOR 65]: Tá, vamos dar uma olhada.\n[LOCUTOR 25]: [LOCAL]\n[LOCUTOR 17]: foi aí no entrar... Tá aí o domínio, você colocou bonitinho, o resto a gente não mexe. Você baixou o token, colocou lá, certo? Sincronizar login e sema com o e-mail do [EMPRESA], certo? No [EMPRESA] todo mundo tá com o e-mail, né? Capuzada de chave.\n[LOCUTOR 65]: [LOCAL].\n[LOCUTOR 25]: [PESSOA], na verdade, tínhamos os vários aqui. Aqui, ó.\n[LOCUTOR 65]: Vamos ver. [PESSOA] response incomum message not valid. Schema spec names required. Vamos ver do lado do plug como é que ficou. Faz uma coisa. Tenta logar com o e-mail completo, por favor. Volta lá. Mesma coisa, beleza, tá consistente. Vamos dar uma revisada lá no WCM Admin. Como é que a gente vai logar nele? Vou te passar uma dica aqui. Como a gente ativou o Identity, todo mundo que tem login no Fluig, mas não tem no Identity, fica trancado de fora. O login fica sendo exclusivo. Para você acessar o Fluig via Identity, Você vai colocar esse sufixo aqui na URL do [LOCAL]. Colei no chat.\n[LOCUTOR 25]: [LOCAL]\n[LOCUTOR 17]: vai cortar ali o portal idpss e vai colar isso aí. E vai logar como [PESSOA]. Guarda isso aí, tá? Isso aí vai ser importante pra você.\n[LOCUTOR 63]: emergências, por exemplo, faz de conta que caiu a identity. Você tem que ter como desligar a identity. Esse é o seu caminho. Entendeu?\n[LOCUTOR 65]: Vai lá. Empresas. [PESSOA] os olhos. Editar. Autenticação. Expande os parâmetros do Identity, por favor. Client Key. CDP Destination. Logout URL. Está tudo no padrão. Sobe um pouquinho, cara.\n[LOCUTOR 65]: resto ali. O token tá ali. Clique em ações. Testar conexão. [LOCAL]. Clique em ações de novo. Enviar usuários. Haviam usuários pré-existentes no Fluig, né?\n[LOCUTOR 65]: Eu acho que tá aí o problema. A gente tem que vincular esses caras. Vamos lá no Identity,\n[LOCUTOR 65]: volta. Vai lá na página de usuários, na administração,\n[LOCUTOR 65]: vê, por exemplo,\n[LOCUTOR 25]: se tem\n[LOCUTOR 65]: dois de você ou se ele fez a fusão corretamente,\n[LOCUTOR 65]: é o que eu tô esperando. Aí, ó, e-mails diferentes. Foi isso. No caso do [PESSOA], por exemplo. E-mails diferentes, então são chaves diferentes. Aí já encontrei um BOzinho.\n[LOCUTOR 31]: esse [PESSOA] é o Super Admin do Identity? Não, é então, esse daqui é... Ele é o [PESSOA], né, no caso.\n[LOCUTOR 65]: O [PESSOA] é\n[LOCUTOR 65]: que recebeu o acesso inicial do Identity?\n[LOCUTOR 25]: Isso.\n[LOCUTOR 65]: Ah, correto. Lá no login você usou o seu outro, o [PESSOA] [PESSOA], no caso?\n[LOCUTOR 25]: Isso. Esse aqui é o do [EMPRESA].\n[LOCUTOR 65]: Esse é o do [EMPRESA]? Ah, tá. Então, perdão, eu me confundi com os dois. Você consegue acessar o log do Fluig? Faz o seguinte, deixa o Fluig aberto aí lá na página do download do log, já na agulha.\n[LOCUTOR 65]: pensar como é que a gente vai fazer essa jogada. Você consegue... A TOTUS te dá acesso a VM onde o Fluig tá rodando? Pra gente poder ver o log em tempo real?\n[LOCUTOR 25]: O que\n[LOCUTOR 65]: eu quero fazer? Vai ter um erro mais detalhado lá do lado do Fluig. Eu quero ver esse erro para a gente saber se tem manobra ou se a gente vai depender de abrir um chamado, porque a maior parte das operações de infra da [EMPRESA], a gente depende de abrir chamado para eles, para que eles possam verificar os internos do Fluig. Mas se a gente tiver acesso remoto à instância onde o Fluig está rodando, a gente tem alguma manobra. Vamos por partes, ver se você tem acesso. Se não tiver, a gente vai ter que abrir um chamado, infelizmente.\n[LOCUTOR 25]: Aproveitando, quando eu estava configurando o [EMPRESA], eu reparei que ele fala assim, Aqui ó, tem uma nova versão. Tem algum problema a gente usar essa? Teria que usar essa nova aqui.\n[LOCUTOR 65]: Não, isso pode ser um problema. Vamos usar a nova. Esse aí é novo pra mim. Esse SmartSync 5. Vamos usar ele primeiro, porque pode ser justamente esse o [PESSOA] também. A forma que o SmartSync tá enviando, talvez. Até pra gente ter suporte da TOTOS. Copia pra mim o link da nossa documentação, pra eu poder ter acesso a ela também. Esse nosso documentação tem um... deve ser um link, como tá em azulzinho. Copia pra mim, deixa eu ver se eu consigo acessar ele de fora. É novo. Não tô por dentro. [LOCAL], [EMPRESA]. Ótimo. Deixa eu ver aqui. Novo SmartSync. Interação e os grupos vinculados. Ah, [LOCAL], [LOCAL], certo. Cara, vamos fazer o seguinte. Migra o Smart Sync pra esse. Eu tô vendo aqui que é instalar, parametrizar ele e tudo mais. Vamos fazer o upgrade pra ele. Só faz uma coisa pra eu poder pesquisar em paralelo aqui. Provoca o erro de novo. Só pra eu tomar nota do erro. Vou fazer uma captura de tela aqui. Que eu vou pesquisar em paralelo pra ver se a gente tem a chance de encontrar uma solução sem depender da todos. Ok? Pode demorar um pouquinho.\n[LOCUTOR 65]: Que por outro lado\n[LOCUTOR 43]: pode ser\n[LOCUTOR 43]: porque\n[LOCUTOR 65]: a responsabilidade da infra fica sendo deles, a gente cuida\n[LOCUTOR 43]: só do negócio. Mesmo se abrir o chamado e tal, eu peço prioridade pelo pessoal do Works lá, tá?\n[LOCUTOR 13]: lembrado.\n[LOCUTOR 43]: [LOCAL],\n[LOCUTOR 43]: [LOCAL], contatinhos.\n[LOCUTOR 25]: valid\n[LOCUTOR 29]: tá dando falta de um atributo. [PESSOA]. Eu tô tentando inferir pela mensagem. [PESSOA] is required. Acredito que seja... Deixa eu ver se eu acho alguma coisa aqui meio óbvia. Você quer que eu atualize aqui o Smart Sync?\n[LOCUTOR 65]: Por favor. Vamos já fazer esse procedimento porque a gente já tira um item do caminho. Eu vou fazer uma pesquisa aqui em paralelo para ver se eu acho uma resposta. Remove o anterior antes, tá? Sempre bom.\n[LOCUTOR 65]: Ah, é bom. Toma nota de tudo antes, porque senão você vai ter trabalho. Cara, olhando o aspecto do [PESSOA], O atributo está ausente, o que nos faz pensar no Smart Sync mesmo.\n[LOCUTOR 26]: atributo necessário não está indo ou o esquema está diferente do que o Fluig está esperando. Como o Fluig também é o mais novo, pode ser a falta disso aí mesmo. [LOCUTOR 40]: isso não funcionar, a gente vai olhar uma outra coisa. A gente vai olhar o mapeamento dos campos no SmartSync. Mas vamos por partes. Porque ele está falando do atributo name. Será que o atributo name está mapeado corretamente em relação ao que o Fluid está esperando? O atributo do [EMPRESA] está saindo e chegando lá? Acho que sim. Porque lá na tela do Identity, nome, sobrenome e e-mail estão chegando. Então, n\n[LOCUTOR 62]: tenho certeza.\n[LOCUTOR 25]: É isso aí. A respeito do que você perguntou lá da [EMPRESA], vou te mostrar aqui o que a gente tem. Isso aqui, ó.\n[LOCUTOR 65]: É... Nenhum\n[LOCUTOR 25]: acesso...\n[LOCUTOR 65]: Realizar backup, alterar senha, download, limpeza\n[LOCUTOR 25]: de logs,\n[LOCUTOR 65]: pena. Se tivesse um SSH lá, ia ser muito bom.\n[LOCUTOR 25]: Ele é... Ele é... Ele é quase...\n[LOCUTOR 65]: É, e é gerenciado por eles e provavelmente tá num\n[LOCUTOR 25]: volume\n[LOCUTOR 65]: docker\n[LOCUTOR 16]: dentro.\n[LOCUTOR 65]: Sim. Eu tô vendo a documentação aqui sobre a migração do SmartSync, só pra ter certeza, porque ele tá exigindo o Active Directory já existente, mas a gente optou por limpar. Pode colocar como não, porque vamos tratar ali como um novo por conta da questão dos atributos. Cara, eu fiquei desconfiado. Desmarca ali a migração.\n[LOCUTOR 25]: [PESSOA].\n[LOCUTOR 65]: [PESSOA]. Aí você vai pôr teu filtro de novo. Conectado, conectado. Ele está sincronizando ainda. Vamos esperar, é. Vamos esperar isso aí. São quantos usuários?\n[LOCUTOR 25]: São poucos usuários, acho que 4. Ah,\n[LOCUTOR 65]: é pouquinho. Tá com o filtro lá ainda, né? Você restringiu o acesso.\n[LOCUTOR 25]: levar um\n[LOCUTOR 65]: tempinho.\n[LOCUTOR 25]: mas que tem que criar um serviço. Ele cria\n[LOCUTOR 65]: automaticamente, mas caso não crie, a gente tem que criar manualmente. Vamos ver lá. Aliás, o SmartSync faz a criação do serviço automaticamente. Ah, é só conferir se fez então.\n[LOCUTOR 25]: [LOCAL], tá criado.\n[LOCUTOR 65]: Ah, então, de boa.\n[LOCUTOR 25]: Teoricamente... Ligado,\n[LOCUTOR 25]: Esse aqui\n[LOCUTOR 21]: pra selecionar lá os usuários?\n[LOCUTOR 65]: Então, esse novo SmartSync, ele é novo pra mim também, nós vamos descobrir juntos,\n[LOCUTOR 65]: verdade. Desativar, excluir, extrair a versão de SmartSync, tá. Volta lá nas configurações de [EMPRESA]. Vamos ver como é que ficou lá. Dentro do Identity mesmo. Informações, então... Ah não, aí é o SmartSync, eu digo lá no Identity mesmo. Lá no painel do [EMPRESA]. Isso, volta uma tela. Não apareceu nada? É, recarrega aí. A tela deve ter mudado mesmo então. Vai lá em usuários, vamos ver se eles estão chegando.\n[LOCUTOR 65]: É, vamos validar isso. [PESSOA] um sync manual lá na aplicação, deve ter um botão lá pra isso.\n[LOCUTOR 65]: aquela op\n[LOCUTOR 11]: de liberar lá, né?\n[LOCUTOR 65]: Ah, é o AutoAceite. Vamos lá ver.\n[LOCUTOR 25]: [LOCUTOR 8]: vendo a documentação dele aqui pra ver como que... Como que a gente trabalha com ele. Clica ali no lapizinho. Aí, à direita. Liga o Aceite. Vamos... Vamos descobrir salva aí. Só para gatilhar a mudança, faça qualquer mudança no usuário dele. Só para dar um trigger lá. [LOCUTOR 57]: um pontinho na descrição. É, pronto. Só para poder... Pronto, boa. [LOCUTOR 33]: ver o que vai acontecer agora. [LOCUTOR 18]: não. Pessoal,\n[LOCUTOR 28]: desenrola\n[LOCUTOR 65]: isso aí. É, a gente vai\n[LOCUTOR 43]: desenrolar\n[LOCUTOR 65]: isso aí.\n[LOCUTOR 66]: Combinado.\n[LOCUTOR 65]: [LOCAL].\n[LOCUTOR 25]: [LOCUTOR 3]: lá no log do [LOCAL], cara, vamos ver o que diz lá, se diz alguma coisa. Sending Message, ele não vai dar nominalmente aí, mas ele tá ativo, 11h30, 38, tá? Ele mandou. Deixa eu ver a documentação dele aqui sobre o gerenciamento. Cara, tinha um link de uma documentação lá na parte de gestão do [EMPRESA]. Não,\n[LOCUTOR 65]: não. Lá mesmo no Identity tinha um lugar lá com um link para uma documentação. Lá no lapizinho do... do Identity. Vai lá na parte de [EMPRESA] de novo.\n[LOCUTOR 53]: no lapizinho. E essa é a documentação. Vamos ver se é a mesma ou se é outra. A identidade não vai... tá, já tá fácil aqui. Deixa eu ver aqui. Aceitar o usuário. [LOCUTOR 26]: cara tem uma tela diferente agora, por isso. Vamos ver como é que a gente chega nela. Vai lá na tela de [EMPRESA] de novo, por favor. Acho que\n[LOCUTOR 65]: eu já entendi aqui. Clica em cima do olhos local, vê se ele é clicável. Isso. Cinco pendentes. Pronto, aceita a turma aí. Inclusive o [EMPRESA]\n[LOCUTOR 16]: ali. É, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é\n[LOCUTOR 25]: Aí tem um problema.\n[LOCUTOR 65]: O e-mail é o mesmo. Eu espero que ele mescle. Entendeu? Porque a chave é a mesma.\n[LOCUTOR 25]: Será que não tem que habilitar aquela opção para ele fazer a junção? Tipo aqui. Que agora não dá mais para...\n[LOCUTOR 65]: é porque aquela pergunta pelo que eu li aqui se a gente tá migrando de um outro [EMPRESA] cadastrado no Identity\n[LOCUTOR 14]: que a gente apagou ele para forçar o reinício.\n[LOCUTOR 25]: O que\n[LOCUTOR 25]: espero\n[LOCUTOR 65]: importar os grupos internos do [EMPRESA], esses aí, ó, e não é legal, cara, fica uma\n[LOCUTOR 25]: bagunça.\n[LOCUTOR 65]: Mas, por exemplo, acesso fluido, acesso fluigged, esses grupos aí é os que você vai usar.\n[LOCUTOR 65]: faz sentido. Teve um cliente que aceitou isso e aí no final ele abraçou a ideia do tipo, como eles iam colocar muita gente, eles estavam amarrando nos grupos do [EMPRESA] mesmo. Foi prático, sabe? Mas o volume de grupo para gerenciar depois ficou meio trabalhoso, um pouco exagerado. Ele duplicou com o [EMPRESA] anterior. Ah, tem que fazer uma limpa então. Nos grupos. Do antigo.\n[LOCUTOR 65]: Eu acho que ele não vai deixar. Vê se você pode renomear pelo menos para tirar do caminho. Em produção a gente já não vacila com isso. Talvez a gente possa pedir se tiver que abrir um chamado para todos perguntar se eles podem excluir de lá. No caso, o correto é o que está com olhos.local, né?\n[LOCUTOR 25]: Pra ele\n[LOCUTOR 65]: deixar renomear. Ele deixa renomear, não deixa excluir. Tô vendo aqui na parte de grupos, se a gente consegue. Ah cara, pera aí, olha que caminho... Clica no visualizar do grupo que você quer mexer, que você quer excluir. Saí dentro o lixinho cara. [PESSOA] vida né.\n[LOCUTOR 9]: vida. Deu um erro mas que coisa do usuário.\n[LOCUTOR 65]: Desamarra essa turma aí. [LOCAL].\n[LOCUTOR 25]: Tá, agora vamos fazer o teste no login?\n[LOCUTOR 65]: Vamos fazer o teste no login, que é o que a gente tá tentando fazer já, desde o começo. Passa login aí de novo. Click tá configurado. [PESSOA] vida. Mesma coisa. Então não vai\n[LOCUTOR 25]: ser mais nada\n[LOCUTOR 52]: colar pra ele aqui. E aí E a\n[LOCUTOR 54]: Estou vendo aqui\n[LOCUTOR 65]: a gente tem algum tipo de manobra para fazer mapeamento de atributos manualmente. Não deveria.\n[LOCUTOR 25]: Será que não é aquele... Esse camarada aqui ó. Será que não é? Tem um parâmetro que você disse. Qual que é o... Aqui, aplicativos...\n[LOCUTOR 25]: tem uma\n[LOCUTOR 65]: permissividade\n[LOCUTOR 65]: usuário. Troca isso aí para e-mail. Troca para e-mail que\n[LOCUTOR 65]: e-mail do usuário é o mais consistente entre sistemas, tá? Pode ser isso.\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 65]: [PESSOA] inclusive tem uma observação em algum lugar da [EMPRESA], porque ele pode não ser o mesmo. Tenta de novo aí. Esquece. Encontramos aqui vacilo. Pronto. Pronto, pronto, pronto.\n[LOCUTOR 26]: e-mail é a chave mais consistente, incluindo outros sistemas. Isso aí fala de dores passadas, porque o login, o ID, nem sempre é consistente. Se você for ligar um sistema externo, exemplo um sistema web. Login de web, geralmente é e-mail. E isso afeta. É, mas você vê que mesmo a gente trocando ele aceita, né?\n[LOCUTOR 65]: Não, no Identity, para entrar no Identity, como você ativou deliberadamente o [EMPRESA], ele vai aceitar. Está tudo certo, é cômodo. Mas entre sistemas, por exemplo, o Fluig não sabe a chave login do [EMPRESA], ele não conhece, ele conhece e-mail. Tanto que, vai lá no painel de controle em usuários, eu vou te mostrar uma coisa.\n[LOCUTOR 25]: Eu não sei se esse camarada aqui vai ter a permissão.\n[LOCUTOR 25]: [LOCAL]\n[LOCUTOR 17]: tá com WCM admin? Não, não. Você tem que entrar com o usuário admin da plataforma.\n[LOCUTOR 25]: Ah, é verdade.\n[LOCUTOR 65]: É o fórum, cara. A gente fundou esse fórum há uns 4 ou 5 anos atrás.\n[LOCUTOR 65]: O fórum da [EMPRESA] tinha caído, sem motivo, e aí a gente fizemos junto e subimos um fórum. Aí hoje eu tenho o fórum da [EMPRESA] e tem o [LOCAL] também, convivendo pacificamente. [LOCAL]. Se tá... Não, é painel de controle, por favor.\n[LOCUTOR 25]: Esse\n[LOCUTOR 45]: que ser outro. Quando voc\n[LOCUTOR 17]: criou a empresa, você criou um primeiro usuário.\n[LOCUTOR 25]: Esse usu\n[LOCUTOR 46]: inevitavelmente é o admin.\n[LOCUTOR 25]: Só que ele não tá no identity.\n[LOCUTOR 65]: Então faz o seguinte, desliga o identity, loga lá, bota alguém de admin, liga o identity e segue a vida. Pegadinha do malandro. Tem que ter pelo menos um V.I.D. como a de mim. Senão você se lasca tudo.\n[LOCUTOR 25]: Isso.\n[LOCUTOR 54]: você vai acessar a moda antiga, vai dar lá o perfil de admin e depois reverte.\n[LOCUTOR 40]: dá o papel. É o papel. Se dá o papel, Admin. Não é por grupo, é por papel. Adiciona. Clica no adicionar. Admin. Isso. Se quiser passar para mais alguém, já fornece de uma vez. Eu vou ter que acertar aí. [LOCUTOR 4]: menos trabalho, depois. O [PESSOA], o usar [PESSOA], ele já é de mim, ele já pode dar o acesso para os outros, é mais porque já estamos aqui mesmo. Tá fácil. Boa, agora sei logo como dar PCM de novo, reativa. Todavia, contudo, entretanto, estamos com o SmartSync atualizado. Por uma questão de suporte, talvez um dia a gente esteja bem. Não foi o fim do mundo. Você sabe se a gente consegue...  a gente consegue...\n[LOCUTOR 25]: Pra eles mudarem isso aqui? Esse domínio aí?\n[LOCUTOR 65]: Cara... Eu acho que dá para colocar um domínio customizado aí. Deixa eu ver se eu acho aqui. TATUS, FLUID, CLOUD, DOMÍNIO, PRÓPELO.\n[LOCUTOR 25]: [LOCAL]\n[LOCUTOR 17]: tem [LOCAL] REVERSO instalado na sua estrutura?\n[LOCUTOR 12]: um redirecionamento.\n[LOCUTOR 25]: Um CNAME, né?\n[LOCUTOR 65]: te passar aqui o guia, tô só conferindo, mas assim... Geralmente eu comproxo e reverso. Você tem qual aí?\n[LOCUTOR 65]: pra... Ah, tá suave. Não, Apache é suave. O guia, inclusive, o guia inicial é com Apache, tá? Acho que já basta. Eu tô vendo aqui se tem alguma pegadinha com... Com... Com Tortos Cloud. Mas assim... Pelo que eu conheço de rede, não. O Proxy Reverso vai ser só um outro caminho. Você vai poder continuar usando esse aí. O Proxy vai fazer a frente. Mandei no chat. Depois você veio.\n[LOCUTOR 65]: Ainda mais que você já tem pronto, fica mais fácil ainda. É só você colocar lá e ser feliz. Tipo, ruig.hopr.com.br. É uma coisa assim. [PESSOA].\n[LOCUTOR 25]: [LOCAL]. Bem, então temos o Admin que\n[LOCUTOR 65]: tem que desativar o\n[LOCUTOR 25]: Identity, né, quando se der alguma merda.\n[LOCUTOR 65]: Se der alguma merda, você desativa e usa ele sempre.\n[LOCUTOR 25]: Então normalmente o usuário ele vai logar, primeiro ele vai logar, deixa eu fazer uma simulação aqui. O cara vai logar aqui. Se ele tiver logado no IDENTITY. E ele carrega o IDENTITY, né?\n[LOCUTOR 65]: Ele carrega o IDENTITY.\n[LOCUTOR 25]: Não tem uma forma, por exemplo, do camarada logar aqui, ele já abriu o FLUID, né?\n[LOCUTOR 65]: Tem que passar pelo Identity. Assim, você pode ter, por exemplo, você vai ter ali uma URL de uma notificação de atividade pendente em processo, por exemplo. Aí, ele vai receber o e-mail, vai receber um link. Esse link vai levar para o Fluig. Fluig vai ver se essa pessoa já está com o cookie de autenticação. Se não tiver, vai jogar ela para o Identity. De todo jeito.\n[LOCUTOR 25]: [EMPRESA].\n[LOCUTOR 65]: Entendeu? A ideia do Identity é que essa tela seja o Launchpad de todos os aplicativos do ecossistema da empresa, do cliente. Então, por exemplo, amanhã você vai ter aí um cliente de e-mail, amanhã você vai ter aí um outro aplicativo desktop. Existem algumas formas de automatizar o login. Geralmente você vai ter SEML, eu acho que o Identity já suporta OpenID também, não me lembro de cabeça. Para aplicativos desktop, você instala um agente que vai tentar reconhecer o formulário de login do aplicativo e vai fazer login sem automaticamente ali. É o\n[LOCUTOR 25]: SSO lá, né?\n[LOCUTOR 65]: É, é o SSO lá. Ele tenta automatizar isso também, que ele vai disparar o aplicativo local, vai reconhecer o form e você vai meio que... Sabe a automação de tela na web, quando você vai definir ali em alguma ferramenta, ah, esse campo é login, esse campo é a senha, não sei o quê. Já viu isso?\n[LOCUTOR 25]: [LOCUTOR 12]: a mesma coisa com desktop. Não funciona sempre. Eu já testei alguns aplicativos antigos em Delphi. Funcionou, sabe? Funcionou. O setup foi meio chatinho, mas funcionou. Agora, a maior parte das coisas hoje é web, cara. Por exemplo, você tem aí qual [EMPRESA]? É TOTOS, não TOTOS? Algum outro? A gente tá mudando pro RM, né? [PESSOA].\n[LOCUTOR 65]: O RM suporta login via identity nativamente. Isso não vai ter problema. Ele vai suportar via SAML.\n[LOCUTOR 25]: Então,\n[LOCUTOR 65]: Cara, como eu te falei, eu já consegui com Delphi. Não foi problema. É só mesmo usar o aplicativo lá para reconhecer o campo de login e campo de senha.\n[LOCUTOR 65]: um porém. É isso aí. E tem um porém aí. A credencial dentro dele também é do [EMPRESA]?\n[LOCUTOR 25]: [LOCUTOR 12]: uma credencial à parte. O Identity vai salvar essa credencial quando a pessoa vai fazer o login inicial no aplicativo, ele vai informar qual é o login e senha, vai ficar salvo de forma segura no Identity. E aí, quando você clica nele, ele vai injetar essa credencial no form do [EMPRESA], do aplicativo. É meio força bruta, sabe? Mas funciona. É um pouco chato de configurar mesmo, mas se tem essa opção. Se já estão indo para o RM, sinceramente eu não sei se faz sentido. Para qualquer outro aplicativo web, faz todo sentido automatizar login, porque aí você cria o hábito do Launchpad. Eu vou te colar aqui também no chat uma página para você poder ter sempre na mão que é o status do Identity, porque às vezes costuma dar alguma agarrada em alguma coisa, às vezes atraso no login, às vezes cai mesmo, para você poder ter produtividade, saca? Conseguir de\n[LOCUTOR 65]: repente dedativar emergencialmente.\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 65]: [LOCAL]?\n[LOCUTOR 25]: [LOCAL].\n[LOCUTOR 65]: Mas é isso, cara. E assim, qualquer dúvida que você tiver ao longo do tempo, a gente vai... joga no grupo. O que a gente não souber, que nem esse Smart Sync novo, que foi uma coisa bem nova pra mim. A gente vai desembolar junto e segue a vida.\n[LOCUTOR 25]: [LOCAL], então.\n[LOCUTOR 65]: [PESSOA], você tá aí ainda?\n[LOCUTOR 65]: Quais são os próximos passos agora que a gente fechou a Identity?\n[LOCUTOR 66]: E o [EMPRESA] não chegou a me passar. Posso estar conformando com ele, informando...\n[LOCUTOR 65]: É, a gente pergunta\n[LOCUTOR 65]: ele depois.\n[LOCUTOR 25]: A gente tá... A gente tá... A gente tá estruturando ali o sistema pra fazer um GED nele, né?\n[LOCUTOR 62]: começar pelo GED, então. [PESSOA].\n[LOCUTOR 25]: Isso, daí a gente já... Na verdade, a gente já fez o treinamento lá com o [PESSOA] e tudo mais.\n[LOCUTOR 65]: [LOCUTOR 1]: eu criei agora o documento pra aquelas variáveis lá, né? Tô fazendo os testes ali pra... Para a menina fazer uma revisão, ele puxar a variável, trocar o nome, ele puxar a variável. Mas, a priori, eu até já desenhei ali o processo ali, que tem o fuxograma lá e tudo mais. Mas, basicamente, o nosso primeiro grande projeto vai ser o GED. [PESSOA]. [PESSOA]. Então, vou ficar antenando ali com o [PESSOA]. Porque cedo ou tarde a gente vai agir em alguma coisa junto aí de novo, mas... Cara, vocês estão com o bruxo aí? O bruxo é... Ele é ímpar, cara. Ele ajudou a construir a ferramenta. Então, ele sabe mais do que ninguém como ela funciona e como implementar bem.\n[LOCUTOR 25]: [LOCUTOR 6]: o conhecimento de processo que\n[LOCUTOR 65]: ele tem. Perto dele, eu sou [PESSOA]. Sou um menino, um bebê. Ele deve ter uns 20 anos de estrada, gente, no mínimo.\n[LOCUTOR 25]: 20 anos de\n[LOCUTOR 65]: estrada, o [PESSOA]. Eu comecei com o Fluid em 2009. Ele estava lá já quando o Fluig ainda estava nascendo como Fluig, ele era o Totus SM, anteriormente o Brava SM. Então ele pegou desde a fase embrionária e foi ajudando a lapidar o Fluig do jeito que a gente conhece ele hoje. Então cara, eu desconheço pessoa melhor que ele no país para falar de Fluig, sério mesmo.\n[LOCUTOR 26]: saco dele est\n[LOCUTOR 16]: lá embaixo agora, mas é verdade.\n[LOCUTOR 25]: O cara é foda.\n[LOCUTOR 65]: Todos vão almoçar em paz hoje.\n[LOCUTOR 65]: Combinado gente!\n[LOCUTOR 66]: [LOCUTOR 32]: abraço\n[LOCUTOR 25]: para\n[LOCUTOR 25]: [LOCAL]!",
+  "nivel_filtragem": "MEDIO",
+  "status_transcricao": "FILTRADA",
+  "filtro_ml": {
+    "modelo": "totvs-filter-tfidf-logreg-v1",
+    "threshold": 0.46,
+    "processado_em": "2026-09-21T14:08:30.512264+00:00",
+    "total_linhas": 364,
+    "linhas_mantidas": 229,
+    "linhas_removidas": 135,
+    "percentual_mantido": 62.91,
+    "confianca_media": 0.4772
+  },
+  "detalhes_filtragem": [
+    {
+      "linha": "[LOCUTOR 65]: Bom dia. Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Tudo bem, [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCAL]. Tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: jóia.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCAL]. Temos",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: um",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: robô aqui também? Esse consultor de vendas?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Sim, mas é... não sei, acho que toda pessoa [EMPRESA] que entra, ele... Ele entra também, mas se quiser remover...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4519,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Não, não, é curiosidade mesmo. Estamos no país livre.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4192,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCUTOR 52]: aplicar o teste [PESSOA] nele pra ver se ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: tá espertinho. Bom dia, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Você é do time do [EMPRESA], [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5951,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: Isso, o [PESSOA] e o [PESSOA] sou do Agesto.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5982,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Ah, tá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCUTOR 20]: dia era o [PESSOA] que tava naquela outra agenda, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: O [PESSOA] fez as agendas de treinamento e ele é o desenvolvedor que tá dando apoio. O [PESSOA] é o consultor de tecnologia e vai entrar também o [PESSOA], que é o [EMPRESA] também, que vai acompanhar as agendas. Quando eu não acompanho, ele acompanha. Como ele tá iniciando agora, ele também tá fazendo. Então tem toda uma equipe agora, [PESSOA], assim, pra atender o [LOCAL], tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Que ótimo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: É isso aí. Você nunca",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: vai ver tanta gente brota junta numa reuni",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 42]: só. E feia.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: E feia, porque...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCUTOR 35]: [PESSOA], ele é o SN, tá? Ele é o responsável executivo de vendas, ele é o responsável pela... pelo [LOCAL], tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [PESSOA], bacana.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: Contextualizar. É, o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 38]: dos",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 43]: Olhos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Eles estão com muitas soluções lá, sabe, [PESSOA]? Tem seis ou sete soluções lá, é um projeto muito grande, bem complexo. Então, assim, quando eu posso, eu dou uma entrada, porque às vezes o [PESSOA] manda alguma mensagem lá, né? Então...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4725,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 44]: bom a gente tá sabendo o que tá acontecendo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: mais ou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: menos. E sempre",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: podem haver oportunidades, ou de repente a gente descobre uma dor, uma oportunidade de sugerir alguma coisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 43]: E aí o [PESSOA] aqui vai encaminhar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: sempre. Pode sempre me incluir ali nos empates, quando vocês fizerem de capacitação, mesmo que for coisa técnica, não tem problema não. Quando eu consigo, eu entro.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCAL]. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: Você vê que a gente deixou a equipe mais robusta agora, né [PESSOA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: É, que bom, que bom.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4641,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: Ah, o negócio é pra... o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: bruxo tá no grupo agora acabou velho não tem solução impossível o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.466,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: bruxo é o [PESSOA] né o [PESSOA] eu tenho que controlar a fera né cara",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5007,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: ali é não ele é ele é ninja mas ninja dos ninjas ele é o jedi refer",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 24]: tá conosco agora eu vou admitir o [PESSOA] aqui tá bom",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3928,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: dia [PESSOA] [PESSOA] É... ouvimos só ruído, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: Eu acho que ele tá na obra.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4953,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: É.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [LOCUTOR 56]: microfone deu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: pouca.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 2]: sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 55]: Tudo bem [PESSOA]?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "duplicada"
+    },
+    {
+      "linha": "[LOCUTOR 55]: [LOCAL]. [LOCAL] dar uma sapiada aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 43]: [PESSOA], só pra te comentar aqui, o [PESSOA] Cavalcanti é o nosso [EMPRESA], ele vai acompanhar também as agendas dos projetos, a parte documentacional e tal, então ele é o contratado nosso aí da [LOCAL], o novo reforço pra [LOCAL] e pra auxiliar na gestão do projeto como um todo também, nessa parte mais administrativa, beleza?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4926,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Opa, bom dia pessoal, tudo bem?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3506,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: Bom dia.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [LOCUTOR 36]: lá, [PESSOA], faz tua mágica. Eu daqui a pouco eu vou sair da sala, tá? E o [PESSOA] continua.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4419,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCAL]. Então, gente, vamos dar uma conferida em como ficou, o que falta ajustar. Quem vai compartilhar? [PESSOA], vai compartilhar a tela? Mostra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4576,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: pra gente como",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: é que ficou seu setup. Pela evidência de ontem, SmartSync deu certinho, ele informa que subiu os registros pro Identity, mas esses registros não são automaticamente consumidos, tá? A gente vai te ajudar a ajustar isso lá. Alô? Como é que tá aí? Smart Sync Logs. Dá um clique no Service Log, por favor, para ver só os últimos logs. Na parte de cima tem a .check. Isso, menino. Dá um clique aí. Pode ir lá para o final. Fail Send Status. Result Succeed. False. Data. O tempo limite da operação foi atingido. Cara, tem uma coisinha estranha aí. O Smart Sync ele costuma ser um pouco verborrágico, sabe? Porque logo depois ele tá falando que ele encontrou um novo ou um grupo modificado no [EMPRESA] e vai fazer o Sync com o [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 29]: não fala o que subiu. Vamos lá no Identity, vamos ver o que chegou lá antes de sofrer com o Smart Sync. Por gentileza, ambiente homologação. Eu já importei eles.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Deu certo lá, né?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Aqui parece que deu certo também, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Sim, é porque o SmartSync é um pouco reborrádico. Às vezes a gente fica confuso se ele fez, se ele não fez, se deu certo. Mas de acordo com as últimas mensagens, parece ok, tá? Vamos lá no painel do Identity agora. Vamos organizar as coisas lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5051,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: aplicativos?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Eu não tô vendo, tá? Eu tô vendo só o [LOCAL], a tela do SmartSync. Eu acho que não tô vendo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4567,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: tela toda.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4432,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Deixa eu recompartilhar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4284,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Pronto. Boa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: boa, boa, boa, boa. Ah, já pegou o jeito. Você já tá ali com o aplicativo adicionado. Só que ele não tá configurado ainda. Ou você fez o link entre ele e o Identity?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.458,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Fiz.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Fiz?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 40]: você clicar ali, ele já vai logar direto com alguém que já existe? Vai. Ele tá logando, sabe? Só que ele... É, ele deu um erro lá. Acho que ele deu um erro que eu mandei ontem no grupo lá.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5173,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Tá, vamos dar uma olhada.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: foi aí no entrar... Tá aí o domínio, você colocou bonitinho, o resto a gente não mexe. Você baixou o token, colocou lá, certo? Sincronizar login e sema com o e-mail do [EMPRESA], certo? No [EMPRESA] todo mundo tá com o e-mail, né? Capuzada de chave.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5189,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Sim, [PESSOA].",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Inclusive eu até já coloquei aqui, ó. [LOCAL]",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4234,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: colocou grupos pro pessoal acessar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3886,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [PESSOA], na verdade, tínhamos os vários aqui. Aqui, ó.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Isso, e tá associado a partir de um perfeito. Não, não, parabéns. Até aí tá tudo certo. Vamos lá ver esse erro do lado do Fluid. Tenta acessar aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4342,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Vamos ver. [PESSOA] response incomum message not valid. Schema spec names required. Vamos ver do lado do plug como é que ficou. Faz uma coisa. Tenta logar com o e-mail completo, por favor. Volta lá. Mesma coisa, beleza, tá consistente. Vamos dar uma revisada lá no WCM Admin. Como é que a gente vai logar nele? Vou te passar uma dica aqui. Como a gente ativou o Identity, todo mundo que tem login no Fluig, mas não tem no Identity, fica trancado de fora. O login fica sendo exclusivo. Para você acessar o Fluig via Identity, Você vai colocar esse sufixo aqui na URL do [LOCAL]. Colei no chat.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: vai cortar ali o portal idpss e vai colar isso aí. E vai logar como [PESSOA]. Guarda isso aí, tá? Isso aí vai ser importante pra você.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 63]: emergências, por exemplo, faz de conta que caiu a identity. Você tem que ter como desligar a identity. Esse é o seu caminho. Entendeu?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5013,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Vai lá. Empresas. [PESSOA] os olhos. Editar. Autenticação. Expande os parâmetros do Identity, por favor. Client Key. CDP Destination. Logout URL. Está tudo no padrão. Sobe um pouquinho, cara.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 5]: eu ver o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4524,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: resto ali. O token tá ali. Clique em ações. Testar conexão. [LOCAL]. Clique em ações de novo. Enviar usuários. Haviam usuários pré-existentes no Fluig, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Eu acho que tá aí o problema. A gente tem que vincular esses caras. Vamos lá no Identity,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: volta. Vai lá na página de usuários, na administração,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: e",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: vê, por exemplo,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: se tem",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: dois de você ou se ele fez a fusão corretamente,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5614,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: é o que eu tô esperando. Aí, ó, e-mails diferentes. Foi isso. No caso do [PESSOA], por exemplo. E-mails diferentes, então são chaves diferentes. Aí já encontrei um BOzinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5543,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 31]: esse [PESSOA] é o Super Admin do Identity? Não, é então, esse daqui é... Ele é o [PESSOA], né, no caso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4978,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: O [PESSOA] é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: que recebeu o acesso inicial do Identity?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5732,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ah, correto. Lá no login você usou o seu outro, o [PESSOA] [PESSOA], no caso?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Isso. Esse aqui é o do [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5806,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Esse é o do [EMPRESA]? Ah, tá. Então, perdão, eu me confundi com os dois. Você consegue acessar o log do Fluig? Faz o seguinte, deixa o Fluig aberto aí lá na página do download do log, já na agulha.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 15]: que não vai dar. Não, não, não. Pior que não vai dar. Você tem que estar logado como alguém. Deixa eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4011,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: pensar como é que a gente vai fazer essa jogada. Você consegue... A TOTUS te dá acesso a VM onde o Fluig tá rodando? Pra gente poder ver o log em tempo real?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: O que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: eu quero fazer? Vai ter um erro mais detalhado lá do lado do Fluig. Eu quero ver esse erro para a gente saber se tem manobra ou se a gente vai depender de abrir um chamado, porque a maior parte das operações de infra da [EMPRESA], a gente depende de abrir chamado para eles, para que eles possam verificar os internos do Fluig. Mas se a gente tiver acesso remoto à instância onde o Fluig está rodando, a gente tem alguma manobra. Vamos por partes, ver se você tem acesso. Se não tiver, a gente vai ter que abrir um chamado, infelizmente.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Aproveitando, quando eu estava configurando o [EMPRESA], eu reparei que ele fala assim, Aqui ó, tem uma nova versão. Tem algum problema a gente usar essa? Teria que usar essa nova aqui.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Não, isso pode ser um problema. Vamos usar a nova. Esse aí é novo pra mim. Esse SmartSync 5. Vamos usar ele primeiro, porque pode ser justamente esse o [PESSOA] também. A forma que o SmartSync tá enviando, talvez. Até pra gente ter suporte da TOTOS. Copia pra mim o link da nossa documentação, pra eu poder ter acesso a ela também. Esse nosso documentação tem um... deve ser um link, como tá em azulzinho. Copia pra mim, deixa eu ver se eu consigo acessar ele de fora. É novo. Não tô por dentro. [LOCAL], [EMPRESA]. Ótimo. Deixa eu ver aqui. Novo SmartSync. Interação e os grupos vinculados. Ah, [LOCAL], [LOCAL], certo. Cara, vamos fazer o seguinte. Migra o Smart Sync pra esse. Eu tô vendo aqui que é instalar, parametrizar ele e tudo mais. Vamos fazer o upgrade pra ele. Só faz uma coisa pra eu poder pesquisar em paralelo aqui. Provoca o erro de novo. Só pra eu tomar nota do erro. Vou fazer uma captura de tela aqui. Que eu vou pesquisar em paralelo pra ver se a gente tem a chance de encontrar uma solução sem depender da todos. Ok? Pode demorar um pouquinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 12]: uma desvantagem da nuvem nesse caso, porque a gente não tem acesso direto a tudo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4406,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Que por outro lado",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: pode ser",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5288,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: bom,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 43]: porque",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: a responsabilidade da infra fica sendo deles, a gente cuida",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: só do negócio. Mesmo se abrir o chamado e tal, eu peço prioridade pelo pessoal do Works lá, tá?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ah, boa,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: boa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 13]: lembrado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: [LOCAL],",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: sempre bom.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: [LOCAL], contatinhos.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Deixa eu pegar a mensagem. Ok. [PESSOA] response. Incoming message did not have",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: valid",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: schema. O que que me intriga? Ele tá falando que a mensagem que vem não tem o esquema válido. O que me faz pensar no SmartThink, entendeu?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4557,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 29]: tá dando falta de um atributo. [PESSOA]. Eu tô tentando inferir pela mensagem. [PESSOA] is required. Acredito que seja... Deixa eu ver se eu acho alguma coisa aqui meio óbvia. Você quer que eu atualize aqui o Smart Sync?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Por favor. Vamos já fazer esse procedimento porque a gente já tira um item do caminho. Eu vou fazer uma pesquisa aqui em paralelo para ver se eu acho uma resposta. Remove o anterior antes, tá? Sempre bom.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4785,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [PESSOA], deixa eu só pegar o filtro aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4197,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ah, é bom. Toma nota de tudo antes, porque senão você vai ter trabalho. Cara, olhando o aspecto do [PESSOA], O atributo está ausente, o que nos faz pensar no Smart Sync mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.519,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 26]: atributo necessário não está indo ou o esquema está diferente do que o Fluig está esperando. Como o Fluig também é o mais novo, pode ser a falta disso aí mesmo. [LOCUTOR 40]: isso não funcionar, a gente vai olhar uma outra coisa. A gente vai olhar o mapeamento dos campos no SmartSync. Mas vamos por partes. Porque ele está falando do atributo name. Será que o atributo name está mapeado corretamente em relação ao que o Fluid está esperando? O atributo do [EMPRESA] está saindo e chegando lá? Acho que sim. Porque lá na tela do Identity, nome, sobrenome e e-mail estão chegando. Então, n",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 62]: tenho certeza.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: É isso aí. A respeito do que você perguntou lá da [EMPRESA], vou te mostrar aqui o que a gente tem. Isso aqui, ó.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: É... Nenhum",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: acesso...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Realizar backup, alterar senha, download, limpeza",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: de logs,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: topologia operada, restaurar banco, topar arquivos... Ah, não tem acesso remoto. Que pena,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: que",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: pena. Se tivesse um SSH lá, ia ser muito bom.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4808,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Não,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 65]: é tudo bem. Acho",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: que não tem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4357,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: É... Acho que não tem mesmo. Não, taca aquele pau aí.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4164,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Ele é... Ele é... Ele é quase...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: É, e é gerenciado por eles e provavelmente tá num",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4976,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: volume",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: docker",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: l",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: dentro.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 65]: tentamos. Tudo bem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4233,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: É,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 65]: volto rapidinho. Vou ali no banheiro, tá?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4567,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: E a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 54]: Veja bem. Antes de prosseguir, faça só uma coisa. Apague o [EMPRESA] que está lá. Vamos recomeçar limpo. beleza, boa, pode seguir Sim, sim, faz sentido marcar. Não, não, acerte automático? Como é que você fez outra vez? Você tá mudo, viu?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.394,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Inicialmente, eu tinha colocado que não, né? Que eu ia autorizar automaticamente nos linguagens.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4434,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Sim. Eu tô vendo a documentação aqui sobre a migração do SmartSync, só pra ter certeza, porque ele tá exigindo o Active Directory já existente, mas a gente optou por limpar. Pode colocar como não, porque vamos tratar ali como um novo por conta da questão dos atributos. Cara, eu fiquei desconfiado. Desmarca ali a migração.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [PESSOA]. Aí você vai pôr teu filtro de novo. Conectado, conectado. Ele está sincronizando ainda. Vamos esperar, é. Vamos esperar isso aí. São quantos usuários?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5157,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: São poucos usuários, acho que 4. Ah,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: é pouquinho. Tá com o filtro lá ainda, né? Você restringiu o acesso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5348,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 45]: um detalhe aí. Você não colocou filtro de grupo, né? Não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4326,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ele vai mandar a todos. Não é um pecado capital não, é só questão de tempo de sync mesmo. Vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4308,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: levar um",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: tempinho.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: mas que tem que criar um serviço. Ele cria",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5017,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: automaticamente, mas caso não crie, a gente tem que criar manualmente. Vamos ver lá. Aliás, o SmartSync faz a criação do serviço automaticamente. Ah, é só conferir se fez então.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL], tá criado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ah, então, de boa.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5096,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Teoricamente... Ligado,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: tô aqui utilizado, beleza.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4368,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Esse aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: não d",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 21]: pra selecionar lá os usuários?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5167,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Então, esse novo SmartSync, ele é novo pra mim também, nós vamos descobrir juntos,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: na",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: verdade. Desativar, excluir, extrair a versão de SmartSync, tá. Volta lá nas configurações de [EMPRESA]. Vamos ver como é que ficou lá. Dentro do Identity mesmo. Informações, então... Ah não, aí é o SmartSync, eu digo lá no Identity mesmo. Lá no painel do [EMPRESA]. Isso, volta uma tela. Não apareceu nada? É, recarrega aí. A tela deve ter mudado mesmo então. Vai lá em usuários, vamos ver se eles estão chegando.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Aqui eles já tinham, né? Vou colocar mais um cara no grupo aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4305,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: É, vamos validar isso. [PESSOA] um sync manual lá na aplicação, deve ter um botão lá pra isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Daí, bom, teoricamente ele não vai aparecer aqui porque ele tá com",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4226,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: aquela op",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 11]: de liberar lá, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ah, é o AutoAceite. Vamos lá ver.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 8]: vendo a documentação dele aqui pra ver como que... Como que a gente trabalha com ele. Clica ali no lapizinho. Aí, à direita. Liga o Aceite. Vamos... Vamos descobrir salva aí. Só para gatilhar a mudança, faça qualquer mudança no usuário dele. Só para dar um trigger lá. [LOCUTOR 57]: um pontinho na descrição. É, pronto. Só para poder... Pronto, boa. [LOCUTOR 33]: ver o que vai acontecer agora. [LOCUTOR 18]: não. Pessoal,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 43]: vou precisar me ausentar aqui agora. Aí, [PESSOA], se precisar abrir algum chamado, me coloque em cópia, por favor.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4257,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Sim, como essa versão é nova, cara, a gente vai apanhar um pouquinho aqui ainda, mas",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4282,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: a gente vai descobrir como... Não, mas a gente",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3932,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: j",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 28]: desenrola",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: isso aí. É, a gente vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: desenrolar",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: isso aí.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: [PESSOA], pode seguir aí, fazendo favor, tá bom?",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4486,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Combinado.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 43]: [LOCAL], obrigado, pessoal.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 3]: lá no log do [LOCAL], cara, vamos ver o que diz lá, se diz alguma coisa. Sending Message, ele não vai dar nominalmente aí, mas ele tá ativo, 11h30, 38, tá? Ele mandou. Deixa eu ver a documentação dele aqui sobre o gerenciamento. Cara, tinha um link de uma documentação lá na parte de gestão do [EMPRESA]. Não,",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: não. Lá mesmo no Identity tinha um lugar lá com um link para uma documentação. Lá no lapizinho do... do Identity. Vai lá na parte de [EMPRESA] de novo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 53]: no lapizinho. E essa é a documentação. Vamos ver se é a mesma ou se é outra. A identidade não vai... tá, já tá fácil aqui. Deixa eu ver aqui. Aceitar o usuário. [LOCUTOR 26]: cara tem uma tela diferente agora, por isso. Vamos ver como é que a gente chega nela. Vai lá na tela de [EMPRESA] de novo, por favor. Acho que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: eu já entendi aqui. Clica em cima do olhos local, vê se ele é clicável. Isso. Cinco pendentes. Pronto, aceita a turma aí. Inclusive o [EMPRESA]",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: t",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 16]: ali. É, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Aí tem um problema.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: O e-mail é o mesmo. Eu espero que ele mescle. Entendeu? Porque a chave é a mesma.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4798,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Será que não tem que habilitar aquela opção para ele fazer a junção? Tipo aqui. Que agora não dá mais para...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4868,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: é porque aquela pergunta pelo que eu li aqui se a gente tá migrando de um outro [EMPRESA] cadastrado no Identity",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5404,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: s",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 14]: que a gente apagou ele para forçar o reinício.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5474,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: O que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 25]: espero",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: aí é que ele mescle tudo Processando, quatro aceitos, beleza. Já os grupos, cara, aceitos, eu recomendo que você não aceite tudo, né? Você aceite só o que você achar irrelevante aí na seção de grupos, porque isso",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4542,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: vai",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: importar os grupos internos do [EMPRESA], esses aí, ó, e não é legal, cara, fica uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5188,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: bagunça.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Mas, por exemplo, acesso fluido, acesso fluigged, esses grupos aí é os que você vai usar.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: tudo",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4494,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: faz sentido. Teve um cliente que aceitou isso e aí no final ele abraçou a ideia do tipo, como eles iam colocar muita gente, eles estavam amarrando nos grupos do [EMPRESA] mesmo. Foi prático, sabe? Mas o volume de grupo para gerenciar depois ficou meio trabalhoso, um pouco exagerado. Ele duplicou com o [EMPRESA] anterior. Ah, tem que fazer uma limpa então. Nos grupos. Do antigo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 10]: vida. Clica no lapizinho dele. Deixa eu ver aqui se está para apagar. [LOCUTOR 59]: grupo. É... [LOCAL], usuários... Eu acho que ele não vai deixar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4499,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Eu acho que ele não vai deixar. Vê se você pode renomear pelo menos para tirar do caminho. Em produção a gente já não vacila com isso. Talvez a gente possa pedir se tiver que abrir um chamado para todos perguntar se eles podem excluir de lá. No caso, o correto é o que está com olhos.local, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5472,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Pra ele",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: deixar renomear. Ele deixa renomear, não deixa excluir. Tô vendo aqui na parte de grupos, se a gente consegue. Ah cara, pera aí, olha que caminho... Clica no visualizar do grupo que você quer mexer, que você quer excluir. Saí dentro o lixinho cara. [PESSOA] vida né.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5476,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 9]: vida. Deu um erro mas que coisa do usuário.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5493,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Desamarra essa turma aí. [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Tá, agora vamos fazer o teste no login?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5163,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Vamos fazer o teste no login, que é o que a gente tá tentando fazer já, desde o começo. Passa login aí de novo. Click tá configurado. [PESSOA] vida. Mesma coisa. Então não vai",
+      "mantida": true,
+      "probabilidade_relevancia": 0.504,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: ser mais nada",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4683,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: a ver. Deu a mesma coisa. Eu vou falar com a [PESSOA]. Vamos abrir um ticket. Porque geralmente isso aí funciona de primeira. Vou fazer uma coisa antes. Eu vou colar no grupo. Como o bruxo ele tem um acesso mais privilegiado lá. Vamos ver se ele sabe alguma coisa.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4512,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 52]: colar pra ele aqui. E aí E a",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 54]: Estou vendo aqui",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: se",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: a gente tem algum tipo de manobra para fazer mapeamento de atributos manualmente. Não deveria.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5262,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Será que não é aquele... Esse camarada aqui ó. Será que não é? Tem um parâmetro que você disse. Qual que é o... Aqui, aplicativos...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.474,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Acho que eu entendi sua pergunta, vale a pena entrar, deixa eu ver,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4125,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: tem uma",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5024,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: permissividade",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: de",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: usuário. Troca isso aí para e-mail. Troca para e-mail que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5543,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: o",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: e-mail do usuário é o mais consistente entre sistemas, tá? Pode ser isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5505,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [PESSOA] inclusive tem uma observação em algum lugar da [EMPRESA], porque ele pode não ser o mesmo. Tenta de novo aí. Esquece. Encontramos aqui vacilo. Pronto. Pronto, pronto, pronto.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 26]: e-mail é a chave mais consistente, incluindo outros sistemas. Isso aí fala de dores passadas, porque o login, o ID, nem sempre é consistente. Se você for ligar um sistema externo, exemplo um sistema web. Login de web, geralmente é e-mail. E isso afeta. É, mas você vê que mesmo a gente trocando ele aceita, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Não, no Identity, para entrar no Identity, como você ativou deliberadamente o [EMPRESA], ele vai aceitar. Está tudo certo, é cômodo. Mas entre sistemas, por exemplo, o Fluig não sabe a chave login do [EMPRESA], ele não conhece, ele conhece e-mail. Tanto que, vai lá no painel de controle em usuários, eu vou te mostrar uma coisa.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Eu não sei se esse camarada aqui vai ter a permissão.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ops!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: tá com WCM admin? Não, não. Você tem que entrar com o usuário admin da plataforma.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Ah, é verdade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Entra com o outro aí. Aí você não vai ver, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4247,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 7]: o [LOCAL] aí. Olha nós aí. [LOCUTOR 19]: o [LOCAL]? [LOCAL], não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: É o fórum, cara. A gente fundou esse fórum há uns 4 ou 5 anos atrás.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.512,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [PESSOA]. Não sabia, não.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: O fórum da [EMPRESA] tinha caído, sem motivo, e aí a gente fizemos junto e subimos um fórum. Aí hoje eu tenho o fórum da [EMPRESA] e tem o [LOCAL] também, convivendo pacificamente. [LOCAL]. Se tá... Não, é painel de controle, por favor.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4722,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Esse",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: cara não tem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 45]: que ser outro. Quando voc",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5252,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: criou a empresa, você criou um primeiro usuário.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5026,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Esse usu",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 46]: inevitavelmente é o admin.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Só que ele não tá no identity.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4624,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Então faz o seguinte, desliga o identity, loga lá, bota alguém de admin, liga o identity e segue a vida. Pegadinha do malandro. Tem que ter pelo menos um V.I.D. como a de mim. Senão você se lasca tudo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5483,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Isso.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Só isso, salva, sim,",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: a",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 54]: você vai acessar a moda antiga, vai dar lá o perfil de admin e depois reverte.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 40]: dá o papel. É o papel. Se dá o papel, Admin. Não é por grupo, é por papel. Adiciona. Clica no adicionar. Admin. Isso. Se quiser passar para mais alguém, já fornece de uma vez. Eu vou ter que acertar aí. [LOCUTOR 4]: menos trabalho, depois. O [PESSOA], o usar [PESSOA], ele já é de mim, ele já pode dar o acesso para os outros, é mais porque já estamos aqui mesmo. Tá fácil. Boa, agora sei logo como dar PCM de novo, reativa. Todavia, contudo, entretanto, estamos com o SmartSync atualizado. Por uma questão de suporte, talvez um dia a gente esteja bem. Não foi o fim do mundo. Você sabe se a gente consegue...  a gente consegue...",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5039,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Pra eles mudarem isso aqui? Esse domínio aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Cara... Eu acho que dá para colocar um domínio customizado aí. Deixa eu ver se eu acho aqui. TATUS, FLUID, CLOUD, DOMÍNIO, PRÓPELO.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4828,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL]",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 17]: tem [LOCAL] REVERSO instalado na sua estrutura?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Tem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Boa. Deixa eu ver aqui, se pra esse caso ele se aplica. Como tá na nuvem.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4511,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: É, eu poderia fazer um...",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 12]: um redirecionamento.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Um CNAME, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4729,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Eu",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 25]: vou",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: te passar aqui o guia, tô só conferindo, mas assim... Geralmente eu comproxo e reverso. Você tem qual aí?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4809,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Eu uso um Apache aqui",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4525,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: pra... Ah, tá suave. Não, Apache é suave. O guia, inclusive, o guia inicial é com Apache, tá? Acho que já basta. Eu tô vendo aqui se tem alguma pegadinha com... Com... Com Tortos Cloud. Mas assim... Pelo que eu conheço de rede, não. O Proxy Reverso vai ser só um outro caminho. Você vai poder continuar usando esse aí. O Proxy vai fazer a frente. Mandei no chat. Depois você veio.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5086,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Vou usar.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4094,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ainda mais que você já tem pronto, fica mais fácil ainda. É só você colocar lá e ser feliz. Tipo, ruig.hopr.com.br. É uma coisa assim. [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4939,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Vou dar uma olhada nisso aqui.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4407,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Sim, eu tô vendo aqui se tem algo mais com o Totus Cloud, mas eu acho que não tá.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4279,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL]. Bem, então temos o Admin que",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4776,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: tem que desativar o",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5106,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Identity, né, quando se der alguma merda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Se der alguma merda, você desativa e usa ele sempre.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5121,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Então normalmente o usuário ele vai logar, primeiro ele vai logar, deixa eu fazer uma simulação aqui. O cara vai logar aqui. Se ele tiver logado no IDENTITY. E ele carrega o IDENTITY, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ele carrega o IDENTITY.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Não tem uma forma, por exemplo, do camarada logar aqui, ele já abriu o FLUID, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Tem que passar pelo Identity. Assim, você pode ter, por exemplo, você vai ter ali uma URL de uma notificação de atividade pendente em processo, por exemplo. Aí, ele vai receber o e-mail, vai receber um link. Esse link vai levar para o Fluig. Fluig vai ver se essa pessoa já está com o cookie de autenticação. Se não tiver, vai jogar ela para o Identity. De todo jeito.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [EMPRESA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.52,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Entendeu? A ideia do Identity é que essa tela seja o Launchpad de todos os aplicativos do ecossistema da empresa, do cliente. Então, por exemplo, amanhã você vai ter aí um cliente de e-mail, amanhã você vai ter aí um outro aplicativo desktop. Existem algumas formas de automatizar o login. Geralmente você vai ter SEML, eu acho que o Identity já suporta OpenID também, não me lembro de cabeça. Para aplicativos desktop, você instala um agente que vai tentar reconhecer o formulário de login do aplicativo e vai fazer login sem automaticamente ali. É o",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: SSO lá, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: É, é o SSO lá. Ele tenta automatizar isso também, que ele vai disparar o aplicativo local, vai reconhecer o form e você vai meio que... Sabe a automação de tela na web, quando você vai definir ali em alguma ferramenta, ah, esse campo é login, esse campo é a senha, não sei o quê. Já viu isso?",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 12]: a mesma coisa com desktop. Não funciona sempre. Eu já testei alguns aplicativos antigos em Delphi. Funcionou, sabe? Funcionou. O setup foi meio chatinho, mas funcionou. Agora, a maior parte das coisas hoje é web, cara. Por exemplo, você tem aí qual [EMPRESA]? É TOTOS, não TOTOS? Algum outro? A gente tá mudando pro RM, né? [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: O RM suporta login via identity nativamente. Isso não vai ter problema. Ele vai suportar via SAML.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Então,",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: tá tudo certo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3936,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: É isso aí. Obrigado.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.3913,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Cara, como eu te falei, eu já consegui com Delphi. Não foi problema. É só mesmo usar o aplicativo lá para reconhecer o campo de login e campo de senha.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 22]: tem",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: um porém. É isso aí. E tem um porém aí. A credencial dentro dele também é do [EMPRESA]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5361,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Não, daí o nosso sistema n",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4477,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: é.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 12]: uma credencial à parte. O Identity vai salvar essa credencial quando a pessoa vai fazer o login inicial no aplicativo, ele vai informar qual é o login e senha, vai ficar salvo de forma segura no Identity. E aí, quando você clica nele, ele vai injetar essa credencial no form do [EMPRESA], do aplicativo. É meio força bruta, sabe? Mas funciona. É um pouco chato de configurar mesmo, mas se tem essa opção. Se já estão indo para o RM, sinceramente eu não sei se faz sentido. Para qualquer outro aplicativo web, faz todo sentido automatizar login, porque aí você cria o hábito do Launchpad. Eu vou te colar aqui também no chat uma página para você poder ter sempre na mão que é o status do Identity, porque às vezes costuma dar alguma agarrada em alguma coisa, às vezes atraso no login, às vezes cai mesmo, para você poder ter produtividade, saca? Conseguir de",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: repente dedativar emergencialmente.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCAL]?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Mas é isso, cara. E assim, qualquer dúvida que você tiver ao longo do tempo, a gente vai... joga no grupo. O que a gente não souber, que nem esse Smart Sync novo, que foi uma coisa bem nova pra mim. A gente vai desembolar junto e segue a vida.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5249,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL], então.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [PESSOA], você tá aí ainda?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 23]: sim.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Quais são os próximos passos agora que a gente fechou a Identity?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5253,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: E o [EMPRESA] não chegou a me passar. Posso estar conformando com ele, informando...",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: É, a gente pergunta",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: pra",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "curta"
+    },
+    {
+      "linha": "[LOCUTOR 65]: ele depois.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: A gente tá... A gente tá... A gente tá estruturando ali o sistema pra fazer um GED nele, né?",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5115,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Vocês v",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4496,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 62]: começar pelo GED, então. [PESSOA].",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: Isso, daí a gente já... Na verdade, a gente já fez o treinamento lá com o [PESSOA] e tudo mais.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4743,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: [LOCUTOR 1]: eu criei agora o documento pra aquelas variáveis lá, né? Tô fazendo os testes ali pra... Para a menina fazer uma revisão, ele puxar a variável, trocar o nome, ele puxar a variável. Mas, a priori, eu até já desenhei ali o processo ali, que tem o fuxograma lá e tudo mais. Mas, basicamente, o nosso primeiro grande projeto vai ser o GED. [PESSOA]. [PESSOA]. Então, vou ficar antenando ali com o [PESSOA]. Porque cedo ou tarde a gente vai agir em alguma coisa junto aí de novo, mas... Cara, vocês estão com o bruxo aí? O bruxo é... Ele é ímpar, cara. Ele ajudou a construir a ferramenta. Então, ele sabe mais do que ninguém como ela funciona e como implementar bem.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCUTOR 6]: o conhecimento de processo que",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 65]: ele tem. Perto dele, eu sou [PESSOA]. Sou um menino, um bebê. Ele deve ter uns 20 anos de estrada, gente, no mínimo.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5054,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: 20 anos de",
+      "mantida": true,
+      "probabilidade_relevancia": 0.5814,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: estrada, o [PESSOA]. Eu comecei com o Fluid em 2009. Ele estava lá já quando o Fluig ainda estava nascendo como Fluig, ele era o Totus SM, anteriormente o Brava SM. Então ele pegou desde a fase embrionária e foi ajudando a lapidar o Fluig do jeito que a gente conhece ele hoje. Então cara, eu desconheço pessoa melhor que ele no país para falar de Fluig, sério mesmo.",
+      "mantida": true,
+      "probabilidade_relevancia": 1.0,
+      "motivo": "regra-negocio"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 26]: saco dele est",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 16]: lá embaixo agora, mas é verdade.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: O cara é foda.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Ele é foda. Ele é foda mesmo. Bom, gente. Missão cumprida por enquanto.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.451,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL], meu amigo.",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4488,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Todos vão almoçar em paz hoje.",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4854,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]:",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "vazia"
+    },
+    {
+      "linha": "[LOCUTOR 41]: tá, gente. Estamos aí. Precisou, pode pingar lá no chat. Tamo junto. Meu contato no Teams é esse aí também. O Teams, aquele pessoal. Fiquem à vontade e a gente vai desembolando. [LOCAL]! Muito obrigado viu!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4318,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: Obrigado!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.0,
+      "motivo": "ruido-curto"
+    },
+    {
+      "linha": "[LOCUTOR 65]: Combinado gente!",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 66]: [LOCUTOR 32]: abraço",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: para",
+      "mantida": true,
+      "probabilidade_relevancia": 0.552,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 65]: vocês! Um abraço!",
+      "mantida": false,
+      "probabilidade_relevancia": 0.4505,
+      "motivo": "ml"
+    },
+    {
+      "linha": "[LOCUTOR 25]: [LOCAL]!",
+      "mantida": true,
+      "probabilidade_relevancia": 0.4855,
+      "motivo": "ml"
+    }
+  ]
+}
